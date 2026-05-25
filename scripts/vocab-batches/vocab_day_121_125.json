@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "callback-request-phrase",
+    "word": "callback request",
+    "baseWord": "callback",
+    "type": "phrase",
+    "meaning": "callback request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the callback request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật callback request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "callback request",
+      "callback request review",
+      "callback request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "callback"
+    ],
+    "day": 121
+  },
+  {
+    "id": "case-number-phrase",
+    "word": "case number",
+    "baseWord": "case",
+    "type": "phrase",
+    "meaning": "case number; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the case number after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật case number sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "case number",
+      "case number review",
+      "case number process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "case"
+    ],
+    "day": 121
+  },
+  {
+    "id": "customer-inquiry-phrase",
+    "word": "customer inquiry",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer inquiry; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer inquiry after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer inquiry sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer inquiry",
+      "customer inquiry review",
+      "customer inquiry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 121
+  },
+  {
+    "id": "customer-portal-phrase",
+    "word": "customer portal",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer portal; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer portal after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer portal sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer portal",
+      "customer portal review",
+      "customer portal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 121
+  },
+  {
+    "id": "escalation-path-phrase",
+    "word": "escalation path",
+    "baseWord": "escalation",
+    "type": "phrase",
+    "meaning": "escalation path; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the escalation path after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật escalation path sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "escalation path",
+      "escalation path review",
+      "escalation path process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "escalation"
+    ],
+    "day": 121
+  },
+  {
+    "id": "first-response-phrase",
+    "word": "first response",
+    "baseWord": "first",
+    "type": "phrase",
+    "meaning": "first response; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the first response after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật first response sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "first response",
+      "first response review",
+      "first response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "first"
+    ],
+    "day": 121
+  },
+  {
+    "id": "help-desk-phrase",
+    "word": "help desk",
+    "baseWord": "help",
+    "type": "phrase",
+    "meaning": "help desk; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the help desk after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật help desk sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "help desk",
+      "help desk review",
+      "help desk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "help"
+    ],
+    "day": 121
+  },
+  {
+    "id": "knowledge-base-phrase",
+    "word": "knowledge base",
+    "baseWord": "knowledge",
+    "type": "phrase",
+    "meaning": "knowledge base; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the knowledge base after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật knowledge base sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "knowledge base",
+      "knowledge base review",
+      "knowledge base process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "knowledge"
+    ],
+    "day": 121
+  },
+  {
+    "id": "live-chat-phrase",
+    "word": "live chat",
+    "baseWord": "live",
+    "type": "phrase",
+    "meaning": "live chat; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the live chat after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật live chat sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "live chat",
+      "live chat review",
+      "live chat process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "live"
+    ],
+    "day": 121
+  },
+  {
+    "id": "resolution-time-phrase",
+    "word": "resolution time",
+    "baseWord": "resolution",
+    "type": "phrase",
+    "meaning": "resolution time; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the resolution time after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật resolution time sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "resolution time",
+      "resolution time review",
+      "resolution time process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "resolution"
+    ],
+    "day": 121
+  },
+  {
+    "id": "response-time-phrase",
+    "word": "response time",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "response time; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the response time after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật response time sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "response time",
+      "response time review",
+      "response time process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "response"
+    ],
+    "day": 121
+  },
+  {
+    "id": "self-service-option-phrase",
+    "word": "self-service option",
+    "baseWord": "self-service",
+    "type": "phrase",
+    "meaning": "self-service option; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the self-service option after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật self-service option sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "self-service option",
+      "self-service option review",
+      "self-service option process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "self-service"
+    ],
+    "day": 121
+  },
+  {
+    "id": "service-queue-phrase",
+    "word": "service queue",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service queue; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service queue after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service queue sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service queue",
+      "service queue review",
+      "service queue process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 121
+  },
+  {
+    "id": "service-representative-phrase",
+    "word": "service representative",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service representative; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service representative after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service representative sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service representative",
+      "service representative review",
+      "service representative process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 121
+  },
+  {
+    "id": "service-request-phrase",
+    "word": "service request",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service request",
+      "service request review",
+      "service request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 121
+  },
+  {
+    "id": "support-agent-phrase",
+    "word": "support agent",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support agent; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the support agent after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support agent sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support agent",
+      "support agent review",
+      "support agent process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 121
+  },
+  {
+    "id": "support-hours-phrase",
+    "word": "support hours",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support hours; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the support hours after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support hours sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support hours",
+      "support hours review",
+      "support hours process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 121
+  },
+  {
+    "id": "support-ticket-phrase",
+    "word": "support ticket",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support ticket; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the support ticket after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support ticket sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support ticket",
+      "support ticket review",
+      "support ticket process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 121
+  },
+  {
+    "id": "technical-assistance-phrase",
+    "word": "technical assistance",
+    "baseWord": "technical",
+    "type": "phrase",
+    "meaning": "technical assistance; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the technical assistance after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật technical assistance sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "technical assistance",
+      "technical assistance review",
+      "technical assistance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "technical"
+    ],
+    "day": 121
+  },
+  {
+    "id": "troubleshooting-step-phrase",
+    "word": "troubleshooting step",
+    "baseWord": "troubleshooting",
+    "type": "phrase",
+    "meaning": "troubleshooting step; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the troubleshooting step after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật troubleshooting step sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "troubleshooting step",
+      "troubleshooting step review",
+      "troubleshooting step process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "troubleshooting"
+    ],
+    "day": 121
+  },
+  {
+    "id": "account-verification-phrase",
+    "word": "account verification",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "account verification; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the account verification after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật account verification sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "account verification",
+      "account verification review",
+      "account verification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 122
+  },
+  {
+    "id": "billing-inquiry-phrase",
+    "word": "billing inquiry",
+    "baseWord": "billing",
+    "type": "phrase",
+    "meaning": "billing inquiry; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the billing inquiry after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật billing inquiry sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "billing inquiry",
+      "billing inquiry review",
+      "billing inquiry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "billing"
+    ],
+    "day": 122
+  },
+  {
+    "id": "client-concern-phrase",
+    "word": "client concern",
+    "baseWord": "client",
+    "type": "phrase",
+    "meaning": "client concern; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the client concern after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật client concern sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "client concern",
+      "client concern review",
+      "client concern process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "client"
+    ],
+    "day": 122
+  },
+  {
+    "id": "complaint-handling-phrase",
+    "word": "complaint handling",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "complaint handling; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the complaint handling after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật complaint handling sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "complaint handling",
+      "complaint handling review",
+      "complaint handling process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "complaint"
+    ],
+    "day": 122
+  },
+  {
+    "id": "customer-care-phrase",
+    "word": "customer care",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer care; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer care after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer care sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer care",
+      "customer care review",
+      "customer care process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 122
+  },
+  {
+    "id": "customer-retention-phrase",
+    "word": "customer retention",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer retention; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer retention after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer retention sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer retention",
+      "customer retention review",
+      "customer retention process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 122
+  },
+  {
+    "id": "customer-satisfaction-phrase",
+    "word": "customer satisfaction",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer satisfaction; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer satisfaction after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer satisfaction sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer satisfaction",
+      "customer satisfaction review",
+      "customer satisfaction process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 122
+  },
+  {
+    "id": "feedback-form-phrase",
+    "word": "feedback form",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "feedback form; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the feedback form after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật feedback form sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "feedback form",
+      "feedback form review",
+      "feedback form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "feedback"
+    ],
+    "day": 122
+  },
+  {
+    "id": "follow-up-call-phrase",
+    "word": "follow-up call",
+    "baseWord": "follow-up",
+    "type": "phrase",
+    "meaning": "follow-up call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the follow-up call after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật follow-up call sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "follow-up call",
+      "follow-up call review",
+      "follow-up call process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "follow-up"
+    ],
+    "day": 122
+  },
+  {
+    "id": "issue-resolution-phrase",
+    "word": "issue resolution",
+    "baseWord": "issue",
+    "type": "phrase",
+    "meaning": "issue resolution; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the issue resolution after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật issue resolution sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "issue resolution",
+      "issue resolution review",
+      "issue resolution process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "issue"
+    ],
+    "day": 122
+  },
+  {
+    "id": "outage-notice-phrase",
+    "word": "outage notice",
+    "baseWord": "outage",
+    "type": "phrase",
+    "meaning": "outage notice; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the outage notice after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật outage notice sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "outage notice",
+      "outage notice review",
+      "outage notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "outage"
+    ],
+    "day": 122
+  },
+  {
+    "id": "priority-case-phrase",
+    "word": "priority case",
+    "baseWord": "priority",
+    "type": "phrase",
+    "meaning": "priority case; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the priority case after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật priority case sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "priority case",
+      "priority case review",
+      "priority case process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "priority"
+    ],
+    "day": 122
+  },
+  {
+    "id": "refund-request-phrase",
+    "word": "refund request",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "refund request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the refund request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật refund request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "refund request",
+      "refund request review",
+      "refund request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "refund"
+    ],
+    "day": 122
+  },
+  {
+    "id": "replacement-order-phrase",
+    "word": "replacement order",
+    "baseWord": "replacement",
+    "type": "phrase",
+    "meaning": "replacement order; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the replacement order after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật replacement order sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "replacement order",
+      "replacement order review",
+      "replacement order process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "replacement"
+    ],
+    "day": 122
+  },
+  {
+    "id": "return-authorization-phrase",
+    "word": "return authorization",
+    "baseWord": "return",
+    "type": "phrase",
+    "meaning": "return authorization; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the return authorization after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật return authorization sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "return authorization",
+      "return authorization review",
+      "return authorization process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "return"
+    ],
+    "day": 122
+  },
+  {
+    "id": "service-interruption-phrase",
+    "word": "service interruption",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service interruption; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service interruption after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service interruption sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service interruption",
+      "service interruption review",
+      "service interruption process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 122
+  },
+  {
+    "id": "service-rating-phrase",
+    "word": "service rating",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service rating; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service rating after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service rating sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service rating",
+      "service rating review",
+      "service rating process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 122
+  },
+  {
+    "id": "service-recovery-phrase",
+    "word": "service recovery",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service recovery; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service recovery after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service recovery sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service recovery",
+      "service recovery review",
+      "service recovery process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 122
+  },
+  {
+    "id": "urgent-request-phrase",
+    "word": "urgent request",
+    "baseWord": "urgent",
+    "type": "phrase",
+    "meaning": "urgent request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the urgent request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật urgent request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "urgent request",
+      "urgent request review",
+      "urgent request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "urgent"
+    ],
+    "day": 122
+  },
+  {
+    "id": "warranty-claim-phrase",
+    "word": "warranty claim",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "warranty claim; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the warranty claim after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật warranty claim sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "warranty claim",
+      "warranty claim review",
+      "warranty claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "warranty"
+    ],
+    "day": 122
+  },
+  {
+    "id": "call-log-phrase",
+    "word": "call log",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "call log; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the call log after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật call log sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "call log",
+      "call log review",
+      "call log process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "call"
+    ],
+    "day": 123
+  },
+  {
+    "id": "case-history-phrase",
+    "word": "case history",
+    "baseWord": "case",
+    "type": "phrase",
+    "meaning": "case history; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the case history after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật case history sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "case history",
+      "case history review",
+      "case history process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "case"
+    ],
+    "day": 123
+  },
+  {
+    "id": "chat-transcript-phrase",
+    "word": "chat transcript",
+    "baseWord": "chat",
+    "type": "phrase",
+    "meaning": "chat transcript; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the chat transcript after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật chat transcript sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "chat transcript",
+      "chat transcript review",
+      "chat transcript process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "chat"
+    ],
+    "day": 123
+  },
+  {
+    "id": "common-issue-phrase",
+    "word": "common issue",
+    "baseWord": "common",
+    "type": "phrase",
+    "meaning": "common issue; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the common issue after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật common issue sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "common issue",
+      "common issue review",
+      "common issue process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "common"
+    ],
+    "day": 123
+  },
+  {
+    "id": "contact-center-phrase",
+    "word": "contact center",
+    "baseWord": "contact",
+    "type": "phrase",
+    "meaning": "contact center; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the contact center after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật contact center sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "contact center",
+      "contact center review",
+      "contact center process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "contact"
+    ],
+    "day": 123
+  },
+  {
+    "id": "customer-record-phrase",
+    "word": "customer record",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer record; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer record after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer record sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer record",
+      "customer record review",
+      "customer record process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 123
+  },
+  {
+    "id": "email-support-phrase",
+    "word": "email support",
+    "baseWord": "email",
+    "type": "phrase",
+    "meaning": "email support; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the email support after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật email support sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "email support",
+      "email support review",
+      "email support process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "email"
+    ],
+    "day": 123
+  },
+  {
+    "id": "inbound-call-phrase",
+    "word": "inbound call",
+    "baseWord": "inbound",
+    "type": "phrase",
+    "meaning": "inbound call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the inbound call after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật inbound call sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "inbound call",
+      "inbound call review",
+      "inbound call process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "inbound"
+    ],
+    "day": 123
+  },
+  {
+    "id": "outbound-call-phrase",
+    "word": "outbound call",
+    "baseWord": "outbound",
+    "type": "phrase",
+    "meaning": "outbound call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the outbound call after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật outbound call sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "outbound call",
+      "outbound call review",
+      "outbound call process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "outbound"
+    ],
+    "day": 123
+  },
+  {
+    "id": "phone-support-phrase",
+    "word": "phone support",
+    "baseWord": "phone",
+    "type": "phrase",
+    "meaning": "phone support; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the phone support after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật phone support sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "phone support",
+      "phone support review",
+      "phone support process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "phone"
+    ],
+    "day": 123
+  },
+  {
+    "id": "remote-assistance-phrase",
+    "word": "remote assistance",
+    "baseWord": "remote",
+    "type": "phrase",
+    "meaning": "remote assistance; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the remote assistance after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật remote assistance sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "remote assistance",
+      "remote assistance review",
+      "remote assistance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "remote"
+    ],
+    "day": 123
+  },
+  {
+    "id": "resolution-note-phrase",
+    "word": "resolution note",
+    "baseWord": "resolution",
+    "type": "phrase",
+    "meaning": "resolution note; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the resolution note after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật resolution note sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "resolution note",
+      "resolution note review",
+      "resolution note process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "resolution"
+    ],
+    "day": 123
+  },
+  {
+    "id": "response-template-phrase",
+    "word": "response template",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "response template; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the response template after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật response template sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "response template",
+      "response template review",
+      "response template process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "response"
+    ],
+    "day": 123
+  },
+  {
+    "id": "service-level-phrase",
+    "word": "service level",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service level; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service level after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service level sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service level",
+      "service level review",
+      "service level process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 123
+  },
+  {
+    "id": "service-script-phrase",
+    "word": "service script",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service script; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service script after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service script sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service script",
+      "service script review",
+      "service script process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 123
+  },
+  {
+    "id": "support-metric-phrase",
+    "word": "support metric",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support metric; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the support metric after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support metric sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support metric",
+      "support metric review",
+      "support metric process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 123
+  },
+  {
+    "id": "support-workflow-phrase",
+    "word": "support workflow",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support workflow; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the support workflow after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support workflow sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support workflow",
+      "support workflow review",
+      "support workflow process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 123
+  },
+  {
+    "id": "ticket-status-phrase",
+    "word": "ticket status",
+    "baseWord": "ticket",
+    "type": "phrase",
+    "meaning": "ticket status; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the ticket status after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật ticket status sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "ticket status",
+      "ticket status review",
+      "ticket status process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ticket"
+    ],
+    "day": 123
+  },
+  {
+    "id": "user-manual-phrase",
+    "word": "user manual",
+    "baseWord": "user",
+    "type": "phrase",
+    "meaning": "user manual; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the user manual after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật user manual sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "user manual",
+      "user manual review",
+      "user manual process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "user"
+    ],
+    "day": 123
+  },
+  {
+    "id": "walkthrough-guide-phrase",
+    "word": "walkthrough guide",
+    "baseWord": "walkthrough",
+    "type": "phrase",
+    "meaning": "walkthrough guide; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the walkthrough guide after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật walkthrough guide sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "walkthrough guide",
+      "walkthrough guide review",
+      "walkthrough guide process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "walkthrough"
+    ],
+    "day": 123
+  },
+  {
+    "id": "account-access-phrase",
+    "word": "account access",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "account access; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the account access after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật account access sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "account access",
+      "account access review",
+      "account access process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 124
+  },
+  {
+    "id": "cancellation-request-phrase",
+    "word": "cancellation request",
+    "baseWord": "cancellation",
+    "type": "phrase",
+    "meaning": "cancellation request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the cancellation request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật cancellation request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "cancellation request",
+      "cancellation request review",
+      "cancellation request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cancellation"
+    ],
+    "day": 124
+  },
+  {
+    "id": "compensation-offer-phrase",
+    "word": "compensation offer",
+    "baseWord": "compensation",
+    "type": "phrase",
+    "meaning": "compensation offer; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the compensation offer after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật compensation offer sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "compensation offer",
+      "compensation offer review",
+      "compensation offer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compensation"
+    ],
+    "day": 124
+  },
+  {
+    "id": "customer-dispute-phrase",
+    "word": "customer dispute",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer dispute; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer dispute after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer dispute sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer dispute",
+      "customer dispute review",
+      "customer dispute process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 124
+  },
+  {
+    "id": "customer-escalation-phrase",
+    "word": "customer escalation",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer escalation; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer escalation after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer escalation sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer escalation",
+      "customer escalation review",
+      "customer escalation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 124
+  },
+  {
+    "id": "damaged-product-phrase",
+    "word": "damaged product",
+    "baseWord": "damaged",
+    "type": "phrase",
+    "meaning": "damaged product; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the damaged product after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật damaged product sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "damaged product",
+      "damaged product review",
+      "damaged product process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "damaged"
+    ],
+    "day": 124
+  },
+  {
+    "id": "delayed-shipment-phrase",
+    "word": "delayed shipment",
+    "baseWord": "delayed",
+    "type": "phrase",
+    "meaning": "delayed shipment; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the delayed shipment after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật delayed shipment sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "delayed shipment",
+      "delayed shipment review",
+      "delayed shipment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "delayed"
+    ],
+    "day": 124
+  },
+  {
+    "id": "delivery-update-phrase",
+    "word": "delivery update",
+    "baseWord": "delivery",
+    "type": "phrase",
+    "meaning": "delivery update; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the delivery update after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật delivery update sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "delivery update",
+      "delivery update review",
+      "delivery update process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "delivery"
+    ],
+    "day": 124
+  },
+  {
+    "id": "goodwill-credit-phrase",
+    "word": "goodwill credit",
+    "baseWord": "goodwill",
+    "type": "phrase",
+    "meaning": "goodwill credit; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the goodwill credit after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật goodwill credit sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "goodwill credit",
+      "goodwill credit review",
+      "goodwill credit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "goodwill"
+    ],
+    "day": 124
+  },
+  {
+    "id": "incorrect-charge-phrase",
+    "word": "incorrect charge",
+    "baseWord": "incorrect",
+    "type": "phrase",
+    "meaning": "incorrect charge; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the incorrect charge after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật incorrect charge sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "incorrect charge",
+      "incorrect charge review",
+      "incorrect charge process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "incorrect"
+    ],
+    "day": 124
+  },
+  {
+    "id": "missing-item-phrase",
+    "word": "missing item",
+    "baseWord": "missing",
+    "type": "phrase",
+    "meaning": "missing item; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the missing item after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật missing item sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "missing item",
+      "missing item review",
+      "missing item process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "missing"
+    ],
+    "day": 124
+  },
+  {
+    "id": "order-tracking-phrase",
+    "word": "order tracking",
+    "baseWord": "order",
+    "type": "phrase",
+    "meaning": "order tracking; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the order tracking after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật order tracking sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "order tracking",
+      "order tracking review",
+      "order tracking process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "order"
+    ],
+    "day": 124
+  },
+  {
+    "id": "password-reset-phrase",
+    "word": "password reset",
+    "baseWord": "password",
+    "type": "phrase",
+    "meaning": "password reset; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the password reset after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật password reset sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "password reset",
+      "password reset review",
+      "password reset process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "password"
+    ],
+    "day": 124
+  },
+  {
+    "id": "quality-concern-phrase",
+    "word": "quality concern",
+    "baseWord": "quality",
+    "type": "phrase",
+    "meaning": "quality concern; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the quality concern after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật quality concern sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "quality concern",
+      "quality concern review",
+      "quality concern process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "quality"
+    ],
+    "day": 124
+  },
+  {
+    "id": "repair-request-phrase",
+    "word": "repair request",
+    "baseWord": "repair",
+    "type": "phrase",
+    "meaning": "repair request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the repair request after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật repair request sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "repair request",
+      "repair request review",
+      "repair request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "repair"
+    ],
+    "day": 124
+  },
+  {
+    "id": "service-apology-phrase",
+    "word": "service apology",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service apology; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service apology after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service apology sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service apology",
+      "service apology review",
+      "service apology process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 124
+  },
+  {
+    "id": "service-complaint-phrase",
+    "word": "service complaint",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service complaint; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service complaint after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service complaint sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service complaint",
+      "service complaint review",
+      "service complaint process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 124
+  },
+  {
+    "id": "service-guarantee-phrase",
+    "word": "service guarantee",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service guarantee; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service guarantee after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service guarantee sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service guarantee",
+      "service guarantee review",
+      "service guarantee process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 124
+  },
+  {
+    "id": "service-outage-phrase",
+    "word": "service outage",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service outage; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service outage after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service outage sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service outage",
+      "service outage review",
+      "service outage process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 124
+  },
+  {
+    "id": "subscription-renewal-phrase",
+    "word": "subscription renewal",
+    "baseWord": "subscription",
+    "type": "phrase",
+    "meaning": "subscription renewal; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the subscription renewal after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật subscription renewal sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "subscription renewal",
+      "subscription renewal review",
+      "subscription renewal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "subscription"
+    ],
+    "day": 124
+  },
+  {
+    "id": "active-listening-phrase",
+    "word": "active listening",
+    "baseWord": "active",
+    "type": "phrase",
+    "meaning": "active listening; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the active listening after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật active listening sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "active listening",
+      "active listening review",
+      "active listening process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "active"
+    ],
+    "day": 125
+  },
+  {
+    "id": "after-sales-service-phrase",
+    "word": "after-sales service",
+    "baseWord": "after-sale",
+    "type": "phrase",
+    "meaning": "after-sales service; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the after-sales service after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật after-sales service sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "after-sales service",
+      "after-sales service review",
+      "after-sales service process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "after-sale"
+    ],
+    "day": 125
+  },
+  {
+    "id": "agent-training-phrase",
+    "word": "agent training",
+    "baseWord": "agent",
+    "type": "phrase",
+    "meaning": "agent training; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the agent training after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật agent training sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "agent training",
+      "agent training review",
+      "agent training process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "agent"
+    ],
+    "day": 125
+  },
+  {
+    "id": "calm-response-phrase",
+    "word": "calm response",
+    "baseWord": "calm",
+    "type": "phrase",
+    "meaning": "calm response; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the calm response after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật calm response sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "calm response",
+      "calm response review",
+      "calm response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "calm"
+    ],
+    "day": 125
+  },
+  {
+    "id": "case-reassignment-phrase",
+    "word": "case reassignment",
+    "baseWord": "case",
+    "type": "phrase",
+    "meaning": "case reassignment; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the case reassignment after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật case reassignment sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "case reassignment",
+      "case reassignment review",
+      "case reassignment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "case"
+    ],
+    "day": 125
+  },
+  {
+    "id": "conflict-resolution-phrase",
+    "word": "conflict resolution",
+    "baseWord": "conflict",
+    "type": "phrase",
+    "meaning": "conflict resolution; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the conflict resolution after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật conflict resolution sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "conflict resolution",
+      "conflict resolution review",
+      "conflict resolution process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "conflict"
+    ],
+    "day": 125
+  },
+  {
+    "id": "courtesy-phrase-phrase",
+    "word": "courtesy phrase",
+    "baseWord": "courtesy",
+    "type": "phrase",
+    "meaning": "courtesy phrase; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the courtesy phrase after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật courtesy phrase sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "courtesy phrase",
+      "courtesy phrase review",
+      "courtesy phrase process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "courtesy"
+    ],
+    "day": 125
+  },
+  {
+    "id": "customer-callback-phrase",
+    "word": "customer callback",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer callback; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer callback after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer callback sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer callback",
+      "customer callback review",
+      "customer callback process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 125
+  },
+  {
+    "id": "customer-empathy-phrase",
+    "word": "customer empathy",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer empathy; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer empathy after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer empathy sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer empathy",
+      "customer empathy review",
+      "customer empathy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 125
+  },
+  {
+    "id": "customer-facing-team-phrase",
+    "word": "customer-facing team",
+    "baseWord": "customer-facing",
+    "type": "phrase",
+    "meaning": "customer-facing team; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the customer-facing team after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer-facing team sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "customer-facing team",
+      "customer-facing team review",
+      "customer-facing team process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer-facing"
+    ],
+    "day": 125
+  },
+  {
+    "id": "difficult-caller-phrase",
+    "word": "difficult caller",
+    "baseWord": "difficult",
+    "type": "phrase",
+    "meaning": "difficult caller; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the difficult caller after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật difficult caller sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "difficult caller",
+      "difficult caller review",
+      "difficult caller process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "difficult"
+    ],
+    "day": 125
+  },
+  {
+    "id": "retention-specialist-phrase",
+    "word": "retention specialist",
+    "baseWord": "retention",
+    "type": "phrase",
+    "meaning": "retention specialist; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the retention specialist after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật retention specialist sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "retention specialist",
+      "retention specialist review",
+      "retention specialist process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "retention"
+    ],
+    "day": 125
+  },
+  {
+    "id": "satisfaction-survey-phrase",
+    "word": "satisfaction survey",
+    "baseWord": "satisfaction",
+    "type": "phrase",
+    "meaning": "satisfaction survey; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the satisfaction survey after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật satisfaction survey sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "satisfaction survey",
+      "satisfaction survey review",
+      "satisfaction survey process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "satisfaction"
+    ],
+    "day": 125
+  },
+  {
+    "id": "service-backlog-phrase",
+    "word": "service backlog",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service backlog; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service backlog after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service backlog sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service backlog",
+      "service backlog review",
+      "service backlog process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 125
+  },
+  {
+    "id": "service-etiquette-phrase",
+    "word": "service etiquette",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service etiquette; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service etiquette after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service etiquette sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service etiquette",
+      "service etiquette review",
+      "service etiquette process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 125
+  },
+  {
+    "id": "service-improvement-phrase",
+    "word": "service improvement",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service improvement; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the service improvement after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service improvement sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service improvement",
+      "service improvement review",
+      "service improvement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 125
+  },
+  {
+    "id": "service-protocol-phrase",
+    "word": "service protocol",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service protocol; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the service protocol after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật service protocol sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "service protocol",
+      "service protocol review",
+      "service protocol process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 125
+  },
+  {
+    "id": "support-dashboard-phrase",
+    "word": "support dashboard",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support dashboard; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the support dashboard after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support dashboard sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support dashboard",
+      "support dashboard review",
+      "support dashboard process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 125
+  },
+  {
+    "id": "support-supervisor-phrase",
+    "word": "support supervisor",
+    "baseWord": "support",
+    "type": "phrase",
+    "meaning": "support supervisor; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The support manager updated the support supervisor after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật support supervisor sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "support supervisor",
+      "support supervisor review",
+      "support supervisor process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "support"
+    ],
+    "day": 125
+  },
+  {
+    "id": "ticket-closure-phrase",
+    "word": "ticket closure",
+    "baseWord": "ticket",
+    "type": "phrase",
+    "meaning": "ticket closure; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "pronunciation": "",
+    "topic": "Customer Support & Service",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The support manager updated the ticket closure after speaking with the customer.",
+    "exampleVi": "Quản lý hỗ trợ đã cập nhật ticket closure sau khi trao đổi với khách hàng.",
+    "collocations": [
+      "ticket closure",
+      "ticket closure review",
+      "ticket closure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ticket"
+    ],
+    "day": 125
+  }
+]

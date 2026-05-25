@@ -1,38 +1,34 @@
 [
   {
-    "id": "resolve-verb",
-    "word": "resolve",
-    "baseWord": "resolve",
+    "id": "accommodate-verb",
+    "word": "accommodate",
+    "baseWord": "accommodate",
     "type": "verb",
-    "meaning": "giải quyết",
-    "pronunciation": "/rɪˈzɑːlv/",
+    "meaning": "đáp ứng, chiều theo",
+    "pronunciation": "/əˈkɑːmədeɪt/",
     "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Our team will resolve the issue within 24 hours.",
-    "exampleVi": "Đội ngũ của chúng tôi sẽ giải quyết vấn đề trong vòng 24 giờ.",
-    "collocations": ["resolve an issue", "resolve a dispute", "resolve a complaint"],
-    "synonyms": ["settle", "fix"],
-    "wordFamily": ["resolution", "resolved", "unresolved"],
-    "day": 26
-  },
-  {
-    "id": "assistance-noun",
-    "word": "assistance",
-    "baseWord": "assist",
-    "type": "noun",
-    "meaning": "sự hỗ trợ",
-    "pronunciation": "/əˈsɪstəns/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Please do not hesitate to contact us if you need further assistance.",
-    "exampleVi": "Xin đừng ngần ngại liên hệ chúng tôi nếu bạn cần hỗ trợ thêm.",
-    "collocations": ["provide assistance", "technical assistance", "request assistance"],
-    "synonyms": ["help", "support", "aid"],
-    "wordFamily": ["assist", "assistant", "assisted"],
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We will do our best to accommodate your special request.",
+    "exampleVi": "Chúng tôi sẽ cố gắng hết sức để đáp ứng yêu cầu đặc biệt của bạn.",
+    "collocations": [
+      "accommodate a request",
+      "accommodate guests",
+      "accommodate special needs"
+    ],
+    "synonyms": [
+      "cater to",
+      "oblige"
+    ],
+    "wordFamily": [
+      "accommodation",
+      "accommodating"
+    ],
     "day": 26
   },
   {
@@ -45,228 +41,61 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 5"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 5"
+    ],
     "example": "We sincerely apologize for the delay in processing your order.",
     "exampleVi": "Chúng tôi chân thành xin lỗi vì sự chậm trễ trong việc xử lý đơn hàng của bạn.",
-    "collocations": ["apologize for the inconvenience", "sincerely apologize", "apologize for the delay"],
-    "synonyms": ["say sorry", "express regret"],
-    "wordFamily": ["apology", "apologetic", "apologetically"],
+    "collocations": [
+      "apologize for the inconvenience",
+      "sincerely apologize",
+      "apologize for the delay"
+    ],
+    "synonyms": [
+      "say sorry",
+      "express regret"
+    ],
+    "wordFamily": [
+      "apology",
+      "apologetic",
+      "apologetically"
+    ],
     "day": 26
   },
   {
-    "id": "satisfaction-noun",
-    "word": "satisfaction",
-    "baseWord": "satisfy",
+    "id": "assistance-noun",
+    "word": "assistance",
+    "baseWord": "assist",
     "type": "noun",
-    "meaning": "sự hài lòng",
-    "pronunciation": "/ˌsætɪsˈfækʃən/",
+    "meaning": "sự hỗ trợ",
+    "pronunciation": "/əˈsɪstəns/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "Customer satisfaction has increased by 15% since last quarter.",
-    "exampleVi": "Sự hài lòng của khách hàng đã tăng 15% kể từ quý trước.",
-    "collocations": ["customer satisfaction", "satisfaction survey", "satisfaction rate"],
-    "synonyms": ["contentment", "fulfillment"],
-    "wordFamily": ["satisfy", "satisfactory", "satisfied", "dissatisfied"],
-    "day": 26
-  },
-  {
-    "id": "inconvenience-noun",
-    "word": "inconvenience",
-    "baseWord": "inconvenience",
-    "type": "noun",
-    "meaning": "sự bất tiện",
-    "pronunciation": "/ˌɪnkənˈviːniəns/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "We apologize for any inconvenience caused by the service interruption.",
-    "exampleVi": "Chúng tôi xin lỗi vì bất kỳ sự bất tiện nào do gián đoạn dịch vụ gây ra.",
-    "collocations": ["cause inconvenience", "apologize for the inconvenience", "minor inconvenience"],
-    "synonyms": ["trouble", "disruption", "hassle"],
-    "wordFamily": ["inconvenient", "inconveniently", "convenience"],
-    "day": 26
-  },
-  {
-    "id": "representative-noun",
-    "word": "representative",
-    "baseWord": "represent",
-    "type": "noun",
-    "meaning": "người đại diện, nhân viên đại diện",
-    "pronunciation": "/ˌreprɪˈzentətɪv/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "A customer service representative will contact you shortly.",
-    "exampleVi": "Một nhân viên đại diện dịch vụ khách hàng sẽ liên hệ bạn trong thời gian ngắn.",
-    "collocations": ["customer service representative", "sales representative", "authorized representative"],
-    "synonyms": ["agent", "delegate"],
-    "wordFamily": ["represent", "representation", "representative"],
-    "day": 26
-  },
-  {
-    "id": "respond-verb",
-    "word": "respond",
-    "baseWord": "respond",
-    "type": "verb",
-    "meaning": "phản hồi, đáp lại",
-    "pronunciation": "/rɪˈspɑːnd/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "We aim to respond to all inquiries within two business days.",
-    "exampleVi": "Chúng tôi đặt mục tiêu phản hồi tất cả các yêu cầu trong vòng hai ngày làm việc.",
-    "collocations": ["respond to a complaint", "respond promptly", "respond to inquiries"],
-    "synonyms": ["reply", "answer"],
-    "wordFamily": ["response", "responsive", "respondent"],
-    "day": 26
-  },
-  {
-    "id": "inquiry-noun",
-    "word": "inquiry",
-    "baseWord": "inquire",
-    "type": "noun",
-    "meaning": "câu hỏi, yêu cầu thông tin",
-    "pronunciation": "/ɪnˈkwaɪəri/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The company received several inquiries about the new product line.",
-    "exampleVi": "Công ty đã nhận được nhiều yêu cầu thông tin về dòng sản phẩm mới.",
-    "collocations": ["make an inquiry", "respond to an inquiry", "customer inquiry"],
-    "synonyms": ["query", "question"],
-    "wordFamily": ["inquire", "inquirer"],
-    "day": 26
-  },
-  {
-    "id": "courteous-adjective",
-    "word": "courteous",
-    "baseWord": "courteous",
-    "type": "adjective",
-    "meaning": "lịch sự, nhã nhặn",
-    "pronunciation": "/ˈkɜːrtiəs/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All staff members are expected to be courteous to customers at all times.",
-    "exampleVi": "Tất cả nhân viên được kỳ vọng luôn lịch sự với khách hàng mọi lúc.",
-    "collocations": ["courteous service", "courteous manner", "courteous and professional"],
-    "synonyms": ["polite", "respectful", "civil"],
-    "wordFamily": ["courtesy", "courteously", "discourteous"],
-    "day": 26
-  },
-  {
-    "id": "feedback-noun",
-    "word": "feedback",
-    "baseWord": "feedback",
-    "type": "noun",
-    "meaning": "phản hồi, ý kiến đóng góp",
-    "pronunciation": "/ˈfiːdbæk/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "We value your feedback and use it to improve our services.",
-    "exampleVi": "Chúng tôi trân trọng phản hồi của bạn và sử dụng nó để cải thiện dịch vụ.",
-    "collocations": ["customer feedback", "positive feedback", "provide feedback"],
-    "synonyms": ["input", "comments", "response"],
-    "wordFamily": ["feedback"],
-    "day": 26
-  },
-  {
-    "id": "accommodate-verb",
-    "word": "accommodate",
-    "baseWord": "accommodate",
-    "type": "verb",
-    "meaning": "đáp ứng, chiều theo",
-    "pronunciation": "/əˈkɑːmədeɪt/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We will do our best to accommodate your special request.",
-    "exampleVi": "Chúng tôi sẽ cố gắng hết sức để đáp ứng yêu cầu đặc biệt của bạn.",
-    "collocations": ["accommodate a request", "accommodate guests", "accommodate special needs"],
-    "synonyms": ["cater to", "oblige"],
-    "wordFamily": ["accommodation", "accommodating"],
-    "day": 26
-  },
-  {
-    "id": "promptly-adverb",
-    "word": "promptly",
-    "baseWord": "prompt",
-    "type": "adverb",
-    "meaning": "nhanh chóng, ngay lập tức",
-    "pronunciation": "/ˈprɑːmptli/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All customer complaints should be handled promptly.",
-    "exampleVi": "Tất cả khiếu nại của khách hàng nên được xử lý nhanh chóng.",
-    "collocations": ["respond promptly", "act promptly", "handle promptly"],
-    "synonyms": ["immediately", "quickly", "swiftly"],
-    "wordFamily": ["prompt", "promptness"],
-    "day": 26
-  },
-  {
-    "id": "issue-noun",
-    "word": "issue",
-    "baseWord": "issue",
-    "type": "noun",
-    "meaning": "vấn đề, sự cố",
-    "pronunciation": "/ˈɪʃuː/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "If you experience any issues with the product, please contact our support team.",
-    "exampleVi": "Nếu bạn gặp bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ đội hỗ trợ.",
-    "collocations": ["resolve an issue", "technical issue", "address an issue"],
-    "synonyms": ["problem", "concern", "matter"],
-    "wordFamily": ["issue", "issued"],
-    "day": 26
-  },
-  {
-    "id": "compensate-verb",
-    "word": "compensate",
-    "baseWord": "compensate",
-    "type": "verb",
-    "meaning": "bồi thường, đền bù",
-    "pronunciation": "/ˈkɑːmpenseɪt/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The airline compensated passengers for the cancelled flight.",
-    "exampleVi": "Hãng hàng không đã bồi thường cho hành khách vì chuyến bay bị hủy.",
-    "collocations": ["compensate for a loss", "compensate customers", "fully compensated"],
-    "synonyms": ["reimburse", "repay"],
-    "wordFamily": ["compensation", "compensatory"],
-    "day": 26
-  },
-  {
-    "id": "concern-noun",
-    "word": "concern",
-    "baseWord": "concern",
-    "type": "noun",
-    "meaning": "mối quan ngại, lo ngại",
-    "pronunciation": "/kənˈsɜːrn/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Please let us know if you have any concerns about the service.",
-    "exampleVi": "Xin hãy cho chúng tôi biết nếu bạn có bất kỳ lo ngại nào về dịch vụ.",
-    "collocations": ["raise a concern", "address concerns", "express concern"],
-    "synonyms": ["worry", "apprehension"],
-    "wordFamily": ["concern", "concerned", "concerning"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please do not hesitate to contact us if you need further assistance.",
+    "exampleVi": "Xin đừng ngần ngại liên hệ chúng tôi nếu bạn cần hỗ trợ thêm.",
+    "collocations": [
+      "provide assistance",
+      "technical assistance",
+      "request assistance"
+    ],
+    "synonyms": [
+      "help",
+      "support",
+      "aid"
+    ],
+    "wordFamily": [
+      "assist",
+      "assistant",
+      "assisted"
+    ],
     "day": 26
   },
   {
@@ -279,48 +108,127 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "The hotel staff were attentive to every guest's needs.",
     "exampleVi": "Nhân viên khách sạn rất chu đáo với nhu cầu của từng khách.",
-    "collocations": ["attentive service", "attentive to detail", "attentive staff"],
-    "synonyms": ["considerate", "thoughtful", "mindful"],
-    "wordFamily": ["attention", "attentively", "attentiveness"],
+    "collocations": [
+      "attentive service",
+      "attentive to detail",
+      "attentive staff"
+    ],
+    "synonyms": [
+      "considerate",
+      "thoughtful",
+      "mindful"
+    ],
+    "wordFamily": [
+      "attention",
+      "attentively",
+      "attentiveness"
+    ],
     "day": 26
   },
   {
-    "id": "replacement-noun",
-    "word": "replacement",
-    "baseWord": "replace",
-    "type": "noun",
-    "meaning": "sự thay thế, vật thay thế",
-    "pronunciation": "/rɪˈpleɪsmənt/",
+    "id": "compensate-verb",
+    "word": "compensate",
+    "baseWord": "compensate",
+    "type": "verb",
+    "meaning": "bồi thường, đền bù",
+    "pronunciation": "/ˈkɑːmpenseɪt/",
     "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "We will send a replacement within three business days.",
-    "exampleVi": "Chúng tôi sẽ gửi sản phẩm thay thế trong vòng ba ngày làm việc.",
-    "collocations": ["replacement part", "send a replacement", "free replacement"],
-    "synonyms": ["substitute", "alternative"],
-    "wordFamily": ["replace", "replaceable", "irreplaceable"],
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The airline compensated passengers for the cancelled flight.",
+    "exampleVi": "Hãng hàng không đã bồi thường cho hành khách vì chuyến bay bị hủy.",
+    "collocations": [
+      "compensate for a loss",
+      "compensate customers",
+      "fully compensated"
+    ],
+    "synonyms": [
+      "reimburse",
+      "repay"
+    ],
+    "wordFamily": [
+      "compensation",
+      "compensatory"
+    ],
     "day": 26
   },
   {
-    "id": "policy-noun",
-    "word": "policy",
-    "baseWord": "policy",
+    "id": "concern-noun",
+    "word": "concern",
+    "baseWord": "concern",
     "type": "noun",
-    "meaning": "chính sách",
-    "pronunciation": "/ˈpɑːləsi/",
+    "meaning": "mối quan ngại, lo ngại",
+    "pronunciation": "/kənˈsɜːrn/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Our return policy allows exchanges within 30 days of purchase.",
-    "exampleVi": "Chính sách đổi trả của chúng tôi cho phép đổi hàng trong vòng 30 ngày kể từ ngày mua.",
-    "collocations": ["return policy", "company policy", "privacy policy"],
-    "synonyms": ["guideline", "regulation"],
-    "wordFamily": ["policies", "policyholder"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please let us know if you have any concerns about the service.",
+    "exampleVi": "Xin hãy cho chúng tôi biết nếu bạn có bất kỳ lo ngại nào về dịch vụ.",
+    "collocations": [
+      "raise a concern",
+      "address concerns",
+      "express concern"
+    ],
+    "synonyms": [
+      "worry",
+      "apprehension"
+    ],
+    "wordFamily": [
+      "concern",
+      "concerned",
+      "concerning"
+    ],
+    "day": 26
+  },
+  {
+    "id": "courteous-adjective",
+    "word": "courteous",
+    "baseWord": "courteous",
+    "type": "adjective",
+    "meaning": "lịch sự, nhã nhặn",
+    "pronunciation": "/ˈkɜːrtiəs/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "All staff members are expected to be courteous to customers at all times.",
+    "exampleVi": "Tất cả nhân viên được kỳ vọng luôn lịch sự với khách hàng mọi lúc.",
+    "collocations": [
+      "courteous service",
+      "courteous manner",
+      "courteous and professional"
+    ],
+    "synonyms": [
+      "polite",
+      "respectful",
+      "civil"
+    ],
+    "wordFamily": [
+      "courtesy",
+      "courteously",
+      "discourteous"
+    ],
     "day": 26
   },
   {
@@ -333,12 +241,157 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
     "example": "If the problem is not resolved, the case will be escalated to a manager.",
     "exampleVi": "Nếu vấn đề không được giải quyết, trường hợp sẽ được chuyển lên quản lý.",
-    "collocations": ["escalate a complaint", "escalate the matter", "escalate to management"],
-    "synonyms": ["elevate", "raise"],
-    "wordFamily": ["escalation", "escalated"],
+    "collocations": [
+      "escalate a complaint",
+      "escalate the matter",
+      "escalate to management"
+    ],
+    "synonyms": [
+      "elevate",
+      "raise"
+    ],
+    "wordFamily": [
+      "escalation",
+      "escalated"
+    ],
+    "day": 26
+  },
+  {
+    "id": "feedback-noun",
+    "word": "feedback",
+    "baseWord": "feedback",
+    "type": "noun",
+    "meaning": "phản hồi, ý kiến đóng góp",
+    "pronunciation": "/ˈfiːdbæk/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "We value your feedback and use it to improve our services.",
+    "exampleVi": "Chúng tôi trân trọng phản hồi của bạn và sử dụng nó để cải thiện dịch vụ.",
+    "collocations": [
+      "customer feedback",
+      "positive feedback",
+      "provide feedback"
+    ],
+    "synonyms": [
+      "input",
+      "comments",
+      "response"
+    ],
+    "wordFamily": [
+      "feedback"
+    ],
+    "day": 26
+  },
+  {
+    "id": "inconvenience-noun",
+    "word": "inconvenience",
+    "baseWord": "inconvenience",
+    "type": "noun",
+    "meaning": "sự bất tiện",
+    "pronunciation": "/ˌɪnkənˈviːniəns/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "We apologize for any inconvenience caused by the service interruption.",
+    "exampleVi": "Chúng tôi xin lỗi vì bất kỳ sự bất tiện nào do gián đoạn dịch vụ gây ra.",
+    "collocations": [
+      "cause inconvenience",
+      "apologize for the inconvenience",
+      "minor inconvenience"
+    ],
+    "synonyms": [
+      "trouble",
+      "disruption",
+      "hassle"
+    ],
+    "wordFamily": [
+      "inconvenient",
+      "inconveniently",
+      "convenience"
+    ],
+    "day": 26
+  },
+  {
+    "id": "inquiry-noun",
+    "word": "inquiry",
+    "baseWord": "inquire",
+    "type": "noun",
+    "meaning": "câu hỏi, yêu cầu thông tin",
+    "pronunciation": "/ɪnˈkwaɪəri/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company received several inquiries about the new product line.",
+    "exampleVi": "Công ty đã nhận được nhiều yêu cầu thông tin về dòng sản phẩm mới.",
+    "collocations": [
+      "make an inquiry",
+      "respond to an inquiry",
+      "customer inquiry"
+    ],
+    "synonyms": [
+      "query",
+      "question"
+    ],
+    "wordFamily": [
+      "inquire",
+      "inquirer"
+    ],
+    "day": 26
+  },
+  {
+    "id": "issue-noun",
+    "word": "issue",
+    "baseWord": "issue",
+    "type": "noun",
+    "meaning": "vấn đề, sự cố",
+    "pronunciation": "/ˈɪʃuː/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "If you experience any issues with the product, please contact our support team.",
+    "exampleVi": "Nếu bạn gặp bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ đội hỗ trợ.",
+    "collocations": [
+      "resolve an issue",
+      "technical issue",
+      "address an issue"
+    ],
+    "synonyms": [
+      "problem",
+      "concern",
+      "matter"
+    ],
+    "wordFamily": [
+      "issue",
+      "issued"
+    ],
     "day": 26
   },
   {
@@ -351,102 +404,292 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Loyal customers will receive a 20% discount on their next purchase.",
     "exampleVi": "Khách hàng trung thành sẽ được giảm giá 20% cho lần mua tiếp theo.",
-    "collocations": ["loyal customer", "loyal patron", "brand loyal"],
-    "synonyms": ["faithful", "devoted", "dedicated"],
-    "wordFamily": ["loyalty", "loyally", "disloyal"],
+    "collocations": [
+      "loyal customer",
+      "loyal patron",
+      "brand loyal"
+    ],
+    "synonyms": [
+      "faithful",
+      "devoted",
+      "dedicated"
+    ],
+    "wordFamily": [
+      "loyalty",
+      "loyally",
+      "disloyal"
+    ],
     "day": 26
   },
   {
-    "id": "survey-noun",
-    "word": "survey",
-    "baseWord": "survey",
+    "id": "policy-noun",
+    "word": "policy",
+    "baseWord": "policy",
     "type": "noun",
-    "meaning": "khảo sát, cuộc điều tra",
-    "pronunciation": "/ˈsɜːrveɪ/",
+    "meaning": "chính sách",
+    "pronunciation": "/ˈpɑːləsi/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Please take a moment to complete our customer satisfaction survey.",
-    "exampleVi": "Xin hãy dành chút thời gian để hoàn thành khảo sát mức độ hài lòng của khách hàng.",
-    "collocations": ["conduct a survey", "satisfaction survey", "online survey"],
-    "synonyms": ["questionnaire", "poll"],
-    "wordFamily": ["survey", "surveyor", "surveyed"],
-    "day": 27
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our return policy allows exchanges within 30 days of purchase.",
+    "exampleVi": "Chính sách đổi trả của chúng tôi cho phép đổi hàng trong vòng 30 ngày kể từ ngày mua.",
+    "collocations": [
+      "return policy",
+      "company policy",
+      "privacy policy"
+    ],
+    "synonyms": [
+      "guideline",
+      "regulation"
+    ],
+    "wordFamily": [
+      "policies",
+      "policyholder"
+    ],
+    "day": 26
   },
   {
-    "id": "follow up-phrase",
-    "word": "follow up",
-    "baseWord": "follow up",
-    "type": "phrase",
-    "meaning": "theo dõi, liên hệ lại",
-    "pronunciation": "/ˈfɑːloʊ ʌp/",
+    "id": "promptly-adverb",
+    "word": "promptly",
+    "baseWord": "prompt",
+    "type": "adverb",
+    "meaning": "nhanh chóng, ngay lập tức",
+    "pronunciation": "/ˈprɑːmptli/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "I will follow up with you next week regarding your claim.",
-    "exampleVi": "Tôi sẽ liên hệ lại với bạn vào tuần tới về yêu cầu bồi thường của bạn.",
-    "collocations": ["follow up on a complaint", "follow up with a customer", "follow up by email"],
-    "synonyms": ["check back", "get back to"],
-    "wordFamily": ["follow-up"],
-    "day": 27
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "All customer complaints should be handled promptly.",
+    "exampleVi": "Tất cả khiếu nại của khách hàng nên được xử lý nhanh chóng.",
+    "collocations": [
+      "respond promptly",
+      "act promptly",
+      "handle promptly"
+    ],
+    "synonyms": [
+      "immediately",
+      "quickly",
+      "swiftly"
+    ],
+    "wordFamily": [
+      "prompt",
+      "promptness"
+    ],
+    "day": 26
   },
   {
-    "id": "handle-verb",
-    "word": "handle",
-    "baseWord": "handle",
-    "type": "verb",
-    "meaning": "xử lý, giải quyết",
-    "pronunciation": "/ˈhændl/",
+    "id": "replacement-noun",
+    "word": "replacement",
+    "baseWord": "replace",
+    "type": "noun",
+    "meaning": "sự thay thế, vật thay thế",
+    "pronunciation": "/rɪˈpleɪsmənt/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Our support team is trained to handle all types of complaints.",
-    "exampleVi": "Đội hỗ trợ của chúng tôi được đào tạo để xử lý mọi loại khiếu nại.",
-    "collocations": ["handle a complaint", "handle a situation", "handle with care"],
-    "synonyms": ["manage", "deal with"],
-    "wordFamily": ["handler", "handling"],
-    "day": 27
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We will send a replacement within three business days.",
+    "exampleVi": "Chúng tôi sẽ gửi sản phẩm thay thế trong vòng ba ngày làm việc.",
+    "collocations": [
+      "replacement part",
+      "send a replacement",
+      "free replacement"
+    ],
+    "synonyms": [
+      "substitute",
+      "alternative"
+    ],
+    "wordFamily": [
+      "replace",
+      "replaceable",
+      "irreplaceable"
+    ],
+    "day": 26
   },
   {
-    "id": "reliable-adjective",
-    "word": "reliable",
-    "baseWord": "rely",
-    "type": "adjective",
-    "meaning": "đáng tin cậy",
-    "pronunciation": "/rɪˈlaɪəbl/",
+    "id": "representative-noun",
+    "word": "representative",
+    "baseWord": "represent",
+    "type": "noun",
+    "meaning": "người đại diện, nhân viên đại diện",
+    "pronunciation": "/ˌreprɪˈzentətɪv/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We are committed to providing reliable service to all our clients.",
-    "exampleVi": "Chúng tôi cam kết cung cấp dịch vụ đáng tin cậy cho tất cả khách hàng.",
-    "collocations": ["reliable service", "reliable source", "reliable supplier"],
-    "synonyms": ["dependable", "trustworthy"],
-    "wordFamily": ["rely", "reliability", "reliably", "unreliable"],
-    "day": 27
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "A customer service representative will contact you shortly.",
+    "exampleVi": "Một nhân viên đại diện dịch vụ khách hàng sẽ liên hệ bạn trong thời gian ngắn.",
+    "collocations": [
+      "customer service representative",
+      "sales representative",
+      "authorized representative"
+    ],
+    "synonyms": [
+      "agent",
+      "delegate"
+    ],
+    "wordFamily": [
+      "represent",
+      "representation",
+      "representative"
+    ],
+    "day": 26
   },
   {
-    "id": "reimburse-verb",
-    "word": "reimburse",
-    "baseWord": "reimburse",
+    "id": "resolve-verb",
+    "word": "resolve",
+    "baseWord": "resolve",
     "type": "verb",
-    "meaning": "hoàn trả, hoàn tiền",
-    "pronunciation": "/ˌriːɪmˈbɜːrs/",
+    "meaning": "giải quyết",
+    "pronunciation": "/rɪˈzɑːlv/",
     "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Customers will be reimbursed for any defective items returned.",
-    "exampleVi": "Khách hàng sẽ được hoàn tiền cho bất kỳ sản phẩm lỗi nào được trả lại.",
-    "collocations": ["reimburse expenses", "fully reimbursed", "reimburse the cost"],
-    "synonyms": ["repay", "compensate"],
-    "wordFamily": ["reimbursement", "reimbursable"],
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our team will resolve the issue within 24 hours.",
+    "exampleVi": "Đội ngũ của chúng tôi sẽ giải quyết vấn đề trong vòng 24 giờ.",
+    "collocations": [
+      "resolve an issue",
+      "resolve a dispute",
+      "resolve a complaint"
+    ],
+    "synonyms": [
+      "settle",
+      "fix"
+    ],
+    "wordFamily": [
+      "resolution",
+      "resolved",
+      "unresolved"
+    ],
+    "day": 26
+  },
+  {
+    "id": "respond-verb",
+    "word": "respond",
+    "baseWord": "respond",
+    "type": "verb",
+    "meaning": "phản hồi, đáp lại",
+    "pronunciation": "/rɪˈspɑːnd/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We aim to respond to all inquiries within two business days.",
+    "exampleVi": "Chúng tôi đặt mục tiêu phản hồi tất cả các yêu cầu trong vòng hai ngày làm việc.",
+    "collocations": [
+      "respond to a complaint",
+      "respond promptly",
+      "respond to inquiries"
+    ],
+    "synonyms": [
+      "reply",
+      "answer"
+    ],
+    "wordFamily": [
+      "response",
+      "responsive",
+      "respondent"
+    ],
+    "day": 26
+  },
+  {
+    "id": "satisfaction-noun",
+    "word": "satisfaction",
+    "baseWord": "satisfy",
+    "type": "noun",
+    "meaning": "sự hài lòng",
+    "pronunciation": "/ˌsætɪsˈfækʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Customer satisfaction has increased by 15% since last quarter.",
+    "exampleVi": "Sự hài lòng của khách hàng đã tăng 15% kể từ quý trước.",
+    "collocations": [
+      "customer satisfaction",
+      "satisfaction survey",
+      "satisfaction rate"
+    ],
+    "synonyms": [
+      "contentment",
+      "fulfillment"
+    ],
+    "wordFamily": [
+      "satisfy",
+      "satisfactory",
+      "satisfied",
+      "dissatisfied"
+    ],
+    "day": 26
+  },
+  {
+    "id": "appreciate-verb",
+    "word": "appreciate",
+    "baseWord": "appreciate",
+    "type": "verb",
+    "meaning": "đánh giá cao, trân trọng",
+    "pronunciation": "/əˈpriːʃieɪt/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 5"
+    ],
+    "example": "We appreciate your continued support and loyalty.",
+    "exampleVi": "Chúng tôi trân trọng sự ủng hộ và trung thành liên tục của bạn.",
+    "collocations": [
+      "appreciate your patience",
+      "appreciate your feedback",
+      "greatly appreciate"
+    ],
+    "synonyms": [
+      "value",
+      "be grateful for"
+    ],
+    "wordFamily": [
+      "appreciation",
+      "appreciative",
+      "appreciatively"
+    ],
     "day": 27
   },
   {
@@ -459,192 +702,27 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "The billing dispute was resolved after the customer provided proof of payment.",
     "exampleVi": "Tranh chấp về hóa đơn đã được giải quyết sau khi khách hàng cung cấp bằng chứng thanh toán.",
-    "collocations": ["billing dispute", "resolve a dispute", "dispute resolution"],
-    "synonyms": ["disagreement", "conflict"],
-    "wordFamily": ["dispute", "disputed", "undisputed"],
-    "day": 27
-  },
-  {
-    "id": "guarantee-noun",
-    "word": "guarantee",
-    "baseWord": "guarantee",
-    "type": "noun",
-    "meaning": "sự bảo đảm",
-    "pronunciation": "/ˌɡærənˈtiː/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "All products come with a money-back guarantee.",
-    "exampleVi": "Tất cả sản phẩm đều đi kèm bảo đảm hoàn tiền.",
-    "collocations": ["money-back guarantee", "satisfaction guarantee", "lifetime guarantee"],
-    "synonyms": ["warranty", "assurance"],
-    "wordFamily": ["guarantee", "guaranteed", "guarantor"],
-    "day": 27
-  },
-  {
-    "id": "responsive-adjective",
-    "word": "responsive",
-    "baseWord": "respond",
-    "type": "adjective",
-    "meaning": "phản hồi nhanh, đáp ứng tốt",
-    "pronunciation": "/rɪˈspɑːnsɪv/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The support team has been very responsive to our concerns.",
-    "exampleVi": "Đội hỗ trợ đã rất nhanh chóng phản hồi các lo ngại của chúng tôi.",
-    "collocations": ["responsive to feedback", "responsive customer service", "highly responsive"],
-    "synonyms": ["attentive", "reactive"],
-    "wordFamily": ["respond", "response", "responsiveness"],
-    "day": 27
-  },
-  {
-    "id": "troubleshoot-verb",
-    "word": "troubleshoot",
-    "baseWord": "troubleshoot",
-    "type": "verb",
-    "meaning": "khắc phục sự cố, tìm và sửa lỗi",
-    "pronunciation": "/ˈtrʌblʃuːt/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Our technicians can troubleshoot most equipment problems over the phone.",
-    "exampleVi": "Kỹ thuật viên của chúng tôi có thể khắc phục hầu hết các sự cố thiết bị qua điện thoại.",
-    "collocations": ["troubleshoot a problem", "troubleshoot issues", "troubleshoot remotely"],
-    "synonyms": ["diagnose", "debug"],
-    "wordFamily": ["troubleshooting", "troubleshooter"],
-    "day": 27
-  },
-  {
-    "id": "rating-noun",
-    "word": "rating",
-    "baseWord": "rate",
-    "type": "noun",
-    "meaning": "đánh giá, xếp hạng",
-    "pronunciation": "/ˈreɪtɪŋ/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The restaurant has received a five-star rating from customers.",
-    "exampleVi": "Nhà hàng đã nhận được đánh giá năm sao từ khách hàng.",
-    "collocations": ["customer rating", "star rating", "approval rating"],
-    "synonyms": ["score", "ranking"],
-    "wordFamily": ["rate", "rated", "ratings"],
-    "day": 27
-  },
-  {
-    "id": "improve-verb",
-    "word": "improve",
-    "baseWord": "improve",
-    "type": "verb",
-    "meaning": "cải thiện, nâng cao",
-    "pronunciation": "/ɪmˈpruːv/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The company has taken steps to improve its customer service.",
-    "exampleVi": "Công ty đã thực hiện các bước để cải thiện dịch vụ khách hàng.",
-    "collocations": ["improve service", "improve quality", "improve performance"],
-    "synonyms": ["enhance", "upgrade"],
-    "wordFamily": ["improvement", "improved", "improving"],
-    "day": 27
-  },
-  {
-    "id": "patience-noun",
-    "word": "patience",
-    "baseWord": "patience",
-    "type": "noun",
-    "meaning": "sự kiên nhẫn",
-    "pronunciation": "/ˈpeɪʃəns/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4"],
-    "example": "Thank you for your patience while we process your request.",
-    "exampleVi": "Cảm ơn sự kiên nhẫn của bạn trong khi chúng tôi xử lý yêu cầu.",
-    "collocations": ["thank you for your patience", "have patience", "patience and understanding"],
-    "synonyms": ["tolerance", "endurance"],
-    "wordFamily": ["patient", "patiently", "impatient"],
-    "day": 27
-  },
-  {
-    "id": "helpdesk-noun",
-    "word": "helpdesk",
-    "baseWord": "helpdesk",
-    "type": "noun",
-    "meaning": "bộ phận hỗ trợ, quầy trợ giúp",
-    "pronunciation": "/ˈhelpdɛsk/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "For technical issues, please contact the helpdesk at extension 500.",
-    "exampleVi": "Đối với các vấn đề kỹ thuật, vui lòng liên hệ bộ phận hỗ trợ tại số nội bộ 500.",
-    "collocations": ["contact the helpdesk", "helpdesk support", "IT helpdesk"],
-    "synonyms": ["support desk", "service desk"],
-    "wordFamily": ["helpdesk"],
-    "day": 27
-  },
-  {
-    "id": "operator-noun",
-    "word": "operator",
-    "baseWord": "operate",
-    "type": "noun",
-    "meaning": "nhân viên tổng đài, người vận hành",
-    "pronunciation": "/ˈɑːpəreɪtər/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Press zero to speak with an operator.",
-    "exampleVi": "Nhấn số không để nói chuyện với nhân viên tổng đài.",
-    "collocations": ["telephone operator", "speak with an operator", "switchboard operator"],
-    "synonyms": ["attendant", "receptionist"],
-    "wordFamily": ["operate", "operation", "operational"],
-    "day": 27
-  },
-  {
-    "id": "polite-adjective",
-    "word": "polite",
-    "baseWord": "polite",
-    "type": "adjective",
-    "meaning": "lịch sự, lễ phép",
-    "pronunciation": "/pəˈlaɪt/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Staff should always remain polite, even with difficult customers.",
-    "exampleVi": "Nhân viên nên luôn giữ thái độ lịch sự, ngay cả với những khách hàng khó tính.",
-    "collocations": ["polite manner", "polite and professional", "polite response"],
-    "synonyms": ["courteous", "well-mannered"],
-    "wordFamily": ["politely", "politeness", "impolite"],
-    "day": 27
-  },
-  {
-    "id": "appreciate-verb",
-    "word": "appreciate",
-    "baseWord": "appreciate",
-    "type": "verb",
-    "meaning": "đánh giá cao, trân trọng",
-    "pronunciation": "/əˈpriːʃieɪt/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 5"],
-    "example": "We appreciate your continued support and loyalty.",
-    "exampleVi": "Chúng tôi trân trọng sự ủng hộ và trung thành liên tục của bạn.",
-    "collocations": ["appreciate your patience", "appreciate your feedback", "greatly appreciate"],
-    "synonyms": ["value", "be grateful for"],
-    "wordFamily": ["appreciation", "appreciative", "appreciatively"],
+    "collocations": [
+      "billing dispute",
+      "resolve a dispute",
+      "dispute resolution"
+    ],
+    "synonyms": [
+      "disagreement",
+      "conflict"
+    ],
+    "wordFamily": [
+      "dispute",
+      "disputed",
+      "undisputed"
+    ],
     "day": 27
   },
   {
@@ -657,12 +735,59 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Dissatisfied customers may return products within 14 days.",
     "exampleVi": "Khách hàng không hài lòng có thể trả lại sản phẩm trong vòng 14 ngày.",
-    "collocations": ["dissatisfied customer", "dissatisfied with the service", "highly dissatisfied"],
-    "synonyms": ["unhappy", "displeased", "discontented"],
-    "wordFamily": ["satisfy", "satisfaction", "dissatisfaction"],
+    "collocations": [
+      "dissatisfied customer",
+      "dissatisfied with the service",
+      "highly dissatisfied"
+    ],
+    "synonyms": [
+      "unhappy",
+      "displeased",
+      "discontented"
+    ],
+    "wordFamily": [
+      "satisfy",
+      "satisfaction",
+      "dissatisfaction"
+    ],
+    "day": 27
+  },
+  {
+    "id": "follow up-phrase",
+    "word": "follow up",
+    "baseWord": "follow up",
+    "type": "phrase",
+    "meaning": "theo dõi, liên hệ lại",
+    "pronunciation": "/ˈfɑːloʊ ʌp/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "I will follow up with you next week regarding your claim.",
+    "exampleVi": "Tôi sẽ liên hệ lại với bạn vào tuần tới về yêu cầu bồi thường của bạn.",
+    "collocations": [
+      "follow up on a complaint",
+      "follow up with a customer",
+      "follow up by email"
+    ],
+    "synonyms": [
+      "check back",
+      "get back to"
+    ],
+    "wordFamily": [
+      "follow-up"
+    ],
     "day": 27
   },
   {
@@ -675,12 +800,156 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "We strive to fulfill all orders within 48 hours.",
     "exampleVi": "Chúng tôi nỗ lực hoàn thành tất cả đơn hàng trong vòng 48 giờ.",
-    "collocations": ["fulfill an order", "fulfill a request", "fulfill obligations"],
-    "synonyms": ["complete", "carry out"],
-    "wordFamily": ["fulfillment", "fulfilled", "unfulfilled"],
+    "collocations": [
+      "fulfill an order",
+      "fulfill a request",
+      "fulfill obligations"
+    ],
+    "synonyms": [
+      "complete",
+      "carry out"
+    ],
+    "wordFamily": [
+      "fulfillment",
+      "fulfilled",
+      "unfulfilled"
+    ],
+    "day": 27
+  },
+  {
+    "id": "guarantee-noun",
+    "word": "guarantee",
+    "baseWord": "guarantee",
+    "type": "noun",
+    "meaning": "sự bảo đảm",
+    "pronunciation": "/ˌɡærənˈtiː/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All products come with a money-back guarantee.",
+    "exampleVi": "Tất cả sản phẩm đều đi kèm bảo đảm hoàn tiền.",
+    "collocations": [
+      "money-back guarantee",
+      "satisfaction guarantee",
+      "lifetime guarantee"
+    ],
+    "synonyms": [
+      "warranty",
+      "assurance"
+    ],
+    "wordFamily": [
+      "guarantee",
+      "guaranteed",
+      "guarantor"
+    ],
+    "day": 27
+  },
+  {
+    "id": "handle-verb",
+    "word": "handle",
+    "baseWord": "handle",
+    "type": "verb",
+    "meaning": "xử lý, giải quyết",
+    "pronunciation": "/ˈhændl/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our support team is trained to handle all types of complaints.",
+    "exampleVi": "Đội hỗ trợ của chúng tôi được đào tạo để xử lý mọi loại khiếu nại.",
+    "collocations": [
+      "handle a complaint",
+      "handle a situation",
+      "handle with care"
+    ],
+    "synonyms": [
+      "manage",
+      "deal with"
+    ],
+    "wordFamily": [
+      "handler",
+      "handling"
+    ],
+    "day": 27
+  },
+  {
+    "id": "helpdesk-noun",
+    "word": "helpdesk",
+    "baseWord": "helpdesk",
+    "type": "noun",
+    "meaning": "bộ phận hỗ trợ, quầy trợ giúp",
+    "pronunciation": "/ˈhelpdɛsk/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "For technical issues, please contact the helpdesk at extension 500.",
+    "exampleVi": "Đối với các vấn đề kỹ thuật, vui lòng liên hệ bộ phận hỗ trợ tại số nội bộ 500.",
+    "collocations": [
+      "contact the helpdesk",
+      "helpdesk support",
+      "IT helpdesk"
+    ],
+    "synonyms": [
+      "support desk",
+      "service desk"
+    ],
+    "wordFamily": [
+      "helpdesk"
+    ],
+    "day": 27
+  },
+  {
+    "id": "improve-verb",
+    "word": "improve",
+    "baseWord": "improve",
+    "type": "verb",
+    "meaning": "cải thiện, nâng cao",
+    "pronunciation": "/ɪmˈpruːv/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company has taken steps to improve its customer service.",
+    "exampleVi": "Công ty đã thực hiện các bước để cải thiện dịch vụ khách hàng.",
+    "collocations": [
+      "improve service",
+      "improve quality",
+      "improve performance"
+    ],
+    "synonyms": [
+      "enhance",
+      "upgrade"
+    ],
+    "wordFamily": [
+      "improvement",
+      "improved",
+      "improving"
+    ],
     "day": 27
   },
   {
@@ -693,12 +962,288 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "All complaints will be addressed in a timely manner.",
     "exampleVi": "Tất cả khiếu nại sẽ được giải quyết một cách kịp thời.",
-    "collocations": ["respond in a timely manner", "complete in a timely manner", "process in a timely manner"],
-    "synonyms": ["promptly", "without delay"],
-    "wordFamily": ["timely"],
+    "collocations": [
+      "respond in a timely manner",
+      "complete in a timely manner",
+      "process in a timely manner"
+    ],
+    "synonyms": [
+      "promptly",
+      "without delay"
+    ],
+    "wordFamily": [
+      "timely"
+    ],
+    "day": 27
+  },
+  {
+    "id": "operator-noun",
+    "word": "operator",
+    "baseWord": "operate",
+    "type": "noun",
+    "meaning": "nhân viên tổng đài, người vận hành",
+    "pronunciation": "/ˈɑːpəreɪtər/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Press zero to speak with an operator.",
+    "exampleVi": "Nhấn số không để nói chuyện với nhân viên tổng đài.",
+    "collocations": [
+      "telephone operator",
+      "speak with an operator",
+      "switchboard operator"
+    ],
+    "synonyms": [
+      "attendant",
+      "receptionist"
+    ],
+    "wordFamily": [
+      "operate",
+      "operation",
+      "operational"
+    ],
+    "day": 27
+  },
+  {
+    "id": "patience-noun",
+    "word": "patience",
+    "baseWord": "patience",
+    "type": "noun",
+    "meaning": "sự kiên nhẫn",
+    "pronunciation": "/ˈpeɪʃəns/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Thank you for your patience while we process your request.",
+    "exampleVi": "Cảm ơn sự kiên nhẫn của bạn trong khi chúng tôi xử lý yêu cầu.",
+    "collocations": [
+      "thank you for your patience",
+      "have patience",
+      "patience and understanding"
+    ],
+    "synonyms": [
+      "tolerance",
+      "endurance"
+    ],
+    "wordFamily": [
+      "patient",
+      "patiently",
+      "impatient"
+    ],
+    "day": 27
+  },
+  {
+    "id": "polite-adjective",
+    "word": "polite",
+    "baseWord": "polite",
+    "type": "adjective",
+    "meaning": "lịch sự, lễ phép",
+    "pronunciation": "/pəˈlaɪt/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Staff should always remain polite, even with difficult customers.",
+    "exampleVi": "Nhân viên nên luôn giữ thái độ lịch sự, ngay cả với những khách hàng khó tính.",
+    "collocations": [
+      "polite manner",
+      "polite and professional",
+      "polite response"
+    ],
+    "synonyms": [
+      "courteous",
+      "well-mannered"
+    ],
+    "wordFamily": [
+      "politely",
+      "politeness",
+      "impolite"
+    ],
+    "day": 27
+  },
+  {
+    "id": "rating-noun",
+    "word": "rating",
+    "baseWord": "rate",
+    "type": "noun",
+    "meaning": "đánh giá, xếp hạng",
+    "pronunciation": "/ˈreɪtɪŋ/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The restaurant has received a five-star rating from customers.",
+    "exampleVi": "Nhà hàng đã nhận được đánh giá năm sao từ khách hàng.",
+    "collocations": [
+      "customer rating",
+      "star rating",
+      "approval rating"
+    ],
+    "synonyms": [
+      "score",
+      "ranking"
+    ],
+    "wordFamily": [
+      "rate",
+      "rated",
+      "ratings"
+    ],
+    "day": 27
+  },
+  {
+    "id": "reimburse-verb",
+    "word": "reimburse",
+    "baseWord": "reimburse",
+    "type": "verb",
+    "meaning": "hoàn trả, hoàn tiền",
+    "pronunciation": "/ˌriːɪmˈbɜːrs/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Customers will be reimbursed for any defective items returned.",
+    "exampleVi": "Khách hàng sẽ được hoàn tiền cho bất kỳ sản phẩm lỗi nào được trả lại.",
+    "collocations": [
+      "reimburse expenses",
+      "fully reimbursed",
+      "reimburse the cost"
+    ],
+    "synonyms": [
+      "repay",
+      "compensate"
+    ],
+    "wordFamily": [
+      "reimbursement",
+      "reimbursable"
+    ],
+    "day": 27
+  },
+  {
+    "id": "reliable-adjective",
+    "word": "reliable",
+    "baseWord": "rely",
+    "type": "adjective",
+    "meaning": "đáng tin cậy",
+    "pronunciation": "/rɪˈlaɪəbl/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We are committed to providing reliable service to all our clients.",
+    "exampleVi": "Chúng tôi cam kết cung cấp dịch vụ đáng tin cậy cho tất cả khách hàng.",
+    "collocations": [
+      "reliable service",
+      "reliable source",
+      "reliable supplier"
+    ],
+    "synonyms": [
+      "dependable",
+      "trustworthy"
+    ],
+    "wordFamily": [
+      "rely",
+      "reliability",
+      "reliably",
+      "unreliable"
+    ],
+    "day": 27
+  },
+  {
+    "id": "responsive-adjective",
+    "word": "responsive",
+    "baseWord": "respond",
+    "type": "adjective",
+    "meaning": "phản hồi nhanh, đáp ứng tốt",
+    "pronunciation": "/rɪˈspɑːnsɪv/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The support team has been very responsive to our concerns.",
+    "exampleVi": "Đội hỗ trợ đã rất nhanh chóng phản hồi các lo ngại của chúng tôi.",
+    "collocations": [
+      "responsive to feedback",
+      "responsive customer service",
+      "highly responsive"
+    ],
+    "synonyms": [
+      "attentive",
+      "reactive"
+    ],
+    "wordFamily": [
+      "respond",
+      "response",
+      "responsiveness"
+    ],
+    "day": 27
+  },
+  {
+    "id": "survey-noun",
+    "word": "survey",
+    "baseWord": "survey",
+    "type": "noun",
+    "meaning": "khảo sát, cuộc điều tra",
+    "pronunciation": "/ˈsɜːrveɪ/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please take a moment to complete our customer satisfaction survey.",
+    "exampleVi": "Xin hãy dành chút thời gian để hoàn thành khảo sát mức độ hài lòng của khách hàng.",
+    "collocations": [
+      "conduct a survey",
+      "satisfaction survey",
+      "online survey"
+    ],
+    "synonyms": [
+      "questionnaire",
+      "poll"
+    ],
+    "wordFamily": [
+      "survey",
+      "surveyor",
+      "surveyed"
+    ],
     "day": 27
   },
   {
@@ -711,102 +1256,88 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "A thorough investigation revealed the cause of the billing error.",
     "exampleVi": "Một cuộc điều tra kỹ lưỡng đã phát hiện nguyên nhân của lỗi thanh toán.",
-    "collocations": ["thorough investigation", "thorough review", "thorough inspection"],
-    "synonyms": ["comprehensive", "detailed", "meticulous"],
-    "wordFamily": ["thoroughly", "thoroughness"],
+    "collocations": [
+      "thorough investigation",
+      "thorough review",
+      "thorough inspection"
+    ],
+    "synonyms": [
+      "comprehensive",
+      "detailed",
+      "meticulous"
+    ],
+    "wordFamily": [
+      "thoroughly",
+      "thoroughness"
+    ],
     "day": 27
   },
   {
-    "id": "rectify-verb",
-    "word": "rectify",
-    "baseWord": "rectify",
+    "id": "troubleshoot-verb",
+    "word": "troubleshoot",
+    "baseWord": "troubleshoot",
     "type": "verb",
-    "meaning": "sửa chữa, khắc phục",
-    "pronunciation": "/ˈrektɪfaɪ/",
+    "meaning": "khắc phục sự cố, tìm và sửa lỗi",
+    "pronunciation": "/ˈtrʌblʃuːt/",
     "topic": "Customer Service",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We are working to rectify the error on your account immediately.",
-    "exampleVi": "Chúng tôi đang xử lý để sửa chữa lỗi trên tài khoản của bạn ngay lập tức.",
-    "collocations": ["rectify an error", "rectify the situation", "rectify a mistake"],
-    "synonyms": ["correct", "fix", "remedy"],
-    "wordFamily": ["rectification", "rectified"],
-    "day": 28
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our technicians can troubleshoot most equipment problems over the phone.",
+    "exampleVi": "Kỹ thuật viên của chúng tôi có thể khắc phục hầu hết các sự cố thiết bị qua điện thoại.",
+    "collocations": [
+      "troubleshoot a problem",
+      "troubleshoot issues",
+      "troubleshoot remotely"
+    ],
+    "synonyms": [
+      "diagnose",
+      "debug"
+    ],
+    "wordFamily": [
+      "troubleshooting",
+      "troubleshooter"
+    ],
+    "day": 27
   },
   {
-    "id": "voucher-noun",
-    "word": "voucher",
-    "baseWord": "voucher",
+    "id": "callback-noun",
+    "word": "callback",
+    "baseWord": "callback",
     "type": "noun",
-    "meaning": "phiếu quà tặng, phiếu giảm giá",
-    "pronunciation": "/ˈvaʊtʃər/",
+    "meaning": "cuộc gọi lại",
+    "pronunciation": "/ˈkɔːlbæk/",
     "topic": "Customer Service",
     "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "As compensation, we would like to offer you a $50 voucher.",
-    "exampleVi": "Để bồi thường, chúng tôi muốn tặng bạn một phiếu quà tặng trị giá 50 đô la.",
-    "collocations": ["gift voucher", "discount voucher", "redeem a voucher"],
-    "synonyms": ["coupon", "certificate"],
-    "wordFamily": ["vouchers"],
-    "day": 28
-  },
-  {
-    "id": "pending-adjective",
-    "word": "pending",
-    "baseWord": "pend",
-    "type": "adjective",
-    "meaning": "đang chờ xử lý",
-    "pronunciation": "/ˈpendɪŋ/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Your request is currently pending and will be processed soon.",
-    "exampleVi": "Yêu cầu của bạn hiện đang chờ xử lý và sẽ được xử lý sớm.",
-    "collocations": ["pending approval", "pending review", "pending request"],
-    "synonyms": ["awaiting", "outstanding", "unresolved"],
-    "wordFamily": ["pend", "pending"],
-    "day": 28
-  },
-  {
-    "id": "correspondence-noun",
-    "word": "correspondence",
-    "baseWord": "correspond",
-    "type": "noun",
-    "meaning": "thư từ, liên lạc",
-    "pronunciation": "/ˌkɔːrəˈspɑːndəns/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Please keep all correspondence with the seller for your records.",
-    "exampleVi": "Vui lòng giữ lại tất cả thư từ với người bán để lưu hồ sơ.",
-    "collocations": ["business correspondence", "email correspondence", "written correspondence"],
-    "synonyms": ["communication", "letters"],
-    "wordFamily": ["correspond", "correspondent", "corresponding"],
-    "day": 28
-  },
-  {
-    "id": "retain-verb",
-    "word": "retain",
-    "baseWord": "retain",
-    "type": "verb",
-    "meaning": "giữ lại, duy trì",
-    "pronunciation": "/rɪˈteɪn/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company focuses on retaining its existing customers.",
-    "exampleVi": "Công ty tập trung vào việc giữ chân khách hàng hiện tại.",
-    "collocations": ["retain customers", "retain employees", "retain information"],
-    "synonyms": ["keep", "maintain"],
-    "wordFamily": ["retention", "retainer", "retained"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Would you like to schedule a callback from one of our agents?",
+    "exampleVi": "Bạn có muốn đặt lịch để một nhân viên của chúng tôi gọi lại không?",
+    "collocations": [
+      "schedule a callback",
+      "request a callback",
+      "callback service"
+    ],
+    "synonyms": [
+      "return call"
+    ],
+    "wordFamily": [
+      "callback"
+    ],
     "day": 28
   },
   {
@@ -819,156 +1350,26 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The boutique caters to a high-end clientele.",
     "exampleVi": "Cửa hàng thời trang phục vụ nhóm khách hàng cao cấp.",
-    "collocations": ["loyal clientele", "diverse clientele", "build a clientele"],
-    "synonyms": ["customers", "clients", "patrons"],
-    "wordFamily": ["client", "clientele"],
-    "day": 28
-  },
-  {
-    "id": "efficiently-adverb",
-    "word": "efficiently",
-    "baseWord": "efficient",
-    "type": "adverb",
-    "meaning": "một cách hiệu quả",
-    "pronunciation": "/ɪˈfɪʃəntli/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Our staff is trained to handle complaints efficiently.",
-    "exampleVi": "Nhân viên của chúng tôi được đào tạo để xử lý khiếu nại một cách hiệu quả.",
-    "collocations": ["work efficiently", "operate efficiently", "process efficiently"],
-    "synonyms": ["effectively", "productively"],
-    "wordFamily": ["efficient", "efficiency", "inefficient"],
-    "day": 28
-  },
-  {
-    "id": "malfunction-noun",
-    "word": "malfunction",
-    "baseWord": "malfunction",
-    "type": "noun",
-    "meaning": "sự trục trặc, hỏng hóc",
-    "pronunciation": "/mælˈfʌŋkʃən/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The product malfunction was caused by a manufacturing defect.",
-    "exampleVi": "Sự trục trặc của sản phẩm là do lỗi sản xuất gây ra.",
-    "collocations": ["equipment malfunction", "product malfunction", "technical malfunction"],
-    "synonyms": ["failure", "breakdown", "defect"],
-    "wordFamily": ["malfunction", "malfunctioning"],
-    "day": 28
-  },
-  {
-    "id": "regret-verb",
-    "word": "regret",
-    "baseWord": "regret",
-    "type": "verb",
-    "meaning": "lấy làm tiếc",
-    "pronunciation": "/rɪˈɡret/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "We regret any inconvenience this may have caused.",
-    "exampleVi": "Chúng tôi lấy làm tiếc về bất kỳ sự bất tiện nào mà việc này có thể đã gây ra.",
-    "collocations": ["regret to inform", "deeply regret", "regret any inconvenience"],
-    "synonyms": ["be sorry", "lament"],
-    "wordFamily": ["regret", "regrettable", "regretfully", "regrettably"],
-    "day": 28
-  },
-  {
-    "id": "subscriber-noun",
-    "word": "subscriber",
-    "baseWord": "subscribe",
-    "type": "noun",
-    "meaning": "người đăng ký, thuê bao",
-    "pronunciation": "/səbˈskraɪbər/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "Subscribers will receive early access to new product launches.",
-    "exampleVi": "Người đăng ký sẽ được tiếp cận sớm các đợt ra mắt sản phẩm mới.",
-    "collocations": ["current subscriber", "newsletter subscriber", "subscriber base"],
-    "synonyms": ["member", "follower"],
-    "wordFamily": ["subscribe", "subscription", "subscribed"],
-    "day": 28
-  },
-  {
-    "id": "toll-free-adjective",
-    "word": "toll-free",
-    "baseWord": "toll-free",
-    "type": "adjective",
-    "meaning": "miễn phí cuộc gọi",
-    "pronunciation": "/ˌtoʊl ˈfriː/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Call our toll-free number for 24-hour support.",
-    "exampleVi": "Gọi đến số miễn phí của chúng tôi để được hỗ trợ 24 giờ.",
-    "collocations": ["toll-free number", "toll-free hotline", "toll-free call"],
-    "synonyms": ["free of charge"],
-    "wordFamily": ["toll", "toll-free"],
-    "day": 28
-  },
-  {
-    "id": "hotline-noun",
-    "word": "hotline",
-    "baseWord": "hotline",
-    "type": "noun",
-    "meaning": "đường dây nóng",
-    "pronunciation": "/ˈhɑːtlaɪn/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The customer service hotline is available from 8 a.m. to 10 p.m.",
-    "exampleVi": "Đường dây nóng dịch vụ khách hàng hoạt động từ 8 giờ sáng đến 10 giờ tối.",
-    "collocations": ["customer hotline", "24-hour hotline", "complaint hotline"],
-    "synonyms": ["helpline", "call center"],
-    "wordFamily": ["hotline"],
-    "day": 28
-  },
-  {
-    "id": "outage-noun",
-    "word": "outage",
-    "baseWord": "outage",
-    "type": "noun",
-    "meaning": "sự gián đoạn dịch vụ, sự cố mất điện",
-    "pronunciation": "/ˈaʊtɪdʒ/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "We apologize for the service outage that occurred last night.",
-    "exampleVi": "Chúng tôi xin lỗi vì sự gián đoạn dịch vụ đã xảy ra tối qua.",
-    "collocations": ["power outage", "service outage", "network outage"],
-    "synonyms": ["disruption", "interruption", "blackout"],
-    "wordFamily": ["outage"],
-    "day": 28
-  },
-  {
-    "id": "on behalf of-phrase",
-    "word": "on behalf of",
-    "baseWord": "on behalf of",
-    "type": "phrase",
-    "meaning": "thay mặt cho, đại diện cho",
-    "pronunciation": "/ɑːn bɪˈhæf əv/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "On behalf of the company, I would like to apologize for the error.",
-    "exampleVi": "Thay mặt công ty, tôi muốn xin lỗi vì sai sót này.",
-    "collocations": ["on behalf of the company", "act on behalf of", "speak on behalf of"],
-    "synonyms": ["in the name of", "representing"],
-    "wordFamily": ["behalf"],
+    "collocations": [
+      "loyal clientele",
+      "diverse clientele",
+      "build a clientele"
+    ],
+    "synonyms": [
+      "customers",
+      "clients",
+      "patrons"
+    ],
+    "wordFamily": [
+      "client",
+      "clientele"
+    ],
     "day": 28
   },
   {
@@ -981,30 +1382,252 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
     "example": "As an apology, we are offering a complimentary upgrade to first class.",
     "exampleVi": "Để xin lỗi, chúng tôi mời bạn nâng hạng miễn phí lên hạng nhất.",
-    "collocations": ["complimentary service", "complimentary breakfast", "complimentary upgrade"],
-    "synonyms": ["free", "gratis"],
-    "wordFamily": ["compliment", "complimentary"],
+    "collocations": [
+      "complimentary service",
+      "complimentary breakfast",
+      "complimentary upgrade"
+    ],
+    "synonyms": [
+      "free",
+      "gratis"
+    ],
+    "wordFamily": [
+      "compliment",
+      "complimentary"
+    ],
     "day": 28
   },
   {
-    "id": "status-noun",
-    "word": "status",
-    "baseWord": "status",
+    "id": "correspondence-noun",
+    "word": "correspondence",
+    "baseWord": "correspond",
     "type": "noun",
-    "meaning": "tình trạng, trạng thái",
-    "pronunciation": "/ˈsteɪtəs/",
+    "meaning": "thư từ, liên lạc",
+    "pronunciation": "/ˌkɔːrəˈspɑːndəns/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please keep all correspondence with the seller for your records.",
+    "exampleVi": "Vui lòng giữ lại tất cả thư từ với người bán để lưu hồ sơ.",
+    "collocations": [
+      "business correspondence",
+      "email correspondence",
+      "written correspondence"
+    ],
+    "synonyms": [
+      "communication",
+      "letters"
+    ],
+    "wordFamily": [
+      "correspond",
+      "correspondent",
+      "corresponding"
+    ],
+    "day": 28
+  },
+  {
+    "id": "efficiently-adverb",
+    "word": "efficiently",
+    "baseWord": "efficient",
+    "type": "adverb",
+    "meaning": "một cách hiệu quả",
+    "pronunciation": "/ɪˈfɪʃəntli/",
     "topic": "Customer Service",
     "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Our staff is trained to handle complaints efficiently.",
+    "exampleVi": "Nhân viên của chúng tôi được đào tạo để xử lý khiếu nại một cách hiệu quả.",
+    "collocations": [
+      "work efficiently",
+      "operate efficiently",
+      "process efficiently"
+    ],
+    "synonyms": [
+      "effectively",
+      "productively"
+    ],
+    "wordFamily": [
+      "efficient",
+      "efficiency",
+      "inefficient"
+    ],
+    "day": 28
+  },
+  {
+    "id": "hotline-noun",
+    "word": "hotline",
+    "baseWord": "hotline",
+    "type": "noun",
+    "meaning": "đường dây nóng",
+    "pronunciation": "/ˈhɑːtlaɪn/",
+    "topic": "Customer Service",
+    "frequency": "medium",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "You can check the status of your order on our website.",
-    "exampleVi": "Bạn có thể kiểm tra tình trạng đơn hàng của mình trên trang web của chúng tôi.",
-    "collocations": ["order status", "current status", "check the status"],
-    "synonyms": ["condition", "state"],
-    "wordFamily": ["status"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The customer service hotline is available from 8 a.m. to 10 p.m.",
+    "exampleVi": "Đường dây nóng dịch vụ khách hàng hoạt động từ 8 giờ sáng đến 10 giờ tối.",
+    "collocations": [
+      "customer hotline",
+      "24-hour hotline",
+      "complaint hotline"
+    ],
+    "synonyms": [
+      "helpline",
+      "call center"
+    ],
+    "wordFamily": [
+      "hotline"
+    ],
+    "day": 28
+  },
+  {
+    "id": "malfunction-noun",
+    "word": "malfunction",
+    "baseWord": "malfunction",
+    "type": "noun",
+    "meaning": "sự trục trặc, hỏng hóc",
+    "pronunciation": "/mælˈfʌŋkʃən/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The product malfunction was caused by a manufacturing defect.",
+    "exampleVi": "Sự trục trặc của sản phẩm là do lỗi sản xuất gây ra.",
+    "collocations": [
+      "equipment malfunction",
+      "product malfunction",
+      "technical malfunction"
+    ],
+    "synonyms": [
+      "failure",
+      "breakdown",
+      "defect"
+    ],
+    "wordFamily": [
+      "malfunction",
+      "malfunctioning"
+    ],
+    "day": 28
+  },
+  {
+    "id": "on behalf of-phrase",
+    "word": "on behalf of",
+    "baseWord": "on behalf of",
+    "type": "phrase",
+    "meaning": "thay mặt cho, đại diện cho",
+    "pronunciation": "/ɑːn bɪˈhæf əv/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "On behalf of the company, I would like to apologize for the error.",
+    "exampleVi": "Thay mặt công ty, tôi muốn xin lỗi vì sai sót này.",
+    "collocations": [
+      "on behalf of the company",
+      "act on behalf of",
+      "speak on behalf of"
+    ],
+    "synonyms": [
+      "in the name of",
+      "representing"
+    ],
+    "wordFamily": [
+      "behalf"
+    ],
+    "day": 28
+  },
+  {
+    "id": "outage-noun",
+    "word": "outage",
+    "baseWord": "outage",
+    "type": "noun",
+    "meaning": "sự gián đoạn dịch vụ, sự cố mất điện",
+    "pronunciation": "/ˈaʊtɪdʒ/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We apologize for the service outage that occurred last night.",
+    "exampleVi": "Chúng tôi xin lỗi vì sự gián đoạn dịch vụ đã xảy ra tối qua.",
+    "collocations": [
+      "power outage",
+      "service outage",
+      "network outage"
+    ],
+    "synonyms": [
+      "disruption",
+      "interruption",
+      "blackout"
+    ],
+    "wordFamily": [
+      "outage"
+    ],
+    "day": 28
+  },
+  {
+    "id": "pending-adjective",
+    "word": "pending",
+    "baseWord": "pend",
+    "type": "adjective",
+    "meaning": "đang chờ xử lý",
+    "pronunciation": "/ˈpendɪŋ/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Your request is currently pending and will be processed soon.",
+    "exampleVi": "Yêu cầu của bạn hiện đang chờ xử lý và sẽ được xử lý sớm.",
+    "collocations": [
+      "pending approval",
+      "pending review",
+      "pending request"
+    ],
+    "synonyms": [
+      "awaiting",
+      "outstanding",
+      "unresolved"
+    ],
+    "wordFamily": [
+      "pend",
+      "pending"
+    ],
     "day": 28
   },
   {
@@ -1017,30 +1640,59 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Customer satisfaction is our top priority.",
     "exampleVi": "Sự hài lòng của khách hàng là ưu tiên hàng đầu của chúng tôi.",
-    "collocations": ["top priority", "high priority", "priority service"],
-    "synonyms": ["precedence", "preference"],
-    "wordFamily": ["prioritize", "priorities"],
+    "collocations": [
+      "top priority",
+      "high priority",
+      "priority service"
+    ],
+    "synonyms": [
+      "precedence",
+      "preference"
+    ],
+    "wordFamily": [
+      "prioritize",
+      "priorities"
+    ],
     "day": 28
   },
   {
-    "id": "callback-noun",
-    "word": "callback",
-    "baseWord": "callback",
-    "type": "noun",
-    "meaning": "cuộc gọi lại",
-    "pronunciation": "/ˈkɔːlbæk/",
+    "id": "rectify-verb",
+    "word": "rectify",
+    "baseWord": "rectify",
+    "type": "verb",
+    "meaning": "sửa chữa, khắc phục",
+    "pronunciation": "/ˈrektɪfaɪ/",
     "topic": "Customer Service",
     "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4"],
-    "example": "Would you like to schedule a callback from one of our agents?",
-    "exampleVi": "Bạn có muốn đặt lịch để một nhân viên của chúng tôi gọi lại không?",
-    "collocations": ["schedule a callback", "request a callback", "callback service"],
-    "synonyms": ["return call"],
-    "wordFamily": ["callback"],
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We are working to rectify the error on your account immediately.",
+    "exampleVi": "Chúng tôi đang xử lý để sửa chữa lỗi trên tài khoản của bạn ngay lập tức.",
+    "collocations": [
+      "rectify an error",
+      "rectify the situation",
+      "rectify a mistake"
+    ],
+    "synonyms": [
+      "correct",
+      "fix",
+      "remedy"
+    ],
+    "wordFamily": [
+      "rectification",
+      "rectified"
+    ],
     "day": 28
   },
   {
@@ -1053,12 +1705,157 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "You can redeem your loyalty points for a free product.",
     "exampleVi": "Bạn có thể đổi điểm thưởng trung thành để lấy sản phẩm miễn phí.",
-    "collocations": ["redeem points", "redeem a coupon", "redeem a voucher"],
-    "synonyms": ["exchange", "cash in"],
-    "wordFamily": ["redemption", "redeemable"],
+    "collocations": [
+      "redeem points",
+      "redeem a coupon",
+      "redeem a voucher"
+    ],
+    "synonyms": [
+      "exchange",
+      "cash in"
+    ],
+    "wordFamily": [
+      "redemption",
+      "redeemable"
+    ],
+    "day": 28
+  },
+  {
+    "id": "regret-verb",
+    "word": "regret",
+    "baseWord": "regret",
+    "type": "verb",
+    "meaning": "lấy làm tiếc",
+    "pronunciation": "/rɪˈɡret/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We regret any inconvenience this may have caused.",
+    "exampleVi": "Chúng tôi lấy làm tiếc về bất kỳ sự bất tiện nào mà việc này có thể đã gây ra.",
+    "collocations": [
+      "regret to inform",
+      "deeply regret",
+      "regret any inconvenience"
+    ],
+    "synonyms": [
+      "be sorry",
+      "lament"
+    ],
+    "wordFamily": [
+      "regret",
+      "regrettable",
+      "regretfully",
+      "regrettably"
+    ],
+    "day": 28
+  },
+  {
+    "id": "retain-verb",
+    "word": "retain",
+    "baseWord": "retain",
+    "type": "verb",
+    "meaning": "giữ lại, duy trì",
+    "pronunciation": "/rɪˈteɪn/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company focuses on retaining its existing customers.",
+    "exampleVi": "Công ty tập trung vào việc giữ chân khách hàng hiện tại.",
+    "collocations": [
+      "retain customers",
+      "retain employees",
+      "retain information"
+    ],
+    "synonyms": [
+      "keep",
+      "maintain"
+    ],
+    "wordFamily": [
+      "retention",
+      "retainer",
+      "retained"
+    ],
+    "day": 28
+  },
+  {
+    "id": "status-noun",
+    "word": "status",
+    "baseWord": "status",
+    "type": "noun",
+    "meaning": "tình trạng, trạng thái",
+    "pronunciation": "/ˈsteɪtəs/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You can check the status of your order on our website.",
+    "exampleVi": "Bạn có thể kiểm tra tình trạng đơn hàng của mình trên trang web của chúng tôi.",
+    "collocations": [
+      "order status",
+      "current status",
+      "check the status"
+    ],
+    "synonyms": [
+      "condition",
+      "state"
+    ],
+    "wordFamily": [
+      "status"
+    ],
+    "day": 28
+  },
+  {
+    "id": "subscriber-noun",
+    "word": "subscriber",
+    "baseWord": "subscribe",
+    "type": "noun",
+    "meaning": "người đăng ký, thuê bao",
+    "pronunciation": "/səbˈskraɪbər/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Subscribers will receive early access to new product launches.",
+    "exampleVi": "Người đăng ký sẽ được tiếp cận sớm các đợt ra mắt sản phẩm mới.",
+    "collocations": [
+      "current subscriber",
+      "newsletter subscriber",
+      "subscriber base"
+    ],
+    "synonyms": [
+      "member",
+      "follower"
+    ],
+    "wordFamily": [
+      "subscribe",
+      "subscription",
+      "subscribed"
+    ],
     "day": 28
   },
   {
@@ -1071,12 +1868,89 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "We have received many positive testimonials from satisfied customers.",
     "exampleVi": "Chúng tôi đã nhận được nhiều lời chứng thực tích cực từ khách hàng hài lòng.",
-    "collocations": ["customer testimonial", "positive testimonial", "written testimonial"],
-    "synonyms": ["review", "endorsement", "recommendation"],
-    "wordFamily": ["testify", "testimony", "testimonial"],
+    "collocations": [
+      "customer testimonial",
+      "positive testimonial",
+      "written testimonial"
+    ],
+    "synonyms": [
+      "review",
+      "endorsement",
+      "recommendation"
+    ],
+    "wordFamily": [
+      "testify",
+      "testimony",
+      "testimonial"
+    ],
+    "day": 28
+  },
+  {
+    "id": "toll-free-adjective",
+    "word": "toll-free",
+    "baseWord": "toll-free",
+    "type": "adjective",
+    "meaning": "miễn phí cuộc gọi",
+    "pronunciation": "/ˌtoʊl ˈfriː/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Call our toll-free number for 24-hour support.",
+    "exampleVi": "Gọi đến số miễn phí của chúng tôi để được hỗ trợ 24 giờ.",
+    "collocations": [
+      "toll-free number",
+      "toll-free hotline",
+      "toll-free call"
+    ],
+    "synonyms": [
+      "free of charge"
+    ],
+    "wordFamily": [
+      "toll",
+      "toll-free"
+    ],
+    "day": 28
+  },
+  {
+    "id": "voucher-noun",
+    "word": "voucher",
+    "baseWord": "voucher",
+    "type": "noun",
+    "meaning": "phiếu quà tặng, phiếu giảm giá",
+    "pronunciation": "/ˈvaʊtʃər/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "As compensation, we would like to offer you a $50 voucher.",
+    "exampleVi": "Để bồi thường, chúng tôi muốn tặng bạn một phiếu quà tặng trị giá 50 đô la.",
+    "collocations": [
+      "gift voucher",
+      "discount voucher",
+      "redeem a voucher"
+    ],
+    "synonyms": [
+      "coupon",
+      "certificate"
+    ],
+    "wordFamily": [
+      "vouchers"
+    ],
     "day": 28
   },
   {
@@ -1089,318 +1963,26 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "We acknowledge that the delay was caused by an error on our part.",
     "exampleVi": "Chúng tôi thừa nhận rằng sự chậm trễ là do lỗi từ phía chúng tôi.",
-    "collocations": ["acknowledge a mistake", "acknowledge receipt", "acknowledge a complaint"],
-    "synonyms": ["recognize", "admit"],
-    "wordFamily": ["acknowledgment", "acknowledged"],
-    "day": 29
-  },
-  {
-    "id": "resolution-noun",
-    "word": "resolution",
-    "baseWord": "resolve",
-    "type": "noun",
-    "meaning": "sự giải quyết, giải pháp",
-    "pronunciation": "/ˌrezəˈluːʃən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We are committed to finding a resolution that satisfies all parties.",
-    "exampleVi": "Chúng tôi cam kết tìm ra giải pháp làm hài lòng tất cả các bên.",
-    "collocations": ["dispute resolution", "conflict resolution", "quick resolution"],
-    "synonyms": ["solution", "settlement"],
-    "wordFamily": ["resolve", "resolved", "unresolved"],
-    "day": 29
-  },
-  {
-    "id": "expectation-noun",
-    "word": "expectation",
-    "baseWord": "expect",
-    "type": "noun",
-    "meaning": "kỳ vọng, sự mong đợi",
-    "pronunciation": "/ˌekspekˈteɪʃən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The product did not meet the customer's expectations.",
-    "exampleVi": "Sản phẩm không đáp ứng kỳ vọng của khách hàng.",
-    "collocations": ["meet expectations", "exceed expectations", "customer expectations"],
-    "synonyms": ["anticipation", "hope"],
-    "wordFamily": ["expect", "expected", "unexpected"],
-    "day": 29
-  },
-  {
-    "id": "recommendation-noun",
-    "word": "recommendation",
-    "baseWord": "recommend",
-    "type": "noun",
-    "meaning": "đề xuất, lời khuyến nghị",
-    "pronunciation": "/ˌrekəmenˈdeɪʃən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Based on your preferences, here are our recommendations.",
-    "exampleVi": "Dựa trên sở thích của bạn, đây là những đề xuất của chúng tôi.",
-    "collocations": ["make a recommendation", "strong recommendation", "product recommendation"],
-    "synonyms": ["suggestion", "advice"],
-    "wordFamily": ["recommend", "recommended"],
-    "day": 29
-  },
-  {
-    "id": "reputation-noun",
-    "word": "reputation",
-    "baseWord": "reputation",
-    "type": "noun",
-    "meaning": "danh tiếng, uy tín",
-    "pronunciation": "/ˌrepjəˈteɪʃən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company has built a strong reputation for excellent customer service.",
-    "exampleVi": "Công ty đã xây dựng danh tiếng vững chắc về dịch vụ khách hàng xuất sắc.",
-    "collocations": ["build a reputation", "good reputation", "damage a reputation"],
-    "synonyms": ["standing", "prestige", "image"],
-    "wordFamily": ["reputable", "reputed"],
-    "day": 29
-  },
-  {
-    "id": "standard-noun",
-    "word": "standard",
-    "baseWord": "standard",
-    "type": "noun",
-    "meaning": "tiêu chuẩn",
-    "pronunciation": "/ˈstændərd/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Our service standards require all calls to be answered within three rings.",
-    "exampleVi": "Tiêu chuẩn dịch vụ của chúng tôi yêu cầu tất cả cuộc gọi phải được trả lời trong vòng ba hồi chuông.",
-    "collocations": ["quality standard", "high standard", "meet standards"],
-    "synonyms": ["criterion", "benchmark"],
-    "wordFamily": ["standardize", "standardized", "standards"],
-    "day": 29
-  },
-  {
-    "id": "dedication-noun",
-    "word": "dedication",
-    "baseWord": "dedicate",
-    "type": "noun",
-    "meaning": "sự cống hiến, sự tận tâm",
-    "pronunciation": "/ˌdedɪˈkeɪʃən/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The team's dedication to customer care has earned many positive reviews.",
-    "exampleVi": "Sự tận tâm chăm sóc khách hàng của đội ngũ đã nhận được nhiều đánh giá tích cực.",
-    "collocations": ["dedication to service", "show dedication", "dedication and commitment"],
-    "synonyms": ["commitment", "devotion"],
-    "wordFamily": ["dedicate", "dedicated"],
-    "day": 29
-  },
-  {
-    "id": "exceptional-adjective",
-    "word": "exceptional",
-    "baseWord": "exception",
-    "type": "adjective",
-    "meaning": "xuất sắc, đặc biệt",
-    "pronunciation": "/ɪkˈsepʃənl/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The staff provided exceptional service during the event.",
-    "exampleVi": "Nhân viên đã cung cấp dịch vụ xuất sắc trong suốt sự kiện.",
-    "collocations": ["exceptional service", "exceptional quality", "exceptional performance"],
-    "synonyms": ["outstanding", "remarkable", "excellent"],
-    "wordFamily": ["exception", "exceptionally"],
-    "day": 29
-  },
-  {
-    "id": "professionalism-noun",
-    "word": "professionalism",
-    "baseWord": "professional",
-    "type": "noun",
-    "meaning": "sự chuyên nghiệp, tính chuyên nghiệp",
-    "pronunciation": "/prəˈfeʃənəlɪzəm/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We expect a high level of professionalism from all customer-facing employees.",
-    "exampleVi": "Chúng tôi kỳ vọng mức độ chuyên nghiệp cao từ tất cả nhân viên tiếp xúc khách hàng.",
-    "collocations": ["level of professionalism", "show professionalism", "professionalism and courtesy"],
-    "synonyms": ["expertise", "competence"],
-    "wordFamily": ["professional", "professionally", "profession"],
-    "day": 29
-  },
-  {
-    "id": "timely-adjective",
-    "word": "timely",
-    "baseWord": "timely",
-    "type": "adjective",
-    "meaning": "kịp thời, đúng lúc",
-    "pronunciation": "/ˈtaɪmli/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "A timely response to customer inquiries is essential for building trust.",
-    "exampleVi": "Phản hồi kịp thời đối với yêu cầu của khách hàng là điều cần thiết để xây dựng lòng tin.",
-    "collocations": ["timely response", "timely delivery", "timely manner"],
-    "synonyms": ["prompt", "punctual"],
-    "wordFamily": ["timeliness", "untimely"],
-    "day": 29
-  },
-  {
-    "id": "consistently-adverb",
-    "word": "consistently",
-    "baseWord": "consistent",
-    "type": "adverb",
-    "meaning": "một cách nhất quán, liên tục",
-    "pronunciation": "/kənˈsɪstəntli/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company has consistently received high marks for customer satisfaction.",
-    "exampleVi": "Công ty liên tục nhận được điểm cao về sự hài lòng của khách hàng.",
-    "collocations": ["consistently deliver", "consistently improve", "consistently high"],
-    "synonyms": ["constantly", "regularly"],
-    "wordFamily": ["consistent", "consistency", "inconsistent"],
-    "day": 29
-  },
-  {
-    "id": "value-verb",
-    "word": "value",
-    "baseWord": "value",
-    "type": "verb",
-    "meaning": "đánh giá cao, trân trọng",
-    "pronunciation": "/ˈvæljuː/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "We value your opinion and encourage you to share your experience.",
-    "exampleVi": "Chúng tôi trân trọng ý kiến của bạn và khuyến khích bạn chia sẻ trải nghiệm.",
-    "collocations": ["value feedback", "value customers", "highly valued"],
-    "synonyms": ["appreciate", "treasure"],
-    "wordFamily": ["value", "valuable", "invaluable"],
-    "day": 29
-  },
-  {
-    "id": "exceed-verb",
-    "word": "exceed",
-    "baseWord": "exceed",
-    "type": "verb",
-    "meaning": "vượt quá, vượt trội",
-    "pronunciation": "/ɪkˈsiːd/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Our goal is to exceed customer expectations with every interaction.",
-    "exampleVi": "Mục tiêu của chúng tôi là vượt quá kỳ vọng của khách hàng trong mọi tương tác.",
-    "collocations": ["exceed expectations", "exceed the limit", "exceed targets"],
-    "synonyms": ["surpass", "outperform"],
-    "wordFamily": ["exceeding", "exceedingly"],
-    "day": 29
-  },
-  {
-    "id": "in person-phrase",
-    "word": "in person",
-    "baseWord": "in person",
-    "type": "phrase",
-    "meaning": "trực tiếp, đích thân",
-    "pronunciation": "/ɪn ˈpɜːrsən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "You may also visit our office to speak with a representative in person.",
-    "exampleVi": "Bạn cũng có thể đến văn phòng để nói chuyện trực tiếp với nhân viên đại diện.",
-    "collocations": ["visit in person", "speak in person", "apply in person"],
-    "synonyms": ["face to face", "personally"],
-    "wordFamily": ["person", "personal"],
-    "day": 29
-  },
-  {
-    "id": "reassure-verb",
-    "word": "reassure",
-    "baseWord": "reassure",
-    "type": "verb",
-    "meaning": "trấn an, cam đoan",
-    "pronunciation": "/ˌriːəˈʃʊr/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The manager reassured the client that the problem would be fixed by Monday.",
-    "exampleVi": "Quản lý đã trấn an khách hàng rằng vấn đề sẽ được sửa trước thứ Hai.",
-    "collocations": ["reassure customers", "reassure the public", "reassure someone that"],
-    "synonyms": ["comfort", "assure"],
-    "wordFamily": ["reassurance", "reassuring", "reassured"],
-    "day": 29
-  },
-  {
-    "id": "quality-noun",
-    "word": "quality",
-    "baseWord": "quality",
-    "type": "noun",
-    "meaning": "chất lượng",
-    "pronunciation": "/ˈkwɑːləti/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "We are dedicated to maintaining the highest quality of service.",
-    "exampleVi": "Chúng tôi cam kết duy trì chất lượng dịch vụ cao nhất.",
-    "collocations": ["quality control", "high quality", "quality assurance"],
-    "synonyms": ["caliber", "grade"],
-    "wordFamily": ["qualify", "qualified", "qualitative"],
-    "day": 29
-  },
-  {
-    "id": "commend-verb",
-    "word": "commend",
-    "baseWord": "commend",
-    "type": "verb",
-    "meaning": "khen ngợi, tuyên dương",
-    "pronunciation": "/kəˈmend/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "I would like to commend your staff for their excellent service.",
-    "exampleVi": "Tôi muốn khen ngợi nhân viên của bạn vì dịch vụ xuất sắc.",
-    "collocations": ["commend someone for", "highly commended", "commend the team"],
-    "synonyms": ["praise", "compliment", "applaud"],
-    "wordFamily": ["commendation", "commendable"],
-    "day": 29
-  },
-  {
-    "id": "outstanding-adjective",
-    "word": "outstanding",
-    "baseWord": "outstanding",
-    "type": "adjective",
-    "meaning": "xuất sắc, nổi bật",
-    "pronunciation": "/aʊtˈstændɪŋ/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The hotel received an award for outstanding customer service.",
-    "exampleVi": "Khách sạn đã nhận được giải thưởng cho dịch vụ khách hàng xuất sắc.",
-    "collocations": ["outstanding service", "outstanding performance", "outstanding achievement"],
-    "synonyms": ["exceptional", "remarkable", "superb"],
-    "wordFamily": ["outstand", "outstandingly"],
+    "collocations": [
+      "acknowledge a mistake",
+      "acknowledge receipt",
+      "acknowledge a complaint"
+    ],
+    "synonyms": [
+      "recognize",
+      "admit"
+    ],
+    "wordFamily": [
+      "acknowledgment",
+      "acknowledged"
+    ],
     "day": 29
   },
   {
@@ -1413,12 +1995,124 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "We will address your concerns as soon as possible.",
     "exampleVi": "Chúng tôi sẽ giải quyết các lo ngại của bạn sớm nhất có thể.",
-    "collocations": ["address a concern", "address an issue", "address a problem"],
-    "synonyms": ["tackle", "deal with"],
-    "wordFamily": ["address", "addressed"],
+    "collocations": [
+      "address a concern",
+      "address an issue",
+      "address a problem"
+    ],
+    "synonyms": [
+      "tackle",
+      "deal with"
+    ],
+    "wordFamily": [
+      "address",
+      "addressed"
+    ],
+    "day": 29
+  },
+  {
+    "id": "commend-verb",
+    "word": "commend",
+    "baseWord": "commend",
+    "type": "verb",
+    "meaning": "khen ngợi, tuyên dương",
+    "pronunciation": "/kəˈmend/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "I would like to commend your staff for their excellent service.",
+    "exampleVi": "Tôi muốn khen ngợi nhân viên của bạn vì dịch vụ xuất sắc.",
+    "collocations": [
+      "commend someone for",
+      "highly commended",
+      "commend the team"
+    ],
+    "synonyms": [
+      "praise",
+      "compliment",
+      "applaud"
+    ],
+    "wordFamily": [
+      "commendation",
+      "commendable"
+    ],
+    "day": 29
+  },
+  {
+    "id": "consistently-adverb",
+    "word": "consistently",
+    "baseWord": "consistent",
+    "type": "adverb",
+    "meaning": "một cách nhất quán, liên tục",
+    "pronunciation": "/kənˈsɪstəntli/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company has consistently received high marks for customer satisfaction.",
+    "exampleVi": "Công ty liên tục nhận được điểm cao về sự hài lòng của khách hàng.",
+    "collocations": [
+      "consistently deliver",
+      "consistently improve",
+      "consistently high"
+    ],
+    "synonyms": [
+      "constantly",
+      "regularly"
+    ],
+    "wordFamily": [
+      "consistent",
+      "consistency",
+      "inconsistent"
+    ],
+    "day": 29
+  },
+  {
+    "id": "dedication-noun",
+    "word": "dedication",
+    "baseWord": "dedicate",
+    "type": "noun",
+    "meaning": "sự cống hiến, sự tận tâm",
+    "pronunciation": "/ˌdedɪˈkeɪʃən/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The team's dedication to customer care has earned many positive reviews.",
+    "exampleVi": "Sự tận tâm chăm sóc khách hàng của đội ngũ đã nhận được nhiều đánh giá tích cực.",
+    "collocations": [
+      "dedication to service",
+      "show dedication",
+      "dedication and commitment"
+    ],
+    "synonyms": [
+      "commitment",
+      "devotion"
+    ],
+    "wordFamily": [
+      "dedicate",
+      "dedicated"
+    ],
     "day": 29
   },
   {
@@ -1431,139 +2125,484 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Customers who have spent over $100 are eligible for a free gift.",
     "exampleVi": "Khách hàng đã chi hơn 100 đô la sẽ đủ điều kiện nhận quà miễn phí.",
-    "collocations": ["eligible for a refund", "eligible for a discount", "eligible customers"],
-    "synonyms": ["qualified", "entitled"],
-    "wordFamily": ["eligibility", "ineligible"],
+    "collocations": [
+      "eligible for a refund",
+      "eligible for a discount",
+      "eligible customers"
+    ],
+    "synonyms": [
+      "qualified",
+      "entitled"
+    ],
+    "wordFamily": [
+      "eligibility",
+      "ineligible"
+    ],
     "day": 29
   },
   {
-    "id": "inquire-verb",
-    "word": "inquire",
-    "baseWord": "inquire",
+    "id": "exceed-verb",
+    "word": "exceed",
+    "baseWord": "exceed",
     "type": "verb",
-    "meaning": "hỏi thông tin, tìm hiểu",
-    "pronunciation": "/ɪnˈkwaɪər/",
+    "meaning": "vượt quá, vượt trội",
+    "pronunciation": "/ɪkˈsiːd/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Several customers inquired about the availability of the new model.",
-    "exampleVi": "Nhiều khách hàng đã hỏi thông tin về tình trạng sẵn có của mẫu mới.",
-    "collocations": ["inquire about", "inquire within", "inquire further"],
-    "synonyms": ["ask", "query"],
-    "wordFamily": ["inquiry", "inquirer"],
-    "day": 30
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Our goal is to exceed customer expectations with every interaction.",
+    "exampleVi": "Mục tiêu của chúng tôi là vượt quá kỳ vọng của khách hàng trong mọi tương tác.",
+    "collocations": [
+      "exceed expectations",
+      "exceed the limit",
+      "exceed targets"
+    ],
+    "synonyms": [
+      "surpass",
+      "outperform"
+    ],
+    "wordFamily": [
+      "exceeding",
+      "exceedingly"
+    ],
+    "day": 29
   },
   {
-    "id": "manner-noun",
-    "word": "manner",
-    "baseWord": "manner",
-    "type": "noun",
-    "meaning": "cách thức, thái độ",
-    "pronunciation": "/ˈmænər/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All staff should interact with clients in a professional manner.",
-    "exampleVi": "Tất cả nhân viên nên tương tác với khách hàng theo cách chuyên nghiệp.",
-    "collocations": ["professional manner", "friendly manner", "timely manner"],
-    "synonyms": ["way", "fashion", "style"],
-    "wordFamily": ["manners", "mannerly"],
-    "day": 30
-  },
-  {
-    "id": "process-verb",
-    "word": "process",
-    "baseWord": "process",
-    "type": "verb",
-    "meaning": "xử lý, tiến hành",
-    "pronunciation": "/ˈprɑːses/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Your return will be processed within five to seven business days.",
-    "exampleVi": "Yêu cầu trả hàng của bạn sẽ được xử lý trong vòng năm đến bảy ngày làm việc.",
-    "collocations": ["process an order", "process a return", "process a claim"],
-    "synonyms": ["handle", "deal with"],
-    "wordFamily": ["process", "processing", "processed"],
-    "day": 30
-  },
-  {
-    "id": "opt-verb",
-    "word": "opt",
-    "baseWord": "opt",
-    "type": "verb",
-    "meaning": "chọn, lựa chọn",
-    "pronunciation": "/ɑːpt/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Customers may opt for a replacement or a full refund.",
-    "exampleVi": "Khách hàng có thể chọn thay thế sản phẩm hoặc hoàn tiền toàn bộ.",
-    "collocations": ["opt for", "opt out", "opt to receive"],
-    "synonyms": ["choose", "select", "decide"],
-    "wordFamily": ["option", "optional", "opt-in"],
-    "day": 30
-  },
-  {
-    "id": "lengthy-adjective",
-    "word": "lengthy",
-    "baseWord": "length",
+    "id": "exceptional-adjective",
+    "word": "exceptional",
+    "baseWord": "exception",
     "type": "adjective",
-    "meaning": "kéo dài, dài dòng",
-    "pronunciation": "/ˈleŋθi/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We apologize for the lengthy wait time you experienced.",
-    "exampleVi": "Chúng tôi xin lỗi vì thời gian chờ đợi kéo dài mà bạn đã trải qua.",
-    "collocations": ["lengthy process", "lengthy delay", "lengthy wait"],
-    "synonyms": ["prolonged", "extended", "long"],
-    "wordFamily": ["length", "lengthen", "lengthily"],
-    "day": 30
-  },
-  {
-    "id": "regardless-adverb",
-    "word": "regardless",
-    "baseWord": "regardless",
-    "type": "adverb",
-    "meaning": "bất kể, dù sao đi nữa",
-    "pronunciation": "/rɪˈɡɑːrdləs/",
+    "meaning": "xuất sắc, đặc biệt",
+    "pronunciation": "/ɪkˈsepʃənl/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All customers should be treated with respect, regardless of the amount they spend.",
-    "exampleVi": "Tất cả khách hàng nên được đối xử tôn trọng, bất kể số tiền họ chi tiêu.",
-    "collocations": ["regardless of", "regardless of the outcome", "regardless of the cost"],
-    "synonyms": ["irrespective", "nevertheless"],
-    "wordFamily": ["regard", "regardless"],
-    "day": 30
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The staff provided exceptional service during the event.",
+    "exampleVi": "Nhân viên đã cung cấp dịch vụ xuất sắc trong suốt sự kiện.",
+    "collocations": [
+      "exceptional service",
+      "exceptional quality",
+      "exceptional performance"
+    ],
+    "synonyms": [
+      "outstanding",
+      "remarkable",
+      "excellent"
+    ],
+    "wordFamily": [
+      "exception",
+      "exceptionally"
+    ],
+    "day": 29
   },
   {
-    "id": "in advance-phrase",
-    "word": "in advance",
-    "baseWord": "in advance",
+    "id": "expectation-noun",
+    "word": "expectation",
+    "baseWord": "expect",
+    "type": "noun",
+    "meaning": "kỳ vọng, sự mong đợi",
+    "pronunciation": "/ˌekspekˈteɪʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The product did not meet the customer's expectations.",
+    "exampleVi": "Sản phẩm không đáp ứng kỳ vọng của khách hàng.",
+    "collocations": [
+      "meet expectations",
+      "exceed expectations",
+      "customer expectations"
+    ],
+    "synonyms": [
+      "anticipation",
+      "hope"
+    ],
+    "wordFamily": [
+      "expect",
+      "expected",
+      "unexpected"
+    ],
+    "day": 29
+  },
+  {
+    "id": "in person-phrase",
+    "word": "in person",
+    "baseWord": "in person",
     "type": "phrase",
-    "meaning": "trước, sớm",
-    "pronunciation": "/ɪn ədˈvæns/",
+    "meaning": "trực tiếp, đích thân",
+    "pronunciation": "/ɪn ˈpɜːrsən/",
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Please notify us at least 48 hours in advance if you need to cancel.",
-    "exampleVi": "Vui lòng thông báo cho chúng tôi ít nhất 48 giờ trước nếu bạn cần hủy.",
-    "collocations": ["book in advance", "pay in advance", "notify in advance"],
-    "synonyms": ["beforehand", "ahead of time"],
-    "wordFamily": ["advance", "advanced"],
-    "day": 30
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "You may also visit our office to speak with a representative in person.",
+    "exampleVi": "Bạn cũng có thể đến văn phòng để nói chuyện trực tiếp với nhân viên đại diện.",
+    "collocations": [
+      "visit in person",
+      "speak in person",
+      "apply in person"
+    ],
+    "synonyms": [
+      "face to face",
+      "personally"
+    ],
+    "wordFamily": [
+      "person",
+      "personal"
+    ],
+    "day": 29
+  },
+  {
+    "id": "outstanding-adjective",
+    "word": "outstanding",
+    "baseWord": "outstanding",
+    "type": "adjective",
+    "meaning": "xuất sắc, nổi bật",
+    "pronunciation": "/aʊtˈstændɪŋ/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The hotel received an award for outstanding customer service.",
+    "exampleVi": "Khách sạn đã nhận được giải thưởng cho dịch vụ khách hàng xuất sắc.",
+    "collocations": [
+      "outstanding service",
+      "outstanding performance",
+      "outstanding achievement"
+    ],
+    "synonyms": [
+      "exceptional",
+      "remarkable",
+      "superb"
+    ],
+    "wordFamily": [
+      "outstand",
+      "outstandingly"
+    ],
+    "day": 29
+  },
+  {
+    "id": "professionalism-noun",
+    "word": "professionalism",
+    "baseWord": "professional",
+    "type": "noun",
+    "meaning": "sự chuyên nghiệp, tính chuyên nghiệp",
+    "pronunciation": "/prəˈfeʃənəlɪzəm/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We expect a high level of professionalism from all customer-facing employees.",
+    "exampleVi": "Chúng tôi kỳ vọng mức độ chuyên nghiệp cao từ tất cả nhân viên tiếp xúc khách hàng.",
+    "collocations": [
+      "level of professionalism",
+      "show professionalism",
+      "professionalism and courtesy"
+    ],
+    "synonyms": [
+      "expertise",
+      "competence"
+    ],
+    "wordFamily": [
+      "professional",
+      "professionally",
+      "profession"
+    ],
+    "day": 29
+  },
+  {
+    "id": "quality-noun",
+    "word": "quality",
+    "baseWord": "quality",
+    "type": "noun",
+    "meaning": "chất lượng",
+    "pronunciation": "/ˈkwɑːləti/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We are dedicated to maintaining the highest quality of service.",
+    "exampleVi": "Chúng tôi cam kết duy trì chất lượng dịch vụ cao nhất.",
+    "collocations": [
+      "quality control",
+      "high quality",
+      "quality assurance"
+    ],
+    "synonyms": [
+      "caliber",
+      "grade"
+    ],
+    "wordFamily": [
+      "qualify",
+      "qualified",
+      "qualitative"
+    ],
+    "day": 29
+  },
+  {
+    "id": "reassure-verb",
+    "word": "reassure",
+    "baseWord": "reassure",
+    "type": "verb",
+    "meaning": "trấn an, cam đoan",
+    "pronunciation": "/ˌriːəˈʃʊr/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager reassured the client that the problem would be fixed by Monday.",
+    "exampleVi": "Quản lý đã trấn an khách hàng rằng vấn đề sẽ được sửa trước thứ Hai.",
+    "collocations": [
+      "reassure customers",
+      "reassure the public",
+      "reassure someone that"
+    ],
+    "synonyms": [
+      "comfort",
+      "assure"
+    ],
+    "wordFamily": [
+      "reassurance",
+      "reassuring",
+      "reassured"
+    ],
+    "day": 29
+  },
+  {
+    "id": "recommendation-noun",
+    "word": "recommendation",
+    "baseWord": "recommend",
+    "type": "noun",
+    "meaning": "đề xuất, lời khuyến nghị",
+    "pronunciation": "/ˌrekəmenˈdeɪʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Based on your preferences, here are our recommendations.",
+    "exampleVi": "Dựa trên sở thích của bạn, đây là những đề xuất của chúng tôi.",
+    "collocations": [
+      "make a recommendation",
+      "strong recommendation",
+      "product recommendation"
+    ],
+    "synonyms": [
+      "suggestion",
+      "advice"
+    ],
+    "wordFamily": [
+      "recommend",
+      "recommended"
+    ],
+    "day": 29
+  },
+  {
+    "id": "reputation-noun",
+    "word": "reputation",
+    "baseWord": "reputation",
+    "type": "noun",
+    "meaning": "danh tiếng, uy tín",
+    "pronunciation": "/ˌrepjəˈteɪʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company has built a strong reputation for excellent customer service.",
+    "exampleVi": "Công ty đã xây dựng danh tiếng vững chắc về dịch vụ khách hàng xuất sắc.",
+    "collocations": [
+      "build a reputation",
+      "good reputation",
+      "damage a reputation"
+    ],
+    "synonyms": [
+      "standing",
+      "prestige",
+      "image"
+    ],
+    "wordFamily": [
+      "reputable",
+      "reputed"
+    ],
+    "day": 29
+  },
+  {
+    "id": "resolution-noun",
+    "word": "resolution",
+    "baseWord": "resolve",
+    "type": "noun",
+    "meaning": "sự giải quyết, giải pháp",
+    "pronunciation": "/ˌrezəˈluːʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We are committed to finding a resolution that satisfies all parties.",
+    "exampleVi": "Chúng tôi cam kết tìm ra giải pháp làm hài lòng tất cả các bên.",
+    "collocations": [
+      "dispute resolution",
+      "conflict resolution",
+      "quick resolution"
+    ],
+    "synonyms": [
+      "solution",
+      "settlement"
+    ],
+    "wordFamily": [
+      "resolve",
+      "resolved",
+      "unresolved"
+    ],
+    "day": 29
+  },
+  {
+    "id": "standard-noun",
+    "word": "standard",
+    "baseWord": "standard",
+    "type": "noun",
+    "meaning": "tiêu chuẩn",
+    "pronunciation": "/ˈstændərd/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Our service standards require all calls to be answered within three rings.",
+    "exampleVi": "Tiêu chuẩn dịch vụ của chúng tôi yêu cầu tất cả cuộc gọi phải được trả lời trong vòng ba hồi chuông.",
+    "collocations": [
+      "quality standard",
+      "high standard",
+      "meet standards"
+    ],
+    "synonyms": [
+      "criterion",
+      "benchmark"
+    ],
+    "wordFamily": [
+      "standardize",
+      "standardized",
+      "standards"
+    ],
+    "day": 29
+  },
+  {
+    "id": "timely-adjective",
+    "word": "timely",
+    "baseWord": "timely",
+    "type": "adjective",
+    "meaning": "kịp thời, đúng lúc",
+    "pronunciation": "/ˈtaɪmli/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "A timely response to customer inquiries is essential for building trust.",
+    "exampleVi": "Phản hồi kịp thời đối với yêu cầu của khách hàng là điều cần thiết để xây dựng lòng tin.",
+    "collocations": [
+      "timely response",
+      "timely delivery",
+      "timely manner"
+    ],
+    "synonyms": [
+      "prompt",
+      "punctual"
+    ],
+    "wordFamily": [
+      "timeliness",
+      "untimely"
+    ],
+    "day": 29
+  },
+  {
+    "id": "value-verb",
+    "word": "value",
+    "baseWord": "value",
+    "type": "verb",
+    "meaning": "đánh giá cao, trân trọng",
+    "pronunciation": "/ˈvæljuː/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We value your opinion and encourage you to share your experience.",
+    "exampleVi": "Chúng tôi trân trọng ý kiến của bạn và khuyến khích bạn chia sẻ trải nghiệm.",
+    "collocations": [
+      "value feedback",
+      "value customers",
+      "highly valued"
+    ],
+    "synonyms": [
+      "appreciate",
+      "treasure"
+    ],
+    "wordFamily": [
+      "value",
+      "valuable",
+      "invaluable"
+    ],
+    "day": 29
   },
   {
     "id": "apologetic-adjective",
@@ -1575,138 +2614,27 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "The manager was very apologetic about the billing mistake.",
     "exampleVi": "Quản lý rất hối lỗi về sai sót trong hóa đơn.",
-    "collocations": ["apologetic tone", "apologetic response", "deeply apologetic"],
-    "synonyms": ["sorry", "remorseful", "regretful"],
-    "wordFamily": ["apologize", "apology", "apologetically"],
-    "day": 30
-  },
-  {
-    "id": "oversight-noun",
-    "word": "oversight",
-    "baseWord": "oversight",
-    "type": "noun",
-    "meaning": "sự sơ suất, sự giám sát",
-    "pronunciation": "/ˈoʊvərsaɪt/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The duplicate charge was due to an oversight in our billing system.",
-    "exampleVi": "Việc tính phí trùng lặp là do sơ suất trong hệ thống thanh toán của chúng tôi.",
-    "collocations": ["oversight error", "due to an oversight", "regulatory oversight"],
-    "synonyms": ["mistake", "omission", "lapse"],
-    "wordFamily": ["oversee", "overseer"],
-    "day": 30
-  },
-  {
-    "id": "restore-verb",
-    "word": "restore",
-    "baseWord": "restore",
-    "type": "verb",
-    "meaning": "khôi phục, phục hồi",
-    "pronunciation": "/rɪˈstɔːr/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Our team is working to restore full service as quickly as possible.",
-    "exampleVi": "Đội ngũ của chúng tôi đang nỗ lực khôi phục toàn bộ dịch vụ nhanh nhất có thể.",
-    "collocations": ["restore service", "restore confidence", "restore access"],
-    "synonyms": ["reinstate", "recover"],
-    "wordFamily": ["restoration", "restored", "restorative"],
-    "day": 30
-  },
-  {
-    "id": "log-noun",
-    "word": "log",
-    "baseWord": "log",
-    "type": "noun",
-    "meaning": "nhật ký, bản ghi",
-    "pronunciation": "/lɔːɡ/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "All customer interactions are recorded in the service log.",
-    "exampleVi": "Tất cả các tương tác với khách hàng được ghi lại trong nhật ký dịch vụ.",
-    "collocations": ["service log", "activity log", "call log"],
-    "synonyms": ["record", "register"],
-    "wordFamily": ["log", "logged", "logging"],
-    "day": 30
-  },
-  {
-    "id": "refundable-adjective",
-    "word": "refundable",
-    "baseWord": "refund",
-    "type": "adjective",
-    "meaning": "có thể hoàn lại",
-    "pronunciation": "/rɪˈfʌndəbl/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Please note that this deposit is non-refundable.",
-    "exampleVi": "Xin lưu ý rằng khoản tiền đặt cọc này không thể hoàn lại.",
-    "collocations": ["refundable deposit", "non-refundable", "fully refundable"],
-    "synonyms": ["reimbursable", "returnable"],
-    "wordFamily": ["refund", "refunded", "non-refundable"],
-    "day": 30
-  },
-  {
-    "id": "interaction-noun",
-    "word": "interaction",
-    "baseWord": "interact",
-    "type": "noun",
-    "meaning": "sự tương tác, sự giao tiếp",
-    "pronunciation": "/ˌɪntərˈækʃən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Every customer interaction is an opportunity to build trust.",
-    "exampleVi": "Mỗi lần tương tác với khách hàng là một cơ hội để xây dựng lòng tin.",
-    "collocations": ["customer interaction", "face-to-face interaction", "positive interaction"],
-    "synonyms": ["exchange", "communication"],
-    "wordFamily": ["interact", "interactive", "interactively"],
-    "day": 30
-  },
-  {
-    "id": "empathy-noun",
-    "word": "empathy",
-    "baseWord": "empathy",
-    "type": "noun",
-    "meaning": "sự đồng cảm, sự thấu hiểu",
-    "pronunciation": "/ˈempəθi/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Showing empathy towards customers can greatly improve their experience.",
-    "exampleVi": "Thể hiện sự đồng cảm với khách hàng có thể cải thiện đáng kể trải nghiệm của họ.",
-    "collocations": ["show empathy", "express empathy", "empathy and understanding"],
-    "synonyms": ["compassion", "understanding", "sympathy"],
-    "wordFamily": ["empathize", "empathetic", "empathetically"],
-    "day": 30
-  },
-  {
-    "id": "courteously-adverb",
-    "word": "courteously",
-    "baseWord": "courteous",
-    "type": "adverb",
-    "meaning": "một cách lịch sự, nhã nhặn",
-    "pronunciation": "/ˈkɜːrtiəsli/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "Employees are required to greet all visitors courteously.",
-    "exampleVi": "Nhân viên được yêu cầu chào đón tất cả khách một cách lịch sự.",
-    "collocations": ["courteously respond", "courteously greet", "courteously handle"],
-    "synonyms": ["politely", "respectfully"],
-    "wordFamily": ["courteous", "courtesy", "discourteous"],
+    "collocations": [
+      "apologetic tone",
+      "apologetic response",
+      "deeply apologetic"
+    ],
+    "synonyms": [
+      "sorry",
+      "remorseful",
+      "regretful"
+    ],
+    "wordFamily": [
+      "apologize",
+      "apology",
+      "apologetically"
+    ],
     "day": 30
   },
   {
@@ -1719,30 +2647,26 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Please return our call at your earliest convenience.",
     "exampleVi": "Vui lòng gọi lại cho chúng tôi vào lúc sớm nhất thuận tiện cho bạn.",
-    "collocations": ["reply at your earliest convenience", "contact us at your earliest convenience", "respond at your earliest convenience"],
-    "synonyms": ["as soon as possible", "when convenient"],
-    "wordFamily": ["convenience", "convenient"],
-    "day": 30
-  },
-  {
-    "id": "comply-verb",
-    "word": "comply",
-    "baseWord": "comply",
-    "type": "verb",
-    "meaning": "tuân thủ, tuân theo",
-    "pronunciation": "/kəmˈplaɪ/",
-    "topic": "Customer Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All service centers must comply with the company's return policy.",
-    "exampleVi": "Tất cả trung tâm dịch vụ phải tuân thủ chính sách đổi trả của công ty.",
-    "collocations": ["comply with regulations", "comply with the policy", "comply with standards"],
-    "synonyms": ["adhere", "conform", "obey"],
-    "wordFamily": ["compliance", "compliant", "non-compliant"],
+    "collocations": [
+      "reply at your earliest convenience",
+      "contact us at your earliest convenience",
+      "respond at your earliest convenience"
+    ],
+    "synonyms": [
+      "as soon as possible",
+      "when convenient"
+    ],
+    "wordFamily": [
+      "convenience",
+      "convenient"
+    ],
     "day": 30
   },
   {
@@ -1755,12 +2679,92 @@
     "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "Our services are designed to cater to a wide range of client needs.",
     "exampleVi": "Dịch vụ của chúng tôi được thiết kế để đáp ứng nhiều nhu cầu đa dạng của khách hàng.",
-    "collocations": ["cater to customers", "cater to needs", "cater for events"],
-    "synonyms": ["serve", "provide for"],
-    "wordFamily": ["catering", "caterer"],
+    "collocations": [
+      "cater to customers",
+      "cater to needs",
+      "cater for events"
+    ],
+    "synonyms": [
+      "serve",
+      "provide for"
+    ],
+    "wordFamily": [
+      "catering",
+      "caterer"
+    ],
+    "day": 30
+  },
+  {
+    "id": "comply-verb",
+    "word": "comply",
+    "baseWord": "comply",
+    "type": "verb",
+    "meaning": "tuân thủ, tuân theo",
+    "pronunciation": "/kəmˈplaɪ/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "All service centers must comply with the company's return policy.",
+    "exampleVi": "Tất cả trung tâm dịch vụ phải tuân thủ chính sách đổi trả của công ty.",
+    "collocations": [
+      "comply with regulations",
+      "comply with the policy",
+      "comply with standards"
+    ],
+    "synonyms": [
+      "adhere",
+      "conform",
+      "obey"
+    ],
+    "wordFamily": [
+      "compliance",
+      "compliant",
+      "non-compliant"
+    ],
+    "day": 30
+  },
+  {
+    "id": "courteously-adverb",
+    "word": "courteously",
+    "baseWord": "courteous",
+    "type": "adverb",
+    "meaning": "một cách lịch sự, nhã nhặn",
+    "pronunciation": "/ˈkɜːrtiəsli/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Employees are required to greet all visitors courteously.",
+    "exampleVi": "Nhân viên được yêu cầu chào đón tất cả khách một cách lịch sự.",
+    "collocations": [
+      "courteously respond",
+      "courteously greet",
+      "courteously handle"
+    ],
+    "synonyms": [
+      "politely",
+      "respectfully"
+    ],
+    "wordFamily": [
+      "courteous",
+      "courtesy",
+      "discourteous"
+    ],
     "day": 30
   },
   {
@@ -1773,12 +2777,291 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Your warranty coverage includes free repairs for the first two years.",
     "exampleVi": "Phạm vi bảo hành của bạn bao gồm sửa chữa miễn phí trong hai năm đầu tiên.",
-    "collocations": ["warranty coverage", "insurance coverage", "full coverage"],
-    "synonyms": ["protection", "scope"],
-    "wordFamily": ["cover", "covered", "uncover"],
+    "collocations": [
+      "warranty coverage",
+      "insurance coverage",
+      "full coverage"
+    ],
+    "synonyms": [
+      "protection",
+      "scope"
+    ],
+    "wordFamily": [
+      "cover",
+      "covered",
+      "uncover"
+    ],
+    "day": 30
+  },
+  {
+    "id": "empathy-noun",
+    "word": "empathy",
+    "baseWord": "empathy",
+    "type": "noun",
+    "meaning": "sự đồng cảm, sự thấu hiểu",
+    "pronunciation": "/ˈempəθi/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Showing empathy towards customers can greatly improve their experience.",
+    "exampleVi": "Thể hiện sự đồng cảm với khách hàng có thể cải thiện đáng kể trải nghiệm của họ.",
+    "collocations": [
+      "show empathy",
+      "express empathy",
+      "empathy and understanding"
+    ],
+    "synonyms": [
+      "compassion",
+      "understanding",
+      "sympathy"
+    ],
+    "wordFamily": [
+      "empathize",
+      "empathetic",
+      "empathetically"
+    ],
+    "day": 30
+  },
+  {
+    "id": "in advance-phrase",
+    "word": "in advance",
+    "baseWord": "in advance",
+    "type": "phrase",
+    "meaning": "trước, sớm",
+    "pronunciation": "/ɪn ədˈvæns/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please notify us at least 48 hours in advance if you need to cancel.",
+    "exampleVi": "Vui lòng thông báo cho chúng tôi ít nhất 48 giờ trước nếu bạn cần hủy.",
+    "collocations": [
+      "book in advance",
+      "pay in advance",
+      "notify in advance"
+    ],
+    "synonyms": [
+      "beforehand",
+      "ahead of time"
+    ],
+    "wordFamily": [
+      "advance",
+      "advanced"
+    ],
+    "day": 30
+  },
+  {
+    "id": "inquire-verb",
+    "word": "inquire",
+    "baseWord": "inquire",
+    "type": "verb",
+    "meaning": "hỏi thông tin, tìm hiểu",
+    "pronunciation": "/ɪnˈkwaɪər/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Several customers inquired about the availability of the new model.",
+    "exampleVi": "Nhiều khách hàng đã hỏi thông tin về tình trạng sẵn có của mẫu mới.",
+    "collocations": [
+      "inquire about",
+      "inquire within",
+      "inquire further"
+    ],
+    "synonyms": [
+      "ask",
+      "query"
+    ],
+    "wordFamily": [
+      "inquiry",
+      "inquirer"
+    ],
+    "day": 30
+  },
+  {
+    "id": "interaction-noun",
+    "word": "interaction",
+    "baseWord": "interact",
+    "type": "noun",
+    "meaning": "sự tương tác, sự giao tiếp",
+    "pronunciation": "/ˌɪntərˈækʃən/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Every customer interaction is an opportunity to build trust.",
+    "exampleVi": "Mỗi lần tương tác với khách hàng là một cơ hội để xây dựng lòng tin.",
+    "collocations": [
+      "customer interaction",
+      "face-to-face interaction",
+      "positive interaction"
+    ],
+    "synonyms": [
+      "exchange",
+      "communication"
+    ],
+    "wordFamily": [
+      "interact",
+      "interactive",
+      "interactively"
+    ],
+    "day": 30
+  },
+  {
+    "id": "lengthy-adjective",
+    "word": "lengthy",
+    "baseWord": "length",
+    "type": "adjective",
+    "meaning": "kéo dài, dài dòng",
+    "pronunciation": "/ˈleŋθi/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We apologize for the lengthy wait time you experienced.",
+    "exampleVi": "Chúng tôi xin lỗi vì thời gian chờ đợi kéo dài mà bạn đã trải qua.",
+    "collocations": [
+      "lengthy process",
+      "lengthy delay",
+      "lengthy wait"
+    ],
+    "synonyms": [
+      "prolonged",
+      "extended",
+      "long"
+    ],
+    "wordFamily": [
+      "length",
+      "lengthen",
+      "lengthily"
+    ],
+    "day": 30
+  },
+  {
+    "id": "log-noun",
+    "word": "log",
+    "baseWord": "log",
+    "type": "noun",
+    "meaning": "nhật ký, bản ghi",
+    "pronunciation": "/lɔːɡ/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All customer interactions are recorded in the service log.",
+    "exampleVi": "Tất cả các tương tác với khách hàng được ghi lại trong nhật ký dịch vụ.",
+    "collocations": [
+      "service log",
+      "activity log",
+      "call log"
+    ],
+    "synonyms": [
+      "record",
+      "register"
+    ],
+    "wordFamily": [
+      "log",
+      "logged",
+      "logging"
+    ],
+    "day": 30
+  },
+  {
+    "id": "manner-noun",
+    "word": "manner",
+    "baseWord": "manner",
+    "type": "noun",
+    "meaning": "cách thức, thái độ",
+    "pronunciation": "/ˈmænər/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "All staff should interact with clients in a professional manner.",
+    "exampleVi": "Tất cả nhân viên nên tương tác với khách hàng theo cách chuyên nghiệp.",
+    "collocations": [
+      "professional manner",
+      "friendly manner",
+      "timely manner"
+    ],
+    "synonyms": [
+      "way",
+      "fashion",
+      "style"
+    ],
+    "wordFamily": [
+      "manners",
+      "mannerly"
+    ],
+    "day": 30
+  },
+  {
+    "id": "opt-verb",
+    "word": "opt",
+    "baseWord": "opt",
+    "type": "verb",
+    "meaning": "chọn, lựa chọn",
+    "pronunciation": "/ɑːpt/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Customers may opt for a replacement or a full refund.",
+    "exampleVi": "Khách hàng có thể chọn thay thế sản phẩm hoặc hoàn tiền toàn bộ.",
+    "collocations": [
+      "opt for",
+      "opt out",
+      "opt to receive"
+    ],
+    "synonyms": [
+      "choose",
+      "select",
+      "decide"
+    ],
+    "wordFamily": [
+      "option",
+      "optional",
+      "opt-in"
+    ],
     "day": 30
   },
   {
@@ -1791,12 +3074,190 @@
     "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
     "example": "The overall customer experience has improved significantly this year.",
     "exampleVi": "Trải nghiệm khách hàng tổng thể đã cải thiện đáng kể trong năm nay.",
-    "collocations": ["overall satisfaction", "overall performance", "overall impression"],
-    "synonyms": ["general", "total", "comprehensive"],
-    "wordFamily": ["overall"],
+    "collocations": [
+      "overall satisfaction",
+      "overall performance",
+      "overall impression"
+    ],
+    "synonyms": [
+      "general",
+      "total",
+      "comprehensive"
+    ],
+    "wordFamily": [
+      "overall"
+    ],
+    "day": 30
+  },
+  {
+    "id": "oversight-noun",
+    "word": "oversight",
+    "baseWord": "oversight",
+    "type": "noun",
+    "meaning": "sự sơ suất, sự giám sát",
+    "pronunciation": "/ˈoʊvərsaɪt/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The duplicate charge was due to an oversight in our billing system.",
+    "exampleVi": "Việc tính phí trùng lặp là do sơ suất trong hệ thống thanh toán của chúng tôi.",
+    "collocations": [
+      "oversight error",
+      "due to an oversight",
+      "regulatory oversight"
+    ],
+    "synonyms": [
+      "mistake",
+      "omission",
+      "lapse"
+    ],
+    "wordFamily": [
+      "oversee",
+      "overseer"
+    ],
+    "day": 30
+  },
+  {
+    "id": "process-verb",
+    "word": "process",
+    "baseWord": "process",
+    "type": "verb",
+    "meaning": "xử lý, tiến hành",
+    "pronunciation": "/ˈprɑːses/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Your return will be processed within five to seven business days.",
+    "exampleVi": "Yêu cầu trả hàng của bạn sẽ được xử lý trong vòng năm đến bảy ngày làm việc.",
+    "collocations": [
+      "process an order",
+      "process a return",
+      "process a claim"
+    ],
+    "synonyms": [
+      "handle",
+      "deal with"
+    ],
+    "wordFamily": [
+      "process",
+      "processing",
+      "processed"
+    ],
+    "day": 30
+  },
+  {
+    "id": "refundable-adjective",
+    "word": "refundable",
+    "baseWord": "refund",
+    "type": "adjective",
+    "meaning": "có thể hoàn lại",
+    "pronunciation": "/rɪˈfʌndəbl/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please note that this deposit is non-refundable.",
+    "exampleVi": "Xin lưu ý rằng khoản tiền đặt cọc này không thể hoàn lại.",
+    "collocations": [
+      "refundable deposit",
+      "non-refundable",
+      "fully refundable"
+    ],
+    "synonyms": [
+      "reimbursable",
+      "returnable"
+    ],
+    "wordFamily": [
+      "refund",
+      "refunded",
+      "non-refundable"
+    ],
+    "day": 30
+  },
+  {
+    "id": "regardless-adverb",
+    "word": "regardless",
+    "baseWord": "regardless",
+    "type": "adverb",
+    "meaning": "bất kể, dù sao đi nữa",
+    "pronunciation": "/rɪˈɡɑːrdləs/",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "All customers should be treated with respect, regardless of the amount they spend.",
+    "exampleVi": "Tất cả khách hàng nên được đối xử tôn trọng, bất kể số tiền họ chi tiêu.",
+    "collocations": [
+      "regardless of",
+      "regardless of the outcome",
+      "regardless of the cost"
+    ],
+    "synonyms": [
+      "irrespective",
+      "nevertheless"
+    ],
+    "wordFamily": [
+      "regard",
+      "regardless"
+    ],
+    "day": 30
+  },
+  {
+    "id": "restore-verb",
+    "word": "restore",
+    "baseWord": "restore",
+    "type": "verb",
+    "meaning": "khôi phục, phục hồi",
+    "pronunciation": "/rɪˈstɔːr/",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Our team is working to restore full service as quickly as possible.",
+    "exampleVi": "Đội ngũ của chúng tôi đang nỗ lực khôi phục toàn bộ dịch vụ nhanh nhất có thể.",
+    "collocations": [
+      "restore service",
+      "restore confidence",
+      "restore access"
+    ],
+    "synonyms": [
+      "reinstate",
+      "recover"
+    ],
+    "wordFamily": [
+      "restoration",
+      "restored",
+      "restorative"
+    ],
     "day": 30
   }
 ]

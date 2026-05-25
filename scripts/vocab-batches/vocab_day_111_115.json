@@ -1,0 +1,3237 @@
+[
+  {
+    "id": "analysis-noun",
+    "word": "analysis",
+    "baseWord": "analyze",
+    "type": "noun",
+    "meaning": "sự phân tích, bản phân tích",
+    "pronunciation": "/əˈnæləsɪs/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "A detailed analysis of the market trends is included in the report.",
+    "exampleVi": "Một bản phân tích chi tiết về xu hướng thị trường được bao gồm trong báo cáo.",
+    "collocations": [
+      "detailed analysis",
+      "data analysis",
+      "market analysis"
+    ],
+    "synonyms": [
+      "examination",
+      "investigation",
+      "review"
+    ],
+    "wordFamily": [
+      "analyze",
+      "analyst",
+      "analytical"
+    ],
+    "day": 111
+  },
+  {
+    "id": "analyze-verb",
+    "word": "analyze",
+    "baseWord": "analyze",
+    "type": "verb",
+    "meaning": "phân tích",
+    "pronunciation": "/ˈænəlaɪz/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to analyze the customer feedback before modifying the product.",
+    "exampleVi": "Chúng tôi cần phân tích phản hồi của khách hàng trước khi sửa đổi sản phẩm.",
+    "collocations": [
+      "analyze data",
+      "analyze results",
+      "analyze trends"
+    ],
+    "synonyms": [
+      "examine",
+      "investigate",
+      "evaluate"
+    ],
+    "wordFamily": [
+      "analysis",
+      "analyst",
+      "analytical"
+    ],
+    "day": 111
+  },
+  {
+    "id": "appointment-review-phrase",
+    "word": "appointment review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment review",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the appointment review before the next business day.",
+    "exampleVi": "Vui long xem lai appointment review truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment review",
+      "appointment review process",
+      "appointment review deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "review"
+    ],
+    "day": 111
+  },
+  {
+    "id": "bulk-appointment-phrase",
+    "word": "bulk appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: bulk appointment",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the bulk appointment before the next business day.",
+    "exampleVi": "Vui long xem lai bulk appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "bulk appointment",
+      "bulk appointment process",
+      "bulk appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 111
+  },
+  {
+    "id": "compilation-noun",
+    "word": "compilation",
+    "baseWord": "compile",
+    "type": "noun",
+    "meaning": "sự biên soạn, tài liệu thu thập tổng hợp",
+    "pronunciation": "/ˌkɑːmpɪˈleɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The data compilation took several weeks due to the large sample size.",
+    "exampleVi": "Việc tổng hợp dữ liệu mất vài tuần do quy mô mẫu lớn.",
+    "collocations": [
+      "data compilation",
+      "report compilation",
+      "compilation of facts"
+    ],
+    "synonyms": [
+      "collection",
+      "anthology",
+      "assembly"
+    ],
+    "wordFamily": [
+      "compile",
+      "compiler",
+      "compilations"
+    ],
+    "day": 111
+  },
+  {
+    "id": "compile-verb",
+    "word": "compile",
+    "baseWord": "compile",
+    "type": "verb",
+    "meaning": "biên soạn, thu thập và tổng hợp tài liệu",
+    "pronunciation": "/kəmˈpaɪl/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our assistant will compile the feedback from the survey into a summary report.",
+    "exampleVi": "Trợ lý của chúng tôi sẽ tổng hợp các phản hồi từ cuộc khảo sát thành một báo cáo tóm tắt.",
+    "collocations": [
+      "compile a report",
+      "compile data",
+      "compile a list"
+    ],
+    "synonyms": [
+      "assemble",
+      "gather",
+      "accumulate"
+    ],
+    "wordFamily": [
+      "compilation",
+      "compiler",
+      "compiled"
+    ],
+    "day": 111
+  },
+  {
+    "id": "correlate-verb",
+    "word": "correlate",
+    "baseWord": "correlate",
+    "type": "verb",
+    "meaning": "tương quan, liên kết tương quan",
+    "pronunciation": "/ˈkɔːrəleɪt/",
+    "topic": "Research & Reports",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "We want to see how these customer ratings correlate with repeat purchases.",
+    "exampleVi": "Chúng tôi muốn xem các đánh giá của khách hàng này tương quan như thế nào với việc mua hàng lặp lại.",
+    "collocations": [
+      "correlate with",
+      "closely correlate",
+      "correlate data"
+    ],
+    "synonyms": [
+      "connect",
+      "associate",
+      "link"
+    ],
+    "wordFamily": [
+      "correlation",
+      "correlated",
+      "correlative"
+    ],
+    "day": 111
+  },
+  {
+    "id": "correlation-noun",
+    "word": "correlation",
+    "baseWord": "correlate",
+    "type": "noun",
+    "meaning": "sự tương quan, mối tương quan",
+    "pronunciation": "/ˌkɔːrəˈleɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The research shows a clear correlation between advertising spend and sales revenue.",
+    "exampleVi": "Nghiên cứu cho thấy một mối tương quan rõ ràng giữa chi tiêu quảng cáo và doanh thu bán hàng.",
+    "collocations": [
+      "clear correlation",
+      "direct correlation",
+      "statistical correlation"
+    ],
+    "synonyms": [
+      "connection",
+      "link",
+      "relationship"
+    ],
+    "wordFamily": [
+      "correlate",
+      "correlated",
+      "correlative"
+    ],
+    "day": 111
+  },
+  {
+    "id": "data analysis-phrase",
+    "word": "data analysis",
+    "baseWord": "data analysis",
+    "type": "phrase",
+    "meaning": "phân tích dữ liệu",
+    "pronunciation": "/ˈdeɪtə əˈnæləsɪs/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The marketing team completed the data analysis to identify our target audience.",
+    "exampleVi": "Nhóm tiếp thị đã hoàn thành việc phân tích dữ liệu để xác định đối tượng mục tiêu của chúng tôi.",
+    "collocations": [
+      "perform data analysis",
+      "data analysis tools",
+      "qualitative data analysis"
+    ],
+    "synonyms": [
+      "data evaluation",
+      "data processing"
+    ],
+    "wordFamily": [
+      "data",
+      "analyze",
+      "analysis"
+    ],
+    "day": 111
+  },
+  {
+    "id": "dataset-noun",
+    "word": "dataset",
+    "baseWord": "data",
+    "type": "noun",
+    "meaning": "bộ dữ liệu, tập dữ liệu",
+    "pronunciation": "/ˈdeɪtəset/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We downloaded a large public dataset to study global energy consumption patterns.",
+    "exampleVi": "Chúng tôi đã tải xuống một bộ dữ liệu công cộng lớn để nghiên cứu các mô hình tiêu thụ năng lượng toàn cầu.",
+    "collocations": [
+      "large dataset",
+      "complete dataset",
+      "analyze a dataset"
+    ],
+    "synonyms": [
+      "data pool",
+      "data package"
+    ],
+    "wordFamily": [
+      "datasets",
+      "data",
+      "set"
+    ],
+    "day": 111
+  },
+  {
+    "id": "draft-verb",
+    "word": "draft",
+    "baseWord": "draft",
+    "type": "verb",
+    "meaning": "phác thảo, soạn thảo bản nháp",
+    "pronunciation": "/dræft/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal department will draft the contract by tomorrow morning.",
+    "exampleVi": "Bộ phận pháp lý sẽ soạn thảo hợp đồng trước sáng mai.",
+    "collocations": [
+      "draft a contract",
+      "draft a proposal",
+      "draft a report"
+    ],
+    "synonyms": [
+      "sketch",
+      "outline",
+      "compose"
+    ],
+    "wordFamily": [
+      "drafts",
+      "drafting",
+      "drafted"
+    ],
+    "day": 111
+  },
+  {
+    "id": "empirical-adjective",
+    "word": "empirical",
+    "baseWord": "empirical",
+    "type": "adjective",
+    "meaning": "mang tính thực nghiệm, dựa trên kinh nghiệm thực tế",
+    "pronunciation": "/ɪmˈpɪrɪkl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need empirical evidence to support your claims about the new product's efficiency.",
+    "exampleVi": "Chúng tôi cần bằng chứng thực nghiệm để hỗ trợ cho những khẳng định của bạn về hiệu quả của sản phẩm mới.",
+    "collocations": [
+      "empirical evidence",
+      "empirical study",
+      "empirical data"
+    ],
+    "synonyms": [
+      "experimental",
+      "practical",
+      "factual"
+    ],
+    "wordFamily": [
+      "empirically",
+      "empiricism",
+      "empiricist"
+    ],
+    "day": 111
+  },
+  {
+    "id": "findings-noun",
+    "word": "findings",
+    "baseWord": "find",
+    "type": "noun",
+    "meaning": "các kết quả nghiên cứu, phát hiện",
+    "pronunciation": "/ˈfaɪndɪŋz/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The study's findings indicate a strong preference for remote work.",
+    "exampleVi": "Các kết quả của nghiên cứu cho thấy sự ưa thích mạnh mẽ đối với làm việc từ xa.",
+    "collocations": [
+      "research findings",
+      "key findings",
+      "present the findings"
+    ],
+    "synonyms": [
+      "results",
+      "conclusions",
+      "discoveries"
+    ],
+    "wordFamily": [
+      "find",
+      "finder",
+      "findings"
+    ],
+    "day": 111
+  },
+  {
+    "id": "hypothesis-noun",
+    "word": "hypothesis",
+    "baseWord": "hypothesis",
+    "type": "noun",
+    "meaning": "giả thuyết",
+    "pronunciation": "/haɪˈpɑːθəsɪs/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The researchers formulated a hypothesis to explain the sudden change in consumer behavior.",
+    "exampleVi": "Các nhà nghiên cứu đã đưa ra một giả thuyết để giải thích sự thay đổi đột ngột trong hành vi của người tiêu dùng.",
+    "collocations": [
+      "formulate a hypothesis",
+      "test a hypothesis",
+      "working hypothesis"
+    ],
+    "synonyms": [
+      "theory",
+      "assumption",
+      "postulate"
+    ],
+    "wordFamily": [
+      "hypotheses",
+      "hypothesize",
+      "hypothetical"
+    ],
+    "day": 111
+  },
+  {
+    "id": "online-appointment-phrase",
+    "word": "online appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: online appointment",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the online appointment before the next business day.",
+    "exampleVi": "Vui long xem lai online appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "online appointment",
+      "online appointment process",
+      "online appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 111
+  },
+  {
+    "id": "qualitative-adjective",
+    "word": "qualitative",
+    "baseWord": "quality",
+    "type": "adjective",
+    "meaning": "thuộc về định tính, chất lượng",
+    "pronunciation": "/ˈkwɑːlɪteɪtɪv/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Qualitative research helps us understand the emotions behind customer choices.",
+    "exampleVi": "Nghiên cứu định tính giúp chúng tôi hiểu được những cảm xúc đằng sau sự lựa chọn của khách hàng.",
+    "collocations": [
+      "qualitative research",
+      "qualitative analysis",
+      "qualitative feedback"
+    ],
+    "synonyms": [
+      "descriptive",
+      "subjective"
+    ],
+    "wordFamily": [
+      "quality",
+      "qualitatively",
+      "qualify"
+    ],
+    "day": 111
+  },
+  {
+    "id": "quantitative-adjective",
+    "word": "quantitative",
+    "baseWord": "quantity",
+    "type": "adjective",
+    "meaning": "thuộc về định lượng, số lượng",
+    "pronunciation": "/ˈkwɑːntəteɪtɪv/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The analyst used quantitative methods to project future quarterly revenue.",
+    "exampleVi": "Nhà phân tích đã sử dụng các phương pháp định lượng để dự báo doanh thu hàng quý trong tương lai.",
+    "collocations": [
+      "quantitative research",
+      "quantitative analysis",
+      "quantitative data"
+    ],
+    "synonyms": [
+      "numerical",
+      "measurable"
+    ],
+    "wordFamily": [
+      "quantity",
+      "quantitatively",
+      "quantify"
+    ],
+    "day": 111
+  },
+  {
+    "id": "questionnaire-noun",
+    "word": "questionnaire",
+    "baseWord": "question",
+    "type": "noun",
+    "meaning": "bản câu hỏi khảo sát",
+    "pronunciation": "/ˌkwestʃəˈner/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please fill out this questionnaire regarding your recent stay at our hotel.",
+    "exampleVi": "Vui lòng điền vào bản câu hỏi khảo sát này về kỳ nghỉ gần đây của bạn tại khách sạn của chúng tôi.",
+    "collocations": [
+      "fill out a questionnaire",
+      "complete a questionnaire",
+      "design a questionnaire"
+    ],
+    "synonyms": [
+      "survey",
+      "poll",
+      "query sheet"
+    ],
+    "wordFamily": [
+      "question",
+      "questioning",
+      "questionnaires"
+    ],
+    "day": 111
+  },
+  {
+    "id": "statistical-adjective",
+    "word": "statistical",
+    "baseWord": "statistics",
+    "type": "adjective",
+    "meaning": "thuộc về thống kê",
+    "pronunciation": "/stəˈtɪstɪkl/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We used statistical software to analyze the sales figures.",
+    "exampleVi": "Chúng tôi đã sử dụng phần mềm thống kê để phân tích các số liệu bán hàng.",
+    "collocations": [
+      "statistical analysis",
+      "statistical data",
+      "statistical significance"
+    ],
+    "synonyms": [
+      "numerical",
+      "mathematical"
+    ],
+    "wordFamily": [
+      "statistics",
+      "statistically",
+      "statistician"
+    ],
+    "day": 111
+  },
+  {
+    "id": "statistics-noun",
+    "word": "statistics",
+    "baseWord": "statistics",
+    "type": "noun",
+    "meaning": "số liệu thống kê, khoa học thống kê",
+    "pronunciation": "/stəˈtɪstɪks/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "According to official statistics, inflation has decreased by two percent.",
+    "exampleVi": "Theo thống kê chính thức, lạm phát đã giảm hai phần trăm.",
+    "collocations": [
+      "official statistics",
+      "gather statistics",
+      "sales statistics"
+    ],
+    "synonyms": [
+      "data",
+      "figures",
+      "numbers"
+    ],
+    "wordFamily": [
+      "statistical",
+      "statistically",
+      "statistician"
+    ],
+    "day": 111
+  },
+  {
+    "id": "abstract-noun",
+    "word": "abstract",
+    "baseWord": "abstract",
+    "type": "noun",
+    "meaning": "bản tóm tắt (luận văn, báo cáo nghiên cứu)",
+    "pronunciation": "/ˈæbstrækt/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Reading the report abstract will give you a quick overview of the main findings.",
+    "exampleVi": "Đọc bản tóm tắt báo cáo sẽ cung cấp cho bạn một cái nhìn tổng quan nhanh chóng về các phát hiện chính.",
+    "collocations": [
+      "report abstract",
+      "write an abstract",
+      "submit an abstract"
+    ],
+    "synonyms": [
+      "summary",
+      "synopsis",
+      "outline"
+    ],
+    "wordFamily": [
+      "abstracts",
+      "abstractly",
+      "abstraction"
+    ],
+    "day": 112
+  },
+  {
+    "id": "appendix-noun",
+    "word": "appendix",
+    "baseWord": "appendix",
+    "type": "noun",
+    "meaning": "phụ lục (báo cáo, sách)",
+    "pronunciation": "/əˈpendɪks/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Detailed survey charts are provided in the appendix at the end of the report.",
+    "exampleVi": "Các biểu đồ khảo sát chi tiết được cung cấp trong phần phụ lục ở cuối báo cáo.",
+    "collocations": [
+      "see appendix",
+      "report appendix",
+      "appendix A"
+    ],
+    "synonyms": [
+      "supplement",
+      "addendum",
+      "annex"
+    ],
+    "wordFamily": [
+      "appendixes",
+      "appendices",
+      "append"
+    ],
+    "day": 112
+  },
+  {
+    "id": "appointment-request-phrase",
+    "word": "appointment request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment request",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the appointment request before the next business day.",
+    "exampleVi": "Vui long xem lai appointment request truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment request",
+      "appointment request process",
+      "appointment request deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "request"
+    ],
+    "day": 112
+  },
+  {
+    "id": "bibliography-noun",
+    "word": "bibliography",
+    "baseWord": "bibliography",
+    "type": "noun",
+    "meaning": "thư mục tài liệu tham khảo",
+    "pronunciation": "/ˌbɪbliˈɑːɡrəfi/",
+    "topic": "Research & Reports",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The author compiled an extensive bibliography of articles on renewable energy.",
+    "exampleVi": "Tác giả đã tổng hợp một thư mục phong phú các bài viết về năng lượng tái tạo.",
+    "collocations": [
+      "compile a bibliography",
+      "extensive bibliography",
+      "annotated bibliography"
+    ],
+    "synonyms": [
+      "reference list",
+      "source list"
+    ],
+    "wordFamily": [
+      "bibliographies",
+      "bibliographic",
+      "bibliographical"
+    ],
+    "day": 112
+  },
+  {
+    "id": "citation-noun",
+    "word": "citation",
+    "baseWord": "cite",
+    "type": "noun",
+    "meaning": "sự trích dẫn, nguồn trích dẫn",
+    "pronunciation": "/saɪˈteɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Your paper has many interesting ideas, but it lacks proper citations.",
+    "exampleVi": "Bài viết của bạn có nhiều ý tưởng thú vị, nhưng nó thiếu các nguồn trích dẫn thích hợp.",
+    "collocations": [
+      "proper citation",
+      "source citation",
+      "citation format"
+    ],
+    "synonyms": [
+      "quote",
+      "reference",
+      "credit"
+    ],
+    "wordFamily": [
+      "cite",
+      "citations",
+      "cited"
+    ],
+    "day": 112
+  },
+  {
+    "id": "cite-verb",
+    "word": "cite",
+    "baseWord": "cite",
+    "type": "verb",
+    "meaning": "trích dẫn (nguồn tài liệu)",
+    "pronunciation": "/saɪt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please make sure to cite all primary sources used in your report.",
+    "exampleVi": "Vui lòng đảm bảo trích dẫn tất cả các nguồn sơ cấp được sử dụng trong báo cáo của bạn.",
+    "collocations": [
+      "cite sources",
+      "cite an example",
+      "cite research"
+    ],
+    "synonyms": [
+      "quote",
+      "mention",
+      "reference"
+    ],
+    "wordFamily": [
+      "citation",
+      "cited",
+      "citing"
+    ],
+    "day": 112
+  },
+  {
+    "id": "conclusion-noun",
+    "word": "conclusion",
+    "baseWord": "conclude",
+    "type": "noun",
+    "meaning": "sự kết luận, phần kết luận",
+    "pronunciation": "/kənˈkluːʒən/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "In conclusion, the study suggests that customer service is our top priority.",
+    "exampleVi": "Để kết luận, nghiên cứu cho thấy rằng dịch vụ khách hàng là ưu tiên hàng đầu của chúng tôi.",
+    "collocations": [
+      "in conclusion",
+      "draw a conclusion",
+      "reach a conclusion"
+    ],
+    "synonyms": [
+      "summary",
+      "result",
+      "ending"
+    ],
+    "wordFamily": [
+      "conclude",
+      "conclusive",
+      "conclusively"
+    ],
+    "day": 112
+  },
+  {
+    "id": "data entry-phrase",
+    "word": "data entry",
+    "baseWord": "data entry",
+    "type": "phrase",
+    "meaning": "việc nhập dữ liệu",
+    "pronunciation": "/ˈdeɪtə ˈentri/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She got a part-time job doing data entry for an insurance company.",
+    "exampleVi": "Cô ấy đã nhận được một công việc bán thời gian làm việc nhập dữ liệu cho một công ty bảo hiểm.",
+    "collocations": [
+      "data entry job",
+      "data entry clerk",
+      "data entry errors"
+    ],
+    "synonyms": [
+      "clerical work",
+      "typing"
+    ],
+    "wordFamily": [
+      "data",
+      "entry",
+      "entries"
+    ],
+    "day": 112
+  },
+  {
+    "id": "demographic-adjective",
+    "word": "demographic",
+    "baseWord": "demography",
+    "type": "adjective",
+    "meaning": "thuộc về nhân khẩu học",
+    "pronunciation": "/ˌdeməˈɡræfɪk/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to target a different demographic group for our luxury products.",
+    "exampleVi": "Chúng tôi cần nhắm mục tiêu vào một nhóm nhân khẩu học khác cho các sản phẩm xa xỉ của mình.",
+    "collocations": [
+      "demographic group",
+      "demographic shift",
+      "demographic factors"
+    ],
+    "synonyms": [
+      "population-related"
+    ],
+    "wordFamily": [
+      "demographics",
+      "demography",
+      "demographer"
+    ],
+    "day": 112
+  },
+  {
+    "id": "excerpt-noun",
+    "word": "excerpt",
+    "baseWord": "excerpt",
+    "type": "noun",
+    "meaning": "phần trích dẫn, đoạn trích",
+    "pronunciation": "/ˈeksɜːrpt/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Here is an excerpt from the marketing feasibility study.",
+    "exampleVi": "Dưới đây là một đoạn trích từ nghiên cứu khả thi tiếp thị.",
+    "collocations": [
+      "read an excerpt",
+      "excerpt from a report",
+      "brief excerpt"
+    ],
+    "synonyms": [
+      "extract",
+      "passage",
+      "citation"
+    ],
+    "wordFamily": [
+      "excerpts",
+      "excerpted",
+      "excerpting"
+    ],
+    "day": 112
+  },
+  {
+    "id": "executive summary-phrase",
+    "word": "executive summary",
+    "baseWord": "executive summary",
+    "type": "phrase",
+    "meaning": "bản tóm tắt điều hành",
+    "pronunciation": "/ɪɡˈzekjətɪv ˈsʌməri/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Busy managers usually read only the executive summary of the business plan.",
+    "exampleVi": "Các nhà quản lý bận rộn thường chỉ đọc bản tóm tắt điều hành của kế hoạch kinh doanh.",
+    "collocations": [
+      "read the executive summary",
+      "draft the executive summary",
+      "project executive summary"
+    ],
+    "synonyms": [
+      "brief",
+      "overview",
+      "synopsis"
+    ],
+    "wordFamily": [
+      "executive",
+      "summary",
+      "summaries"
+    ],
+    "day": 112
+  },
+  {
+    "id": "peer review-phrase",
+    "word": "peer review",
+    "baseWord": "peer review",
+    "type": "phrase",
+    "meaning": "đánh giá ngang hàng, phản biện đồng nghiệp",
+    "pronunciation": "/pɪr rɪˈvjuː/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The paper must undergo rigorous peer review before it can be published.",
+    "exampleVi": "Bài viết phải trải qua quá trình phản biện đồng nghiệp nghiêm ngặt trước khi có thể được xuất bản.",
+    "collocations": [
+      "undergo peer review",
+      "peer review process",
+      "scientific peer review"
+    ],
+    "synonyms": [
+      "evaluation",
+      "expert assessment"
+    ],
+    "wordFamily": [
+      "peer",
+      "review",
+      "reviewed"
+    ],
+    "day": 112
+  },
+  {
+    "id": "peer-reviewed-adjective",
+    "word": "peer-reviewed",
+    "baseWord": "peer-reviewed",
+    "type": "adjective",
+    "meaning": "đã được phản biện đồng nghiệp, được giới chuyên môn đánh giá",
+    "pronunciation": "/ˌpɪr rɪˈvjuːd/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We only cite peer-reviewed studies in our corporate reports.",
+    "exampleVi": "Chúng tôi chỉ trích dẫn các nghiên cứu đã được phản biện đồng nghiệp trong các báo cáo của công ty.",
+    "collocations": [
+      "peer-reviewed journal",
+      "peer-reviewed research",
+      "peer-reviewed article"
+    ],
+    "synonyms": [
+      "refereed",
+      "validated"
+    ],
+    "wordFamily": [
+      "peer",
+      "review",
+      "reviews"
+    ],
+    "day": 112
+  },
+  {
+    "id": "plagiarism-noun",
+    "word": "plagiarism",
+    "baseWord": "plagiarize",
+    "type": "noun",
+    "meaning": "sự đạo văn",
+    "pronunciation": "/ˈpleɪdʒərɪzəm/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The university has a strict policy against academic plagiarism.",
+    "exampleVi": "Trường đại học có chính sách nghiêm ngặt chống đạo văn trong học thuật.",
+    "collocations": [
+      "accused of plagiarism",
+      "prevent plagiarism",
+      "detect plagiarism"
+    ],
+    "synonyms": [
+      "copying",
+      "piracy",
+      "theft"
+    ],
+    "wordFamily": [
+      "plagiarize",
+      "plagiarist",
+      "plagiarized"
+    ],
+    "day": 112
+  },
+  {
+    "id": "plagiarize-verb",
+    "word": "plagiarize",
+    "baseWord": "plagiarize",
+    "type": "verb",
+    "meaning": "đạo văn",
+    "pronunciation": "/ˈpleɪdʒəraɪz/",
+    "topic": "Research & Reports",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "It is illegal to plagiarize another researcher's data.",
+    "exampleVi": "Việc đạo dữ liệu của nhà nghiên cứu khác là bất hợp pháp.",
+    "collocations": [
+      "plagiarize content",
+      "plagiarize work",
+      "deliberately plagiarize"
+    ],
+    "synonyms": [
+      "copy",
+      "steal",
+      "pirate"
+    ],
+    "wordFamily": [
+      "plagiarism",
+      "plagiarist",
+      "plagiarized"
+    ],
+    "day": 112
+  },
+  {
+    "id": "publication-noun",
+    "word": "publication",
+    "baseWord": "publish",
+    "type": "noun",
+    "meaning": "sự xuất bản, ấn phẩm",
+    "pronunciation": "/ˌpʌblɪˈkeɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The scientific journal delayed the publication of the study for editing.",
+    "exampleVi": "Tạp chí khoa học đã trì hoãn việc xuất bản nghiên cứu để biên tập.",
+    "collocations": [
+      "scientific publication",
+      "date of publication",
+      "academic publication"
+    ],
+    "synonyms": [
+      "release",
+      "issue",
+      "booklet"
+    ],
+    "wordFamily": [
+      "publish",
+      "publisher",
+      "publications"
+    ],
+    "day": 112
+  },
+  {
+    "id": "publish-verb",
+    "word": "publish",
+    "baseWord": "publish",
+    "type": "verb",
+    "meaning": "xuất bản, công bố",
+    "pronunciation": "/ˈpʌblɪʃ/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We plan to publish the annual market survey results next month.",
+    "exampleVi": "Chúng tôi dự định công bố kết quả khảo sát thị trường hàng năm vào tháng tới.",
+    "collocations": [
+      "publish a report",
+      "publish results",
+      "publish an article"
+    ],
+    "synonyms": [
+      "release",
+      "issue",
+      "print"
+    ],
+    "wordFamily": [
+      "publication",
+      "publisher",
+      "published"
+    ],
+    "day": 112
+  },
+  {
+    "id": "researcher-noun",
+    "word": "researcher",
+    "baseWord": "research",
+    "type": "noun",
+    "meaning": "nhà nghiên cứu",
+    "pronunciation": "/riˈsɜːrtʃər/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The lead researcher presented the preliminary findings at the seminar.",
+    "exampleVi": "Nhà nghiên cứu chính đã trình bày các phát hiện sơ bộ tại hội thảo.",
+    "collocations": [
+      "lead researcher",
+      "market researcher",
+      "scientific researcher"
+    ],
+    "synonyms": [
+      "investigator",
+      "scholar",
+      "scientist"
+    ],
+    "wordFamily": [
+      "research",
+      "researches",
+      "researching"
+    ],
+    "day": 112
+  },
+  {
+    "id": "synthesis-noun",
+    "word": "synthesis",
+    "baseWord": "synthesis",
+    "type": "noun",
+    "meaning": "sự tổng hợp",
+    "pronunciation": "/ˈsɪnθəsɪs/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The final report is a synthesis of three years of field research.",
+    "exampleVi": "Báo cáo cuối cùng là một sự tổng hợp của ba năm nghiên cứu thực địa.",
+    "collocations": [
+      "synthesis of findings",
+      "synthesis report",
+      "information synthesis"
+    ],
+    "synonyms": [
+      "combination",
+      "integration",
+      "amalgamation"
+    ],
+    "wordFamily": [
+      "synthesize",
+      "synthetic",
+      "synthesizer"
+    ],
+    "day": 112
+  },
+  {
+    "id": "synthesize-verb",
+    "word": "synthesize",
+    "baseWord": "synthesis",
+    "type": "verb",
+    "meaning": "tổng hợp (thông tin, dữ liệu)",
+    "pronunciation": "/ˈsɪnθəsaɪz/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our goal is to synthesize data from multiple reports into a single brief.",
+    "exampleVi": "Mục tiêu của chúng tôi là tổng hợp dữ liệu từ nhiều báo cáo thành một văn bản tóm tắt duy nhất.",
+    "collocations": [
+      "synthesize data",
+      "synthesize information",
+      "synthesize findings"
+    ],
+    "synonyms": [
+      "integrate",
+      "combine",
+      "summarize"
+    ],
+    "wordFamily": [
+      "synthesis",
+      "synthetic",
+      "synthetically"
+    ],
+    "day": 112
+  },
+  {
+    "id": "annual report-phrase",
+    "word": "annual report",
+    "baseWord": "annual report",
+    "type": "phrase",
+    "meaning": "báo cáo thường niên",
+    "pronunciation": "/ˈænjuəl rɪˈpɔːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's annual report was mailed to all shareholders last week.",
+    "exampleVi": "Báo cáo thường niên của công ty đã được gửi thư cho tất cả cổ đông vào tuần trước.",
+    "collocations": [
+      "publish annual report",
+      "corporate annual report",
+      "review annual report"
+    ],
+    "synonyms": [
+      "yearly report",
+      "annual statement"
+    ],
+    "wordFamily": [
+      "annual",
+      "report",
+      "reports"
+    ],
+    "day": 113
+  },
+  {
+    "id": "appointment-approval-phrase",
+    "word": "appointment approval",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment approval",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the appointment approval before the next business day.",
+    "exampleVi": "Vui long xem lai appointment approval truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment approval",
+      "appointment approval process",
+      "appointment approval deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "approval"
+    ],
+    "day": 113
+  },
+  {
+    "id": "appointment-notice-phrase",
+    "word": "appointment notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment notice",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the appointment notice before the next business day.",
+    "exampleVi": "Vui long xem lai appointment notice truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment notice",
+      "appointment notice process",
+      "appointment notice deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "notice"
+    ],
+    "day": 113
+  },
+  {
+    "id": "appointment-update-phrase",
+    "word": "appointment update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment update",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the appointment update before the next business day.",
+    "exampleVi": "Vui long xem lai appointment update truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment update",
+      "appointment update process",
+      "appointment update deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "update"
+    ],
+    "day": 113
+  },
+  {
+    "id": "case study-phrase",
+    "word": "case study",
+    "baseWord": "case study",
+    "type": "phrase",
+    "meaning": "nghiên cứu điển hình, trường hợp thực tế",
+    "pronunciation": "/ˈkeɪs ˌstʌdi/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The business textbook includes a case study on the competitor's failure.",
+    "exampleVi": "Sách giáo khoa kinh doanh bao gồm một nghiên cứu điển hình về thất bại của đối thủ cạnh tranh.",
+    "collocations": [
+      "publish a case study",
+      "detailed case study",
+      "business case study"
+    ],
+    "synonyms": [
+      "practical example",
+      "empirical case"
+    ],
+    "wordFamily": [
+      "case",
+      "study",
+      "studies"
+    ],
+    "day": 113
+  },
+  {
+    "id": "data collection-phrase",
+    "word": "data collection",
+    "baseWord": "data collection",
+    "type": "phrase",
+    "meaning": "việc thu thập dữ liệu",
+    "pronunciation": "/ˈdeɪtə kəˈlekʃən/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The online survey simplified the data collection process.",
+    "exampleVi": "Khảo sát trực tuyến đã đơn giản hóa quy trình thu thập dữ liệu.",
+    "collocations": [
+      "data collection method",
+      "automated data collection",
+      "complete data collection"
+    ],
+    "synonyms": [
+      "information gathering",
+      "data gathering"
+    ],
+    "wordFamily": [
+      "data",
+      "collect",
+      "collection"
+    ],
+    "day": 113
+  },
+  {
+    "id": "database search-phrase",
+    "word": "database search",
+    "baseWord": "database search",
+    "type": "phrase",
+    "meaning": "việc tìm kiếm cơ sở dữ liệu",
+    "pronunciation": "/ˈdeɪtəbeɪs sɜːrtʃ/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "A quick database search revealed that we had already registered this client.",
+    "exampleVi": "Một cuộc tìm kiếm cơ sở dữ liệu nhanh chóng cho thấy chúng tôi đã đăng ký khách hàng này rồi.",
+    "collocations": [
+      "perform a database search",
+      "quick database search",
+      "online database search"
+    ],
+    "synonyms": [
+      "data query",
+      "records search"
+    ],
+    "wordFamily": [
+      "data",
+      "base",
+      "search"
+    ],
+    "day": 113
+  },
+  {
+    "id": "debrief-verb",
+    "word": "debrief",
+    "baseWord": "brief",
+    "type": "verb",
+    "meaning": "phỏng vấn rút kinh nghiệm, báo cáo thu hoạch",
+    "pronunciation": "/ˌdiːˈbriːf/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We will debrief the sales team after they return from the trade show.",
+    "exampleVi": "Chúng tôi sẽ phỏng vấn rút kinh nghiệm với đội ngũ bán hàng sau khi họ trở về từ hội chợ thương mại.",
+    "collocations": [
+      "debrief the team",
+      "thoroughly debrief",
+      "debrief after mission"
+    ],
+    "synonyms": [
+      "question",
+      "interview",
+      "review"
+    ],
+    "wordFamily": [
+      "debriefing",
+      "brief",
+      "debriefed"
+    ],
+    "day": 113
+  },
+  {
+    "id": "fact-check-verb",
+    "word": "fact-check",
+    "baseWord": "check",
+    "type": "verb",
+    "meaning": "kiểm chứng thông tin thực tế",
+    "pronunciation": "/ˈfækt tʃek/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The editor had to fact-check all the statements before publishing the article.",
+    "exampleVi": "Biên tập viên đã phải kiểm chứng thông tin thực tế của tất cả các phát ngôn trước khi xuất bản bài viết.",
+    "collocations": [
+      "fact-check the data",
+      "double fact-check",
+      "carefully fact-check"
+    ],
+    "synonyms": [
+      "verify",
+      "double-check",
+      "validate"
+    ],
+    "wordFamily": [
+      "check",
+      "checker",
+      "fact-checking"
+    ],
+    "day": 113
+  },
+  {
+    "id": "fact-finding-adjective",
+    "word": "fact-finding",
+    "baseWord": "find",
+    "type": "adjective",
+    "meaning": "mang tính tìm kiếm và xác minh sự thật",
+    "pronunciation": "/ˈfækt ˌfaɪndɪŋ/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The delegation went on a fact-finding mission to investigate the site conditions.",
+    "exampleVi": "Phái đoàn đã thực hiện một sứ mệnh tìm kiếm và xác minh thực tế để điều tra điều kiện địa điểm.",
+    "collocations": [
+      "fact-finding mission",
+      "fact-finding trip",
+      "fact-finding committee"
+    ],
+    "synonyms": [
+      "investigative",
+      "inquiring"
+    ],
+    "wordFamily": [
+      "find",
+      "finding",
+      "findings"
+    ],
+    "day": 113
+  },
+  {
+    "id": "financial report-phrase",
+    "word": "financial report",
+    "baseWord": "financial report",
+    "type": "phrase",
+    "meaning": "báo cáo tài chính",
+    "pronunciation": "/faɪˈnænʃl rɪˈpɔːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The audited financial report confirmed that the business is highly profitable.",
+    "exampleVi": "Báo cáo tài chính đã kiểm toán xác nhận rằng doanh nghiệp có lợi nhuận rất cao.",
+    "collocations": [
+      "audited financial report",
+      "submit financial report",
+      "detailed financial report"
+    ],
+    "synonyms": [
+      "financial statement",
+      "balance sheet"
+    ],
+    "wordFamily": [
+      "finance",
+      "financial",
+      "report"
+    ],
+    "day": 113
+  },
+  {
+    "id": "focus group-phrase",
+    "word": "focus group",
+    "baseWord": "focus group",
+    "type": "phrase",
+    "meaning": "nhóm tập trung (nhóm người tham gia khảo sát ý kiến)",
+    "pronunciation": "/ˈfoʊkəs ɡruːp/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Feedback from the focus group helped us adjust our advertising plan.",
+    "exampleVi": "Phản hồi từ nhóm tập trung đã giúp chúng tôi điều chỉnh kế hoạch quảng cáo của mình.",
+    "collocations": [
+      "conduct a focus group",
+      "focus group interview",
+      "focus group participant"
+    ],
+    "synonyms": [
+      "discussion group",
+      "sampling panel"
+    ],
+    "wordFamily": [
+      "focus",
+      "group",
+      "groups"
+    ],
+    "day": 113
+  },
+  {
+    "id": "interim report-phrase",
+    "word": "interim report",
+    "baseWord": "interim report",
+    "type": "phrase",
+    "meaning": "báo cáo tạm thời, báo cáo giữa kỳ",
+    "pronunciation": "/ˈɪntərɪm rɪˈpɔːrt/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The committee published an interim report detailing their initial findings.",
+    "exampleVi": "Ủy ban đã công bố một báo cáo tạm thời chi tiết các phát hiện ban đầu của họ.",
+    "collocations": [
+      "publish interim report",
+      "draft interim report",
+      "interim report findings"
+    ],
+    "synonyms": [
+      "provisional report",
+      "preliminary report"
+    ],
+    "wordFamily": [
+      "interim",
+      "report",
+      "reports"
+    ],
+    "day": 113
+  },
+  {
+    "id": "margin of error-phrase",
+    "word": "margin of error",
+    "baseWord": "margin of error",
+    "type": "phrase",
+    "meaning": "biên độ sai số, giới hạn sai sót",
+    "pronunciation": "/ˈmɑːrdʒɪn əv ˈerər/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The poll results have a margin of error of plus or minus three percent.",
+    "exampleVi": "Kết quả thăm dò có biên độ sai số cộng hoặc trừ ba phần trăm.",
+    "collocations": [
+      "small margin of error",
+      "margin of error percentage",
+      "within the margin of error"
+    ],
+    "synonyms": [
+      "limit of error",
+      "allowable error"
+    ],
+    "wordFamily": [
+      "margin",
+      "error",
+      "errors"
+    ],
+    "day": 113
+  },
+  {
+    "id": "market research-phrase",
+    "word": "market research",
+    "baseWord": "market research",
+    "type": "phrase",
+    "meaning": "nghiên cứu thị trường",
+    "pronunciation": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Conducting market research is essential before launching a new product line.",
+    "exampleVi": "Tiến hành nghiên cứu thị trường là điều cần thiết trước khi tung ra một dòng sản phẩm mới.",
+    "collocations": [
+      "conduct market research",
+      "market research firm",
+      "do market research"
+    ],
+    "synonyms": [
+      "marketing study",
+      "consumer research"
+    ],
+    "wordFamily": [
+      "market",
+      "research",
+      "researcher"
+    ],
+    "day": 113
+  },
+  {
+    "id": "progress report-phrase",
+    "word": "progress report",
+    "baseWord": "progress report",
+    "type": "phrase",
+    "meaning": "báo cáo tiến độ",
+    "pronunciation": "/ˈprɑːɡres rɪˈpɔːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please submit your weekly progress report to the project supervisor.",
+    "exampleVi": "Vui lòng nộp báo cáo tiến độ hàng tuần của bạn cho người giám sát dự án.",
+    "collocations": [
+      "weekly progress report",
+      "submit progress report",
+      "monthly progress report"
+    ],
+    "synonyms": [
+      "status report",
+      "update report"
+    ],
+    "wordFamily": [
+      "progress",
+      "report",
+      "reports"
+    ],
+    "day": 113
+  },
+  {
+    "id": "quarterly report-phrase",
+    "word": "quarterly report",
+    "baseWord": "quarterly report",
+    "type": "phrase",
+    "meaning": "báo cáo hàng quý",
+    "pronunciation": "/ˈkwɔːrtərli rɪˈpɔːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our team is preparing the quarterly report for the board of directors.",
+    "exampleVi": "Nhóm của chúng tôi đang chuẩn bị báo cáo hàng quý cho hội đồng quản trị.",
+    "collocations": [
+      "prepare quarterly report",
+      "third-quarterly report",
+      "financial quarterly report"
+    ],
+    "synonyms": [
+      "three-month report"
+    ],
+    "wordFamily": [
+      "quarter",
+      "report",
+      "reports"
+    ],
+    "day": 113
+  },
+  {
+    "id": "sample size-phrase",
+    "word": "sample size",
+    "baseWord": "sample size",
+    "type": "phrase",
+    "meaning": "quy mô mẫu, cỡ mẫu",
+    "pronunciation": "/ˈsæmpl saɪz/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "A larger sample size is required to make the survey results statistically valid.",
+    "exampleVi": "Quy mô mẫu lớn hơn là cần thiết để kết quả khảo sát có giá trị thống kê.",
+    "collocations": [
+      "adequate sample size",
+      "large sample size",
+      "calculate sample size"
+    ],
+    "synonyms": [
+      "sample number"
+    ],
+    "wordFamily": [
+      "sample",
+      "size",
+      "sizes"
+    ],
+    "day": 113
+  },
+  {
+    "id": "subject-noun",
+    "word": "subject",
+    "baseWord": "subject",
+    "type": "noun",
+    "meaning": "đối tượng nghiên cứu, chủ đề",
+    "pronunciation": "/ˈsʌbdʒɪkt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We recruited thirty subjects to participate in the consumer study.",
+    "exampleVi": "Chúng tôi đã tuyển dụng ba mươi đối tượng nghiên cứu để tham gia vào cuộc nghiên cứu người tiêu dùng.",
+    "collocations": [
+      "research subject",
+      "subject of study",
+      "test subject"
+    ],
+    "synonyms": [
+      "participant",
+      "topic",
+      "theme"
+    ],
+    "wordFamily": [
+      "subjective",
+      "subjectively",
+      "subjects"
+    ],
+    "day": 113
+  },
+  {
+    "id": "white paper-phrase",
+    "word": "white paper",
+    "baseWord": "white paper",
+    "type": "phrase",
+    "meaning": "sách trắng, báo cáo khuyến nghị chính thức",
+    "pronunciation": "/ˌwaɪt ˈpeɪpər/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The technology company released a white paper explaining cloud security.",
+    "exampleVi": "Công ty công nghệ đã phát hành một cuốn sách trắng giải thích về bảo mật đám mây.",
+    "collocations": [
+      "publish a white paper",
+      "technical white paper",
+      "read the white paper"
+    ],
+    "synonyms": [
+      "official report",
+      "briefing document"
+    ],
+    "wordFamily": [
+      "white",
+      "paper",
+      "papers"
+    ],
+    "day": 113
+  },
+  {
+    "id": "appointment-schedule-phrase",
+    "word": "appointment schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment schedule",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the appointment schedule before the next business day.",
+    "exampleVi": "Vui long xem lai appointment schedule truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment schedule",
+      "appointment schedule process",
+      "appointment schedule deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "schedule"
+    ],
+    "day": 114
+  },
+  {
+    "id": "chart-noun",
+    "word": "chart",
+    "baseWord": "chart",
+    "type": "noun",
+    "meaning": "biểu đồ, đồ thị",
+    "pronunciation": "/tʃɑːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The sales chart clearly illustrates our revenue growth since January.",
+    "exampleVi": "Biểu đồ doanh số bán hàng minh họa rõ ràng mức tăng trưởng doanh thu của chúng tôi kể từ tháng Một.",
+    "collocations": [
+      "sales chart",
+      "pie chart",
+      "organizational chart"
+    ],
+    "synonyms": [
+      "graph",
+      "diagram",
+      "table"
+    ],
+    "wordFamily": [
+      "charts",
+      "charted",
+      "charting"
+    ],
+    "day": 114
+  },
+  {
+    "id": "dependent variable-phrase",
+    "word": "dependent variable",
+    "baseWord": "vary",
+    "type": "phrase",
+    "meaning": "biến phụ thuộc",
+    "pronunciation": "/dɪˈpendənt ˈveriəbl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Customer satisfaction rating acts as the dependent variable in our model.",
+    "exampleVi": "Đánh giá mức độ hài lòng của khách hàng đóng vai trò là biến phụ thuộc trong mô hình của chúng tôi.",
+    "collocations": [
+      "measure dependent variable",
+      "dependent variable response"
+    ],
+    "synonyms": [
+      "outcome variable"
+    ],
+    "wordFamily": [
+      "dependent",
+      "vary",
+      "variable"
+    ],
+    "day": 114
+  },
+  {
+    "id": "diagram-noun",
+    "word": "diagram",
+    "baseWord": "diagram",
+    "type": "noun",
+    "meaning": "sơ đồ, biểu đồ phân tích",
+    "pronunciation": "/ˈdaɪəɡræm/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please look at the diagram to see how the system component connects.",
+    "exampleVi": "Vui lòng xem sơ đồ để thấy thành phần hệ thống kết nối như thế nào.",
+    "collocations": [
+      "system diagram",
+      "flow diagram",
+      "wiring diagram"
+    ],
+    "synonyms": [
+      "schema",
+      "layout",
+      "chart"
+    ],
+    "wordFamily": [
+      "diagrams",
+      "diagrammatic",
+      "diagrammed"
+    ],
+    "day": 114
+  },
+  {
+    "id": "documentary-adjective",
+    "word": "documentary",
+    "baseWord": "document",
+    "type": "adjective",
+    "meaning": "thuộc về tài liệu, hồ sơ",
+    "pronunciation": "/ˌdɑːkjuˈmentəri/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The audit requires documentary proof of all company travel expenses.",
+    "exampleVi": "Cuộc kiểm toán yêu cầu bằng chứng tài liệu về tất cả chi phí đi lại của công ty.",
+    "collocations": [
+      "documentary proof",
+      "documentary evidence",
+      "documentary source"
+    ],
+    "synonyms": [
+      "written",
+      "recorded"
+    ],
+    "wordFamily": [
+      "document",
+      "documentation",
+      "documents"
+    ],
+    "day": 114
+  },
+  {
+    "id": "documentation-noun",
+    "word": "documentation",
+    "baseWord": "document",
+    "type": "noun",
+    "meaning": "tài liệu hướng dẫn, tài liệu chứng minh",
+    "pronunciation": "/ˌdɑːkjumenˈteɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please provide the proper documentation to support your refund request.",
+    "exampleVi": "Vui lòng cung cấp tài liệu thích hợp để hỗ trợ yêu cầu hoàn tiền của bạn.",
+    "collocations": [
+      "provide documentation",
+      "written documentation",
+      "product documentation"
+    ],
+    "synonyms": [
+      "records",
+      "evidence",
+      "papers"
+    ],
+    "wordFamily": [
+      "document",
+      "documentary",
+      "documents"
+    ],
+    "day": 114
+  },
+  {
+    "id": "factual-adjective",
+    "word": "factual",
+    "baseWord": "fact",
+    "type": "adjective",
+    "meaning": "dựa trên sự thật, thực tế",
+    "pronunciation": "/ˈfæktʃuəl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The report must be based on factual data rather than personal opinions.",
+    "exampleVi": "Báo cáo phải dựa trên dữ liệu thực tế hơn là ý kiến cá nhân.",
+    "collocations": [
+      "factual report",
+      "factual evidence",
+      "factual accuracy"
+    ],
+    "synonyms": [
+      "accurate",
+      "true",
+      "factual"
+    ],
+    "wordFamily": [
+      "fact",
+      "factually",
+      "facts"
+    ],
+    "day": 114
+  },
+  {
+    "id": "footnote-noun",
+    "word": "footnote",
+    "baseWord": "footnote",
+    "type": "noun",
+    "meaning": "chú thích ở chân trang",
+    "pronunciation": "/ˈfʊtnoʊt/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The definition of the statistical terms can be found in the footnote.",
+    "exampleVi": "Định nghĩa của các thuật ngữ thống kê có thể được tìm thấy trong chú thích ở chân trang.",
+    "collocations": [
+      "add a footnote",
+      "refer to the footnote",
+      "explanatory footnote"
+    ],
+    "synonyms": [
+      "note",
+      "annotation",
+      "bottom note"
+    ],
+    "wordFamily": [
+      "footnotes",
+      "foot",
+      "note"
+    ],
+    "day": 114
+  },
+  {
+    "id": "glossary-noun",
+    "word": "glossary",
+    "baseWord": "glossary",
+    "type": "noun",
+    "meaning": "bảng tra cứu thuật ngữ, bảng từ vựng",
+    "pronunciation": "/ˈɡlɑːsəri/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Technical reports often include a glossary of terms for non-expert readers.",
+    "exampleVi": "Các báo cáo kỹ thuật thường bao gồm bảng tra cứu thuật ngữ cho người đọc không chuyên.",
+    "collocations": [
+      "include a glossary",
+      "technical glossary",
+      "glossary of terms"
+    ],
+    "synonyms": [
+      "vocabulary",
+      "dictionary",
+      "wordlist"
+    ],
+    "wordFamily": [
+      "glossaries",
+      "gloss",
+      "glossy"
+    ],
+    "day": 114
+  },
+  {
+    "id": "graph-noun",
+    "word": "graph",
+    "baseWord": "graph",
+    "type": "noun",
+    "meaning": "đồ thị",
+    "pronunciation": "/ɡræf/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The engineer plotted the data on a line graph to show temperature changes.",
+    "exampleVi": "Kỹ sư đã vẽ dữ liệu trên một đồ thị đường để biểu thị những thay đổi về nhiệt độ.",
+    "collocations": [
+      "line graph",
+      "bar graph",
+      "plot a graph"
+    ],
+    "synonyms": [
+      "chart",
+      "diagram",
+      "plot"
+    ],
+    "wordFamily": [
+      "graphs",
+      "graphic",
+      "graphical"
+    ],
+    "day": 114
+  },
+  {
+    "id": "independent variable-phrase",
+    "word": "independent variable",
+    "baseWord": "vary",
+    "type": "phrase",
+    "meaning": "biến độc lập",
+    "pronunciation": "/ˌɪndɪˈpendənt ˈveriəbl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "In this experiment, the independent variable is the price of the software.",
+    "exampleVi": "Trong thí nghiệm này, biến độc lập là giá của phần mềm.",
+    "collocations": [
+      "identify independent variable",
+      "manipulate independent variable"
+    ],
+    "synonyms": [
+      "predictor variable"
+    ],
+    "wordFamily": [
+      "independent",
+      "vary",
+      "variable"
+    ],
+    "day": 114
+  },
+  {
+    "id": "invalid-adjective",
+    "word": "invalid",
+    "baseWord": "valid",
+    "type": "adjective",
+    "meaning": "không có hiệu lực, không hợp lệ",
+    "pronunciation": "/ɪnˈvælɪd/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The coupon is invalid because the promotional period has expired.",
+    "exampleVi": "Phiếu mua hàng không hợp lệ vì thời gian khuyến mãi đã hết hạn.",
+    "collocations": [
+      "render invalid",
+      "invalid entry",
+      "invalid ticket"
+    ],
+    "synonyms": [
+      "null",
+      "void",
+      "worthless"
+    ],
+    "wordFamily": [
+      "valid",
+      "validate",
+      "invalidate"
+    ],
+    "day": 114
+  },
+  {
+    "id": "literature review-phrase",
+    "word": "literature review",
+    "baseWord": "literature review",
+    "type": "phrase",
+    "meaning": "phần tổng quan văn liệu, xem xét các nghiên cứu trước đây",
+    "pronunciation": "/ˈlɪtərərtʃər rɪˈvjuː/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The thesis begins with a literature review of existing studies on remote education.",
+    "exampleVi": "Luận văn bắt đầu với phần tổng quan văn liệu về các nghiên cứu hiện có về giáo dục từ xa.",
+    "collocations": [
+      "write a literature review",
+      "comprehensive literature review",
+      "conduct a literature review"
+    ],
+    "synonyms": [
+      "research review",
+      "literary summary"
+    ],
+    "wordFamily": [
+      "literature",
+      "review",
+      "reviews"
+    ],
+    "day": 114
+  },
+  {
+    "id": "observation-noun",
+    "word": "observation",
+    "baseWord": "observe",
+    "type": "noun",
+    "meaning": "sự quan sát, nhận xét",
+    "pronunciation": "/ˌɑːbzərˈveɪʃən/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Direct observation of customer habits helps designers improve usability.",
+    "exampleVi": "Quan sát trực tiếp thói quen của khách hàng giúp các nhà thiết kế cải thiện khả năng sử dụng.",
+    "collocations": [
+      "close observation",
+      "make an observation",
+      "under observation"
+    ],
+    "synonyms": [
+      "monitoring",
+      "viewing",
+      "comment"
+    ],
+    "wordFamily": [
+      "observe",
+      "observer",
+      "observations"
+    ],
+    "day": 114
+  },
+  {
+    "id": "observe-verb",
+    "word": "observe",
+    "baseWord": "observe",
+    "type": "verb",
+    "meaning": "quan sát, tuân theo",
+    "pronunciation": "/əbˈzɜːrv/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired a researcher to observe how shoppers choose products in the store.",
+    "exampleVi": "Chúng tôi đã thuê một nhà nghiên cứu để quan sát cách người mua hàng chọn sản phẩm trong cửa hàng.",
+    "collocations": [
+      "observe behavior",
+      "observe guidelines",
+      "carefully observe"
+    ],
+    "synonyms": [
+      "watch",
+      "notice",
+      "witness"
+    ],
+    "wordFamily": [
+      "observation",
+      "observer",
+      "observant"
+    ],
+    "day": 114
+  },
+  {
+    "id": "primary source-phrase",
+    "word": "primary source",
+    "baseWord": "source",
+    "type": "phrase",
+    "meaning": "nguồn tài liệu sơ cấp (thông tin gốc)",
+    "pronunciation": "/ˈpraɪmeri sɔːrs/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Historical letters and interviews are considered primary sources for the study.",
+    "exampleVi": "Các bức thư lịch sử và cuộc phỏng vấn được coi là tài liệu sơ cấp cho nghiên cứu.",
+    "collocations": [
+      "rely on primary sources",
+      "consult primary sources",
+      "original primary source"
+    ],
+    "synonyms": [
+      "firsthand source",
+      "original record"
+    ],
+    "wordFamily": [
+      "primary",
+      "source",
+      "sources"
+    ],
+    "day": 114
+  },
+  {
+    "id": "secondary source-phrase",
+    "word": "secondary source",
+    "baseWord": "source",
+    "type": "phrase",
+    "meaning": "nguồn tài liệu thứ cấp",
+    "pronunciation": "/ˈsekənderi sɔːrs/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Textbooks are secondary sources because they analyze primary documents.",
+    "exampleVi": "Sách giáo khoa là nguồn tài liệu thứ cấp vì chúng phân tích các tài liệu sơ cấp.",
+    "collocations": [
+      "cite secondary sources",
+      "secondary source analysis"
+    ],
+    "synonyms": [
+      "secondhand information"
+    ],
+    "wordFamily": [
+      "secondary",
+      "source",
+      "sources"
+    ],
+    "day": 114
+  },
+  {
+    "id": "source-noun",
+    "word": "source",
+    "baseWord": "source",
+    "type": "noun",
+    "meaning": "nguồn, nguồn gốc",
+    "pronunciation": "/sɔːrs/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our research assistant verified the information from multiple sources.",
+    "exampleVi": "Trợ lý nghiên cứu của chúng tôi đã xác minh thông tin từ nhiều nguồn.",
+    "collocations": [
+      "reliable source",
+      "source of information",
+      "primary source"
+    ],
+    "synonyms": [
+      "origin",
+      "root",
+      "wellspring"
+    ],
+    "wordFamily": [
+      "sources",
+      "sourced",
+      "sourcing"
+    ],
+    "day": 114
+  },
+  {
+    "id": "table of contents-phrase",
+    "word": "table of contents",
+    "baseWord": "table of contents",
+    "type": "phrase",
+    "meaning": "mục lục",
+    "pronunciation": "/ˈteɪbl əv kənˈtents/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please look at the table of contents to find the page number for the appendix.",
+    "exampleVi": "Vui lòng xem mục lục để tìm số trang của phần phụ lục.",
+    "collocations": [
+      "check the table of contents",
+      "include table of contents"
+    ],
+    "synonyms": [
+      "index",
+      "contents list"
+    ],
+    "wordFamily": [
+      "table",
+      "content",
+      "contents"
+    ],
+    "day": 114
+  },
+  {
+    "id": "variable-noun",
+    "word": "variable",
+    "baseWord": "vary",
+    "type": "noun",
+    "meaning": "biến số, yếu tố thay đổi",
+    "pronunciation": "/ˈveriəbl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Temperature is a key variable that can affect the test results.",
+    "exampleVi": "Nhiệt độ là một biến số quan trọng có thể ảnh hưởng đến kết quả thử nghiệm.",
+    "collocations": [
+      "key variable",
+      "independent variable",
+      "dependent variable"
+    ],
+    "synonyms": [
+      "factor",
+      "element",
+      "parameter"
+    ],
+    "wordFamily": [
+      "vary",
+      "variation",
+      "variables"
+    ],
+    "day": 114
+  },
+  {
+    "id": "analytic-adjective",
+    "word": "analytic",
+    "baseWord": "analyze",
+    "type": "adjective",
+    "meaning": "thuộc về phân tích",
+    "pronunciation": "/ˌænəˈlɪtɪk/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He has strong analytic skills which make him a great researcher.",
+    "exampleVi": "Anh ấy có kỹ năng phân tích mạnh mẽ giúp anh ấy trở thành một nhà nghiên cứu giỏi.",
+    "collocations": [
+      "analytic skills",
+      "analytic mind",
+      "analytic approach"
+    ],
+    "synonyms": [
+      "analytical",
+      "logical",
+      "systematic"
+    ],
+    "wordFamily": [
+      "analyze",
+      "analysis",
+      "analytical"
+    ],
+    "day": 115
+  },
+  {
+    "id": "analytical-adjective",
+    "word": "analytical",
+    "baseWord": "analyze",
+    "type": "adjective",
+    "meaning": "mang tính phân tích",
+    "pronunciation": "/ˌænəˈlɪtɪkl/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager wrote an analytical report on department performance.",
+    "exampleVi": "Người quản lý đã viết một báo cáo mang tính phân tích về hiệu suất bộ phận.",
+    "collocations": [
+      "analytical report",
+      "analytical tools",
+      "analytical capability"
+    ],
+    "synonyms": [
+      "analytic",
+      "logical",
+      "critical"
+    ],
+    "wordFamily": [
+      "analyze",
+      "analysis",
+      "analytically"
+    ],
+    "day": 115
+  },
+  {
+    "id": "appointment-report-phrase",
+    "word": "appointment report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve research & reports: appointment report",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the appointment report before the next business day.",
+    "exampleVi": "Vui long xem lai appointment report truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "appointment report",
+      "appointment report process",
+      "appointment report deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "report"
+    ],
+    "day": 115
+  },
+  {
+    "id": "bar graph-phrase",
+    "word": "bar graph",
+    "baseWord": "graph",
+    "type": "phrase",
+    "meaning": "biểu đồ cột, biểu đồ thanh",
+    "pronunciation": "/ˈbɑːr ɡræf/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "According to the bar graph, production costs peaked in July.",
+    "exampleVi": "Theo biểu đồ cột, chi phí sản xuất đạt đỉnh vào tháng Bảy.",
+    "collocations": [
+      "vertical bar graph",
+      "horizontal bar graph",
+      "bar graph data"
+    ],
+    "synonyms": [
+      "bar chart"
+    ],
+    "wordFamily": [
+      "bar",
+      "graph",
+      "graphs"
+    ],
+    "day": 115
+  },
+  {
+    "id": "bias-noun",
+    "word": "bias",
+    "baseWord": "bias",
+    "type": "noun",
+    "meaning": "sự thiên vị, độ lệch (thống kê)",
+    "pronunciation": "/ˈbaɪəs/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The researcher designed the survey questions carefully to avoid any bias.",
+    "exampleVi": "Nhà nghiên cứu đã thiết kế các câu hỏi khảo sát một cách cẩn thận để tránh bất kỳ sự thiên vị nào.",
+    "collocations": [
+      "statistical bias",
+      "avoid bias",
+      "personal bias"
+    ],
+    "synonyms": [
+      "prejudice",
+      "partiality",
+      "skew"
+    ],
+    "wordFamily": [
+      "biased",
+      "unbiased",
+      "biases"
+    ],
+    "day": 115
+  },
+  {
+    "id": "biased-adjective",
+    "word": "biased",
+    "baseWord": "bias",
+    "type": "adjective",
+    "meaning": "thiên vị, phiến diện",
+    "pronunciation": "/ˈbaɪəst/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The market survey sample was biased because it only included urban consumers.",
+    "exampleVi": "Mẫu khảo sát thị trường bị thiên vị vì nó chỉ bao gồm những người tiêu dùng ở thành thị.",
+    "collocations": [
+      "highly biased",
+      "politically biased",
+      "biased sample"
+    ],
+    "synonyms": [
+      "partial",
+      "one-sided",
+      "prejudiced"
+    ],
+    "wordFamily": [
+      "bias",
+      "unbiased",
+      "biases"
+    ],
+    "day": 115
+  },
+  {
+    "id": "data gathering-phrase",
+    "word": "data gathering",
+    "baseWord": "data gathering",
+    "type": "phrase",
+    "meaning": "việc thu thập dữ liệu",
+    "pronunciation": "/ˈdeɪtə ˈɡæðərɪŋ/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Data gathering must be done carefully to ensure statistical accuracy.",
+    "exampleVi": "Việc thu thập dữ liệu phải được thực hiện cẩn thận để đảm bảo độ chính xác thống kê.",
+    "collocations": [
+      "method for data gathering",
+      "online data gathering",
+      "complete data gathering"
+    ],
+    "synonyms": [
+      "data collection",
+      "information gathering"
+    ],
+    "wordFamily": [
+      "data",
+      "gather",
+      "gathering"
+    ],
+    "day": 115
+  },
+  {
+    "id": "flowchart-noun",
+    "word": "flowchart",
+    "baseWord": "chart",
+    "type": "noun",
+    "meaning": "lưu đồ, sơ đồ quy trình",
+    "pronunciation": "/ˈfloʊtʃɑːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The flowchart displays the steps required to process customer returns.",
+    "exampleVi": "Lưu đồ hiển thị các bước cần thiết để xử lý hàng khách trả lại.",
+    "collocations": [
+      "process flowchart",
+      "system flowchart",
+      "create a flowchart"
+    ],
+    "synonyms": [
+      "flow diagram",
+      "workflow diagram"
+    ],
+    "wordFamily": [
+      "flow",
+      "chart",
+      "flowcharts"
+    ],
+    "day": 115
+  },
+  {
+    "id": "information gathering-phrase",
+    "word": "information gathering",
+    "baseWord": "information gathering",
+    "type": "phrase",
+    "meaning": "việc thu thập thông tin",
+    "pronunciation": "/ˌɪnfərˈmeɪʃən ˈɡæðərɪŋ/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Market research requires weeks of active information gathering.",
+    "exampleVi": "Nghiên cứu thị trường đòi hỏi nhiều tuần thu thập thông tin tích cực.",
+    "collocations": [
+      "system for information gathering",
+      "initial information gathering"
+    ],
+    "synonyms": [
+      "data collection",
+      "data gathering"
+    ],
+    "wordFamily": [
+      "information",
+      "gather",
+      "gathering"
+    ],
+    "day": 115
+  },
+  {
+    "id": "market survey-phrase",
+    "word": "market survey",
+    "baseWord": "market survey",
+    "type": "phrase",
+    "meaning": "cuộc khảo sát thị trường",
+    "pronunciation": "/ˈmɑːrkɪt ˈsɜːrveɪ/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We sent a market survey to our subscribers to learn about their habits.",
+    "exampleVi": "Chúng tôi đã gửi một cuộc khảo sát thị trường cho các thuê bao của mình để tìm hiểu về thói quen của họ.",
+    "collocations": [
+      "conduct a market survey",
+      "annual market survey",
+      "market survey questionnaire"
+    ],
+    "synonyms": [
+      "market research",
+      "opinion poll"
+    ],
+    "wordFamily": [
+      "market",
+      "survey",
+      "surveys"
+    ],
+    "day": 115
+  },
+  {
+    "id": "objectivity-noun",
+    "word": "objectivity",
+    "baseWord": "object",
+    "type": "noun",
+    "meaning": "tính khách quan",
+    "pronunciation": "/ˌɑːbdʒekˈtɪvəti/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Maintaining strict objectivity is crucial when conducting scientific research.",
+    "exampleVi": "Duy trì tính khách quan nghiêm ngặt là điều tối quan trọng khi tiến hành nghiên cứu khoa học.",
+    "collocations": [
+      "scientific objectivity",
+      "ensure objectivity",
+      "lack of objectivity"
+    ],
+    "synonyms": [
+      "impartiality",
+      "neutrality",
+      "fairness"
+    ],
+    "wordFamily": [
+      "objective",
+      "objectively",
+      "objectives"
+    ],
+    "day": 115
+  },
+  {
+    "id": "opinion poll-phrase",
+    "word": "opinion poll",
+    "baseWord": "poll",
+    "type": "phrase",
+    "meaning": "cuộc thăm dò dư luận, thăm dò ý kiến",
+    "pronunciation": "/əˈpɪnjən poʊl/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The newspaper conducted an opinion poll to see which brand was preferred.",
+    "exampleVi": "Tờ báo đã thực hiện một cuộc thăm dò ý kiến để xem thương hiệu nào được ưa chuộng hơn.",
+    "collocations": [
+      "national opinion poll",
+      "conduct an opinion poll",
+      "latest opinion poll"
+    ],
+    "synonyms": [
+      "survey",
+      "poll",
+      "opinion survey"
+    ],
+    "wordFamily": [
+      "opinion",
+      "poll",
+      "polls"
+    ],
+    "day": 115
+  },
+  {
+    "id": "pie chart-phrase",
+    "word": "pie chart",
+    "baseWord": "chart",
+    "type": "phrase",
+    "meaning": "biểu đồ hình tròn",
+    "pronunciation": "/ˈpaɪ tʃɑːrt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The pie chart shows the market share distribution of the top companies.",
+    "exampleVi": "Biểu đồ tròn biểu thị sự phân bổ thị phần của các công ty hàng đầu.",
+    "collocations": [
+      "create a pie chart",
+      "pie chart segment",
+      "interpret a pie chart"
+    ],
+    "synonyms": [
+      "circle graph"
+    ],
+    "wordFamily": [
+      "pie",
+      "chart",
+      "charts"
+    ],
+    "day": 115
+  },
+  {
+    "id": "poll-noun",
+    "word": "poll",
+    "baseWord": "poll",
+    "type": "noun",
+    "meaning": "cuộc thăm dò ý kiến",
+    "pronunciation": "/poʊl/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A recent public opinion poll showed strong support for the environmental policy.",
+    "exampleVi": "Một cuộc thăm dò ý kiến công chúng gần đây cho thấy sự ủng hộ mạnh mẽ đối với chính sách môi trường.",
+    "collocations": [
+      "opinion poll",
+      "conduct a poll",
+      "poll results"
+    ],
+    "synonyms": [
+      "survey",
+      "ballot",
+      "canvass"
+    ],
+    "wordFamily": [
+      "polls",
+      "polled",
+      "polling"
+    ],
+    "day": 115
+  },
+  {
+    "id": "response rate-phrase",
+    "word": "response rate",
+    "baseWord": "response rate",
+    "type": "phrase",
+    "meaning": "tỷ lệ phản hồi",
+    "pronunciation": "/rɪˈspɑːns reɪt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our online survey had a response rate of forty percent, which was better than expected.",
+    "exampleVi": "Khảo sát trực tuyến của chúng tôi đạt tỷ lệ phản hồi bốn mươi phần trăm, tốt hơn mong đợi.",
+    "collocations": [
+      "high response rate",
+      "calculate response rate",
+      "improve the response rate"
+    ],
+    "synonyms": [
+      "reply rate",
+      "return rate"
+    ],
+    "wordFamily": [
+      "respond",
+      "response",
+      "rate"
+    ],
+    "day": 115
+  },
+  {
+    "id": "spreadsheet-noun",
+    "word": "spreadsheet",
+    "baseWord": "spreadsheet",
+    "type": "noun",
+    "meaning": "bảng tính (như Excel)",
+    "pronunciation": "/ˈspredʃiːt/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She entered the budget numbers into the office spreadsheet.",
+    "exampleVi": "Cô ấy đã nhập số ngân sách vào bảng tính văn phòng.",
+    "collocations": [
+      "budget spreadsheet",
+      "update a spreadsheet",
+      "spreadsheet formula"
+    ],
+    "synonyms": [
+      "worksheet",
+      "table",
+      "ledger"
+    ],
+    "wordFamily": [
+      "spreadsheets",
+      "spread",
+      "sheet"
+    ],
+    "day": 115
+  },
+  {
+    "id": "subjectivity-noun",
+    "word": "subjectivity",
+    "baseWord": "subject",
+    "type": "noun",
+    "meaning": "tính chủ quan",
+    "pronunciation": "/ˌsʌbdʒekˈtɪvəti/",
+    "topic": "Research & Reports",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The subjectivity of customer taste makes product design a difficult task.",
+    "exampleVi": "Tính chủ quan trong thị hiếu của khách hàng làm cho việc thiết kế sản phẩm trở thành một nhiệm vụ khó khăn.",
+    "collocations": [
+      "consumer subjectivity",
+      "avoid subjectivity",
+      "element of subjectivity"
+    ],
+    "synonyms": [
+      "partiality",
+      "individuality"
+    ],
+    "wordFamily": [
+      "subject",
+      "subjective",
+      "subjectively"
+    ],
+    "day": 115
+  },
+  {
+    "id": "unbiased-adjective",
+    "word": "unbiased",
+    "baseWord": "bias",
+    "type": "adjective",
+    "meaning": "không thiên vị, khách quan",
+    "pronunciation": "/ʌnˈbaɪəst/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired an external consultant to get an unbiased opinion on the audit findings.",
+    "exampleVi": "Chúng tôi đã thuê một cố vấn bên ngoài để có được một ý kiến khách quan về các kết quả kiểm toán.",
+    "collocations": [
+      "unbiased opinion",
+      "unbiased evaluation",
+      "remain unbiased"
+    ],
+    "synonyms": [
+      "impartial",
+      "objective",
+      "neutral"
+    ],
+    "wordFamily": [
+      "bias",
+      "biased",
+      "biases"
+    ],
+    "day": 115
+  },
+  {
+    "id": "verifiable-adjective",
+    "word": "verifiable",
+    "baseWord": "verify",
+    "type": "adjective",
+    "meaning": "có thể kiểm chứng, xác minh",
+    "pronunciation": "/ˈverɪfaɪəbl/",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The financial claims in the annual report must be based on verifiable records.",
+    "exampleVi": "Các tuyên bố tài chính trong báo cáo thường niên phải được dựa trên các hồ sơ có thể kiểm chứng.",
+    "collocations": [
+      "verifiable proof",
+      "verifiable data",
+      "easily verifiable"
+    ],
+    "synonyms": [
+      "provable",
+      "confirmable"
+    ],
+    "wordFamily": [
+      "verify",
+      "verification",
+      "unverifiable"
+    ],
+    "day": 115
+  },
+  {
+    "id": "verify-verb",
+    "word": "verify",
+    "baseWord": "verify",
+    "type": "verb",
+    "meaning": "xác minh, kiểm chứng",
+    "pronunciation": "/ˈverɪfaɪ/",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our billing department will verify your credit details before processing the payment.",
+    "exampleVi": "Bộ phận thanh toán của chúng tôi sẽ xác minh chi tiết tín dụng của bạn trước khi xử lý thanh toán.",
+    "collocations": [
+      "verify credentials",
+      "verify information",
+      "verify identity"
+    ],
+    "synonyms": [
+      "confirm",
+      "validate",
+      "verify"
+    ],
+    "wordFamily": [
+      "verifiable",
+      "verification",
+      "unverifiable"
+    ],
+    "day": 115
+  }
+]

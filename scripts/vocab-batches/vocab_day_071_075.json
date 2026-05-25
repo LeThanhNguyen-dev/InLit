@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "asking-price-phrase",
+    "word": "asking price",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "giá chào bán",
+    "pronunciation": "/asking price/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the asking price carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giá chào bán cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm asking price",
+      "asking price details",
+      "review asking price"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "price"
+    ],
+    "day": 71
+  },
+  {
+    "id": "brokerage-firm-phrase",
+    "word": "brokerage firm",
+    "baseWord": "firm",
+    "type": "phrase",
+    "meaning": "công ty môi giới",
+    "pronunciation": "/brokerage firm/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the brokerage firm carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét công ty môi giới cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm brokerage firm",
+      "brokerage firm details",
+      "review brokerage firm"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "firm"
+    ],
+    "day": 71
+  },
+  {
+    "id": "building-permit-phrase",
+    "word": "building permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "giấy phép xây dựng",
+    "pronunciation": "/building permit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the building permit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giấy phép xây dựng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm building permit",
+      "building permit details",
+      "review building permit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "permit"
+    ],
+    "day": 71
+  },
+  {
+    "id": "building-site-phrase",
+    "word": "building site",
+    "baseWord": "site",
+    "type": "phrase",
+    "meaning": "công trường xây dựng",
+    "pronunciation": "/building site/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the building site carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét công trường xây dựng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm building site",
+      "building site details",
+      "review building site"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "site"
+    ],
+    "day": 71
+  },
+  {
+    "id": "commercial-property-phrase",
+    "word": "commercial property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "bất động sản thương mại",
+    "pronunciation": "/commercial property/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the commercial property carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bất động sản thương mại cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm commercial property",
+      "commercial property details",
+      "review commercial property"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "property"
+    ],
+    "day": 71
+  },
+  {
+    "id": "industrial-park-phrase",
+    "word": "industrial park",
+    "baseWord": "park",
+    "type": "phrase",
+    "meaning": "khu công nghiệp",
+    "pronunciation": "/industrial park/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the industrial park carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu công nghiệp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm industrial park",
+      "industrial park details",
+      "review industrial park"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "park"
+    ],
+    "day": 71
+  },
+  {
+    "id": "landlord-noun",
+    "word": "landlord",
+    "baseWord": "landlord",
+    "type": "noun",
+    "meaning": "chủ cho thuê",
+    "pronunciation": "/landlord/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the landlord carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chủ cho thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm landlord",
+      "landlord details",
+      "review landlord"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "landlord"
+    ],
+    "day": 71
+  },
+  {
+    "id": "leasing-agent-phrase",
+    "word": "leasing agent",
+    "baseWord": "agent",
+    "type": "phrase",
+    "meaning": "nhân viên cho thuê",
+    "pronunciation": "/leasing agent/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the leasing agent carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên cho thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm leasing agent",
+      "leasing agent details",
+      "review leasing agent"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "agent"
+    ],
+    "day": 71
+  },
+  {
+    "id": "market-value-phrase",
+    "word": "market value",
+    "baseWord": "value",
+    "type": "phrase",
+    "meaning": "giá trị thị trường",
+    "pronunciation": "/market value/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the market value carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giá trị thị trường cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm market value",
+      "market value details",
+      "review market value"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "value"
+    ],
+    "day": 71
+  },
+  {
+    "id": "office-tower-phrase",
+    "word": "office tower",
+    "baseWord": "tower",
+    "type": "phrase",
+    "meaning": "tòa tháp văn phòng",
+    "pronunciation": "/office tower/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the office tower carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tòa tháp văn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm office tower",
+      "office tower details",
+      "review office tower"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tower"
+    ],
+    "day": 71
+  },
+  {
+    "id": "property-manager-phrase",
+    "word": "property manager",
+    "baseWord": "manager",
+    "type": "phrase",
+    "meaning": "quản lý bất động sản",
+    "pronunciation": "/property manager/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the property manager carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quản lý bất động sản cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm property manager",
+      "property manager details",
+      "review property manager"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "manager"
+    ],
+    "day": 71
+  },
+  {
+    "id": "property-tax-phrase",
+    "word": "property tax",
+    "baseWord": "tax",
+    "type": "phrase",
+    "meaning": "thuế bất động sản",
+    "pronunciation": "/property tax/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the property tax carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thuế bất động sản cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm property tax",
+      "property tax details",
+      "review property tax"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tax"
+    ],
+    "day": 71
+  },
+  {
+    "id": "rental-listing-phrase",
+    "word": "rental listing",
+    "baseWord": "listing",
+    "type": "phrase",
+    "meaning": "tin đăng cho thuê",
+    "pronunciation": "/rental listing/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the rental listing carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tin đăng cho thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm rental listing",
+      "rental listing details",
+      "review rental listing"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "listing"
+    ],
+    "day": 71
+  },
+  {
+    "id": "residential-complex-phrase",
+    "word": "residential complex",
+    "baseWord": "complex",
+    "type": "phrase",
+    "meaning": "khu dân cư",
+    "pronunciation": "/residential complex/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the residential complex carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu dân cư cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm residential complex",
+      "residential complex details",
+      "review residential complex"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "complex"
+    ],
+    "day": 71
+  },
+  {
+    "id": "retail-space-phrase",
+    "word": "retail space",
+    "baseWord": "space",
+    "type": "phrase",
+    "meaning": "mặt bằng bán lẻ",
+    "pronunciation": "/retail space/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the retail space carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mặt bằng bán lẻ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm retail space",
+      "retail space details",
+      "review retail space"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "space"
+    ],
+    "day": 71
+  },
+  {
+    "id": "site-survey-phrase",
+    "word": "site survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "khảo sát địa điểm",
+    "pronunciation": "/site survey/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the site survey carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khảo sát địa điểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm site survey",
+      "site survey details",
+      "review site survey"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "survey"
+    ],
+    "day": 71
+  },
+  {
+    "id": "tenant-noun",
+    "word": "tenant",
+    "baseWord": "tenant",
+    "type": "noun",
+    "meaning": "người thuê",
+    "pronunciation": "/tenant/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the tenant carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét người thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm tenant",
+      "tenant details",
+      "review tenant"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tenant"
+    ],
+    "day": 71
+  },
+  {
+    "id": "title-deed-phrase",
+    "word": "title deed",
+    "baseWord": "deed",
+    "type": "phrase",
+    "meaning": "giấy chứng nhận quyền sở hữu",
+    "pronunciation": "/title deed/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the title deed carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giấy chứng nhận quyền sở hữu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm title deed",
+      "title deed details",
+      "review title deed"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "deed"
+    ],
+    "day": 71
+  },
+  {
+    "id": "warehouse-unit-phrase",
+    "word": "warehouse unit",
+    "baseWord": "unit",
+    "type": "phrase",
+    "meaning": "đơn vị kho bãi",
+    "pronunciation": "/warehouse unit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the warehouse unit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đơn vị kho bãi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm warehouse unit",
+      "warehouse unit details",
+      "review warehouse unit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "unit"
+    ],
+    "day": 71
+  },
+  {
+    "id": "zoning-regulation-phrase",
+    "word": "zoning regulation",
+    "baseWord": "regulation",
+    "type": "phrase",
+    "meaning": "quy định phân vùng",
+    "pronunciation": "/zoning regulation/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the zoning regulation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quy định phân vùng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm zoning regulation",
+      "zoning regulation details",
+      "review zoning regulation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "regulation"
+    ],
+    "day": 71
+  },
+  {
+    "id": "cafeteria-noun",
+    "word": "cafeteria",
+    "baseWord": "cafeteria",
+    "type": "noun",
+    "meaning": "nhà ăn tự phục vụ",
+    "pronunciation": "/cafeteria/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the cafeteria carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhà ăn tự phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cafeteria",
+      "cafeteria details",
+      "review cafeteria"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cafeteria"
+    ],
+    "day": 72
+  },
+  {
+    "id": "common-area-phrase",
+    "word": "common area",
+    "baseWord": "area",
+    "type": "phrase",
+    "meaning": "khu vực chung",
+    "pronunciation": "/common area/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the common area carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu vực chung cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm common area",
+      "common area details",
+      "review common area"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "area"
+    ],
+    "day": 72
+  },
+  {
+    "id": "courtyard-noun",
+    "word": "courtyard",
+    "baseWord": "courtyard",
+    "type": "noun",
+    "meaning": "sân trong",
+    "pronunciation": "/courtyard/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the courtyard carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sân trong cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm courtyard",
+      "courtyard details",
+      "review courtyard"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "courtyard"
+    ],
+    "day": 72
+  },
+  {
+    "id": "elevator-bank-phrase",
+    "word": "elevator bank",
+    "baseWord": "bank",
+    "type": "phrase",
+    "meaning": "khu thang máy",
+    "pronunciation": "/elevator bank/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the elevator bank carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu thang máy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm elevator bank",
+      "elevator bank details",
+      "review elevator bank"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "bank"
+    ],
+    "day": 72
+  },
+  {
+    "id": "floor-directory-phrase",
+    "word": "floor directory",
+    "baseWord": "directory",
+    "type": "phrase",
+    "meaning": "bảng chỉ dẫn tầng",
+    "pronunciation": "/floor directory/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the floor directory carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảng chỉ dẫn tầng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm floor directory",
+      "floor directory details",
+      "review floor directory"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "directory"
+    ],
+    "day": 72
+  },
+  {
+    "id": "freight-entrance-phrase",
+    "word": "freight entrance",
+    "baseWord": "entrance",
+    "type": "phrase",
+    "meaning": "lối vào hàng hóa",
+    "pronunciation": "/freight entrance/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the freight entrance carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lối vào hàng hóa cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm freight entrance",
+      "freight entrance details",
+      "review freight entrance"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "entrance"
+    ],
+    "day": 72
+  },
+  {
+    "id": "hallway-noun",
+    "word": "hallway",
+    "baseWord": "hallway",
+    "type": "noun",
+    "meaning": "hành lang",
+    "pronunciation": "/hallway/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the hallway carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hành lang cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hallway",
+      "hallway details",
+      "review hallway"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "hallway"
+    ],
+    "day": 72
+  },
+  {
+    "id": "maintenance-fee-phrase",
+    "word": "maintenance fee",
+    "baseWord": "fee",
+    "type": "phrase",
+    "meaning": "phí bảo trì",
+    "pronunciation": "/maintenance fee/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the maintenance fee carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phí bảo trì cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm maintenance fee",
+      "maintenance fee details",
+      "review maintenance fee"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "fee"
+    ],
+    "day": 72
+  },
+  {
+    "id": "meeting-room-phrase",
+    "word": "meeting room",
+    "baseWord": "room",
+    "type": "phrase",
+    "meaning": "phòng họp",
+    "pronunciation": "/meeting room/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the meeting room carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng họp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm meeting room",
+      "meeting room details",
+      "review meeting room"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "room"
+    ],
+    "day": 72
+  },
+  {
+    "id": "monthly-rent-phrase",
+    "word": "monthly rent",
+    "baseWord": "rent",
+    "type": "phrase",
+    "meaning": "tiền thuê hàng tháng",
+    "pronunciation": "/monthly rent/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the monthly rent carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiền thuê hàng tháng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm monthly rent",
+      "monthly rent details",
+      "review monthly rent"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rent"
+    ],
+    "day": 72
+  },
+  {
+    "id": "parking-space-phrase",
+    "word": "parking space",
+    "baseWord": "space",
+    "type": "phrase",
+    "meaning": "chỗ đậu xe",
+    "pronunciation": "/parking space/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the parking space carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chỗ đậu xe cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm parking space",
+      "parking space details",
+      "review parking space"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "space"
+    ],
+    "day": 72
+  },
+  {
+    "id": "reception-lobby-phrase",
+    "word": "reception lobby",
+    "baseWord": "lobby",
+    "type": "phrase",
+    "meaning": "sảnh lễ tân",
+    "pronunciation": "/reception lobby/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reception lobby carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sảnh lễ tân cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reception lobby",
+      "reception lobby details",
+      "review reception lobby"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "lobby"
+    ],
+    "day": 72
+  },
+  {
+    "id": "rental-contract-phrase",
+    "word": "rental contract",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "hợp đồng thuê",
+    "pronunciation": "/rental contract/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the rental contract carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hợp đồng thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm rental contract",
+      "rental contract details",
+      "review rental contract"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contract"
+    ],
+    "day": 72
+  },
+  {
+    "id": "rental-term-phrase",
+    "word": "rental term",
+    "baseWord": "term",
+    "type": "phrase",
+    "meaning": "thời hạn thuê",
+    "pronunciation": "/rental term/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the rental term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thời hạn thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm rental term",
+      "rental term details",
+      "review rental term"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "term"
+    ],
+    "day": 72
+  },
+  {
+    "id": "restroom-noun",
+    "word": "restroom",
+    "baseWord": "restroom",
+    "type": "noun",
+    "meaning": "nhà vệ sinh",
+    "pronunciation": "/restroom/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the restroom carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhà vệ sinh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm restroom",
+      "restroom details",
+      "review restroom"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "restroom"
+    ],
+    "day": 72
+  },
+  {
+    "id": "rooftop-terrace-phrase",
+    "word": "rooftop terrace",
+    "baseWord": "terrace",
+    "type": "phrase",
+    "meaning": "sân thượng",
+    "pronunciation": "/rooftop terrace/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the rooftop terrace carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sân thượng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm rooftop terrace",
+      "rooftop terrace details",
+      "review rooftop terrace"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "terrace"
+    ],
+    "day": 72
+  },
+  {
+    "id": "security-deposit-phrase",
+    "word": "security deposit",
+    "baseWord": "deposit",
+    "type": "phrase",
+    "meaning": "tiền đặt cọc bảo đảm",
+    "pronunciation": "/security deposit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the security deposit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiền đặt cọc bảo đảm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm security deposit",
+      "security deposit details",
+      "review security deposit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "deposit"
+    ],
+    "day": 72
+  },
+  {
+    "id": "stairwell-noun",
+    "word": "stairwell",
+    "baseWord": "stairwell",
+    "type": "noun",
+    "meaning": "cầu thang bộ",
+    "pronunciation": "/stairwell/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the stairwell carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cầu thang bộ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm stairwell",
+      "stairwell details",
+      "review stairwell"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "stairwell"
+    ],
+    "day": 72
+  },
+  {
+    "id": "supply-closet-phrase",
+    "word": "supply closet",
+    "baseWord": "closet",
+    "type": "phrase",
+    "meaning": "phòng chứa vật tư",
+    "pronunciation": "/supply closet/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the supply closet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng chứa vật tư cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm supply closet",
+      "supply closet details",
+      "review supply closet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "closet"
+    ],
+    "day": 72
+  },
+  {
+    "id": "utility-bill-phrase",
+    "word": "utility bill",
+    "baseWord": "bill",
+    "type": "phrase",
+    "meaning": "hóa đơn tiện ích",
+    "pronunciation": "/utility bill/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the utility bill carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hóa đơn tiện ích cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm utility bill",
+      "utility bill details",
+      "review utility bill"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "bill"
+    ],
+    "day": 72
+  },
+  {
+    "id": "access-card-phrase",
+    "word": "access card",
+    "baseWord": "card",
+    "type": "phrase",
+    "meaning": "thẻ ra vào",
+    "pronunciation": "/access card/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the access card carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thẻ ra vào cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm access card",
+      "access card details",
+      "review access card"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "card"
+    ],
+    "day": 73
+  },
+  {
+    "id": "air-conditioning-phrase",
+    "word": "air conditioning",
+    "baseWord": "conditioning",
+    "type": "phrase",
+    "meaning": "điều hòa không khí",
+    "pronunciation": "/air conditioning/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the air conditioning carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều hòa không khí cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm air conditioning",
+      "air conditioning details",
+      "review air conditioning"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "conditioning"
+    ],
+    "day": 73
+  },
+  {
+    "id": "backup-generator-phrase",
+    "word": "backup generator",
+    "baseWord": "generator",
+    "type": "phrase",
+    "meaning": "máy phát điện dự phòng",
+    "pronunciation": "/backup generator/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the backup generator carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét máy phát điện dự phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm backup generator",
+      "backup generator details",
+      "review backup generator"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "generator"
+    ],
+    "day": 73
+  },
+  {
+    "id": "electrical-outlet-phrase",
+    "word": "electrical outlet",
+    "baseWord": "outlet",
+    "type": "phrase",
+    "meaning": "ổ cắm điện",
+    "pronunciation": "/electrical outlet/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the electrical outlet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ổ cắm điện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm electrical outlet",
+      "electrical outlet details",
+      "review electrical outlet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "outlet"
+    ],
+    "day": 73
+  },
+  {
+    "id": "facility-maintenance-phrase",
+    "word": "facility maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "bảo trì cơ sở vật chất",
+    "pronunciation": "/facility maintenance/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the facility maintenance carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảo trì cơ sở vật chất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm facility maintenance",
+      "facility maintenance details",
+      "review facility maintenance"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "maintenance"
+    ],
+    "day": 73
+  },
+  {
+    "id": "heating-system-phrase",
+    "word": "heating system",
+    "baseWord": "system",
+    "type": "phrase",
+    "meaning": "hệ thống sưởi",
+    "pronunciation": "/heating system/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the heating system carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hệ thống sưởi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm heating system",
+      "heating system details",
+      "review heating system"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "system"
+    ],
+    "day": 73
+  },
+  {
+    "id": "hvac-unit-phrase",
+    "word": "HVAC unit",
+    "baseWord": "unit",
+    "type": "phrase",
+    "meaning": "thiết bị HVAC",
+    "pronunciation": "/hvac unit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the HVAC unit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thiết bị HVAC cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm HVAC unit",
+      "HVAC unit details",
+      "review HVAC unit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "unit"
+    ],
+    "day": 73
+  },
+  {
+    "id": "janitorial-service-phrase",
+    "word": "janitorial service",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "dịch vụ vệ sinh tòa nhà",
+    "pronunciation": "/janitorial service/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the janitorial service carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dịch vụ vệ sinh tòa nhà cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm janitorial service",
+      "janitorial service details",
+      "review janitorial service"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 73
+  },
+  {
+    "id": "landscaping-crew-phrase",
+    "word": "landscaping crew",
+    "baseWord": "crew",
+    "type": "phrase",
+    "meaning": "đội chăm sóc cảnh quan",
+    "pronunciation": "/landscaping crew/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the landscaping crew carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đội chăm sóc cảnh quan cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm landscaping crew",
+      "landscaping crew details",
+      "review landscaping crew"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "crew"
+    ],
+    "day": 73
+  },
+  {
+    "id": "lighting-fixture-phrase",
+    "word": "lighting fixture",
+    "baseWord": "fixture",
+    "type": "phrase",
+    "meaning": "thiết bị chiếu sáng",
+    "pronunciation": "/lighting fixture/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the lighting fixture carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thiết bị chiếu sáng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm lighting fixture",
+      "lighting fixture details",
+      "review lighting fixture"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "fixture"
+    ],
+    "day": 73
+  },
+  {
+    "id": "maintenance-request-phrase",
+    "word": "maintenance request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "yêu cầu bảo trì",
+    "pronunciation": "/maintenance request/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the maintenance request carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét yêu cầu bảo trì cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm maintenance request",
+      "maintenance request details",
+      "review maintenance request"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "request"
+    ],
+    "day": 73
+  },
+  {
+    "id": "pest-control-phrase",
+    "word": "pest control",
+    "baseWord": "control",
+    "type": "phrase",
+    "meaning": "kiểm soát côn trùng",
+    "pronunciation": "/pest control/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the pest control carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm soát côn trùng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm pest control",
+      "pest control details",
+      "review pest control"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "control"
+    ],
+    "day": 73
+  },
+  {
+    "id": "plumbing-issue-phrase",
+    "word": "plumbing issue",
+    "baseWord": "issue",
+    "type": "phrase",
+    "meaning": "sự cố đường ống nước",
+    "pronunciation": "/plumbing issue/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the plumbing issue carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự cố đường ống nước cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm plumbing issue",
+      "plumbing issue details",
+      "review plumbing issue"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "issue"
+    ],
+    "day": 73
+  },
+  {
+    "id": "security-guard-phrase",
+    "word": "security guard",
+    "baseWord": "guard",
+    "type": "phrase",
+    "meaning": "nhân viên bảo vệ",
+    "pronunciation": "/security guard/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the security guard carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên bảo vệ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm security guard",
+      "security guard details",
+      "review security guard"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guard"
+    ],
+    "day": 73
+  },
+  {
+    "id": "service-ticket-phrase",
+    "word": "service ticket",
+    "baseWord": "ticket",
+    "type": "phrase",
+    "meaning": "phiếu yêu cầu dịch vụ",
+    "pronunciation": "/service ticket/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the service ticket carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiếu yêu cầu dịch vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm service ticket",
+      "service ticket details",
+      "review service ticket"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "ticket"
+    ],
+    "day": 73
+  },
+  {
+    "id": "surveillance-camera-phrase",
+    "word": "surveillance camera",
+    "baseWord": "camera",
+    "type": "phrase",
+    "meaning": "camera giám sát",
+    "pronunciation": "/surveillance camera/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the surveillance camera carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét camera giám sát cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm surveillance camera",
+      "surveillance camera details",
+      "review surveillance camera"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "camera"
+    ],
+    "day": 73
+  },
+  {
+    "id": "trash-removal-phrase",
+    "word": "trash removal",
+    "baseWord": "removal",
+    "type": "phrase",
+    "meaning": "thu gom rác",
+    "pronunciation": "/trash removal/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the trash removal carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thu gom rác cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm trash removal",
+      "trash removal details",
+      "review trash removal"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "removal"
+    ],
+    "day": 73
+  },
+  {
+    "id": "visitor-pass-phrase",
+    "word": "visitor pass",
+    "baseWord": "pass",
+    "type": "phrase",
+    "meaning": "thẻ khách",
+    "pronunciation": "/visitor pass/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the visitor pass carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thẻ khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm visitor pass",
+      "visitor pass details",
+      "review visitor pass"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "pass"
+    ],
+    "day": 73
+  },
+  {
+    "id": "water-supply-phrase",
+    "word": "water supply",
+    "baseWord": "supply",
+    "type": "phrase",
+    "meaning": "nguồn cấp nước",
+    "pronunciation": "/water supply/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the water supply carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nguồn cấp nước cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm water supply",
+      "water supply details",
+      "review water supply"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "supply"
+    ],
+    "day": 73
+  },
+  {
+    "id": "work-order-phrase",
+    "word": "work order",
+    "baseWord": "order",
+    "type": "phrase",
+    "meaning": "lệnh công việc",
+    "pronunciation": "/work order/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the work order carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lệnh công việc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm work order",
+      "work order details",
+      "review work order"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "order"
+    ],
+    "day": 73
+  },
+  {
+    "id": "ceiling-tile-phrase",
+    "word": "ceiling tile",
+    "baseWord": "tile",
+    "type": "phrase",
+    "meaning": "tấm trần",
+    "pronunciation": "/ceiling tile/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the ceiling tile carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tấm trần cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm ceiling tile",
+      "ceiling tile details",
+      "review ceiling tile"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tile"
+    ],
+    "day": 74
+  },
+  {
+    "id": "closing-cost-phrase",
+    "word": "closing cost",
+    "baseWord": "cost",
+    "type": "phrase",
+    "meaning": "chi phí hoàn tất giao dịch",
+    "pronunciation": "/closing cost/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the closing cost carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chi phí hoàn tất giao dịch cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm closing cost",
+      "closing cost details",
+      "review closing cost"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cost"
+    ],
+    "day": 74
+  },
+  {
+    "id": "construction-crew-phrase",
+    "word": "construction crew",
+    "baseWord": "crew",
+    "type": "phrase",
+    "meaning": "đội xây dựng",
+    "pronunciation": "/construction crew/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the construction crew carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đội xây dựng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm construction crew",
+      "construction crew details",
+      "review construction crew"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "crew"
+    ],
+    "day": 74
+  },
+  {
+    "id": "construction-drawing-phrase",
+    "word": "construction drawing",
+    "baseWord": "drawing",
+    "type": "phrase",
+    "meaning": "bản vẽ xây dựng",
+    "pronunciation": "/construction drawing/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the construction drawing carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bản vẽ xây dựng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm construction drawing",
+      "construction drawing details",
+      "review construction drawing"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "drawing"
+    ],
+    "day": 74
+  },
+  {
+    "id": "escrow-account-phrase",
+    "word": "escrow account",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "tài khoản ký quỹ",
+    "pronunciation": "/escrow account/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the escrow account carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tài khoản ký quỹ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm escrow account",
+      "escrow account details",
+      "review escrow account"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 74
+  },
+  {
+    "id": "facility-inspection-summary-phrase",
+    "word": "facility inspection summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "bản tóm tắt kiểm tra cơ sở",
+    "pronunciation": "/facility inspection summary/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the facility inspection summary carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bản tóm tắt kiểm tra cơ sở cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm facility inspection summary",
+      "facility inspection summary details",
+      "review facility inspection summary"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "summary"
+    ],
+    "day": 74
+  },
+  {
+    "id": "flooring-material-phrase",
+    "word": "flooring material",
+    "baseWord": "material",
+    "type": "phrase",
+    "meaning": "vật liệu lát sàn",
+    "pronunciation": "/flooring material/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the flooring material carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét vật liệu lát sàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm flooring material",
+      "flooring material details",
+      "review flooring material"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "material"
+    ],
+    "day": 74
+  },
+  {
+    "id": "furniture-layout-phrase",
+    "word": "furniture layout",
+    "baseWord": "layout",
+    "type": "phrase",
+    "meaning": "bố trí nội thất",
+    "pronunciation": "/furniture layout/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the furniture layout carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bố trí nội thất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm furniture layout",
+      "furniture layout details",
+      "review furniture layout"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "layout"
+    ],
+    "day": 74
+  },
+  {
+    "id": "mortgage-rate-phrase",
+    "word": "mortgage rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "lãi suất thế chấp",
+    "pronunciation": "/mortgage rate/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the mortgage rate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lãi suất thế chấp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm mortgage rate",
+      "mortgage rate details",
+      "review mortgage rate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rate"
+    ],
+    "day": 74
+  },
+  {
+    "id": "move-in-date-phrase",
+    "word": "move-in date",
+    "baseWord": "date",
+    "type": "phrase",
+    "meaning": "ngày chuyển vào",
+    "pronunciation": "/move-in date/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the move-in date carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ngày chuyển vào cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm move-in date",
+      "move-in date details",
+      "review move-in date"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "date"
+    ],
+    "day": 74
+  },
+  {
+    "id": "move-out-notice-phrase",
+    "word": "move-out notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "thông báo chuyển đi",
+    "pronunciation": "/move-out notice/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the move-out notice carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thông báo chuyển đi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm move-out notice",
+      "move-out notice details",
+      "review move-out notice"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "notice"
+    ],
+    "day": 74
+  },
+  {
+    "id": "occupancy-permit-phrase",
+    "word": "occupancy permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "giấy phép sử dụng",
+    "pronunciation": "/occupancy permit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the occupancy permit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giấy phép sử dụng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm occupancy permit",
+      "occupancy permit details",
+      "review occupancy permit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "permit"
+    ],
+    "day": 74
+  },
+  {
+    "id": "paint-sample-phrase",
+    "word": "paint sample",
+    "baseWord": "sample",
+    "type": "phrase",
+    "meaning": "mẫu sơn",
+    "pronunciation": "/paint sample/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the paint sample carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mẫu sơn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm paint sample",
+      "paint sample details",
+      "review paint sample"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sample"
+    ],
+    "day": 74
+  },
+  {
+    "id": "partition-wall-phrase",
+    "word": "partition wall",
+    "baseWord": "wall",
+    "type": "phrase",
+    "meaning": "vách ngăn",
+    "pronunciation": "/partition wall/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the partition wall carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét vách ngăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm partition wall",
+      "partition wall details",
+      "review partition wall"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "wall"
+    ],
+    "day": 74
+  },
+  {
+    "id": "property-disclosure-phrase",
+    "word": "property disclosure",
+    "baseWord": "disclosure",
+    "type": "phrase",
+    "meaning": "công bố thông tin bất động sản",
+    "pronunciation": "/property disclosure/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the property disclosure carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét công bố thông tin bất động sản cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm property disclosure",
+      "property disclosure details",
+      "review property disclosure"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "disclosure"
+    ],
+    "day": 74
+  },
+  {
+    "id": "renovation-project-phrase",
+    "word": "renovation project",
+    "baseWord": "project",
+    "type": "phrase",
+    "meaning": "dự án cải tạo",
+    "pronunciation": "/renovation project/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the renovation project carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dự án cải tạo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm renovation project",
+      "renovation project details",
+      "review renovation project"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "project"
+    ],
+    "day": 74
+  },
+  {
+    "id": "vacancy-notice-phrase",
+    "word": "vacancy notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "thông báo còn trống",
+    "pronunciation": "/vacancy notice/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the vacancy notice carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thông báo còn trống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm vacancy notice",
+      "vacancy notice details",
+      "review vacancy notice"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "notice"
+    ],
+    "day": 74
+  },
+  {
+    "id": "valuation-report-phrase",
+    "word": "valuation report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "báo cáo định giá",
+    "pronunciation": "/valuation report/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the valuation report carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét báo cáo định giá cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm valuation report",
+      "valuation report details",
+      "review valuation report"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "report"
+    ],
+    "day": 74
+  },
+  {
+    "id": "walk-through-noun",
+    "word": "walk-through",
+    "baseWord": "walk-through",
+    "type": "noun",
+    "meaning": "buổi kiểm tra thực tế",
+    "pronunciation": "/walk-through/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the walk-through carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét buổi kiểm tra thực tế cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm walk-through",
+      "walk-through details",
+      "review walk-through"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "walk-through"
+    ],
+    "day": 74
+  },
+  {
+    "id": "window-treatment-phrase",
+    "word": "window treatment",
+    "baseWord": "treatment",
+    "type": "phrase",
+    "meaning": "rèm hoặc vật liệu che cửa sổ",
+    "pronunciation": "/window treatment/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the window treatment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét rèm hoặc vật liệu che cửa sổ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm window treatment",
+      "window treatment details",
+      "review window treatment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "treatment"
+    ],
+    "day": 74
+  },
+  {
+    "id": "accessible-entrance-phrase",
+    "word": "accessible entrance",
+    "baseWord": "entrance",
+    "type": "phrase",
+    "meaning": "lối vào dễ tiếp cận",
+    "pronunciation": "/accessible entrance/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the accessible entrance carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lối vào dễ tiếp cận cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm accessible entrance",
+      "accessible entrance details",
+      "review accessible entrance"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "entrance"
+    ],
+    "day": 75
+  },
+  {
+    "id": "assess-market-value-phrase",
+    "word": "assess market value",
+    "baseWord": "value",
+    "type": "phrase",
+    "meaning": "đánh giá giá trị thị trường",
+    "pronunciation": "/assess market value/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the assess market value carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đánh giá giá trị thị trường cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm assess market value",
+      "assess market value details",
+      "review assess market value"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "value"
+    ],
+    "day": 75
+  },
+  {
+    "id": "build-on-site-phrase",
+    "word": "build on-site",
+    "baseWord": "on-site",
+    "type": "phrase",
+    "meaning": "xây dựng tại công trường",
+    "pronunciation": "/build on-site/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the build on-site carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét xây dựng tại công trường cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm build on-site",
+      "build on-site details",
+      "review build on-site"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "on-site"
+    ],
+    "day": 75
+  },
+  {
+    "id": "centrally-located-phrase",
+    "word": "centrally located",
+    "baseWord": "located",
+    "type": "phrase",
+    "meaning": "nằm ở vị trí trung tâm",
+    "pronunciation": "/centrally located/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the centrally located carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nằm ở vị trí trung tâm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm centrally located",
+      "centrally located details",
+      "review centrally located"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "located"
+    ],
+    "day": 75
+  },
+  {
+    "id": "discuss-lease-terms-phrase",
+    "word": "discuss lease terms",
+    "baseWord": "terms",
+    "type": "phrase",
+    "meaning": "thảo luận điều khoản thuê",
+    "pronunciation": "/discuss lease terms/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the discuss lease terms carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thảo luận điều khoản thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm discuss lease terms",
+      "discuss lease terms details",
+      "review discuss lease terms"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "terms"
+    ],
+    "day": 75
+  },
+  {
+    "id": "furnished-office-phrase",
+    "word": "furnished office",
+    "baseWord": "office",
+    "type": "phrase",
+    "meaning": "văn phòng có nội thất",
+    "pronunciation": "/furnished office/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the furnished office carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét văn phòng có nội thất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm furnished office",
+      "furnished office details",
+      "review furnished office"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "office"
+    ],
+    "day": 75
+  },
+  {
+    "id": "inspect-a-property-phrase",
+    "word": "inspect a property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "kiểm tra bất động sản",
+    "pronunciation": "/inspect a property/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the inspect a property carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm tra bất động sản cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm inspect a property",
+      "inspect a property details",
+      "review inspect a property"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "property"
+    ],
+    "day": 75
+  },
+  {
+    "id": "leave-the-premises-phrase",
+    "word": "leave the premises",
+    "baseWord": "premises",
+    "type": "phrase",
+    "meaning": "rời khỏi mặt bằng",
+    "pronunciation": "/leave the premises/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the leave the premises carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét rời khỏi mặt bằng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm leave the premises",
+      "leave the premises details",
+      "review leave the premises"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "premises"
+    ],
+    "day": 75
+  },
+  {
+    "id": "maintain-facilities-phrase",
+    "word": "maintain facilities",
+    "baseWord": "facilities",
+    "type": "phrase",
+    "meaning": "bảo trì cơ sở vật chất",
+    "pronunciation": "/maintain facilities/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the maintain facilities carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảo trì cơ sở vật chất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm maintain facilities",
+      "maintain facilities details",
+      "review maintain facilities"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "facilities"
+    ],
+    "day": 75
+  },
+  {
+    "id": "move-offices-phrase",
+    "word": "move offices",
+    "baseWord": "offices",
+    "type": "phrase",
+    "meaning": "chuyển văn phòng",
+    "pronunciation": "/move offices/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the move offices carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chuyển văn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm move offices",
+      "move offices details",
+      "review move offices"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "offices"
+    ],
+    "day": 75
+  },
+  {
+    "id": "newly-renovated-phrase",
+    "word": "newly renovated",
+    "baseWord": "renovated",
+    "type": "phrase",
+    "meaning": "mới được cải tạo",
+    "pronunciation": "/newly renovated/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the newly renovated carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mới được cải tạo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm newly renovated",
+      "newly renovated details",
+      "review newly renovated"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "renovated"
+    ],
+    "day": 75
+  },
+  {
+    "id": "occupy-a-suite-phrase",
+    "word": "occupy a suite",
+    "baseWord": "suite",
+    "type": "phrase",
+    "meaning": "sử dụng một phòng văn phòng",
+    "pronunciation": "/occupy a suite/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the occupy a suite carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sử dụng một phòng văn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm occupy a suite",
+      "occupy a suite details",
+      "review occupy a suite"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "suite"
+    ],
+    "day": 75
+  },
+  {
+    "id": "purchase-property-phrase",
+    "word": "purchase property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "mua bất động sản",
+    "pronunciation": "/purchase property/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the purchase property carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mua bất động sản cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm purchase property",
+      "purchase property details",
+      "review purchase property"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "property"
+    ],
+    "day": 75
+  },
+  {
+    "id": "renovate-verb",
+    "word": "renovate",
+    "baseWord": "renovate",
+    "type": "verb",
+    "meaning": "cải tạo",
+    "pronunciation": "/renovate/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the renovate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cải tạo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm renovate",
+      "renovate details",
+      "review renovate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "renovate"
+    ],
+    "day": 75
+  },
+  {
+    "id": "rent-an-office-phrase",
+    "word": "rent an office",
+    "baseWord": "office",
+    "type": "phrase",
+    "meaning": "thuê văn phòng",
+    "pronunciation": "/rent an office/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the rent an office carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thuê văn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm rent an office",
+      "rent an office details",
+      "review rent an office"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "office"
+    ],
+    "day": 75
+  },
+  {
+    "id": "repair-verb",
+    "word": "repair",
+    "baseWord": "repair",
+    "type": "verb",
+    "meaning": "sửa chữa",
+    "pronunciation": "/repair/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the repair carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sửa chữa cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm repair",
+      "repair details",
+      "review repair"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "repair"
+    ],
+    "day": 75
+  },
+  {
+    "id": "sign-a-lease-phrase",
+    "word": "sign a lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "ký hợp đồng thuê",
+    "pronunciation": "/sign a lease/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sign a lease carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ký hợp đồng thuê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sign a lease",
+      "sign a lease details",
+      "review sign a lease"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "lease"
+    ],
+    "day": 75
+  },
+  {
+    "id": "spacious-layout-phrase",
+    "word": "spacious layout",
+    "baseWord": "layout",
+    "type": "phrase",
+    "meaning": "bố cục rộng rãi",
+    "pronunciation": "/spacious layout/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the spacious layout carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bố cục rộng rãi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm spacious layout",
+      "spacious layout details",
+      "review spacious layout"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "layout"
+    ],
+    "day": 75
+  },
+  {
+    "id": "sublet-verb",
+    "word": "sublet",
+    "baseWord": "sublet",
+    "type": "verb",
+    "meaning": "cho thuê lại",
+    "pronunciation": "/sublet/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the sublet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cho thuê lại cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sublet",
+      "sublet details",
+      "review sublet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sublet"
+    ],
+    "day": 75
+  },
+  {
+    "id": "unfurnished-unit-phrase",
+    "word": "unfurnished unit",
+    "baseWord": "unit",
+    "type": "phrase",
+    "meaning": "đơn vị thuê không có nội thất",
+    "pronunciation": "/unfurnished unit/",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the unfurnished unit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đơn vị thuê không có nội thất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm unfurnished unit",
+      "unfurnished unit details",
+      "review unfurnished unit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "unit"
+    ],
+    "day": 75
+  }
+]

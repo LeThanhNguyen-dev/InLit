@@ -1,0 +1,3198 @@
+[
+  {
+    "id": "administrative-adjective",
+    "word": "administrative",
+    "baseWord": "administer",
+    "type": "adjective",
+    "meaning": "thuộc về hành chính",
+    "pronunciation": "/ədˈmɪnɪstreɪtɪv/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "She is responsible for handling all administrative tasks in the office.",
+    "exampleVi": "Cô ấy chịu trách nhiệm xử lý tất cả các công việc hành chính trong văn phòng.",
+    "collocations": [
+      "administrative tasks",
+      "administrative assistant",
+      "administrative support"
+    ],
+    "synonyms": [
+      "governmental",
+      "executive",
+      "clerical"
+    ],
+    "wordFamily": [
+      "administer",
+      "administrator",
+      "administration"
+    ],
+    "day": 96
+  },
+  {
+    "id": "archive-verb",
+    "word": "archive",
+    "baseWord": "archive",
+    "type": "verb",
+    "meaning": "lưu trữ (tài liệu, hồ sơ lâu năm)",
+    "pronunciation": "/ˈɑːrkaɪv/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We archive all project correspondence in a secure digital library.",
+    "exampleVi": "Chúng tôi lưu trữ tất cả thư từ dự án trong một thư viện kỹ thuật số an toàn.",
+    "collocations": [
+      "archive documents",
+      "archive files",
+      "digitally archive"
+    ],
+    "synonyms": [
+      "store",
+      "file",
+      "record"
+    ],
+    "wordFamily": [
+      "archives",
+      "archival",
+      "archivist"
+    ],
+    "day": 96
+  },
+  {
+    "id": "archivist-noun",
+    "word": "archivist",
+    "baseWord": "archive",
+    "type": "noun",
+    "meaning": "người lưu trữ tài liệu, cán bộ lưu trữ",
+    "pronunciation": "/ˈɑːrkɪvɪst/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The company hired an archivist to organize its historical business records.",
+    "exampleVi": "Công ty đã thuê một cán bộ lưu trữ để tổ chức các hồ sơ kinh doanh lịch sử của mình.",
+    "collocations": [
+      "professional archivist",
+      "chief archivist",
+      "consult an archivist"
+    ],
+    "synonyms": [
+      "keeper",
+      "curator",
+      "file clerk"
+    ],
+    "wordFamily": [
+      "archive",
+      "archives",
+      "archival"
+    ],
+    "day": 96
+  },
+  {
+    "id": "available-agenda-phrase",
+    "word": "available agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: available agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the available agenda before the next business day.",
+    "exampleVi": "Vui long xem lai available agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "available agenda",
+      "available agenda process",
+      "available agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 96
+  },
+  {
+    "id": "clerical-adjective",
+    "word": "clerical",
+    "baseWord": "clerk",
+    "type": "adjective",
+    "meaning": "thuộc công việc văn phòng, thư ký",
+    "pronunciation": "/ˈklerɪkl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The job description includes data entry and other clerical duties.",
+    "exampleVi": "Mô tả công việc bao gồm nhập dữ liệu và các nhiệm vụ văn phòng khác.",
+    "collocations": [
+      "clerical duties",
+      "clerical work",
+      "clerical error"
+    ],
+    "synonyms": [
+      "administrative",
+      "office-based",
+      "secretarial"
+    ],
+    "wordFamily": [
+      "clerk",
+      "clerically",
+      "clerks"
+    ],
+    "day": 96
+  },
+  {
+    "id": "filing cabinet-phrase",
+    "word": "filing cabinet",
+    "baseWord": "filing cabinet",
+    "type": "phrase",
+    "meaning": "tủ đựng hồ sơ, tủ tài liệu",
+    "pronunciation": "/ˈfaɪlɪŋ ˈkæbɪnət/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Old invoices are stored in the metal filing cabinet in the back room.",
+    "exampleVi": "Các hóa đơn cũ được lưu trữ trong tủ hồ sơ bằng kim loại ở phòng phía sau.",
+    "collocations": [
+      "metal filing cabinet",
+      "lock the filing cabinet",
+      "drawer of a filing cabinet"
+    ],
+    "synonyms": [
+      "file cabinet",
+      "document cabinet"
+    ],
+    "wordFamily": [
+      "file",
+      "cabinet",
+      "cabinets"
+    ],
+    "day": 96
+  },
+  {
+    "id": "incoming mail-phrase",
+    "word": "incoming mail",
+    "baseWord": "incoming mail",
+    "type": "phrase",
+    "meaning": "thư gửi đến, bưu phẩm nhận được",
+    "pronunciation": "/ˈɪnkʌmɪŋ meɪl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The receptionist sorts the incoming mail by department every morning.",
+    "exampleVi": "Nhân viên lễ tân phân loại thư gửi đến theo từng bộ phận vào mỗi buổi sáng.",
+    "collocations": [
+      "sort incoming mail",
+      "incoming mail log",
+      "incoming mail basket"
+    ],
+    "synonyms": [
+      "received mail",
+      "incoming correspondence"
+    ],
+    "wordFamily": [
+      "incoming",
+      "mail",
+      "mails"
+    ],
+    "day": 96
+  },
+  {
+    "id": "mailroom-noun",
+    "word": "mailroom",
+    "baseWord": "mail",
+    "type": "noun",
+    "meaning": "phòng thư tín, phòng nhận và xử lý thư",
+    "pronunciation": "/ˈmeɪlruːm/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "All incoming parcels must be sorted in the mailroom first.",
+    "exampleVi": "Tất cả các bưu kiện gửi đến phải được phân loại tại phòng thư tín trước.",
+    "collocations": [
+      "mailroom clerk",
+      "office mailroom",
+      "work in the mailroom"
+    ],
+    "synonyms": [
+      "mail office",
+      "sorting office"
+    ],
+    "wordFamily": [
+      "mail",
+      "room",
+      "rooms"
+    ],
+    "day": 96
+  },
+  {
+    "id": "office supplies-phrase",
+    "word": "office supplies",
+    "baseWord": "office supplies",
+    "type": "phrase",
+    "meaning": "đồ dùng văn phòng",
+    "pronunciation": "/ˈɑːfɪs səˈplaɪz/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The administrative assistant is responsible for inventorying office supplies.",
+    "exampleVi": "Trợ lý hành chính chịu trách nhiệm kiểm kê đồ dùng văn phòng.",
+    "collocations": [
+      "order office supplies",
+      "store office supplies",
+      "supply cabinet for office supplies"
+    ],
+    "synonyms": [
+      "stationery",
+      "clerical tools"
+    ],
+    "wordFamily": [
+      "office",
+      "supply",
+      "supplies"
+    ],
+    "day": 96
+  },
+  {
+    "id": "outgoing mail-phrase",
+    "word": "outgoing mail",
+    "baseWord": "outgoing mail",
+    "type": "phrase",
+    "meaning": "thư gửi đi, bưu phẩm gửi đi",
+    "pronunciation": "/ˈaʊtɡoʊɪŋ meɪl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please place your letters in the tray marked for outgoing mail.",
+    "exampleVi": "Vui lòng đặt các bức thư của bạn vào khay được đánh dấu cho thư gửi đi.",
+    "collocations": [
+      "outgoing mail tray",
+      "process outgoing mail",
+      "collect outgoing mail"
+    ],
+    "synonyms": [
+      "sent mail",
+      "dispatched letters"
+    ],
+    "wordFamily": [
+      "outgoing",
+      "mail",
+      "mails"
+    ],
+    "day": 96
+  },
+  {
+    "id": "paperwork-noun",
+    "word": "paperwork",
+    "baseWord": "paperwork",
+    "type": "noun",
+    "meaning": "công việc giấy tờ",
+    "pronunciation": "/ˈpeɪpərwɜːrk/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new hiring process involves a significant amount of paperwork.",
+    "exampleVi": "Quy trình tuyển dụng mới liên quan đến một lượng đáng kể công việc giấy tờ.",
+    "collocations": [
+      "complete paperwork",
+      "administrative paperwork",
+      "fill out paperwork"
+    ],
+    "synonyms": [
+      "documentation",
+      "forms",
+      "records"
+    ],
+    "wordFamily": [
+      "paper",
+      "papers",
+      "paperless"
+    ],
+    "day": 96
+  },
+  {
+    "id": "photocopier-noun",
+    "word": "photocopier",
+    "baseWord": "photocopy",
+    "type": "noun",
+    "meaning": "máy photocopy",
+    "pronunciation": "/ˈfoʊtoʊkɑːpiər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The technician is repairing the main office photocopier right now.",
+    "exampleVi": "Kỹ thuật viên đang sửa chữa máy photocopy văn phòng chính ngay lúc này.",
+    "collocations": [
+      "office photocopier",
+      "repair the photocopier",
+      "color photocopier"
+    ],
+    "synonyms": [
+      "copier",
+      "photocopy machine"
+    ],
+    "wordFamily": [
+      "photocopy",
+      "photocopying",
+      "photocopiers"
+    ],
+    "day": 96
+  },
+  {
+    "id": "photocopy-verb",
+    "word": "photocopy",
+    "baseWord": "photocopy",
+    "type": "verb",
+    "meaning": "sao chụp giấy tờ, phô tô",
+    "pronunciation": "/ˈfoʊtoʊkɑːpi/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Could you please photocopy this contract for the new client?",
+    "exampleVi": "Bạn có thể vui lòng phô tô hợp đồng này cho khách hàng mới không?",
+    "collocations": [
+      "photocopy a document",
+      "photocopy pages",
+      "please photocopy"
+    ],
+    "synonyms": [
+      "copy",
+      "duplicate",
+      "reproduce"
+    ],
+    "wordFamily": [
+      "photocopier",
+      "photocopying",
+      "photocopies"
+    ],
+    "day": 96
+  },
+  {
+    "id": "reception desk-phrase",
+    "word": "reception desk",
+    "baseWord": "reception desk",
+    "type": "phrase",
+    "meaning": "quầy lễ tân, quầy tiếp tân",
+    "pronunciation": "/rɪˈsepʃən desk/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please report to the reception desk upon your arrival at the clinic.",
+    "exampleVi": "Vui lòng trình diện tại quầy lễ tân ngay khi bạn đến phòng khám.",
+    "collocations": [
+      "front reception desk",
+      "hotel reception desk",
+      "approach the reception desk"
+    ],
+    "synonyms": [
+      "front desk",
+      "information desk"
+    ],
+    "wordFamily": [
+      "reception",
+      "desk",
+      "desks"
+    ],
+    "day": 96
+  },
+  {
+    "id": "receptionist-noun",
+    "word": "receptionist",
+    "baseWord": "reception",
+    "type": "noun",
+    "meaning": "nhân viên lễ tân",
+    "pronunciation": "/rɪˈsepʃənɪst/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The receptionist greeted the clients and asked them to sign the visitor log.",
+    "exampleVi": "Nhân viên lễ tân đã chào đón khách hàng và yêu cầu họ ký vào nhật ký khách thăm.",
+    "collocations": [
+      "medical receptionist",
+      "hotel receptionist",
+      "work as a receptionist"
+    ],
+    "synonyms": [
+      "greeter",
+      "front desk clerk"
+    ],
+    "wordFamily": [
+      "reception",
+      "receptive",
+      "receptionists"
+    ],
+    "day": 96
+  },
+  {
+    "id": "shredder-noun",
+    "word": "shredder",
+    "baseWord": "shred",
+    "type": "noun",
+    "meaning": "máy hủy tài liệu, máy hủy giấy",
+    "pronunciation": "/ˈʃredər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Use the paper shredder to destroy documents containing customer bank details.",
+    "exampleVi": "Sử dụng máy hủy giấy để hủy các tài liệu chứa thông tin chi tiết ngân hàng của khách hàng.",
+    "collocations": [
+      "paper shredder",
+      "office shredder",
+      "heavy-duty shredder"
+    ],
+    "synonyms": [
+      "paper destroyer"
+    ],
+    "wordFamily": [
+      "shred",
+      "shredded",
+      "shredding"
+    ],
+    "day": 96
+  },
+  {
+    "id": "standard-agenda-phrase",
+    "word": "standard agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: standard agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the standard agenda before the next business day.",
+    "exampleVi": "Vui long xem lai standard agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "standard agenda",
+      "standard agenda process",
+      "standard agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 96
+  },
+  {
+    "id": "stapler-noun",
+    "word": "stapler",
+    "baseWord": "staple",
+    "type": "noun",
+    "meaning": "cái dập ghim, cái bấm kim",
+    "pronunciation": "/ˈsteɪplər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "She refilled the stapler with a new strip of metal staples.",
+    "exampleVi": "Cô ấy đã nạp lại cái dập ghim bằng một dải ghim kim loại mới.",
+    "collocations": [
+      "office stapler",
+      "refill the stapler",
+      "handheld stapler"
+    ],
+    "synonyms": [
+      "stapling machine"
+    ],
+    "wordFamily": [
+      "staple",
+      "staples",
+      "stapling"
+    ],
+    "day": 96
+  },
+  {
+    "id": "stationery-noun",
+    "word": "stationery",
+    "baseWord": "stationery",
+    "type": "noun",
+    "meaning": "văn phòng phẩm (giấy, bút, phong bì)",
+    "pronunciation": "/ˈsteɪʃəneri/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please order more custom letterheads from the local stationery shop.",
+    "exampleVi": "Vui lòng đặt thêm tiêu đề thư tùy chỉnh từ cửa hàng văn phòng phẩm địa phương.",
+    "collocations": [
+      "office stationery",
+      "stationery supplies",
+      "stationery shop"
+    ],
+    "synonyms": [
+      "office supplies",
+      "writing materials"
+    ],
+    "wordFamily": [
+      "stationeries",
+      "stationary"
+    ],
+    "day": 96
+  },
+  {
+    "id": "visitor log-phrase",
+    "word": "visitor log",
+    "baseWord": "visitor log",
+    "type": "phrase",
+    "meaning": "nhật ký khách ra vào",
+    "pronunciation": "/ˈvɪzɪtər lɔːɡ/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "All guests must sign the visitor log for security reasons.",
+    "exampleVi": "Tất cả khách phải ký vào nhật ký khách ra vào vì lý do bảo mật.",
+    "collocations": [
+      "sign the visitor log",
+      "maintain a visitor log",
+      "daily visitor log"
+    ],
+    "synonyms": [
+      "guest book",
+      "visitor register"
+    ],
+    "wordFamily": [
+      "visitor",
+      "log",
+      "logs"
+    ],
+    "day": 96
+  },
+  {
+    "id": "administrative assistant-phrase",
+    "word": "administrative assistant",
+    "baseWord": "administrative assistant",
+    "type": "phrase",
+    "meaning": "trợ lý hành chính",
+    "pronunciation": "/ədˈmɪnɪstreɪtɪv əˈsɪstənt/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The administrative assistant handles calendar scheduling and meeting coordination.",
+    "exampleVi": "Trợ lý hành chính xử lý việc lên lịch làm việc và điều phối các cuộc họp.",
+    "collocations": [
+      "hire an administrative assistant",
+      "senior administrative assistant",
+      "role of administrative assistant"
+    ],
+    "synonyms": [
+      "office assistant",
+      "secretary",
+      "clerk"
+    ],
+    "wordFamily": [
+      "admin",
+      "assistant",
+      "assistants"
+    ],
+    "day": 97
+  },
+  {
+    "id": "bulletin board-phrase",
+    "word": "bulletin board",
+    "baseWord": "bulletin board",
+    "type": "phrase",
+    "meaning": "bảng thông báo",
+    "pronunciation": "/ˈbʊlətɪn bɔːrd/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please check the bulletin board in the breakroom for schedule updates.",
+    "exampleVi": "Vui lòng kiểm tra bảng thông báo trong phòng nghỉ để cập nhật lịch trình.",
+    "collocations": [
+      "post on the bulletin board",
+      "office bulletin board",
+      "digital bulletin board"
+    ],
+    "synonyms": [
+      "noticeboard",
+      "display board"
+    ],
+    "wordFamily": [
+      "bulletin",
+      "board",
+      "boards"
+    ],
+    "day": 97
+  },
+  {
+    "id": "catalog-verb",
+    "word": "catalog",
+    "baseWord": "catalog",
+    "type": "verb",
+    "meaning": "lập mục lục, phân loại danh mục",
+    "pronunciation": "/ˈkætəlɔːɡ/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The librarian will catalog the new business textbooks by author.",
+    "exampleVi": "Thủ thư sẽ phân loại các sách giáo khoa kinh doanh mới theo tác giả.",
+    "collocations": [
+      "catalog books",
+      "catalog files",
+      "carefully catalog"
+    ],
+    "synonyms": [
+      "classify",
+      "index",
+      "list"
+    ],
+    "wordFamily": [
+      "catalogs",
+      "cataloging",
+      "cataloged"
+    ],
+    "day": 97
+  },
+  {
+    "id": "cataloger-noun",
+    "word": "cataloger",
+    "baseWord": "catalog",
+    "type": "noun",
+    "meaning": "người lập mục lục, người phân loại danh mục",
+    "pronunciation": "/ˈkætəlɔːɡər/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "As a digital cataloger, he organizes software assets in the corporate database.",
+    "exampleVi": "Với tư cách là người phân loại kỹ thuật số, anh ấy sắp xếp các tài sản phần mềm trong cơ sở dữ liệu của công ty.",
+    "collocations": [
+      "library cataloger",
+      "digital cataloger"
+    ],
+    "synonyms": [
+      "classifier",
+      "indexer"
+    ],
+    "wordFamily": [
+      "catalog",
+      "cataloging",
+      "catalogers"
+    ],
+    "day": 97
+  },
+  {
+    "id": "courier service-phrase",
+    "word": "courier service",
+    "baseWord": "courier service",
+    "type": "phrase",
+    "meaning": "dịch vụ chuyển phát nhanh",
+    "pronunciation": "/ˈkʊriər ˈsɜːrvɪs/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired a local courier service to deliver the urgent prototypes.",
+    "exampleVi": "Chúng tôi đã thuê một dịch vụ chuyển phát nhanh địa phương để giao các nguyên mẫu khẩn cấp.",
+    "collocations": [
+      "overnight courier service",
+      "use a courier service",
+      "reliable courier service"
+    ],
+    "synonyms": [
+      "express delivery service",
+      "messenger service"
+    ],
+    "wordFamily": [
+      "courier",
+      "service",
+      "services"
+    ],
+    "day": 97
+  },
+  {
+    "id": "cubicle-noun",
+    "word": "cubicle",
+    "baseWord": "cubicle",
+    "type": "noun",
+    "meaning": "ngăn làm việc, góc làm việc nhỏ",
+    "pronunciation": "/ˈkjuːbɪkl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The open plan office was divided into separate employee cubicles.",
+    "exampleVi": "Văn phòng theo thiết kế mở được chia thành các ngăn làm việc riêng biệt cho nhân viên.",
+    "collocations": [
+      "office cubicle",
+      "work in a cubicle",
+      "cubicle wall"
+    ],
+    "synonyms": [
+      "workstation",
+      "booth",
+      "compartment"
+    ],
+    "wordFamily": [
+      "cubicles",
+      "cube",
+      "cubic"
+    ],
+    "day": 97
+  },
+  {
+    "id": "docket-noun",
+    "word": "docket",
+    "baseWord": "docket",
+    "type": "noun",
+    "meaning": "phiếu ghi hàng, bản tóm tắt hồ sơ công việc",
+    "pronunciation": "/ˈdɑːkɪt/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "A delivery docket was signed and returned to the driver.",
+    "exampleVi": "Một phiếu ghi giao hàng đã được ký và gửi trả lại cho tài xế.",
+    "collocations": [
+      "delivery docket",
+      "case docket",
+      "docket number"
+    ],
+    "synonyms": [
+      "label",
+      "receipt",
+      "agenda"
+    ],
+    "wordFamily": [
+      "dockets",
+      "docketed",
+      "docketing"
+    ],
+    "day": 97
+  },
+  {
+    "id": "executive assistant-phrase",
+    "word": "executive assistant",
+    "baseWord": "executive assistant",
+    "type": "phrase",
+    "meaning": "trợ lý điều hành (cho ban giám đốc)",
+    "pronunciation": "/ɪɡˈzekjətɪv əˈsɪstənt/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The CEO's executive assistant arranged the international travel itinerary.",
+    "exampleVi": "Trợ lý điều hành của CEO đã sắp xếp lịch trình chuyến công tác quốc tế.",
+    "collocations": [
+      "executive assistant position",
+      "work as an executive assistant"
+    ],
+    "synonyms": [
+      "personal assistant",
+      "executive secretary"
+    ],
+    "wordFamily": [
+      "executive",
+      "assistant",
+      "assistants"
+    ],
+    "day": 97
+  },
+  {
+    "id": "logbook-noun",
+    "word": "logbook",
+    "baseWord": "logbook",
+    "type": "noun",
+    "meaning": "sổ nhật ký ghi chép, sổ theo dõi",
+    "pronunciation": "/ˈlɔːɡbʊk/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Security guards write the details of all incoming vehicles in the logbook.",
+    "exampleVi": "Nhân viên bảo vệ ghi chi tiết của tất cả các xe đi vào trong sổ nhật ký theo dõi.",
+    "collocations": [
+      "maintenance logbook",
+      "write in the logbook",
+      "official logbook"
+    ],
+    "synonyms": [
+      "register",
+      "record book",
+      "log"
+    ],
+    "wordFamily": [
+      "logbooks",
+      "log",
+      "logging"
+    ],
+    "day": 97
+  },
+  {
+    "id": "office layout-phrase",
+    "word": "office layout",
+    "baseWord": "office layout",
+    "type": "phrase",
+    "meaning": "cách bố trí văn phòng, mặt bằng văn phòng",
+    "pronunciation": "/ˈɑːfɪs ˈleɪaʊt/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The open office layout was designed to encourage teamwork.",
+    "exampleVi": "Cách bố trí văn phòng mở được thiết kế để khuyến khích tinh thần làm việc nhóm.",
+    "collocations": [
+      "open office layout",
+      "change the office layout",
+      "propose an office layout"
+    ],
+    "synonyms": [
+      "workspace configuration",
+      "floor plan"
+    ],
+    "wordFamily": [
+      "office",
+      "layout",
+      "layouts"
+    ],
+    "day": 97
+  },
+  {
+    "id": "paginate-verb",
+    "word": "paginate",
+    "baseWord": "page",
+    "type": "verb",
+    "meaning": "đánh số trang",
+    "pronunciation": "/ˈpædʒɪneɪt/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "Please paginate the draft report before sending it to the printer.",
+    "exampleVi": "Vui lòng đánh số trang cho bản thảo báo cáo trước khi gửi đến máy in.",
+    "collocations": [
+      "paginate documents",
+      "correctly paginate"
+    ],
+    "synonyms": [
+      "number pages"
+    ],
+    "wordFamily": [
+      "pagination",
+      "paginated",
+      "paginating"
+    ],
+    "day": 97
+  },
+  {
+    "id": "pagination-noun",
+    "word": "pagination",
+    "baseWord": "page",
+    "type": "noun",
+    "meaning": "sự đánh số trang, hệ thống số trang",
+    "pronunciation": "/ˌpædʒɪˈneɪʃən/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The editor corrected the pagination errors in the final index pages.",
+    "exampleVi": "Biên tập viên đã sửa các lỗi số trang trong các trang chỉ mục cuối cùng.",
+    "collocations": [
+      "document pagination",
+      "automatic pagination"
+    ],
+    "synonyms": [
+      "page numbering"
+    ],
+    "wordFamily": [
+      "paginate",
+      "paginated",
+      "paginating"
+    ],
+    "day": 97
+  },
+  {
+    "id": "postage stamp-phrase",
+    "word": "postage stamp",
+    "baseWord": "postage stamp",
+    "type": "phrase",
+    "meaning": "tem thư, tem bưu chính",
+    "pronunciation": "/ˈpoʊstɪdʒ stæmp/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Make sure to stick a postage stamp on the envelope before mailing it.",
+    "exampleVi": "Hãy chắc chắn dán một chiếc tem thư lên phong bì trước khi gửi nó đi.",
+    "collocations": [
+      "buy postage stamps",
+      "postage stamp collection",
+      "affix a postage stamp"
+    ],
+    "synonyms": [
+      "stamp",
+      "postal label"
+    ],
+    "wordFamily": [
+      "postage",
+      "stamp",
+      "stamps"
+    ],
+    "day": 97
+  },
+  {
+    "id": "record-keeping-phrase",
+    "word": "record-keeping",
+    "baseWord": "record-keeping",
+    "type": "phrase",
+    "meaning": "việc ghi chép sổ sách, lưu trữ hồ sơ",
+    "pronunciation": "/ˈrekərd ˌkiːpɪŋ/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Accurate record-keeping is critical for financial audits.",
+    "exampleVi": "Việc ghi chép sổ sách chính xác là rất quan trọng đối với các cuộc kiểm toán tài chính.",
+    "collocations": [
+      "financial record-keeping",
+      "good record-keeping",
+      "standards for record-keeping"
+    ],
+    "synonyms": [
+      "bookkeeping",
+      "filing",
+      "archiving"
+    ],
+    "wordFamily": [
+      "record",
+      "keep",
+      "keeping"
+    ],
+    "day": 97
+  },
+  {
+    "id": "requisition form-phrase",
+    "word": "requisition form",
+    "baseWord": "requisition form",
+    "type": "phrase",
+    "meaning": "mẫu đơn yêu cầu vật tư, phiếu trưng dụng",
+    "pronunciation": "/ˌrekwɪˈzɪʃən fɔːrm/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You need to submit a requisition form to get a replacement keyboard.",
+    "exampleVi": "Bạn cần gửi một mẫu đơn yêu cầu vật tư để nhận bàn phím thay thế.",
+    "collocations": [
+      "submit a requisition form",
+      "fill out a requisition form",
+      "approve a requisition form"
+    ],
+    "synonyms": [
+      "request form",
+      "order form"
+    ],
+    "wordFamily": [
+      "requisition",
+      "form",
+      "forms"
+    ],
+    "day": 97
+  },
+  {
+    "id": "stamp-verb",
+    "word": "stamp",
+    "baseWord": "stamp",
+    "type": "verb",
+    "meaning": "đóng dấu, dán tem",
+    "pronunciation": "/stæmp/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please stamp the date of receipt on all incoming contracts.",
+    "exampleVi": "Vui lòng đóng dấu ngày nhận lên tất cả các hợp đồng gửi đến.",
+    "collocations": [
+      "stamp a document",
+      "stamp envelopes",
+      "officially stamp"
+    ],
+    "synonyms": [
+      "imprint",
+      "mark",
+      "label"
+    ],
+    "wordFamily": [
+      "stamped",
+      "stamping",
+      "stamps"
+    ],
+    "day": 97
+  },
+  {
+    "id": "supply cabinet-phrase",
+    "word": "supply cabinet",
+    "baseWord": "supply cabinet",
+    "type": "phrase",
+    "meaning": "tủ chứa đồ dùng văn phòng, tủ vật tư",
+    "pronunciation": "/səˈplaɪ ˈkæbɪnət/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The key to the supply cabinet is kept at the receptionist desk.",
+    "exampleVi": "Chìa khóa của tủ vật tư được giữ tại quầy lễ tân.",
+    "collocations": [
+      "lock the supply cabinet",
+      "office supply cabinet",
+      "refill the supply cabinet"
+    ],
+    "synonyms": [
+      "stationery cupboard"
+    ],
+    "wordFamily": [
+      "supply",
+      "cabinet",
+      "cabinets"
+    ],
+    "day": 97
+  },
+  {
+    "id": "transcribe-verb",
+    "word": "transcribe",
+    "baseWord": "scribe",
+    "type": "verb",
+    "meaning": "sao chép lại, ghi âm dịch thành văn bản",
+    "pronunciation": "/trænˈskraɪb/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "It took three hours to transcribe the audio recording of the board meeting.",
+    "exampleVi": "Mất ba giờ để ghi chép lại bản ghi âm của cuộc họp hội đồng quản trị.",
+    "collocations": [
+      "transcribe audio",
+      "transcribe notes",
+      "accurately transcribe"
+    ],
+    "synonyms": [
+      "write down",
+      "copy out",
+      "record"
+    ],
+    "wordFamily": [
+      "transcription",
+      "transcriber",
+      "transcribed"
+    ],
+    "day": 97
+  },
+  {
+    "id": "transcriber-noun",
+    "word": "transcriber",
+    "baseWord": "scribe",
+    "type": "noun",
+    "meaning": "người ghi chép, máy ghi âm dịch chữ",
+    "pronunciation": "/trænˈskraɪbər/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "She works as a medical transcriber, converting doctor notes into patient reports.",
+    "exampleVi": "Cô ấy làm việc như một nhân viên ghi chép y khoa, chuyển đổi ghi chú của bác sĩ thành báo cáo bệnh nhân.",
+    "collocations": [
+      "medical transcriber",
+      "digital transcriber"
+    ],
+    "synonyms": [
+      "scribe",
+      "typist",
+      "clerk"
+    ],
+    "wordFamily": [
+      "transcribe",
+      "transcription",
+      "transcribers"
+    ],
+    "day": 97
+  },
+  {
+    "id": "transcription-noun",
+    "word": "transcription",
+    "baseWord": "scribe",
+    "type": "noun",
+    "meaning": "sự sao chép, bản chép lại",
+    "pronunciation": "/trænˈskrɪpʃən/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A written transcription of the interview is available upon request.",
+    "exampleVi": "Bản chép tay ghi lại nội dung cuộc phỏng vấn có sẵn theo yêu cầu.",
+    "collocations": [
+      "meeting transcription",
+      "audio transcription",
+      "provide a transcription"
+    ],
+    "synonyms": [
+      "transcript",
+      "copy",
+      "record"
+    ],
+    "wordFamily": [
+      "transcribe",
+      "transcriber",
+      "transcriptions"
+    ],
+    "day": 97
+  },
+  {
+    "id": "administrative board-phrase",
+    "word": "administrative board",
+    "baseWord": "administrative board",
+    "type": "phrase",
+    "meaning": "ban hành chính, hội đồng quản trị hành chính",
+    "pronunciation": "/ədˈmɪnɪstreɪtɪv bɔːrd/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The administrative board approved the new office budget yesterday.",
+    "exampleVi": "Ban hành chính đã phê duyệt ngân sách văn phòng mới vào ngày hôm qua.",
+    "collocations": [
+      "meeting of the administrative board",
+      "member of the administrative board"
+    ],
+    "synonyms": [
+      "governing board",
+      "management committee"
+    ],
+    "wordFamily": [
+      "admin",
+      "board",
+      "boards"
+    ],
+    "day": 98
+  },
+  {
+    "id": "calendar-noun",
+    "word": "calendar",
+    "baseWord": "calendar",
+    "type": "noun",
+    "meaning": "lịch, lịch trình công việc",
+    "pronunciation": "/ˈkælɪndər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager marked the audit deadline on the shared online calendar.",
+    "exampleVi": "Người quản lý đã đánh dấu hạn chót kiểm toán trên lịch trực tuyến dùng chung.",
+    "collocations": [
+      "online calendar",
+      "calendar event",
+      "mark the calendar"
+    ],
+    "synonyms": [
+      "timetable",
+      "schedule",
+      "diary"
+    ],
+    "wordFamily": [
+      "calendars",
+      "calendaring",
+      "calendared"
+    ],
+    "day": 98
+  },
+  {
+    "id": "clerical staff-phrase",
+    "word": "clerical staff",
+    "baseWord": "clerical staff",
+    "type": "phrase",
+    "meaning": "nhân viên văn phòng, bộ phận thư ký hành chính",
+    "pronunciation": "/ˈklerɪkl stæf/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Our clerical staff coordinates the sorting and dispatching of all contracts.",
+    "exampleVi": "Nhân viên văn phòng của chúng tôi điều phối việc phân loại và gửi đi tất cả các hợp đồng.",
+    "collocations": [
+      "hire clerical staff",
+      "clerical staff duties",
+      "supervise clerical staff"
+    ],
+    "synonyms": [
+      "office staff",
+      "secretarial team"
+    ],
+    "wordFamily": [
+      "clerical",
+      "staff",
+      "staffs"
+    ],
+    "day": 98
+  },
+  {
+    "id": "customized-agenda-phrase",
+    "word": "customized agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: customized agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the customized agenda before the next business day.",
+    "exampleVi": "Vui long xem lai customized agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "customized agenda",
+      "customized agenda process",
+      "customized agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 98
+  },
+  {
+    "id": "delivery log-phrase",
+    "word": "delivery log",
+    "baseWord": "delivery log",
+    "type": "phrase",
+    "meaning": "nhật ký giao hàng, sổ theo dõi bưu phẩm",
+    "pronunciation": "/dɪˈlɪvəri lɔːɡ/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Check the delivery log to confirm if the new computers have arrived.",
+    "exampleVi": "Kiểm tra nhật ký giao hàng để xác nhận xem máy tính mới đã đến chưa.",
+    "collocations": [
+      "update the delivery log",
+      "sign the delivery log",
+      "daily delivery log"
+    ],
+    "synonyms": [
+      "shipment log",
+      "receipt register"
+    ],
+    "wordFamily": [
+      "delivery",
+      "log",
+      "logs"
+    ],
+    "day": 98
+  },
+  {
+    "id": "desk organizer-phrase",
+    "word": "desk organizer",
+    "baseWord": "desk organizer",
+    "type": "phrase",
+    "meaning": "khay để đồ bàn làm việc, hộp đựng văn phòng phẩm",
+    "pronunciation": "/desk ˈɔːrɡənaɪzər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "A plastic desk organizer kept her pens, staplers, and clips neat.",
+    "exampleVi": "Một khay để đồ bằng nhựa giúp bút, dập ghim và kẹp giấy của cô ấy ngăn nắp.",
+    "collocations": [
+      "wooden desk organizer",
+      "buy a desk organizer",
+      "messy without a desk organizer"
+    ],
+    "synonyms": [
+      "desk tidy",
+      "stationery organizer"
+    ],
+    "wordFamily": [
+      "desk",
+      "organize",
+      "organizer"
+    ],
+    "day": 98
+  },
+  {
+    "id": "digitization-noun",
+    "word": "digitization",
+    "baseWord": "digit",
+    "type": "noun",
+    "meaning": "sự số hóa, quá trình số hóa tài liệu",
+    "pronunciation": "/ˌdɪdʒɪtəˈzeɪʃən/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The digitization of patient files improved hospital administrative speed.",
+    "exampleVi": "Việc số hóa hồ sơ bệnh nhân đã cải thiện tốc độ hành chính của bệnh viện.",
+    "collocations": [
+      "mass digitization",
+      "digitization project",
+      "cost of digitization"
+    ],
+    "synonyms": [
+      "scanning process",
+      "computerization"
+    ],
+    "wordFamily": [
+      "digitize",
+      "digitized",
+      "digitizing"
+    ],
+    "day": 98
+  },
+  {
+    "id": "digitize-verb",
+    "word": "digitize",
+    "baseWord": "digit",
+    "type": "verb",
+    "meaning": "số hóa tài liệu",
+    "pronunciation": "/ˈdɪdʒɪtaɪz/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our goal is to digitize all paper records from the past ten years.",
+    "exampleVi": "Mục tiêu của chúng tôi là số hóa tất cả các hồ sơ giấy từ mười năm qua.",
+    "collocations": [
+      "digitize records",
+      "digitize files",
+      "digitize process"
+    ],
+    "synonyms": [
+      "scan",
+      "electronicize",
+      "computerize"
+    ],
+    "wordFamily": [
+      "digitized",
+      "digitizing",
+      "digitization"
+    ],
+    "day": 98
+  },
+  {
+    "id": "index-verb",
+    "word": "index",
+    "baseWord": "index",
+    "type": "verb",
+    "meaning": "lập chỉ mục, xếp vào mục lục",
+    "pronunciation": "/ˈɪndeks/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Files are indexed by date and client name to make search easier.",
+    "exampleVi": "Các hồ sơ được lập chỉ mục theo ngày và tên khách hàng để việc tìm kiếm dễ dàng hơn.",
+    "collocations": [
+      "index files",
+      "alphabetically index",
+      "index data"
+    ],
+    "synonyms": [
+      "catalog",
+      "classify",
+      "file"
+    ],
+    "wordFamily": [
+      "indices",
+      "indexing",
+      "indexed"
+    ],
+    "day": 98
+  },
+  {
+    "id": "label maker-phrase",
+    "word": "label maker",
+    "baseWord": "label maker",
+    "type": "phrase",
+    "meaning": "máy in nhãn, thiết bị dán nhãn",
+    "pronunciation": "/ˈleɪbl ˈmeɪkər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "He used a label maker to organize the project folders alphabetically.",
+    "exampleVi": "Anh ấy đã sử dụng máy in nhãn để sắp xếp các thư mục dự án theo thứ tự bảng chữ cái.",
+    "collocations": [
+      "handheld label maker",
+      "print with a label maker",
+      "office label maker"
+    ],
+    "synonyms": [
+      "label printer"
+    ],
+    "wordFamily": [
+      "label",
+      "maker",
+      "makers"
+    ],
+    "day": 98
+  },
+  {
+    "id": "laminator-noun",
+    "word": "laminator",
+    "baseWord": "laminate",
+    "type": "noun",
+    "meaning": "máy ép nhựa, máy ép plastic bảo vệ giấy",
+    "pronunciation": "/ˈlæmɪneɪtər/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We used the office laminator to cover the fire evacuation maps.",
+    "exampleVi": "Chúng tôi đã sử dụng máy ép nhựa văn phòng để bọc bản đồ thoát hiểm hỏa hoạn.",
+    "collocations": [
+      "office laminator",
+      "purchase a laminator"
+    ],
+    "synonyms": [
+      "laminating machine"
+    ],
+    "wordFamily": [
+      "laminate",
+      "laminated",
+      "laminators"
+    ],
+    "day": 98
+  },
+  {
+    "id": "office equipment-phrase",
+    "word": "office equipment",
+    "baseWord": "office equipment",
+    "type": "phrase",
+    "meaning": "thiết bị văn phòng (máy in, máy phô tô, v.v.)",
+    "pronunciation": "/ˈɑːfɪs ɪˈkwɪpmənt/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We budget annually for the maintenance of office equipment.",
+    "exampleVi": "Chúng tôi lập ngân sách hàng năm cho việc bảo trì thiết bị văn phòng.",
+    "collocations": [
+      "modern office equipment",
+      "maintain office equipment",
+      "supplier of office equipment"
+    ],
+    "synonyms": [
+      "office machinery",
+      "hardware"
+    ],
+    "wordFamily": [
+      "office",
+      "equip",
+      "equipment"
+    ],
+    "day": 98
+  },
+  {
+    "id": "paperless-adjective",
+    "word": "paperless",
+    "baseWord": "paper",
+    "type": "adjective",
+    "meaning": "không dùng giấy, số hóa thông tin",
+    "pronunciation": "/ˈpeɪpərləs/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Transitioning to a paperless office has saved the firm thousands in printing costs.",
+    "exampleVi": "Chuyển đổi sang văn phòng không dùng giấy đã giúp công ty tiết kiệm hàng ngàn đô la chi phí in ấn.",
+    "collocations": [
+      "paperless office",
+      "paperless billing",
+      "go paperless"
+    ],
+    "synonyms": [
+      "digital",
+      "electronic",
+      "computerized"
+    ],
+    "wordFamily": [
+      "paper",
+      "papers",
+      "paperlessly"
+    ],
+    "day": 98
+  },
+  {
+    "id": "paperwork load-phrase",
+    "word": "paperwork load",
+    "baseWord": "paperwork load",
+    "type": "phrase",
+    "meaning": "khối lượng công việc giấy tờ",
+    "pronunciation": "/ˈpeɪpərwɜːrk loʊd/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Automating client onboarding reduced the paperwork load on receptionist staff.",
+    "exampleVi": "Tự động hóa việc tiếp nhận khách hàng đã giảm bớt khối lượng giấy tờ cho nhân viên lễ tân.",
+    "collocations": [
+      "heavy paperwork load",
+      "reduce paperwork load",
+      "manage paperwork load"
+    ],
+    "synonyms": [
+      "administrative burden"
+    ],
+    "wordFamily": [
+      "paperwork",
+      "load",
+      "loads"
+    ],
+    "day": 98
+  },
+  {
+    "id": "registry-noun",
+    "word": "registry",
+    "baseWord": "register",
+    "type": "noun",
+    "meaning": "phòng lưu trữ hồ sơ, sổ đăng ký chính thức",
+    "pronunciation": "/ˈredʒɪstri/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company registry database contains records of all registered businesses.",
+    "exampleVi": "Cơ sở dữ liệu sổ đăng ký của công ty chứa hồ sơ của tất cả các doanh nghiệp đã đăng ký.",
+    "collocations": [
+      "public registry",
+      "business registry",
+      "company registry"
+    ],
+    "synonyms": [
+      "register",
+      "archive",
+      "logbook"
+    ],
+    "wordFamily": [
+      "registries",
+      "registrar",
+      "registration"
+    ],
+    "day": 98
+  },
+  {
+    "id": "requisition-noun",
+    "word": "requisition",
+    "baseWord": "requisition",
+    "type": "noun",
+    "meaning": "sự yêu cầu chính thức, phiếu trưng dụng vật tư",
+    "pronunciation": "/ˌrekwɪˈzɪʃən/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager signed the supply requisition for office chairs.",
+    "exampleVi": "Người quản lý đã ký giấy trưng dụng vật tư cho các ghế văn phòng.",
+    "collocations": [
+      "supply requisition",
+      "requisition request",
+      "make a requisition"
+    ],
+    "synonyms": [
+      "formal request",
+      "demand",
+      "order"
+    ],
+    "wordFamily": [
+      "requisitions",
+      "requisition (v.)",
+      "requisitioning"
+    ],
+    "day": 98
+  },
+  {
+    "id": "scheduler-noun",
+    "word": "scheduler",
+    "baseWord": "schedule",
+    "type": "noun",
+    "meaning": "người lập lịch trình, công cụ lên lịch",
+    "pronunciation": "/ˈskedʒuːlər/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She works as a scheduler for the engineering department shifts.",
+    "exampleVi": "Cô ấy làm việc như một người lên lịch trình ca làm việc cho bộ phận kỹ thuật.",
+    "collocations": [
+      "meeting scheduler",
+      "project scheduler",
+      "work scheduler"
+    ],
+    "synonyms": [
+      "planner",
+      "coordinator"
+    ],
+    "wordFamily": [
+      "schedule",
+      "scheduled",
+      "schedulers"
+    ],
+    "day": 98
+  },
+  {
+    "id": "shred-verb",
+    "word": "shred",
+    "baseWord": "shred",
+    "type": "verb",
+    "meaning": "hủy tài liệu bằng cách cắt nhỏ, xé nhỏ",
+    "pronunciation": "/ʃred/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please shred these outdated client records immediately for privacy.",
+    "exampleVi": "Vui lòng hủy những hồ sơ khách hàng đã quá hạn này ngay lập tức để bảo mật riêng tư.",
+    "collocations": [
+      "shred documents",
+      "shred paper",
+      "properly shred"
+    ],
+    "synonyms": [
+      "cut up",
+      "tear",
+      "destroy"
+    ],
+    "wordFamily": [
+      "shredder",
+      "shredding",
+      "shredded"
+    ],
+    "day": 98
+  },
+  {
+    "id": "stapler remover-phrase",
+    "word": "stapler remover",
+    "baseWord": "stapler remover",
+    "type": "phrase",
+    "meaning": "dụng cụ tháo ghim, cái gỡ ghim",
+    "pronunciation": "/ˈsteɪplər rɪˈmuːvər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "She borrowed a stapler remover to detach the receipts from the invoice.",
+    "exampleVi": "Cô ấy đã mượn một dụng cụ tháo ghim để gỡ biên lai ra khỏi hóa đơn.",
+    "collocations": [
+      "handheld stapler remover",
+      "use a stapler remover"
+    ],
+    "synonyms": [
+      "staple remover"
+    ],
+    "wordFamily": [
+      "staple",
+      "remover",
+      "removers"
+    ],
+    "day": 98
+  },
+  {
+    "id": "storage room-phrase",
+    "word": "storage room",
+    "baseWord": "storage room",
+    "type": "phrase",
+    "meaning": "phòng kho, phòng lưu trữ",
+    "pronunciation": "/ˈstɔːrɪdʒ ruːm/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We keep extra desk organizer items in the third-floor storage room.",
+    "exampleVi": "Chúng tôi giữ thêm các khay tổ chức bàn làm việc ở phòng lưu trữ tầng ba.",
+    "collocations": [
+      "lock the storage room",
+      "office storage room",
+      "locate the storage room"
+    ],
+    "synonyms": [
+      "storeroom",
+      "depot"
+    ],
+    "wordFamily": [
+      "storage",
+      "room",
+      "rooms"
+    ],
+    "day": 98
+  },
+  {
+    "id": "advance-agenda-phrase",
+    "word": "advance agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: advance agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the advance agenda before the next business day.",
+    "exampleVi": "Vui long xem lai advance agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "advance agenda",
+      "advance agenda process",
+      "advance agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 99
+  },
+  {
+    "id": "binder-noun",
+    "word": "binder",
+    "baseWord": "bind",
+    "type": "noun",
+    "meaning": "bìa còng, sổ bìa cứng kẹp tài liệu",
+    "pronunciation": "/ˈbaɪndər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The training manuals are organized in three-ring binders on the shelf.",
+    "exampleVi": "Các tài liệu đào tạo được sắp xếp trong các bìa còng ba khoen trên kệ.",
+    "collocations": [
+      "three-ring binder",
+      "loose-leaf binder",
+      "file in a binder"
+    ],
+    "synonyms": [
+      "folder",
+      "file",
+      "portfolio"
+    ],
+    "wordFamily": [
+      "bind",
+      "binders",
+      "binding"
+    ],
+    "day": 99
+  },
+  {
+    "id": "bulk-agenda-phrase",
+    "word": "bulk agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: bulk agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the bulk agenda before the next business day.",
+    "exampleVi": "Vui long xem lai bulk agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "bulk agenda",
+      "bulk agenda process",
+      "bulk agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 99
+  },
+  {
+    "id": "complimentary-agenda-phrase",
+    "word": "complimentary agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve office administration: complimentary agenda",
+    "pronunciation": "",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the complimentary agenda before the next business day.",
+    "exampleVi": "Vui long xem lai complimentary agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "complimentary agenda",
+      "complimentary agenda process",
+      "complimentary agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 99
+  },
+  {
+    "id": "courier fee-phrase",
+    "word": "courier fee",
+    "baseWord": "courier fee",
+    "type": "phrase",
+    "meaning": "phí chuyển phát nhanh",
+    "pronunciation": "/ˈkʊriər fiː/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The client agreed to pay the courier fee for the immediate document delivery.",
+    "exampleVi": "Khách hàng đã đồng ý trả phí chuyển phát nhanh để giao tài liệu ngay lập tức.",
+    "collocations": [
+      "additional courier fee",
+      "standard courier fee",
+      "charge a courier fee"
+    ],
+    "synonyms": [
+      "messenger charge",
+      "shipping fee"
+    ],
+    "wordFamily": [
+      "courier",
+      "fee",
+      "fees"
+    ],
+    "day": 99
+  },
+  {
+    "id": "delivery receipt-phrase",
+    "word": "delivery receipt",
+    "baseWord": "delivery receipt",
+    "type": "phrase",
+    "meaning": "biên lai giao hàng",
+    "pronunciation": "/dɪˈlɪvəri rɪˈsiːt/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please obtain the recipient's signature on the delivery receipt.",
+    "exampleVi": "Vui lòng lấy chữ ký của người nhận trên biên lai giao hàng.",
+    "collocations": [
+      "sign the delivery receipt",
+      "request a delivery receipt",
+      "keep the delivery receipt"
+    ],
+    "synonyms": [
+      "proof of delivery",
+      "shipping receipt"
+    ],
+    "wordFamily": [
+      "delivery",
+      "receipt",
+      "receipts"
+    ],
+    "day": 99
+  },
+  {
+    "id": "duplicate-noun",
+    "word": "duplicate",
+    "baseWord": "duplicate",
+    "type": "noun",
+    "meaning": "bản sao, bản nhân đôi",
+    "pronunciation": "/ˈduːplɪkət/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Keep the original contract in the archive and file the duplicate.",
+    "exampleVi": "Giữ hợp đồng gốc trong kho lưu trữ và xếp bản sao vào hồ sơ.",
+    "collocations": [
+      "in duplicate",
+      "send a duplicate",
+      "keep a duplicate"
+    ],
+    "synonyms": [
+      "copy",
+      "replica",
+      "reproduction"
+    ],
+    "wordFamily": [
+      "duplication",
+      "duplicated",
+      "duplicates"
+    ],
+    "day": 99
+  },
+  {
+    "id": "letterhead-noun",
+    "word": "letterhead",
+    "baseWord": "letterhead",
+    "type": "noun",
+    "meaning": "tiêu đề thư, giấy có in sẵn tiêu đề công ty",
+    "pronunciation": "/ˈletərhed/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Official corporate announcements must be printed on company letterhead.",
+    "exampleVi": "Các thông báo chính thức của công ty phải được in trên giấy tiêu đề thư của công ty.",
+    "collocations": [
+      "company letterhead",
+      "print on letterhead",
+      "official letterhead"
+    ],
+    "synonyms": [
+      "headed paper",
+      "stationery"
+    ],
+    "wordFamily": [
+      "letterheads",
+      "letter",
+      "head"
+    ],
+    "day": 99
+  },
+  {
+    "id": "mail carrier-phrase",
+    "word": "mail carrier",
+    "baseWord": "mail carrier",
+    "type": "phrase",
+    "meaning": "nhân viên đưa thư, người đưa thư",
+    "pronunciation": "/meɪl ˈkæriər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The mail carrier delivered the package directly to the reception desk.",
+    "exampleVi": "Người đưa thư đã giao bưu kiện trực tiếp đến quầy lễ tân.",
+    "collocations": [
+      "local mail carrier",
+      "wait for the mail carrier"
+    ],
+    "synonyms": [
+      "postman",
+      "mailman",
+      "postal worker"
+    ],
+    "wordFamily": [
+      "mail",
+      "carrier",
+      "carriers"
+    ],
+    "day": 99
+  },
+  {
+    "id": "mailbag-noun",
+    "word": "mailbag",
+    "baseWord": "mailbag",
+    "type": "noun",
+    "meaning": "túi đựng thư, bao tải đựng bưu phẩm",
+    "pronunciation": "/ˈmeɪlbæɡ/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The post office worker loaded several heavy mailbags into the truck.",
+    "exampleVi": "Nhân viên bưu điện đã bốc xếp một số túi thư nặng lên xe tải.",
+    "collocations": [
+      "canvas mailbag",
+      "fill the mailbag"
+    ],
+    "synonyms": [
+      "postbag",
+      "mail sack"
+    ],
+    "wordFamily": [
+      "mail",
+      "bag",
+      "bags"
+    ],
+    "day": 99
+  },
+  {
+    "id": "notepad-noun",
+    "word": "notepad",
+    "baseWord": "note",
+    "type": "noun",
+    "meaning": "sổ ghi chép, tập giấy viết tay",
+    "pronunciation": "/ˈnoʊtpæd/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "She wrote down the phone message on a small notepad near the keyboard.",
+    "exampleVi": "Cô ấy đã ghi lại tin nhắn điện thoại vào một cuốn sổ tay nhỏ gần bàn phím.",
+    "collocations": [
+      "write in a notepad",
+      "desk notepad",
+      "paper notepad"
+    ],
+    "synonyms": [
+      "notebook",
+      "scratchpad",
+      "memo pad"
+    ],
+    "wordFamily": [
+      "notepad",
+      "notepads",
+      "note"
+    ],
+    "day": 99
+  },
+  {
+    "id": "paperclip-noun",
+    "word": "paperclip",
+    "baseWord": "paperclip",
+    "type": "noun",
+    "meaning": "kẹp giấy",
+    "pronunciation": "/ˈpeɪpərklɪp/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "She attached the receipts to the expense report using a plastic paperclip.",
+    "exampleVi": "Cô ấy đã đính kèm các biên lai vào báo cáo chi phí bằng một cái kẹp giấy nhựa.",
+    "collocations": [
+      "metal paperclip",
+      "box of paperclips",
+      "use a paperclip"
+    ],
+    "synonyms": [
+      "paper clip",
+      "binder clip"
+    ],
+    "wordFamily": [
+      "paperclips",
+      "paper",
+      "clip"
+    ],
+    "day": 99
+  },
+  {
+    "id": "parcel-noun",
+    "word": "parcel",
+    "baseWord": "parcel",
+    "type": "noun",
+    "meaning": "bưu kiện, gói hàng gửi bưu điện",
+    "pronunciation": "/ˈpɑːrsl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The mailroom assistant put the fragile parcel on the supervisor's desk.",
+    "exampleVi": "Trợ lý phòng thư tín đã đặt bưu kiện dễ vỡ lên bàn của người giám sát.",
+    "collocations": [
+      "fragile parcel",
+      "receive a parcel",
+      "wrap a parcel"
+    ],
+    "synonyms": [
+      "package",
+      "bundle",
+      "packet"
+    ],
+    "wordFamily": [
+      "parcels",
+      "parceled",
+      "parceling"
+    ],
+    "day": 99
+  },
+  {
+    "id": "postal-adjective",
+    "word": "postal",
+    "baseWord": "post",
+    "type": "adjective",
+    "meaning": "thuộc bưu điện, bưu chính",
+    "pronunciation": "/ˈpoʊstl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include your postal code at the bottom of the registration form.",
+    "exampleVi": "Vui lòng bao gồm mã bưu chính của bạn ở dưới cùng của biểu mẫu đăng ký.",
+    "collocations": [
+      "postal code",
+      "postal service",
+      "postal rates"
+    ],
+    "synonyms": [
+      "mailing",
+      "postal-delivery"
+    ],
+    "wordFamily": [
+      "post",
+      "postman",
+      "postally"
+    ],
+    "day": 99
+  },
+  {
+    "id": "postmark-noun",
+    "word": "postmark",
+    "baseWord": "postmark",
+    "type": "noun",
+    "meaning": "dấu bưu điện đóng trên thư",
+    "pronunciation": "/ˈpoʊstmɑːrk/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The postmark indicates the letter was mailed from Chicago last Tuesday.",
+    "exampleVi": "Dấu bưu điện cho thấy bức thư đã được gửi từ Chicago vào thứ Ba tuần trước.",
+    "collocations": [
+      "envelope postmark",
+      "check the postmark",
+      "official postmark"
+    ],
+    "synonyms": [
+      "postal stamp mark"
+    ],
+    "wordFamily": [
+      "postmarks",
+      "postmarked",
+      "postmarking"
+    ],
+    "day": 99
+  },
+  {
+    "id": "reproduce-verb",
+    "word": "reproduce",
+    "baseWord": "produce",
+    "type": "verb",
+    "meaning": "sao chép lại, nhân bản tài liệu",
+    "pronunciation": "/ˌriːprəˈduːs/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You are not permitted to reproduce this copyrighted business handbook.",
+    "exampleVi": "Bạn không được phép sao chép cuốn sổ tay doanh nghiệp có bản quyền này.",
+    "collocations": [
+      "reproduce documents",
+      "reproduce art",
+      "accurately reproduce"
+    ],
+    "synonyms": [
+      "copy",
+      "duplicate",
+      "mimic"
+    ],
+    "wordFamily": [
+      "reproduction",
+      "reproduced",
+      "reproducing"
+    ],
+    "day": 99
+  },
+  {
+    "id": "reproduction-noun",
+    "word": "reproduction",
+    "baseWord": "produce",
+    "type": "noun",
+    "meaning": "sự sao chép, bản sao tài liệu",
+    "pronunciation": "/ˌriːprəˈdʌkʃən/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The quality of the reproduction was poor due to low ink levels.",
+    "exampleVi": "Chất lượng của bản sao chép rất kém do lượng mực in thấp.",
+    "collocations": [
+      "reproduction rights",
+      "quality of reproduction",
+      "digital reproduction"
+    ],
+    "synonyms": [
+      "copy",
+      "facsimile",
+      "duplication"
+    ],
+    "wordFamily": [
+      "reproduce",
+      "reproductive",
+      "reproductions"
+    ],
+    "day": 99
+  },
+  {
+    "id": "sorter-noun",
+    "word": "sorter",
+    "baseWord": "sort",
+    "type": "noun",
+    "meaning": "thiết bị phân loại, người phân loại",
+    "pronunciation": "/ˈsɔːrtər/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The company bought a new high-speed coin sorter for the finance office.",
+    "exampleVi": "Công ty đã mua một máy phân loại tiền xu tốc độ cao mới cho phòng tài chính.",
+    "collocations": [
+      "mail sorter",
+      "automatic sorter"
+    ],
+    "synonyms": [
+      "classifier",
+      "separator"
+    ],
+    "wordFamily": [
+      "sort",
+      "sorting",
+      "sorters"
+    ],
+    "day": 99
+  },
+  {
+    "id": "sorting-noun",
+    "word": "sorting",
+    "baseWord": "sort",
+    "type": "noun",
+    "meaning": "sự phân loại, việc sắp xếp",
+    "pronunciation": "/ˈsɔːrtɪŋ/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Automated sorting machines have improved post office mail delivery speed.",
+    "exampleVi": "Máy phân loại tự động đã cải thiện tốc độ giao thư của bưu điện.",
+    "collocations": [
+      "mail sorting",
+      "automated sorting",
+      "sorting process"
+    ],
+    "synonyms": [
+      "classification",
+      "ordering",
+      "organization"
+    ],
+    "wordFamily": [
+      "sort",
+      "sorted",
+      "sorter"
+    ],
+    "day": 99
+  },
+  {
+    "id": "tracking number-phrase",
+    "word": "tracking number",
+    "baseWord": "tracking number",
+    "type": "phrase",
+    "meaning": "mã số theo dõi bưu phẩm, số vận đơn",
+    "pronunciation": "/ˈtrækɪŋ ˈnʌmbər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "You can check the status of your parcel online using the tracking number.",
+    "exampleVi": "Bạn có thể kiểm tra tình trạng bưu kiện của mình trực tuyến bằng mã số theo dõi.",
+    "collocations": [
+      "email the tracking number",
+      "request a tracking number",
+      "invalid tracking number"
+    ],
+    "synonyms": [
+      "consignment number",
+      "waybill number"
+    ],
+    "wordFamily": [
+      "track",
+      "tracking",
+      "number"
+    ],
+    "day": 99
+  },
+  {
+    "id": "administrative fee-phrase",
+    "word": "administrative fee",
+    "baseWord": "administrative fee",
+    "type": "phrase",
+    "meaning": "phí hành chính, phí quản lý",
+    "pronunciation": "/ədˈmɪnɪstreɪtɪv fiː/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "There is a minor administrative fee for processing visa applications.",
+    "exampleVi": "Có một khoản phí hành chính nhỏ cho việc xử lý đơn đăng ký thị thực.",
+    "collocations": [
+      "charge an administrative fee",
+      "waive administrative fees",
+      "standard administrative fee"
+    ],
+    "synonyms": [
+      "processing fee",
+      "handling fee"
+    ],
+    "wordFamily": [
+      "admin",
+      "fee",
+      "fees"
+    ],
+    "day": 100
+  },
+  {
+    "id": "archive room-phrase",
+    "word": "archive room",
+    "baseWord": "archive room",
+    "type": "phrase",
+    "meaning": "phòng lưu trữ tài liệu",
+    "pronunciation": "/ˈɑːrkaɪv ruːm/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Historical corporate ledgers are stored securely in the basement archive room.",
+    "exampleVi": "Các sổ cái lịch sử của công ty được lưu trữ an toàn trong phòng lưu trữ ở tầng hầm.",
+    "collocations": [
+      "basement archive room",
+      "enter the archive room",
+      "key to the archive room"
+    ],
+    "synonyms": [
+      "records room",
+      "archival repository"
+    ],
+    "wordFamily": [
+      "archive",
+      "room",
+      "rooms"
+    ],
+    "day": 100
+  },
+  {
+    "id": "bulk mailing-phrase",
+    "word": "bulk mailing",
+    "baseWord": "bulk mailing",
+    "type": "phrase",
+    "meaning": "gửi thư số lượng lớn, gửi thư hàng loạt",
+    "pronunciation": "/bʌlk ˈmeɪlɪŋ/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The marketing department is preparing a bulk mailing of the new catalogs.",
+    "exampleVi": "Bộ phận tiếp thị đang chuẩn bị gửi hàng loạt danh mục sản phẩm mới.",
+    "collocations": [
+      "process bulk mailing",
+      "bulk mailing service",
+      "discount on bulk mailing"
+    ],
+    "synonyms": [
+      "mass mailing",
+      "bulk post"
+    ],
+    "wordFamily": [
+      "bulk",
+      "mail",
+      "mailing"
+    ],
+    "day": 100
+  },
+  {
+    "id": "clerical error-phrase",
+    "word": "clerical error",
+    "baseWord": "clerical error",
+    "type": "phrase",
+    "meaning": "lỗi hành chính, lỗi đánh máy, lỗi ghi chép văn phòng",
+    "pronunciation": "/ˈklerɪkl ˈerər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Due to a minor clerical error, the invoice amount was listed incorrectly.",
+    "exampleVi": "Do một lỗi hành chính nhỏ, số tiền trên hóa đơn đã được liệt kê không chính xác.",
+    "collocations": [
+      "minor clerical error",
+      "result of a clerical error",
+      "correct a clerical error"
+    ],
+    "synonyms": [
+      "typographical error",
+      "administrative mistake"
+    ],
+    "wordFamily": [
+      "clerical",
+      "error",
+      "errors"
+    ],
+    "day": 100
+  },
+  {
+    "id": "document holder-phrase",
+    "word": "document holder",
+    "baseWord": "document holder",
+    "type": "phrase",
+    "meaning": "khay kẹp tài liệu, hộp đựng tài liệu",
+    "pronunciation": "/ˈdɑːkjʊmənt ˈhoʊldər/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "A plastic document holder was placed next to the monitor for easy typing.",
+    "exampleVi": "Một khay kẹp tài liệu nhựa đã được đặt cạnh màn hình để dễ nhập liệu.",
+    "collocations": [
+      "desk document holder",
+      "acrylic document holder"
+    ],
+    "synonyms": [
+      "paper stand",
+      "copyholder"
+    ],
+    "wordFamily": [
+      "document",
+      "hold",
+      "holder"
+    ],
+    "day": 100
+  },
+  {
+    "id": "document scanner-phrase",
+    "word": "document scanner",
+    "baseWord": "document scanner",
+    "type": "phrase",
+    "meaning": "máy quét tài liệu",
+    "pronunciation": "/ˈdɑːkjʊmənt ˈskænər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "You can feed up to 50 pages into the automatic document scanner.",
+    "exampleVi": "Bạn có thể nạp tối đa 50 trang vào máy quét tài liệu tự động.",
+    "collocations": [
+      "high-speed document scanner",
+      "desktop document scanner"
+    ],
+    "synonyms": [
+      "flatbed scanner",
+      "copier scanner"
+    ],
+    "wordFamily": [
+      "document",
+      "scan",
+      "scanner"
+    ],
+    "day": 100
+  },
+  {
+    "id": "dry-erase marker-phrase",
+    "word": "dry-erase marker",
+    "baseWord": "dry-erase marker",
+    "type": "phrase",
+    "meaning": "bút viết bảng trắng",
+    "pronunciation": "/draɪ ɪˈreɪs ˈmɑːrkər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Make sure to recap the dry-erase marker so it does not dry out.",
+    "exampleVi": "Hãy chắc chắn đậy nắp bút viết bảng trắng lại để nó không bị khô mực.",
+    "collocations": [
+      "black dry-erase marker",
+      "box of dry-erase markers",
+      "write with a dry-erase marker"
+    ],
+    "synonyms": [
+      "whiteboard marker"
+    ],
+    "wordFamily": [
+      "dry",
+      "erase",
+      "marker"
+    ],
+    "day": 100
+  },
+  {
+    "id": "express mail-phrase",
+    "word": "express mail",
+    "baseWord": "express mail",
+    "type": "phrase",
+    "meaning": "thư chuyển phát nhanh, thư hỏa tốc",
+    "pronunciation": "/ɪkˈspres meɪl/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We sent the urgent legal document via express mail to ensure next-day delivery.",
+    "exampleVi": "Chúng tôi đã gửi tài liệu pháp lý khẩn cấp qua thư chuyển phát nhanh để đảm bảo nhận vào ngày hôm sau.",
+    "collocations": [
+      "send via express mail",
+      "express mail rates",
+      "international express mail"
+    ],
+    "synonyms": [
+      "overnight mail",
+      "special delivery"
+    ],
+    "wordFamily": [
+      "express",
+      "mail",
+      "mails"
+    ],
+    "day": 100
+  },
+  {
+    "id": "filing system-phrase",
+    "word": "filing system",
+    "baseWord": "filing system",
+    "type": "phrase",
+    "meaning": "hệ thống lưu trữ hồ sơ",
+    "pronunciation": "/ˈfaɪlɪŋ ˈsɪstəm/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to reorganize our digital filing system to make retrieval faster.",
+    "exampleVi": "Chúng ta cần tổ chức lại hệ thống lưu trữ kỹ thuật số để việc truy xuất nhanh hơn.",
+    "collocations": [
+      "digital filing system",
+      "efficient filing system",
+      "reorganize the filing system"
+    ],
+    "synonyms": [
+      "records system",
+      "archiving method"
+    ],
+    "wordFamily": [
+      "file",
+      "filing",
+      "system"
+    ],
+    "day": 100
+  },
+  {
+    "id": "laminating machine-phrase",
+    "word": "laminating machine",
+    "baseWord": "laminating machine",
+    "type": "phrase",
+    "meaning": "máy ép nhựa, máy ép plastic bảo vệ tài liệu",
+    "pronunciation": "/ˈlæmɪneɪtɪŋ məˈʃiːn/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We bought a new laminating machine to protect the ID badges.",
+    "exampleVi": "Chúng tôi đã mua một chiếc máy ép plastic mới để bảo vệ các thẻ tên.",
+    "collocations": [
+      "electric laminating machine",
+      "operate a laminating machine"
+    ],
+    "synonyms": [
+      "laminator"
+    ],
+    "wordFamily": [
+      "laminate",
+      "laminating",
+      "machine"
+    ],
+    "day": 100
+  },
+  {
+    "id": "mail delivery-phrase",
+    "word": "mail delivery",
+    "baseWord": "mail delivery",
+    "type": "phrase",
+    "meaning": "sự giao thư, sự phát chuyển thư tín",
+    "pronunciation": "/meɪl dɪˈlɪvəri/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Daily mail delivery is scheduled for 10:00 AM every morning.",
+    "exampleVi": "Việc giao thư hàng ngày được lên lịch vào lúc 10:00 sáng mỗi ngày.",
+    "collocations": [
+      "daily mail delivery",
+      "mail delivery service",
+      "delay in mail delivery"
+    ],
+    "synonyms": [
+      "post delivery",
+      "postal dispatch"
+    ],
+    "wordFamily": [
+      "mail",
+      "deliver",
+      "delivery"
+    ],
+    "day": 100
+  },
+  {
+    "id": "office directory-phrase",
+    "word": "office directory",
+    "baseWord": "office directory",
+    "type": "phrase",
+    "meaning": "danh mục văn phòng, danh bạ điện thoại nội bộ",
+    "pronunciation": "/ˈɑːfɪs daɪˈrektəri/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The security desk displays a large digital office directory for visitors.",
+    "exampleVi": "Bàn bảo vệ hiển thị một danh mục văn phòng kỹ thuật số lớn cho khách thăm.",
+    "collocations": [
+      "digital office directory",
+      "consult the office directory",
+      "update the office directory"
+    ],
+    "synonyms": [
+      "office board",
+      "building directory"
+    ],
+    "wordFamily": [
+      "office",
+      "direct",
+      "directory"
+    ],
+    "day": 100
+  },
+  {
+    "id": "office manager-phrase",
+    "word": "office manager",
+    "baseWord": "office manager",
+    "type": "phrase",
+    "meaning": "người quản lý văn phòng",
+    "pronunciation": "/ˈɑːfɪs ˈmænɪdʒər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The office manager ordered new desk organizers and stationery items.",
+    "exampleVi": "Người quản lý văn phòng đã đặt mua khay tổ chức bàn làm việc mới và văn phòng phẩm.",
+    "collocations": [
+      "role of office manager",
+      "hire an office manager",
+      "senior office manager"
+    ],
+    "synonyms": [
+      "administrative supervisor",
+      "office head"
+    ],
+    "wordFamily": [
+      "office",
+      "manage",
+      "manager"
+    ],
+    "day": 100
+  },
+  {
+    "id": "paper shredder-phrase",
+    "word": "paper shredder",
+    "baseWord": "paper shredder",
+    "type": "phrase",
+    "meaning": "máy hủy giấy",
+    "pronunciation": "/ˈpeɪpər ˈʃredər/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Our office has a paper shredder next to the filing cabinet.",
+    "exampleVi": "Văn phòng chúng tôi có một máy hủy giấy cạnh tủ hồ sơ.",
+    "collocations": [
+      "industrial paper shredder",
+      "automatic paper shredder"
+    ],
+    "synonyms": [
+      "document shredder"
+    ],
+    "wordFamily": [
+      "paper",
+      "shred",
+      "shredder"
+    ],
+    "day": 100
+  },
+  {
+    "id": "reception area-phrase",
+    "word": "reception area",
+    "baseWord": "reception area",
+    "type": "phrase",
+    "meaning": "khu vực lễ tân, sảnh đón khách",
+    "pronunciation": "/rɪˈsepʃən ˈeriə/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Guests are requested to wait in the reception area until called.",
+    "exampleVi": "Khách được yêu cầu đợi ở khu vực lễ tân cho đến khi được gọi.",
+    "collocations": [
+      "modern reception area",
+      "clean reception area",
+      "wait in the reception area"
+    ],
+    "synonyms": [
+      "lobby",
+      "waiting room",
+      "front office"
+    ],
+    "wordFamily": [
+      "reception",
+      "receptionist",
+      "area"
+    ],
+    "day": 100
+  },
+  {
+    "id": "registered mail-phrase",
+    "word": "registered mail",
+    "baseWord": "registered mail",
+    "type": "phrase",
+    "meaning": "thư bảo đảm, thư đăng ký",
+    "pronunciation": "/ˈredʒɪstərd meɪl/",
+    "topic": "Office Administration",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Important certificates should be sent by registered mail to prevent loss.",
+    "exampleVi": "Các chứng chỉ quan trọng nên được gửi bằng thư bảo đảm để tránh thất lạc.",
+    "collocations": [
+      "send by registered mail",
+      "registered mail service"
+    ],
+    "synonyms": [
+      "certified mail",
+      "insured mail"
+    ],
+    "wordFamily": [
+      "register",
+      "registered",
+      "mail"
+    ],
+    "day": 100
+  },
+  {
+    "id": "return address-phrase",
+    "word": "return address",
+    "baseWord": "return address",
+    "type": "phrase",
+    "meaning": "địa chỉ người gửi (để hoàn trả thư nếu thất bại)",
+    "pronunciation": "/rɪˈtɜːrn əˈdres/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The post office returned the package because the return address was missing.",
+    "exampleVi": "Bưu điện đã trả lại bưu kiện vì thiếu địa chỉ người gửi.",
+    "collocations": [
+      "write the return address",
+      "sender's return address",
+      "print a return address"
+    ],
+    "synonyms": [
+      "sender address"
+    ],
+    "wordFamily": [
+      "return",
+      "address",
+      "addresses"
+    ],
+    "day": 100
+  },
+  {
+    "id": "stapling machine-phrase",
+    "word": "stapling machine",
+    "baseWord": "stapling machine",
+    "type": "phrase",
+    "meaning": "máy dập ghim, máy bấm kim điện",
+    "pronunciation": "/ˈsteɪplɪŋ məˈʃiːn/",
+    "topic": "Office Administration",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The print shop uses a heavy-duty stapling machine for booklets.",
+    "exampleVi": "Cửa hàng in ấn sử dụng máy dập ghim hạng nặng cho các cuốn sách nhỏ.",
+    "collocations": [
+      "electric stapling machine",
+      "heavy-duty stapling machine"
+    ],
+    "synonyms": [
+      "stapler"
+    ],
+    "wordFamily": [
+      "staple",
+      "stapling",
+      "machine"
+    ],
+    "day": 100
+  },
+  {
+    "id": "supply request-phrase",
+    "word": "supply request",
+    "baseWord": "supply request",
+    "type": "phrase",
+    "meaning": "yêu cầu cung ứng vật tư, yêu cầu văn phòng phẩm",
+    "pronunciation": "/səˈplaɪ rɪˈkwest/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please submit a supply request if you need more printer paper.",
+    "exampleVi": "Vui lòng gửi yêu cầu cung ứng vật tư nếu bạn cần thêm giấy in.",
+    "collocations": [
+      "submit a supply request",
+      "process a supply request",
+      "monthly supply request"
+    ],
+    "synonyms": [
+      "requisition request",
+      "materials order"
+    ],
+    "wordFamily": [
+      "supply",
+      "request",
+      "requests"
+    ],
+    "day": 100
+  },
+  {
+    "id": "whiteboard-noun",
+    "word": "whiteboard",
+    "baseWord": "whiteboard",
+    "type": "noun",
+    "meaning": "bảng trắng, bảng viết bút lông",
+    "pronunciation": "/ˈwaɪtbɔːrd/",
+    "topic": "Office Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager wrote the brainstorming ideas on the conference room whiteboard.",
+    "exampleVi": "Người quản lý đã viết các ý tưởng động não lên bảng trắng của phòng hội nghị.",
+    "collocations": [
+      "write on the whiteboard",
+      "clean the whiteboard",
+      "magnetic whiteboard"
+    ],
+    "synonyms": [
+      "dry-erase board",
+      "marker board"
+    ],
+    "wordFamily": [
+      "whiteboards",
+      "white",
+      "board"
+    ],
+    "day": 100
+  }
+]

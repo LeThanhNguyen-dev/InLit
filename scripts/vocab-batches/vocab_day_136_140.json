@@ -1,848 +1,2977 @@
 [
   {
-    "id": "persuade-verb",
-    "word": "persuade",
-    "baseWord": "persuade",
-    "type": "verb",
-    "meaning": "thuyết phục",
-    "pronunciation": "/pərˈsweɪd/",
-    "topic": "Advanced Communication",
+    "id": "beneficiary-name-phrase",
+    "word": "beneficiary name",
+    "baseWord": "beneficiary",
+    "type": "phrase",
+    "meaning": "beneficiary name; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the beneficiary name before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá beneficiary name trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "beneficiary name",
+      "beneficiary name review",
+      "beneficiary name process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "beneficiary"
+    ],
+    "day": 136
+  },
+  {
+    "id": "claim-adjuster-phrase",
+    "word": "claim adjuster",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim adjuster; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim adjuster before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim adjuster trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim adjuster",
+      "claim adjuster review",
+      "claim adjuster process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 136
+  },
+  {
+    "id": "claim-form-phrase",
+    "word": "claim form",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim form; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim form before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim form trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim form",
+      "claim form review",
+      "claim form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 136
+  },
+  {
+    "id": "claim-number-phrase",
+    "word": "claim number",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim number; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim number before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim number trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim number",
+      "claim number review",
+      "claim number process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 136
+  },
+  {
+    "id": "claim-settlement-phrase",
+    "word": "claim settlement",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim settlement; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim settlement before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim settlement trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim settlement",
+      "claim settlement review",
+      "claim settlement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 136
+  },
+  {
+    "id": "co-payment-noun",
+    "word": "co-payment",
+    "baseWord": "co-payment",
+    "type": "noun",
+    "meaning": "co-payment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the co-payment before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá co-payment trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "co-payment",
+      "co-payment review",
+      "co-payment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "co-payment"
+    ],
+    "day": 136
+  },
+  {
+    "id": "coverage-limit-phrase",
+    "word": "coverage limit",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "coverage limit; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the coverage limit before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá coverage limit trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "coverage limit",
+      "coverage limit review",
+      "coverage limit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "coverage"
+    ],
+    "day": 136
+  },
+  {
+    "id": "coverage-period-phrase",
+    "word": "coverage period",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "coverage period; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the coverage period before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá coverage period trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "coverage period",
+      "coverage period review",
+      "coverage period process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "coverage"
+    ],
+    "day": 136
+  },
+  {
+    "id": "covered-loss-phrase",
+    "word": "covered loss",
+    "baseWord": "covered",
+    "type": "phrase",
+    "meaning": "covered loss; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the covered loss before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá covered loss trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "covered loss",
+      "covered loss review",
+      "covered loss process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "covered"
+    ],
+    "day": 136
+  },
+  {
+    "id": "deductible-amount-phrase",
+    "word": "deductible amount",
+    "baseWord": "deductible",
+    "type": "phrase",
+    "meaning": "deductible amount; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the deductible amount before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá deductible amount trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "deductible amount",
+      "deductible amount review",
+      "deductible amount process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "deductible"
+    ],
+    "day": 136
+  },
+  {
+    "id": "insurance-policy-phrase",
+    "word": "insurance policy",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance policy; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The sales team managed to persuade the client to renew the contract.",
-    "exampleVi": "Đội ngũ bán hàng đã thuyết phục được khách hàng gia hạn hợp đồng.",
-    "collocations": ["persuade someone to", "difficult to persuade", "persuade the board"],
-    "synonyms": ["convince", "influence", "sway"],
-    "wordFamily": ["persuasion", "persuasive", "persuaded"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance policy before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance policy trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance policy",
+      "insurance policy review",
+      "insurance policy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
     "day": 136
   },
   {
-    "id": "articulate-verb",
-    "word": "articulate",
-    "baseWord": "articulate",
-    "type": "verb",
-    "meaning": "diễn đạt rõ ràng",
-    "pronunciation": "/ɑːrˈtɪkjəleɪt/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "She was able to articulate her vision for the company's future clearly.",
-    "exampleVi": "Cô ấy có thể diễn đạt rõ ràng tầm nhìn của mình về tương lai công ty.",
-    "collocations": ["articulate a vision", "articulate a plan", "clearly articulate"],
-    "synonyms": ["express", "convey", "communicate"],
-    "wordFamily": ["articulation", "articulated", "articulating"],
-    "day": 136
-  },
-  {
-    "id": "articulate-adjective",
-    "word": "articulate",
-    "baseWord": "articulate",
-    "type": "adjective",
-    "meaning": "lưu loát, ăn nói rõ ràng",
-    "pronunciation": "/ɑːrˈtɪkjələt/",
-    "topic": "Advanced Communication",
+    "id": "insurance-premium-phrase",
+    "word": "insurance premium",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance premium; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We need an articulate spokesperson to represent our organization.",
-    "exampleVi": "Chúng tôi cần một người phát ngôn lưu loát để đại diện cho tổ chức.",
-    "collocations": ["articulate speaker", "highly articulate", "articulate and confident"],
-    "synonyms": ["eloquent", "fluent", "well-spoken"],
-    "wordFamily": ["articulation", "articulately"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance premium before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance premium trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance premium",
+      "insurance premium review",
+      "insurance premium process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
     "day": 136
   },
   {
-    "id": "negotiate-verb",
-    "word": "negotiate",
-    "baseWord": "negotiate",
-    "type": "verb",
-    "meaning": "đàm phán, thương lượng",
-    "pronunciation": "/nɪˈɡoʊʃieɪt/",
-    "topic": "Advanced Communication",
+    "id": "insurance-rider-phrase",
+    "word": "insurance rider",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance rider; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance rider before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance rider trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance rider",
+      "insurance rider review",
+      "insurance rider process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
+    "day": 136
+  },
+  {
+    "id": "insured-party-phrase",
+    "word": "insured party",
+    "baseWord": "insured",
+    "type": "phrase",
+    "meaning": "insured party; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insured party before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insured party trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insured party",
+      "insured party review",
+      "insured party process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insured"
+    ],
+    "day": 136
+  },
+  {
+    "id": "policy-exclusion-phrase",
+    "word": "policy exclusion",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy exclusion; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the policy exclusion before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá policy exclusion trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "policy exclusion",
+      "policy exclusion review",
+      "policy exclusion process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 136
+  },
+  {
+    "id": "policy-renewal-phrase",
+    "word": "policy renewal",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy renewal; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the policy renewal before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá policy renewal trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "policy renewal",
+      "policy renewal review",
+      "policy renewal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 136
+  },
+  {
+    "id": "policyholder-noun",
+    "word": "policyholder",
+    "baseWord": "policyholder",
+    "type": "noun",
+    "meaning": "policyholder; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the policyholder before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá policyholder trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "policyholder",
+      "policyholder review",
+      "policyholder process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policyholder"
+    ],
+    "day": 136
+  },
+  {
+    "id": "premium-payment-phrase",
+    "word": "premium payment",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "premium payment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the premium payment before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá premium payment trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "premium payment",
+      "premium payment review",
+      "premium payment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "premium"
+    ],
+    "day": 136
+  },
+  {
+    "id": "uncovered-loss-phrase",
+    "word": "uncovered loss",
+    "baseWord": "uncovered",
+    "type": "phrase",
+    "meaning": "uncovered loss; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the uncovered loss before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá uncovered loss trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "uncovered loss",
+      "uncovered loss review",
+      "uncovered loss process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "uncovered"
+    ],
+    "day": 136
+  },
+  {
+    "id": "underwriting-review-phrase",
+    "word": "underwriting review",
+    "baseWord": "underwriting",
+    "type": "phrase",
+    "meaning": "underwriting review; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the underwriting review before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá underwriting review trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "underwriting review",
+      "underwriting review review",
+      "underwriting review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "underwriting"
+    ],
+    "day": 136
+  },
+  {
+    "id": "compliance-risk-phrase",
+    "word": "compliance risk",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the compliance risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá compliance risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "compliance risk",
+      "compliance risk review",
+      "compliance risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 137
+  },
+  {
+    "id": "credit-risk-phrase",
+    "word": "credit risk",
+    "baseWord": "credit",
+    "type": "phrase",
+    "meaning": "credit risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the credit risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá credit risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "credit risk",
+      "credit risk review",
+      "credit risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "credit"
+    ],
+    "day": 137
+  },
+  {
+    "id": "cyber-risk-phrase",
+    "word": "cyber risk",
+    "baseWord": "cyber",
+    "type": "phrase",
+    "meaning": "cyber risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the cyber risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá cyber risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "cyber risk",
+      "cyber risk review",
+      "cyber risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cyber"
+    ],
+    "day": 137
+  },
+  {
+    "id": "exposure-evaluation-phrase",
+    "word": "exposure evaluation",
+    "baseWord": "exposure",
+    "type": "phrase",
+    "meaning": "exposure evaluation; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The union will negotiate with management over the new salary structure.",
-    "exampleVi": "Công đoàn sẽ đàm phán với ban lãnh đạo về cơ cấu lương mới.",
-    "collocations": ["negotiate a deal", "negotiate terms", "negotiate a contract", "negotiate with"],
-    "synonyms": ["bargain", "discuss", "deliberate"],
-    "wordFamily": ["negotiation", "negotiator", "negotiated", "negotiable"],
-    "day": 136
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the exposure evaluation before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá exposure evaluation trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "exposure evaluation",
+      "exposure evaluation review",
+      "exposure evaluation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "exposure"
+    ],
+    "day": 137
   },
   {
-    "id": "mediate-verb",
-    "word": "mediate",
-    "baseWord": "mediate",
-    "type": "verb",
-    "meaning": "hòa giải, làm trung gian",
-    "pronunciation": "/ˈmiːdieɪt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A neutral third party was brought in to mediate the dispute.",
-    "exampleVi": "Một bên thứ ba trung lập đã được đưa vào để hòa giải tranh chấp.",
-    "collocations": ["mediate a dispute", "mediate between parties", "mediate a conflict"],
-    "synonyms": ["arbitrate", "intervene", "intercede"],
-    "wordFamily": ["mediation", "mediator", "mediated"],
-    "day": 136
-  },
-  {
-    "id": "correspond-verb",
-    "word": "correspond",
-    "baseWord": "correspond",
-    "type": "verb",
-    "meaning": "trao đổi thư từ; tương ứng",
-    "pronunciation": "/ˌkɔːrəˈspɒnd/",
-    "topic": "Advanced Communication",
+    "id": "exposure-log-phrase",
+    "word": "exposure log",
+    "baseWord": "exposure",
+    "type": "phrase",
+    "meaning": "exposure log; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The manager regularly corresponds with overseas partners via email.",
-    "exampleVi": "Người quản lý thường xuyên trao đổi thư từ với các đối tác nước ngoài qua email.",
-    "collocations": ["correspond with", "correspond to", "correspond by email"],
-    "synonyms": ["communicate", "write", "exchange letters"],
-    "wordFamily": ["correspondence", "correspondent", "corresponding"],
-    "day": 136
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the exposure log before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá exposure log trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "exposure log",
+      "exposure log review",
+      "exposure log process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "exposure"
+    ],
+    "day": 137
   },
   {
-    "id": "eloquent-adjective",
-    "word": "eloquent",
-    "baseWord": "eloquent",
-    "type": "adjective",
-    "meaning": "hùng biện, lưu loát",
-    "pronunciation": "/ˈeləkwənt/",
-    "topic": "Advanced Communication",
+    "id": "financial-risk-phrase",
+    "word": "financial risk",
+    "baseWord": "financial",
+    "type": "phrase",
+    "meaning": "financial risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The CEO delivered an eloquent speech at the annual shareholders' meeting.",
-    "exampleVi": "Giám đốc điều hành đã phát biểu một bài diễn văn hùng biện tại cuộc họp cổ đông thường niên.",
-    "collocations": ["eloquent speech", "eloquent speaker", "eloquent argument"],
-    "synonyms": ["articulate", "expressive", "fluent"],
-    "wordFamily": ["eloquence", "eloquently"],
-    "day": 136
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the financial risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá financial risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "financial risk",
+      "financial risk review",
+      "financial risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "financial"
+    ],
+    "day": 137
   },
   {
-    "id": "convey-verb",
-    "word": "convey",
-    "baseWord": "convey",
-    "type": "verb",
-    "meaning": "truyền đạt, chuyển tải",
-    "pronunciation": "/kənˈveɪ/",
-    "topic": "Advanced Communication",
+    "id": "liquidity-risk-phrase",
+    "word": "liquidity risk",
+    "baseWord": "liquidity",
+    "type": "phrase",
+    "meaning": "liquidity risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the liquidity risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá liquidity risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "liquidity risk",
+      "liquidity risk review",
+      "liquidity risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "liquidity"
+    ],
+    "day": 137
+  },
+  {
+    "id": "loss-reduction-strategy-phrase",
+    "word": "loss reduction strategy",
+    "baseWord": "los",
+    "type": "phrase",
+    "meaning": "loss reduction strategy; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the loss reduction strategy before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá loss reduction strategy trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "loss reduction strategy",
+      "loss reduction strategy review",
+      "loss reduction strategy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "los"
+    ],
+    "day": 137
+  },
+  {
+    "id": "market-risk-phrase",
+    "word": "market risk",
+    "baseWord": "market",
+    "type": "phrase",
+    "meaning": "market risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "The report should convey the key findings in a concise manner.",
-    "exampleVi": "Báo cáo nên truyền đạt các phát hiện chính một cách ngắn gọn.",
-    "collocations": ["convey a message", "convey information", "convey meaning", "convey one's thoughts"],
-    "synonyms": ["communicate", "express", "transmit"],
-    "wordFamily": ["conveyance", "conveyed", "conveying"],
-    "day": 136
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the market risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá market risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "market risk",
+      "market risk review",
+      "market risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "market"
+    ],
+    "day": 137
   },
   {
-    "id": "diplomatic-adjective",
-    "word": "diplomatic",
-    "baseWord": "diplomat",
-    "type": "adjective",
-    "meaning": "ngoại giao, khéo léo",
-    "pronunciation": "/ˌdɪpləˈmætɪk/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
+    "id": "operational-risk-phrase",
+    "word": "operational risk",
+    "baseWord": "operational",
+    "type": "phrase",
+    "meaning": "operational risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "She was diplomatic in addressing the client's complaints about the delay.",
-    "exampleVi": "Cô ấy rất khéo léo khi giải quyết các khiếu nại của khách hàng về sự chậm trễ.",
-    "collocations": ["diplomatic approach", "diplomatic response", "diplomatic skills"],
-    "synonyms": ["tactful", "discreet", "sensitive"],
-    "wordFamily": ["diplomacy", "diplomat", "diplomatically"],
-    "day": 136
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the operational risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá operational risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "operational risk",
+      "operational risk review",
+      "operational risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "operational"
+    ],
+    "day": 137
   },
   {
-    "id": "assertive-adjective",
-    "word": "assertive",
-    "baseWord": "assert",
-    "type": "adjective",
-    "meaning": "quyết đoán, tự tin",
-    "pronunciation": "/əˈsɜːrtɪv/",
-    "topic": "Advanced Communication",
+    "id": "reputational-risk-phrase",
+    "word": "reputational risk",
+    "baseWord": "reputational",
+    "type": "phrase",
+    "meaning": "reputational risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the reputational risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá reputational risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "reputational risk",
+      "reputational risk review",
+      "reputational risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reputational"
+    ],
+    "day": 137
+  },
+  {
+    "id": "risk-exposure-phrase",
+    "word": "risk exposure",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk exposure; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Effective leaders need to be assertive without being aggressive.",
-    "exampleVi": "Các nhà lãnh đạo hiệu quả cần quyết đoán mà không hung hăng.",
-    "collocations": ["assertive communication", "assertive tone", "be assertive"],
-    "synonyms": ["confident", "forceful", "decisive"],
-    "wordFamily": ["assert", "assertion", "assertiveness", "assertively"],
-    "day": 136
-  },
-  {
-    "id": "rebut-verb",
-    "word": "rebut",
-    "baseWord": "rebut",
-    "type": "verb",
-    "meaning": "bác bỏ, phản bác",
-    "pronunciation": "/rɪˈbʌt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The spokesperson rebutted the allegations made in the press conference.",
-    "exampleVi": "Người phát ngôn đã bác bỏ các cáo buộc được đưa ra trong cuộc họp báo.",
-    "collocations": ["rebut an argument", "rebut allegations", "rebut claims"],
-    "synonyms": ["refute", "deny", "counter"],
-    "wordFamily": ["rebuttal", "rebutted", "rebutting"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk exposure before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk exposure trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk exposure",
+      "risk exposure review",
+      "risk exposure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
     "day": 137
   },
   {
-    "id": "concur-verb",
-    "word": "concur",
-    "baseWord": "concur",
-    "type": "verb",
-    "meaning": "đồng ý, nhất trí",
-    "pronunciation": "/kənˈkɜːr/",
-    "topic": "Advanced Communication",
+    "id": "risk-factor-phrase",
+    "word": "risk factor",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk factor; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The financial analysts concur that the market will recover by year-end.",
-    "exampleVi": "Các nhà phân tích tài chính nhất trí rằng thị trường sẽ phục hồi vào cuối năm.",
-    "collocations": ["concur with", "experts concur", "generally concur"],
-    "synonyms": ["agree", "accord", "consent"],
-    "wordFamily": ["concurrence", "concurrent", "concurring"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk factor before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk factor trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk factor",
+      "risk factor review",
+      "risk factor process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
     "day": 137
   },
   {
-    "id": "disseminate-verb",
-    "word": "disseminate",
-    "baseWord": "disseminate",
-    "type": "verb",
-    "meaning": "phổ biến, lan truyền",
-    "pronunciation": "/dɪˈsemɪneɪt/",
-    "topic": "Advanced Communication",
+    "id": "risk-matrix-phrase",
+    "word": "risk matrix",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk matrix; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The marketing team will disseminate the product information to all regions.",
-    "exampleVi": "Đội tiếp thị sẽ phổ biến thông tin sản phẩm đến tất cả các khu vực.",
-    "collocations": ["disseminate information", "disseminate knowledge", "widely disseminated"],
-    "synonyms": ["distribute", "spread", "circulate"],
-    "wordFamily": ["dissemination", "disseminated", "disseminating"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk matrix before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk matrix trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk matrix",
+      "risk matrix review",
+      "risk matrix process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
     "day": 137
   },
   {
-    "id": "endorse-verb",
-    "word": "endorse",
-    "baseWord": "endorse",
-    "type": "verb",
-    "meaning": "tán thành, chứng thực, ủng hộ",
-    "pronunciation": "/ɪnˈdɔːrs/",
-    "topic": "Advanced Communication",
+    "id": "risk-profile-phrase",
+    "word": "risk profile",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk profile; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk profile before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk profile trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk profile",
+      "risk profile review",
+      "risk profile process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 137
+  },
+  {
+    "id": "risk-rating-phrase",
+    "word": "risk rating",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk rating; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk rating before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk rating trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk rating",
+      "risk rating review",
+      "risk rating process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 137
+  },
+  {
+    "id": "risk-tolerance-phrase",
+    "word": "risk tolerance",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk tolerance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk tolerance before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk tolerance trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk tolerance",
+      "risk tolerance review",
+      "risk tolerance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 137
+  },
+  {
+    "id": "risk-transfer-phrase",
+    "word": "risk transfer",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk transfer; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk transfer before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk transfer trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk transfer",
+      "risk transfer review",
+      "risk transfer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 137
+  },
+  {
+    "id": "strategic-risk-phrase",
+    "word": "strategic risk",
+    "baseWord": "strategic",
+    "type": "phrase",
+    "meaning": "strategic risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the strategic risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá strategic risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "strategic risk",
+      "strategic risk review",
+      "strategic risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "strategic"
+    ],
+    "day": 137
+  },
+  {
+    "id": "supply-risk-phrase",
+    "word": "supply risk",
+    "baseWord": "supply",
+    "type": "phrase",
+    "meaning": "supply risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Several industry leaders have endorsed the proposed environmental policy.",
-    "exampleVi": "Một số nhà lãnh đạo ngành đã tán thành chính sách môi trường được đề xuất.",
-    "collocations": ["endorse a product", "endorse a candidate", "publicly endorse", "endorse a plan"],
-    "synonyms": ["support", "approve", "back"],
-    "wordFamily": ["endorsement", "endorsed", "endorsing"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the supply risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá supply risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "supply risk",
+      "supply risk review",
+      "supply risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "supply"
+    ],
     "day": 137
   },
   {
-    "id": "reiterate-verb",
-    "word": "reiterate",
-    "baseWord": "reiterate",
-    "type": "verb",
-    "meaning": "nhắc lại, lặp lại",
-    "pronunciation": "/riˈɪtəreɪt/",
-    "topic": "Advanced Communication",
+    "id": "actual-cash-value-phrase",
+    "word": "actual cash value",
+    "baseWord": "actual",
+    "type": "phrase",
+    "meaning": "actual cash value; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the actual cash value before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá actual cash value trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "actual cash value",
+      "actual cash value review",
+      "actual cash value process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "actual"
+    ],
+    "day": 138
+  },
+  {
+    "id": "business-interruption-phrase",
+    "word": "business interruption",
+    "baseWord": "busines",
+    "type": "phrase",
+    "meaning": "business interruption; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the business interruption before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá business interruption trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "business interruption",
+      "business interruption review",
+      "business interruption process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "busines"
+    ],
+    "day": 138
+  },
+  {
+    "id": "casualty-insurance-phrase",
+    "word": "casualty insurance",
+    "baseWord": "casualty",
+    "type": "phrase",
+    "meaning": "casualty insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The manager reiterated the importance of meeting the quarterly deadline.",
-    "exampleVi": "Người quản lý nhắc lại tầm quan trọng của việc đáp ứng thời hạn hàng quý.",
-    "collocations": ["reiterate a point", "reiterate one's position", "reiterate the importance of"],
-    "synonyms": ["repeat", "restate", "reaffirm"],
-    "wordFamily": ["reiteration", "reiterated", "reiterating"],
-    "day": 137
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the casualty insurance before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá casualty insurance trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "casualty insurance",
+      "casualty insurance review",
+      "casualty insurance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "casualty"
+    ],
+    "day": 138
   },
   {
-    "id": "allude-verb",
-    "word": "allude",
-    "baseWord": "allude",
-    "type": "verb",
-    "meaning": "ám chỉ, nói bóng gió",
-    "pronunciation": "/əˈluːd/",
-    "topic": "Advanced Communication",
+    "id": "errors-and-omissions-phrase",
+    "word": "errors and omissions",
+    "baseWord": "error",
+    "type": "phrase",
+    "meaning": "errors and omissions; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the errors and omissions before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá errors and omissions trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "errors and omissions",
+      "errors and omissions review",
+      "errors and omissions process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "error"
+    ],
+    "day": 138
+  },
+  {
+    "id": "fire-insurance-phrase",
+    "word": "fire insurance",
+    "baseWord": "fire",
+    "type": "phrase",
+    "meaning": "fire insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The chairperson alluded to possible organizational changes in her speech.",
-    "exampleVi": "Chủ tịch đã ám chỉ đến những thay đổi tổ chức có thể xảy ra trong bài phát biểu.",
-    "collocations": ["allude to something", "allude to changes", "briefly allude"],
-    "synonyms": ["hint at", "refer to", "suggest"],
-    "wordFamily": ["allusion", "alluded", "alluding"],
-    "day": 137
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the fire insurance before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá fire insurance trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "fire insurance",
+      "fire insurance review",
+      "fire insurance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "fire"
+    ],
+    "day": 138
   },
   {
-    "id": "empathize-verb",
-    "word": "empathize",
-    "baseWord": "empathy",
-    "type": "verb",
-    "meaning": "đồng cảm, thấu cảm",
-    "pronunciation": "/ˈempəθaɪz/",
-    "topic": "Advanced Communication",
+    "id": "general-liability-phrase",
+    "word": "general liability",
+    "baseWord": "general",
+    "type": "phrase",
+    "meaning": "general liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the general liability before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá general liability trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "general liability",
+      "general liability review",
+      "general liability process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "general"
+    ],
+    "day": 138
+  },
+  {
+    "id": "health-insurance-phrase",
+    "word": "health insurance",
+    "baseWord": "health",
+    "type": "phrase",
+    "meaning": "health insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5"],
-    "example": "Customer service representatives must empathize with clients to resolve issues effectively.",
-    "exampleVi": "Đại diện dịch vụ khách hàng phải đồng cảm với khách hàng để giải quyết vấn đề hiệu quả.",
-    "collocations": ["empathize with someone", "ability to empathize", "empathize with customers"],
-    "synonyms": ["sympathize", "understand", "relate to"],
-    "wordFamily": ["empathy", "empathetic", "empathetically"],
-    "day": 137
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the health insurance before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá health insurance trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "health insurance",
+      "health insurance review",
+      "health insurance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "health"
+    ],
+    "day": 138
   },
   {
-    "id": "substantiate-verb",
-    "word": "substantiate",
-    "baseWord": "substantiate",
-    "type": "verb",
-    "meaning": "chứng minh, chứng thực",
-    "pronunciation": "/səbˈstænʃieɪt/",
-    "topic": "Advanced Communication",
+    "id": "insured-value-phrase",
+    "word": "insured value",
+    "baseWord": "insured",
+    "type": "phrase",
+    "meaning": "insured value; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The report includes data to substantiate the claims made by the research team.",
-    "exampleVi": "Báo cáo bao gồm dữ liệu để chứng minh các tuyên bố của nhóm nghiên cứu.",
-    "collocations": ["substantiate a claim", "substantiate allegations", "substantiate findings"],
-    "synonyms": ["verify", "confirm", "validate"],
-    "wordFamily": ["substantiation", "substantiated", "substantiating"],
-    "day": 137
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insured value before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insured value trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insured value",
+      "insured value review",
+      "insured value process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insured"
+    ],
+    "day": 138
   },
   {
-    "id": "correspondence-noun",
-    "word": "correspondence",
-    "baseWord": "correspond",
-    "type": "noun",
-    "meaning": "thư từ, sự trao đổi thư",
-    "pronunciation": "/ˌkɔːrəˈspɒndəns/",
-    "topic": "Advanced Communication",
+    "id": "liability-coverage-phrase",
+    "word": "liability coverage",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "liability coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All business correspondence should be copied to the department head.",
-    "exampleVi": "Tất cả thư từ kinh doanh nên được sao chép cho trưởng phòng.",
-    "collocations": ["business correspondence", "official correspondence", "handle correspondence", "email correspondence"],
-    "synonyms": ["communication", "letters", "mail"],
-    "wordFamily": ["correspond", "correspondent", "corresponding"],
-    "day": 137
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the liability coverage before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá liability coverage trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "liability coverage",
+      "liability coverage review",
+      "liability coverage process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "liability"
+    ],
+    "day": 138
   },
   {
-    "id": "candid-adjective",
-    "word": "candid",
-    "baseWord": "candid",
-    "type": "adjective",
-    "meaning": "thẳng thắn, bộc trực",
-    "pronunciation": "/ˈkændɪd/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The director gave a candid assessment of the project's challenges.",
-    "exampleVi": "Giám đốc đã đưa ra đánh giá thẳng thắn về các thách thức của dự án.",
-    "collocations": ["candid assessment", "candid discussion", "candid feedback", "candid opinion"],
-    "synonyms": ["frank", "honest", "straightforward"],
-    "wordFamily": ["candidly", "candidness", "candor"],
-    "day": 137
-  },
-  {
-    "id": "elaborate-verb",
-    "word": "elaborate",
-    "baseWord": "elaborate",
-    "type": "verb",
-    "meaning": "giải thích chi tiết, trình bày thêm",
-    "pronunciation": "/ɪˈlæbəreɪt/",
-    "topic": "Advanced Communication",
+    "id": "loss-control-phrase",
+    "word": "loss control",
+    "baseWord": "los",
+    "type": "phrase",
+    "meaning": "loss control; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Could you elaborate on your proposal for reducing production costs?",
-    "exampleVi": "Bạn có thể trình bày thêm về đề xuất giảm chi phí sản xuất không?",
-    "collocations": ["elaborate on a point", "elaborate further", "elaborate on details"],
-    "synonyms": ["expand", "explain", "develop"],
-    "wordFamily": ["elaboration", "elaborated", "elaborating", "elaborate"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the loss control before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá loss control trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "loss control",
+      "loss control review",
+      "loss control process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "los"
+    ],
     "day": 138
   },
   {
-    "id": "paraphrase-verb",
-    "word": "paraphrase",
-    "baseWord": "paraphrase",
-    "type": "verb",
-    "meaning": "diễn giải, nói lại bằng lời khác",
-    "pronunciation": "/ˈpærəfreɪz/",
-    "topic": "Advanced Communication",
+    "id": "loss-prevention-phrase",
+    "word": "loss prevention",
+    "baseWord": "los",
+    "type": "phrase",
+    "meaning": "loss prevention; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Let me paraphrase the client's request to make sure I understood correctly.",
-    "exampleVi": "Hãy để tôi diễn giải lại yêu cầu của khách hàng để chắc chắn tôi hiểu đúng.",
-    "collocations": ["paraphrase a statement", "paraphrase accurately", "paraphrase the question"],
-    "synonyms": ["restate", "rephrase", "reword"],
-    "wordFamily": ["paraphrased", "paraphrasing"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the loss prevention before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá loss prevention trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "loss prevention",
+      "loss prevention review",
+      "loss prevention process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "los"
+    ],
     "day": 138
   },
   {
-    "id": "corroborate-verb",
-    "word": "corroborate",
-    "baseWord": "corroborate",
-    "type": "verb",
-    "meaning": "xác nhận, chứng thực",
-    "pronunciation": "/kəˈrɒbəreɪt/",
-    "topic": "Advanced Communication",
+    "id": "loss-ratio-phrase",
+    "word": "loss ratio",
+    "baseWord": "los",
+    "type": "phrase",
+    "meaning": "loss ratio; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the loss ratio before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá loss ratio trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "loss ratio",
+      "loss ratio review",
+      "loss ratio process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "los"
+    ],
+    "day": 138
+  },
+  {
+    "id": "ocean-cargo-coverage-phrase",
+    "word": "ocean cargo coverage",
+    "baseWord": "ocean",
+    "type": "phrase",
+    "meaning": "ocean cargo coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the ocean cargo coverage before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá ocean cargo coverage trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "ocean cargo coverage",
+      "ocean cargo coverage review",
+      "ocean cargo coverage process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ocean"
+    ],
+    "day": 138
+  },
+  {
+    "id": "policy-lapse-phrase",
+    "word": "policy lapse",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy lapse; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The witness was able to corroborate the account given by the employee.",
-    "exampleVi": "Nhân chứng có thể chứng thực lời khai của nhân viên.",
-    "collocations": ["corroborate evidence", "corroborate a story", "corroborate findings"],
-    "synonyms": ["confirm", "verify", "support"],
-    "wordFamily": ["corroboration", "corroborated", "corroborating"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the policy lapse before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá policy lapse trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "policy lapse",
+      "policy lapse review",
+      "policy lapse process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
     "day": 138
   },
   {
-    "id": "succinct-adjective",
-    "word": "succinct",
-    "baseWord": "succinct",
-    "type": "adjective",
-    "meaning": "ngắn gọn, súc tích",
-    "pronunciation": "/səkˈsɪŋkt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Please provide a succinct summary of the quarterly results.",
-    "exampleVi": "Vui lòng cung cấp bản tóm tắt ngắn gọn về kết quả hàng quý.",
-    "collocations": ["succinct summary", "succinct response", "succinct and clear"],
-    "synonyms": ["concise", "brief", "terse"],
-    "wordFamily": ["succinctly", "succinctness"],
-    "day": 138
-  },
-  {
-    "id": "reconciliation-noun",
-    "word": "reconciliation",
-    "baseWord": "reconcile",
-    "type": "noun",
-    "meaning": "sự hòa giải, sự đối chiếu",
-    "pronunciation": "/ˌrekənsɪliˈeɪʃən/",
-    "topic": "Advanced Communication",
+    "id": "product-liability-phrase",
+    "word": "product liability",
+    "baseWord": "product",
+    "type": "phrase",
+    "meaning": "product liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The reconciliation of the two parties' positions took several weeks.",
-    "exampleVi": "Việc hòa giải quan điểm của hai bên đã mất vài tuần.",
-    "collocations": ["bank reconciliation", "achieve reconciliation", "reconciliation process"],
-    "synonyms": ["resolution", "settlement", "compromise"],
-    "wordFamily": ["reconcile", "reconciled", "reconciling"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the product liability before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá product liability trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "product liability",
+      "product liability review",
+      "product liability process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "product"
+    ],
     "day": 138
   },
   {
-    "id": "concession-noun",
-    "word": "concession",
-    "baseWord": "concede",
-    "type": "noun",
-    "meaning": "sự nhượng bộ",
-    "pronunciation": "/kənˈseʃən/",
-    "topic": "Advanced Communication",
+    "id": "professional-liability-phrase",
+    "word": "professional liability",
+    "baseWord": "professional",
+    "type": "phrase",
+    "meaning": "professional liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the professional liability before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá professional liability trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "professional liability",
+      "professional liability review",
+      "professional liability process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "professional"
+    ],
+    "day": 138
+  },
+  {
+    "id": "property-coverage-phrase",
+    "word": "property coverage",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "property coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the property coverage before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá property coverage trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "property coverage",
+      "property coverage review",
+      "property coverage process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "property"
+    ],
+    "day": 138
+  },
+  {
+    "id": "replacement-cost-phrase",
+    "word": "replacement cost",
+    "baseWord": "replacement",
+    "type": "phrase",
+    "meaning": "replacement cost; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Both sides made concessions to reach a mutually acceptable agreement.",
-    "exampleVi": "Cả hai bên đã nhượng bộ để đạt được thỏa thuận cùng chấp nhận được.",
-    "collocations": ["make a concession", "major concession", "price concession", "concession stand"],
-    "synonyms": ["compromise", "allowance", "yielding"],
-    "wordFamily": ["concede", "conceded", "conceding"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the replacement cost before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá replacement cost trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "replacement cost",
+      "replacement cost review",
+      "replacement cost process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "replacement"
+    ],
     "day": 138
   },
   {
-    "id": "reprimand-verb",
-    "word": "reprimand",
-    "baseWord": "reprimand",
-    "type": "verb",
-    "meaning": "khiển trách, quở trách",
-    "pronunciation": "/ˈreprɪmænd/",
-    "topic": "Advanced Communication",
+    "id": "travel-insurance-phrase",
+    "word": "travel insurance",
+    "baseWord": "travel",
+    "type": "phrase",
+    "meaning": "travel insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The employee was reprimanded for violating the company's data security policy.",
-    "exampleVi": "Nhân viên bị khiển trách vì vi phạm chính sách bảo mật dữ liệu của công ty.",
-    "collocations": ["formally reprimand", "reprimand an employee", "reprimand for misconduct"],
-    "synonyms": ["rebuke", "admonish", "censure"],
-    "wordFamily": ["reprimanded", "reprimanding"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the travel insurance before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá travel insurance trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "travel insurance",
+      "travel insurance review",
+      "travel insurance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "travel"
+    ],
     "day": 138
   },
   {
-    "id": "amicable-adjective",
-    "word": "amicable",
-    "baseWord": "amicable",
-    "type": "adjective",
-    "meaning": "thân thiện, hòa nhã",
-    "pronunciation": "/ˈæmɪkəbəl/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The two companies reached an amicable settlement without going to court.",
-    "exampleVi": "Hai công ty đã đạt được thỏa thuận hòa nhã mà không cần ra tòa.",
-    "collocations": ["amicable settlement", "amicable agreement", "amicable resolution"],
-    "synonyms": ["friendly", "cordial", "harmonious"],
-    "wordFamily": ["amicably"],
-    "day": 138
-  },
-  {
-    "id": "elucidate-verb",
-    "word": "elucidate",
-    "baseWord": "elucidate",
-    "type": "verb",
-    "meaning": "làm sáng tỏ, giải thích rõ",
-    "pronunciation": "/ɪˈluːsɪdeɪt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The consultant was asked to elucidate the key points of the proposal.",
-    "exampleVi": "Chuyên gia tư vấn được yêu cầu làm sáng tỏ các điểm chính của đề xuất.",
-    "collocations": ["elucidate a point", "elucidate the matter", "further elucidate"],
-    "synonyms": ["clarify", "explain", "illuminate"],
-    "wordFamily": ["elucidation", "elucidated", "elucidating"],
-    "day": 138
-  },
-  {
-    "id": "consensus-noun",
-    "word": "consensus",
-    "baseWord": "consensus",
-    "type": "noun",
-    "meaning": "sự đồng thuận, sự nhất trí",
-    "pronunciation": "/kənˈsensəs/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The team reached a consensus on the best approach to the project.",
-    "exampleVi": "Nhóm đã đạt được sự đồng thuận về cách tiếp cận tốt nhất cho dự án.",
-    "collocations": ["reach a consensus", "general consensus", "build consensus", "consensus among"],
-    "synonyms": ["agreement", "accord", "unanimity"],
-    "wordFamily": [],
-    "day": 139
-  },
-  {
-    "id": "proposition-noun",
-    "word": "proposition",
-    "baseWord": "propose",
-    "type": "noun",
-    "meaning": "đề xuất, lời đề nghị",
-    "pronunciation": "/ˌprɒpəˈzɪʃən/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The value proposition of our service is clearly stated in the brochure.",
-    "exampleVi": "Đề xuất giá trị của dịch vụ chúng tôi được nêu rõ trong tài liệu quảng cáo.",
-    "collocations": ["value proposition", "business proposition", "attractive proposition"],
-    "synonyms": ["proposal", "offer", "suggestion"],
-    "wordFamily": ["propose", "proposed", "proposing"],
-    "day": 139
-  },
-  {
-    "id": "deliberate-verb",
-    "word": "deliberate",
-    "baseWord": "deliberate",
-    "type": "verb",
-    "meaning": "thảo luận, cân nhắc kỹ",
-    "pronunciation": "/dɪˈlɪbəreɪt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee will deliberate on the matter before making a decision.",
-    "exampleVi": "Ủy ban sẽ thảo luận về vấn đề này trước khi đưa ra quyết định.",
-    "collocations": ["deliberate on a matter", "deliberate carefully", "deliberate over"],
-    "synonyms": ["discuss", "consider", "ponder"],
-    "wordFamily": ["deliberation", "deliberated", "deliberating", "deliberately"],
-    "day": 139
-  },
-  {
-    "id": "concise-adjective",
-    "word": "concise",
-    "baseWord": "concise",
-    "type": "adjective",
-    "meaning": "ngắn gọn, xúc tích",
-    "pronunciation": "/kənˈsaɪs/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "Please keep your report concise and focused on the key issues.",
-    "exampleVi": "Vui lòng giữ báo cáo của bạn ngắn gọn và tập trung vào các vấn đề chính.",
-    "collocations": ["concise summary", "concise and clear", "concise report", "concise language"],
-    "synonyms": ["brief", "succinct", "to the point"],
-    "wordFamily": ["concisely", "conciseness"],
-    "day": 139
-  },
-  {
-    "id": "insinuate-verb",
-    "word": "insinuate",
-    "baseWord": "insinuate",
-    "type": "verb",
-    "meaning": "ám chỉ, ngụ ý (thường tiêu cực)",
-    "pronunciation": "/ɪnˈsɪnjueɪt/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The article seemed to insinuate that the CEO was involved in the scandal.",
-    "exampleVi": "Bài báo dường như ám chỉ rằng giám đốc điều hành có liên quan đến vụ bê bối.",
-    "collocations": ["insinuate wrongdoing", "seem to insinuate", "insinuate that"],
-    "synonyms": ["imply", "suggest", "hint"],
-    "wordFamily": ["insinuation", "insinuated", "insinuating"],
-    "day": 139
-  },
-  {
-    "id": "briefing-noun",
-    "word": "briefing",
-    "baseWord": "brief",
-    "type": "noun",
-    "meaning": "cuộc họp ngắn, buổi thuyết trình tóm tắt",
-    "pronunciation": "/ˈbriːfɪŋ/",
-    "topic": "Advanced Communication",
+    "id": "workers-compensation-phrase",
+    "word": "workers compensation",
+    "baseWord": "worker",
+    "type": "phrase",
+    "meaning": "workers compensation; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The project manager scheduled a briefing for the executive team.",
-    "exampleVi": "Quản lý dự án đã lên lịch một cuộc họp ngắn cho đội ngũ lãnh đạo.",
-    "collocations": ["press briefing", "daily briefing", "security briefing", "attend a briefing"],
-    "synonyms": ["meeting", "presentation", "update"],
-    "wordFamily": ["brief", "briefed", "briefings"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the workers compensation before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá workers compensation trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "workers compensation",
+      "workers compensation review",
+      "workers compensation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "worker"
+    ],
+    "day": 138
+  },
+  {
+    "id": "actuarial-analysis-phrase",
+    "word": "actuarial analysis",
+    "baseWord": "actuarial",
+    "type": "phrase",
+    "meaning": "actuarial analysis; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the actuarial analysis before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá actuarial analysis trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "actuarial analysis",
+      "actuarial analysis review",
+      "actuarial analysis process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "actuarial"
+    ],
     "day": 139
   },
   {
-    "id": "discretion-noun",
-    "word": "discretion",
-    "baseWord": "discreet",
-    "type": "noun",
-    "meaning": "sự thận trọng, quyền quyết định",
-    "pronunciation": "/dɪˈskreʃən/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
+    "id": "actuarial-table-phrase",
+    "word": "actuarial table",
+    "baseWord": "actuarial",
+    "type": "phrase",
+    "meaning": "actuarial table; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Managers are expected to use their discretion when handling sensitive matters.",
-    "exampleVi": "Các quản lý được kỳ vọng sử dụng quyền quyết định khi xử lý các vấn đề nhạy cảm.",
-    "collocations": ["at one's discretion", "use discretion", "exercise discretion", "managerial discretion"],
-    "synonyms": ["judgment", "prudence", "caution"],
-    "wordFamily": ["discreet", "discreetly", "discretionary"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the actuarial table before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá actuarial table trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "actuarial table",
+      "actuarial table review",
+      "actuarial table process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "actuarial"
+    ],
     "day": 139
   },
   {
-    "id": "coherent-adjective",
-    "word": "coherent",
-    "baseWord": "coherent",
-    "type": "adjective",
-    "meaning": "mạch lạc, nhất quán",
-    "pronunciation": "/koʊˈhɪərənt/",
-    "topic": "Advanced Communication",
+    "id": "catastrophe-risk-phrase",
+    "word": "catastrophe risk",
+    "baseWord": "catastrophe",
+    "type": "phrase",
+    "meaning": "catastrophe risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The proposal must present a coherent strategy for market expansion.",
-    "exampleVi": "Đề xuất phải trình bày một chiến lược mạch lạc cho việc mở rộng thị trường.",
-    "collocations": ["coherent plan", "coherent strategy", "coherent argument", "coherent message"],
-    "synonyms": ["logical", "consistent", "clear"],
-    "wordFamily": ["coherence", "coherently", "incoherent"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the catastrophe risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá catastrophe risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "catastrophe risk",
+      "catastrophe risk review",
+      "catastrophe risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "catastrophe"
+    ],
     "day": 139
   },
   {
-    "id": "refrain-verb",
-    "word": "refrain",
-    "baseWord": "refrain",
-    "type": "verb",
-    "meaning": "kiềm chế, tránh làm",
-    "pronunciation": "/rɪˈfreɪn/",
-    "topic": "Advanced Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Employees are asked to refrain from using personal devices during meetings.",
-    "exampleVi": "Nhân viên được yêu cầu tránh sử dụng thiết bị cá nhân trong các cuộc họp.",
-    "collocations": ["refrain from doing", "kindly refrain", "refrain from commenting"],
-    "synonyms": ["abstain", "avoid", "desist"],
-    "wordFamily": ["refrained", "refraining"],
+    "id": "claim-investigation-phrase",
+    "word": "claim investigation",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim investigation; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim investigation before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim investigation trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim investigation",
+      "claim investigation review",
+      "claim investigation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
     "day": 139
   },
   {
-    "id": "disclosure-noun",
-    "word": "disclosure",
-    "baseWord": "disclose",
-    "type": "noun",
-    "meaning": "sự tiết lộ, sự công bố",
-    "pronunciation": "/dɪsˈkloʊʒər/",
-    "topic": "Advanced Communication",
+    "id": "coverage-verification-phrase",
+    "word": "coverage verification",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "coverage verification; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the coverage verification before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá coverage verification trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "coverage verification",
+      "coverage verification review",
+      "coverage verification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "coverage"
+    ],
+    "day": 139
+  },
+  {
+    "id": "emergency-fallback-plan-phrase",
+    "word": "emergency fallback plan",
+    "baseWord": "emergency",
+    "type": "phrase",
+    "meaning": "emergency fallback plan; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the emergency fallback plan before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá emergency fallback plan trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "emergency fallback plan",
+      "emergency fallback plan review",
+      "emergency fallback plan process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "emergency"
+    ],
+    "day": 139
+  },
+  {
+    "id": "emergency-reserve-phrase",
+    "word": "emergency reserve",
+    "baseWord": "emergency",
+    "type": "phrase",
+    "meaning": "emergency reserve; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the emergency reserve before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá emergency reserve trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "emergency reserve",
+      "emergency reserve review",
+      "emergency reserve process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "emergency"
+    ],
+    "day": 139
+  },
+  {
+    "id": "fraudulent-claim-phrase",
+    "word": "fraudulent claim",
+    "baseWord": "fraudulent",
+    "type": "phrase",
+    "meaning": "fraudulent claim; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Full disclosure of financial interests is required for all board members.",
-    "exampleVi": "Việc công bố đầy đủ lợi ích tài chính là bắt buộc đối với tất cả thành viên hội đồng quản trị.",
-    "collocations": ["full disclosure", "public disclosure", "disclosure requirements", "financial disclosure"],
-    "synonyms": ["revelation", "announcement", "declaration"],
-    "wordFamily": ["disclose", "disclosed", "disclosing"],
-    "day": 140
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the fraudulent claim before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá fraudulent claim trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "fraudulent claim",
+      "fraudulent claim review",
+      "fraudulent claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "fraudulent"
+    ],
+    "day": 139
   },
   {
-    "id": "denounce-verb",
-    "word": "denounce",
-    "baseWord": "denounce",
-    "type": "verb",
-    "meaning": "lên án, tố cáo",
-    "pronunciation": "/dɪˈnaʊns/",
-    "topic": "Advanced Communication",
+    "id": "hazard-identification-phrase",
+    "word": "hazard identification",
+    "baseWord": "hazard",
+    "type": "phrase",
+    "meaning": "hazard identification; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the hazard identification before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá hazard identification trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "hazard identification",
+      "hazard identification review",
+      "hazard identification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "hazard"
+    ],
+    "day": 139
+  },
+  {
+    "id": "incident-report-phrase",
+    "word": "incident report",
+    "baseWord": "incident",
+    "type": "phrase",
+    "meaning": "incident report; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Consumer groups denounced the company's misleading advertising practices.",
-    "exampleVi": "Các nhóm người tiêu dùng đã lên án hành vi quảng cáo gây hiểu lầm của công ty.",
-    "collocations": ["denounce practices", "publicly denounce", "denounce corruption"],
-    "synonyms": ["condemn", "criticize", "censure"],
-    "wordFamily": ["denunciation", "denounced", "denouncing"],
-    "day": 140
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the incident report before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá incident report trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "incident report",
+      "incident report review",
+      "incident report process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "incident"
+    ],
+    "day": 139
   },
   {
-    "id": "misconstrue-verb",
-    "word": "misconstrue",
-    "baseWord": "construe",
-    "type": "verb",
-    "meaning": "hiểu sai, giải thích sai",
-    "pronunciation": "/ˌmɪskənˈstruː/",
-    "topic": "Advanced Communication",
+    "id": "insurance-broker-phrase",
+    "word": "insurance broker",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance broker; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The manager's comments were misconstrued by the media.",
-    "exampleVi": "Nhận xét của người quản lý đã bị truyền thông hiểu sai.",
-    "collocations": ["misconstrue a statement", "easily misconstrued", "misconstrue intentions"],
-    "synonyms": ["misinterpret", "misunderstand", "misread"],
-    "wordFamily": ["misconstrued", "misconstruing", "misconstruction"],
-    "day": 140
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance broker before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance broker trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance broker",
+      "insurance broker review",
+      "insurance broker process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
+    "day": 139
   },
   {
-    "id": "allegation-noun",
-    "word": "allegation",
-    "baseWord": "allege",
-    "type": "noun",
-    "meaning": "cáo buộc, lời buộc tội",
-    "pronunciation": "/ˌæləˈɡeɪʃən/",
-    "topic": "Advanced Communication",
+    "id": "insurance-carrier-phrase",
+    "word": "insurance carrier",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance carrier; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance carrier before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance carrier trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance carrier",
+      "insurance carrier review",
+      "insurance carrier process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
+    "day": 139
+  },
+  {
+    "id": "insurance-certificate-phrase",
+    "word": "insurance certificate",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance certificate; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company denied all allegations of financial misconduct.",
-    "exampleVi": "Công ty phủ nhận tất cả các cáo buộc về hành vi sai trái tài chính.",
-    "collocations": ["serious allegation", "deny allegations", "allegations of fraud", "unsubstantiated allegations"],
-    "synonyms": ["accusation", "claim", "charge"],
-    "wordFamily": ["allege", "alleged", "allegedly"],
-    "day": 140
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance certificate before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance certificate trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance certificate",
+      "insurance certificate review",
+      "insurance certificate process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
+    "day": 139
   },
   {
-    "id": "retract-verb",
-    "word": "retract",
-    "baseWord": "retract",
-    "type": "verb",
-    "meaning": "rút lại, thu hồi (lời nói)",
-    "pronunciation": "/rɪˈtrækt/",
-    "topic": "Advanced Communication",
+    "id": "mortality-rate-phrase",
+    "word": "mortality rate",
+    "baseWord": "mortality",
+    "type": "phrase",
+    "meaning": "mortality rate; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The newspaper was forced to retract the article due to inaccuracies.",
-    "exampleVi": "Tờ báo buộc phải rút lại bài báo do có sai sót.",
-    "collocations": ["retract a statement", "retract an offer", "forced to retract"],
-    "synonyms": ["withdraw", "revoke", "take back"],
-    "wordFamily": ["retraction", "retracted", "retracting"],
-    "day": 140
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the mortality rate before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá mortality rate trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "mortality rate",
+      "mortality rate review",
+      "mortality rate process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "mortality"
+    ],
+    "day": 139
   },
   {
-    "id": "construe-verb",
-    "word": "construe",
-    "baseWord": "construe",
-    "type": "verb",
-    "meaning": "giải thích, hiểu theo cách",
-    "pronunciation": "/kənˈstruː/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The silence should not be construed as agreement with the proposal.",
-    "exampleVi": "Sự im lặng không nên được hiểu là đồng ý với đề xuất.",
-    "collocations": ["construe as", "broadly construed", "construed to mean"],
-    "synonyms": ["interpret", "understand", "read"],
-    "wordFamily": ["construction", "construed", "construing", "misconstrue"],
-    "day": 140
-  },
-  {
-    "id": "verbatim-adverb",
-    "word": "verbatim",
-    "baseWord": "verbatim",
-    "type": "adverb",
-    "meaning": "nguyên văn, từng chữ một",
-    "pronunciation": "/vɜːrˈbeɪtɪm/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The secretary recorded the CEO's remarks verbatim.",
-    "exampleVi": "Thư ký đã ghi lại nhận xét của giám đốc điều hành nguyên văn.",
-    "collocations": ["quote verbatim", "verbatim transcript", "repeat verbatim"],
-    "synonyms": ["word for word", "exactly", "literally"],
-    "wordFamily": [],
-    "day": 140
-  },
-  {
-    "id": "unequivocal-adjective",
-    "word": "unequivocal",
-    "baseWord": "equivocal",
-    "type": "adjective",
-    "meaning": "rõ ràng, dứt khoát",
-    "pronunciation": "/ˌʌnɪˈkwɪvəkəl/",
-    "topic": "Advanced Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The board issued an unequivocal statement denying any wrongdoing.",
-    "exampleVi": "Hội đồng quản trị đã đưa ra tuyên bố dứt khoát phủ nhận mọi hành vi sai trái.",
-    "collocations": ["unequivocal support", "unequivocal statement", "unequivocal denial"],
-    "synonyms": ["clear", "definite", "absolute"],
-    "wordFamily": ["unequivocally", "equivocal"],
-    "day": 140
-  },
-  {
-    "id": "liaison-noun",
-    "word": "liaison",
-    "baseWord": "liaison",
-    "type": "noun",
-    "meaning": "liên lạc viên, sự liên lạc",
-    "pronunciation": "/liˈeɪzɒn/",
-    "topic": "Advanced Communication",
+    "id": "premium-quote-phrase",
+    "word": "premium quote",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "premium quote; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "She serves as the liaison between the engineering and marketing departments.",
-    "exampleVi": "Cô ấy đóng vai trò liên lạc viên giữa phòng kỹ thuật và phòng tiếp thị.",
-    "collocations": ["liaison officer", "act as liaison", "liaison between departments"],
-    "synonyms": ["coordinator", "contact", "intermediary"],
-    "wordFamily": ["liaise", "liaising"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the premium quote before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá premium quote trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "premium quote",
+      "premium quote review",
+      "premium quote process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "premium"
+    ],
+    "day": 139
+  },
+  {
+    "id": "reinsurance-contract-phrase",
+    "word": "reinsurance contract",
+    "baseWord": "reinsurance",
+    "type": "phrase",
+    "meaning": "reinsurance contract; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the reinsurance contract before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá reinsurance contract trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "reinsurance contract",
+      "reinsurance contract review",
+      "reinsurance contract process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reinsurance"
+    ],
+    "day": 139
+  },
+  {
+    "id": "risk-committee-phrase",
+    "word": "risk committee",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk committee; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk committee before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk committee trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk committee",
+      "risk committee review",
+      "risk committee process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 139
+  },
+  {
+    "id": "risk-pooling-phrase",
+    "word": "risk pooling",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk pooling; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk pooling before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk pooling trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk pooling",
+      "risk pooling review",
+      "risk pooling process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 139
+  },
+  {
+    "id": "safety-inspection-phrase",
+    "word": "safety inspection",
+    "baseWord": "safety",
+    "type": "phrase",
+    "meaning": "safety inspection; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the safety inspection before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá safety inspection trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "safety inspection",
+      "safety inspection review",
+      "safety inspection process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "safety"
+    ],
+    "day": 139
+  },
+  {
+    "id": "underwriting-guideline-phrase",
+    "word": "underwriting guideline",
+    "baseWord": "underwriting",
+    "type": "phrase",
+    "meaning": "underwriting guideline; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the underwriting guideline before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá underwriting guideline trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "underwriting guideline",
+      "underwriting guideline review",
+      "underwriting guideline process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "underwriting"
+    ],
+    "day": 139
+  },
+  {
+    "id": "business-continuity-phrase",
+    "word": "business continuity",
+    "baseWord": "busines",
+    "type": "phrase",
+    "meaning": "business continuity; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the business continuity before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá business continuity trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "business continuity",
+      "business continuity review",
+      "business continuity process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "busines"
+    ],
+    "day": 140
+  },
+  {
+    "id": "claim-denial-phrase",
+    "word": "claim denial",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "claim denial; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the claim denial before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá claim denial trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "claim denial",
+      "claim denial review",
+      "claim denial process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 140
+  },
+  {
+    "id": "control-measure-phrase",
+    "word": "control measure",
+    "baseWord": "control",
+    "type": "phrase",
+    "meaning": "control measure; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the control measure before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá control measure trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "control measure",
+      "control measure review",
+      "control measure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "control"
+    ],
+    "day": 140
+  },
+  {
+    "id": "coverage-extension-phrase",
+    "word": "coverage extension",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "coverage extension; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the coverage extension before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá coverage extension trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "coverage extension",
+      "coverage extension review",
+      "coverage extension process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "coverage"
+    ],
+    "day": 140
+  },
+  {
+    "id": "crisis-response-phrase",
+    "word": "crisis response",
+    "baseWord": "crisi",
+    "type": "phrase",
+    "meaning": "crisis response; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the crisis response before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá crisis response trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "crisis response",
+      "crisis response review",
+      "crisis response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "crisi"
+    ],
+    "day": 140
+  },
+  {
+    "id": "damage-assessment-phrase",
+    "word": "damage assessment",
+    "baseWord": "damage",
+    "type": "phrase",
+    "meaning": "damage assessment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the damage assessment before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá damage assessment trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "damage assessment",
+      "damage assessment review",
+      "damage assessment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "damage"
+    ],
+    "day": 140
+  },
+  {
+    "id": "disaster-recovery-phrase",
+    "word": "disaster recovery",
+    "baseWord": "disaster",
+    "type": "phrase",
+    "meaning": "disaster recovery; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the disaster recovery before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá disaster recovery trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "disaster recovery",
+      "disaster recovery review",
+      "disaster recovery process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "disaster"
+    ],
+    "day": 140
+  },
+  {
+    "id": "emergency-response-phrase",
+    "word": "emergency response",
+    "baseWord": "emergency",
+    "type": "phrase",
+    "meaning": "emergency response; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the emergency response before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá emergency response trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "emergency response",
+      "emergency response review",
+      "emergency response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "emergency"
+    ],
+    "day": 140
+  },
+  {
+    "id": "inherent-risk-phrase",
+    "word": "inherent risk",
+    "baseWord": "inherent",
+    "type": "phrase",
+    "meaning": "inherent risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the inherent risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá inherent risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "inherent risk",
+      "inherent risk review",
+      "inherent risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "inherent"
+    ],
+    "day": 140
+  },
+  {
+    "id": "insurance-audit-phrase",
+    "word": "insurance audit",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "insurance audit; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the insurance audit before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá insurance audit trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "insurance audit",
+      "insurance audit review",
+      "insurance audit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "insurance"
+    ],
+    "day": 140
+  },
+  {
+    "id": "liability-waiver-phrase",
+    "word": "liability waiver",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "liability waiver; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the liability waiver before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá liability waiver trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "liability waiver",
+      "liability waiver review",
+      "liability waiver process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "liability"
+    ],
+    "day": 140
+  },
+  {
+    "id": "loss-estimate-phrase",
+    "word": "loss estimate",
+    "baseWord": "los",
+    "type": "phrase",
+    "meaning": "loss estimate; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the loss estimate before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá loss estimate trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "loss estimate",
+      "loss estimate review",
+      "loss estimate process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "los"
+    ],
+    "day": 140
+  },
+  {
+    "id": "policy-amendment-phrase",
+    "word": "policy amendment",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy amendment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the policy amendment before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá policy amendment trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "policy amendment",
+      "policy amendment review",
+      "policy amendment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 140
+  },
+  {
+    "id": "premium-adjustment-phrase",
+    "word": "premium adjustment",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "premium adjustment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the premium adjustment before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá premium adjustment trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "premium adjustment",
+      "premium adjustment review",
+      "premium adjustment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "premium"
+    ],
+    "day": 140
+  },
+  {
+    "id": "residual-risk-phrase",
+    "word": "residual risk",
+    "baseWord": "residual",
+    "type": "phrase",
+    "meaning": "residual risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the residual risk before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá residual risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "residual risk",
+      "residual risk review",
+      "residual risk process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "residual"
+    ],
+    "day": 140
+  },
+  {
+    "id": "risk-advisory-phrase",
+    "word": "risk advisory",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk advisory; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk advisory before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk advisory trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk advisory",
+      "risk advisory review",
+      "risk advisory process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 140
+  },
+  {
+    "id": "risk-appetite-phrase",
+    "word": "risk appetite",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk appetite; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk appetite before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk appetite trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk appetite",
+      "risk appetite review",
+      "risk appetite process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 140
+  },
+  {
+    "id": "risk-dashboard-phrase",
+    "word": "risk dashboard",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk dashboard; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk dashboard before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk dashboard trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk dashboard",
+      "risk dashboard review",
+      "risk dashboard process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 140
+  },
+  {
+    "id": "risk-owner-phrase",
+    "word": "risk owner",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk owner; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk owner before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk owner trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk owner",
+      "risk owner review",
+      "risk owner process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 140
+  },
+  {
+    "id": "risk-threshold-phrase",
+    "word": "risk threshold",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk threshold; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The risk manager evaluated the risk threshold before renewing the policy.",
+    "exampleVi": "Quản lý rủi ro đã đánh giá risk threshold trước khi gia hạn hợp đồng bảo hiểm.",
+    "collocations": [
+      "risk threshold",
+      "risk threshold review",
+      "risk threshold process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
     "day": 140
   }
 ]

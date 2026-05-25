@@ -1,848 +1,2977 @@
 [
   {
-    "id": "merger-noun",
-    "word": "merger",
-    "baseWord": "merge",
-    "type": "noun",
-    "meaning": "sự sáp nhập",
-    "pronunciation": "/ˈmɜːrdʒər/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The merger between the two companies was finalized last quarter.",
-    "exampleVi": "Việc sáp nhập giữa hai công ty đã được hoàn tất vào quý trước.",
-    "collocations": ["corporate merger", "merger agreement", "propose a merger", "merger and acquisition"],
-    "synonyms": ["consolidation", "amalgamation"],
-    "wordFamily": ["merge", "merged", "merging"],
-    "day": 126
-  },
-  {
-    "id": "acquisition-noun",
-    "word": "acquisition",
-    "baseWord": "acquire",
-    "type": "noun",
-    "meaning": "sự mua lại, sự thâu tóm",
-    "pronunciation": "/ˌækwɪˈzɪʃən/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The acquisition of the startup will strengthen our technology division.",
-    "exampleVi": "Việc mua lại công ty khởi nghiệp sẽ củng cố bộ phận công nghệ của chúng tôi.",
-    "collocations": ["hostile acquisition", "complete an acquisition", "acquisition strategy", "acquisition cost"],
-    "synonyms": ["purchase", "takeover"],
-    "wordFamily": ["acquire", "acquired", "acquiring"],
-    "day": 126
-  },
-  {
-    "id": "shareholder-noun",
-    "word": "shareholder",
-    "baseWord": "shareholder",
-    "type": "noun",
-    "meaning": "cổ đông",
-    "pronunciation": "/ˈʃerhoʊldər/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Shareholders will vote on the proposed changes at the annual meeting.",
-    "exampleVi": "Các cổ đông sẽ bỏ phiếu về các thay đổi được đề xuất tại cuộc họp thường niên.",
-    "collocations": ["majority shareholder", "shareholder meeting", "shareholder approval", "shareholder value"],
-    "synonyms": ["stockholder", "investor"],
-    "wordFamily": ["share", "shareholding"],
-    "day": 126
-  },
-  {
-    "id": "dividend-noun",
-    "word": "dividend",
-    "baseWord": "dividend",
-    "type": "noun",
-    "meaning": "cổ tức",
-    "pronunciation": "/ˈdɪvɪdend/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The board declared a quarterly dividend of $0.50 per share.",
-    "exampleVi": "Hội đồng quản trị đã công bố cổ tức hàng quý là 0,50 đô la mỗi cổ phiếu.",
-    "collocations": ["pay a dividend", "dividend yield", "quarterly dividend", "dividend payment"],
-    "synonyms": ["payout", "distribution"],
-    "wordFamily": ["dividends"],
-    "day": 126
-  },
-  {
-    "id": "governance-noun",
-    "word": "governance",
-    "baseWord": "govern",
-    "type": "noun",
-    "meaning": "sự quản trị, sự điều hành",
-    "pronunciation": "/ˈɡʌvərnəns/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company has adopted new corporate governance standards.",
-    "exampleVi": "Công ty đã áp dụng các tiêu chuẩn quản trị doanh nghiệp mới.",
-    "collocations": ["corporate governance", "governance structure", "governance policy", "good governance"],
-    "synonyms": ["administration", "management"],
-    "wordFamily": ["govern", "governor", "governing", "governmental"],
-    "day": 126
-  },
-  {
-    "id": "stake-noun",
-    "word": "stake",
-    "baseWord": "stake",
-    "type": "noun",
-    "meaning": "cổ phần, phần sở hữu",
-    "pronunciation": "/steɪk/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The investment firm acquired a 30% stake in the company.",
-    "exampleVi": "Công ty đầu tư đã mua lại 30% cổ phần trong công ty.",
-    "collocations": ["majority stake", "minority stake", "acquire a stake", "ownership stake"],
-    "synonyms": ["share", "interest", "holding"],
-    "wordFamily": ["stakeholder", "stakes"],
-    "day": 126
-  },
-  {
-    "id": "subsidiary-noun",
-    "word": "subsidiary",
-    "baseWord": "subsidiary",
-    "type": "noun",
-    "meaning": "công ty con",
-    "pronunciation": "/səbˈsɪdiˌeri/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The corporation operates through several overseas subsidiaries.",
-    "exampleVi": "Tập đoàn hoạt động thông qua một số công ty con ở nước ngoài.",
-    "collocations": ["wholly-owned subsidiary", "foreign subsidiary", "establish a subsidiary"],
-    "synonyms": ["affiliate", "branch"],
-    "wordFamily": ["subsidiaries"],
-    "day": 126
-  },
-  {
-    "id": "conglomerate-noun",
-    "word": "conglomerate",
-    "baseWord": "conglomerate",
-    "type": "noun",
-    "meaning": "tập đoàn đa ngành",
-    "pronunciation": "/kənˈɡlɒmərət/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The conglomerate has business interests in electronics, real estate, and finance.",
-    "exampleVi": "Tập đoàn đa ngành có lợi ích kinh doanh trong lĩnh vực điện tử, bất động sản và tài chính.",
-    "collocations": ["industrial conglomerate", "global conglomerate", "media conglomerate"],
-    "synonyms": ["corporation", "group"],
-    "wordFamily": ["conglomerates", "conglomeration"],
-    "day": 126
-  },
-  {
-    "id": "equity-noun",
-    "word": "equity",
-    "baseWord": "equity",
-    "type": "noun",
-    "meaning": "vốn chủ sở hữu, cổ phần",
-    "pronunciation": "/ˈekwɪti/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Private equity firms are showing interest in the deal.",
-    "exampleVi": "Các công ty cổ phần tư nhân đang thể hiện sự quan tâm đến thương vụ này.",
-    "collocations": ["private equity", "equity investment", "equity stake", "shareholder equity"],
-    "synonyms": ["ownership", "capital"],
-    "wordFamily": ["equities", "equitable"],
-    "day": 126
-  },
-  {
-    "id": "divest-verb",
-    "word": "divest",
-    "baseWord": "divest",
-    "type": "verb",
-    "meaning": "thoái vốn, bán bớt tài sản",
-    "pronunciation": "/daɪˈvest/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company plans to divest its non-core business units.",
-    "exampleVi": "Công ty có kế hoạch thoái vốn khỏi các đơn vị kinh doanh không cốt lõi.",
-    "collocations": ["divest assets", "divest holdings", "divest a division"],
-    "synonyms": ["sell off", "dispose of"],
-    "wordFamily": ["divestiture", "divestment", "divested"],
-    "day": 126
-  },
-  {
-    "id": "prospectus-noun",
-    "word": "prospectus",
-    "baseWord": "prospectus",
-    "type": "noun",
-    "meaning": "bản cáo bạch",
-    "pronunciation": "/prəˈspektəs/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Investors should carefully review the prospectus before purchasing shares.",
-    "exampleVi": "Nhà đầu tư nên xem xét kỹ bản cáo bạch trước khi mua cổ phiếu.",
-    "collocations": ["investment prospectus", "issue a prospectus", "review the prospectus"],
-    "synonyms": ["brochure", "offering document"],
-    "wordFamily": ["prospectuses"],
-    "day": 127
-  },
-  {
-    "id": "takeover-noun",
-    "word": "takeover",
-    "baseWord": "takeover",
-    "type": "noun",
-    "meaning": "sự tiếp quản, sự thâu tóm",
-    "pronunciation": "/ˈteɪkoʊvər/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The hostile takeover bid was rejected by the board of directors.",
-    "exampleVi": "Đề nghị thâu tóm thù địch đã bị hội đồng quản trị từ chối.",
-    "collocations": ["hostile takeover", "takeover bid", "takeover attempt", "corporate takeover"],
-    "synonyms": ["acquisition", "buyout"],
-    "wordFamily": ["take over"],
-    "day": 127
-  },
-  {
-    "id": "capitalize-verb",
-    "word": "capitalize",
-    "baseWord": "capitalize",
-    "type": "verb",
-    "meaning": "vốn hóa, tận dụng",
-    "pronunciation": "/ˈkæpɪtəlaɪz/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The firm is well-positioned to capitalize on emerging markets.",
-    "exampleVi": "Công ty ở vị thế tốt để tận dụng các thị trường mới nổi.",
-    "collocations": ["capitalize on opportunities", "well-capitalized", "capitalize on growth"],
-    "synonyms": ["exploit", "leverage"],
-    "wordFamily": ["capital", "capitalization", "capitalized"],
-    "day": 127
-  },
-  {
-    "id": "liquidate-verb",
-    "word": "liquidate",
-    "baseWord": "liquidate",
-    "type": "verb",
-    "meaning": "thanh lý, giải thể",
-    "pronunciation": "/ˈlɪkwɪdeɪt/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The court ordered the company to liquidate its remaining assets.",
-    "exampleVi": "Tòa án ra lệnh cho công ty thanh lý các tài sản còn lại.",
-    "collocations": ["liquidate assets", "liquidate inventory", "forced to liquidate"],
-    "synonyms": ["dissolve", "wind up"],
-    "wordFamily": ["liquidation", "liquidator", "liquidated"],
-    "day": 127
-  },
-  {
-    "id": "fiduciary-adjective",
-    "word": "fiduciary",
-    "baseWord": "fiduciary",
-    "type": "adjective",
-    "meaning": "thuộc ủy thác, thuộc trách nhiệm tín thác",
-    "pronunciation": "/fɪˈduːʃiˌeri/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Board members have a fiduciary duty to act in the best interests of shareholders.",
-    "exampleVi": "Các thành viên hội đồng quản trị có nghĩa vụ ủy thác để hành động vì lợi ích tốt nhất của cổ đông.",
-    "collocations": ["fiduciary duty", "fiduciary responsibility", "fiduciary obligation"],
-    "synonyms": ["trustee", "custodial"],
-    "wordFamily": ["fiduciaries"],
-    "day": 127
-  },
-  {
-    "id": "solvent-adjective",
-    "word": "solvent",
-    "baseWord": "solvent",
-    "type": "adjective",
-    "meaning": "có khả năng thanh toán",
-    "pronunciation": "/ˈsɒlvənt/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Despite the economic downturn, the company remained solvent.",
-    "exampleVi": "Bất chấp suy thoái kinh tế, công ty vẫn có khả năng thanh toán.",
-    "collocations": ["remain solvent", "financially solvent", "keep the business solvent"],
-    "synonyms": ["financially stable", "creditworthy"],
-    "wordFamily": ["solvency", "insolvency", "insolvent"],
-    "day": 127
-  },
-  {
-    "id": "leverage-noun",
-    "word": "leverage",
-    "baseWord": "leverage",
-    "type": "noun",
-    "meaning": "đòn bẩy tài chính, ảnh hưởng",
-    "pronunciation": "/ˈlevərɪdʒ/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company used its market position as leverage in the negotiations.",
-    "exampleVi": "Công ty đã sử dụng vị thế thị trường làm đòn bẩy trong các cuộc đàm phán.",
-    "collocations": ["financial leverage", "gain leverage", "use leverage", "leverage ratio"],
-    "synonyms": ["influence", "advantage"],
-    "wordFamily": ["leveraged", "leveraging"],
-    "day": 127
-  },
-  {
-    "id": "leverage-verb",
-    "word": "leverage",
-    "baseWord": "leverage",
-    "type": "verb",
-    "meaning": "tận dụng, sử dụng đòn bẩy",
-    "pronunciation": "/ˈlevərɪdʒ/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We need to leverage our existing partnerships to enter new markets.",
-    "exampleVi": "Chúng ta cần tận dụng các mối quan hệ đối tác hiện có để thâm nhập thị trường mới.",
-    "collocations": ["leverage resources", "leverage technology", "leverage expertise"],
-    "synonyms": ["utilize", "exploit"],
-    "wordFamily": ["leveraged", "leveraging"],
-    "day": 127
-  },
-  {
-    "id": "consortium-noun",
-    "word": "consortium",
-    "baseWord": "consortium",
-    "type": "noun",
-    "meaning": "liên doanh, tập đoàn liên kết",
-    "pronunciation": "/kənˈsɔːrtiəm/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "A consortium of banks agreed to finance the infrastructure project.",
-    "exampleVi": "Một liên doanh các ngân hàng đã đồng ý tài trợ cho dự án cơ sở hạ tầng.",
-    "collocations": ["banking consortium", "international consortium", "form a consortium"],
-    "synonyms": ["alliance", "syndicate", "partnership"],
-    "wordFamily": ["consortia", "consortiums"],
-    "day": 127
-  },
-  {
-    "id": "benchmark-noun",
-    "word": "benchmark",
-    "baseWord": "benchmark",
-    "type": "noun",
-    "meaning": "tiêu chuẩn đánh giá, chuẩn mực",
-    "pronunciation": "/ˈbentʃmɑːrk/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company's performance exceeded the industry benchmark.",
-    "exampleVi": "Hiệu suất của công ty đã vượt chuẩn mực ngành.",
-    "collocations": ["industry benchmark", "set a benchmark", "benchmark performance", "against the benchmark"],
-    "synonyms": ["standard", "reference point"],
-    "wordFamily": ["benchmarking", "benchmarked"],
-    "day": 127
-  },
-  {
-    "id": "proxy-noun",
-    "word": "proxy",
-    "baseWord": "proxy",
-    "type": "noun",
-    "meaning": "người được ủy quyền, sự ủy quyền",
-    "pronunciation": "/ˈprɒksi/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Shareholders may vote by proxy if they cannot attend the meeting.",
-    "exampleVi": "Cổ đông có thể bỏ phiếu qua ủy quyền nếu không thể tham dự cuộc họp.",
-    "collocations": ["vote by proxy", "proxy statement", "proxy vote", "appoint a proxy"],
-    "synonyms": ["representative", "delegate", "agent"],
-    "wordFamily": ["proxies"],
-    "day": 128
-  },
-  {
-    "id": "venture-noun",
-    "word": "venture",
-    "baseWord": "venture",
-    "type": "noun",
-    "meaning": "dự án kinh doanh mạo hiểm",
-    "pronunciation": "/ˈventʃər/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The joint venture between the two firms will focus on renewable energy.",
-    "exampleVi": "Liên doanh giữa hai công ty sẽ tập trung vào năng lượng tái tạo.",
-    "collocations": ["joint venture", "business venture", "venture capital", "new venture"],
-    "synonyms": ["enterprise", "undertaking"],
-    "wordFamily": ["ventures", "venturing", "ventured"],
-    "day": 128
-  },
-  {
-    "id": "incorporate-verb",
-    "word": "incorporate",
-    "baseWord": "incorporate",
-    "type": "verb",
-    "meaning": "thành lập công ty, kết hợp",
-    "pronunciation": "/ɪnˈkɔːrpəreɪt/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The business was incorporated in the state of Delaware.",
-    "exampleVi": "Doanh nghiệp đã được thành lập tại bang Delaware.",
-    "collocations": ["incorporate a business", "incorporate feedback", "newly incorporated"],
-    "synonyms": ["establish", "integrate", "include"],
-    "wordFamily": ["incorporation", "incorporated", "incorporating"],
-    "day": 128
-  },
-  {
-    "id": "recoup-verb",
-    "word": "recoup",
-    "baseWord": "recoup",
-    "type": "verb",
-    "meaning": "bù lại, thu hồi lại",
-    "pronunciation": "/rɪˈkuːp/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "It may take several years to recoup the initial investment.",
-    "exampleVi": "Có thể mất vài năm để thu hồi lại khoản đầu tư ban đầu.",
-    "collocations": ["recoup losses", "recoup costs", "recoup an investment"],
-    "synonyms": ["recover", "regain", "reclaim"],
-    "wordFamily": ["recouped", "recouping", "recoupment"],
-    "day": 128
-  },
-  {
-    "id": "scrutinize-verb",
-    "word": "scrutinize",
-    "baseWord": "scrutinize",
-    "type": "verb",
-    "meaning": "xem xét kỹ lưỡng",
-    "pronunciation": "/ˈskruːtɪnaɪz/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The regulatory body will scrutinize the merger proposal.",
-    "exampleVi": "Cơ quan quản lý sẽ xem xét kỹ lưỡng đề xuất sáp nhập.",
-    "collocations": ["scrutinize documents", "scrutinize closely", "scrutinize the details"],
-    "synonyms": ["examine", "inspect", "analyze"],
-    "wordFamily": ["scrutiny", "scrutinized", "scrutinizing"],
-    "day": 128
-  },
-  {
-    "id": "arbitration-noun",
-    "word": "arbitration",
-    "baseWord": "arbitrate",
-    "type": "noun",
-    "meaning": "sự phân xử, trọng tài",
-    "pronunciation": "/ˌɑːrbɪˈtreɪʃən/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The dispute was resolved through binding arbitration.",
-    "exampleVi": "Tranh chấp đã được giải quyết thông qua trọng tài ràng buộc.",
-    "collocations": ["binding arbitration", "arbitration clause", "go to arbitration", "arbitration proceedings"],
-    "synonyms": ["mediation", "adjudication"],
-    "wordFamily": ["arbitrate", "arbitrator", "arbitrated"],
-    "day": 128
-  },
-  {
-    "id": "antitrust-adjective",
-    "word": "antitrust",
-    "baseWord": "antitrust",
-    "type": "adjective",
-    "meaning": "chống độc quyền",
-    "pronunciation": "/ˌæntiˈtrʌst/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The merger is subject to antitrust review by government regulators.",
-    "exampleVi": "Việc sáp nhập phải chịu sự xem xét chống độc quyền của cơ quan quản lý chính phủ.",
-    "collocations": ["antitrust law", "antitrust regulation", "antitrust investigation"],
-    "synonyms": ["anti-monopoly", "competition"],
-    "wordFamily": ["trust", "antitrust"],
-    "day": 128
-  },
-  {
-    "id": "proprietary-adjective",
-    "word": "proprietary",
-    "baseWord": "proprietary",
-    "type": "adjective",
-    "meaning": "độc quyền, thuộc sở hữu riêng",
-    "pronunciation": "/prəˈpraɪəteri/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company developed proprietary software for its internal operations.",
-    "exampleVi": "Công ty đã phát triển phần mềm độc quyền cho các hoạt động nội bộ.",
-    "collocations": ["proprietary technology", "proprietary information", "proprietary software", "proprietary rights"],
-    "synonyms": ["exclusive", "patented"],
-    "wordFamily": ["proprietor", "proprietorship"],
-    "day": 128
-  },
-  {
-    "id": "bylaws-noun",
-    "word": "bylaws",
-    "baseWord": "bylaw",
-    "type": "noun",
-    "meaning": "điều lệ, nội quy",
-    "pronunciation": "/ˈbaɪlɔːz/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company's bylaws require a two-thirds majority for any amendment.",
-    "exampleVi": "Điều lệ công ty yêu cầu đa số hai phần ba cho bất kỳ sửa đổi nào.",
-    "collocations": ["corporate bylaws", "amend the bylaws", "in accordance with the bylaws"],
-    "synonyms": ["regulations", "rules", "statutes"],
-    "wordFamily": ["bylaw"],
-    "day": 128
-  },
-  {
-    "id": "oversight-noun",
-    "word": "oversight",
-    "baseWord": "oversee",
-    "type": "noun",
-    "meaning": "sự giám sát; sự sơ suất",
-    "pronunciation": "/ˈoʊvərsaɪt/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board provides oversight of the company's financial activities.",
-    "exampleVi": "Hội đồng quản trị giám sát các hoạt động tài chính của công ty.",
-    "collocations": ["regulatory oversight", "board oversight", "oversight committee", "provide oversight"],
-    "synonyms": ["supervision", "monitoring"],
-    "wordFamily": ["oversee", "overseen", "overseeing"],
-    "day": 129
-  },
-  {
-    "id": "compliance-noun",
-    "word": "compliance",
-    "baseWord": "comply",
-    "type": "noun",
-    "meaning": "sự tuân thủ",
-    "pronunciation": "/kəmˈplaɪəns/",
-    "topic": "Advanced Business",
+    "id": "adjusting-entry-phrase",
+    "word": "adjusting entry",
+    "baseWord": "adjusting",
+    "type": "phrase",
+    "meaning": "adjusting entry; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All departments must ensure full compliance with the new regulations.",
-    "exampleVi": "Tất cả các phòng ban phải đảm bảo tuân thủ đầy đủ các quy định mới.",
-    "collocations": ["regulatory compliance", "in compliance with", "compliance officer", "compliance requirements"],
-    "synonyms": ["adherence", "conformity"],
-    "wordFamily": ["comply", "compliant", "non-compliance"],
-    "day": 129
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the adjusting entry during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra adjusting entry trong đợt rà soát hàng quý.",
+    "collocations": [
+      "adjusting entry",
+      "adjusting entry review",
+      "adjusting entry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "adjusting"
+    ],
+    "day": 126
   },
   {
-    "id": "ratify-verb",
-    "word": "ratify",
-    "baseWord": "ratify",
-    "type": "verb",
-    "meaning": "phê chuẩn, phê duyệt",
-    "pronunciation": "/ˈrætɪfaɪ/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The board voted to ratify the agreement with the new supplier.",
-    "exampleVi": "Hội đồng quản trị đã bỏ phiếu phê chuẩn thỏa thuận với nhà cung cấp mới.",
-    "collocations": ["ratify an agreement", "ratify a treaty", "ratify a contract"],
-    "synonyms": ["approve", "endorse", "validate"],
-    "wordFamily": ["ratification", "ratified", "ratifying"],
-    "day": 129
-  },
-  {
-    "id": "amend-verb",
-    "word": "amend",
-    "baseWord": "amend",
-    "type": "verb",
-    "meaning": "sửa đổi, bổ sung",
-    "pronunciation": "/əˈmend/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee proposed to amend the existing regulations.",
-    "exampleVi": "Ủy ban đề xuất sửa đổi các quy định hiện hành.",
-    "collocations": ["amend a contract", "amend the constitution", "amend the terms"],
-    "synonyms": ["revise", "modify", "alter"],
-    "wordFamily": ["amendment", "amended", "amending"],
-    "day": 129
-  },
-  {
-    "id": "tenure-noun",
-    "word": "tenure",
-    "baseWord": "tenure",
-    "type": "noun",
-    "meaning": "nhiệm kỳ, thời gian giữ chức",
-    "pronunciation": "/ˈtenjər/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "During her tenure as CEO, the company's revenue doubled.",
-    "exampleVi": "Trong nhiệm kỳ làm giám đốc điều hành, doanh thu của công ty đã tăng gấp đôi.",
-    "collocations": ["during one's tenure", "tenure as president", "long tenure", "tenure track"],
-    "synonyms": ["term", "incumbency"],
-    "wordFamily": ["tenured"],
-    "day": 129
-  },
-  {
-    "id": "disclose-verb",
-    "word": "disclose",
-    "baseWord": "disclose",
-    "type": "verb",
-    "meaning": "tiết lộ, công bố",
-    "pronunciation": "/dɪsˈkloʊz/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Companies are required to disclose financial information to investors.",
-    "exampleVi": "Các công ty được yêu cầu công bố thông tin tài chính cho nhà đầu tư.",
-    "collocations": ["disclose information", "disclose details", "required to disclose", "disclose publicly"],
-    "synonyms": ["reveal", "divulge", "make known"],
-    "wordFamily": ["disclosure", "disclosed", "disclosing"],
-    "day": 129
-  },
-  {
-    "id": "quorum-noun",
-    "word": "quorum",
-    "baseWord": "quorum",
-    "type": "noun",
-    "meaning": "số đại biểu cần thiết, túc số",
-    "pronunciation": "/ˈkwɔːrəm/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "A quorum of at least ten members is required to hold the vote.",
-    "exampleVi": "Cần có túc số ít nhất mười thành viên để tiến hành bỏ phiếu.",
-    "collocations": ["establish a quorum", "reach a quorum", "quorum requirement"],
-    "synonyms": ["minimum number", "required majority"],
-    "wordFamily": ["quorums"],
-    "day": 129
-  },
-  {
-    "id": "convene-verb",
-    "word": "convene",
-    "baseWord": "convene",
-    "type": "verb",
-    "meaning": "triệu tập, nhóm họp",
-    "pronunciation": "/kənˈviːn/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The chairman convened an emergency board meeting.",
-    "exampleVi": "Chủ tịch triệu tập cuộc họp hội đồng quản trị khẩn cấp.",
-    "collocations": ["convene a meeting", "convene a committee", "convene a session"],
-    "synonyms": ["assemble", "summon", "call together"],
-    "wordFamily": ["convention", "convened", "convening"],
-    "day": 129
-  },
-  {
-    "id": "statute-noun",
-    "word": "statute",
-    "baseWord": "statute",
-    "type": "noun",
-    "meaning": "đạo luật, quy chế",
-    "pronunciation": "/ˈstætʃuːt/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The proposed merger must comply with federal statutes.",
-    "exampleVi": "Đề xuất sáp nhập phải tuân thủ các đạo luật liên bang.",
-    "collocations": ["federal statute", "statute of limitations", "comply with the statute"],
-    "synonyms": ["law", "regulation", "legislation"],
-    "wordFamily": ["statutory", "statutes"],
-    "day": 129
-  },
-  {
-    "id": "restructure-verb",
-    "word": "restructure",
-    "baseWord": "structure",
-    "type": "verb",
-    "meaning": "tái cấu trúc",
-    "pronunciation": "/riːˈstrʌktʃər/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The CEO announced plans to restructure the entire organization.",
-    "exampleVi": "Giám đốc điều hành thông báo kế hoạch tái cấu trúc toàn bộ tổ chức.",
-    "collocations": ["restructure debt", "restructure the company", "restructure operations"],
-    "synonyms": ["reorganize", "overhaul", "revamp"],
-    "wordFamily": ["restructuring", "restructured"],
-    "day": 130
-  },
-  {
-    "id": "underwrite-verb",
-    "word": "underwrite",
-    "baseWord": "underwrite",
-    "type": "verb",
-    "meaning": "bảo lãnh phát hành, cam kết tài trợ",
-    "pronunciation": "/ˌʌndərˈraɪt/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The bank agreed to underwrite the new bond issue.",
-    "exampleVi": "Ngân hàng đã đồng ý bảo lãnh phát hành trái phiếu mới.",
-    "collocations": ["underwrite an issue", "underwrite a policy", "underwrite a loan"],
-    "synonyms": ["guarantee", "sponsor", "finance"],
-    "wordFamily": ["underwriter", "underwriting", "underwritten"],
-    "day": 130
-  },
-  {
-    "id": "synergy-noun",
-    "word": "synergy",
-    "baseWord": "synergy",
-    "type": "noun",
-    "meaning": "sức mạnh tổng hợp, sự cộng hưởng",
-    "pronunciation": "/ˈsɪnərdʒi/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The merger is expected to create significant cost synergies.",
-    "exampleVi": "Việc sáp nhập dự kiến sẽ tạo ra sự cộng hưởng chi phí đáng kể.",
-    "collocations": ["cost synergy", "create synergy", "operational synergy"],
-    "synonyms": ["collaboration", "cooperation"],
-    "wordFamily": ["synergies", "synergistic"],
-    "day": 130
-  },
-  {
-    "id": "filings-noun",
-    "word": "filings",
-    "baseWord": "file",
-    "type": "noun",
-    "meaning": "hồ sơ nộp, tài liệu đăng ký",
-    "pronunciation": "/ˈfaɪlɪŋz/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "All regulatory filings must be submitted before the deadline.",
-    "exampleVi": "Tất cả hồ sơ đăng ký với cơ quan quản lý phải được nộp trước hạn chót.",
-    "collocations": ["regulatory filings", "SEC filings", "annual filings", "tax filings"],
-    "synonyms": ["submissions", "documents"],
-    "wordFamily": ["file", "filing", "filed"],
-    "day": 130
-  },
-  {
-    "id": "indemnify-verb",
-    "word": "indemnify",
-    "baseWord": "indemnify",
-    "type": "verb",
-    "meaning": "bồi thường, bảo đảm",
-    "pronunciation": "/ɪnˈdemnɪfaɪ/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The contract requires the supplier to indemnify the buyer against any losses.",
-    "exampleVi": "Hợp đồng yêu cầu nhà cung cấp bồi thường cho người mua đối với bất kỳ tổn thất nào.",
-    "collocations": ["indemnify against losses", "indemnify the buyer", "indemnify and hold harmless"],
-    "synonyms": ["compensate", "reimburse", "insure"],
-    "wordFamily": ["indemnification", "indemnity", "indemnified"],
-    "day": 130
-  },
-  {
-    "id": "stipulate-verb",
-    "word": "stipulate",
-    "baseWord": "stipulate",
-    "type": "verb",
-    "meaning": "quy định, đặt điều kiện",
-    "pronunciation": "/ˈstɪpjəleɪt/",
-    "topic": "Advanced Business",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The agreement stipulates that all disputes must be settled by arbitration.",
-    "exampleVi": "Thỏa thuận quy định rằng tất cả tranh chấp phải được giải quyết bằng trọng tài.",
-    "collocations": ["stipulate conditions", "stipulate terms", "as stipulated in"],
-    "synonyms": ["specify", "require", "mandate"],
-    "wordFamily": ["stipulation", "stipulated", "stipulating"],
-    "day": 130
-  },
-  {
-    "id": "adjourn-verb",
-    "word": "adjourn",
-    "baseWord": "adjourn",
-    "type": "verb",
-    "meaning": "hoãn lại, tạm ngừng",
-    "pronunciation": "/əˈdʒɜːrn/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The chairman decided to adjourn the meeting until next Monday.",
-    "exampleVi": "Chủ tịch quyết định hoãn cuộc họp đến thứ Hai tuần sau.",
-    "collocations": ["adjourn a meeting", "adjourn the session", "adjourn until"],
-    "synonyms": ["postpone", "defer", "suspend"],
-    "wordFamily": ["adjournment", "adjourned", "adjourning"],
-    "day": 130
-  },
-  {
-    "id": "whistleblower-noun",
-    "word": "whistleblower",
-    "baseWord": "whistleblower",
-    "type": "noun",
-    "meaning": "người tố giác, người thổi còi",
-    "pronunciation": "/ˈwɪsəlˌbloʊər/",
-    "topic": "Advanced Business",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The whistleblower reported financial irregularities to the authorities.",
-    "exampleVi": "Người tố giác đã báo cáo các sai phạm tài chính cho cơ quan chức năng.",
-    "collocations": ["whistleblower protection", "whistleblower policy", "whistleblower complaint"],
-    "synonyms": ["informant", "reporter"],
-    "wordFamily": ["whistleblowing", "whistleblowers"],
-    "day": 130
-  },
-  {
-    "id": "due-diligence-phrase",
-    "word": "due diligence",
-    "baseWord": "due diligence",
+    "id": "balance-sheet-phrase",
+    "word": "balance sheet",
+    "baseWord": "balance",
     "type": "phrase",
-    "meaning": "sự thẩm định, sự kiểm tra kỹ lưỡng",
-    "pronunciation": "/duː ˈdɪlɪdʒəns/",
-    "topic": "Advanced Business",
+    "meaning": "balance sheet; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the balance sheet during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra balance sheet trong đợt rà soát hàng quý.",
+    "collocations": [
+      "balance sheet",
+      "balance sheet review",
+      "balance sheet process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "balance"
+    ],
+    "day": 126
+  },
+  {
+    "id": "bank-reconciliation-phrase",
+    "word": "bank reconciliation",
+    "baseWord": "bank",
+    "type": "phrase",
+    "meaning": "bank reconciliation; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the bank reconciliation during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra bank reconciliation trong đợt rà soát hàng quý.",
+    "collocations": [
+      "bank reconciliation",
+      "bank reconciliation review",
+      "bank reconciliation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "bank"
+    ],
+    "day": 126
+  },
+  {
+    "id": "bookkeeping-record-phrase",
+    "word": "bookkeeping record",
+    "baseWord": "bookkeeping",
+    "type": "phrase",
+    "meaning": "bookkeeping record; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the bookkeeping record during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra bookkeeping record trong đợt rà soát hàng quý.",
+    "collocations": [
+      "bookkeeping record",
+      "bookkeeping record review",
+      "bookkeeping record process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "bookkeeping"
+    ],
+    "day": 126
+  },
+  {
+    "id": "cash-disbursement-phrase",
+    "word": "cash disbursement",
+    "baseWord": "cash",
+    "type": "phrase",
+    "meaning": "cash disbursement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the cash disbursement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra cash disbursement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "cash disbursement",
+      "cash disbursement review",
+      "cash disbursement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cash"
+    ],
+    "day": 126
+  },
+  {
+    "id": "cash-receipt-phrase",
+    "word": "cash receipt",
+    "baseWord": "cash",
+    "type": "phrase",
+    "meaning": "cash receipt; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the cash receipt during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra cash receipt trong đợt rà soát hàng quý.",
+    "collocations": [
+      "cash receipt",
+      "cash receipt review",
+      "cash receipt process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cash"
+    ],
+    "day": 126
+  },
+  {
+    "id": "chart-of-accounts-phrase",
+    "word": "chart of accounts",
+    "baseWord": "chart",
+    "type": "phrase",
+    "meaning": "chart of accounts; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The firm conducted due diligence before finalizing the acquisition.",
-    "exampleVi": "Công ty đã tiến hành thẩm định trước khi hoàn tất việc mua lại.",
-    "collocations": ["conduct due diligence", "due diligence process", "due diligence review"],
-    "synonyms": ["thorough investigation", "careful examination"],
-    "wordFamily": ["diligence", "diligent"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the chart of accounts during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra chart of accounts trong đợt rà soát hàng quý.",
+    "collocations": [
+      "chart of accounts",
+      "chart of accounts review",
+      "chart of accounts process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "chart"
+    ],
+    "day": 126
+  },
+  {
+    "id": "closing-entry-phrase",
+    "word": "closing entry",
+    "baseWord": "closing",
+    "type": "phrase",
+    "meaning": "closing entry; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the closing entry during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra closing entry trong đợt rà soát hàng quý.",
+    "collocations": [
+      "closing entry",
+      "closing entry review",
+      "closing entry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "closing"
+    ],
+    "day": 126
+  },
+  {
+    "id": "credit-memo-phrase",
+    "word": "credit memo",
+    "baseWord": "credit",
+    "type": "phrase",
+    "meaning": "credit memo; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the credit memo during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra credit memo trong đợt rà soát hàng quý.",
+    "collocations": [
+      "credit memo",
+      "credit memo review",
+      "credit memo process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "credit"
+    ],
+    "day": 126
+  },
+  {
+    "id": "debit-memo-phrase",
+    "word": "debit memo",
+    "baseWord": "debit",
+    "type": "phrase",
+    "meaning": "debit memo; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the debit memo during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra debit memo trong đợt rà soát hàng quý.",
+    "collocations": [
+      "debit memo",
+      "debit memo review",
+      "debit memo process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "debit"
+    ],
+    "day": 126
+  },
+  {
+    "id": "financial-statement-phrase",
+    "word": "financial statement",
+    "baseWord": "financial",
+    "type": "phrase",
+    "meaning": "financial statement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the financial statement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra financial statement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "financial statement",
+      "financial statement review",
+      "financial statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "financial"
+    ],
+    "day": 126
+  },
+  {
+    "id": "general-ledger-phrase",
+    "word": "general ledger",
+    "baseWord": "general",
+    "type": "phrase",
+    "meaning": "general ledger; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the general ledger during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra general ledger trong đợt rà soát hàng quý.",
+    "collocations": [
+      "general ledger",
+      "general ledger review",
+      "general ledger process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "general"
+    ],
+    "day": 126
+  },
+  {
+    "id": "income-statement-phrase",
+    "word": "income statement",
+    "baseWord": "income",
+    "type": "phrase",
+    "meaning": "income statement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the income statement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra income statement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "income statement",
+      "income statement review",
+      "income statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "income"
+    ],
+    "day": 126
+  },
+  {
+    "id": "journal-entry-phrase",
+    "word": "journal entry",
+    "baseWord": "journal",
+    "type": "phrase",
+    "meaning": "journal entry; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the journal entry during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra journal entry trong đợt rà soát hàng quý.",
+    "collocations": [
+      "journal entry",
+      "journal entry review",
+      "journal entry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "journal"
+    ],
+    "day": 126
+  },
+  {
+    "id": "ledger-balance-review-phrase",
+    "word": "ledger balance review",
+    "baseWord": "ledger",
+    "type": "phrase",
+    "meaning": "ledger balance review; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the ledger balance review during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra ledger balance review trong đợt rà soát hàng quý.",
+    "collocations": [
+      "ledger balance review",
+      "ledger balance review review",
+      "ledger balance review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ledger"
+    ],
+    "day": 126
+  },
+  {
+    "id": "petty-cash-phrase",
+    "word": "petty cash",
+    "baseWord": "petty",
+    "type": "phrase",
+    "meaning": "petty cash; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the petty cash during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra petty cash trong đợt rà soát hàng quý.",
+    "collocations": [
+      "petty cash",
+      "petty cash review",
+      "petty cash process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "petty"
+    ],
+    "day": 126
+  },
+  {
+    "id": "posting-error-phrase",
+    "word": "posting error",
+    "baseWord": "posting",
+    "type": "phrase",
+    "meaning": "posting error; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the posting error during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra posting error trong đợt rà soát hàng quý.",
+    "collocations": [
+      "posting error",
+      "posting error review",
+      "posting error process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "posting"
+    ],
+    "day": 126
+  },
+  {
+    "id": "reconciliation-statement-phrase",
+    "word": "reconciliation statement",
+    "baseWord": "reconciliation",
+    "type": "phrase",
+    "meaning": "reconciliation statement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the reconciliation statement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra reconciliation statement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "reconciliation statement",
+      "reconciliation statement review",
+      "reconciliation statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reconciliation"
+    ],
+    "day": 126
+  },
+  {
+    "id": "subsidiary-ledger-phrase",
+    "word": "subsidiary ledger",
+    "baseWord": "subsidiary",
+    "type": "phrase",
+    "meaning": "subsidiary ledger; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the subsidiary ledger during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra subsidiary ledger trong đợt rà soát hàng quý.",
+    "collocations": [
+      "subsidiary ledger",
+      "subsidiary ledger review",
+      "subsidiary ledger process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "subsidiary"
+    ],
+    "day": 126
+  },
+  {
+    "id": "trial-balance-phrase",
+    "word": "trial balance",
+    "baseWord": "trial",
+    "type": "phrase",
+    "meaning": "trial balance; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the trial balance during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra trial balance trong đợt rà soát hàng quý.",
+    "collocations": [
+      "trial balance",
+      "trial balance review",
+      "trial balance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "trial"
+    ],
+    "day": 126
+  },
+  {
+    "id": "audit-checklist-verb",
+    "word": "audit checklist",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit checklist; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit checklist during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit checklist trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit checklist",
+      "audit checklist review",
+      "audit checklist process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-evidence-verb",
+    "word": "audit evidence",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit evidence; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit evidence during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit evidence trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit evidence",
+      "audit evidence review",
+      "audit evidence process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-finding-verb",
+    "word": "audit finding",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit finding; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit finding during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit finding trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit finding",
+      "audit finding review",
+      "audit finding process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-opinion-verb",
+    "word": "audit opinion",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit opinion; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit opinion during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit opinion trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit opinion",
+      "audit opinion review",
+      "audit opinion process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-procedure-verb",
+    "word": "audit procedure",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit procedure; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit procedure during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit procedure trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit procedure",
+      "audit procedure review",
+      "audit procedure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-report-verb",
+    "word": "audit report",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit report; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit report during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit report trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit report",
+      "audit report review",
+      "audit report process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-risk-evaluation-phrase",
+    "word": "audit risk evaluation",
+    "baseWord": "audit",
+    "type": "phrase",
+    "meaning": "audit risk evaluation; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit risk evaluation during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit risk evaluation trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit risk evaluation",
+      "audit risk evaluation review",
+      "audit risk evaluation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-scope-verb",
+    "word": "audit scope",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit scope; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit scope during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit scope trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit scope",
+      "audit scope review",
+      "audit scope process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "audit-trail-verb",
+    "word": "audit trail",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit trail; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit trail during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit trail trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit trail",
+      "audit trail review",
+      "audit trail process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 127
+  },
+  {
+    "id": "compliance-audit-phrase",
+    "word": "compliance audit",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance audit; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the compliance audit during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra compliance audit trong đợt rà soát hàng quý.",
+    "collocations": [
+      "compliance audit",
+      "compliance audit review",
+      "compliance audit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 127
+  },
+  {
+    "id": "control-weakness-phrase",
+    "word": "control weakness",
+    "baseWord": "control",
+    "type": "phrase",
+    "meaning": "control weakness; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the control weakness during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra control weakness trong đợt rà soát hàng quý.",
+    "collocations": [
+      "control weakness",
+      "control weakness review",
+      "control weakness process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "control"
+    ],
+    "day": 127
+  },
+  {
+    "id": "external-audit-phrase",
+    "word": "external audit",
+    "baseWord": "external",
+    "type": "phrase",
+    "meaning": "external audit; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the external audit during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra external audit trong đợt rà soát hàng quý.",
+    "collocations": [
+      "external audit",
+      "external audit review",
+      "external audit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "external"
+    ],
+    "day": 127
+  },
+  {
+    "id": "internal-audit-phrase",
+    "word": "internal audit",
+    "baseWord": "internal",
+    "type": "phrase",
+    "meaning": "internal audit; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the internal audit during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra internal audit trong đợt rà soát hàng quý.",
+    "collocations": [
+      "internal audit",
+      "internal audit review",
+      "internal audit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "internal"
+    ],
+    "day": 127
+  },
+  {
+    "id": "management-letter-phrase",
+    "word": "management letter",
+    "baseWord": "management",
+    "type": "phrase",
+    "meaning": "management letter; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the management letter during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra management letter trong đợt rà soát hàng quý.",
+    "collocations": [
+      "management letter",
+      "management letter review",
+      "management letter process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "management"
+    ],
+    "day": 127
+  },
+  {
+    "id": "material-misstatement-phrase",
+    "word": "material misstatement",
+    "baseWord": "material",
+    "type": "phrase",
+    "meaning": "material misstatement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the material misstatement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra material misstatement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "material misstatement",
+      "material misstatement review",
+      "material misstatement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "material"
+    ],
+    "day": 127
+  },
+  {
+    "id": "qualified-opinion-phrase",
+    "word": "qualified opinion",
+    "baseWord": "qualified",
+    "type": "phrase",
+    "meaning": "qualified opinion; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the qualified opinion during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra qualified opinion trong đợt rà soát hàng quý.",
+    "collocations": [
+      "qualified opinion",
+      "qualified opinion review",
+      "qualified opinion process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "qualified"
+    ],
+    "day": 127
+  },
+  {
+    "id": "sampling-method-phrase",
+    "word": "sampling method",
+    "baseWord": "sampling",
+    "type": "phrase",
+    "meaning": "sampling method; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the sampling method during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra sampling method trong đợt rà soát hàng quý.",
+    "collocations": [
+      "sampling method",
+      "sampling method review",
+      "sampling method process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "sampling"
+    ],
+    "day": 127
+  },
+  {
+    "id": "substantive-testing-phrase",
+    "word": "substantive testing",
+    "baseWord": "substantive",
+    "type": "phrase",
+    "meaning": "substantive testing; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the substantive testing during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra substantive testing trong đợt rà soát hàng quý.",
+    "collocations": [
+      "substantive testing",
+      "substantive testing review",
+      "substantive testing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "substantive"
+    ],
+    "day": 127
+  },
+  {
+    "id": "unqualified-opinion-phrase",
+    "word": "unqualified opinion",
+    "baseWord": "unqualified",
+    "type": "phrase",
+    "meaning": "unqualified opinion; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the unqualified opinion during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra unqualified opinion trong đợt rà soát hàng quý.",
+    "collocations": [
+      "unqualified opinion",
+      "unqualified opinion review",
+      "unqualified opinion process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "unqualified"
+    ],
+    "day": 127
+  },
+  {
+    "id": "working-paper-phrase",
+    "word": "working paper",
+    "baseWord": "working",
+    "type": "phrase",
+    "meaning": "working paper; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the working paper during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra working paper trong đợt rà soát hàng quý.",
+    "collocations": [
+      "working paper",
+      "working paper review",
+      "working paper process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "working"
+    ],
+    "day": 127
+  },
+  {
+    "id": "accounts-payable-phrase",
+    "word": "accounts payable",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "accounts payable; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the accounts payable during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accounts payable trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accounts payable",
+      "accounts payable review",
+      "accounts payable process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 128
+  },
+  {
+    "id": "accounts-receivable-phrase",
+    "word": "accounts receivable",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "accounts receivable; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the accounts receivable during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accounts receivable trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accounts receivable",
+      "accounts receivable review",
+      "accounts receivable process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 128
+  },
+  {
+    "id": "accrual-basis-phrase",
+    "word": "accrual basis",
+    "baseWord": "accrual",
+    "type": "phrase",
+    "meaning": "accrual basis; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the accrual basis during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accrual basis trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accrual basis",
+      "accrual basis review",
+      "accrual basis process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "accrual"
+    ],
+    "day": 128
+  },
+  {
+    "id": "accrued-expense-phrase",
+    "word": "accrued expense",
+    "baseWord": "accrued",
+    "type": "phrase",
+    "meaning": "accrued expense; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the accrued expense during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accrued expense trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accrued expense",
+      "accrued expense review",
+      "accrued expense process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "accrued"
+    ],
+    "day": 128
+  },
+  {
+    "id": "allowance-account-phrase",
+    "word": "allowance account",
+    "baseWord": "allowance",
+    "type": "phrase",
+    "meaning": "allowance account; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the allowance account during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra allowance account trong đợt rà soát hàng quý.",
+    "collocations": [
+      "allowance account",
+      "allowance account review",
+      "allowance account process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "allowance"
+    ],
+    "day": 128
+  },
+  {
+    "id": "amortization-expense-phrase",
+    "word": "amortization expense",
+    "baseWord": "amortization",
+    "type": "phrase",
+    "meaning": "amortization expense; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the amortization expense during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra amortization expense trong đợt rà soát hàng quý.",
+    "collocations": [
+      "amortization expense",
+      "amortization expense review",
+      "amortization expense process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "amortization"
+    ],
+    "day": 128
+  },
+  {
+    "id": "asset-impairment-phrase",
+    "word": "asset impairment",
+    "baseWord": "asset",
+    "type": "phrase",
+    "meaning": "asset impairment; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the asset impairment during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra asset impairment trong đợt rà soát hàng quý.",
+    "collocations": [
+      "asset impairment",
+      "asset impairment review",
+      "asset impairment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "asset"
+    ],
+    "day": 128
+  },
+  {
+    "id": "bad-debt-phrase",
+    "word": "bad debt",
+    "baseWord": "bad",
+    "type": "phrase",
+    "meaning": "bad debt; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the bad debt during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra bad debt trong đợt rà soát hàng quý.",
+    "collocations": [
+      "bad debt",
+      "bad debt review",
+      "bad debt process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "bad"
+    ],
+    "day": 128
+  },
+  {
+    "id": "cash-basis-phrase",
+    "word": "cash basis",
+    "baseWord": "cash",
+    "type": "phrase",
+    "meaning": "cash basis; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the cash basis during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra cash basis trong đợt rà soát hàng quý.",
+    "collocations": [
+      "cash basis",
+      "cash basis review",
+      "cash basis process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cash"
+    ],
+    "day": 128
+  },
+  {
+    "id": "cost-of-goods-sold-phrase",
+    "word": "cost of goods sold",
+    "baseWord": "cost",
+    "type": "phrase",
+    "meaning": "cost of goods sold; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the cost of goods sold during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra cost of goods sold trong đợt rà soát hàng quý.",
+    "collocations": [
+      "cost of goods sold",
+      "cost of goods sold review",
+      "cost of goods sold process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cost"
+    ],
+    "day": 128
+  },
+  {
+    "id": "deferred-revenue-phrase",
+    "word": "deferred revenue",
+    "baseWord": "deferred",
+    "type": "phrase",
+    "meaning": "deferred revenue; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the deferred revenue during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra deferred revenue trong đợt rà soát hàng quý.",
+    "collocations": [
+      "deferred revenue",
+      "deferred revenue review",
+      "deferred revenue process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "deferred"
+    ],
+    "day": 128
+  },
+  {
+    "id": "depreciation-schedule-phrase",
+    "word": "depreciation schedule",
+    "baseWord": "depreciation",
+    "type": "phrase",
+    "meaning": "depreciation schedule; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the depreciation schedule during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra depreciation schedule trong đợt rà soát hàng quý.",
+    "collocations": [
+      "depreciation schedule",
+      "depreciation schedule review",
+      "depreciation schedule process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "depreciation"
+    ],
+    "day": 128
+  },
+  {
+    "id": "fixed-asset-phrase",
+    "word": "fixed asset",
+    "baseWord": "fixed",
+    "type": "phrase",
+    "meaning": "fixed asset; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the fixed asset during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra fixed asset trong đợt rà soát hàng quý.",
+    "collocations": [
+      "fixed asset",
+      "fixed asset review",
+      "fixed asset process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "fixed"
+    ],
+    "day": 128
+  },
+  {
+    "id": "gross-margin-phrase",
+    "word": "gross margin",
+    "baseWord": "gros",
+    "type": "phrase",
+    "meaning": "gross margin; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the gross margin during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra gross margin trong đợt rà soát hàng quý.",
+    "collocations": [
+      "gross margin",
+      "gross margin review",
+      "gross margin process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "gros"
+    ],
+    "day": 128
+  },
+  {
+    "id": "intangible-asset-phrase",
+    "word": "intangible asset",
+    "baseWord": "intangible",
+    "type": "phrase",
+    "meaning": "intangible asset; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the intangible asset during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra intangible asset trong đợt rà soát hàng quý.",
+    "collocations": [
+      "intangible asset",
+      "intangible asset review",
+      "intangible asset process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "intangible"
+    ],
+    "day": 128
+  },
+  {
+    "id": "inventory-valuation-phrase",
+    "word": "inventory valuation",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "inventory valuation; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the inventory valuation during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra inventory valuation trong đợt rà soát hàng quý.",
+    "collocations": [
+      "inventory valuation",
+      "inventory valuation review",
+      "inventory valuation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "inventory"
+    ],
+    "day": 128
+  },
+  {
+    "id": "net-income-phrase",
+    "word": "net income",
+    "baseWord": "net",
+    "type": "phrase",
+    "meaning": "net income; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the net income during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra net income trong đợt rà soát hàng quý.",
+    "collocations": [
+      "net income",
+      "net income review",
+      "net income process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "net"
+    ],
+    "day": 128
+  },
+  {
+    "id": "operating-expense-phrase",
+    "word": "operating expense",
+    "baseWord": "operating",
+    "type": "phrase",
+    "meaning": "operating expense; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the operating expense during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra operating expense trong đợt rà soát hàng quý.",
+    "collocations": [
+      "operating expense",
+      "operating expense review",
+      "operating expense process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "operating"
+    ],
+    "day": 128
+  },
+  {
+    "id": "prepaid-expense-phrase",
+    "word": "prepaid expense",
+    "baseWord": "prepaid",
+    "type": "phrase",
+    "meaning": "prepaid expense; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the prepaid expense during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra prepaid expense trong đợt rà soát hàng quý.",
+    "collocations": [
+      "prepaid expense",
+      "prepaid expense review",
+      "prepaid expense process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "prepaid"
+    ],
+    "day": 128
+  },
+  {
+    "id": "unearned-revenue-phrase",
+    "word": "unearned revenue",
+    "baseWord": "unearned",
+    "type": "phrase",
+    "meaning": "unearned revenue; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the unearned revenue during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra unearned revenue trong đợt rà soát hàng quý.",
+    "collocations": [
+      "unearned revenue",
+      "unearned revenue review",
+      "unearned revenue process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "unearned"
+    ],
+    "day": 128
+  },
+  {
+    "id": "approval-threshold-phrase",
+    "word": "approval threshold",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "approval threshold; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the approval threshold during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra approval threshold trong đợt rà soát hàng quý.",
+    "collocations": [
+      "approval threshold",
+      "approval threshold review",
+      "approval threshold process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "approval"
+    ],
+    "day": 129
+  },
+  {
+    "id": "audit-adjustment-verb",
+    "word": "audit adjustment",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit adjustment; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit adjustment during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit adjustment trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit adjustment",
+      "audit adjustment review",
+      "audit adjustment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 129
+  },
+  {
+    "id": "budget-variance-phrase",
+    "word": "budget variance",
+    "baseWord": "budget",
+    "type": "phrase",
+    "meaning": "budget variance; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the budget variance during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra budget variance trong đợt rà soát hàng quý.",
+    "collocations": [
+      "budget variance",
+      "budget variance review",
+      "budget variance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "budget"
+    ],
+    "day": 129
+  },
+  {
+    "id": "deductible-expense-phrase",
+    "word": "deductible expense",
+    "baseWord": "deductible",
+    "type": "phrase",
+    "meaning": "deductible expense; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the deductible expense during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra deductible expense trong đợt rà soát hàng quý.",
+    "collocations": [
+      "deductible expense",
+      "deductible expense review",
+      "deductible expense process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "deductible"
+    ],
+    "day": 129
+  },
+  {
+    "id": "expense-report-phrase",
+    "word": "expense report",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "expense report; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the expense report during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra expense report trong đợt rà soát hàng quý.",
+    "collocations": [
+      "expense report",
+      "expense report review",
+      "expense report process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "expense"
+    ],
+    "day": 129
+  },
+  {
+    "id": "expense-voucher-phrase",
+    "word": "expense voucher",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "expense voucher; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the expense voucher during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra expense voucher trong đợt rà soát hàng quý.",
+    "collocations": [
+      "expense voucher",
+      "expense voucher review",
+      "expense voucher process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "expense"
+    ],
+    "day": 129
+  },
+  {
+    "id": "financial-control-phrase",
+    "word": "financial control",
+    "baseWord": "financial",
+    "type": "phrase",
+    "meaning": "financial control; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the financial control during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra financial control trong đợt rà soát hàng quý.",
+    "collocations": [
+      "financial control",
+      "financial control review",
+      "financial control process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "financial"
+    ],
+    "day": 129
+  },
+  {
+    "id": "invoice-matching-phrase",
+    "word": "invoice matching",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "invoice matching; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the invoice matching during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra invoice matching trong đợt rà soát hàng quý.",
+    "collocations": [
+      "invoice matching",
+      "invoice matching review",
+      "invoice matching process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "invoice"
+    ],
+    "day": 129
+  },
+  {
+    "id": "payment-authorization-phrase",
+    "word": "payment authorization",
+    "baseWord": "payment",
+    "type": "phrase",
+    "meaning": "payment authorization; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the payment authorization during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra payment authorization trong đợt rà soát hàng quý.",
+    "collocations": [
+      "payment authorization",
+      "payment authorization review",
+      "payment authorization process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "payment"
+    ],
+    "day": 129
+  },
+  {
+    "id": "payroll-tax-phrase",
+    "word": "payroll tax",
+    "baseWord": "payroll",
+    "type": "phrase",
+    "meaning": "payroll tax; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the payroll tax during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra payroll tax trong đợt rà soát hàng quý.",
+    "collocations": [
+      "payroll tax",
+      "payroll tax review",
+      "payroll tax process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "payroll"
+    ],
+    "day": 129
+  },
+  {
+    "id": "procurement-order-form-phrase",
+    "word": "procurement order form",
+    "baseWord": "procurement",
+    "type": "phrase",
+    "meaning": "procurement order form; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the procurement order form during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra procurement order form trong đợt rà soát hàng quý.",
+    "collocations": [
+      "procurement order form",
+      "procurement order form review",
+      "procurement order form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "procurement"
+    ],
+    "day": 129
+  },
+  {
+    "id": "reimbursement-claim-phrase",
+    "word": "reimbursement claim",
+    "baseWord": "reimbursement",
+    "type": "phrase",
+    "meaning": "reimbursement claim; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the reimbursement claim during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra reimbursement claim trong đợt rà soát hàng quý.",
+    "collocations": [
+      "reimbursement claim",
+      "reimbursement claim review",
+      "reimbursement claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reimbursement"
+    ],
+    "day": 129
+  },
+  {
+    "id": "sales-tax-phrase",
+    "word": "sales tax",
+    "baseWord": "sale",
+    "type": "phrase",
+    "meaning": "sales tax; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the sales tax during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra sales tax trong đợt rà soát hàng quý.",
+    "collocations": [
+      "sales tax",
+      "sales tax review",
+      "sales tax process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "sale"
+    ],
+    "day": 129
+  },
+  {
+    "id": "segregation-of-duties-phrase",
+    "word": "segregation of duties",
+    "baseWord": "segregation",
+    "type": "phrase",
+    "meaning": "segregation of duties; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the segregation of duties during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra segregation of duties trong đợt rà soát hàng quý.",
+    "collocations": [
+      "segregation of duties",
+      "segregation of duties review",
+      "segregation of duties process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "segregation"
+    ],
+    "day": 129
+  },
+  {
+    "id": "supporting-document-phrase",
+    "word": "supporting document",
+    "baseWord": "supporting",
+    "type": "phrase",
+    "meaning": "supporting document; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the supporting document during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra supporting document trong đợt rà soát hàng quý.",
+    "collocations": [
+      "supporting document",
+      "supporting document review",
+      "supporting document process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "supporting"
+    ],
+    "day": 129
+  },
+  {
+    "id": "tax-filing-package-phrase",
+    "word": "tax filing package",
+    "baseWord": "tax",
+    "type": "phrase",
+    "meaning": "tax filing package; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the tax filing package during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra tax filing package trong đợt rà soát hàng quý.",
+    "collocations": [
+      "tax filing package",
+      "tax filing package review",
+      "tax filing package process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "tax"
+    ],
+    "day": 129
+  },
+  {
+    "id": "tax-liability-phrase",
+    "word": "tax liability",
+    "baseWord": "tax",
+    "type": "phrase",
+    "meaning": "tax liability; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the tax liability during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra tax liability trong đợt rà soát hàng quý.",
+    "collocations": [
+      "tax liability",
+      "tax liability review",
+      "tax liability process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "tax"
+    ],
+    "day": 129
+  },
+  {
+    "id": "tax-provision-phrase",
+    "word": "tax provision",
+    "baseWord": "tax",
+    "type": "phrase",
+    "meaning": "tax provision; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the tax provision during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra tax provision trong đợt rà soát hàng quý.",
+    "collocations": [
+      "tax provision",
+      "tax provision review",
+      "tax provision process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "tax"
+    ],
+    "day": 129
+  },
+  {
+    "id": "variance-analysis-phrase",
+    "word": "variance analysis",
+    "baseWord": "variance",
+    "type": "phrase",
+    "meaning": "variance analysis; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the variance analysis during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra variance analysis trong đợt rà soát hàng quý.",
+    "collocations": [
+      "variance analysis",
+      "variance analysis review",
+      "variance analysis process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "variance"
+    ],
+    "day": 129
+  },
+  {
+    "id": "withholding-tax-verb",
+    "word": "withholding tax",
+    "baseWord": "withholding",
+    "type": "verb",
+    "meaning": "withholding tax; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the withholding tax during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra withholding tax trong đợt rà soát hàng quý.",
+    "collocations": [
+      "withholding tax",
+      "withholding tax review",
+      "withholding tax process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "withholding"
+    ],
+    "day": 129
+  },
+  {
+    "id": "account-reconciliation-phrase",
+    "word": "account reconciliation",
+    "baseWord": "account",
+    "type": "phrase",
+    "meaning": "account reconciliation; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the account reconciliation during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra account reconciliation trong đợt rà soát hàng quý.",
+    "collocations": [
+      "account reconciliation",
+      "account reconciliation review",
+      "account reconciliation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "account"
+    ],
+    "day": 130
+  },
+  {
+    "id": "accounting-estimate-phrase",
+    "word": "accounting estimate",
+    "baseWord": "accounting",
+    "type": "phrase",
+    "meaning": "accounting estimate; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the accounting estimate during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accounting estimate trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accounting estimate",
+      "accounting estimate review",
+      "accounting estimate process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "accounting"
+    ],
+    "day": 130
+  },
+  {
+    "id": "accounting-policy-phrase",
+    "word": "accounting policy",
+    "baseWord": "accounting",
+    "type": "phrase",
+    "meaning": "accounting policy; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the accounting policy during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra accounting policy trong đợt rà soát hàng quý.",
+    "collocations": [
+      "accounting policy",
+      "accounting policy review",
+      "accounting policy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "accounting"
+    ],
+    "day": 130
+  },
+  {
+    "id": "audit-committee-verb",
+    "word": "audit committee",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit committee; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit committee during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit committee trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit committee",
+      "audit committee review",
+      "audit committee process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 130
+  },
+  {
+    "id": "audit-readiness-verb",
+    "word": "audit readiness",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit readiness; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the audit readiness during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra audit readiness trong đợt rà soát hàng quý.",
+    "collocations": [
+      "audit readiness",
+      "audit readiness review",
+      "audit readiness process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 130
+  },
+  {
+    "id": "capital-expenditure-phrase",
+    "word": "capital expenditure",
+    "baseWord": "capital",
+    "type": "phrase",
+    "meaning": "capital expenditure; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the capital expenditure during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra capital expenditure trong đợt rà soát hàng quý.",
+    "collocations": [
+      "capital expenditure",
+      "capital expenditure review",
+      "capital expenditure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "capital"
+    ],
+    "day": 130
+  },
+  {
+    "id": "cash-flow-statement-phrase",
+    "word": "cash flow statement",
+    "baseWord": "cash",
+    "type": "phrase",
+    "meaning": "cash flow statement; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the cash flow statement during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra cash flow statement trong đợt rà soát hàng quý.",
+    "collocations": [
+      "cash flow statement",
+      "cash flow statement review",
+      "cash flow statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cash"
+    ],
+    "day": 130
+  },
+  {
+    "id": "control-environment-phrase",
+    "word": "control environment",
+    "baseWord": "control",
+    "type": "phrase",
+    "meaning": "control environment; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the control environment during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra control environment trong đợt rà soát hàng quý.",
+    "collocations": [
+      "control environment",
+      "control environment review",
+      "control environment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "control"
+    ],
+    "day": 130
+  },
+  {
+    "id": "expense-recognition-phrase",
+    "word": "expense recognition",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "expense recognition; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the expense recognition during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra expense recognition trong đợt rà soát hàng quý.",
+    "collocations": [
+      "expense recognition",
+      "expense recognition review",
+      "expense recognition process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "expense"
+    ],
+    "day": 130
+  },
+  {
+    "id": "financial-accuracy-phrase",
+    "word": "financial accuracy",
+    "baseWord": "financial",
+    "type": "phrase",
+    "meaning": "financial accuracy; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the financial accuracy during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra financial accuracy trong đợt rà soát hàng quý.",
+    "collocations": [
+      "financial accuracy",
+      "financial accuracy review",
+      "financial accuracy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "financial"
+    ],
+    "day": 130
+  },
+  {
+    "id": "financial-disclosure-phrase",
+    "word": "financial disclosure",
+    "baseWord": "financial",
+    "type": "phrase",
+    "meaning": "financial disclosure; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the financial disclosure during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra financial disclosure trong đợt rà soát hàng quý.",
+    "collocations": [
+      "financial disclosure",
+      "financial disclosure review",
+      "financial disclosure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "financial"
+    ],
+    "day": 130
+  },
+  {
+    "id": "fiscal-period-phrase",
+    "word": "fiscal period",
+    "baseWord": "fiscal",
+    "type": "phrase",
+    "meaning": "fiscal period; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the fiscal period during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra fiscal period trong đợt rà soát hàng quý.",
+    "collocations": [
+      "fiscal period",
+      "fiscal period review",
+      "fiscal period process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "fiscal"
+    ],
+    "day": 130
+  },
+  {
+    "id": "fraud-detection-phrase",
+    "word": "fraud detection",
+    "baseWord": "fraud",
+    "type": "phrase",
+    "meaning": "fraud detection; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the fraud detection during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra fraud detection trong đợt rà soát hàng quý.",
+    "collocations": [
+      "fraud detection",
+      "fraud detection review",
+      "fraud detection process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "fraud"
+    ],
+    "day": 130
+  },
+  {
+    "id": "ledger-review-phrase",
+    "word": "ledger review",
+    "baseWord": "ledger",
+    "type": "phrase",
+    "meaning": "ledger review; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the ledger review during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra ledger review trong đợt rà soát hàng quý.",
+    "collocations": [
+      "ledger review",
+      "ledger review review",
+      "ledger review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ledger"
+    ],
+    "day": 130
+  },
+  {
+    "id": "operating-cash-flow-phrase",
+    "word": "operating cash flow",
+    "baseWord": "operating",
+    "type": "phrase",
+    "meaning": "operating cash flow; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the operating cash flow during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra operating cash flow trong đợt rà soát hàng quý.",
+    "collocations": [
+      "operating cash flow",
+      "operating cash flow review",
+      "operating cash flow process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "operating"
+    ],
+    "day": 130
+  },
+  {
+    "id": "owner-equity-phrase",
+    "word": "owner equity",
+    "baseWord": "owner",
+    "type": "phrase",
+    "meaning": "owner equity; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the owner equity during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra owner equity trong đợt rà soát hàng quý.",
+    "collocations": [
+      "owner equity",
+      "owner equity review",
+      "owner equity process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "owner"
+    ],
+    "day": 130
+  },
+  {
+    "id": "quarterly-close-phrase",
+    "word": "quarterly close",
+    "baseWord": "quarterly",
+    "type": "phrase",
+    "meaning": "quarterly close; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the quarterly close during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra quarterly close trong đợt rà soát hàng quý.",
+    "collocations": [
+      "quarterly close",
+      "quarterly close review",
+      "quarterly close process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "quarterly"
+    ],
+    "day": 130
+  },
+  {
+    "id": "retained-earnings-phrase",
+    "word": "retained earnings",
+    "baseWord": "retained",
+    "type": "phrase",
+    "meaning": "retained earnings; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the retained earnings during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra retained earnings trong đợt rà soát hàng quý.",
+    "collocations": [
+      "retained earnings",
+      "retained earnings review",
+      "retained earnings process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "retained"
+    ],
+    "day": 130
+  },
+  {
+    "id": "revenue-recognition-phrase",
+    "word": "revenue recognition",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "revenue recognition; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant checked the revenue recognition during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra revenue recognition trong đợt rà soát hàng quý.",
+    "collocations": [
+      "revenue recognition",
+      "revenue recognition review",
+      "revenue recognition process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "revenue"
+    ],
+    "day": 130
+  },
+  {
+    "id": "year-end-close-phrase",
+    "word": "year-end close",
+    "baseWord": "year-end",
+    "type": "phrase",
+    "meaning": "year-end close; thuật ngữ về kế toán và kiểm toán",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The accountant checked the year-end close during the quarterly review.",
+    "exampleVi": "Kế toán viên đã kiểm tra year-end close trong đợt rà soát hàng quý.",
+    "collocations": [
+      "year-end close",
+      "year-end close review",
+      "year-end close process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "year-end"
+    ],
     "day": 130
   }
 ]

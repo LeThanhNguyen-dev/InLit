@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "action-item-phrase",
+    "word": "action item",
+    "baseWord": "action",
+    "type": "phrase",
+    "meaning": "action item; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the action item before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa action item trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "action item",
+      "action item review",
+      "action item process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "action"
+    ],
+    "day": 146
+  },
+  {
+    "id": "briefing-note-phrase",
+    "word": "briefing note",
+    "baseWord": "briefing",
+    "type": "phrase",
+    "meaning": "briefing note; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the briefing note before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa briefing note trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "briefing note",
+      "briefing note review",
+      "briefing note process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "briefing"
+    ],
+    "day": 146
+  },
+  {
+    "id": "business-memo-phrase",
+    "word": "business memo",
+    "baseWord": "busines",
+    "type": "phrase",
+    "meaning": "business memo; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the business memo before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa business memo trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "business memo",
+      "business memo review",
+      "business memo process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "busines"
+    ],
+    "day": 146
+  },
+  {
+    "id": "communication-plan-phrase",
+    "word": "communication plan",
+    "baseWord": "communication",
+    "type": "phrase",
+    "meaning": "communication plan; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the communication plan before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa communication plan trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "communication plan",
+      "communication plan review",
+      "communication plan process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "communication"
+    ],
+    "day": 146
+  },
+  {
+    "id": "company-bulletin-phrase",
+    "word": "company bulletin",
+    "baseWord": "company",
+    "type": "phrase",
+    "meaning": "company bulletin; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the company bulletin before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa company bulletin trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "company bulletin",
+      "company bulletin review",
+      "company bulletin process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "company"
+    ],
+    "day": 146
+  },
+  {
+    "id": "decision-log-phrase",
+    "word": "decision log",
+    "baseWord": "decision",
+    "type": "phrase",
+    "meaning": "decision log; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the decision log before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa decision log trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "decision log",
+      "decision log review",
+      "decision log process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "decision"
+    ],
+    "day": 146
+  },
+  {
+    "id": "discussion-point-phrase",
+    "word": "discussion point",
+    "baseWord": "discussion",
+    "type": "phrase",
+    "meaning": "discussion point; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the discussion point before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa discussion point trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "discussion point",
+      "discussion point review",
+      "discussion point process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "discussion"
+    ],
+    "day": 146
+  },
+  {
+    "id": "formal-proposal-phrase",
+    "word": "formal proposal",
+    "baseWord": "formal",
+    "type": "phrase",
+    "meaning": "formal proposal; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the formal proposal before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa formal proposal trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "formal proposal",
+      "formal proposal review",
+      "formal proposal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "formal"
+    ],
+    "day": 146
+  },
+  {
+    "id": "internal-announcement-phrase",
+    "word": "internal announcement",
+    "baseWord": "internal",
+    "type": "phrase",
+    "meaning": "internal announcement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the internal announcement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa internal announcement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "internal announcement",
+      "internal announcement review",
+      "internal announcement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "internal"
+    ],
+    "day": 146
+  },
+  {
+    "id": "key-message-phrase",
+    "word": "key message",
+    "baseWord": "key",
+    "type": "phrase",
+    "meaning": "key message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the key message before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa key message trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "key message",
+      "key message review",
+      "key message process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "key"
+    ],
+    "day": 146
+  },
+  {
+    "id": "leadership-summary-note-phrase",
+    "word": "leadership summary note",
+    "baseWord": "leadership",
+    "type": "phrase",
+    "meaning": "leadership summary note; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the leadership summary note before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa leadership summary note trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "leadership summary note",
+      "leadership summary note review",
+      "leadership summary note process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "leadership"
+    ],
+    "day": 146
+  },
+  {
+    "id": "meeting-agenda-phrase",
+    "word": "meeting agenda",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "meeting agenda; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the meeting agenda before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa meeting agenda trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "meeting agenda",
+      "meeting agenda review",
+      "meeting agenda process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "meeting"
+    ],
+    "day": 146
+  },
+  {
+    "id": "milestone-update-report-phrase",
+    "word": "milestone update report",
+    "baseWord": "milestone",
+    "type": "phrase",
+    "meaning": "milestone update report; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the milestone update report before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa milestone update report trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "milestone update report",
+      "milestone update report review",
+      "milestone update report process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "milestone"
+    ],
+    "day": 146
+  },
+  {
+    "id": "official-notice-phrase",
+    "word": "official notice",
+    "baseWord": "official",
+    "type": "phrase",
+    "meaning": "official notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the official notice before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa official notice trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "official notice",
+      "official notice review",
+      "official notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "official"
+    ],
+    "day": 146
+  },
+  {
+    "id": "press-statement-phrase",
+    "word": "press statement",
+    "baseWord": "pres",
+    "type": "phrase",
+    "meaning": "press statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the press statement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa press statement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "press statement",
+      "press statement review",
+      "press statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "pres"
+    ],
+    "day": 146
+  },
+  {
+    "id": "public-statement-phrase",
+    "word": "public statement",
+    "baseWord": "public",
+    "type": "phrase",
+    "meaning": "public statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the public statement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa public statement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "public statement",
+      "public statement review",
+      "public statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "public"
+    ],
+    "day": 146
+  },
+  {
+    "id": "stakeholder-update-phrase",
+    "word": "stakeholder update",
+    "baseWord": "stakeholder",
+    "type": "phrase",
+    "meaning": "stakeholder update; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the stakeholder update before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa stakeholder update trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "stakeholder update",
+      "stakeholder update review",
+      "stakeholder update process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "stakeholder"
+    ],
+    "day": 146
+  },
+  {
+    "id": "status-update-phrase",
+    "word": "status update",
+    "baseWord": "statu",
+    "type": "phrase",
+    "meaning": "status update; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the status update before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa status update trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "status update",
+      "status update review",
+      "status update process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "statu"
+    ],
+    "day": 146
+  },
+  {
+    "id": "talking-point-phrase",
+    "word": "talking point",
+    "baseWord": "talking",
+    "type": "phrase",
+    "meaning": "talking point; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the talking point before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa talking point trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "talking point",
+      "talking point review",
+      "talking point process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "talking"
+    ],
+    "day": 146
+  },
+  {
+    "id": "written-confirmation-phrase",
+    "word": "written confirmation",
+    "baseWord": "written",
+    "type": "phrase",
+    "meaning": "written confirmation; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the written confirmation before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa written confirmation trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "written confirmation",
+      "written confirmation review",
+      "written confirmation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "written"
+    ],
+    "day": 146
+  },
+  {
+    "id": "acknowledgment-email-phrase",
+    "word": "acknowledgment email",
+    "baseWord": "acknowledgment",
+    "type": "phrase",
+    "meaning": "acknowledgment email; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the acknowledgment email before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa acknowledgment email trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "acknowledgment email",
+      "acknowledgment email review",
+      "acknowledgment email process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "acknowledgment"
+    ],
+    "day": 147
+  },
+  {
+    "id": "clarification-request-phrase",
+    "word": "clarification request",
+    "baseWord": "clarification",
+    "type": "phrase",
+    "meaning": "clarification request; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the clarification request before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa clarification request trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "clarification request",
+      "clarification request review",
+      "clarification request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "clarification"
+    ],
+    "day": 147
+  },
+  {
+    "id": "clear-phrasing-phrase",
+    "word": "clear phrasing",
+    "baseWord": "clear",
+    "type": "phrase",
+    "meaning": "clear phrasing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the clear phrasing before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa clear phrasing trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "clear phrasing",
+      "clear phrasing review",
+      "clear phrasing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "clear"
+    ],
+    "day": 147
+  },
+  {
+    "id": "closing-remark-phrase",
+    "word": "closing remark",
+    "baseWord": "closing",
+    "type": "phrase",
+    "meaning": "closing remark; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the closing remark before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa closing remark trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "closing remark",
+      "closing remark review",
+      "closing remark process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "closing"
+    ],
+    "day": 147
+  },
+  {
+    "id": "concise-wording-phrase",
+    "word": "concise wording",
+    "baseWord": "concise",
+    "type": "phrase",
+    "meaning": "concise wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the concise wording before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa concise wording trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "concise wording",
+      "concise wording review",
+      "concise wording process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "concise"
+    ],
+    "day": 147
+  },
+  {
+    "id": "confirmation-email-verb",
+    "word": "confirmation email",
+    "baseWord": "confirmation",
+    "type": "verb",
+    "meaning": "confirmation email; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the confirmation email before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa confirmation email trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "confirmation email",
+      "confirmation email review",
+      "confirmation email process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "confirmation"
+    ],
+    "day": 147
+  },
+  {
+    "id": "courteous-reminder-phrase",
+    "word": "courteous reminder",
+    "baseWord": "courteou",
+    "type": "phrase",
+    "meaning": "courteous reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the courteous reminder before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa courteous reminder trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "courteous reminder",
+      "courteous reminder review",
+      "courteous reminder process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "courteou"
+    ],
+    "day": 147
+  },
+  {
+    "id": "direct-request-phrase",
+    "word": "direct request",
+    "baseWord": "direct",
+    "type": "phrase",
+    "meaning": "direct request; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the direct request before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa direct request trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "direct request",
+      "direct request review",
+      "direct request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "direct"
+    ],
+    "day": 147
+  },
+  {
+    "id": "feedback-session-phrase",
+    "word": "feedback session",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "feedback session; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the feedback session before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa feedback session trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "feedback session",
+      "feedback session review",
+      "feedback session process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "feedback"
+    ],
+    "day": 147
+  },
+  {
+    "id": "follow-up-message-phrase",
+    "word": "follow-up message",
+    "baseWord": "follow-up",
+    "type": "phrase",
+    "meaning": "follow-up message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the follow-up message before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa follow-up message trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "follow-up message",
+      "follow-up message review",
+      "follow-up message process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "follow-up"
+    ],
+    "day": 147
+  },
+  {
+    "id": "formal-wording-phrase",
+    "word": "formal wording",
+    "baseWord": "formal",
+    "type": "phrase",
+    "meaning": "formal wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the formal wording before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa formal wording trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "formal wording",
+      "formal wording review",
+      "formal wording process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "formal"
+    ],
+    "day": 147
+  },
+  {
+    "id": "introductory-email-phrase",
+    "word": "introductory email",
+    "baseWord": "introductory",
+    "type": "phrase",
+    "meaning": "introductory email; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the introductory email before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa introductory email trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "introductory email",
+      "introductory email review",
+      "introductory email process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "introductory"
+    ],
+    "day": 147
+  },
+  {
+    "id": "opening-remark-phrase",
+    "word": "opening remark",
+    "baseWord": "opening",
+    "type": "phrase",
+    "meaning": "opening remark; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the opening remark before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa opening remark trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "opening remark",
+      "opening remark review",
+      "opening remark process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "opening"
+    ],
+    "day": 147
+  },
+  {
+    "id": "polite-request-phrase",
+    "word": "polite request",
+    "baseWord": "polite",
+    "type": "phrase",
+    "meaning": "polite request; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the polite request before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa polite request trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "polite request",
+      "polite request review",
+      "polite request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "polite"
+    ],
+    "day": 147
+  },
+  {
+    "id": "presentation-outline-phrase",
+    "word": "presentation outline",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "presentation outline; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the presentation outline before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa presentation outline trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "presentation outline",
+      "presentation outline review",
+      "presentation outline process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "presentation"
+    ],
+    "day": 147
+  },
+  {
+    "id": "professional-tone-phrase",
+    "word": "professional tone",
+    "baseWord": "professional",
+    "type": "phrase",
+    "meaning": "professional tone; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the professional tone before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa professional tone trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "professional tone",
+      "professional tone review",
+      "professional tone process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "professional"
+    ],
+    "day": 147
+  },
+  {
+    "id": "question-period-phrase",
+    "word": "question period",
+    "baseWord": "question",
+    "type": "phrase",
+    "meaning": "question period; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the question period before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa question period trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "question period",
+      "question period review",
+      "question period process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "question"
+    ],
+    "day": 147
+  },
+  {
+    "id": "slide-deck-phrase",
+    "word": "slide deck",
+    "baseWord": "slide",
+    "type": "phrase",
+    "meaning": "slide deck; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the slide deck before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa slide deck trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "slide deck",
+      "slide deck review",
+      "slide deck process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "slide"
+    ],
+    "day": 147
+  },
+  {
+    "id": "speaker-note-phrase",
+    "word": "speaker note",
+    "baseWord": "speaker",
+    "type": "phrase",
+    "meaning": "speaker note; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the speaker note before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa speaker note trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "speaker note",
+      "speaker note review",
+      "speaker note process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "speaker"
+    ],
+    "day": 147
+  },
+  {
+    "id": "visual-aid-phrase",
+    "word": "visual aid",
+    "baseWord": "visual",
+    "type": "phrase",
+    "meaning": "visual aid; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the visual aid before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa visual aid trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "visual aid",
+      "visual aid review",
+      "visual aid process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "visual"
+    ],
+    "day": 147
+  },
+  {
+    "id": "acceptable-term-phrase",
+    "word": "acceptable term",
+    "baseWord": "acceptable",
+    "type": "phrase",
+    "meaning": "acceptable term; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the acceptable term before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa acceptable term trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "acceptable term",
+      "acceptable term review",
+      "acceptable term process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "acceptable"
+    ],
+    "day": 148
+  },
+  {
+    "id": "attendance-record-phrase",
+    "word": "attendance record",
+    "baseWord": "attendance",
+    "type": "phrase",
+    "meaning": "attendance record; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the attendance record before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa attendance record trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "attendance record",
+      "attendance record review",
+      "attendance record process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "attendance"
+    ],
+    "day": 148
+  },
+  {
+    "id": "bargaining-position-phrase",
+    "word": "bargaining position",
+    "baseWord": "bargaining",
+    "type": "phrase",
+    "meaning": "bargaining position; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the bargaining position before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa bargaining position trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "bargaining position",
+      "bargaining position review",
+      "bargaining position process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "bargaining"
+    ],
+    "day": 148
+  },
+  {
+    "id": "board-presentation-phrase",
+    "word": "board presentation",
+    "baseWord": "board",
+    "type": "phrase",
+    "meaning": "board presentation; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the board presentation before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa board presentation trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "board presentation",
+      "board presentation review",
+      "board presentation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "board"
+    ],
+    "day": 148
+  },
+  {
+    "id": "chairperson-remarks-phrase",
+    "word": "chairperson remarks",
+    "baseWord": "chairperson",
+    "type": "phrase",
+    "meaning": "chairperson remarks; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the chairperson remarks before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa chairperson remarks trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "chairperson remarks",
+      "chairperson remarks review",
+      "chairperson remarks process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "chairperson"
+    ],
+    "day": 148
+  },
+  {
+    "id": "committee-briefing-phrase",
+    "word": "committee briefing",
+    "baseWord": "committee",
+    "type": "phrase",
+    "meaning": "committee briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the committee briefing before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa committee briefing trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "committee briefing",
+      "committee briefing review",
+      "committee briefing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "committee"
+    ],
+    "day": 148
+  },
+  {
+    "id": "common-ground-phrase",
+    "word": "common ground",
+    "baseWord": "common",
+    "type": "phrase",
+    "meaning": "common ground; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the common ground before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa common ground trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "common ground",
+      "common ground review",
+      "common ground process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "common"
+    ],
+    "day": 148
+  },
+  {
+    "id": "concession-strategy-phrase",
+    "word": "concession strategy",
+    "baseWord": "concession",
+    "type": "phrase",
+    "meaning": "concession strategy; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the concession strategy before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa concession strategy trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "concession strategy",
+      "concession strategy review",
+      "concession strategy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "concession"
+    ],
+    "day": 148
+  },
+  {
+    "id": "confidential-memo-phrase",
+    "word": "confidential memo",
+    "baseWord": "confidential",
+    "type": "phrase",
+    "meaning": "confidential memo; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the confidential memo before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa confidential memo trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "confidential memo",
+      "confidential memo review",
+      "confidential memo process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "confidential"
+    ],
+    "day": 148
+  },
+  {
+    "id": "executive-briefing-phrase",
+    "word": "executive briefing",
+    "baseWord": "executive",
+    "type": "phrase",
+    "meaning": "executive briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the executive briefing before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa executive briefing trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "executive briefing",
+      "executive briefing review",
+      "executive briefing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "executive"
+    ],
+    "day": 148
+  },
+  {
+    "id": "final-offer-phrase",
+    "word": "final offer",
+    "baseWord": "final",
+    "type": "phrase",
+    "meaning": "final offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the final offer before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa final offer trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "final offer",
+      "final offer review",
+      "final offer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "final"
+    ],
+    "day": 148
+  },
+  {
+    "id": "meeting-minutes-phrase",
+    "word": "meeting minutes",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "meeting minutes; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the meeting minutes before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa meeting minutes trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "meeting minutes",
+      "meeting minutes review",
+      "meeting minutes process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "meeting"
+    ],
+    "day": 148
+  },
+  {
+    "id": "mutual-agreement-phrase",
+    "word": "mutual agreement",
+    "baseWord": "mutual",
+    "type": "phrase",
+    "meaning": "mutual agreement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the mutual agreement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa mutual agreement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "mutual agreement",
+      "mutual agreement review",
+      "mutual agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "mutual"
+    ],
+    "day": 148
+  },
+  {
+    "id": "negotiation-leverage-phrase",
+    "word": "negotiation leverage",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "negotiation leverage; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the negotiation leverage before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa negotiation leverage trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "negotiation leverage",
+      "negotiation leverage review",
+      "negotiation leverage process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "negotiation"
+    ],
+    "day": 148
+  },
+  {
+    "id": "negotiation-stance-phrase",
+    "word": "negotiation stance",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "negotiation stance; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the negotiation stance before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa negotiation stance trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "negotiation stance",
+      "negotiation stance review",
+      "negotiation stance process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "negotiation"
+    ],
+    "day": 148
+  },
+  {
+    "id": "nonnegotiable-point-phrase",
+    "word": "nonnegotiable point",
+    "baseWord": "nonnegotiable",
+    "type": "phrase",
+    "meaning": "nonnegotiable point; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the nonnegotiable point before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa nonnegotiable point trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "nonnegotiable point",
+      "nonnegotiable point review",
+      "nonnegotiable point process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "nonnegotiable"
+    ],
+    "day": 148
+  },
+  {
+    "id": "opening-offer-phrase",
+    "word": "opening offer",
+    "baseWord": "opening",
+    "type": "phrase",
+    "meaning": "opening offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the opening offer before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa opening offer trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "opening offer",
+      "opening offer review",
+      "opening offer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "opening"
+    ],
+    "day": 148
+  },
+  {
+    "id": "point-of-contention-phrase",
+    "word": "point of contention",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "point of contention; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the point of contention before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa point of contention trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "point of contention",
+      "point of contention review",
+      "point of contention process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "point"
+    ],
+    "day": 148
+  },
+  {
+    "id": "revised-offer-noun",
+    "word": "revised offer",
+    "baseWord": "revised",
+    "type": "noun",
+    "meaning": "revised offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the revised offer before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa revised offer trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "revised offer",
+      "revised offer review",
+      "revised offer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "revised"
+    ],
+    "day": 148
+  },
+  {
+    "id": "sensitive-information-phrase",
+    "word": "sensitive information",
+    "baseWord": "sensitive",
+    "type": "phrase",
+    "meaning": "sensitive information; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the sensitive information before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa sensitive information trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "sensitive information",
+      "sensitive information review",
+      "sensitive information process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "sensitive"
+    ],
+    "day": 148
+  },
+  {
+    "id": "annual-message-phrase",
+    "word": "annual message",
+    "baseWord": "annual",
+    "type": "phrase",
+    "meaning": "annual message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the annual message before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa annual message trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "annual message",
+      "annual message review",
+      "annual message process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "annual"
+    ],
+    "day": 149
+  },
+  {
+    "id": "compliance-reminder-phrase",
+    "word": "compliance reminder",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the compliance reminder before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa compliance reminder trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "compliance reminder",
+      "compliance reminder review",
+      "compliance reminder process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 149
+  },
+  {
+    "id": "crisis-message-phrase",
+    "word": "crisis message",
+    "baseWord": "crisi",
+    "type": "phrase",
+    "meaning": "crisis message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the crisis message before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa crisis message trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "crisis message",
+      "crisis message review",
+      "crisis message process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "crisi"
+    ],
+    "day": 149
+  },
+  {
+    "id": "customer-notice-phrase",
+    "word": "customer notice",
+    "baseWord": "customer",
+    "type": "phrase",
+    "meaning": "customer notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the customer notice before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa customer notice trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "customer notice",
+      "customer notice review",
+      "customer notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "customer"
+    ],
+    "day": 149
+  },
+  {
+    "id": "damage-control-phrase",
+    "word": "damage control",
+    "baseWord": "damage",
+    "type": "phrase",
+    "meaning": "damage control; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the damage control before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa damage control trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "damage control",
+      "damage control review",
+      "damage control process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "damage"
+    ],
+    "day": 149
+  },
+  {
+    "id": "deadline-reminder-phrase",
+    "word": "deadline reminder",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "deadline reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the deadline reminder before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa deadline reminder trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "deadline reminder",
+      "deadline reminder review",
+      "deadline reminder process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "deadline"
+    ],
+    "day": 149
+  },
+  {
+    "id": "employee-communication-phrase",
+    "word": "employee communication",
+    "baseWord": "employee",
+    "type": "phrase",
+    "meaning": "employee communication; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the employee communication before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa employee communication trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "employee communication",
+      "employee communication review",
+      "employee communication process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "employee"
+    ],
+    "day": 149
+  },
+  {
+    "id": "holding-statement-phrase",
+    "word": "holding statement",
+    "baseWord": "holding",
+    "type": "phrase",
+    "meaning": "holding statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the holding statement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa holding statement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "holding statement",
+      "holding statement review",
+      "holding statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "holding"
+    ],
+    "day": 149
+  },
+  {
+    "id": "internal-briefing-phrase",
+    "word": "internal briefing",
+    "baseWord": "internal",
+    "type": "phrase",
+    "meaning": "internal briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the internal briefing before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa internal briefing trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "internal briefing",
+      "internal briefing review",
+      "internal briefing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "internal"
+    ],
+    "day": 149
+  },
+  {
+    "id": "investor-update-phrase",
+    "word": "investor update",
+    "baseWord": "investor",
+    "type": "phrase",
+    "meaning": "investor update; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the investor update before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa investor update trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "investor update",
+      "investor update review",
+      "investor update process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "investor"
+    ],
+    "day": 149
+  },
+  {
+    "id": "media-briefing-phrase",
+    "word": "media briefing",
+    "baseWord": "media",
+    "type": "phrase",
+    "meaning": "media briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the media briefing before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa media briefing trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "media briefing",
+      "media briefing review",
+      "media briefing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "media"
+    ],
+    "day": 149
+  },
+  {
+    "id": "media-response-phrase",
+    "word": "media response",
+    "baseWord": "media",
+    "type": "phrase",
+    "meaning": "media response; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the media response before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa media response trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "media response",
+      "media response review",
+      "media response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "media"
+    ],
+    "day": 149
+  },
+  {
+    "id": "official-clarification-phrase",
+    "word": "official clarification",
+    "baseWord": "official",
+    "type": "phrase",
+    "meaning": "official clarification; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the official clarification before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa official clarification trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "official clarification",
+      "official clarification review",
+      "official clarification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "official"
+    ],
+    "day": 149
+  },
+  {
+    "id": "policy-reminder-phrase",
+    "word": "policy reminder",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the policy reminder before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa policy reminder trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "policy reminder",
+      "policy reminder review",
+      "policy reminder process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 149
+  },
+  {
+    "id": "press-inquiry-phrase",
+    "word": "press inquiry",
+    "baseWord": "pres",
+    "type": "phrase",
+    "meaning": "press inquiry; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the press inquiry before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa press inquiry trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "press inquiry",
+      "press inquiry review",
+      "press inquiry process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "pres"
+    ],
+    "day": 149
+  },
+  {
+    "id": "public-apology-phrase",
+    "word": "public apology",
+    "baseWord": "public",
+    "type": "phrase",
+    "meaning": "public apology; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the public apology before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa public apology trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "public apology",
+      "public apology review",
+      "public apology process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "public"
+    ],
+    "day": 149
+  },
+  {
+    "id": "reputation-statement-phrase",
+    "word": "reputation statement",
+    "baseWord": "reputation",
+    "type": "phrase",
+    "meaning": "reputation statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the reputation statement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa reputation statement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "reputation statement",
+      "reputation statement review",
+      "reputation statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reputation"
+    ],
+    "day": 149
+  },
+  {
+    "id": "shareholder-letter-phrase",
+    "word": "shareholder letter",
+    "baseWord": "shareholder",
+    "type": "phrase",
+    "meaning": "shareholder letter; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the shareholder letter before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa shareholder letter trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "shareholder letter",
+      "shareholder letter review",
+      "shareholder letter process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "shareholder"
+    ],
+    "day": 149
+  },
+  {
+    "id": "spokesperson-statement-phrase",
+    "word": "spokesperson statement",
+    "baseWord": "spokesperson",
+    "type": "phrase",
+    "meaning": "spokesperson statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the spokesperson statement before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa spokesperson statement trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "spokesperson statement",
+      "spokesperson statement review",
+      "spokesperson statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "spokesperson"
+    ],
+    "day": 149
+  },
+  {
+    "id": "supplier-notice-phrase",
+    "word": "supplier notice",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "supplier notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the supplier notice before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa supplier notice trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "supplier notice",
+      "supplier notice review",
+      "supplier notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "supplier"
+    ],
+    "day": 149
+  },
+  {
+    "id": "communication-protocol-phrase",
+    "word": "communication protocol",
+    "baseWord": "communication",
+    "type": "phrase",
+    "meaning": "communication protocol; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the communication protocol before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa communication protocol trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "communication protocol",
+      "communication protocol review",
+      "communication protocol process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "communication"
+    ],
+    "day": 150
+  },
+  {
+    "id": "constructive-feedback-phrase",
+    "word": "constructive feedback",
+    "baseWord": "constructive",
+    "type": "phrase",
+    "meaning": "constructive feedback; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the constructive feedback before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa constructive feedback trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "constructive feedback",
+      "constructive feedback review",
+      "constructive feedback process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "constructive"
+    ],
+    "day": 150
+  },
+  {
+    "id": "diplomatic-wording-phrase",
+    "word": "diplomatic wording",
+    "baseWord": "diplomatic",
+    "type": "phrase",
+    "meaning": "diplomatic wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the diplomatic wording before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa diplomatic wording trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "diplomatic wording",
+      "diplomatic wording review",
+      "diplomatic wording process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "diplomatic"
+    ],
+    "day": 150
+  },
+  {
+    "id": "dispute-notice-phrase",
+    "word": "dispute notice",
+    "baseWord": "dispute",
+    "type": "phrase",
+    "meaning": "dispute notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the dispute notice before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa dispute notice trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "dispute notice",
+      "dispute notice review",
+      "dispute notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "dispute"
+    ],
+    "day": 150
+  },
+  {
+    "id": "escalation-email-phrase",
+    "word": "escalation email",
+    "baseWord": "escalation",
+    "type": "phrase",
+    "meaning": "escalation email; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the escalation email before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa escalation email trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "escalation email",
+      "escalation email review",
+      "escalation email process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "escalation"
+    ],
+    "day": 150
+  },
+  {
+    "id": "evidence-based-claim-phrase",
+    "word": "evidence-based claim",
+    "baseWord": "evidence-based",
+    "type": "phrase",
+    "meaning": "evidence-based claim; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the evidence-based claim before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa evidence-based claim trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "evidence-based claim",
+      "evidence-based claim review",
+      "evidence-based claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "evidence-based"
+    ],
+    "day": 150
+  },
+  {
+    "id": "executive-presence-phrase",
+    "word": "executive presence",
+    "baseWord": "executive",
+    "type": "phrase",
+    "meaning": "executive presence; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the executive presence before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa executive presence trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "executive presence",
+      "executive presence review",
+      "executive presence process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "executive"
+    ],
+    "day": 150
+  },
+  {
+    "id": "formal-complaint-phrase",
+    "word": "formal complaint",
+    "baseWord": "formal",
+    "type": "phrase",
+    "meaning": "formal complaint; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the formal complaint before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa formal complaint trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "formal complaint",
+      "formal complaint review",
+      "formal complaint process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "formal"
+    ],
+    "day": 150
+  },
+  {
+    "id": "message-alignment-phrase",
+    "word": "message alignment",
+    "baseWord": "message",
+    "type": "phrase",
+    "meaning": "message alignment; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the message alignment before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa message alignment trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "message alignment",
+      "message alignment review",
+      "message alignment process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "message"
+    ],
+    "day": 150
+  },
+  {
+    "id": "performance-feedback-phrase",
+    "word": "performance feedback",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "performance feedback; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the performance feedback before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa performance feedback trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "performance feedback",
+      "performance feedback review",
+      "performance feedback process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "performance"
+    ],
+    "day": 150
+  },
+  {
+    "id": "persuasive-argument-phrase",
+    "word": "persuasive argument",
+    "baseWord": "persuasive",
+    "type": "phrase",
+    "meaning": "persuasive argument; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the persuasive argument before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa persuasive argument trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "persuasive argument",
+      "persuasive argument review",
+      "persuasive argument process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "persuasive"
+    ],
+    "day": 150
+  },
+  {
+    "id": "priority-message-phrase",
+    "word": "priority message",
+    "baseWord": "priority",
+    "type": "phrase",
+    "meaning": "priority message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the priority message before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa priority message trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "priority message",
+      "priority message review",
+      "priority message process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "priority"
+    ],
+    "day": 150
+  },
+  {
+    "id": "resolution-proposal-phrase",
+    "word": "resolution proposal",
+    "baseWord": "resolution",
+    "type": "phrase",
+    "meaning": "resolution proposal; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the resolution proposal before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa resolution proposal trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "resolution proposal",
+      "resolution proposal review",
+      "resolution proposal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "resolution"
+    ],
+    "day": 150
+  },
+  {
+    "id": "strategic-narrative-phrase",
+    "word": "strategic narrative",
+    "baseWord": "strategic",
+    "type": "phrase",
+    "meaning": "strategic narrative; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the strategic narrative before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa strategic narrative trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "strategic narrative",
+      "strategic narrative review",
+      "strategic narrative process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "strategic"
+    ],
+    "day": 150
+  },
+  {
+    "id": "summary-paragraph-phrase",
+    "word": "summary paragraph",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "summary paragraph; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the summary paragraph before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa summary paragraph trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "summary paragraph",
+      "summary paragraph review",
+      "summary paragraph process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "summary"
+    ],
+    "day": 150
+  },
+  {
+    "id": "supporting-detail-phrase",
+    "word": "supporting detail",
+    "baseWord": "supporting",
+    "type": "phrase",
+    "meaning": "supporting detail; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the supporting detail before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa supporting detail trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "supporting detail",
+      "supporting detail review",
+      "supporting detail process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "supporting"
+    ],
+    "day": 150
+  },
+  {
+    "id": "tactful-response-phrase",
+    "word": "tactful response",
+    "baseWord": "tactful",
+    "type": "phrase",
+    "meaning": "tactful response; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the tactful response before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa tactful response trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "tactful response",
+      "tactful response review",
+      "tactful response process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "tactful"
+    ],
+    "day": 150
+  },
+  {
+    "id": "transitional-phrase-phrase",
+    "word": "transitional phrase",
+    "baseWord": "transitional",
+    "type": "phrase",
+    "meaning": "transitional phrase; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the transitional phrase before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa transitional phrase trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "transitional phrase",
+      "transitional phrase review",
+      "transitional phrase process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "transitional"
+    ],
+    "day": 150
+  },
+  {
+    "id": "urgent-notice-phrase",
+    "word": "urgent notice",
+    "baseWord": "urgent",
+    "type": "phrase",
+    "meaning": "urgent notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The director revised the urgent notice before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa urgent notice trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "urgent notice",
+      "urgent notice review",
+      "urgent notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "urgent"
+    ],
+    "day": 150
+  },
+  {
+    "id": "written-objection-phrase",
+    "word": "written objection",
+    "baseWord": "written",
+    "type": "phrase",
+    "meaning": "written objection; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "pronunciation": "",
+    "topic": "Advanced Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The director revised the written objection before sending it to stakeholders.",
+    "exampleVi": "Giám đốc đã chỉnh sửa written objection trước khi gửi cho các bên liên quan.",
+    "collocations": [
+      "written objection",
+      "written objection review",
+      "written objection process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "written"
+    ],
+    "day": 150
+  }
+]

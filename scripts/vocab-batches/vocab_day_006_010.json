@@ -1,128 +1,97 @@
 [
   {
+    "id": "adjourn-verb",
+    "word": "adjourn",
+    "baseWord": "adjourn",
+    "type": "verb",
+    "meaning": "hoãn lại, tạm dừng",
+    "pronunciation": "/əˈdʒɜːrn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The chairperson decided to adjourn the meeting until tomorrow.",
+    "exampleVi": "Chủ tọa quyết định hoãn cuộc họp cho đến ngày mai.",
+    "collocations": [
+      "adjourn a meeting",
+      "adjourn until",
+      "motion to adjourn"
+    ],
+    "synonyms": [
+      "postpone",
+      "suspend"
+    ],
+    "wordFamily": [
+      "adjournment",
+      "adjourned"
+    ],
+    "day": 6
+  },
+  {
     "id": "attend-verb",
     "word": "attend",
     "baseWord": "attend",
     "type": "verb",
     "meaning": "tham dự, tham gia",
     "pronunciation": "/əˈtɛnd/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
     "example": "All department heads are required to attend the meeting.",
-    "exampleVi": "Tất cả trưởng phòng phải tham dự cuộc họp.",
-    "collocations": ["attend a meeting", "attend a conference", "attend a workshop"],
-    "synonyms": ["participate in", "be present at"],
-    "wordFamily": ["attendance", "attendee", "attending"],
+    "exampleVi": "Tất cả các trưởng bộ phận đều được yêu cầu tham dự cuộc họp.",
+    "collocations": [
+      "attend a meeting",
+      "attend a conference",
+      "attend a workshop"
+    ],
+    "synonyms": [
+      "participate in",
+      "be present at"
+    ],
+    "wordFamily": [
+      "attendance",
+      "attendee",
+      "attendant"
+    ],
     "day": 6
   },
   {
-    "id": "minutes-noun",
-    "word": "minutes",
-    "baseWord": "minutes",
-    "type": "noun",
-    "meaning": "biên bản họp",
-    "pronunciation": "/ˈmɪnɪts/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The secretary will distribute the meeting minutes by email.",
-    "exampleVi": "Thư ký sẽ phân phát biên bản họp qua email.",
-    "collocations": ["meeting minutes", "take minutes", "approve the minutes"],
-    "synonyms": ["notes", "record"],
-    "wordFamily": ["minute"],
-    "day": 6
-  },
-  {
-    "id": "presentation-noun",
-    "word": "presentation",
-    "baseWord": "presentation",
-    "type": "noun",
-    "meaning": "bài thuyết trình",
-    "pronunciation": "/ˌprɛzənˈteɪʃən/",
-    "topic": "Meetings",
+    "id": "brief-adjective",
+    "word": "brief",
+    "baseWord": "brief",
+    "type": "adjective",
+    "meaning": "ngắn gọn, vắn tắt",
+    "pronunciation": "/briːf/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The sales team will give a presentation on the new product.",
-    "exampleVi": "Đội ngũ bán hàng sẽ thuyết trình về sản phẩm mới.",
-    "collocations": ["give a presentation", "sales presentation", "prepare a presentation"],
-    "synonyms": ["talk", "lecture"],
-    "wordFamily": ["presentations", "present", "presenter"],
-    "day": 6
-  },
-  {
-    "id": "conference-noun",
-    "word": "conference",
-    "baseWord": "conference",
-    "type": "noun",
-    "meaning": "hội nghị, hội thảo",
-    "pronunciation": "/ˈkɒnfərəns/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The annual conference will be held in Singapore this year.",
-    "exampleVi": "Hội nghị thường niên sẽ được tổ chức tại Singapore năm nay.",
-    "collocations": ["conference room", "conference call", "attend a conference"],
-    "synonyms": ["convention", "summit"],
-    "wordFamily": ["conferences"],
-    "day": 6
-  },
-  {
-    "id": "reschedule-verb",
-    "word": "reschedule",
-    "baseWord": "reschedule",
-    "type": "verb",
-    "meaning": "đổi lịch, xếp lại lịch",
-    "pronunciation": "/riːˈʃɛdjuːl/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "We need to reschedule the meeting to next Tuesday.",
-    "exampleVi": "Chúng ta cần đổi lịch cuộc họp sang thứ Ba tuần tới.",
-    "collocations": ["reschedule a meeting", "reschedule an appointment", "reschedule for later"],
-    "synonyms": ["rearrange", "postpone"],
-    "wordFamily": ["rescheduled", "rescheduling"],
-    "day": 6
-  },
-  {
-    "id": "participant-noun",
-    "word": "participant",
-    "baseWord": "participant",
-    "type": "noun",
-    "meaning": "người tham gia",
-    "pronunciation": "/pɑːrˈtɪsɪpənt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All participants must register before the workshop begins.",
-    "exampleVi": "Tất cả người tham gia phải đăng ký trước khi hội thảo bắt đầu.",
-    "collocations": ["active participant", "workshop participant", "meeting participant"],
-    "synonyms": ["attendee", "member"],
-    "wordFamily": ["participants", "participate", "participation"],
-    "day": 6
-  },
-  {
-    "id": "adjourn-verb",
-    "word": "adjourn",
-    "baseWord": "adjourn",
-    "type": "verb",
-    "meaning": "tạm hoãn, kết thúc (cuộc họp)",
-    "pronunciation": "/əˈdʒɜːrn/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The chairperson decided to adjourn the meeting until Friday.",
-    "exampleVi": "Chủ tọa quyết định tạm hoãn cuộc họp đến thứ Sáu.",
-    "collocations": ["adjourn a meeting", "adjourn the session", "meeting adjourned"],
-    "synonyms": ["suspend", "recess"],
-    "wordFamily": ["adjourned", "adjournment"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "She gave a brief overview of the project milestones.",
+    "exampleVi": "Cô ấy đã đưa ra một bản tóm tắt ngắn gọn về các cột mốc của dự án.",
+    "collocations": [
+      "brief meeting",
+      "brief overview",
+      "brief description"
+    ],
+    "synonyms": [
+      "short",
+      "concise"
+    ],
+    "wordFamily": [
+      "briefly",
+      "briefing"
+    ],
     "day": 6
   },
   {
@@ -130,89 +99,93 @@
     "word": "chairperson",
     "baseWord": "chairperson",
     "type": "noun",
-    "meaning": "chủ tọa, người chủ trì",
-    "pronunciation": "/ˈtʃɛrpɜːrsən/",
-    "topic": "Meetings",
+    "meaning": "chủ tọa, chủ tịch cuộc họp",
+    "pronunciation": "/ˈtʃerpɜːrsn/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 4", "Part 6", "Part 7"],
-    "example": "The chairperson opened the meeting with a brief overview.",
-    "exampleVi": "Chủ tọa mở đầu cuộc họp với phần tổng quan ngắn gọn.",
-    "collocations": ["acting chairperson", "elected chairperson", "chairperson of the board"],
-    "synonyms": ["chair", "moderator"],
-    "wordFamily": ["chairpersons", "chairman", "chairwoman"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The chairperson introduced the guest speaker at the start of the seminar.",
+    "exampleVi": "Chủ tọa đã giới thiệu diễn giả khách mời khi bắt đầu buổi hội thảo.",
+    "collocations": [
+      "committee chairperson",
+      "acting chairperson",
+      "chairperson of the board"
+    ],
+    "synonyms": [
+      "chair",
+      "chairman",
+      "chairwoman"
+    ],
+    "wordFamily": [
+      "chair"
+    ],
     "day": 6
   },
   {
-    "id": "facilitate-verb",
-    "word": "facilitate",
-    "baseWord": "facilitate",
+    "id": "clarify-verb",
+    "word": "clarify",
+    "baseWord": "clarify",
     "type": "verb",
-    "meaning": "hỗ trợ, tạo điều kiện",
-    "pronunciation": "/fəˈsɪlɪteɪt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The new software will facilitate communication between teams.",
-    "exampleVi": "Phần mềm mới sẽ tạo điều kiện cho việc giao tiếp giữa các nhóm.",
-    "collocations": ["facilitate a discussion", "facilitate the process", "facilitate communication"],
-    "synonyms": ["assist", "enable"],
-    "wordFamily": ["facilitation", "facilitator", "facilitated"],
-    "day": 6
-  },
-  {
-    "id": "venue-noun",
-    "word": "venue",
-    "baseWord": "venue",
-    "type": "noun",
-    "meaning": "địa điểm tổ chức",
-    "pronunciation": "/ˈvɛnjuː/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The venue for the annual dinner has not been decided yet.",
-    "exampleVi": "Địa điểm tổ chức bữa tối thường niên vẫn chưa được quyết định.",
-    "collocations": ["event venue", "conference venue", "change the venue"],
-    "synonyms": ["location", "site"],
-    "wordFamily": ["venues"],
-    "day": 6
-  },
-  {
-    "id": "propose-verb",
-    "word": "propose",
-    "baseWord": "propose",
-    "type": "verb",
-    "meaning": "đề xuất, đề nghị",
-    "pronunciation": "/prəˈpoʊz/",
-    "topic": "Meetings",
+    "meaning": "làm rõ, làm cho dễ hiểu",
+    "pronunciation": "/ˈklærəfaɪ/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "She proposed a new marketing strategy during the meeting.",
-    "exampleVi": "Cô ấy đề xuất chiến lược marketing mới trong cuộc họp.",
-    "collocations": ["propose a plan", "propose changes", "propose a solution"],
-    "synonyms": ["suggest", "recommend"],
-    "wordFamily": ["proposal", "proposed", "proposing"],
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Could you please clarify the third point in the proposal?",
+    "exampleVi": "Bạn có thể vui lòng làm rõ điểm thứ ba trong bản đề xuất được không?",
+    "collocations": [
+      "clarify a point",
+      "clarify details",
+      "clarify a statement"
+    ],
+    "synonyms": [
+      "explain",
+      "elucidate"
+    ],
+    "wordFamily": [
+      "clarification",
+      "clarity"
+    ],
     "day": 6
   },
   {
-    "id": "outline-verb",
-    "word": "outline",
-    "baseWord": "outline",
-    "type": "verb",
-    "meaning": "phác thảo, trình bày tóm tắt",
-    "pronunciation": "/ˈaʊtlaɪn/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The manager outlined the goals for the next quarter.",
-    "exampleVi": "Quản lý đã trình bày tóm tắt các mục tiêu cho quý tiếp theo.",
-    "collocations": ["outline a plan", "outline the objectives", "outline the process"],
-    "synonyms": ["summarize", "sketch"],
-    "wordFamily": ["outlined", "outlines", "outlining"],
+    "id": "conference-noun",
+    "word": "conference",
+    "baseWord": "conference",
+    "type": "noun",
+    "meaning": "hội nghị, cuộc thảo luận",
+    "pronunciation": "/ˈkɑːnfərəns/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The annual sales conference will take place in Chicago this year.",
+    "exampleVi": "Hội nghị bán hàng thường niên năm nay sẽ diễn ra tại Chicago.",
+    "collocations": [
+      "annual conference",
+      "conference room",
+      "press conference"
+    ],
+    "synonyms": [
+      "convention",
+      "meeting",
+      "symposium"
+    ],
+    "wordFamily": [
+      "confer"
+    ],
     "day": 6
   },
   {
@@ -220,17 +193,31 @@
     "word": "consensus",
     "baseWord": "consensus",
     "type": "noun",
-    "meaning": "sự đồng thuận, sự nhất trí",
+    "meaning": "sự nhất trí, sự đồng thuận",
     "pronunciation": "/kənˈsɛnsəs/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee reached a consensus on the budget allocation.",
-    "exampleVi": "Ủy ban đã đạt được sự đồng thuận về phân bổ ngân sách.",
-    "collocations": ["reach a consensus", "general consensus", "build consensus"],
-    "synonyms": ["agreement", "accord"],
-    "wordFamily": ["consensuses"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The committee reached a consensus on the new budget plan.",
+    "exampleVi": "Ủy ban đã đạt được sự đồng thuận về kế hoạch ngân sách mới.",
+    "collocations": [
+      "reach a consensus",
+      "general consensus",
+      "build consensus"
+    ],
+    "synonyms": [
+      "agreement",
+      "harmony",
+      "unanimity"
+    ],
+    "wordFamily": [
+      "consensual"
+    ],
     "day": 6
   },
   {
@@ -238,17 +225,63 @@
     "word": "delegate",
     "baseWord": "delegate",
     "type": "verb",
-    "meaning": "ủy quyền, giao phó",
-    "pronunciation": "/ˈdɛlɪɡeɪt/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "meaning": "giao phó, ủy quyền",
+    "pronunciation": "/ˈdɛləɡeɪt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "She delegated the task to her assistant.",
-    "exampleVi": "Cô ấy đã giao phó nhiệm vụ cho trợ lý.",
-    "collocations": ["delegate tasks", "delegate responsibility", "delegate authority"],
-    "synonyms": ["assign", "entrust"],
-    "wordFamily": ["delegation", "delegated", "delegating"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "An effective manager knows how to delegate tasks to team members.",
+    "exampleVi": "Một người quản lý hiệu quả biết cách giao phó công việc cho các thành viên trong nhóm.",
+    "collocations": [
+      "delegate tasks",
+      "delegate authority",
+      "delegate responsibility"
+    ],
+    "synonyms": [
+      "assign",
+      "entrust",
+      "transfer"
+    ],
+    "wordFamily": [
+      "delegate-noun",
+      "delegation"
+    ],
+    "day": 6
+  },
+  {
+    "id": "facilitate-verb",
+    "word": "facilitate",
+    "baseWord": "facilitate",
+    "type": "verb",
+    "meaning": "tạo điều kiện, làm cho thuận tiện",
+    "pronunciation": "/fəˈsɪlɪteɪt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The new software is designed to facilitate communication between departments.",
+    "exampleVi": "Phần mềm mới được thiết kế để tạo điều kiện thuận lợi cho việc giao tiếp giữa các bộ phận.",
+    "collocations": [
+      "facilitate communication",
+      "facilitate a process",
+      "facilitate learning"
+    ],
+    "synonyms": [
+      "assist",
+      "ease",
+      "promote"
+    ],
+    "wordFamily": [
+      "facilitator",
+      "facilitation"
+    ],
     "day": 6
   },
   {
@@ -256,17 +289,62 @@
     "word": "implement",
     "baseWord": "implement",
     "type": "verb",
-    "meaning": "thực hiện, triển khai",
+    "meaning": "triển khai, thực hiện",
     "pronunciation": "/ˈɪmplɪmɛnt/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company will implement the new policy starting in January.",
-    "exampleVi": "Công ty sẽ triển khai chính sách mới bắt đầu từ tháng Một.",
-    "collocations": ["implement a plan", "implement changes", "implement a strategy"],
-    "synonyms": ["execute", "carry out"],
-    "wordFamily": ["implementation", "implemented", "implementing"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We plan to implement the new policy starting next month.",
+    "exampleVi": "Chúng tôi dự kiến triển khai chính sách mới bắt đầu từ tháng tới.",
+    "collocations": [
+      "implement a policy",
+      "implement a plan",
+      "implement changes"
+    ],
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "wordFamily": [
+      "implementation",
+      "implemented"
+    ],
+    "day": 6
+  },
+  {
+    "id": "minutes-noun",
+    "word": "minutes",
+    "baseWord": "minutes",
+    "type": "noun",
+    "meaning": "biên bản cuộc họp",
+    "pronunciation": "/ˈmɪnɪts/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The secretary is responsible for taking the minutes of the board meeting.",
+    "exampleVi": "Thư ký chịu trách nhiệm ghi biên bản cuộc họp hội đồng quản trị.",
+    "collocations": [
+      "take the minutes",
+      "approve the minutes",
+      "distribution of minutes"
+    ],
+    "synonyms": [
+      "notes",
+      "records",
+      "transcript"
+    ],
+    "wordFamily": [],
     "day": 6
   },
   {
@@ -276,33 +354,190 @@
     "type": "noun",
     "meaning": "mục tiêu",
     "pronunciation": "/əbˈdʒɛktɪv/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The main objective of the meeting is to finalize the budget.",
-    "exampleVi": "Mục tiêu chính của cuộc họp là hoàn thiện ngân sách.",
-    "collocations": ["key objective", "achieve an objective", "set objectives"],
-    "synonyms": ["goal", "aim"],
-    "wordFamily": ["objectives", "objectively"],
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Our main objective this quarter is to increase customer retention.",
+    "exampleVi": "Mục tiêu chính của chúng tôi trong quý này là tăng tỷ lệ giữ chân khách hàng.",
+    "collocations": [
+      "main objective",
+      "achieve an objective",
+      "clear objective"
+    ],
+    "synonyms": [
+      "goal",
+      "target",
+      "aim"
+    ],
+    "wordFamily": [
+      "objective-adjective",
+      "objectively",
+      "objectivity"
+    ],
     "day": 6
   },
   {
-    "id": "clarify-verb",
-    "word": "clarify",
-    "baseWord": "clarify",
+    "id": "outline-verb",
+    "word": "outline",
+    "baseWord": "outline",
     "type": "verb",
-    "meaning": "làm rõ, giải thích",
-    "pronunciation": "/ˈklærɪfaɪ/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "meaning": "phác thảo, vạch ra",
+    "pronunciation": "/ˈaʊtlaɪn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Could you clarify the delivery schedule?",
-    "exampleVi": "Bạn có thể làm rõ lịch giao hàng không?",
-    "collocations": ["clarify a point", "clarify the issue", "clarify the details"],
-    "synonyms": ["explain", "elucidate"],
-    "wordFamily": ["clarification", "clarified", "clarifying"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The presentation will outline the major steps of the marketing campaign.",
+    "exampleVi": "Bài thuyết trình sẽ phác thảo các bước chính của chiến dịch tiếp thị.",
+    "collocations": [
+      "outline a proposal",
+      "outline a plan",
+      "briefly outline"
+    ],
+    "synonyms": [
+      "summarize",
+      "sketch",
+      "draft"
+    ],
+    "wordFamily": [
+      "outline-noun"
+    ],
+    "day": 6
+  },
+  {
+    "id": "participant-noun",
+    "word": "participant",
+    "baseWord": "participant",
+    "type": "noun",
+    "meaning": "người tham gia",
+    "pronunciation": "/pɑːrˈtɪsɪpənt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Each participant will receive a folder containing conference materials.",
+    "exampleVi": "Mỗi người tham gia sẽ nhận được một bìa hồ sơ chứa tài liệu hội nghị.",
+    "collocations": [
+      "active participant",
+      "conference participant",
+      "program participant"
+    ],
+    "synonyms": [
+      "attendee",
+      "member"
+    ],
+    "wordFamily": [
+      "participate",
+      "participation",
+      "participatory"
+    ],
+    "day": 6
+  },
+  {
+    "id": "presentation-noun",
+    "word": "presentation",
+    "baseWord": "presentation",
+    "type": "noun",
+    "meaning": "bài thuyết trình, sự trình bày",
+    "pronunciation": "/ˌpriːzenˈteɪʃn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Mr. Jenkins will give a presentation on the budget forecast.",
+    "exampleVi": "Ông Jenkins sẽ có một bài thuyết trình về dự báo ngân sách.",
+    "collocations": [
+      "give a presentation",
+      "make a presentation",
+      "presentation slides"
+    ],
+    "synonyms": [
+      "speech",
+      "talk",
+      "demonstration"
+    ],
+    "wordFamily": [
+      "present",
+      "presenter"
+    ],
+    "day": 6
+  },
+  {
+    "id": "propose-verb",
+    "word": "propose",
+    "baseWord": "propose",
+    "type": "verb",
+    "meaning": "đề xuất, đề nghị",
+    "pronunciation": "/prəˈpoʊz/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "I would like to propose a short break before we vote.",
+    "exampleVi": "Tôi muốn đề xuất một giờ nghỉ ngắn trước khi chúng ta bỏ phiếu.",
+    "collocations": [
+      "propose a change",
+      "propose a plan",
+      "propose a solution"
+    ],
+    "synonyms": [
+      "suggest",
+      "recommend",
+      "offer"
+    ],
+    "wordFamily": [
+      "proposal",
+      "proposition"
+    ],
+    "day": 6
+  },
+  {
+    "id": "reschedule-verb",
+    "word": "reschedule",
+    "baseWord": "reschedule",
+    "type": "verb",
+    "meaning": "đổi lịch, lên lịch lại",
+    "pronunciation": "/ˌriːˈskedʒuːl/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We had to reschedule the meeting due to a scheduling conflict.",
+    "exampleVi": "Chúng tôi đã phải đổi lịch cuộc họp do xung đột lịch trình.",
+    "collocations": [
+      "reschedule an appointment",
+      "reschedule a meeting",
+      "reschedule for next week"
+    ],
+    "synonyms": [
+      "postpone",
+      "rearrange"
+    ],
+    "wordFamily": [
+      "scheduled"
+    ],
     "day": 6
   },
   {
@@ -310,17 +545,31 @@
     "word": "revise",
     "baseWord": "revise",
     "type": "verb",
-    "meaning": "sửa đổi, chỉnh sửa",
+    "meaning": "chỉnh sửa, sửa đổi",
     "pronunciation": "/rɪˈvaɪz/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We need to revise the proposal before the next meeting.",
-    "exampleVi": "Chúng ta cần sửa đổi đề xuất trước cuộc họp tiếp theo.",
-    "collocations": ["revise a document", "revise the budget", "revise a plan"],
-    "synonyms": ["amend", "modify"],
-    "wordFamily": ["revision", "revised", "revising"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The marketing team needs to revise the campaign strategy.",
+    "exampleVi": "Đội ngũ tiếp thị cần chỉnh sửa chiến lược chiến dịch.",
+    "collocations": [
+      "revise a draft",
+      "revise a plan",
+      "revise a policy"
+    ],
+    "synonyms": [
+      "edit",
+      "modify",
+      "amend"
+    ],
+    "wordFamily": [
+      "revision",
+      "revised"
+    ],
     "day": 6
   },
   {
@@ -330,105 +579,87 @@
     "type": "adjective",
     "meaning": "nhất trí, đồng lòng",
     "pronunciation": "/juːˈnænɪməs/",
-    "topic": "Meetings",
-    "frequency": "low",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The decision to expand was unanimous.",
-    "exampleVi": "Quyết định mở rộng đã được nhất trí.",
-    "collocations": ["unanimous decision", "unanimous vote", "unanimous agreement"],
-    "synonyms": ["united", "undivided"],
-    "wordFamily": ["unanimously", "unanimity"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The board reached a unanimous decision to expand into Europe.",
+    "exampleVi": "Hội đồng quản trị đạt được quyết định nhất trí mở rộng sang châu Âu.",
+    "collocations": [
+      "unanimous decision",
+      "unanimous support",
+      "unanimous vote"
+    ],
+    "synonyms": [
+      "united",
+      "consistent",
+      "consensual"
+    ],
+    "wordFamily": [
+      "unanimously",
+      "unanimity"
+    ],
     "day": 6
   },
   {
-    "id": "brief-adjective",
-    "word": "brief",
-    "baseWord": "brief",
-    "type": "adjective",
-    "meaning": "ngắn gọn, tóm tắt",
-    "pronunciation": "/briːf/",
-    "topic": "Meetings",
+    "id": "venue-noun",
+    "word": "venue",
+    "baseWord": "venue",
+    "type": "noun",
+    "meaning": "địa điểm tổ chức",
+    "pronunciation": "/ˈvenjuː/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The manager gave a brief update on the project status.",
-    "exampleVi": "Quản lý đã cập nhật ngắn gọn về tình trạng dự án.",
-    "collocations": ["brief overview", "brief meeting", "brief description"],
-    "synonyms": ["short", "concise"],
-    "wordFamily": ["briefly", "briefing", "briefed"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The venue for the press conference has been changed to the Grand Ballroom.",
+    "exampleVi": "Địa điểm tổ chức họp báo đã được đổi sang Grand Ballroom.",
+    "collocations": [
+      "conference venue",
+      "event venue",
+      "select a venue"
+    ],
+    "synonyms": [
+      "location",
+      "place",
+      "site"
+    ],
+    "wordFamily": [],
     "day": 6
   },
   {
-    "id": "seminar-noun",
-    "word": "seminar",
-    "baseWord": "seminar",
+    "id": "agenda item-noun",
+    "word": "agenda item",
+    "baseWord": "agenda item",
     "type": "noun",
-    "meaning": "hội thảo chuyên đề",
-    "pronunciation": "/ˈsɛmɪnɑːr/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "meaning": "đề mục thảo luận trong chương trình họp",
+    "pronunciation": "/əˈdʒendə ˈaɪtəm/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The marketing seminar will take place on Friday afternoon.",
-    "exampleVi": "Hội thảo marketing sẽ diễn ra vào chiều thứ Sáu.",
-    "collocations": ["attend a seminar", "training seminar", "online seminar"],
-    "synonyms": ["workshop", "symposium"],
-    "wordFamily": ["seminars"],
-    "day": 7
-  },
-  {
-    "id": "keynote-noun",
-    "word": "keynote",
-    "baseWord": "keynote",
-    "type": "noun",
-    "meaning": "bài phát biểu chính, chủ đề chính",
-    "pronunciation": "/ˈkiːnoʊt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The keynote speaker at the conference is a renowned economist.",
-    "exampleVi": "Diễn giả chính tại hội nghị là một nhà kinh tế nổi tiếng.",
-    "collocations": ["keynote speaker", "keynote address", "keynote speech"],
-    "synonyms": ["main speech", "featured address"],
-    "wordFamily": ["keynotes"],
-    "day": 7
-  },
-  {
-    "id": "convene-verb",
-    "word": "convene",
-    "baseWord": "convene",
-    "type": "verb",
-    "meaning": "triệu tập, nhóm họp",
-    "pronunciation": "/kənˈviːn/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board will convene a special meeting to discuss the merger.",
-    "exampleVi": "Hội đồng sẽ triệu tập cuộc họp đặc biệt để thảo luận về việc sáp nhập.",
-    "collocations": ["convene a meeting", "convene a session", "convene the committee"],
-    "synonyms": ["assemble", "gather"],
-    "wordFamily": ["convened", "convening", "convention"],
-    "day": 7
-  },
-  {
-    "id": "handout-noun",
-    "word": "handout",
-    "baseWord": "handout",
-    "type": "noun",
-    "meaning": "tài liệu phát tay",
-    "pronunciation": "/ˈhændaʊt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Please take a handout from the table near the entrance.",
-    "exampleVi": "Vui lòng lấy một bản tài liệu từ bàn gần lối vào.",
-    "collocations": ["meeting handout", "prepare handouts", "distribute handouts"],
-    "synonyms": ["pamphlet", "leaflet"],
-    "wordFamily": ["handouts"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The first agenda item is the review of last quarter's financial report.",
+    "exampleVi": "Đề mục thảo luận đầu tiên trong chương trình là xem xét báo cáo tài chính quý trước.",
+    "collocations": [
+      "first agenda item",
+      "add an agenda item",
+      "discuss an agenda item"
+    ],
+    "synonyms": [
+      "topic",
+      "discussion point"
+    ],
+    "wordFamily": [],
     "day": 7
   },
   {
@@ -436,107 +667,31 @@
     "word": "allocate",
     "baseWord": "allocate",
     "type": "verb",
-    "meaning": "phân bổ, phân phối",
+    "meaning": "phân bổ, cấp cho",
     "pronunciation": "/ˈæləkeɪt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The committee will allocate funds for the new project.",
-    "exampleVi": "Ủy ban sẽ phân bổ kinh phí cho dự án mới.",
-    "collocations": ["allocate resources", "allocate funds", "allocate time"],
-    "synonyms": ["assign", "distribute"],
-    "wordFamily": ["allocation", "allocated", "allocating"],
-    "day": 7
-  },
-  {
-    "id": "prioritize-verb",
-    "word": "prioritize",
-    "baseWord": "prioritize",
-    "type": "verb",
-    "meaning": "ưu tiên, sắp xếp thứ tự ưu tiên",
-    "pronunciation": "/praɪˈɒrɪtaɪz/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "We need to prioritize customer satisfaction over cost reduction.",
-    "exampleVi": "Chúng ta cần ưu tiên sự hài lòng của khách hàng hơn việc cắt giảm chi phí.",
-    "collocations": ["prioritize tasks", "prioritize goals", "prioritize safety"],
-    "synonyms": ["rank", "emphasize"],
-    "wordFamily": ["priority", "priorities", "prioritized"],
-    "day": 7
-  },
-  {
-    "id": "agenda-item-noun",
-    "word": "agenda item",
-    "baseWord": "agenda item",
-    "type": "noun",
-    "meaning": "hạng mục trong chương trình nghị sự",
-    "pronunciation": "/əˈdʒɛndə ˌaɪtəm/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The first agenda item is the review of last quarter's performance.",
-    "exampleVi": "Hạng mục đầu tiên trong chương trình là đánh giá hiệu suất quý trước.",
-    "collocations": ["first agenda item", "next agenda item", "discuss an agenda item"],
-    "synonyms": ["topic", "matter"],
-    "wordFamily": ["agenda items"],
-    "day": 7
-  },
-  {
-    "id": "minutes-verb",
-    "word": "minute",
-    "baseWord": "minute",
-    "type": "verb",
-    "meaning": "ghi biên bản",
-    "pronunciation": "/ˈmɪnɪt/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Who will minute the proceedings of today's meeting?",
-    "exampleVi": "Ai sẽ ghi biên bản cho cuộc họp hôm nay?",
-    "collocations": ["minute the meeting", "minute the discussion", "minute the proceedings"],
-    "synonyms": ["record", "document"],
-    "wordFamily": ["minuted", "minuting", "minutes"],
-    "day": 7
-  },
-  {
-    "id": "collaborate-verb",
-    "word": "collaborate",
-    "baseWord": "collaborate",
-    "type": "verb",
-    "meaning": "cộng tác, hợp tác",
-    "pronunciation": "/kəˈlæbəreɪt/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The two departments will collaborate on the marketing campaign.",
-    "exampleVi": "Hai phòng ban sẽ hợp tác trong chiến dịch marketing.",
-    "collocations": ["collaborate with", "collaborate on a project", "collaborate closely"],
-    "synonyms": ["cooperate", "work together"],
-    "wordFamily": ["collaboration", "collaborative", "collaborator"],
-    "day": 7
-  },
-  {
-    "id": "projector-noun",
-    "word": "projector",
-    "baseWord": "projector",
-    "type": "noun",
-    "meaning": "máy chiếu",
-    "pronunciation": "/prəˈdʒɛktər/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 3"],
-    "example": "The projector in the conference room needs to be replaced.",
-    "exampleVi": "Máy chiếu trong phòng hội nghị cần được thay thế.",
-    "collocations": ["overhead projector", "set up the projector", "projector screen"],
-    "synonyms": ["display device"],
-    "wordFamily": ["projectors", "project", "projection"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The board decided to allocate more funds to product development.",
+    "exampleVi": "Hội đồng quản trị quyết định phân bổ nhiều ngân sách hơn cho phát triển sản phẩm.",
+    "collocations": [
+      "allocate resources",
+      "allocate funds",
+      "allocate time"
+    ],
+    "synonyms": [
+      "distribute",
+      "assign",
+      "allot"
+    ],
+    "wordFamily": [
+      "allocation",
+      "allocated"
+    ],
     "day": 7
   },
   {
@@ -544,35 +699,62 @@
     "word": "brainstorm",
     "baseWord": "brainstorm",
     "type": "verb",
-    "meaning": "động não, nghĩ ra ý tưởng",
+    "meaning": "động não, thảo luận tìm ý tưởng",
     "pronunciation": "/ˈbreɪnstɔːrm/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5"],
-    "example": "Let's brainstorm ideas for the new advertising campaign.",
-    "exampleVi": "Hãy cùng động não các ý tưởng cho chiến dịch quảng cáo mới.",
-    "collocations": ["brainstorm ideas", "brainstorm solutions", "brainstorming session"],
-    "synonyms": ["generate ideas", "ideate"],
-    "wordFamily": ["brainstorming", "brainstormed"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The design team met to brainstorm ideas for the new product launch.",
+    "exampleVi": "Đội ngũ thiết kế đã họp để thảo luận tìm ý tưởng cho việc ra mắt sản phẩm mới.",
+    "collocations": [
+      "brainstorm ideas",
+      "brainstorm session",
+      "meet to brainstorm"
+    ],
+    "synonyms": [
+      "conceptualize",
+      "think up"
+    ],
+    "wordFamily": [
+      "brainstorming"
+    ],
     "day": 7
   },
   {
-    "id": "follow-up-noun",
-    "word": "follow-up",
-    "baseWord": "follow-up",
-    "type": "noun",
-    "meaning": "việc theo dõi tiếp, hành động tiếp theo",
-    "pronunciation": "/ˈfɒloʊ ʌp/",
-    "topic": "Meetings",
+    "id": "collaborate-verb",
+    "word": "collaborate",
+    "baseWord": "collaborate",
+    "type": "verb",
+    "meaning": "hợp tác, cộng tác",
+    "pronunciation": "/kəˈlæbəreɪt/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "I will send a follow-up email after the meeting.",
-    "exampleVi": "Tôi sẽ gửi email theo dõi sau cuộc họp.",
-    "collocations": ["follow-up meeting", "follow-up email", "follow-up action"],
-    "synonyms": ["continuation", "update"],
-    "wordFamily": ["follow up", "followed up"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We need to collaborate with our overseas offices on this project.",
+    "exampleVi": "Chúng tôi cần hợp tác với các văn phòng ở nước ngoài của mình trong dự án này.",
+    "collocations": [
+      "collaborate closely",
+      "collaborate on a project",
+      "collaborate with partners"
+    ],
+    "synonyms": [
+      "cooperate",
+      "work together"
+    ],
+    "wordFamily": [
+      "collaboration",
+      "collaborative",
+      "collaborator"
+    ],
     "day": 7
   },
   {
@@ -582,87 +764,200 @@
     "type": "verb",
     "meaning": "kết luận, kết thúc",
     "pronunciation": "/kənˈkluːd/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The meeting concluded with a summary of the action items.",
-    "exampleVi": "Cuộc họp kết thúc với phần tóm tắt các mục hành động.",
-    "collocations": ["conclude a meeting", "conclude negotiations", "conclude with"],
-    "synonyms": ["finish", "wrap up"],
-    "wordFamily": ["conclusion", "concluded", "concluding"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The manager decided to conclude the meeting at noon.",
+    "exampleVi": "Người quản lý quyết định kết thúc cuộc họp vào buổi trưa.",
+    "collocations": [
+      "conclude a meeting",
+      "conclude a contract",
+      "conclude with"
+    ],
+    "synonyms": [
+      "finish",
+      "terminate",
+      "close"
+    ],
+    "wordFamily": [
+      "conclusion",
+      "conclusive",
+      "conclusively"
+    ],
     "day": 7
   },
   {
-    "id": "motion-noun",
-    "word": "motion",
-    "baseWord": "motion",
-    "type": "noun",
-    "meaning": "kiến nghị, đề nghị (trong họp)",
-    "pronunciation": "/ˈmoʊʃən/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A motion to increase the marketing budget was approved.",
-    "exampleVi": "Kiến nghị tăng ngân sách marketing đã được phê duyệt.",
-    "collocations": ["pass a motion", "table a motion", "second a motion"],
-    "synonyms": ["proposal", "resolution"],
-    "wordFamily": ["motions"],
-    "day": 7
-  },
-  {
-    "id": "preliminary-adjective",
-    "word": "preliminary",
-    "baseWord": "preliminary",
-    "type": "adjective",
-    "meaning": "sơ bộ, ban đầu",
-    "pronunciation": "/prɪˈlɪmɪnɛri/",
-    "topic": "Meetings",
+    "id": "convene-verb",
+    "word": "convene",
+    "baseWord": "convene",
+    "type": "verb",
+    "meaning": "triệu tập (cuộc họp), họp lại",
+    "pronunciation": "/kənˈviːn/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The preliminary results of the survey will be shared next week.",
-    "exampleVi": "Kết quả sơ bộ của cuộc khảo sát sẽ được chia sẻ vào tuần tới.",
-    "collocations": ["preliminary report", "preliminary findings", "preliminary review"],
-    "synonyms": ["initial", "tentative"],
-    "wordFamily": ["preliminaries", "preliminarily"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The committee will convene next Tuesday to review the applications.",
+    "exampleVi": "Ủy ban sẽ họp vào thứ Ba tới để xem xét các đơn đăng ký.",
+    "collocations": [
+      "convene a meeting",
+      "convene a committee",
+      "schedule to convene"
+    ],
+    "synonyms": [
+      "gather",
+      "assemble",
+      "meet"
+    ],
+    "wordFamily": [
+      "convener",
+      "convention"
+    ],
     "day": 7
   },
   {
-    "id": "quorum-noun",
-    "word": "quorum",
-    "baseWord": "quorum",
+    "id": "facilitator-noun",
+    "word": "facilitator",
+    "baseWord": "facilitate",
     "type": "noun",
-    "meaning": "số đại biểu đủ để họp, túc số",
-    "pronunciation": "/ˈkwɔːrəm/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "We need a quorum of at least 10 members to vote.",
-    "exampleVi": "Chúng ta cần đủ túc số ít nhất 10 thành viên để bỏ phiếu.",
-    "collocations": ["reach a quorum", "establish a quorum", "lack a quorum"],
-    "synonyms": ["minimum number", "threshold"],
-    "wordFamily": ["quorums"],
-    "day": 7
-  },
-  {
-    "id": "teleconference-noun",
-    "word": "teleconference",
-    "baseWord": "teleconference",
-    "type": "noun",
-    "meaning": "hội nghị từ xa, họp qua điện thoại",
-    "pronunciation": "/ˈtɛlɪkɒnfərəns/",
-    "topic": "Meetings",
+    "meaning": "người hỗ trợ, người điều phối",
+    "pronunciation": "/fəˈsɪlɪteɪtər/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "We will hold a teleconference with the overseas team.",
-    "exampleVi": "Chúng tôi sẽ tổ chức hội nghị từ xa với đội ngũ nước ngoài.",
-    "collocations": ["join a teleconference", "schedule a teleconference", "teleconference call"],
-    "synonyms": ["video call", "remote meeting"],
-    "wordFamily": ["teleconferences", "teleconferencing"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The facilitator guided the team through the brainstorming session.",
+    "exampleVi": "Người điều phối đã dẫn dắt nhóm vượt qua buổi thảo luận tìm ý tưởng.",
+    "collocations": [
+      "workshop facilitator",
+      "meeting facilitator"
+    ],
+    "synonyms": [
+      "moderator",
+      "coordinator"
+    ],
+    "wordFamily": [
+      "facilitate",
+      "facilitation"
+    ],
+    "day": 7
+  },
+  {
+    "id": "follow-up-noun",
+    "word": "follow-up",
+    "baseWord": "follow-up",
+    "type": "noun",
+    "meaning": "bước tiếp theo, hành động tiếp nối",
+    "pronunciation": "/ˈfɑːloʊ ʌp/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "As a follow-up, she sent an email summarizing the main decisions.",
+    "exampleVi": "Như một bước tiếp theo, cô ấy đã gửi một email tóm tắt các quyết định chính.",
+    "collocations": [
+      "follow-up meeting",
+      "follow-up email",
+      "follow-up call"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "handout-noun",
+    "word": "handout",
+    "baseWord": "handout",
+    "type": "noun",
+    "meaning": "tài liệu phát tay",
+    "pronunciation": "/ˈhændaʊt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Please refer to the handout for the complete list of guidelines.",
+    "exampleVi": "Vui lòng tham khảo tài liệu phát tay để biết danh sách hướng dẫn đầy đủ.",
+    "collocations": [
+      "distribute handouts",
+      "conference handout",
+      "meeting handout"
+    ],
+    "synonyms": [
+      "document",
+      "pamphlet"
+    ],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "keynote-noun",
+    "word": "keynote",
+    "baseWord": "keynote",
+    "type": "noun",
+    "meaning": "bài diễn văn chính, điểm then chốt",
+    "pronunciation": "/ˈkiːnoʊt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Dr. Aris will deliver the keynote address at the business forum.",
+    "exampleVi": "Tiến sĩ Aris sẽ trình bày bài diễn văn chính tại diễn đàn doanh nghiệp.",
+    "collocations": [
+      "keynote speaker",
+      "keynote address",
+      "keynote speech"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "minute-verb",
+    "word": "minute",
+    "baseWord": "minute",
+    "type": "verb",
+    "meaning": "ghi biên bản cuộc họp",
+    "pronunciation": "/ˈmɪnɪt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The secretary will minute the discussion on budget allocations.",
+    "exampleVi": "Thư ký sẽ ghi biên bản cuộc thảo luận về phân bổ ngân sách.",
+    "collocations": [
+      "minute the meeting",
+      "minute a discussion"
+    ],
+    "synonyms": [
+      "record",
+      "document"
+    ],
+    "wordFamily": [
+      "minutes"
+    ],
     "day": 7
   },
   {
@@ -670,71 +965,353 @@
     "word": "moderator",
     "baseWord": "moderator",
     "type": "noun",
-    "meaning": "người điều phối",
-    "pronunciation": "/ˈmɒdəreɪtər/",
-    "topic": "Meetings",
+    "meaning": "người điều phối, người làm chủ bàn tròn",
+    "pronunciation": "/ˈmɑːdəreɪtər/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The moderator ensured that everyone had a chance to speak.",
-    "exampleVi": "Người điều phối đảm bảo mọi người đều có cơ hội phát biểu.",
-    "collocations": ["panel moderator", "discussion moderator", "serve as moderator"],
-    "synonyms": ["facilitator", "host"],
-    "wordFamily": ["moderators", "moderate", "moderation"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The moderator did an excellent job keeping the discussion on track.",
+    "exampleVi": "Người điều phối đã làm rất tốt việc giữ cho cuộc thảo luận đi đúng hướng.",
+    "collocations": [
+      "panel moderator",
+      "acting moderator",
+      "meeting moderator"
+    ],
+    "synonyms": [
+      "facilitator",
+      "chairperson"
+    ],
+    "wordFamily": [
+      "moderate",
+      "moderation"
+    ],
     "day": 7
   },
   {
-    "id": "slot-noun",
-    "word": "slot",
-    "baseWord": "slot",
+    "id": "motion-noun",
+    "word": "motion",
+    "baseWord": "motion",
     "type": "noun",
-    "meaning": "khung giờ, khoảng thời gian",
-    "pronunciation": "/slɒt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Is there an available time slot for a meeting tomorrow?",
-    "exampleVi": "Có khung giờ trống nào cho cuộc họp ngày mai không?",
-    "collocations": ["time slot", "available slot", "book a slot"],
-    "synonyms": ["time frame", "window"],
-    "wordFamily": ["slots"],
-    "day": 8
-  },
-  {
-    "id": "tentative-adjective",
-    "word": "tentative",
-    "baseWord": "tentative",
-    "type": "adjective",
-    "meaning": "dự kiến, tạm thời",
-    "pronunciation": "/ˈtɛntətɪv/",
-    "topic": "Meetings",
+    "meaning": "kiến nghị, đề xuất (tại cuộc họp)",
+    "pronunciation": "/ˈmoʊʃn/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The tentative date for the launch is March 15.",
-    "exampleVi": "Ngày dự kiến ra mắt là 15 tháng Ba.",
-    "collocations": ["tentative schedule", "tentative agreement", "tentative plan"],
-    "synonyms": ["provisional", "preliminary"],
-    "wordFamily": ["tentatively"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "He put forward a motion to table the discussion until next month.",
+    "exampleVi": "Ông ấy đã đưa ra kiến nghị tạm dừng cuộc thảo luận cho đến tháng sau.",
+    "collocations": [
+      "propose a motion",
+      "second a motion",
+      "motion to table"
+    ],
+    "synonyms": [
+      "proposal",
+      "suggestion"
+    ],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "preliminary-adjective",
+    "word": "preliminary",
+    "baseWord": "preliminary",
+    "type": "adjective",
+    "meaning": "sơ bộ, mở đầu",
+    "pronunciation": "/prɪˈlɪmɪneri/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The committee released its preliminary findings to the public.",
+    "exampleVi": "Ủy ban đã công bố những phát hiện sơ bộ của mình trước công chúng.",
+    "collocations": [
+      "preliminary budget",
+      "preliminary results",
+      "preliminary meeting"
+    ],
+    "synonyms": [
+      "initial",
+      "introductory",
+      "tentative"
+    ],
+    "wordFamily": [
+      "preliminaries"
+    ],
+    "day": 7
+  },
+  {
+    "id": "prioritize-verb",
+    "word": "prioritize",
+    "baseWord": "prioritize",
+    "type": "verb",
+    "meaning": "ưu tiên",
+    "pronunciation": "/praɪˈɔːrətaɪz/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We must prioritize tasks based on their urgency and impact.",
+    "exampleVi": "Chúng ta phải ưu tiên các công việc dựa trên mức độ khẩn cấp và tác động của chúng.",
+    "collocations": [
+      "prioritize tasks",
+      "prioritize work",
+      "prioritize objectives"
+    ],
+    "synonyms": [
+      "rank",
+      "value"
+    ],
+    "wordFamily": [
+      "priority",
+      "prioritization"
+    ],
+    "day": 7
+  },
+  {
+    "id": "projector-noun",
+    "word": "projector",
+    "baseWord": "projector",
+    "type": "noun",
+    "meaning": "máy chiếu",
+    "pronunciation": "/prəˈdʒɛktər/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Please turn off the projector after the presentation is finished.",
+    "exampleVi": "Vui lòng tắt máy chiếu sau khi bài thuyết trình kết thúc.",
+    "collocations": [
+      "digital projector",
+      "overhead projector",
+      "projector screen"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "project"
+    ],
+    "day": 7
+  },
+  {
+    "id": "quorum-noun",
+    "word": "quorum",
+    "baseWord": "quorum",
+    "type": "noun",
+    "meaning": "túc số, số lượng thành viên tối thiểu để tiến hành họp",
+    "pronunciation": "/ˈkwɔːrəm/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We cannot vote on the amendment because we do not have a quorum.",
+    "exampleVi": "Chúng tôi không thể bỏ phiếu về sửa đổi vì chúng tôi không đủ túc số họp.",
+    "collocations": [
+      "reach a quorum",
+      "constitute a quorum",
+      "lack a quorum"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "seminar-noun",
+    "word": "seminar",
+    "baseWord": "seminar",
+    "type": "noun",
+    "meaning": "hội thảo chuyên đề",
+    "pronunciation": "/ˈsemɪnɑːr/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "He will attend a seminar on effective time management.",
+    "exampleVi": "Anh ấy sẽ tham dự một buổi hội thảo chuyên đề về quản lý thời gian hiệu quả.",
+    "collocations": [
+      "training seminar",
+      "business seminar",
+      "attend a seminar"
+    ],
+    "synonyms": [
+      "workshop",
+      "lecture",
+      "conference"
+    ],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "teleconference-noun",
+    "word": "teleconference",
+    "baseWord": "teleconference",
+    "type": "noun",
+    "meaning": "cuộc họp qua điện thoại/mạng viễn thông",
+    "pronunciation": "/ˈtelikɑːnfərəns/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The managers scheduled a teleconference to discuss the sales figures.",
+    "exampleVi": "Các quản lý đã lên lịch một cuộc họp qua điện thoại để thảo luận về số liệu bán hàng.",
+    "collocations": [
+      "hold a teleconference",
+      "schedule a teleconference",
+      "teleconference facility"
+    ],
+    "synonyms": [
+      "conference call",
+      "videoconference"
+    ],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "timetable-noun",
+    "word": "timetable",
+    "baseWord": "timetable",
+    "type": "noun",
+    "meaning": "thời khóa biểu, lịch trình",
+    "pronunciation": "/ˈtaɪmteɪbl/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We need to set a strict timetable for the development phase.",
+    "exampleVi": "Chúng ta cần thiết lập một lịch trình nghiêm ngặt cho giai đoạn phát triển.",
+    "collocations": [
+      "project timetable",
+      "train timetable",
+      "according to the timetable"
+    ],
+    "synonyms": [
+      "schedule",
+      "timeline",
+      "calendar"
+    ],
+    "wordFamily": [],
+    "day": 7
+  },
+  {
+    "id": "adjournment-noun",
+    "word": "adjournment",
+    "baseWord": "adjourn",
+    "type": "noun",
+    "meaning": "sự hoãn lại, sự tạm nghỉ cuộc họp",
+    "pronunciation": "/əˈdʒɜːrnmənt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Before the adjournment, the date of the next meeting was agreed upon.",
+    "exampleVi": "Trước khi tạm nghỉ cuộc họp, ngày họp tiếp theo đã được thống nhất.",
+    "collocations": [
+      "request an adjournment",
+      "adjournment of the meeting",
+      "until adjournment"
+    ],
+    "synonyms": [
+      "postponement",
+      "recess",
+      "delay"
+    ],
+    "wordFamily": [
+      "adjourn",
+      "adjourned"
+    ],
     "day": 8
   },
   {
-    "id": "mandatory-adjective",
-    "word": "mandatory",
-    "baseWord": "mandatory",
-    "type": "adjective",
-    "meaning": "bắt buộc",
-    "pronunciation": "/ˈmændətɔːri/",
-    "topic": "Meetings",
+    "id": "bring up-phrase",
+    "word": "bring up",
+    "baseWord": "bring up",
+    "type": "phrase",
+    "meaning": "đưa ra (thảo luận, đề cập)",
+    "pronunciation": "/brɪŋ ʌp/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Attendance at the safety training is mandatory for all staff.",
-    "exampleVi": "Việc tham dự đào tạo an toàn là bắt buộc đối với tất cả nhân viên.",
-    "collocations": ["mandatory meeting", "mandatory training", "mandatory requirement"],
-    "synonyms": ["compulsory", "required"],
-    "wordFamily": ["mandatorily", "mandate"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Please bring up the shipping delay at the staff meeting.",
+    "exampleVi": "Vui lòng đưa việc chậm trễ vận chuyển ra thảo luận tại cuộc họp nhân viên.",
+    "collocations": [
+      "bring up a topic",
+      "bring up a problem",
+      "bring up an issue"
+    ],
+    "synonyms": [
+      "raise",
+      "mention",
+      "introduce"
+    ],
+    "wordFamily": [],
+    "day": 8
+  },
+  {
+    "id": "cancel-verb",
+    "word": "cancel",
+    "baseWord": "cancel",
+    "type": "verb",
+    "meaning": "hủy bỏ",
+    "pronunciation": "/ˈkænsl/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "They had to cancel the outdoor seminar due to bad weather.",
+    "exampleVi": "Họ đã phải hủy buổi hội thảo ngoài trời do thời tiết xấu.",
+    "collocations": [
+      "cancel a reservation",
+      "cancel a meeting",
+      "cancel a flight"
+    ],
+    "synonyms": [
+      "call off",
+      "annul",
+      "abort"
+    ],
+    "wordFamily": [
+      "cancellation",
+      "canceled"
+    ],
     "day": 8
   },
   {
@@ -742,17 +1319,31 @@
     "word": "conflict",
     "baseWord": "conflict",
     "type": "noun",
-    "meaning": "xung đột, mâu thuẫn",
-    "pronunciation": "/ˈkɒnflɪkt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "I have a scheduling conflict on Wednesday afternoon.",
-    "exampleVi": "Tôi bị trùng lịch vào chiều thứ Tư.",
-    "collocations": ["scheduling conflict", "resolve a conflict", "conflict of interest"],
-    "synonyms": ["clash", "dispute"],
-    "wordFamily": ["conflicts", "conflicting", "conflicted"],
+    "meaning": "xung đột, sự trùng lặp (lịch trình)",
+    "pronunciation": "/ˈkɑːnflɪkt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Because of a scheduling conflict, I will not be able to attend the workshop.",
+    "exampleVi": "Do trùng lặp lịch trình, tôi sẽ không thể tham dự buổi thảo luận chuyên đề.",
+    "collocations": [
+      "scheduling conflict",
+      "resolve a conflict",
+      "conflict of interest"
+    ],
+    "synonyms": [
+      "clash",
+      "disagreement"
+    ],
+    "wordFamily": [
+      "conflict-verb",
+      "conflicting"
+    ],
     "day": 8
   },
   {
@@ -762,105 +1353,94 @@
     "type": "verb",
     "meaning": "phối hợp, điều phối",
     "pronunciation": "/koʊˈɔːrdɪneɪt/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Please coordinate with the IT team to set up the equipment.",
-    "exampleVi": "Vui lòng phối hợp với nhóm IT để lắp đặt thiết bị.",
-    "collocations": ["coordinate efforts", "coordinate with a team", "coordinate activities"],
-    "synonyms": ["organize", "synchronize"],
-    "wordFamily": ["coordination", "coordinator", "coordinated"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The manager will coordinate the efforts of both departments.",
+    "exampleVi": "Người quản lý sẽ phối hợp các nỗ lực của cả hai bộ phận.",
+    "collocations": [
+      "coordinate efforts",
+      "coordinate activities",
+      "coordinate with staff"
+    ],
+    "synonyms": [
+      "align",
+      "organize",
+      "harmonize"
+    ],
+    "wordFamily": [
+      "coordinator",
+      "coordination",
+      "coordinated"
+    ],
     "day": 8
   },
   {
-    "id": "reminder-noun",
-    "word": "reminder",
-    "baseWord": "reminder",
+    "id": "coordinator-noun",
+    "word": "coordinator",
+    "baseWord": "coordinate",
     "type": "noun",
-    "meaning": "lời nhắc nhở",
-    "pronunciation": "/rɪˈmaɪndər/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "This is a reminder that the deadline is this Friday.",
-    "exampleVi": "Đây là lời nhắc nhở rằng hạn chót là thứ Sáu này.",
-    "collocations": ["friendly reminder", "send a reminder", "email reminder"],
-    "synonyms": ["prompt", "notice"],
-    "wordFamily": ["reminders", "remind", "reminded"],
-    "day": 8
-  },
-  {
-    "id": "adjourn-noun",
-    "word": "adjournment",
-    "baseWord": "adjourn",
-    "type": "noun",
-    "meaning": "sự hoãn họp, sự tạm nghỉ",
-    "pronunciation": "/əˈdʒɜːrnmənt/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The adjournment of the hearing was unexpected.",
-    "exampleVi": "Việc hoãn phiên điều trần là bất ngờ.",
-    "collocations": ["request an adjournment", "motion for adjournment", "temporary adjournment"],
-    "synonyms": ["suspension", "recess"],
-    "wordFamily": ["adjourn", "adjourned"],
-    "day": 8
-  },
-  {
-    "id": "proceed-verb",
-    "word": "proceed",
-    "baseWord": "proceed",
-    "type": "verb",
-    "meaning": "tiến hành, tiếp tục",
-    "pronunciation": "/prəˈsiːd/",
-    "topic": "Meetings",
+    "meaning": "người điều phối, điều phối viên",
+    "pronunciation": "/koʊˈɔːrdɪneɪtər/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Let's proceed to the next item on the agenda.",
-    "exampleVi": "Hãy tiến hành mục tiếp theo trong chương trình nghị sự.",
-    "collocations": ["proceed with", "proceed to", "proceed as planned"],
-    "synonyms": ["continue", "go ahead"],
-    "wordFamily": ["proceedings", "proceeded", "proceeding"],
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The event coordinator is finalizing the seating arrangements.",
+    "exampleVi": "Điều phối viên sự kiện đang hoàn thiện việc sắp xếp chỗ ngồi.",
+    "collocations": [
+      "event coordinator",
+      "project coordinator",
+      "program coordinator"
+    ],
+    "synonyms": [
+      "organizer",
+      "planner"
+    ],
+    "wordFamily": [
+      "coordinate",
+      "coordination"
+    ],
     "day": 8
   },
   {
-    "id": "recap-noun",
-    "word": "recap",
-    "baseWord": "recap",
+    "id": "duration-noun",
+    "word": "duration",
+    "baseWord": "duration",
     "type": "noun",
-    "meaning": "tóm tắt lại",
-    "pronunciation": "/ˈriːkæp/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "meaning": "thời lượng, khoảng thời gian kéo dài",
+    "pronunciation": "/duˈreɪʃn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4"],
-    "example": "Here is a quick recap of what was discussed at the meeting.",
-    "exampleVi": "Đây là phần tóm tắt nhanh những gì đã được thảo luận trong cuộc họp.",
-    "collocations": ["quick recap", "meeting recap", "provide a recap"],
-    "synonyms": ["summary", "review"],
-    "wordFamily": ["recaps", "recapped", "recapping"],
-    "day": 8
-  },
-  {
-    "id": "postponement-noun",
-    "word": "postponement",
-    "baseWord": "postpone",
-    "type": "noun",
-    "meaning": "sự trì hoãn",
-    "pronunciation": "/poʊstˈpoʊnmənt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The postponement of the event disappointed many attendees.",
-    "exampleVi": "Sự trì hoãn sự kiện đã làm thất vọng nhiều người tham dự.",
-    "collocations": ["request a postponement", "indefinite postponement", "announce a postponement"],
-    "synonyms": ["deferral", "delay"],
-    "wordFamily": ["postpone", "postponed"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The duration of the presentation will be exactly twenty minutes.",
+    "exampleVi": "Thời lượng của bài thuyết trình sẽ kéo dài đúng hai mươi phút.",
+    "collocations": [
+      "for the duration of",
+      "short duration",
+      "extend the duration"
+    ],
+    "synonyms": [
+      "length",
+      "span",
+      "period"
+    ],
+    "wordFamily": [
+      "durable",
+      "endure"
+    ],
     "day": 8
   },
   {
@@ -870,15 +1450,123 @@
     "type": "adjective",
     "meaning": "sắp tới, sắp diễn ra",
     "pronunciation": "/ˌfɔːrθˈkʌmɪŋ/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Details about the forthcoming conference will be announced soon.",
-    "exampleVi": "Chi tiết về hội nghị sắp tới sẽ được thông báo sớm.",
-    "collocations": ["forthcoming event", "forthcoming meeting", "forthcoming release"],
-    "synonyms": ["upcoming", "approaching"],
-    "wordFamily": ["forthcome"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Details of the forthcoming conference will be emailed to all delegates.",
+    "exampleVi": "Thông tin chi tiết về hội nghị sắp tới sẽ được gửi email tới tất cả đại biểu.",
+    "collocations": [
+      "forthcoming election",
+      "forthcoming release",
+      "forthcoming book"
+    ],
+    "synonyms": [
+      "upcoming",
+      "imminent",
+      "approaching"
+    ],
+    "wordFamily": [],
+    "day": 8
+  },
+  {
+    "id": "mandatory-adjective",
+    "word": "mandatory",
+    "baseWord": "mandatory",
+    "type": "adjective",
+    "meaning": "bắt buộc",
+    "pronunciation": "/ˈmændətɔːri/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Attendance at the safety orientation is mandatory for new hires.",
+    "exampleVi": "Việc tham gia buổi định hướng an toàn là bắt buộc đối với nhân viên mới.",
+    "collocations": [
+      "mandatory training",
+      "mandatory meeting",
+      "mandatory attendance"
+    ],
+    "synonyms": [
+      "compulsory",
+      "required",
+      "obligatory"
+    ],
+    "wordFamily": [
+      "mandate"
+    ],
+    "day": 8
+  },
+  {
+    "id": "postponement-noun",
+    "word": "postponement",
+    "baseWord": "postponement",
+    "type": "noun",
+    "meaning": "sự trì hoãn, sự hoãn lại",
+    "pronunciation": "/poʊstˈpoʊnmənt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The postponement of the project was due to supply chain problems.",
+    "exampleVi": "Sự trì hoãn dự án là do các vấn đề về chuỗi cung ứng.",
+    "collocations": [
+      "request a postponement",
+      "indefinite postponement",
+      "due to postponement"
+    ],
+    "synonyms": [
+      "delay",
+      "deferral"
+    ],
+    "wordFamily": [
+      "postpone",
+      "postponed"
+    ],
+    "day": 8
+  },
+  {
+    "id": "proceed-verb",
+    "word": "proceed",
+    "baseWord": "proceed",
+    "type": "verb",
+    "meaning": "tiến hành, tiếp tục",
+    "pronunciation": "/proʊˈsiːd/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The chairman gave us permission to proceed with the presentation.",
+    "exampleVi": "Chủ tịch đã cho phép chúng tôi tiếp tục tiến hành bài thuyết trình.",
+    "collocations": [
+      "proceed with caution",
+      "proceed to the next step",
+      "authorized to proceed"
+    ],
+    "synonyms": [
+      "continue",
+      "go ahead",
+      "advance"
+    ],
+    "wordFamily": [
+      "procedure",
+      "proceedings",
+      "process"
+    ],
     "day": 8
   },
   {
@@ -888,15 +1576,58 @@
     "type": "adjective",
     "meaning": "đúng giờ",
     "pronunciation": "/ˈpʌŋktʃuəl/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Employees are expected to be punctual for all meetings.",
-    "exampleVi": "Nhân viên phải đúng giờ trong tất cả các cuộc họp.",
-    "collocations": ["be punctual", "punctual arrival", "always punctual"],
-    "synonyms": ["on time", "prompt"],
-    "wordFamily": ["punctuality", "punctually"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Please try to be punctual, as the bus will leave at exactly 8:00 AM.",
+    "exampleVi": "Vui lòng cố gắng đúng giờ, vì xe buýt sẽ khởi hành đúng 8 giờ sáng.",
+    "collocations": [
+      "be punctual",
+      "punctual arrival",
+      "always punctual"
+    ],
+    "synonyms": [
+      "on time",
+      "prompt"
+    ],
+    "wordFamily": [
+      "punctually",
+      "punctuality"
+    ],
+    "day": 8
+  },
+  {
+    "id": "recap-noun",
+    "word": "recap",
+    "baseWord": "recap",
+    "type": "noun",
+    "meaning": "sự tóm tắt lại, sự ôn lại",
+    "pronunciation": "/ˈriːkæp/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Let's do a quick recap of the decisions made during today's meeting.",
+    "exampleVi": "Chúng ta hãy tóm tắt nhanh các quyết định đã được đưa ra trong cuộc họp hôm nay.",
+    "collocations": [
+      "quick recap",
+      "brief recap",
+      "do a recap"
+    ],
+    "synonyms": [
+      "summary",
+      "review"
+    ],
+    "wordFamily": [
+      "recap-verb"
+    ],
     "day": 8
   },
   {
@@ -904,341 +1635,304 @@
     "word": "reconvene",
     "baseWord": "reconvene",
     "type": "verb",
-    "meaning": "họp lại, tái nhóm họp",
+    "meaning": "tập hợp lại, họp lại",
     "pronunciation": "/ˌriːkənˈviːn/",
-    "topic": "Meetings",
-    "frequency": "low",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee will reconvene after lunch to finalize the report.",
-    "exampleVi": "Ủy ban sẽ họp lại sau bữa trưa để hoàn thiện báo cáo.",
-    "collocations": ["reconvene the meeting", "reconvene after a break", "reconvene tomorrow"],
-    "synonyms": ["reassemble", "resume"],
-    "wordFamily": ["reconvened", "reconvening"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The panel will reconvene after lunch to finalize the rankings.",
+    "exampleVi": "Hội đồng sẽ họp lại sau bữa trưa để chốt kết quả xếp hạng.",
+    "collocations": [
+      "reconvene after recess",
+      "scheduled to reconvene",
+      "reconvene a meeting"
+    ],
+    "synonyms": [
+      "reassemble",
+      "regather"
+    ],
+    "wordFamily": [
+      "convene"
+    ],
     "day": 8
   },
   {
-    "id": "in-advance-phrase",
-    "word": "in advance",
-    "baseWord": "in advance",
-    "type": "phrase",
-    "meaning": "trước, sớm hơn",
-    "pronunciation": "/ɪn ədˈvæns/",
-    "topic": "Meetings",
+    "id": "reminder-noun",
+    "word": "reminder",
+    "baseWord": "reminder",
+    "type": "noun",
+    "meaning": "lời nhắc nhở, thông báo nhắc nhở",
+    "pronunciation": "/rɪˈmaɪndər/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Please book the meeting room at least 24 hours in advance.",
-    "exampleVi": "Vui lòng đặt phòng họp ít nhất 24 giờ trước.",
-    "collocations": ["plan in advance", "pay in advance", "book in advance"],
-    "synonyms": ["beforehand", "ahead of time"],
-    "wordFamily": ["advance", "advanced"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She sent a friendly reminder about the deadline for expense reports.",
+    "exampleVi": "Cô ấy đã gửi một lời nhắc nhở thân thiện về hạn chót cho báo cáo chi phí.",
+    "collocations": [
+      "friendly reminder",
+      "send a reminder",
+      "gentle reminder"
+    ],
+    "synonyms": [
+      "memo",
+      "notice"
+    ],
+    "wordFamily": [
+      "remind"
+    ],
     "day": 8
   },
   {
-    "id": "take-place-phrase",
+    "id": "session-noun",
+    "word": "session",
+    "baseWord": "session",
+    "type": "noun",
+    "meaning": "phiên, buổi họp, khóa học",
+    "pronunciation": "/ˈseʃn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please make sure to sign the attendance sheet before each training session.",
+    "exampleVi": "Vui lòng đảm bảo ký tên vào bảng chấm công trước mỗi buổi đào tạo.",
+    "collocations": [
+      "training session",
+      "feedback session",
+      "question-and-answer session"
+    ],
+    "synonyms": [
+      "meeting",
+      "period",
+      "class"
+    ],
+    "wordFamily": [],
+    "day": 8
+  },
+  {
+    "id": "slot-noun",
+    "word": "slot",
+    "baseWord": "slot",
+    "type": "noun",
+    "meaning": "khung giờ, vị trí, chỗ",
+    "pronunciation": "/slɑːt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "We have an open slot for a presentation on Friday morning.",
+    "exampleVi": "Chúng tôi còn một khung giờ trống cho bài thuyết trình vào sáng thứ Sáu.",
+    "collocations": [
+      "time slot",
+      "available slot",
+      "reserve a slot"
+    ],
+    "synonyms": [
+      "period",
+      "interval",
+      "space"
+    ],
+    "wordFamily": [],
+    "day": 8
+  },
+  {
+    "id": "take place-phrase",
     "word": "take place",
     "baseWord": "take place",
     "type": "phrase",
-    "meaning": "diễn ra, xảy ra",
+    "meaning": "diễn ra, được tổ chức",
     "pronunciation": "/teɪk pleɪs/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The board meeting will take place on the second floor.",
-    "exampleVi": "Cuộc họp hội đồng sẽ diễn ra ở tầng hai.",
-    "collocations": ["take place on", "take place at", "scheduled to take place"],
-    "synonyms": ["occur", "happen"],
-    "wordFamily": ["took place", "taking place"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The training session will take place in the conference hall.",
+    "exampleVi": "Buổi đào tạo sẽ diễn ra tại hội trường lớn.",
+    "collocations": [
+      "take place in",
+      "take place at",
+      "scheduled to take place"
+    ],
+    "synonyms": [
+      "happen",
+      "occur",
+      "be held"
+    ],
+    "wordFamily": [],
     "day": 8
   },
   {
-    "id": "bring-up-phrase",
-    "word": "bring up",
-    "baseWord": "bring up",
-    "type": "phrase",
-    "meaning": "đề cập, nêu ra",
-    "pronunciation": "/brɪŋ ʌp/",
-    "topic": "Meetings",
+    "id": "tentative-adjective",
+    "word": "tentative",
+    "baseWord": "tentative",
+    "type": "adjective",
+    "meaning": "dự kiến, tạm thời",
+    "pronunciation": "/ˈtentətɪv/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5"],
-    "example": "I'd like to bring up the issue of overtime pay.",
-    "exampleVi": "Tôi muốn đề cập đến vấn đề tiền làm thêm giờ.",
-    "collocations": ["bring up a topic", "bring up an issue", "bring up a concern"],
-    "synonyms": ["mention", "raise"],
-    "wordFamily": ["brought up", "bringing up"],
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The tentative schedule is subject to change at short notice.",
+    "exampleVi": "Lịch trình dự kiến có thể thay đổi mà không cần báo trước lâu.",
+    "collocations": [
+      "tentative agreement",
+      "tentative schedule",
+      "tentative plan"
+    ],
+    "synonyms": [
+      "provisional",
+      "temporary",
+      "conditional"
+    ],
+    "wordFamily": [
+      "tentatively"
+    ],
     "day": 8
   },
   {
-    "id": "wrap-up-phrase",
+    "id": "wrap up-phrase",
     "word": "wrap up",
     "baseWord": "wrap up",
     "type": "phrase",
-    "meaning": "kết thúc, hoàn tất",
+    "meaning": "kết thúc, hoàn thành",
     "pronunciation": "/ræp ʌp/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4"],
-    "example": "Let's wrap up the meeting; we've covered all the topics.",
-    "exampleVi": "Hãy kết thúc cuộc họp; chúng ta đã bàn hết các chủ đề.",
-    "collocations": ["wrap up a meeting", "wrap up a project", "wrap up the discussion"],
-    "synonyms": ["finish", "conclude"],
-    "wordFamily": ["wrapped up", "wrapping up"],
-    "day": 8
-  },
-  {
-    "id": "feedback-noun",
-    "word": "feedback",
-    "baseWord": "feedback",
-    "type": "noun",
-    "meaning": "phản hồi, ý kiến đóng góp",
-    "pronunciation": "/ˈfiːdbæk/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "We appreciate your feedback on the new company policy.",
-    "exampleVi": "Chúng tôi đánh giá cao phản hồi của bạn về chính sách công ty mới.",
-    "collocations": ["positive feedback", "provide feedback", "customer feedback"],
-    "synonyms": ["response", "input"],
-    "wordFamily": ["feedbacks"],
-    "day": 9
-  },
-  {
-    "id": "deadline-extension-phrase",
-    "word": "deadline extension",
-    "baseWord": "deadline extension",
-    "type": "phrase",
-    "meaning": "gia hạn thời hạn",
-    "pronunciation": "/ˈdɛdlaɪn ɪkˈstɛnʃən/",
-    "topic": "Meetings",
-    "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The team requested a deadline extension for the project.",
-    "exampleVi": "Nhóm đã yêu cầu gia hạn thời hạn cho dự án.",
-    "collocations": ["request a deadline extension", "grant a deadline extension", "deadline extension request"],
-    "synonyms": ["due date postponement", "time extension"],
-    "wordFamily": ["extend a deadline"],
-    "day": 9
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "We should wrap up the meeting in ten minutes to catch our train.",
+    "exampleVi": "Chúng ta nên kết thúc cuộc họp trong mười phút nữa để kịp chuyến tàu.",
+    "collocations": [
+      "wrap up a meeting",
+      "wrap up a project",
+      "wrap up a deal"
+    ],
+    "synonyms": [
+      "conclude",
+      "finish",
+      "complete"
+    ],
+    "wordFamily": [],
+    "day": 8
   },
   {
     "id": "assign-verb",
     "word": "assign",
     "baseWord": "assign",
     "type": "verb",
-    "meaning": "phân công, giao nhiệm vụ",
+    "meaning": "phân công, giao việc, bổ nhiệm",
     "pronunciation": "/əˈsaɪn/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The project manager assigned each team member a specific role.",
-    "exampleVi": "Quản lý dự án đã phân công cho mỗi thành viên nhóm một vai trò cụ thể.",
-    "collocations": ["assign a task", "assign a role", "assign responsibility"],
-    "synonyms": ["allocate", "designate"],
-    "wordFamily": ["assignment", "assigned", "assigning"],
-    "day": 9
-  },
-  {
-    "id": "overview-noun",
-    "word": "overview",
-    "baseWord": "overview",
-    "type": "noun",
-    "meaning": "tổng quan, cái nhìn chung",
-    "pronunciation": "/ˈoʊvərvjuː/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 6", "Part 7"],
-    "example": "The CEO provided an overview of the company's annual performance.",
-    "exampleVi": "Giám đốc điều hành đã cung cấp tổng quan về hiệu suất hàng năm của công ty.",
-    "collocations": ["brief overview", "provide an overview", "project overview"],
-    "synonyms": ["summary", "synopsis"],
-    "wordFamily": ["overviews"],
-    "day": 9
-  },
-  {
-    "id": "address-verb",
-    "word": "address",
-    "baseWord": "address",
-    "type": "verb",
-    "meaning": "giải quyết, đề cập đến",
-    "pronunciation": "/əˈdrɛs/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The director addressed the concerns raised by employees.",
-    "exampleVi": "Giám đốc đã giải quyết các lo ngại được nêu ra bởi nhân viên.",
-    "collocations": ["address a concern", "address an issue", "address the audience"],
-    "synonyms": ["tackle", "deal with"],
-    "wordFamily": ["addressed", "addressing", "addresses"],
-    "day": 9
-  },
-  {
-    "id": "agenda-item-phrase",
-    "word": "on the agenda",
-    "baseWord": "on the agenda",
-    "type": "phrase",
-    "meaning": "trong chương trình nghị sự",
-    "pronunciation": "/ɒn ði əˈdʒɛndə/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Budget review is the first item on the agenda today.",
-    "exampleVi": "Xem xét ngân sách là hạng mục đầu tiên trong chương trình nghị sự hôm nay.",
-    "collocations": ["first on the agenda", "next on the agenda", "put on the agenda"],
-    "synonyms": ["on the schedule", "on the program"],
-    "wordFamily": ["agenda"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The manager will assign team leaders for each project phase.",
+    "exampleVi": "Người quản lý sẽ phân công các trưởng nhóm cho từng giai đoạn dự án.",
+    "collocations": [
+      "assign tasks",
+      "assign roles",
+      "assign duties"
+    ],
+    "synonyms": [
+      "allocate",
+      "delegate",
+      "appoint"
+    ],
+    "wordFamily": [
+      "assignment",
+      "assigned"
+    ],
     "day": 9
   },
   {
-    "id": "panel-noun",
-    "word": "panel",
-    "baseWord": "panel",
+    "id": "attendee-noun",
+    "word": "attendee",
+    "baseWord": "attend",
     "type": "noun",
-    "meaning": "hội đồng thảo luận, ban hội thẩm",
-    "pronunciation": "/ˈpænl/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "A panel of experts will discuss the latest industry trends.",
-    "exampleVi": "Một hội đồng chuyên gia sẽ thảo luận về các xu hướng ngành mới nhất.",
-    "collocations": ["panel discussion", "expert panel", "panel of judges"],
-    "synonyms": ["committee", "board"],
-    "wordFamily": ["panels", "panelist"],
+    "meaning": "người tham dự, người có mặt",
+    "pronunciation": "/əˌtenˈdiː/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Every attendee is requested to register at the front desk.",
+    "exampleVi": "Mỗi người tham dự được yêu cầu đăng ký tại quầy lễ tân.",
+    "collocations": [
+      "conference attendee",
+      "meeting attendee",
+      "list of attendees"
+    ],
+    "synonyms": [
+      "participant",
+      "visitor"
+    ],
+    "wordFamily": [
+      "attend",
+      "attendance"
+    ],
     "day": 9
   },
   {
-    "id": "adjourn-to-phrase",
-    "word": "call to order",
-    "baseWord": "call to order",
-    "type": "phrase",
-    "meaning": "khai mạc (cuộc họp)",
-    "pronunciation": "/kɔːl tuː ˈɔːrdər/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The chairperson called the meeting to order at 9:00 AM.",
-    "exampleVi": "Chủ tọa khai mạc cuộc họp lúc 9 giờ sáng.",
-    "collocations": ["call the meeting to order", "called to order", "meeting called to order"],
-    "synonyms": ["open the meeting", "begin the session"],
-    "wordFamily": ["called to order"],
-    "day": 9
-  },
-  {
-    "id": "resolution-noun",
-    "word": "resolution",
-    "baseWord": "resolution",
-    "type": "noun",
-    "meaning": "nghị quyết, giải pháp",
-    "pronunciation": "/ˌrɛzəˈluːʃən/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The board passed a resolution to increase employee wages.",
-    "exampleVi": "Hội đồng đã thông qua nghị quyết tăng lương nhân viên.",
-    "collocations": ["pass a resolution", "draft a resolution", "conflict resolution"],
-    "synonyms": ["decision", "determination"],
-    "wordFamily": ["resolutions", "resolve", "resolved"],
-    "day": 9
-  },
-  {
-    "id": "adjourn-meeting-phrase",
-    "word": "run over",
-    "baseWord": "run over",
-    "type": "phrase",
-    "meaning": "kéo dài quá giờ",
-    "pronunciation": "/rʌn ˈoʊvər/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3"],
-    "example": "The meeting ran over by 30 minutes.",
-    "exampleVi": "Cuộc họp kéo dài quá giờ 30 phút.",
-    "collocations": ["run over time", "meeting ran over", "run over the schedule"],
-    "synonyms": ["exceed the time", "go overtime"],
-    "wordFamily": ["ran over", "running over"],
-    "day": 9
-  },
-  {
-    "id": "productive-adjective",
-    "word": "productive",
-    "baseWord": "productive",
+    "id": "audiovisual-adjective",
+    "word": "audiovisual",
+    "baseWord": "audiovisual",
     "type": "adjective",
-    "meaning": "năng suất, hiệu quả",
-    "pronunciation": "/prəˈdʌktɪv/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We had a very productive meeting this morning.",
-    "exampleVi": "Chúng tôi đã có một cuộc họp rất hiệu quả sáng nay.",
-    "collocations": ["productive meeting", "productive discussion", "highly productive"],
-    "synonyms": ["efficient", "effective"],
-    "wordFamily": ["productivity", "productively", "produce"],
-    "day": 9
-  },
-  {
-    "id": "stakeholder-noun",
-    "word": "stakeholder",
-    "baseWord": "stakeholder",
-    "type": "noun",
-    "meaning": "bên liên quan, cổ đông",
-    "pronunciation": "/ˈsteɪkhoʊldər/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All stakeholders were invited to the quarterly review meeting.",
-    "exampleVi": "Tất cả các bên liên quan đã được mời tham dự cuộc họp đánh giá quý.",
-    "collocations": ["key stakeholder", "stakeholder meeting", "inform stakeholders"],
-    "synonyms": ["interested party", "shareholder"],
-    "wordFamily": ["stakeholders"],
-    "day": 9
-  },
-  {
-    "id": "milestone-noun",
-    "word": "milestone",
-    "baseWord": "milestone",
-    "type": "noun",
-    "meaning": "cột mốc quan trọng",
-    "pronunciation": "/ˈmaɪlstoʊn/",
-    "topic": "Meetings",
+    "meaning": "(thuộc) nghe nhìn",
+    "pronunciation": "/ˌɔːdiəʊˈvɪʒuəl/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Completing the prototype was a major milestone for the team.",
-    "exampleVi": "Hoàn thành nguyên mẫu là một cột mốc quan trọng cho nhóm.",
-    "collocations": ["project milestone", "reach a milestone", "key milestone"],
-    "synonyms": ["landmark", "achievement"],
-    "wordFamily": ["milestones"],
-    "day": 9
-  },
-  {
-    "id": "initiative-noun",
-    "word": "initiative",
-    "baseWord": "initiative",
-    "type": "noun",
-    "meaning": "sáng kiến, kế hoạch mới",
-    "pronunciation": "/ɪˈnɪʃiətɪv/",
-    "topic": "Meetings",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company launched a new green initiative to reduce waste.",
-    "exampleVi": "Công ty khởi động sáng kiến xanh mới để giảm chất thải.",
-    "collocations": ["take the initiative", "new initiative", "strategic initiative"],
-    "synonyms": ["program", "plan"],
-    "wordFamily": ["initiatives", "initiate", "initiated"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The conference room is equipped with advanced audiovisual equipment.",
+    "exampleVi": "Phòng hội nghị được trang bị các thiết bị nghe nhìn tiên tiến.",
+    "collocations": [
+      "audiovisual equipment",
+      "audiovisual aid",
+      "audiovisual presentation"
+    ],
+    "synonyms": [
+      "multimedia"
+    ],
+    "wordFamily": [
+      "audio",
+      "visual"
+    ],
     "day": 9
   },
   {
@@ -1246,143 +1940,576 @@
     "word": "benchmark",
     "baseWord": "benchmark",
     "type": "noun",
-    "meaning": "tiêu chuẩn, điểm chuẩn",
-    "pronunciation": "/ˈbɛntʃmɑːrk/",
-    "topic": "Meetings",
+    "meaning": "điểm chuẩn, tiêu chuẩn đối chiếu",
+    "pronunciation": "/ˈbentʃmɑːrk/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The industry benchmark for customer satisfaction is 90 percent.",
-    "exampleVi": "Tiêu chuẩn ngành cho sự hài lòng của khách hàng là 90 phần trăm.",
-    "collocations": ["industry benchmark", "set a benchmark", "benchmark performance"],
-    "synonyms": ["standard", "criterion"],
-    "wordFamily": ["benchmarks", "benchmarking"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "This year's productivity figures will serve as a benchmark for future projects.",
+    "exampleVi": "Số liệu năng suất năm nay sẽ làm tiêu chuẩn đối chiếu cho các dự án tương lai.",
+    "collocations": [
+      "set a benchmark",
+      "industry benchmark",
+      "benchmark performance"
+    ],
+    "synonyms": [
+      "standard",
+      "criterion",
+      "gauge"
+    ],
+    "wordFamily": [
+      "benchmark-verb"
+    ],
     "day": 9
   },
   {
-    "id": "adjourn-indefinitely-phrase",
+    "id": "bulletin-noun",
+    "word": "bulletin",
+    "baseWord": "bulletin",
+    "type": "noun",
+    "meaning": "bản tin, thông báo ngắn",
+    "pronunciation": "/ˈbʊlətɪn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please read the weekly bulletin for updates on scheduling.",
+    "exampleVi": "Vui lòng đọc bản tin hàng tuần để biết thông tin cập nhật về lịch trình.",
+    "collocations": [
+      "weekly bulletin",
+      "bulletin board",
+      "news bulletin"
+    ],
+    "synonyms": [
+      "newsletter",
+      "announcement",
+      "notice"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "call to order-phrase",
+    "word": "call to order",
+    "baseWord": "call to order",
+    "type": "phrase",
+    "meaning": "tuyên bố khai mạc cuộc họp",
+    "pronunciation": "/kɔːl tuː ˈɔːrdər/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The chairperson called the board meeting to order at exactly 9:00 AM.",
+    "exampleVi": "Chủ tọa đã tuyên bố khai mạc cuộc họp hội đồng quản trị đúng 9 giờ sáng.",
+    "collocations": [
+      "call the meeting to order",
+      "call to order by"
+    ],
+    "synonyms": [
+      "open",
+      "commence"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "carry over-phrase",
     "word": "carry over",
     "baseWord": "carry over",
     "type": "phrase",
-    "meaning": "chuyển sang (cuộc họp tiếp theo)",
+    "meaning": "mang sang, chuyển tiếp sang kỳ sau",
     "pronunciation": "/ˈkæri ˈoʊvər/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "We'll carry over the remaining agenda items to next week.",
-    "exampleVi": "Chúng ta sẽ chuyển các hạng mục còn lại sang tuần tới.",
-    "collocations": ["carry over to", "carry over items", "carry over the discussion"],
-    "synonyms": ["postpone to", "defer to"],
-    "wordFamily": ["carried over", "carrying over"],
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We will have to carry over the remaining agenda items to the next meeting.",
+    "exampleVi": "Chúng tôi sẽ phải chuyển tiếp các đề mục thảo luận còn lại sang cuộc họp tiếp theo.",
+    "collocations": [
+      "carry over to",
+      "carry over funds",
+      "carry over balance"
+    ],
+    "synonyms": [
+      "transfer",
+      "postpone"
+    ],
+    "wordFamily": [],
     "day": 9
   },
   {
-    "id": "catering-noun",
-    "word": "catering",
-    "baseWord": "catering",
-    "type": "noun",
-    "meaning": "dịch vụ ăn uống, phục vụ tiệc",
-    "pronunciation": "/ˈkeɪtərɪŋ/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "We need to arrange catering for the all-day workshop.",
-    "exampleVi": "Chúng ta cần sắp xếp dịch vụ ăn uống cho hội thảo cả ngày.",
-    "collocations": ["catering service", "arrange catering", "catering company"],
-    "synonyms": ["food service", "refreshments"],
-    "wordFamily": ["cater", "catered", "caterer"],
-    "day": 10
-  },
-  {
-    "id": "registration-noun",
-    "word": "registration",
-    "baseWord": "registration",
-    "type": "noun",
-    "meaning": "đăng ký",
-    "pronunciation": "/ˌrɛdʒɪˈstreɪʃən/",
-    "topic": "Meetings",
+    "id": "deadline extension-phrase",
+    "word": "deadline extension",
+    "baseWord": "deadline extension",
+    "type": "phrase",
+    "meaning": "việc gia hạn hạn chót",
+    "pronunciation": "/ˈdedlaɪn ɪkˈstenʃn/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 4", "Part 6", "Part 7"],
-    "example": "Online registration for the conference closes on September 30.",
-    "exampleVi": "Đăng ký trực tuyến cho hội nghị kết thúc vào ngày 30 tháng Chín.",
-    "collocations": ["registration form", "registration fee", "online registration"],
-    "synonyms": ["enrollment", "sign-up"],
-    "wordFamily": ["register", "registered", "registrations"],
-    "day": 10
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The client approved our request for a deadline extension.",
+    "exampleVi": "Khách hàng đã chấp thuận yêu cầu gia hạn hạn chót của chúng tôi.",
+    "collocations": [
+      "request a deadline extension",
+      "grant a deadline extension",
+      "approve a deadline extension"
+    ],
+    "synonyms": [
+      "time extension"
+    ],
+    "wordFamily": [],
+    "day": 9
   },
   {
-    "id": "accommodate-verb",
-    "word": "accommodate",
-    "baseWord": "accommodate",
-    "type": "verb",
-    "meaning": "đáp ứng, thu xếp",
-    "pronunciation": "/əˈkɒmədeɪt/",
-    "topic": "Meetings",
-    "frequency": "medium",
+    "id": "initiative-noun",
+    "word": "initiative",
+    "baseWord": "initiative",
+    "type": "noun",
+    "meaning": "sáng kiến, thế chủ động, kế hoạch mới",
+    "pronunciation": "/ɪˈnɪʃətɪv/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The conference room can accommodate up to 50 people.",
-    "exampleVi": "Phòng hội nghị có thể chứa tới 50 người.",
-    "collocations": ["accommodate guests", "accommodate requests", "accommodate changes"],
-    "synonyms": ["hold", "cater to"],
-    "wordFamily": ["accommodation", "accommodating", "accommodated"],
-    "day": 10
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The marketing team launched a new initiative to attract younger customers.",
+    "exampleVi": "Đội ngũ tiếp thị đã đưa ra một sáng kiến mới nhằm thu hút khách hàng trẻ tuổi hơn.",
+    "collocations": [
+      "take the initiative",
+      "new initiative",
+      "government initiative"
+    ],
+    "synonyms": [
+      "enterprise",
+      "scheme",
+      "plan"
+    ],
+    "wordFamily": [
+      "initiate",
+      "initiation",
+      "initial"
+    ],
+    "day": 9
   },
   {
-    "id": "agenda-distributed-phrase",
-    "word": "set up",
-    "baseWord": "set up",
-    "type": "phrase",
-    "meaning": "thiết lập, chuẩn bị",
-    "pronunciation": "/sɛt ʌp/",
-    "topic": "Meetings",
+    "id": "logistics-noun",
+    "word": "logistics",
+    "baseWord": "logistics",
+    "type": "noun",
+    "meaning": "hậu cần, việc tổ chức thực hiện",
+    "pronunciation": "/ləˈdʒɪstɪks/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Who is handling the logistics for the upcoming annual conference?",
+    "exampleVi": "Ai đang xử lý khâu hậu cần cho hội nghị thường niên sắp tới?",
+    "collocations": [
+      "event logistics",
+      "logistics department",
+      "handle the logistics"
+    ],
+    "synonyms": [
+      "organization",
+      "planning"
+    ],
+    "wordFamily": [
+      "logistic",
+      "logistical"
+    ],
+    "day": 9
+  },
+  {
+    "id": "material-noun",
+    "word": "material",
+    "baseWord": "material",
+    "type": "noun",
+    "meaning": "tài liệu, vật liệu, nguyên liệu",
+    "pronunciation": "/məˈtɪriəl/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 1", "Part 3", "Part 7"],
-    "example": "Can you help set up the chairs for the presentation?",
-    "exampleVi": "Bạn có thể giúp bày ghế cho buổi thuyết trình không?",
-    "collocations": ["set up equipment", "set up a meeting", "set up an account"],
-    "synonyms": ["prepare", "arrange"],
-    "wordFamily": ["setup", "setting up"],
-    "day": 10
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please make sure you read the prep materials before the meeting.",
+    "exampleVi": "Vui lòng đảm bảo rằng bạn đã đọc các tài liệu chuẩn bị trước cuộc họp.",
+    "collocations": [
+      "meeting materials",
+      "reference material",
+      "promotional material"
+    ],
+    "synonyms": [
+      "documents",
+      "information",
+      "substance"
+    ],
+    "wordFamily": [
+      "materialize",
+      "materialistic"
+    ],
+    "day": 9
   },
   {
-    "id": "podium-noun",
-    "word": "podium",
-    "baseWord": "podium",
+    "id": "milestone-noun",
+    "word": "milestone",
+    "baseWord": "milestone",
     "type": "noun",
-    "meaning": "bục phát biểu",
-    "pronunciation": "/ˈpoʊdiəm/",
-    "topic": "Meetings",
-    "frequency": "low",
+    "meaning": "cột mốc quan trọng, dấu mốc lịch sử",
+    "pronunciation": "/ˈmaɪlstoʊn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 1", "Part 4"],
-    "example": "The speaker stepped up to the podium to begin her speech.",
-    "exampleVi": "Diễn giả bước lên bục phát biểu để bắt đầu bài diễn văn.",
-    "collocations": ["stand at the podium", "approach the podium", "speaker's podium"],
-    "synonyms": ["lectern", "platform"],
-    "wordFamily": ["podiums"],
-    "day": 10
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Reaching one million subscribers is a significant milestone for our company.",
+    "exampleVi": "Đạt được một triệu người đăng ký là một cột mốc quan trọng đối với công ty chúng tôi.",
+    "collocations": [
+      "major milestone",
+      "reach a milestone",
+      "project milestone"
+    ],
+    "synonyms": [
+      "landmark",
+      "turning point"
+    ],
+    "wordFamily": [],
+    "day": 9
   },
   {
-    "id": "duration-noun",
-    "word": "duration",
-    "baseWord": "duration",
+    "id": "on the agenda-phrase",
+    "word": "on the agenda",
+    "baseWord": "on the agenda",
+    "type": "phrase",
+    "meaning": "có trong chương trình nghị sự/họp",
+    "pronunciation": "/ɑːn ðə əˈdʒendə/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "What is next on the agenda for today's committee meeting?",
+    "exampleVi": "Điều tiếp theo trong chương trình nghị sự cho cuộc họp ủy ban hôm nay là gì?",
+    "collocations": [
+      "item on the agenda",
+      "high on the agenda",
+      "put on the agenda"
+    ],
+    "synonyms": [
+      "scheduled",
+      "slated"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "overview-noun",
+    "word": "overview",
+    "baseWord": "overview",
     "type": "noun",
-    "meaning": "thời lượng, khoảng thời gian",
-    "pronunciation": "/djʊˈreɪʃən/",
-    "topic": "Meetings",
+    "meaning": "tóm tắt tổng quan, cái nhìn khái quát",
+    "pronunciation": "/ˈoʊvərvjuː/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "She gave the board a brief overview of the quarterly results.",
+    "exampleVi": "Cô ấy đã đưa cho hội đồng quản trị một bản tóm tắt tổng quan ngắn gọn về kết quả hàng quý.",
+    "collocations": [
+      "brief overview",
+      "provide an overview",
+      "general overview"
+    ],
+    "synonyms": [
+      "summary",
+      "synopsis",
+      "outline"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "panel-noun",
+    "word": "panel",
+    "baseWord": "panel",
+    "type": "noun",
+    "meaning": "hội đồng thảo luận, nhóm chuyên gia",
+    "pronunciation": "/ˈpænl/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "A panel of industry experts discussed the future of renewable energy.",
+    "exampleVi": "Một nhóm chuyên gia trong ngành đã thảo luận về tương lai của năng lượng tái tạo.",
+    "collocations": [
+      "panel of experts",
+      "panel discussion",
+      "advisory panel"
+    ],
+    "synonyms": [
+      "committee",
+      "board",
+      "group"
+    ],
+    "wordFamily": [
+      "panelist"
+    ],
+    "day": 9
+  },
+  {
+    "id": "productive-adjective",
+    "word": "productive",
+    "baseWord": "produce",
+    "type": "adjective",
+    "meaning": "năng suất, hiệu quả, sinh lợi",
+    "pronunciation": "/prəˈdʌktɪv/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We had a very productive meeting and resolved several key issues.",
+    "exampleVi": "Chúng tôi đã có một cuộc họp rất hiệu quả và giải quyết được một số vấn đề chính.",
+    "collocations": [
+      "highly productive",
+      "productive meeting",
+      "productive day"
+    ],
+    "synonyms": [
+      "fruitful",
+      "constructive",
+      "efficient"
+    ],
+    "wordFamily": [
+      "produce",
+      "production",
+      "productivity",
+      "productively"
+    ],
+    "day": 9
+  },
+  {
+    "id": "run over-phrase",
+    "word": "run over",
+    "baseWord": "run over",
+    "type": "phrase",
+    "meaning": "kéo dài quá giờ (cuộc họp), tràn qua",
+    "pronunciation": "/rʌn ˈoʊvər/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The morning session ran over by fifteen minutes.",
+    "exampleVi": "Buổi họp sáng đã kéo dài quá giờ mất mười lăm phút.",
+    "collocations": [
+      "run over schedule",
+      "run over time",
+      "run over by"
+    ],
+    "synonyms": [
+      "exceed",
+      "go over"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "stakeholder-noun",
+    "word": "stakeholder",
+    "baseWord": "stakeholder",
+    "type": "noun",
+    "meaning": "bên liên quan, đối tác liên quan",
+    "pronunciation": "/ˈsteɪkhoʊldər/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "We must consult all key stakeholders before implementing the policy.",
+    "exampleVi": "Chúng ta phải tham khảo ý kiến của tất cả các bên liên quan chính trước khi triển khai chính sách.",
+    "collocations": [
+      "key stakeholder",
+      "stakeholder meeting",
+      "stakeholder interest"
+    ],
+    "synonyms": [
+      "partner",
+      "shareholder"
+    ],
+    "wordFamily": [],
+    "day": 9
+  },
+  {
+    "id": "summarize-verb",
+    "word": "summarize",
+    "baseWord": "summary",
+    "type": "verb",
+    "meaning": "tóm tắt, tóm lược",
+    "pronunciation": "/ˈsʌməraɪz/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "To conclude, I would like to summarize the main points discussed.",
+    "exampleVi": "Để kết luận, tôi muốn tóm tắt lại các điểm chính đã thảo luận.",
+    "collocations": [
+      "summarize a report",
+      "summarize findings",
+      "briefly summarize"
+    ],
+    "synonyms": [
+      "recap",
+      "outline",
+      "condense"
+    ],
+    "wordFamily": [
+      "summary",
+      "summation"
+    ],
+    "day": 9
+  },
+  {
+    "id": "timeframe-noun",
+    "word": "timeframe",
+    "baseWord": "timeframe",
+    "type": "noun",
+    "meaning": "khung thời gian, khoảng thời gian",
+    "pronunciation": "/ˈtaɪmfreɪm/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The duration of the workshop is approximately three hours.",
-    "exampleVi": "Thời lượng của hội thảo khoảng ba giờ.",
-    "collocations": ["for the duration", "short duration", "duration of the event"],
-    "synonyms": ["length", "span"],
-    "wordFamily": ["durations"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to complete the project within a tight timeframe.",
+    "exampleVi": "Chúng tôi cần hoàn thành dự án trong một khung thời gian hạn hẹp.",
+    "collocations": [
+      "tight timeframe",
+      "project timeframe",
+      "within the timeframe"
+    ],
+    "synonyms": [
+      "period",
+      "duration",
+      "timeline"
+    ],
+    "wordFamily": [
+      "time",
+      "frame"
+    ],
+    "day": 9
+  },
+  {
+    "id": "adjacent-adjective",
+    "word": "adjacent",
+    "baseWord": "adjacent",
+    "type": "adjective",
+    "meaning": "liền kề, ngay cạnh",
+    "pronunciation": "/əˈdʒeɪsnt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The breakout sessions will take place in the rooms adjacent to the lobby.",
+    "exampleVi": "Các phiên thảo luận nhỏ sẽ diễn ra tại các phòng liền kề với sảnh.",
+    "collocations": [
+      "adjacent to",
+      "adjacent rooms",
+      "adjacent building"
+    ],
+    "synonyms": [
+      "neighboring",
+      "adjoining",
+      "next to"
+    ],
+    "wordFamily": [],
+    "day": 10
+  },
+  {
+    "id": "attendance-noun",
+    "word": "attendance",
+    "baseWord": "attend",
+    "type": "noun",
+    "meaning": "sự tham gia, sự có mặt, số lượng người tham dự",
+    "pronunciation": "/əˈtendəns/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Attendance at the monthly safety meeting is mandatory for all workers.",
+    "exampleVi": "Sự tham gia vào cuộc họp an toàn hàng tháng là bắt buộc đối với tất cả công nhân.",
+    "collocations": [
+      "record attendance",
+      "poor attendance",
+      "high attendance"
+    ],
+    "synonyms": [
+      "presence",
+      "participation"
+    ],
+    "wordFamily": [
+      "attend",
+      "attendee"
+    ],
     "day": 10
   },
   {
@@ -1392,105 +2519,210 @@
     "type": "noun",
     "meaning": "trang phục",
     "pronunciation": "/əˈtaɪər/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "Business attire is required for the annual gala dinner.",
-    "exampleVi": "Trang phục công sở là bắt buộc cho bữa tiệc tối thường niên.",
-    "collocations": ["business attire", "formal attire", "professional attire"],
-    "synonyms": ["clothing", "outfit"],
-    "wordFamily": ["attired"],
-    "day": 10
-  },
-  {
-    "id": "adjourn-schedule-phrase",
-    "word": "pencil in",
-    "baseWord": "pencil in",
-    "type": "phrase",
-    "meaning": "ghi tạm vào lịch",
-    "pronunciation": "/ˈpɛnsəl ɪn/",
-    "topic": "Meetings",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3"],
-    "example": "Let me pencil in a meeting for next Thursday at 2 PM.",
-    "exampleVi": "Để tôi ghi tạm cuộc họp vào thứ Năm tới lúc 2 giờ chiều.",
-    "collocations": ["pencil in a date", "pencil in a meeting", "pencil in an appointment"],
-    "synonyms": ["tentatively schedule", "provisionally book"],
-    "wordFamily": ["penciled in", "penciling in"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The dress code for the evening reception is business formal attire.",
+    "exampleVi": "Quy định về trang phục cho buổi tiếp đón tối nay là trang phục công sở trang trọng.",
+    "collocations": [
+      "business attire",
+      "formal attire",
+      "appropriate attire"
+    ],
+    "synonyms": [
+      "clothing",
+      "dress",
+      "apparel"
+    ],
+    "wordFamily": [],
     "day": 10
   },
   {
-    "id": "adjourn-review-phrase",
-    "word": "touch base",
-    "baseWord": "touch base",
-    "type": "phrase",
-    "meaning": "liên lạc ngắn gọn, cập nhật tình hình",
-    "pronunciation": "/tʌtʃ beɪs/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "Let's touch base next week to review the project timeline.",
-    "exampleVi": "Hãy liên lạc ngắn vào tuần tới để xem lại tiến độ dự án.",
-    "collocations": ["touch base with", "touch base on", "touch base about"],
-    "synonyms": ["check in", "follow up"],
-    "wordFamily": ["touched base", "touching base"],
-    "day": 10
-  },
-  {
-    "id": "complimentary-adjective",
-    "word": "complimentary",
-    "baseWord": "complimentary",
+    "id": "breakout-adjective",
+    "word": "breakout",
+    "baseWord": "breakout",
     "type": "adjective",
-    "meaning": "miễn phí, khen ngợi",
-    "pronunciation": "/ˌkɒmplɪˈmɛntəri/",
-    "topic": "Meetings",
+    "meaning": "(phòng/buổi) thảo luận nhóm nhỏ, chia tách",
+    "pronunciation": "/ˈbreɪkaʊt/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Complimentary refreshments will be provided during the break.",
-    "exampleVi": "Đồ uống nhẹ miễn phí sẽ được cung cấp trong giờ nghỉ.",
-    "collocations": ["complimentary ticket", "complimentary breakfast", "complimentary copy"],
-    "synonyms": ["free", "courtesy"],
-    "wordFamily": ["compliment", "compliments"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "After the keynote address, please move to the designated breakout rooms.",
+    "exampleVi": "Sau bài diễn văn chính, vui lòng chuyển đến các phòng thảo luận nhóm nhỏ được chỉ định.",
+    "collocations": [
+      "breakout session",
+      "breakout room",
+      "breakout meeting"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
     "day": 10
   },
   {
-    "id": "itinerary-schedule-noun",
-    "word": "itinerary",
-    "baseWord": "itinerary",
+    "id": "catering-noun",
+    "word": "catering",
+    "baseWord": "cater",
     "type": "noun",
-    "meaning": "lịch trình, hành trình",
-    "pronunciation": "/aɪˈtɪnərɛri/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 3", "Part 6", "Part 7"],
-    "example": "The event itinerary includes three keynote speeches.",
-    "exampleVi": "Lịch trình sự kiện bao gồm ba bài phát biểu chính.",
-    "collocations": ["event itinerary", "conference itinerary", "detailed itinerary"],
-    "synonyms": ["program", "schedule"],
-    "wordFamily": ["itineraries"],
+    "meaning": "dịch vụ cung cấp đồ ăn uống cho sự kiện",
+    "pronunciation": "/ˈkeɪtərɪŋ/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We hired a local company to handle the catering for the luncheon.",
+    "exampleVi": "Chúng tôi đã thuê một công ty địa phương để lo dịch vụ ăn uống cho bữa trưa.",
+    "collocations": [
+      "catering service",
+      "handling the catering",
+      "catering company"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cater",
+      "caterer"
+    ],
     "day": 10
   },
   {
-    "id": "rsvp-verb",
-    "word": "RSVP",
-    "baseWord": "RSVP",
+    "id": "customary-adjective",
+    "word": "customary",
+    "baseWord": "custom",
+    "type": "adjective",
+    "meaning": "theo phong tục, thông thường",
+    "pronunciation": "/ˈkʌstəməri/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "It is customary to send an agenda before the meeting starts.",
+    "exampleVi": "Việc gửi chương trình họp trước khi cuộc họp bắt đầu là thông lệ.",
+    "collocations": [
+      "customary practice",
+      "customary behavior",
+      "customary procedure"
+    ],
+    "synonyms": [
+      "usual",
+      "traditional",
+      "conventional"
+    ],
+    "wordFamily": [
+      "custom",
+      "customer",
+      "customize"
+    ],
+    "day": 10
+  },
+  {
+    "id": "discussion-noun",
+    "word": "discussion",
+    "baseWord": "discuss",
+    "type": "noun",
+    "meaning": "cuộc thảo luận, sự thảo luận",
+    "pronunciation": "/dɪˈskʌʃn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The committee held a lively discussion on the proposed changes.",
+    "exampleVi": "Ủy ban đã tổ chức một cuộc thảo luận sôi nổi về những thay đổi được đề xuất.",
+    "collocations": [
+      "panel discussion",
+      "open discussion",
+      "hold a discussion"
+    ],
+    "synonyms": [
+      "debate",
+      "conversation",
+      "dialogue"
+    ],
+    "wordFamily": [
+      "discuss"
+    ],
+    "day": 10
+  },
+  {
+    "id": "exhibit-verb",
+    "word": "exhibit",
+    "baseWord": "exhibit",
     "type": "verb",
-    "meaning": "xác nhận tham dự",
-    "pronunciation": "/ˌɑːr ɛs viː ˈpiː/",
-    "topic": "Meetings",
+    "meaning": "trưng bày, triển lãm, thể hiện",
+    "pronunciation": "/ɪɡˈzɪbɪt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Several new technology companies will exhibit their products at the expo.",
+    "exampleVi": "Một số công ty công nghệ mới sẽ trưng bày sản phẩm của họ tại triển lãm.",
+    "collocations": [
+      "exhibit products",
+      "exhibit work",
+      "plan to exhibit"
+    ],
+    "synonyms": [
+      "display",
+      "showcase",
+      "demonstrate"
+    ],
+    "wordFamily": [
+      "exhibition",
+      "exhibitor",
+      "exhibit-noun"
+    ],
+    "day": 10
+  },
+  {
+    "id": "hosting-noun",
+    "word": "hosting",
+    "baseWord": "host",
+    "type": "noun",
+    "meaning": "việc đăng cai, việc tổ chức",
+    "pronunciation": "/ˈhoʊstɪŋ/",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "Please RSVP by the end of the week.",
-    "exampleVi": "Vui lòng xác nhận tham dự trước cuối tuần.",
-    "collocations": ["RSVP to an invitation", "RSVP by email", "please RSVP"],
-    "synonyms": ["respond", "reply"],
-    "wordFamily": ["RSVPs", "RSVPed"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Hosting the annual conference requires a lot of preparation.",
+    "exampleVi": "Việc tổ chức hội nghị thường niên đòi hỏi nhiều sự chuẩn bị.",
+    "collocations": [
+      "hosting duties",
+      "hosting event",
+      "hosting website"
+    ],
+    "synonyms": [
+      "organizing",
+      "presenting"
+    ],
+    "wordFamily": [
+      "host",
+      "hostess"
+    ],
     "day": 10
   },
   {
@@ -1500,105 +2732,327 @@
     "type": "noun",
     "meaning": "thẻ tên",
     "pronunciation": "/ˈneɪmtæɡ/",
-    "topic": "Meetings",
-    "frequency": "low",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
     "level": "easy",
-    "partTags": ["Part 1", "Part 3"],
-    "example": "Please pick up your nametag at the registration desk.",
-    "exampleVi": "Vui lòng lấy thẻ tên của bạn tại bàn đăng ký.",
-    "collocations": ["wear a nametag", "nametag badge", "pick up a nametag"],
-    "synonyms": ["badge", "name badge"],
-    "wordFamily": ["nametags"],
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "Please collect your nametag at the registration desk upon arrival.",
+    "exampleVi": "Vui lòng nhận thẻ tên của bạn tại bàn đăng ký khi đến nơi.",
+    "collocations": [
+      "wear a nametag",
+      "collect a nametag",
+      "print nametags"
+    ],
+    "synonyms": [
+      "badge",
+      "name badge"
+    ],
+    "wordFamily": [],
     "day": 10
   },
   {
     "id": "networking-noun",
     "word": "networking",
-    "baseWord": "networking",
+    "baseWord": "network",
     "type": "noun",
-    "meaning": "giao lưu, kết nối quan hệ",
-    "pronunciation": "/ˈnɛtwɜːrkɪŋ/",
-    "topic": "Meetings",
+    "meaning": "việc kết nối, thiết lập mạng lưới quan hệ",
+    "pronunciation": "/ˈnetwɜːrkɪŋ/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The evening social is an excellent opportunity for professional networking.",
+    "exampleVi": "Buổi giao lưu tối là cơ hội tuyệt vời để kết nối quan hệ chuyên nghiệp.",
+    "collocations": [
+      "networking event",
+      "networking opportunity",
+      "professional networking"
+    ],
+    "synonyms": [
+      "socializing",
+      "contact building"
+    ],
+    "wordFamily": [
+      "network",
+      "networked"
+    ],
+    "day": 10
+  },
+  {
+    "id": "pencil in-phrase",
+    "word": "pencil in",
+    "baseWord": "pencil in",
+    "type": "phrase",
+    "meaning": "ghi lịch dự kiến (có thể thay đổi sau)",
+    "pronunciation": "/ˈpensl ɪn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3"
+    ],
+    "example": "Let's pencil in a tentative date for the project launch on June 15.",
+    "exampleVi": "Chúng ta hãy ghi lịch dự kiến cho ngày ra mắt dự án vào ngày 15 tháng 6.",
+    "collocations": [
+      "pencil in a date",
+      "pencil in a meeting"
+    ],
+    "synonyms": [
+      "schedule provisionally"
+    ],
+    "wordFamily": [],
+    "day": 10
+  },
+  {
+    "id": "podium-noun",
+    "word": "podium",
+    "baseWord": "podium",
+    "type": "noun",
+    "meaning": "bục phát biểu, bục nhận giải",
+    "pronunciation": "/ˈpoʊdiəm/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "She stood at the podium to deliver her acceptance speech.",
+    "exampleVi": "Cô đứng tại bục phát biểu để trình bày diễn văn nhận giải của mình.",
+    "collocations": [
+      "speaker podium",
+      "stand at the podium",
+      "approach the podium"
+    ],
+    "synonyms": [
+      "lectern",
+      "rostrum",
+      "platform"
+    ],
+    "wordFamily": [],
+    "day": 10
+  },
+  {
+    "id": "proposal-noun",
+    "word": "proposal",
+    "baseWord": "propose",
+    "type": "noun",
+    "meaning": "đề xuất, kiến nghị, kế hoạch đề xuất",
+    "pronunciation": "/prəˈpoʊzl/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We submitted a formal proposal for the office renovation project.",
+    "exampleVi": "Chúng tôi đã gửi một đề xuất chính thức cho dự án cải tạo văn phòng.",
+    "collocations": [
+      "submit a proposal",
+      "written proposal",
+      "project proposal"
+    ],
+    "synonyms": [
+      "suggestion",
+      "offer",
+      "plan"
+    ],
+    "wordFamily": [
+      "propose",
+      "proposition"
+    ],
+    "day": 10
+  },
+  {
+    "id": "registration-noun",
+    "word": "registration",
+    "baseWord": "register",
+    "type": "noun",
+    "meaning": "sự đăng ký, việc ghi danh",
+    "pronunciation": "/ˌredʒɪˈstreɪʃn/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Online registration for the business course closes this Friday.",
+    "exampleVi": "Đăng ký trực tuyến cho khóa học kinh doanh sẽ đóng lại vào thứ Sáu này.",
+    "collocations": [
+      "registration desk",
+      "registration fee",
+      "early registration"
+    ],
+    "synonyms": [
+      "enrollment",
+      "sign-up"
+    ],
+    "wordFamily": [
+      "register",
+      "registered"
+    ],
+    "day": 10
+  },
+  {
+    "id": "RSVP-verb",
+    "word": "RSVP",
+    "baseWord": "RSVP",
+    "type": "verb",
+    "meaning": "phản hồi lời mời (cho biết có tham dự hay không)",
+    "pronunciation": "/ˌɑːr.es.viːˈpiː/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Guests are requested to RSVP by the end of the week.",
+    "exampleVi": "Khách mời được yêu cầu phản hồi lời mời trước cuối tuần.",
+    "collocations": [
+      "RSVP by Friday",
+      "RSVP card",
+      "please RSVP"
+    ],
+    "synonyms": [
+      "respond",
+      "reply"
+    ],
+    "wordFamily": [],
+    "day": 10
+  },
+  {
+    "id": "seating-arrangement-phrase",
+    "word": "seating arrangement",
+    "baseWord": "seat",
+    "type": "phrase",
+    "meaning": "sự sắp xếp chỗ ngồi",
+    "pronunciation": "/ˈsiːtɪŋ əˈreɪndʒmənt/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The organizers changed the seating arrangement to facilitate discussion.",
+    "exampleVi": "Ban tổ chức đã thay đổi cách sắp xếp chỗ ngồi để tạo điều kiện thuận lợi cho cuộc thảo luận.",
+    "collocations": [
+      "make a seating arrangement",
+      "seating arrangement plan",
+      "flexible seating arrangement"
+    ],
+    "synonyms": [
+      "seating plan",
+      "layout"
+    ],
+    "wordFamily": [
+      "seat",
+      "seating",
+      "arrange",
+      "arrangement"
+    ],
+    "day": 10
+  },
+  {
+    "id": "set up-phrase",
+    "word": "set up",
+    "baseWord": "set up",
+    "type": "phrase",
+    "meaning": "thiết lập, sắp xếp, bố trí",
+    "pronunciation": "/set ʌp/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "They will set up the tables and chairs in the main hall.",
+    "exampleVi": "Họ sẽ sắp xếp bàn ghế ở hội trường chính.",
+    "collocations": [
+      "set up a meeting",
+      "set up equipment",
+      "set up the room"
+    ],
+    "synonyms": [
+      "arrange",
+      "establish",
+      "prepare"
+    ],
+    "wordFamily": [
+      "setup"
+    ],
+    "day": 10
+  },
+  {
+    "id": "touch base-phrase",
+    "word": "touch base",
+    "baseWord": "touch base",
+    "type": "phrase",
+    "meaning": "liên lạc, trao đổi nhanh",
+    "pronunciation": "/tʌtʃ beɪs/",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The networking event starts at 6 PM in the main hall.",
-    "exampleVi": "Sự kiện giao lưu bắt đầu lúc 6 giờ tối tại hội trường chính.",
-    "collocations": ["networking event", "networking opportunity", "professional networking"],
-    "synonyms": ["socializing", "connecting"],
-    "wordFamily": ["network", "networked", "networker"],
+    "partTags": [
+      "Part 3"
+    ],
+    "example": "I will touch base with you after the client calls.",
+    "exampleVi": "Tôi sẽ liên lạc để trao đổi nhanh với bạn sau khi khách hàng gọi điện.",
+    "collocations": [
+      "touch base with",
+      "touch base later",
+      "touch base tomorrow"
+    ],
+    "synonyms": [
+      "contact",
+      "connect",
+      "catch up"
+    ],
+    "wordFamily": [],
     "day": 10
   },
   {
-    "id": "adjourn-schedule-verb",
-    "word": "exhibit",
-    "baseWord": "exhibit",
-    "type": "verb",
-    "meaning": "trưng bày, triển lãm",
-    "pronunciation": "/ɪɡˈzɪbɪt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Several companies will exhibit their products at the trade show.",
-    "exampleVi": "Một số công ty sẽ trưng bày sản phẩm tại hội chợ thương mại.",
-    "collocations": ["exhibit at a trade show", "exhibit products", "exhibit artwork"],
-    "synonyms": ["display", "showcase"],
-    "wordFamily": ["exhibition", "exhibitor", "exhibited"],
-    "day": 10
-  },
-  {
-    "id": "adjacent-adjective",
-    "word": "adjacent",
-    "baseWord": "adjacent",
-    "type": "adjective",
-    "meaning": "liền kề, kế bên",
-    "pronunciation": "/əˈdʒeɪsənt/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The breakout session will be held in the room adjacent to the lobby.",
-    "exampleVi": "Phiên thảo luận nhóm sẽ được tổ chức trong phòng kế bên sảnh.",
-    "collocations": ["adjacent room", "adjacent building", "adjacent to"],
-    "synonyms": ["neighboring", "next to"],
-    "wordFamily": ["adjacently"],
-    "day": 10
-  },
-  {
-    "id": "logistics-noun",
-    "word": "logistics",
-    "baseWord": "logistics",
+    "id": "workshop-noun",
+    "word": "workshop",
+    "baseWord": "workshop",
     "type": "noun",
-    "meaning": "hậu cần, công tác tổ chức",
-    "pronunciation": "/ləˈdʒɪstɪks/",
-    "topic": "Meetings",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The logistics team handled all the arrangements for the conference.",
-    "exampleVi": "Nhóm hậu cần đã xử lý tất cả các sắp xếp cho hội nghị.",
-    "collocations": ["event logistics", "logistics planning", "logistics coordinator"],
-    "synonyms": ["organization", "coordination"],
-    "wordFamily": ["logistic", "logistical", "logistically"],
-    "day": 10
-  },
-  {
-    "id": "breakout-adjective",
-    "word": "breakout",
-    "baseWord": "breakout",
-    "type": "adjective",
-    "meaning": "tách nhóm, phiên nhỏ",
-    "pronunciation": "/ˈbreɪkaʊt/",
-    "topic": "Meetings",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Participants will divide into breakout groups after the keynote.",
-    "exampleVi": "Người tham gia sẽ chia thành các nhóm nhỏ sau bài phát biểu chính.",
-    "collocations": ["breakout session", "breakout room", "breakout group"],
-    "synonyms": ["small-group", "separate"],
-    "wordFamily": ["break out"],
+    "meaning": "hội thảo thực hành, buổi tập huấn",
+    "pronunciation": "/ˈwɜːrkʃɑːp/",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The company organized a workshop on digital marketing techniques.",
+    "exampleVi": "Công ty đã tổ chức một buổi tập huấn về kỹ thuật tiếp thị kỹ thuật số.",
+    "collocations": [
+      "attend a workshop",
+      "conduct a workshop",
+      "training workshop"
+    ],
+    "synonyms": [
+      "seminar",
+      "class",
+      "session"
+    ],
+    "wordFamily": [],
     "day": 10
   }
 ]

@@ -1,218 +1,163 @@
 [
   {
-    "id": "inspection-noun",
-    "word": "inspection",
-    "baseWord": "inspect",
-    "type": "noun",
-    "meaning": "sự kiểm tra, thanh tra",
-    "pronunciation": "/ɪnˈspekʃən/",
+    "id": "agenda-approval-phrase",
+    "word": "agenda approval",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda approval",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The factory must pass a safety inspection before reopening.",
-    "exampleVi": "Nhà máy phải vượt qua đợt kiểm tra an toàn trước khi mở cửa lại.",
-    "collocations": ["pass an inspection", "routine inspection", "inspection report", "on-site inspection"],
-    "synonyms": ["examination", "review", "check"],
-    "wordFamily": ["inspect", "inspector", "inspected"],
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the agenda approval before the next business day.",
+    "exampleVi": "Vui long xem lai agenda approval truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda approval",
+      "agenda approval process",
+      "agenda approval deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "approval"
+    ],
     "day": 101
   },
   {
-    "id": "inspect-verb",
-    "word": "inspect",
-    "baseWord": "inspect",
+    "id": "agenda-request-phrase",
+    "word": "agenda request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda request",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda request before the next business day.",
+    "exampleVi": "Vui long xem lai agenda request truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda request",
+      "agenda request process",
+      "agenda request deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "request"
+    ],
+    "day": 101
+  },
+  {
+    "id": "agenda-review-phrase",
+    "word": "agenda review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda review",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the agenda review before the next business day.",
+    "exampleVi": "Vui long xem lai agenda review truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda review",
+      "agenda review process",
+      "agenda review deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "review"
+    ],
+    "day": 101
+  },
+  {
+    "id": "assure-verb",
+    "word": "assure",
+    "baseWord": "assure",
     "type": "verb",
-    "meaning": "kiểm tra, thanh tra",
-    "pronunciation": "/ɪnˈspekt/",
+    "meaning": "cam đoan, bảo đảm",
+    "pronunciation": "/əˈʃʊr/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A technician will inspect the equipment before installation.",
-    "exampleVi": "Kỹ thuật viên sẽ kiểm tra thiết bị trước khi lắp đặt.",
-    "collocations": ["inspect the premises", "inspect for defects", "inspect thoroughly"],
-    "synonyms": ["examine", "check", "scrutinize"],
-    "wordFamily": ["inspection", "inspector", "inspected"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The supervisor wanted to assure the team that quality standards would be maintained.",
+    "exampleVi": "Người giám sát muốn cam đoan với nhóm rằng các tiêu chuẩn chất lượng sẽ được duy trì.",
+    "collocations": [
+      "assure someone of",
+      "assure safety",
+      "assure success"
+    ],
+    "synonyms": [
+      "guarantee",
+      "ensure",
+      "promise"
+    ],
+    "wordFamily": [
+      "assurance",
+      "assured",
+      "assuredly"
+    ],
     "day": 101
   },
   {
-    "id": "certify-verb",
-    "word": "certify",
+    "id": "certified-adjective",
+    "word": "certified",
     "baseWord": "certify",
-    "type": "verb",
-    "meaning": "chứng nhận, xác nhận",
-    "pronunciation": "/ˈsɜːrtɪfaɪ/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board will certify the product for international distribution.",
-    "exampleVi": "Hội đồng sẽ chứng nhận sản phẩm để phân phối quốc tế.",
-    "collocations": ["certify a product", "certify compliance", "officially certify"],
-    "synonyms": ["accredit", "validate", "endorse"],
-    "wordFamily": ["certification", "certified", "certifiable"],
-    "day": 101
-  },
-  {
-    "id": "certification-noun",
-    "word": "certification",
-    "baseWord": "certify",
-    "type": "noun",
-    "meaning": "chứng chỉ, sự chứng nhận",
-    "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "All employees must obtain a food safety certification.",
-    "exampleVi": "Tất cả nhân viên phải có chứng chỉ an toàn thực phẩm.",
-    "collocations": ["obtain certification", "certification program", "professional certification"],
-    "synonyms": ["accreditation", "credential", "qualification"],
-    "wordFamily": ["certify", "certified", "certifiable"],
-    "day": 101
-  },
-  {
-    "id": "benchmark-noun",
-    "word": "benchmark",
-    "baseWord": "benchmark",
-    "type": "noun",
-    "meaning": "tiêu chuẩn, mốc chuẩn",
-    "pronunciation": "/ˈbentʃmɑːrk/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company uses industry benchmarks to measure performance.",
-    "exampleVi": "Công ty sử dụng các tiêu chuẩn ngành để đo lường hiệu suất.",
-    "collocations": ["set a benchmark", "industry benchmark", "benchmark for quality"],
-    "synonyms": ["standard", "yardstick", "reference point"],
-    "wordFamily": ["benchmarking", "benchmarked"],
-    "day": 101
-  },
-  {
-    "id": "compliance-noun",
-    "word": "compliance",
-    "baseWord": "comply",
-    "type": "noun",
-    "meaning": "sự tuân thủ",
-    "pronunciation": "/kəmˈplaɪəns/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The new regulations require strict compliance from all manufacturers.",
-    "exampleVi": "Các quy định mới yêu cầu sự tuân thủ nghiêm ngặt từ tất cả nhà sản xuất.",
-    "collocations": ["ensure compliance", "regulatory compliance", "compliance requirements"],
-    "synonyms": ["adherence", "conformity", "observance"],
-    "wordFamily": ["comply", "compliant", "noncompliant"],
-    "day": 101
-  },
-  {
-    "id": "audit-noun",
-    "word": "audit",
-    "baseWord": "audit",
-    "type": "noun",
-    "meaning": "cuộc kiểm toán",
-    "pronunciation": "/ˈɔːdɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The company underwent an external audit last quarter.",
-    "exampleVi": "Công ty đã trải qua một cuộc kiểm toán bên ngoài quý trước.",
-    "collocations": ["conduct an audit", "internal audit", "annual audit", "audit report"],
-    "synonyms": ["review", "examination", "assessment"],
-    "wordFamily": ["audit", "auditor", "audited", "auditing"],
-    "day": 101
-  },
-  {
-    "id": "defect-noun",
-    "word": "defect",
-    "baseWord": "defect",
-    "type": "noun",
-    "meaning": "lỗi, khuyết điểm",
-    "pronunciation": "/ˈdiːfekt/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The batch was recalled due to a manufacturing defect.",
-    "exampleVi": "Lô hàng đã bị thu hồi do lỗi sản xuất.",
-    "collocations": ["manufacturing defect", "identify a defect", "defect rate", "zero defects"],
-    "synonyms": ["flaw", "fault", "imperfection"],
-    "wordFamily": ["defective", "defected"],
-    "day": 101
-  },
-  {
-    "id": "defective-adjective",
-    "word": "defective",
-    "baseWord": "defect",
     "type": "adjective",
-    "meaning": "bị lỗi, có khuyết điểm",
-    "pronunciation": "/dɪˈfektɪv/",
+    "meaning": "đã được chứng nhận, có chứng chỉ",
+    "pronunciation": "/ˈsɜːrtɪfaɪd/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Defective items will be replaced at no additional cost.",
-    "exampleVi": "Các mặt hàng bị lỗi sẽ được thay thế miễn phí.",
-    "collocations": ["defective product", "defective parts", "defective merchandise"],
-    "synonyms": ["faulty", "flawed", "malfunctioning"],
-    "wordFamily": ["defect", "defectively"],
-    "day": 101
-  },
-  {
-    "id": "specification-noun",
-    "word": "specification",
-    "baseWord": "specify",
-    "type": "noun",
-    "meaning": "quy cách, thông số kỹ thuật",
-    "pronunciation": "/ˌspesɪfɪˈkeɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "The product must meet the exact specifications outlined in the contract.",
-    "exampleVi": "Sản phẩm phải đáp ứng đúng thông số kỹ thuật nêu trong hợp đồng.",
-    "collocations": ["meet specifications", "product specifications", "technical specifications"],
-    "synonyms": ["requirement", "standard", "parameter"],
-    "wordFamily": ["specify", "specific", "specified"],
-    "day": 101
-  },
-  {
-    "id": "standardize-verb",
-    "word": "standardize",
-    "baseWord": "standard",
-    "type": "verb",
-    "meaning": "tiêu chuẩn hóa",
-    "pronunciation": "/ˈstændərdaɪz/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The goal is to standardize procedures across all branches.",
-    "exampleVi": "Mục tiêu là tiêu chuẩn hóa quy trình ở tất cả các chi nhánh.",
-    "collocations": ["standardize procedures", "standardize processes", "standardize testing"],
-    "synonyms": ["normalize", "regulate", "systematize"],
-    "wordFamily": ["standard", "standardization", "standardized"],
-    "day": 101
-  },
-  {
-    "id": "criterion-noun",
-    "word": "criterion",
-    "baseWord": "criterion",
-    "type": "noun",
-    "meaning": "tiêu chí",
-    "pronunciation": "/kraɪˈtɪriən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Safety is the most important criterion for selecting a supplier.",
-    "exampleVi": "An toàn là tiêu chí quan trọng nhất để chọn nhà cung cấp.",
-    "collocations": ["selection criterion", "meet the criterion", "key criterion"],
-    "synonyms": ["standard", "measure", "benchmark"],
-    "wordFamily": ["criteria"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Only certified technicians are allowed to operate this machinery.",
+    "exampleVi": "Chỉ những kỹ thuật viên đã được chứng nhận mới được phép vận hành máy móc này.",
+    "collocations": [
+      "certified professional",
+      "certified product",
+      "certified organic"
+    ],
+    "synonyms": [
+      "qualified",
+      "licensed",
+      "approved"
+    ],
+    "wordFamily": [
+      "certify",
+      "certification",
+      "certifiable"
+    ],
     "day": 101
   },
   {
@@ -225,66 +170,194 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "All products must conform to national safety standards.",
     "exampleVi": "Tất cả sản phẩm phải tuân theo tiêu chuẩn an toàn quốc gia.",
-    "collocations": ["conform to standards", "conform to regulations", "conform to requirements"],
-    "synonyms": ["comply", "adhere", "abide by"],
-    "wordFamily": ["conformity", "conformance", "nonconforming"],
+    "collocations": [
+      "conform to standards",
+      "conform to regulations",
+      "conform to requirements"
+    ],
+    "synonyms": [
+      "comply",
+      "adhere",
+      "abide by"
+    ],
+    "wordFamily": [
+      "conformity",
+      "conformance",
+      "nonconforming"
+    ],
     "day": 101
   },
   {
-    "id": "calibrate-verb",
-    "word": "calibrate",
-    "baseWord": "calibrate",
-    "type": "verb",
-    "meaning": "hiệu chuẩn",
-    "pronunciation": "/ˈkælɪbreɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The instruments must be calibrated before each use.",
-    "exampleVi": "Các thiết bị đo phải được hiệu chuẩn trước mỗi lần sử dụng.",
-    "collocations": ["calibrate instruments", "calibrate equipment", "calibrate annually"],
-    "synonyms": ["adjust", "fine-tune", "regulate"],
-    "wordFamily": ["calibration", "calibrated"],
-    "day": 101
-  },
-  {
-    "id": "assurance-noun",
-    "word": "assurance",
-    "baseWord": "assure",
+    "id": "criterion-noun",
+    "word": "criterion",
+    "baseWord": "criterion",
     "type": "noun",
-    "meaning": "sự đảm bảo",
-    "pronunciation": "/əˈʃʊrəns/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The quality assurance team reviews every product before shipment.",
-    "exampleVi": "Đội đảm bảo chất lượng kiểm tra mọi sản phẩm trước khi giao hàng.",
-    "collocations": ["quality assurance", "give assurance", "assurance program"],
-    "synonyms": ["guarantee", "pledge", "promise"],
-    "wordFamily": ["assure", "assured", "assuredly"],
-    "day": 101
-  },
-  {
-    "id": "stringent-adjective",
-    "word": "stringent",
-    "baseWord": "stringent",
-    "type": "adjective",
-    "meaning": "nghiêm ngặt, chặt chẽ",
-    "pronunciation": "/ˈstrɪndʒənt/",
+    "meaning": "tiêu chí",
+    "pronunciation": "/kraɪˈtɪriən/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The pharmaceutical industry has stringent quality controls.",
-    "exampleVi": "Ngành dược phẩm có các quy trình kiểm soát chất lượng nghiêm ngặt.",
-    "collocations": ["stringent regulations", "stringent requirements", "stringent standards"],
-    "synonyms": ["strict", "rigorous", "demanding"],
-    "wordFamily": ["stringently", "stringency"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Safety is the most important criterion for selecting a supplier.",
+    "exampleVi": "An toàn là tiêu chí quan trọng nhất để chọn nhà cung cấp.",
+    "collocations": [
+      "selection criterion",
+      "meet the criterion",
+      "key criterion"
+    ],
+    "synonyms": [
+      "standard",
+      "measure",
+      "benchmark"
+    ],
+    "wordFamily": [
+      "criteria",
+      "criterion",
+      "criterions"
+    ],
+    "day": 101
+  },
+  {
+    "id": "defect-free-phrase",
+    "word": "defect-free",
+    "baseWord": "defect-free",
+    "type": "phrase",
+    "meaning": "không có lỗi, hoàn hảo",
+    "pronunciation": "/dɪˈfekt friː/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our goal is to deliver defect-free products to every client.",
+    "exampleVi": "Mục tiêu của chúng tôi là giao sản phẩm không có lỗi cho mọi khách hàng.",
+    "collocations": [
+      "defect-free product",
+      "defect-free manufacturing",
+      "ensure defect-free"
+    ],
+    "synonyms": [
+      "flawless",
+      "perfect"
+    ],
+    "wordFamily": [
+      "defect",
+      "defective",
+      "defects"
+    ],
+    "day": 101
+  },
+  {
+    "id": "flawed-adjective",
+    "word": "flawed",
+    "baseWord": "flaw",
+    "type": "adjective",
+    "meaning": "có lỗi, có tì vết, không hoàn hảo",
+    "pronunciation": "/flɔːd/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The safety inspection revealed that the structural design was flawed.",
+    "exampleVi": "Cuộc kiểm tra an toàn cho thấy thiết kế cấu trúc có lỗi.",
+    "collocations": [
+      "flawed design",
+      "flawed logic",
+      "seriously flawed"
+    ],
+    "synonyms": [
+      "defective",
+      "faulty",
+      "imperfect"
+    ],
+    "wordFamily": [
+      "flaw",
+      "flawless",
+      "flawlessly"
+    ],
+    "day": 101
+  },
+  {
+    "id": "grade-noun",
+    "word": "grade",
+    "baseWord": "grade",
+    "type": "noun",
+    "meaning": "phân loại, cấp độ, mác",
+    "pronunciation": "/ɡreɪd/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The steel used in production is of the highest grade.",
+    "exampleVi": "Thép được sử dụng trong sản xuất có mác cao nhất.",
+    "collocations": [
+      "high grade",
+      "food grade",
+      "grade of material"
+    ],
+    "synonyms": [
+      "rank",
+      "level",
+      "category"
+    ],
+    "wordFamily": [
+      "grader",
+      "grading",
+      "graded"
+    ],
+    "day": 101
+  },
+  {
+    "id": "inspection-noun",
+    "word": "inspection",
+    "baseWord": "inspect",
+    "type": "noun",
+    "meaning": "sự kiểm tra, thanh tra",
+    "pronunciation": "/ɪnˈspekʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The factory must pass a safety inspection before reopening.",
+    "exampleVi": "Nhà máy phải vượt qua đợt kiểm tra an toàn trước khi mở cửa lại.",
+    "collocations": [
+      "pass an inspection",
+      "routine inspection",
+      "inspection report",
+      "on-site inspection"
+    ],
+    "synonyms": [
+      "examination",
+      "review",
+      "check"
+    ],
+    "wordFamily": [
+      "inspect",
+      "inspector",
+      "inspected"
+    ],
     "day": 101
   },
   {
@@ -297,193 +370,287 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "The inspector is known for his meticulous attention to detail.",
     "exampleVi": "Thanh tra viên nổi tiếng vì sự chú ý tỉ mỉ đến từng chi tiết.",
-    "collocations": ["meticulous attention", "meticulous planning", "meticulous records"],
-    "synonyms": ["thorough", "precise", "careful"],
-    "wordFamily": ["meticulously", "meticulousness"],
+    "collocations": [
+      "meticulous attention",
+      "meticulous planning",
+      "meticulous records"
+    ],
+    "synonyms": [
+      "thorough",
+      "precise",
+      "careful"
+    ],
+    "wordFamily": [
+      "meticulously",
+      "meticulousness"
+    ],
     "day": 101
   },
   {
-    "id": "consistently-adverb",
-    "word": "consistently",
-    "baseWord": "consistent",
-    "type": "adverb",
-    "meaning": "một cách nhất quán",
-    "pronunciation": "/kənˈsɪstəntli/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "The factory has consistently met its production targets.",
-    "exampleVi": "Nhà máy đã liên tục đạt được các mục tiêu sản xuất.",
-    "collocations": ["consistently high quality", "consistently meet", "consistently perform"],
-    "synonyms": ["regularly", "reliably", "steadily"],
-    "wordFamily": ["consistent", "consistency", "inconsistently"],
-    "day": 101
-  },
-  {
-    "id": "tolerance-noun",
-    "word": "tolerance",
-    "baseWord": "tolerate",
-    "type": "noun",
-    "meaning": "dung sai, mức cho phép",
-    "pronunciation": "/ˈtɑːlərəns/",
+    "id": "online-agenda-phrase",
+    "word": "online agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: online agenda",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The parts must be manufactured within strict tolerances.",
-    "exampleVi": "Các bộ phận phải được sản xuất trong phạm vi dung sai nghiêm ngặt.",
-    "collocations": ["within tolerance", "tolerance level", "zero tolerance"],
-    "synonyms": ["allowance", "margin", "leeway"],
-    "wordFamily": ["tolerate", "tolerant", "tolerable"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the online agenda before the next business day.",
+    "exampleVi": "Vui long xem lai online agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "online agenda",
+      "online agenda process",
+      "online agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 101
   },
   {
-    "id": "in-compliance-with-phrase",
-    "word": "in compliance with",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "tuân thủ theo, phù hợp với",
-    "pronunciation": "/ɪn kəmˈplaɪəns wɪð/",
+    "id": "optimal-adjective",
+    "word": "optimal",
+    "baseWord": "optimal",
+    "type": "adjective",
+    "meaning": "tối ưu, tốt nhất",
+    "pronunciation": "/ˈɑːptɪməl/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "All operations must be conducted in compliance with local regulations.",
-    "exampleVi": "Tất cả hoạt động phải được tiến hành tuân thủ theo quy định địa phương.",
-    "collocations": ["in compliance with regulations", "in compliance with the law", "in compliance with standards"],
-    "synonyms": ["in accordance with", "in conformity with"],
-    "wordFamily": ["comply", "compliant", "compliance"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Regular maintenance keeps the machine operating at its optimal level.",
+    "exampleVi": "Bảo trì định kỳ giúp máy móc hoạt động ở mức tối ưu.",
+    "collocations": [
+      "optimal performance",
+      "optimal temperature",
+      "optimal conditions"
+    ],
+    "synonyms": [
+      "optimum",
+      "ideal",
+      "best"
+    ],
+    "wordFamily": [
+      "optimize",
+      "optimization",
+      "optimum"
+    ],
     "day": 101
   },
   {
-    "id": "inspector-noun",
-    "word": "inspector",
-    "baseWord": "inspect",
+    "id": "optimization-noun",
+    "word": "optimization",
+    "baseWord": "optimize",
     "type": "noun",
-    "meaning": "thanh tra viên, kiểm tra viên",
-    "pronunciation": "/ɪnˈspektər/",
+    "meaning": "sự tối ưu hóa",
+    "pronunciation": "/ˌɑːptɪmaɪˈzeɪʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Process optimization led to a ten percent increase in factory output.",
+    "exampleVi": "Sự tối ưu hóa quy trình đã dẫn đến mức tăng 10 phần trăm sản lượng của nhà máy.",
+    "collocations": [
+      "process optimization",
+      "efficiency optimization",
+      "search engine optimization"
+    ],
+    "synonyms": [
+      "improvement",
+      "refinement"
+    ],
+    "wordFamily": [
+      "optimize",
+      "optimal",
+      "optimum"
+    ],
+    "day": 101
+  },
+  {
+    "id": "quality assurance-phrase",
+    "word": "quality assurance",
+    "baseWord": "quality assurance",
+    "type": "phrase",
+    "meaning": "đảm bảo chất lượng",
+    "pronunciation": "/ˈkwɑːləti əˈʃʊrəns/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Quality assurance audits are conducted on a quarterly basis.",
+    "exampleVi": "Các cuộc kiểm toán đảm bảo chất lượng được tiến hành hàng quý.",
+    "collocations": [
+      "quality assurance system",
+      "quality assurance team",
+      "quality assurance policy"
+    ],
+    "synonyms": [
+      "quality control",
+      "quality monitoring"
+    ],
+    "wordFamily": [
+      "quality",
+      "assure",
+      "assurance"
+    ],
+    "day": 101
+  },
+  {
+    "id": "quality control-phrase",
+    "word": "quality control",
+    "baseWord": "quality control",
+    "type": "phrase",
+    "meaning": "kiểm soát chất lượng",
+    "pronunciation": "/ˈkwɑːləti kənˈtroʊl/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The building inspector found several code violations.",
-    "exampleVi": "Thanh tra viên tòa nhà đã phát hiện một số vi phạm quy chuẩn.",
-    "collocations": ["building inspector", "health inspector", "quality inspector"],
-    "synonyms": ["examiner", "reviewer", "assessor"],
-    "wordFamily": ["inspect", "inspection", "inspected"],
-    "day": 102
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All products must pass quality control before being packaged.",
+    "exampleVi": "Tất cả sản phẩm phải vượt qua khâu kiểm soát chất lượng trước khi được đóng gói.",
+    "collocations": [
+      "quality control department",
+      "quality control standards",
+      "quality control manager"
+    ],
+    "synonyms": [
+      "inspection",
+      "quality assurance"
+    ],
+    "wordFamily": [
+      "quality",
+      "control",
+      "controller"
+    ],
+    "day": 101
   },
   {
-    "id": "accreditation-noun",
-    "word": "accreditation",
-    "baseWord": "accredit",
-    "type": "noun",
-    "meaning": "sự công nhận, chứng nhận",
-    "pronunciation": "/əˌkredɪˈteɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The university recently received accreditation from the national board.",
-    "exampleVi": "Trường đại học gần đây đã nhận được sự công nhận từ hội đồng quốc gia.",
-    "collocations": ["receive accreditation", "accreditation process", "accreditation body"],
-    "synonyms": ["certification", "authorization", "endorsement"],
-    "wordFamily": ["accredit", "accredited"],
-    "day": 102
-  },
-  {
-    "id": "protocol-noun",
-    "word": "protocol",
-    "baseWord": "protocol",
-    "type": "noun",
-    "meaning": "quy trình, nghi thức",
-    "pronunciation": "/ˈproʊtəkɑːl/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "Employees must follow the safety protocol at all times.",
-    "exampleVi": "Nhân viên phải tuân theo quy trình an toàn mọi lúc.",
-    "collocations": ["safety protocol", "follow protocol", "standard protocol"],
-    "synonyms": ["procedure", "guideline", "code of conduct"],
-    "wordFamily": ["protocols"],
-    "day": 102
-  },
-  {
-    "id": "regulatory-adjective",
-    "word": "regulatory",
-    "baseWord": "regulate",
-    "type": "adjective",
-    "meaning": "thuộc về quy định, điều tiết",
-    "pronunciation": "/ˈreɡjələtɔːri/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company faces increasing regulatory pressure from the government.",
-    "exampleVi": "Công ty đối mặt với áp lực quy định ngày càng tăng từ chính phủ.",
-    "collocations": ["regulatory body", "regulatory requirements", "regulatory framework"],
-    "synonyms": ["legislative", "governmental", "supervisory"],
-    "wordFamily": ["regulate", "regulation", "regulator"],
-    "day": 102
-  },
-  {
-    "id": "deviation-noun",
-    "word": "deviation",
-    "baseWord": "deviate",
-    "type": "noun",
-    "meaning": "sự sai lệch, sự chệch hướng",
-    "pronunciation": "/ˌdiːviˈeɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Any deviation from the standard process must be documented.",
-    "exampleVi": "Bất kỳ sự sai lệch nào khỏi quy trình tiêu chuẩn đều phải được ghi lại.",
-    "collocations": ["deviation from standards", "significant deviation", "acceptable deviation"],
-    "synonyms": ["departure", "divergence", "variance"],
-    "wordFamily": ["deviate", "deviated", "deviating"],
-    "day": 102
-  },
-  {
-    "id": "rectify-verb",
-    "word": "rectify",
-    "baseWord": "rectify",
+    "id": "re-inspect-verb",
+    "word": "re-inspect",
+    "baseWord": "inspect",
     "type": "verb",
-    "meaning": "sửa chữa, khắc phục",
-    "pronunciation": "/ˈrektɪfaɪ/",
+    "meaning": "kiểm tra lại",
+    "pronunciation": "/ˌriːɪnˈspekt/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The engineer will re-inspect the equipment after the repairs are completed.",
+    "exampleVi": "Kỹ sư sẽ kiểm tra lại thiết bị sau khi việc sửa chữa hoàn tất.",
+    "collocations": [
+      "re-inspect equipment",
+      "re-inspect the batch",
+      "carefully re-inspect"
+    ],
+    "synonyms": [
+      "re-examine",
+      "check again"
+    ],
+    "wordFamily": [
+      "inspect",
+      "inspection",
+      "inspector"
+    ],
+    "day": 101
+  },
+  {
+    "id": "standardize-verb",
+    "word": "standardize",
+    "baseWord": "standard",
+    "type": "verb",
+    "meaning": "tiêu chuẩn hóa",
+    "pronunciation": "/ˈstændərdaɪz/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The goal is to standardize procedures across all branches.",
+    "exampleVi": "Mục tiêu là tiêu chuẩn hóa quy trình ở tất cả các chi nhánh.",
+    "collocations": [
+      "standardize procedures",
+      "standardize processes",
+      "standardize testing"
+    ],
+    "synonyms": [
+      "normalize",
+      "regulate",
+      "systematize"
+    ],
+    "wordFamily": [
+      "standard",
+      "standardization",
+      "standardized"
+    ],
+    "day": 101
+  },
+  {
+    "id": "stringent-adjective",
+    "word": "stringent",
+    "baseWord": "stringent",
+    "type": "adjective",
+    "meaning": "nghiêm ngặt, chặt chẽ",
+    "pronunciation": "/ˈstrɪndʒənt/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The manufacturer promised to rectify the issue immediately.",
-    "exampleVi": "Nhà sản xuất hứa sẽ khắc phục vấn đề ngay lập tức.",
-    "collocations": ["rectify the problem", "rectify an error", "rectify the situation"],
-    "synonyms": ["correct", "fix", "remedy"],
-    "wordFamily": ["rectification", "rectified"],
-    "day": 102
-  },
-  {
-    "id": "oversight-noun",
-    "word": "oversight",
-    "baseWord": "oversee",
-    "type": "noun",
-    "meaning": "sự giám sát; sự sơ suất",
-    "pronunciation": "/ˈoʊvərsaɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A lack of oversight led to several quality issues.",
-    "exampleVi": "Thiếu giám sát đã dẫn đến nhiều vấn đề về chất lượng.",
-    "collocations": ["regulatory oversight", "management oversight", "due to an oversight"],
-    "synonyms": ["supervision", "monitoring", "surveillance"],
-    "wordFamily": ["oversee", "overseen", "overseer"],
-    "day": 102
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The pharmaceutical industry has stringent quality controls.",
+    "exampleVi": "Ngành dược phẩm có các quy trình kiểm soát chất lượng nghiêm ngặt.",
+    "collocations": [
+      "stringent regulations",
+      "stringent requirements",
+      "stringent standards"
+    ],
+    "synonyms": [
+      "strict",
+      "rigorous",
+      "demanding"
+    ],
+    "wordFamily": [
+      "stringently",
+      "stringency"
+    ],
+    "day": 101
   },
   {
     "id": "adhere-verb",
@@ -495,84 +662,183 @@
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "All staff members must adhere to the company's quality guidelines.",
     "exampleVi": "Tất cả nhân viên phải tuân thủ các hướng dẫn chất lượng của công ty.",
-    "collocations": ["adhere to policies", "adhere to standards", "adhere strictly"],
-    "synonyms": ["comply", "follow", "observe"],
-    "wordFamily": ["adherence", "adherent"],
+    "collocations": [
+      "adhere to policies",
+      "adhere to standards",
+      "adhere strictly"
+    ],
+    "synonyms": [
+      "comply",
+      "follow",
+      "observe"
+    ],
+    "wordFamily": [
+      "adherence",
+      "adherent"
+    ],
     "day": 102
   },
   {
-    "id": "mandate-noun",
-    "word": "mandate",
-    "baseWord": "mandate",
-    "type": "noun",
-    "meaning": "sự ủy quyền, lệnh bắt buộc",
-    "pronunciation": "/ˈmændeɪt/",
+    "id": "agenda-notice-phrase",
+    "word": "agenda notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda notice",
+    "pronunciation": "",
     "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The government issued a mandate requiring emissions testing.",
-    "exampleVi": "Chính phủ ban hành lệnh yêu cầu kiểm tra khí thải.",
-    "collocations": ["government mandate", "regulatory mandate", "federal mandate"],
-    "synonyms": ["directive", "order", "decree"],
-    "wordFamily": ["mandate", "mandated", "mandatory"],
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the agenda notice before the next business day.",
+    "exampleVi": "Vui long xem lai agenda notice truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda notice",
+      "agenda notice process",
+      "agenda notice deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "notice"
+    ],
     "day": 102
   },
   {
-    "id": "rigorous-adjective",
-    "word": "rigorous",
-    "baseWord": "rigorous",
-    "type": "adjective",
-    "meaning": "nghiêm ngặt, khắt khe",
-    "pronunciation": "/ˈrɪɡərəs/",
+    "id": "agenda-report-phrase",
+    "word": "agenda report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda report",
+    "pronunciation": "",
     "topic": "Quality & Standards",
-    "frequency": "medium",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The product underwent rigorous testing before its launch.",
-    "exampleVi": "Sản phẩm đã trải qua quá trình thử nghiệm khắt khe trước khi ra mắt.",
-    "collocations": ["rigorous testing", "rigorous standards", "rigorous training"],
-    "synonyms": ["thorough", "stringent", "exacting"],
-    "wordFamily": ["rigorously", "rigor"],
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the agenda report before the next business day.",
+    "exampleVi": "Vui long xem lai agenda report truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda report",
+      "agenda report process",
+      "agenda report deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "report"
+    ],
     "day": 102
   },
   {
-    "id": "validate-verb",
-    "word": "validate",
-    "baseWord": "valid",
-    "type": "verb",
-    "meaning": "xác nhận hiệu lực, xác thực",
-    "pronunciation": "/ˈvælɪdeɪt/",
+    "id": "agenda-schedule-phrase",
+    "word": "agenda schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda schedule",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The lab must validate the test results before publishing them.",
-    "exampleVi": "Phòng thí nghiệm phải xác thực kết quả kiểm tra trước khi công bố.",
-    "collocations": ["validate results", "validate data", "validate a claim"],
-    "synonyms": ["verify", "confirm", "substantiate"],
-    "wordFamily": ["validation", "valid", "validated", "invalid"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda schedule before the next business day.",
+    "exampleVi": "Vui long xem lai agenda schedule truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda schedule",
+      "agenda schedule process",
+      "agenda schedule deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "schedule"
+    ],
     "day": 102
   },
   {
-    "id": "flaw-noun",
-    "word": "flaw",
-    "baseWord": "flaw",
-    "type": "noun",
-    "meaning": "lỗi, khiếm khuyết",
-    "pronunciation": "/flɔː/",
+    "id": "agenda-update-phrase",
+    "word": "agenda update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda update",
+    "pronunciation": "",
     "topic": "Quality & Standards",
-    "frequency": "high",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the agenda update before the next business day.",
+    "exampleVi": "Vui long xem lai agenda update truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda update",
+      "agenda update process",
+      "agenda update deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "update"
+    ],
+    "day": 102
+  },
+  {
+    "id": "defect rate-phrase",
+    "word": "defect rate",
+    "baseWord": "defect",
+    "type": "phrase",
+    "meaning": "tỷ lệ lỗi",
+    "pronunciation": "/ˈdiːfekt reɪt/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Engineers discovered a flaw in the product design.",
-    "exampleVi": "Các kỹ sư phát hiện một lỗi trong thiết kế sản phẩm.",
-    "collocations": ["design flaw", "critical flaw", "identify a flaw"],
-    "synonyms": ["defect", "imperfection", "fault"],
-    "wordFamily": ["flawed", "flawless", "flawlessly"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory managed to lower its defect rate to under zero point five percent.",
+    "exampleVi": "Nhà máy đã cố gắng giảm tỷ lệ lỗi xuống dưới 0,5%.",
+    "collocations": [
+      "low defect rate",
+      "high defect rate",
+      "calculate defect rate"
+    ],
+    "synonyms": [
+      "error rate",
+      "failure rate"
+    ],
+    "wordFamily": [
+      "defect",
+      "defective",
+      "defects"
+    ],
     "day": 102
   },
   {
@@ -585,48 +851,90 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5"],
+    "partTags": [
+      "Part 5"
+    ],
     "example": "The presentation was flawless and impressed all the clients.",
     "exampleVi": "Bài thuyết trình hoàn hảo và gây ấn tượng với tất cả khách hàng.",
-    "collocations": ["flawless execution", "flawless performance", "flawless quality"],
-    "synonyms": ["perfect", "impeccable", "faultless"],
-    "wordFamily": ["flaw", "flawed", "flawlessly"],
+    "collocations": [
+      "flawless execution",
+      "flawless performance",
+      "flawless quality"
+    ],
+    "synonyms": [
+      "perfect",
+      "impeccable",
+      "faultless"
+    ],
+    "wordFamily": [
+      "flaw",
+      "flawed",
+      "flawlessly"
+    ],
     "day": 102
   },
   {
-    "id": "scrutinize-verb",
-    "word": "scrutinize",
-    "baseWord": "scrutiny",
-    "type": "verb",
-    "meaning": "xem xét kỹ lưỡng",
-    "pronunciation": "/ˈskruːtənaɪz/",
+    "id": "inspection report-phrase",
+    "word": "inspection report",
+    "baseWord": "inspect",
+    "type": "phrase",
+    "meaning": "báo cáo kiểm tra",
+    "pronunciation": "/ɪnˈspekʃən rɪˈpɔːrt/",
     "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Auditors will scrutinize the financial records carefully.",
-    "exampleVi": "Kiểm toán viên sẽ xem xét kỹ lưỡng các hồ sơ tài chính.",
-    "collocations": ["scrutinize records", "scrutinize closely", "scrutinize the data"],
-    "synonyms": ["examine", "inspect", "analyze"],
-    "wordFamily": ["scrutiny", "scrutinized"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The technician filed the weekly inspection report this morning.",
+    "exampleVi": "Kỹ thuật viên đã nộp báo cáo kiểm tra hàng tuần vào sáng nay.",
+    "collocations": [
+      "weekly inspection report",
+      "submit inspection report",
+      "safety inspection report"
+    ],
+    "synonyms": [
+      "audit report",
+      "check report"
+    ],
+    "wordFamily": [
+      "inspect",
+      "inspection",
+      "inspector"
+    ],
     "day": 102
   },
   {
-    "id": "scrutiny-noun",
-    "word": "scrutiny",
-    "baseWord": "scrutiny",
+    "id": "mandate-noun",
+    "word": "mandate",
+    "baseWord": "mandate",
     "type": "noun",
-    "meaning": "sự xem xét kỹ lưỡng",
-    "pronunciation": "/ˈskruːtəni/",
+    "meaning": "sự ủy quyền, lệnh bắt buộc",
+    "pronunciation": "/ˈmændeɪt/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The supplier's practices have come under scrutiny recently.",
-    "exampleVi": "Các hoạt động của nhà cung cấp gần đây đã bị xem xét kỹ lưỡng.",
-    "collocations": ["under scrutiny", "close scrutiny", "public scrutiny"],
-    "synonyms": ["examination", "inspection", "review"],
-    "wordFamily": ["scrutinize", "scrutinized"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The government issued a mandate requiring emissions testing.",
+    "exampleVi": "Chính phủ ban hành lệnh yêu cầu kiểm tra khí thải.",
+    "collocations": [
+      "government mandate",
+      "regulatory mandate",
+      "federal mandate"
+    ],
+    "synonyms": [
+      "directive",
+      "order",
+      "decree"
+    ],
+    "wordFamily": [
+      "mandate",
+      "mandated",
+      "mandatory"
+    ],
     "day": 102
   },
   {
@@ -639,264 +947,378 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "Each sample was meticulously tested in the laboratory.",
     "exampleVi": "Mỗi mẫu đều được kiểm tra một cách tỉ mỉ trong phòng thí nghiệm.",
-    "collocations": ["meticulously planned", "meticulously crafted", "meticulously checked"],
-    "synonyms": ["carefully", "thoroughly", "precisely"],
-    "wordFamily": ["meticulous", "meticulousness"],
+    "collocations": [
+      "meticulously planned",
+      "meticulously crafted",
+      "meticulously checked"
+    ],
+    "synonyms": [
+      "carefully",
+      "thoroughly",
+      "precisely"
+    ],
+    "wordFamily": [
+      "meticulous",
+      "meticulousness"
+    ],
     "day": 102
   },
   {
-    "id": "in-accordance-with-phrase",
-    "word": "in accordance with",
-    "baseWord": "accordance",
-    "type": "phrase",
-    "meaning": "phù hợp với, theo đúng",
-    "pronunciation": "/ɪn əˈkɔːrdəns wɪð/",
+    "id": "protocol-noun",
+    "word": "protocol",
+    "baseWord": "protocol",
+    "type": "noun",
+    "meaning": "quy trình, nghi thức",
+    "pronunciation": "/ˈproʊtəkɑːl/",
     "topic": "Quality & Standards",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "The work was completed in accordance with industry standards.",
-    "exampleVi": "Công việc đã được hoàn thành theo đúng tiêu chuẩn ngành.",
-    "collocations": ["in accordance with the law", "in accordance with regulations", "in accordance with policy"],
-    "synonyms": ["in compliance with", "in line with"],
-    "wordFamily": ["accord", "accordance", "accordingly"],
+    "level": "hard",
+    "partTags": [
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Employees must follow the safety protocol at all times.",
+    "exampleVi": "Nhân viên phải tuân theo quy trình an toàn mọi lúc.",
+    "collocations": [
+      "safety protocol",
+      "follow protocol",
+      "standard protocol"
+    ],
+    "synonyms": [
+      "procedure",
+      "guideline",
+      "code of conduct"
+    ],
+    "wordFamily": [
+      "protocol",
+      "protocols",
+      "protocoling"
+    ],
     "day": 102
   },
   {
-    "id": "specimen-noun",
-    "word": "specimen",
-    "baseWord": "specimen",
-    "type": "noun",
-    "meaning": "mẫu vật, mẫu thử",
-    "pronunciation": "/ˈspesɪmən/",
+    "id": "regulatory-adjective",
+    "word": "regulatory",
+    "baseWord": "regulate",
+    "type": "adjective",
+    "meaning": "thuộc về quy định, điều tiết",
+    "pronunciation": "/ˈreɡjələtɔːri/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The company faces increasing regulatory pressure from the government.",
+    "exampleVi": "Công ty đối mặt với áp lực quy định ngày càng tăng từ chính phủ.",
+    "collocations": [
+      "regulatory body",
+      "regulatory requirements",
+      "regulatory framework"
+    ],
+    "synonyms": [
+      "legislative",
+      "governmental",
+      "supervisory"
+    ],
+    "wordFamily": [
+      "regulate",
+      "regulation",
+      "regulator"
+    ],
+    "day": 102
+  },
+  {
+    "id": "rigorous-adjective",
+    "word": "rigorous",
+    "baseWord": "rigorous",
+    "type": "adjective",
+    "meaning": "nghiêm ngặt, khắt khe",
+    "pronunciation": "/ˈrɪɡərəs/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The lab requires a specimen for the quality test.",
-    "exampleVi": "Phòng thí nghiệm cần một mẫu vật để kiểm tra chất lượng.",
-    "collocations": ["test specimen", "collect a specimen", "specimen analysis"],
-    "synonyms": ["sample", "example", "model"],
-    "wordFamily": ["specimens"],
-    "day": 103
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The product underwent rigorous testing before its launch.",
+    "exampleVi": "Sản phẩm đã trải qua quá trình thử nghiệm khắt khe trước khi ra mắt.",
+    "collocations": [
+      "rigorous testing",
+      "rigorous standards",
+      "rigorous training"
+    ],
+    "synonyms": [
+      "thorough",
+      "stringent",
+      "exacting"
+    ],
+    "wordFamily": [
+      "rigorously",
+      "rigor"
+    ],
+    "day": 102
   },
   {
-    "id": "sampling-noun",
-    "word": "sampling",
-    "baseWord": "sample",
+    "id": "scrutinize-verb",
+    "word": "scrutinize",
+    "baseWord": "scrutiny",
+    "type": "verb",
+    "meaning": "xem xét kỹ lưỡng",
+    "pronunciation": "/ˈskruːtənaɪz/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Auditors will scrutinize the financial records carefully.",
+    "exampleVi": "Kiểm toán viên sẽ xem xét kỹ lưỡng các hồ sơ tài chính.",
+    "collocations": [
+      "scrutinize records",
+      "scrutinize closely",
+      "scrutinize the data"
+    ],
+    "synonyms": [
+      "examine",
+      "inspect",
+      "analyze"
+    ],
+    "wordFamily": [
+      "scrutiny",
+      "scrutinized"
+    ],
+    "day": 102
+  },
+  {
+    "id": "scrutiny-noun",
+    "word": "scrutiny",
+    "baseWord": "scrutiny",
     "type": "noun",
-    "meaning": "sự lấy mẫu",
-    "pronunciation": "/ˈsæmplɪŋ/",
+    "meaning": "sự xem xét kỹ lưỡng",
+    "pronunciation": "/ˈskruːtəni/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The supplier's practices have come under scrutiny recently.",
+    "exampleVi": "Các hoạt động của nhà cung cấp gần đây đã bị xem xét kỹ lưỡng.",
+    "collocations": [
+      "under scrutiny",
+      "close scrutiny",
+      "public scrutiny"
+    ],
+    "synonyms": [
+      "examination",
+      "inspection",
+      "review"
+    ],
+    "wordFamily": [
+      "scrutinize",
+      "scrutinized"
+    ],
+    "day": 102
+  },
+  {
+    "id": "standardization-noun",
+    "word": "standardization",
+    "baseWord": "standardize",
+    "type": "noun",
+    "meaning": "sự tiêu chuẩn hóa",
+    "pronunciation": "/ˌstændərdaɪˈzeɪʃən/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "Random sampling is used to check the quality of each batch.",
-    "exampleVi": "Lấy mẫu ngẫu nhiên được sử dụng để kiểm tra chất lượng từng lô hàng.",
-    "collocations": ["random sampling", "sampling method", "sampling procedure"],
-    "synonyms": ["testing", "surveying"],
-    "wordFamily": ["sample", "sampled", "sampler"],
-    "day": 103
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Standardization of processes is key to maintaining consistent product quality.",
+    "exampleVi": "Tiêu chuẩn hóa quy trình là chìa khóa để duy trì chất lượng sản phẩm nhất quán.",
+    "collocations": [
+      "process standardization",
+      "global standardization",
+      "standards for standardization"
+    ],
+    "synonyms": [
+      "uniformity",
+      "systematization"
+    ],
+    "wordFamily": [
+      "standard",
+      "standardize",
+      "standardized"
+    ],
+    "day": 102
   },
   {
-    "id": "durability-noun",
-    "word": "durability",
-    "baseWord": "durable",
+    "id": "traceability-noun",
+    "word": "traceability",
+    "baseWord": "trace",
     "type": "noun",
-    "meaning": "độ bền",
-    "pronunciation": "/ˌdʊrəˈbɪləti/",
+    "meaning": "khả năng truy xuất nguồn gốc",
+    "pronunciation": "/ˌtreɪsəˈbɪləti/",
     "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The material was chosen for its durability and resistance to heat.",
-    "exampleVi": "Vật liệu được chọn vì độ bền và khả năng chịu nhiệt.",
-    "collocations": ["product durability", "long-term durability", "test for durability"],
-    "synonyms": ["endurance", "resilience", "longevity"],
-    "wordFamily": ["durable", "durably"],
-    "day": 103
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company uses barcodes to ensure the traceability of food ingredients.",
+    "exampleVi": "Công ty sử dụng mã vạch để đảm bảo khả năng truy xuất nguồn gốc của các thành phần thực phẩm.",
+    "collocations": [
+      "product traceability",
+      "ensure traceability",
+      "full traceability"
+    ],
+    "synonyms": [
+      "trackability"
+    ],
+    "wordFamily": [
+      "trace",
+      "traceable",
+      "tracker"
+    ],
+    "day": 102
   },
   {
-    "id": "durable-adjective",
-    "word": "durable",
-    "baseWord": "durable",
+    "id": "traceable-adjective",
+    "word": "traceable",
+    "baseWord": "trace",
     "type": "adjective",
-    "meaning": "bền, lâu bền",
-    "pronunciation": "/ˈdʊrəbl/",
+    "meaning": "có thể truy xuất nguồn gốc, có thể theo dõi",
+    "pronunciation": "/ˈtreɪsəbl/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All parts used in the assembly line must be traceable to their original manufacturer.",
+    "exampleVi": "Tất cả các bộ phận dùng trong dây chuyền lắp ráp phải có thể truy xuất được nguồn gốc từ nhà sản xuất ban đầu.",
+    "collocations": [
+      "fully traceable",
+      "traceable source",
+      "traceable record"
+    ],
+    "synonyms": [
+      "trackable",
+      "identifiable"
+    ],
+    "wordFamily": [
+      "trace",
+      "traceability",
+      "tracker"
+    ],
+    "day": 102
+  },
+  {
+    "id": "validate-verb",
+    "word": "validate",
+    "baseWord": "valid",
+    "type": "verb",
+    "meaning": "xác nhận hiệu lực, xác thực",
+    "pronunciation": "/ˈvælɪdeɪt/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Our products are made from durable, high-quality materials.",
-    "exampleVi": "Sản phẩm của chúng tôi được làm từ vật liệu bền, chất lượng cao.",
-    "collocations": ["durable goods", "durable materials", "highly durable"],
-    "synonyms": ["long-lasting", "sturdy", "resilient"],
-    "wordFamily": ["durability", "durably"],
-    "day": 103
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The lab must validate the test results before publishing them.",
+    "exampleVi": "Phòng thí nghiệm phải xác thực kết quả kiểm tra trước khi công bố.",
+    "collocations": [
+      "validate results",
+      "validate data",
+      "validate a claim"
+    ],
+    "synonyms": [
+      "verify",
+      "confirm",
+      "substantiate"
+    ],
+    "wordFamily": [
+      "validation",
+      "valid",
+      "validated",
+      "invalid"
+    ],
+    "day": 102
   },
   {
-    "id": "warranty-noun",
-    "word": "warranty",
-    "baseWord": "warrant",
+    "id": "validation-noun",
+    "word": "validation",
+    "baseWord": "validate",
     "type": "noun",
-    "meaning": "bảo hành",
-    "pronunciation": "/ˈwɔːrənti/",
+    "meaning": "sự phê chuẩn, sự thẩm định, sự xác nhận",
+    "pronunciation": "/ˌvælɪˈdeɪʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new testing procedure requires validation from an external laboratory.",
+    "exampleVi": "Quy trình thử nghiệm mới yêu cầu sự thẩm định từ một phòng thí nghiệm bên ngoài.",
+    "collocations": [
+      "method validation",
+      "seek validation",
+      "data validation"
+    ],
+    "synonyms": [
+      "verification",
+      "confirmation"
+    ],
+    "wordFamily": [
+      "validate",
+      "validated",
+      "validity"
+    ],
+    "day": 102
+  },
+  {
+    "id": "agenda-form-phrase",
+    "word": "agenda form",
+    "baseWord": "form",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda form",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The laptop comes with a two-year warranty.",
-    "exampleVi": "Máy tính xách tay đi kèm bảo hành hai năm.",
-    "collocations": ["warranty period", "extended warranty", "under warranty"],
-    "synonyms": ["guarantee", "assurance"],
-    "wordFamily": ["warrant", "warranted"],
-    "day": 103
-  },
-  {
-    "id": "malfunction-noun",
-    "word": "malfunction",
-    "baseWord": "malfunction",
-    "type": "noun",
-    "meaning": "sự trục trặc, sự hỏng hóc",
-    "pronunciation": "/mælˈfʌŋkʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "A malfunction in the system caused a two-hour delay.",
-    "exampleVi": "Một sự trục trặc trong hệ thống đã gây ra sự chậm trễ hai giờ.",
-    "collocations": ["equipment malfunction", "system malfunction", "report a malfunction"],
-    "synonyms": ["breakdown", "failure", "fault"],
-    "wordFamily": ["malfunction", "malfunctioning"],
-    "day": 103
-  },
-  {
-    "id": "safeguard-noun",
-    "word": "safeguard",
-    "baseWord": "safeguard",
-    "type": "noun",
-    "meaning": "biện pháp bảo vệ",
-    "pronunciation": "/ˈseɪfɡɑːrd/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "New safeguards have been put in place to prevent data breaches.",
-    "exampleVi": "Các biện pháp bảo vệ mới đã được triển khai để ngăn chặn rò rỉ dữ liệu.",
-    "collocations": ["put safeguards in place", "environmental safeguards", "safety safeguards"],
-    "synonyms": ["protection", "precaution", "defense"],
-    "wordFamily": ["safeguard", "safeguarded", "safeguarding"],
-    "day": 103
-  },
-  {
-    "id": "precaution-noun",
-    "word": "precaution",
-    "baseWord": "precaution",
-    "type": "noun",
-    "meaning": "biện pháp phòng ngừa",
-    "pronunciation": "/prɪˈkɔːʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Workers should take every precaution when handling chemicals.",
-    "exampleVi": "Công nhân nên thực hiện mọi biện pháp phòng ngừa khi xử lý hóa chất.",
-    "collocations": ["take precautions", "safety precaution", "as a precaution"],
-    "synonyms": ["preventive measure", "safeguard", "care"],
-    "wordFamily": ["precautionary"],
-    "day": 103
-  },
-  {
-    "id": "precautionary-adjective",
-    "word": "precautionary",
-    "baseWord": "precaution",
-    "type": "adjective",
-    "meaning": "mang tính phòng ngừa",
-    "pronunciation": "/prɪˈkɔːʃəneri/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The recall was issued as a precautionary measure.",
-    "exampleVi": "Lệnh thu hồi được ban hành như một biện pháp phòng ngừa.",
-    "collocations": ["precautionary measure", "precautionary step", "precautionary action"],
-    "synonyms": ["preventive", "protective", "preemptive"],
-    "wordFamily": ["precaution"],
-    "day": 103
-  },
-  {
-    "id": "uphold-verb",
-    "word": "uphold",
-    "baseWord": "uphold",
-    "type": "verb",
-    "meaning": "duy trì, giữ vững",
-    "pronunciation": "/ʌpˈhoʊld/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company strives to uphold the highest quality standards.",
-    "exampleVi": "Công ty nỗ lực duy trì các tiêu chuẩn chất lượng cao nhất.",
-    "collocations": ["uphold standards", "uphold a commitment", "uphold values"],
-    "synonyms": ["maintain", "sustain", "preserve"],
-    "wordFamily": ["upheld", "upholding"],
-    "day": 103
-  },
-  {
-    "id": "substandard-adjective",
-    "word": "substandard",
-    "baseWord": "standard",
-    "type": "adjective",
-    "meaning": "dưới tiêu chuẩn",
-    "pronunciation": "/ˌsʌbˈstændərd/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Substandard materials were identified during the inspection.",
-    "exampleVi": "Các vật liệu dưới tiêu chuẩn đã được phát hiện trong quá trình kiểm tra.",
-    "collocations": ["substandard quality", "substandard products", "substandard work"],
-    "synonyms": ["inferior", "below standard", "poor-quality"],
-    "wordFamily": ["standard", "standardize"],
-    "day": 103
-  },
-  {
-    "id": "comply-verb",
-    "word": "comply",
-    "baseWord": "comply",
-    "type": "verb",
-    "meaning": "tuân thủ",
-    "pronunciation": "/kəmˈplaɪ/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "All vendors must comply with the new packaging regulations.",
-    "exampleVi": "Tất cả nhà cung cấp phải tuân thủ các quy định đóng gói mới.",
-    "collocations": ["comply with regulations", "comply with the law", "fail to comply"],
-    "synonyms": ["adhere", "conform", "obey"],
-    "wordFamily": ["compliance", "compliant", "noncompliant"],
-    "day": 103
-  },
-  {
-    "id": "compliant-adjective",
-    "word": "compliant",
-    "baseWord": "comply",
-    "type": "adjective",
-    "meaning": "tuân thủ, phù hợp",
-    "pronunciation": "/kəmˈplaɪənt/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The facility is now fully compliant with environmental standards.",
-    "exampleVi": "Cơ sở hiện đã tuân thủ đầy đủ các tiêu chuẩn môi trường.",
-    "collocations": ["fully compliant", "compliant with regulations", "code-compliant"],
-    "synonyms": ["conforming", "obedient", "adherent"],
-    "wordFamily": ["comply", "compliance", "noncompliant"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the agenda form before the next business day.",
+    "exampleVi": "Vui long xem lai agenda form truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda form",
+      "agenda form process",
+      "agenda form deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "form"
+    ],
     "day": 103
   },
   {
@@ -909,30 +1331,450 @@
     "topic": "Quality & Standards",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "Regular calibration of testing equipment is mandatory.",
     "exampleVi": "Việc hiệu chuẩn định kỳ thiết bị kiểm tra là bắt buộc.",
-    "collocations": ["calibration certificate", "calibration process", "annual calibration"],
-    "synonyms": ["adjustment", "fine-tuning"],
-    "wordFamily": ["calibrate", "calibrated"],
+    "collocations": [
+      "calibration certificate",
+      "calibration process",
+      "annual calibration"
+    ],
+    "synonyms": [
+      "adjustment",
+      "fine-tuning"
+    ],
+    "wordFamily": [
+      "calibrate",
+      "calibrated"
+    ],
     "day": 103
   },
   {
-    "id": "uniformity-noun",
-    "word": "uniformity",
-    "baseWord": "uniform",
+    "id": "compliant-adjective",
+    "word": "compliant",
+    "baseWord": "comply",
+    "type": "adjective",
+    "meaning": "tuân thủ, phù hợp",
+    "pronunciation": "/kəmˈplaɪənt/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The facility is now fully compliant with environmental standards.",
+    "exampleVi": "Cơ sở hiện đã tuân thủ đầy đủ các tiêu chuẩn môi trường.",
+    "collocations": [
+      "fully compliant",
+      "compliant with regulations",
+      "code-compliant"
+    ],
+    "synonyms": [
+      "conforming",
+      "obedient",
+      "adherent"
+    ],
+    "wordFamily": [
+      "comply",
+      "compliance",
+      "noncompliant"
+    ],
+    "day": 103
+  },
+  {
+    "id": "consistency-noun",
+    "word": "consistency",
+    "baseWord": "consistent",
     "type": "noun",
-    "meaning": "sự đồng nhất, tính nhất quán",
-    "pronunciation": "/ˌjuːnɪˈfɔːrməti/",
+    "meaning": "sự nhất quán, tính nhất quán",
+    "pronunciation": "/kənˈsɪstənsi/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Consistency in flavor is what makes our coffee shop popular.",
+    "exampleVi": "Sự nhất quán về hương vị là điều làm cho quán cà phê của chúng tôi được ưa chuộng.",
+    "collocations": [
+      "achieve consistency",
+      "product consistency",
+      "consistency of quality"
+    ],
+    "synonyms": [
+      "regularity",
+      "stability",
+      "uniformity"
+    ],
+    "wordFamily": [
+      "consistent",
+      "consistently",
+      "consist"
+    ],
+    "day": 103
+  },
+  {
+    "id": "consistent-adjective",
+    "word": "consistent",
+    "baseWord": "consistent",
+    "type": "adjective",
+    "meaning": "nhất quán, kiên định",
+    "pronunciation": "/kənˈsɪstənt/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need a consistent approach to customer service across all branches.",
+    "exampleVi": "Chúng ta cần một cách tiếp cận nhất quán đối với dịch vụ khách hàng ở tất cả các chi nhánh.",
+    "collocations": [
+      "consistent quality",
+      "consistent performance",
+      "consistent message"
+    ],
+    "synonyms": [
+      "constant",
+      "uniform",
+      "steady"
+    ],
+    "wordFamily": [
+      "consistency",
+      "consistently",
+      "consist"
+    ],
+    "day": 103
+  },
+  {
+    "id": "error-free-phrase",
+    "word": "error-free",
+    "baseWord": "error",
+    "type": "phrase",
+    "meaning": "không có lỗi, hoàn toàn chính xác",
+    "pronunciation": "/ˈerər friː/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees are expected to produce error-free data entry work.",
+    "exampleVi": "Nhân viên được kỳ vọng sẽ thực hiện công việc nhập dữ liệu không có lỗi.",
+    "collocations": [
+      "error-free data",
+      "error-free software",
+      "virtually error-free"
+    ],
+    "synonyms": [
+      "accurate",
+      "flawless",
+      "perfect"
+    ],
+    "wordFamily": [
+      "error",
+      "errors",
+      "erroneous"
+    ],
+    "day": 103
+  },
+  {
+    "id": "imperfect-adjective",
+    "word": "imperfect",
+    "baseWord": "imperfect",
+    "type": "adjective",
+    "meaning": "khiếm khuyết, không hoàn hảo",
+    "pronunciation": "/ɪmˈpɜːrfɪkt/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We cannot sell imperfect goods to the public at full price.",
+    "exampleVi": "Chúng tôi không thể bán hàng hóa khiếm khuyết cho công chúng với giá đầy đủ.",
+    "collocations": [
+      "imperfect product",
+      "imperfect market",
+      "imperfect understanding"
+    ],
+    "synonyms": [
+      "flawed",
+      "faulty",
+      "defective"
+    ],
+    "wordFamily": [
+      "imperfection",
+      "imperfectly",
+      "perfect"
+    ],
+    "day": 103
+  },
+  {
+    "id": "imperfection-noun",
+    "word": "imperfection",
+    "baseWord": "imperfect",
+    "type": "noun",
+    "meaning": "khuyết tật, khiếm khuyết, điểm chưa hoàn hảo",
+    "pronunciation": "/ˌɪmpərˈfekʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The quality controller checked the fabric for any minor imperfections.",
+    "exampleVi": "Nhân viên kiểm soát chất lượng đã kiểm tra tấm vải để tìm bất kỳ khiếm khuyết nhỏ nào.",
+    "collocations": [
+      "minor imperfection",
+      "surface imperfection",
+      "eliminate imperfections"
+    ],
+    "synonyms": [
+      "flaw",
+      "defect",
+      "blemish"
+    ],
+    "wordFamily": [
+      "imperfect",
+      "imperfectly",
+      "perfection"
+    ],
+    "day": 103
+  },
+  {
+    "id": "non-compliance-noun",
+    "word": "non-compliance",
+    "baseWord": "comply",
+    "type": "noun",
+    "meaning": "sự không tuân thủ",
+    "pronunciation": "/ˌnɑːnkəmˈplaɪəns/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Non-compliance with safety regulations can lead to heavy fines.",
+    "exampleVi": "Không tuân thủ các quy định an toàn có thể dẫn đến các khoản tiền phạt nặng.",
+    "collocations": [
+      "non-compliance penalty",
+      "risk of non-compliance",
+      "report non-compliance"
+    ],
+    "synonyms": [
+      "disobedience",
+      "violation"
+    ],
+    "wordFamily": [
+      "comply",
+      "compliance",
+      "compliant"
+    ],
+    "day": 103
+  },
+  {
+    "id": "non-compliant-adjective",
+    "word": "non-compliant",
+    "baseWord": "comply",
+    "type": "adjective",
+    "meaning": "không tuân thủ, không đúng tiêu chuẩn",
+    "pronunciation": "/ˌnAGnkəmˈplaɪənt/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Any non-compliant items will be removed from the store shelves immediately.",
+    "exampleVi": "Bất kỳ mặt hàng không tuân thủ tiêu chuẩn nào sẽ bị gỡ khỏi kệ cửa hàng ngay lập tức.",
+    "collocations": [
+      "non-compliant product",
+      "non-compliant behavior",
+      "found non-compliant"
+    ],
+    "synonyms": [
+      "deviant",
+      "uncooperative"
+    ],
+    "wordFamily": [
+      "comply",
+      "compliance",
+      "compliant"
+    ],
+    "day": 103
+  },
+  {
+    "id": "outlier-noun",
+    "word": "outlier",
+    "baseWord": "outlier",
+    "type": "noun",
+    "meaning": "giá trị ngoại lai, trường hợp cá biệt",
+    "pronunciation": "/ˈaʊtlaɪər/",
+    "topic": "Quality & Standards",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The system flagged this data point as an outlier during quality screening.",
+    "exampleVi": "Hệ thống đã gắn cờ điểm dữ liệu này là một trường hợp ngoại lai trong quá trình sàng lọc chất lượng.",
+    "collocations": [
+      "statistical outlier",
+      "data outlier",
+      "identify outliers"
+    ],
+    "synonyms": [
+      "anomaly",
+      "exception"
+    ],
+    "wordFamily": [
+      "outliers",
+      "lay",
+      "lying"
+    ],
+    "day": 103
+  },
+  {
+    "id": "precaution-noun",
+    "word": "precaution",
+    "baseWord": "precaution",
+    "type": "noun",
+    "meaning": "biện pháp phòng ngừa",
+    "pronunciation": "/prɪˈkɔːʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Workers should take every precaution when handling chemicals.",
+    "exampleVi": "Công nhân nên thực hiện mọi biện pháp phòng ngừa khi xử lý hóa chất.",
+    "collocations": [
+      "take precautions",
+      "safety precaution",
+      "as a precaution"
+    ],
+    "synonyms": [
+      "preventive measure",
+      "safeguard",
+      "care"
+    ],
+    "wordFamily": [
+      "precaution",
+      "precautions",
+      "precautionary"
+    ],
+    "day": 103
+  },
+  {
+    "id": "precautionary-adjective",
+    "word": "precautionary",
+    "baseWord": "precaution",
+    "type": "adjective",
+    "meaning": "mang tính phòng ngừa",
+    "pronunciation": "/prɪˈkɔːʃəneri/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Quality checks ensure uniformity across all product batches.",
-    "exampleVi": "Kiểm tra chất lượng đảm bảo sự đồng nhất trên tất cả lô sản phẩm.",
-    "collocations": ["ensure uniformity", "product uniformity", "uniformity of standards"],
-    "synonyms": ["consistency", "homogeneity", "regularity"],
-    "wordFamily": ["uniform", "uniformly"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The recall was issued as a precautionary measure.",
+    "exampleVi": "Lệnh thu hồi được ban hành như một biện pháp phòng ngừa.",
+    "collocations": [
+      "precautionary measure",
+      "precautionary step",
+      "precautionary action"
+    ],
+    "synonyms": [
+      "preventive",
+      "protective",
+      "preemptive"
+    ],
+    "wordFamily": [
+      "precaution",
+      "precautions",
+      "precautionary"
+    ],
+    "day": 103
+  },
+  {
+    "id": "safeguard-noun",
+    "word": "safeguard",
+    "baseWord": "safeguard",
+    "type": "noun",
+    "meaning": "biện pháp bảo vệ",
+    "pronunciation": "/ˈseɪfɡɑːrd/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "New safeguards have been put in place to prevent data breaches.",
+    "exampleVi": "Các biện pháp bảo vệ mới đã được triển khai để ngăn chặn rò rỉ dữ liệu.",
+    "collocations": [
+      "put safeguards in place",
+      "environmental safeguards",
+      "safety safeguards"
+    ],
+    "synonyms": [
+      "protection",
+      "precaution",
+      "defense"
+    ],
+    "wordFamily": [
+      "safeguard",
+      "safeguarded",
+      "safeguarding"
+    ],
+    "day": 103
+  },
+  {
+    "id": "sampling-noun",
+    "word": "sampling",
+    "baseWord": "sample",
+    "type": "noun",
+    "meaning": "sự lấy mẫu",
+    "pronunciation": "/ˈsæmplɪŋ/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Random sampling is used to check the quality of each batch.",
+    "exampleVi": "Lấy mẫu ngẫu nhiên được sử dụng để kiểm tra chất lượng từng lô hàng.",
+    "collocations": [
+      "random sampling",
+      "sampling method",
+      "sampling procedure"
+    ],
+    "synonyms": [
+      "testing",
+      "surveying"
+    ],
+    "wordFamily": [
+      "sample",
+      "sampled",
+      "sampler"
+    ],
     "day": 103
   },
   {
@@ -945,66 +1787,432 @@
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
     "example": "All applicants must undergo a background screening.",
     "exampleVi": "Tất cả ứng viên phải trải qua quy trình sàng lọc lý lịch.",
-    "collocations": ["background screening", "screening process", "security screening"],
-    "synonyms": ["vetting", "checking", "filtering"],
-    "wordFamily": ["screen", "screened"],
+    "collocations": [
+      "background screening",
+      "screening process",
+      "security screening"
+    ],
+    "synonyms": [
+      "vetting",
+      "checking",
+      "filtering"
+    ],
+    "wordFamily": [
+      "screen",
+      "screened"
+    ],
     "day": 103
   },
   {
-    "id": "up-to-standard-phrase",
-    "word": "up to standard",
-    "baseWord": "standard",
-    "type": "phrase",
-    "meaning": "đạt tiêu chuẩn",
-    "pronunciation": "/ʌp tuː ˈstændərd/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The shipment was not up to standard and was returned.",
-    "exampleVi": "Lô hàng không đạt tiêu chuẩn và đã bị trả lại.",
-    "collocations": ["not up to standard", "bring up to standard", "up to industry standard"],
-    "synonyms": ["meeting requirements", "satisfactory"],
-    "wordFamily": ["standard", "standardize"],
-    "day": 103
-  },
-  {
-    "id": "contamination-noun",
-    "word": "contamination",
-    "baseWord": "contaminate",
+    "id": "specimen-noun",
+    "word": "specimen",
+    "baseWord": "specimen",
     "type": "noun",
-    "meaning": "sự nhiễm bẩn, ô nhiễm",
-    "pronunciation": "/kənˌtæmɪˈneɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The factory was shut down due to contamination concerns.",
-    "exampleVi": "Nhà máy đã bị đóng cửa do lo ngại về ô nhiễm.",
-    "collocations": ["prevent contamination", "cross-contamination", "contamination risk"],
-    "synonyms": ["pollution", "impurity", "corruption"],
-    "wordFamily": ["contaminate", "contaminated", "contaminant"],
-    "day": 104
-  },
-  {
-    "id": "contaminate-verb",
-    "word": "contaminate",
-    "baseWord": "contaminate",
-    "type": "verb",
-    "meaning": "làm nhiễm bẩn, gây ô nhiễm",
-    "pronunciation": "/kənˈtæmɪneɪt/",
+    "meaning": "mẫu vật, mẫu thử",
+    "pronunciation": "/ˈspesɪmən/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Improper storage can contaminate food products.",
-    "exampleVi": "Bảo quản không đúng cách có thể làm nhiễm bẩn thực phẩm.",
-    "collocations": ["contaminate the water supply", "contaminate food", "contaminate the environment"],
-    "synonyms": ["pollute", "taint", "corrupt"],
-    "wordFamily": ["contamination", "contaminated", "contaminant"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The lab requires a specimen for the quality test.",
+    "exampleVi": "Phòng thí nghiệm cần một mẫu vật để kiểm tra chất lượng.",
+    "collocations": [
+      "test specimen",
+      "collect a specimen",
+      "specimen analysis"
+    ],
+    "synonyms": [
+      "sample",
+      "example",
+      "model"
+    ],
+    "wordFamily": [
+      "specimen",
+      "specimens",
+      "specimen-like"
+    ],
+    "day": 103
+  },
+  {
+    "id": "substandard-adjective",
+    "word": "substandard",
+    "baseWord": "standard",
+    "type": "adjective",
+    "meaning": "dưới tiêu chuẩn",
+    "pronunciation": "/ˌsʌbˈstændərd/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Substandard materials were identified during the inspection.",
+    "exampleVi": "Các vật liệu dưới tiêu chuẩn đã được phát hiện trong quá trình kiểm tra.",
+    "collocations": [
+      "substandard quality",
+      "substandard products",
+      "substandard work"
+    ],
+    "synonyms": [
+      "inferior",
+      "below standard",
+      "poor-quality"
+    ],
+    "wordFamily": [
+      "standard",
+      "standardize"
+    ],
+    "day": 103
+  },
+  {
+    "id": "uniformity-noun",
+    "word": "uniformity",
+    "baseWord": "uniform",
+    "type": "noun",
+    "meaning": "sự đồng nhất, tính nhất quán",
+    "pronunciation": "/ˌjuːnɪˈfɔːrməti/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Quality checks ensure uniformity across all product batches.",
+    "exampleVi": "Kiểm tra chất lượng đảm bảo sự đồng nhất trên tất cả lô sản phẩm.",
+    "collocations": [
+      "ensure uniformity",
+      "product uniformity",
+      "uniformity of standards"
+    ],
+    "synonyms": [
+      "consistency",
+      "homogeneity",
+      "regularity"
+    ],
+    "wordFamily": [
+      "uniform",
+      "uniformly"
+    ],
+    "day": 103
+  },
+  {
+    "id": "zero defects-phrase",
+    "word": "zero defects",
+    "baseWord": "defect",
+    "type": "phrase",
+    "meaning": "không lỗi, lỗi bằng không",
+    "pronunciation": "/ˈzɪroʊ dɪˈfekts/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The plant adopted a zero defects policy to satisfy customers.",
+    "exampleVi": "Nhà máy đã áp dụng chính sách không lỗi để làm hài lòng khách hàng.",
+    "collocations": [
+      "zero defects policy",
+      "zero defects program",
+      "achieve zero defects"
+    ],
+    "synonyms": [
+      "perfection",
+      "flawlessness"
+    ],
+    "wordFamily": [
+      "defect",
+      "defective",
+      "defects"
+    ],
+    "day": 103
+  },
+  {
+    "id": "agenda-arrangement-phrase",
+    "word": "agenda arrangement",
+    "baseWord": "arrangement",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda arrangement",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda arrangement before the next business day.",
+    "exampleVi": "Vui long xem lai agenda arrangement truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda arrangement",
+      "agenda arrangement process",
+      "agenda arrangement deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "arrangement"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-confirmation-phrase",
+    "word": "agenda confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda confirmation",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the agenda confirmation before the next business day.",
+    "exampleVi": "Vui long xem lai agenda confirmation truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda confirmation",
+      "agenda confirmation process",
+      "agenda confirmation deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "confirmation"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-deadline-phrase",
+    "word": "agenda deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda deadline",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the agenda deadline before the next business day.",
+    "exampleVi": "Vui long xem lai agenda deadline truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda deadline",
+      "agenda deadline process",
+      "agenda deadline deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "deadline"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-estimate-phrase",
+    "word": "agenda estimate",
+    "baseWord": "estimate",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda estimate",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the agenda estimate before the next business day.",
+    "exampleVi": "Vui long xem lai agenda estimate truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda estimate",
+      "agenda estimate process",
+      "agenda estimate deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "estimate"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-policy-phrase",
+    "word": "agenda policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda policy",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the agenda policy before the next business day.",
+    "exampleVi": "Vui long xem lai agenda policy truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda policy",
+      "agenda policy process",
+      "agenda policy deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-procedure-phrase",
+    "word": "agenda procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda procedure",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the agenda procedure before the next business day.",
+    "exampleVi": "Vui long xem lai agenda procedure truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda procedure",
+      "agenda procedure process",
+      "agenda procedure deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "procedure"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-process-phrase",
+    "word": "agenda process",
+    "baseWord": "process",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda process",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda process before the next business day.",
+    "exampleVi": "Vui long xem lai agenda process truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda process",
+      "agenda process process",
+      "agenda process deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "process"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-record-phrase",
+    "word": "agenda record",
+    "baseWord": "record",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda record",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the agenda record before the next business day.",
+    "exampleVi": "Vui long xem lai agenda record truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda record",
+      "agenda record process",
+      "agenda record deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "record"
+    ],
+    "day": 104
+  },
+  {
+    "id": "agenda-requirement-phrase",
+    "word": "agenda requirement",
+    "baseWord": "requirement",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda requirement",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the agenda requirement before the next business day.",
+    "exampleVi": "Vui long xem lai agenda requirement truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda requirement",
+      "agenda requirement process",
+      "agenda requirement deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "requirement"
+    ],
     "day": 104
   },
   {
@@ -1017,228 +2225,125 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "Customers can authenticate the product using the QR code on the label.",
     "exampleVi": "Khách hàng có thể xác thực sản phẩm bằng mã QR trên nhãn.",
-    "collocations": ["authenticate a document", "authenticate identity", "authenticate a product"],
-    "synonyms": ["verify", "validate", "certify"],
-    "wordFamily": ["authentication", "authentic", "authenticity"],
+    "collocations": [
+      "authenticate a document",
+      "authenticate identity",
+      "authenticate a product"
+    ],
+    "synonyms": [
+      "verify",
+      "validate",
+      "certify"
+    ],
+    "wordFamily": [
+      "authentication",
+      "authentic",
+      "authenticity"
+    ],
     "day": 104
   },
   {
-    "id": "exempt-adjective",
-    "word": "exempt",
-    "baseWord": "exempt",
-    "type": "adjective",
-    "meaning": "được miễn, không bị bắt buộc",
-    "pronunciation": "/ɪɡˈzempt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Small businesses may be exempt from certain reporting requirements.",
-    "exampleVi": "Doanh nghiệp nhỏ có thể được miễn một số yêu cầu báo cáo.",
-    "collocations": ["exempt from taxes", "exempt from regulations", "tax-exempt"],
-    "synonyms": ["excused", "excluded", "free from"],
-    "wordFamily": ["exemption", "exempted"],
-    "day": 104
-  },
-  {
-    "id": "exemption-noun",
-    "word": "exemption",
-    "baseWord": "exempt",
+    "id": "authenticity-noun",
+    "word": "authenticity",
+    "baseWord": "authentic",
     "type": "noun",
-    "meaning": "sự miễn trừ",
-    "pronunciation": "/ɪɡˈzempʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company applied for an exemption from the new regulation.",
-    "exampleVi": "Công ty đã nộp đơn xin miễn trừ quy định mới.",
-    "collocations": ["tax exemption", "apply for an exemption", "grant an exemption"],
-    "synonyms": ["immunity", "waiver", "exception"],
-    "wordFamily": ["exempt", "exempted"],
-    "day": 104
-  },
-  {
-    "id": "discrepancy-noun",
-    "word": "discrepancy",
-    "baseWord": "discrepancy",
-    "type": "noun",
-    "meaning": "sự khác biệt, sự không nhất quán",
-    "pronunciation": "/dɪˈskrepənsi/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The auditor found a discrepancy between the report and the receipts.",
-    "exampleVi": "Kiểm toán viên phát hiện sự khác biệt giữa báo cáo và biên lai.",
-    "collocations": ["find a discrepancy", "resolve a discrepancy", "discrepancy in records"],
-    "synonyms": ["inconsistency", "difference", "variance"],
-    "wordFamily": ["discrepant"],
-    "day": 104
-  },
-  {
-    "id": "remedial-adjective",
-    "word": "remedial",
-    "baseWord": "remedy",
-    "type": "adjective",
-    "meaning": "mang tính khắc phục, sửa chữa",
-    "pronunciation": "/rɪˈmiːdiəl/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Remedial action must be taken within 30 days of the inspection.",
-    "exampleVi": "Hành động khắc phục phải được thực hiện trong vòng 30 ngày kể từ khi kiểm tra.",
-    "collocations": ["remedial action", "remedial measures", "remedial steps"],
-    "synonyms": ["corrective", "curative", "restorative"],
-    "wordFamily": ["remedy", "remedied"],
-    "day": 104
-  },
-  {
-    "id": "remedy-noun",
-    "word": "remedy",
-    "baseWord": "remedy",
-    "type": "noun",
-    "meaning": "biện pháp khắc phục, giải pháp",
-    "pronunciation": "/ˈremədi/",
+    "meaning": "tính xác thực, tính chân thật",
+    "pronunciation": "/ˌɔːθenˈtɪsəti/",
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The manager proposed a remedy for the recurring quality issues.",
-    "exampleVi": "Quản lý đã đề xuất giải pháp cho các vấn đề chất lượng tái diễn.",
-    "collocations": ["propose a remedy", "effective remedy", "legal remedy"],
-    "synonyms": ["solution", "cure", "fix"],
-    "wordFamily": ["remedial", "remedied", "remedying"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "An independent expert was called to verify the authenticity of the painting.",
+    "exampleVi": "Một chuyên gia độc lập đã được mời để xác minh tính xác thực của bức tranh.",
+    "collocations": [
+      "verify authenticity",
+      "authenticity guarantee",
+      "certificate of authenticity"
+    ],
+    "synonyms": [
+      "genuineness",
+      "validity"
+    ],
+    "wordFamily": [
+      "authentic",
+      "authenticate",
+      "authentically"
+    ],
     "day": 104
   },
   {
-    "id": "negligence-noun",
-    "word": "negligence",
-    "baseWord": "negligent",
+    "id": "authorization-noun",
+    "word": "authorization",
+    "baseWord": "authorize",
     "type": "noun",
-    "meaning": "sự cẩu thả, sự sơ suất",
-    "pronunciation": "/ˈneɡlɪdʒəns/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The accident was caused by negligence in following safety procedures.",
-    "exampleVi": "Tai nạn xảy ra do sự cẩu thả trong việc tuân theo quy trình an toàn.",
-    "collocations": ["due to negligence", "gross negligence", "professional negligence"],
-    "synonyms": ["carelessness", "recklessness", "inattention"],
-    "wordFamily": ["negligent", "negligently", "neglect"],
-    "day": 104
-  },
-  {
-    "id": "negligent-adjective",
-    "word": "negligent",
-    "baseWord": "negligent",
-    "type": "adjective",
-    "meaning": "cẩu thả, thiếu cẩn thận",
-    "pronunciation": "/ˈneɡlɪdʒənt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company was found negligent in maintaining its equipment.",
-    "exampleVi": "Công ty bị phát hiện cẩu thả trong việc bảo trì thiết bị.",
-    "collocations": ["negligent behavior", "found negligent", "negligent in duties"],
-    "synonyms": ["careless", "irresponsible", "inattentive"],
-    "wordFamily": ["negligence", "negligently", "neglect"],
-    "day": 104
-  },
-  {
-    "id": "endorse-verb",
-    "word": "endorse",
-    "baseWord": "endorse",
-    "type": "verb",
-    "meaning": "chứng thực, ủng hộ",
-    "pronunciation": "/ɪnˈdɔːrs/",
+    "meaning": "sự cấp phép, sự cho phép, sự ủy quyền",
+    "pronunciation": "/ˌɔːθərəˈzeɪʃən/",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board voted to endorse the new quality management system.",
-    "exampleVi": "Hội đồng đã bỏ phiếu chứng thực hệ thống quản lý chất lượng mới.",
-    "collocations": ["endorse a product", "publicly endorse", "endorse a proposal"],
-    "synonyms": ["approve", "support", "back"],
-    "wordFamily": ["endorsement", "endorsed"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You must obtain written authorization from the manager before purchasing supplies.",
+    "exampleVi": "Bạn phải có sự cho phép bằng văn bản từ người quản lý trước khi mua vật tư.",
+    "collocations": [
+      "written authorization",
+      "prior authorization",
+      "obtain authorization"
+    ],
+    "synonyms": [
+      "approval",
+      "permission",
+      "consent"
+    ],
+    "wordFamily": [
+      "authorize",
+      "authorized",
+      "author"
+    ],
     "day": 104
   },
   {
-    "id": "endorsement-noun",
-    "word": "endorsement",
-    "baseWord": "endorse",
-    "type": "noun",
-    "meaning": "sự chứng thực, sự ủng hộ",
-    "pronunciation": "/ɪnˈdɔːrsmənt/",
+    "id": "authorized-adjective",
+    "word": "authorized",
+    "baseWord": "authorize",
+    "type": "adjective",
+    "meaning": "được ủy quyền, được cấp phép",
+    "pronunciation": "/ˈɔːθəraɪzd/",
     "topic": "Quality & Standards",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The product received endorsement from several industry experts.",
-    "exampleVi": "Sản phẩm nhận được sự chứng thực từ nhiều chuyên gia trong ngành.",
-    "collocations": ["product endorsement", "celebrity endorsement", "official endorsement"],
-    "synonyms": ["approval", "support", "backing"],
-    "wordFamily": ["endorse", "endorsed"],
-    "day": 104
-  },
-  {
-    "id": "surveillance-noun",
-    "word": "surveillance",
-    "baseWord": "surveillance",
-    "type": "noun",
-    "meaning": "sự giám sát",
-    "pronunciation": "/sərˈveɪləns/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Surveillance cameras are installed throughout the production area.",
-    "exampleVi": "Camera giám sát được lắp đặt khắp khu vực sản xuất.",
-    "collocations": ["surveillance system", "under surveillance", "surveillance cameras"],
-    "synonyms": ["monitoring", "observation", "watch"],
-    "wordFamily": ["survey", "surveyor"],
-    "day": 104
-  },
-  {
-    "id": "diagnostic-adjective",
-    "word": "diagnostic",
-    "baseWord": "diagnose",
-    "type": "adjective",
-    "meaning": "thuộc về chẩn đoán",
-    "pronunciation": "/ˌdaɪəɡˈnɑːstɪk/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The technician ran a diagnostic test on the server.",
-    "exampleVi": "Kỹ thuật viên đã chạy bài kiểm tra chẩn đoán trên máy chủ.",
-    "collocations": ["diagnostic test", "diagnostic tool", "diagnostic report"],
-    "synonyms": ["analytical", "investigative", "evaluative"],
-    "wordFamily": ["diagnose", "diagnosis", "diagnostics"],
-    "day": 104
-  },
-  {
-    "id": "mitigate-verb",
-    "word": "mitigate",
-    "baseWord": "mitigate",
-    "type": "verb",
-    "meaning": "giảm thiểu, giảm nhẹ",
-    "pronunciation": "/ˈmɪtɪɡeɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company implemented new measures to mitigate production risks.",
-    "exampleVi": "Công ty đã triển khai các biện pháp mới để giảm thiểu rủi ro sản xuất.",
-    "collocations": ["mitigate risks", "mitigate the impact", "mitigate losses"],
-    "synonyms": ["reduce", "alleviate", "lessen"],
-    "wordFamily": ["mitigation", "mitigated", "mitigating"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please purchase parts only from an authorized dealer.",
+    "exampleVi": "Vui lòng chỉ mua các bộ phận từ đại lý được ủy quyền.",
+    "collocations": [
+      "authorized dealer",
+      "authorized personnel",
+      "authorized representative"
+    ],
+    "synonyms": [
+      "approved",
+      "certified",
+      "permitted"
+    ],
+    "wordFamily": [
+      "authorize",
+      "author",
+      "authorization"
+    ],
     "day": 104
   },
   {
@@ -1251,12 +2356,123 @@
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The team must take corrective action within five business days.",
     "exampleVi": "Nhóm phải thực hiện hành động sửa chữa trong vòng năm ngày làm việc.",
-    "collocations": ["corrective action", "corrective measures", "corrective steps"],
-    "synonyms": ["remedial", "restorative", "rectifying"],
-    "wordFamily": ["correct", "correction", "correctly"],
+    "collocations": [
+      "corrective action",
+      "corrective measures",
+      "corrective steps"
+    ],
+    "synonyms": [
+      "remedial",
+      "restorative",
+      "rectifying"
+    ],
+    "wordFamily": [
+      "correct",
+      "correction",
+      "correctly"
+    ],
+    "day": 104
+  },
+  {
+    "id": "endorsement-noun",
+    "word": "endorsement",
+    "baseWord": "endorse",
+    "type": "noun",
+    "meaning": "sự chứng thực, sự ủng hộ",
+    "pronunciation": "/ɪnˈdɔːrsmənt/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The product received endorsement from several industry experts.",
+    "exampleVi": "Sản phẩm nhận được sự chứng thực từ nhiều chuyên gia trong ngành.",
+    "collocations": [
+      "product endorsement",
+      "celebrity endorsement",
+      "official endorsement"
+    ],
+    "synonyms": [
+      "approval",
+      "support",
+      "backing"
+    ],
+    "wordFamily": [
+      "endorse",
+      "endorsed"
+    ],
+    "day": 104
+  },
+  {
+    "id": "exemption-noun",
+    "word": "exemption",
+    "baseWord": "exempt",
+    "type": "noun",
+    "meaning": "sự miễn trừ",
+    "pronunciation": "/ɪɡˈzempʃən/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The company applied for an exemption from the new regulation.",
+    "exampleVi": "Công ty đã nộp đơn xin miễn trừ quy định mới.",
+    "collocations": [
+      "tax exemption",
+      "apply for an exemption",
+      "grant an exemption"
+    ],
+    "synonyms": [
+      "immunity",
+      "waiver",
+      "exception"
+    ],
+    "wordFamily": [
+      "exempt",
+      "exempted"
+    ],
+    "day": 104
+  },
+  {
+    "id": "negligent-adjective",
+    "word": "negligent",
+    "baseWord": "negligent",
+    "type": "adjective",
+    "meaning": "cẩu thả, thiếu cẩn thận",
+    "pronunciation": "/ˈneɡlɪdʒənt/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company was found negligent in maintaining its equipment.",
+    "exampleVi": "Công ty bị phát hiện cẩu thả trong việc bảo trì thiết bị.",
+    "collocations": [
+      "negligent behavior",
+      "found negligent",
+      "negligent in duties"
+    ],
+    "synonyms": [
+      "careless",
+      "irresponsible",
+      "inattentive"
+    ],
+    "wordFamily": [
+      "negligence",
+      "negligently",
+      "neglect"
+    ],
     "day": 104
   },
   {
@@ -1269,16 +2485,63 @@
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Preventive maintenance can reduce equipment downtime significantly.",
     "exampleVi": "Bảo trì phòng ngừa có thể giảm đáng kể thời gian ngừng hoạt động thiết bị.",
-    "collocations": ["preventive maintenance", "preventive measures", "preventive care"],
-    "synonyms": ["precautionary", "preemptive", "protective"],
-    "wordFamily": ["prevent", "prevention", "preventable"],
+    "collocations": [
+      "preventive maintenance",
+      "preventive measures",
+      "preventive care"
+    ],
+    "synonyms": [
+      "precautionary",
+      "preemptive",
+      "protective"
+    ],
+    "wordFamily": [
+      "prevent",
+      "prevention",
+      "preventable"
+    ],
     "day": 104
   },
   {
-    "id": "up-to-code-phrase",
+    "id": "surveillance-noun",
+    "word": "surveillance",
+    "baseWord": "surveillance",
+    "type": "noun",
+    "meaning": "sự giám sát",
+    "pronunciation": "/sərˈveɪləns/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Surveillance cameras are installed throughout the production area.",
+    "exampleVi": "Camera giám sát được lắp đặt khắp khu vực sản xuất.",
+    "collocations": [
+      "surveillance system",
+      "under surveillance",
+      "surveillance cameras"
+    ],
+    "synonyms": [
+      "monitoring",
+      "observation",
+      "watch"
+    ],
+    "wordFamily": [
+      "survey",
+      "surveyor"
+    ],
+    "day": 104
+  },
+  {
+    "id": "up to code-phrase",
     "word": "up to code",
     "baseWord": "code",
     "type": "phrase",
@@ -1287,66 +2550,181 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
     "example": "The electrical wiring in the building is not up to code.",
     "exampleVi": "Hệ thống dây điện trong tòa nhà không đạt chuẩn quy định.",
-    "collocations": ["bring up to code", "not up to code", "meet code requirements"],
-    "synonyms": ["compliant", "regulation-compliant"],
-    "wordFamily": ["code", "coding"],
+    "collocations": [
+      "bring up to code",
+      "not up to code",
+      "meet code requirements"
+    ],
+    "synonyms": [
+      "compliant",
+      "regulation-compliant"
+    ],
+    "wordFamily": [
+      "code",
+      "coding"
+    ],
     "day": 104
   },
   {
-    "id": "accredit-verb",
-    "word": "accredit",
-    "baseWord": "accredit",
-    "type": "verb",
-    "meaning": "công nhận, cấp chứng nhận",
-    "pronunciation": "/əˈkredɪt/",
+    "id": "adherence-noun",
+    "word": "adherence",
+    "baseWord": "adhere",
+    "type": "noun",
+    "meaning": "sự tuân thủ, sự bám sát",
+    "pronunciation": "/ədˈhɪrəns/",
     "topic": "Quality & Standards",
-    "frequency": "medium",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The organization was accredited by the international standards body.",
-    "exampleVi": "Tổ chức đã được công nhận bởi cơ quan tiêu chuẩn quốc tế.",
-    "collocations": ["accredit a program", "accredit an institution", "officially accredited"],
-    "synonyms": ["certify", "authorize", "recognize"],
-    "wordFamily": ["accreditation", "accredited"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Strict adherence to safety guidelines is expected of all personnel.",
+    "exampleVi": "Sự tuân thủ nghiêm ngặt các hướng dẫn an toàn được yêu cầu với tất cả nhân viên.",
+    "collocations": [
+      "strict adherence",
+      "adherence to policy",
+      "adherence to standards"
+    ],
+    "synonyms": [
+      "compliance",
+      "conformity",
+      "observance"
+    ],
+    "wordFamily": [
+      "adhere",
+      "adherent"
+    ],
     "day": 105
   },
   {
-    "id": "appraisal-noun",
-    "word": "appraisal",
-    "baseWord": "appraise",
-    "type": "noun",
-    "meaning": "sự đánh giá, thẩm định",
-    "pronunciation": "/əˈpreɪzəl/",
+    "id": "agenda-checklist-phrase",
+    "word": "agenda checklist",
+    "baseWord": "checklist",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda checklist",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the agenda checklist before the next business day.",
+    "exampleVi": "Vui long xem lai agenda checklist truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda checklist",
+      "agenda checklist process",
+      "agenda checklist deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "checklist"
+    ],
+    "day": 105
+  },
+  {
+    "id": "agenda-guideline-phrase",
+    "word": "agenda guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda guideline",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the agenda guideline before the next business day.",
+    "exampleVi": "Vui long xem lai agenda guideline truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda guideline",
+      "agenda guideline process",
+      "agenda guideline deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "guideline"
+    ],
+    "day": 105
+  },
+  {
+    "id": "agenda-summary-phrase",
+    "word": "agenda summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: agenda summary",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Employees receive a performance appraisal every six months.",
-    "exampleVi": "Nhân viên nhận được bài đánh giá hiệu suất mỗi sáu tháng.",
-    "collocations": ["performance appraisal", "annual appraisal", "property appraisal"],
-    "synonyms": ["evaluation", "assessment", "review"],
-    "wordFamily": ["appraise", "appraiser", "appraised"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda summary before the next business day.",
+    "exampleVi": "Vui long xem lai agenda summary truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "agenda summary",
+      "agenda summary process",
+      "agenda summary deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "summary"
+    ],
     "day": 105
   },
   {
-    "id": "appraise-verb",
-    "word": "appraise",
-    "baseWord": "appraise",
-    "type": "verb",
-    "meaning": "đánh giá, thẩm định",
-    "pronunciation": "/əˈpreɪz/",
+    "id": "annual-appointment-phrase",
+    "word": "annual appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: annual appointment",
+    "pronunciation": "",
     "topic": "Quality & Standards",
-    "frequency": "medium",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "An expert was hired to appraise the value of the property.",
-    "exampleVi": "Một chuyên gia đã được thuê để thẩm định giá trị tài sản.",
-    "collocations": ["appraise the value", "appraise performance", "appraise a property"],
-    "synonyms": ["evaluate", "assess", "estimate"],
-    "wordFamily": ["appraisal", "appraiser", "appraised"],
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the annual appointment before the next business day.",
+    "exampleVi": "Vui long xem lai annual appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "annual appointment",
+      "annual appointment process",
+      "annual appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 105
   },
   {
@@ -1359,138 +2737,25 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The quality team detected an anomaly in the production data.",
     "exampleVi": "Nhóm chất lượng phát hiện một sự bất thường trong dữ liệu sản xuất.",
-    "collocations": ["detect an anomaly", "data anomaly", "statistical anomaly"],
-    "synonyms": ["irregularity", "abnormality", "deviation"],
-    "wordFamily": ["anomalous", "anomalies"],
-    "day": 105
-  },
-  {
-    "id": "infringe-verb",
-    "word": "infringe",
-    "baseWord": "infringe",
-    "type": "verb",
-    "meaning": "vi phạm, xâm phạm",
-    "pronunciation": "/ɪnˈfrɪndʒ/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The design was found to infringe on an existing patent.",
-    "exampleVi": "Thiết kế bị phát hiện vi phạm một bằng sáng chế hiện có.",
-    "collocations": ["infringe on a patent", "infringe copyright", "infringe on rights"],
-    "synonyms": ["violate", "breach", "transgress"],
-    "wordFamily": ["infringement", "infringed", "infringing"],
-    "day": 105
-  },
-  {
-    "id": "infringement-noun",
-    "word": "infringement",
-    "baseWord": "infringe",
-    "type": "noun",
-    "meaning": "sự vi phạm",
-    "pronunciation": "/ɪnˈfrɪndʒmənt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company faced a lawsuit for patent infringement.",
-    "exampleVi": "Công ty đối mặt với vụ kiện vi phạm bằng sáng chế.",
-    "collocations": ["patent infringement", "copyright infringement", "infringement of rights"],
-    "synonyms": ["violation", "breach", "transgression"],
-    "wordFamily": ["infringe", "infringed"],
-    "day": 105
-  },
-  {
-    "id": "permissible-adjective",
-    "word": "permissible",
-    "baseWord": "permit",
-    "type": "adjective",
-    "meaning": "được phép, cho phép",
-    "pronunciation": "/pərˈmɪsəbl/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The noise level must remain within permissible limits.",
-    "exampleVi": "Mức độ tiếng ồn phải nằm trong giới hạn cho phép.",
-    "collocations": ["permissible limit", "permissible level", "permissible exposure"],
-    "synonyms": ["allowable", "acceptable", "permitted"],
-    "wordFamily": ["permit", "permission", "permissibly"],
-    "day": 105
-  },
-  {
-    "id": "stipulate-verb",
-    "word": "stipulate",
-    "baseWord": "stipulate",
-    "type": "verb",
-    "meaning": "quy định, đặt điều kiện",
-    "pronunciation": "/ˈstɪpjəleɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The contract stipulates that all goods must pass inspection.",
-    "exampleVi": "Hợp đồng quy định rằng tất cả hàng hóa phải vượt qua kiểm tra.",
-    "collocations": ["stipulate conditions", "stipulate requirements", "as stipulated"],
-    "synonyms": ["specify", "require", "mandate"],
-    "wordFamily": ["stipulation", "stipulated"],
-    "day": 105
-  },
-  {
-    "id": "stipulation-noun",
-    "word": "stipulation",
-    "baseWord": "stipulate",
-    "type": "noun",
-    "meaning": "điều kiện quy định",
-    "pronunciation": "/ˌstɪpjəˈleɪʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "There is a stipulation in the agreement regarding return policies.",
-    "exampleVi": "Có một điều khoản quy định trong thỏa thuận về chính sách hoàn trả.",
-    "collocations": ["contractual stipulation", "meet stipulations", "key stipulation"],
-    "synonyms": ["condition", "requirement", "provision"],
-    "wordFamily": ["stipulate", "stipulated"],
-    "day": 105
-  },
-  {
-    "id": "auditor-noun",
-    "word": "auditor",
-    "baseWord": "audit",
-    "type": "noun",
-    "meaning": "kiểm toán viên",
-    "pronunciation": "/ˈɔːdɪtər/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The external auditor will visit the office next week.",
-    "exampleVi": "Kiểm toán viên bên ngoài sẽ đến văn phòng vào tuần tới.",
-    "collocations": ["external auditor", "internal auditor", "independent auditor"],
-    "synonyms": ["examiner", "inspector", "reviewer"],
-    "wordFamily": ["audit", "audited", "auditing"],
-    "day": 105
-  },
-  {
-    "id": "sanction-noun",
-    "word": "sanction",
-    "baseWord": "sanction",
-    "type": "noun",
-    "meaning": "sự phê chuẩn; biện pháp trừng phạt",
-    "pronunciation": "/ˈsæŋkʃən/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Trade sanctions were imposed on companies violating export rules.",
-    "exampleVi": "Các biện pháp trừng phạt thương mại đã được áp đặt đối với các công ty vi phạm quy tắc xuất khẩu.",
-    "collocations": ["impose sanctions", "economic sanctions", "trade sanctions"],
-    "synonyms": ["penalty", "punishment", "restriction"],
-    "wordFamily": ["sanction", "sanctioned"],
+    "collocations": [
+      "detect an anomaly",
+      "data anomaly",
+      "statistical anomaly"
+    ],
+    "synonyms": [
+      "irregularity",
+      "abnormality",
+      "deviation"
+    ],
+    "wordFamily": [
+      "anomalous",
+      "anomalies"
+    ],
     "day": 105
   },
   {
@@ -1503,66 +2768,215 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "Authorities seized a shipment of counterfeit electronics.",
     "exampleVi": "Cơ quan chức năng đã thu giữ một lô hàng điện tử giả mạo.",
-    "collocations": ["counterfeit goods", "counterfeit products", "counterfeit currency"],
-    "synonyms": ["fake", "forged", "fraudulent"],
-    "wordFamily": ["counterfeit", "counterfeiter", "counterfeiting"],
+    "collocations": [
+      "counterfeit goods",
+      "counterfeit products",
+      "counterfeit currency"
+    ],
+    "synonyms": [
+      "fake",
+      "forged",
+      "fraudulent"
+    ],
+    "wordFamily": [
+      "counterfeit",
+      "counterfeiter",
+      "counterfeiting"
+    ],
     "day": 105
   },
   {
-    "id": "withstand-verb",
-    "word": "withstand",
-    "baseWord": "withstand",
-    "type": "verb",
-    "meaning": "chịu đựng, chống chọi",
-    "pronunciation": "/wɪðˈstænd/",
+    "id": "daily-appointment-phrase",
+    "word": "daily appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: daily appointment",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The material is designed to withstand extreme temperatures.",
-    "exampleVi": "Vật liệu được thiết kế để chịu đựng nhiệt độ khắc nghiệt.",
-    "collocations": ["withstand pressure", "withstand heat", "withstand wear and tear"],
-    "synonyms": ["endure", "resist", "tolerate"],
-    "wordFamily": ["withstood", "withstanding"],
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the daily appointment before the next business day.",
+    "exampleVi": "Vui long xem lai daily appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "daily appointment",
+      "daily appointment process",
+      "daily appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 105
   },
   {
-    "id": "overhaul-noun",
-    "word": "overhaul",
-    "baseWord": "overhaul",
-    "type": "noun",
-    "meaning": "sự đại tu, sự cải tổ",
-    "pronunciation": "/ˈoʊvərhɔːl/",
+    "id": "in good standing-phrase",
+    "word": "in good standing",
+    "baseWord": "standing",
+    "type": "phrase",
+    "meaning": "có uy tín tốt, đạt yêu cầu",
+    "pronunciation": "/ɪn ɡʊd ˈstændɪŋ/",
     "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The quality management system is undergoing a complete overhaul.",
-    "exampleVi": "Hệ thống quản lý chất lượng đang trải qua một cuộc đại tu hoàn toàn.",
-    "collocations": ["complete overhaul", "major overhaul", "system overhaul"],
-    "synonyms": ["renovation", "revamp", "restructuring"],
-    "wordFamily": ["overhaul", "overhauled", "overhauling"],
+    "level": "medium",
+    "partTags": [
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Only suppliers in good standing will be invited to bid.",
+    "exampleVi": "Chỉ những nhà cung cấp có uy tín tốt mới được mời đấu thầu.",
+    "collocations": [
+      "member in good standing",
+      "in good standing with",
+      "remain in good standing"
+    ],
+    "synonyms": [
+      "reputable",
+      "in good repute"
+    ],
+    "wordFamily": [
+      "standing",
+      "stand"
+    ],
     "day": 105
   },
   {
-    "id": "adherence-noun",
-    "word": "adherence",
-    "baseWord": "adhere",
-    "type": "noun",
-    "meaning": "sự tuân thủ, sự bám sát",
-    "pronunciation": "/ədˈhɪrəns/",
+    "id": "monthly-appointment-phrase",
+    "word": "monthly appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: monthly appointment",
+    "pronunciation": "",
     "topic": "Quality & Standards",
     "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the monthly appointment before the next business day.",
+    "exampleVi": "Vui long xem lai monthly appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "monthly appointment",
+      "monthly appointment process",
+      "monthly appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 105
+  },
+  {
+    "id": "permissible-adjective",
+    "word": "permissible",
+    "baseWord": "permit",
+    "type": "adjective",
+    "meaning": "được phép, cho phép",
+    "pronunciation": "/pərˈmɪsəbl/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Strict adherence to safety guidelines is expected of all personnel.",
-    "exampleVi": "Sự tuân thủ nghiêm ngặt các hướng dẫn an toàn được yêu cầu với tất cả nhân viên.",
-    "collocations": ["strict adherence", "adherence to policy", "adherence to standards"],
-    "synonyms": ["compliance", "conformity", "observance"],
-    "wordFamily": ["adhere", "adherent"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The noise level must remain within permissible limits.",
+    "exampleVi": "Mức độ tiếng ồn phải nằm trong giới hạn cho phép.",
+    "collocations": [
+      "permissible limit",
+      "permissible level",
+      "permissible exposure"
+    ],
+    "synonyms": [
+      "allowable",
+      "acceptable",
+      "permitted"
+    ],
+    "wordFamily": [
+      "permit",
+      "permission",
+      "permissibly"
+    ],
+    "day": 105
+  },
+  {
+    "id": "quarterly-appointment-phrase",
+    "word": "quarterly appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: quarterly appointment",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the quarterly appointment before the next business day.",
+    "exampleVi": "Vui long xem lai quarterly appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "quarterly appointment",
+      "quarterly appointment process",
+      "quarterly appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 105
+  },
+  {
+    "id": "regulatory compliance-phrase",
+    "word": "regulatory compliance",
+    "baseWord": "comply",
+    "type": "phrase",
+    "meaning": "sự tuân thủ quy định pháp lý",
+    "pronunciation": "/ˈreɡjələtɔːri kəmˈplaɪəns/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new compliance officer oversees environmental regulatory compliance.",
+    "exampleVi": "Nhân viên tuân thủ mới giám sát việc tuân thủ các quy định pháp lý về môi trường.",
+    "collocations": [
+      "ensure regulatory compliance",
+      "regulatory compliance standards",
+      "regulatory compliance audit"
+    ],
+    "synonyms": [
+      "compliance",
+      "legal adherence"
+    ],
+    "wordFamily": [
+      "regulate",
+      "regulatory",
+      "comply"
+    ],
     "day": 105
   },
   {
@@ -1575,30 +2989,218 @@
     "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "Each component is rigorously tested before assembly.",
     "exampleVi": "Mỗi linh kiện được kiểm tra nghiêm ngặt trước khi lắp ráp.",
-    "collocations": ["rigorously tested", "rigorously enforced", "rigorously reviewed"],
-    "synonyms": ["thoroughly", "strictly", "meticulously"],
-    "wordFamily": ["rigorous", "rigor"],
+    "collocations": [
+      "rigorously tested",
+      "rigorously enforced",
+      "rigorously reviewed"
+    ],
+    "synonyms": [
+      "thoroughly",
+      "strictly",
+      "meticulously"
+    ],
+    "wordFamily": [
+      "rigorous",
+      "rigor"
+    ],
     "day": 105
   },
   {
-    "id": "in-good-standing-phrase",
-    "word": "in good standing",
-    "baseWord": "standing",
+    "id": "safety measure-phrase",
+    "word": "safety measure",
+    "baseWord": "safe",
     "type": "phrase",
-    "meaning": "có uy tín tốt, đạt yêu cầu",
-    "pronunciation": "/ɪn ɡʊd ˈstændɪŋ/",
+    "meaning": "biện pháp an toàn",
+    "pronunciation": "/ˈseɪfti ˈmeʒər/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory introduced several new safety measures after the inspection.",
+    "exampleVi": "Nhà máy đã đưa vào áp dụng một số biện pháp an toàn mới sau cuộc kiểm tra.",
+    "collocations": [
+      "precautionary safety measure",
+      "implement safety measures",
+      "strict safety measures"
+    ],
+    "synonyms": [
+      "precaution",
+      "safeguard"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "measure"
+    ],
+    "day": 105
+  },
+  {
+    "id": "standard operating procedure-phrase",
+    "word": "standard operating procedure",
+    "baseWord": "standard operating procedure",
+    "type": "phrase",
+    "meaning": "quy trình vận hành tiêu chuẩn",
+    "pronunciation": "/ˈstændərd ˈɑːpəreɪtɪŋ prəˈsiːdʒər/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Following the standard operating procedure ensures safety and efficiency.",
+    "exampleVi": "Tuân theo quy trình vận hành tiêu chuẩn đảm bảo an toàn và hiệu quả.",
+    "collocations": [
+      "standard operating procedure manual",
+      "follow standard operating procedure",
+      "establish standard operating procedure"
+    ],
+    "synonyms": [
+      "protocol",
+      "guideline"
+    ],
+    "wordFamily": [
+      "standard",
+      "operate",
+      "procedure"
+    ],
+    "day": 105
+  },
+  {
+    "id": "stipulation-noun",
+    "word": "stipulation",
+    "baseWord": "stipulate",
+    "type": "noun",
+    "meaning": "điều kiện quy định",
+    "pronunciation": "/ˌstɪpjəˈleɪʃən/",
     "topic": "Quality & Standards",
     "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "There is a stipulation in the agreement regarding return policies.",
+    "exampleVi": "Có một điều khoản quy định trong thỏa thuận về chính sách hoàn trả.",
+    "collocations": [
+      "contractual stipulation",
+      "meet stipulations",
+      "key stipulation"
+    ],
+    "synonyms": [
+      "condition",
+      "requirement",
+      "provision"
+    ],
+    "wordFamily": [
+      "stipulate",
+      "stipulated"
+    ],
+    "day": 105
+  },
+  {
+    "id": "wear and tear-phrase",
+    "word": "wear and tear",
+    "baseWord": "wear and tear",
+    "type": "phrase",
+    "meaning": "hao mòn tự nhiên (do sử dụng)",
+    "pronunciation": "/wer ənd ter/",
+    "topic": "Quality & Standards",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "Only suppliers in good standing will be invited to bid.",
-    "exampleVi": "Chỉ những nhà cung cấp có uy tín tốt mới được mời đấu thầu.",
-    "collocations": ["member in good standing", "in good standing with", "remain in good standing"],
-    "synonyms": ["reputable", "in good repute"],
-    "wordFamily": ["standing", "stand"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The warranty does not cover damage caused by normal wear and tear.",
+    "exampleVi": "Bảo hành không bao gồm thiệt hại do hao mòn tự nhiên thông thường.",
+    "collocations": [
+      "normal wear and tear",
+      "sign of wear and tear",
+      "resist wear and tear"
+    ],
+    "synonyms": [
+      "deterioration",
+      "depreciation",
+      "erosion"
+    ],
+    "wordFamily": [
+      "wear",
+      "tear",
+      "worn"
+    ],
+    "day": 105
+  },
+  {
+    "id": "weekly-appointment-phrase",
+    "word": "weekly appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve quality & standards: weekly appointment",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the weekly appointment before the next business day.",
+    "exampleVi": "Vui long xem lai weekly appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "weekly appointment",
+      "weekly appointment process",
+      "weekly appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 105
+  },
+  {
+    "id": "withstand-verb",
+    "word": "withstand",
+    "baseWord": "withstand",
+    "type": "verb",
+    "meaning": "chịu đựng, chống chọi",
+    "pronunciation": "/wɪðˈstænd/",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The material is designed to withstand extreme temperatures.",
+    "exampleVi": "Vật liệu được thiết kế để chịu đựng nhiệt độ khắc nghiệt.",
+    "collocations": [
+      "withstand pressure",
+      "withstand heat",
+      "withstand wear and tear"
+    ],
+    "synonyms": [
+      "endure",
+      "resist",
+      "tolerate"
+    ],
+    "wordFamily": [
+      "withstood",
+      "withstanding"
+    ],
     "day": 105
   }
 ]

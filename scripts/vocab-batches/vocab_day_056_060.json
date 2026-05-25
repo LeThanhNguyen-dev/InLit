@@ -1,0 +1,2798 @@
+[
+  {
+    "id": "available-room-phrase",
+    "word": "available room",
+    "baseWord": "room",
+    "type": "phrase",
+    "meaning": "phòng còn trống",
+    "pronunciation": "/available room/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the available room carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng còn trống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm available room",
+      "available room details",
+      "review available room"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "room"
+    ],
+    "day": 56
+  },
+  {
+    "id": "bellhop-noun",
+    "word": "bellhop",
+    "baseWord": "bellhop",
+    "type": "noun",
+    "meaning": "nhân viên hành lý",
+    "pronunciation": "/bellhop/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the bellhop carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên hành lý cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm bellhop",
+      "bellhop details",
+      "review bellhop"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "bellhop"
+    ],
+    "day": 56
+  },
+  {
+    "id": "check-in-time-phrase",
+    "word": "check-in time",
+    "baseWord": "time",
+    "type": "phrase",
+    "meaning": "giờ nhận phòng",
+    "pronunciation": "/check-in time/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the check-in time carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giờ nhận phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm check-in time",
+      "check-in time details",
+      "review check-in time"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "time"
+    ],
+    "day": 56
+  },
+  {
+    "id": "checkout-procedure-phrase",
+    "word": "checkout procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "thủ tục trả phòng",
+    "pronunciation": "/checkout procedure/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the checkout procedure carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thủ tục trả phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm checkout procedure",
+      "checkout procedure details",
+      "review checkout procedure"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "procedure"
+    ],
+    "day": 56
+  },
+  {
+    "id": "complimentary-breakfast-phrase",
+    "word": "complimentary breakfast",
+    "baseWord": "breakfast",
+    "type": "phrase",
+    "meaning": "bữa sáng miễn phí",
+    "pronunciation": "/complimentary breakfast/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the complimentary breakfast carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bữa sáng miễn phí cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm complimentary breakfast",
+      "complimentary breakfast details",
+      "review complimentary breakfast"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "breakfast"
+    ],
+    "day": 56
+  },
+  {
+    "id": "executive-suite-phrase",
+    "word": "executive suite",
+    "baseWord": "suite",
+    "type": "phrase",
+    "meaning": "phòng hạng thương gia",
+    "pronunciation": "/executive suite/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the executive suite carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng hạng thương gia cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm executive suite",
+      "executive suite details",
+      "review executive suite"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "suite"
+    ],
+    "day": 56
+  },
+  {
+    "id": "front-desk-noun",
+    "word": "front desk",
+    "baseWord": "desk",
+    "type": "noun",
+    "meaning": "quầy lễ tân",
+    "pronunciation": "/front desk/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the front desk carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quầy lễ tân cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm front desk",
+      "front desk details",
+      "review front desk"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "desk"
+    ],
+    "day": 56
+  },
+  {
+    "id": "guest-amenity-phrase",
+    "word": "guest amenity",
+    "baseWord": "amenity",
+    "type": "phrase",
+    "meaning": "tiện nghi cho khách",
+    "pronunciation": "/guest amenity/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the guest amenity carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiện nghi cho khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm guest amenity",
+      "guest amenity details",
+      "review guest amenity"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "amenity"
+    ],
+    "day": 56
+  },
+  {
+    "id": "guest-policy-phrase",
+    "word": "guest policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "chính sách dành cho khách",
+    "pronunciation": "/guest policy/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the guest policy carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chính sách dành cho khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm guest policy",
+      "guest policy details",
+      "review guest policy"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 56
+  },
+  {
+    "id": "guest-services-agent-phrase",
+    "word": "guest services agent",
+    "baseWord": "agent",
+    "type": "phrase",
+    "meaning": "nhân viên dịch vụ khách",
+    "pronunciation": "/guest services agent/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the guest services agent carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên dịch vụ khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm guest services agent",
+      "guest services agent details",
+      "review guest services agent"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "agent"
+    ],
+    "day": 56
+  },
+  {
+    "id": "hospitality-staff-phrase",
+    "word": "hospitality staff",
+    "baseWord": "staff",
+    "type": "phrase",
+    "meaning": "nhân viên dịch vụ khách sạn",
+    "pronunciation": "/hospitality staff/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hospitality staff carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên dịch vụ khách sạn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hospitality staff",
+      "hospitality staff details",
+      "review hospitality staff"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "staff"
+    ],
+    "day": 56
+  },
+  {
+    "id": "in-room-dining-phrase",
+    "word": "in-room dining",
+    "baseWord": "dining",
+    "type": "phrase",
+    "meaning": "dịch vụ ăn uống tại phòng",
+    "pronunciation": "/in-room dining/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the in-room dining carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dịch vụ ăn uống tại phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm in-room dining",
+      "in-room dining details",
+      "review in-room dining"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "dining"
+    ],
+    "day": 56
+  },
+  {
+    "id": "late-checkout-phrase",
+    "word": "late checkout",
+    "baseWord": "checkout",
+    "type": "phrase",
+    "meaning": "trả phòng muộn",
+    "pronunciation": "/late checkout/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the late checkout carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trả phòng muộn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm late checkout",
+      "late checkout details",
+      "review late checkout"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "checkout"
+    ],
+    "day": 56
+  },
+  {
+    "id": "laundry-service-phrase",
+    "word": "laundry service",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "dịch vụ giặt ủi",
+    "pronunciation": "/laundry service/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the laundry service carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dịch vụ giặt ủi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm laundry service",
+      "laundry service details",
+      "review laundry service"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 56
+  },
+  {
+    "id": "luggage-cart-noun",
+    "word": "luggage cart",
+    "baseWord": "cart",
+    "type": "noun",
+    "meaning": "xe đẩy hành lý",
+    "pronunciation": "/luggage cart/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the luggage cart carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét xe đẩy hành lý cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm luggage cart",
+      "luggage cart details",
+      "review luggage cart"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cart"
+    ],
+    "day": 56
+  },
+  {
+    "id": "occupancy-rate-phrase",
+    "word": "occupancy rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "tỷ lệ lấp đầy phòng",
+    "pronunciation": "/occupancy rate/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the occupancy rate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tỷ lệ lấp đầy phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm occupancy rate",
+      "occupancy rate details",
+      "review occupancy rate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rate"
+    ],
+    "day": 56
+  },
+  {
+    "id": "reservation-desk-phrase",
+    "word": "reservation desk",
+    "baseWord": "desk",
+    "type": "phrase",
+    "meaning": "bàn đặt phòng",
+    "pronunciation": "/reservation desk/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reservation desk carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bàn đặt phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reservation desk",
+      "reservation desk details",
+      "review reservation desk"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "desk"
+    ],
+    "day": 56
+  },
+  {
+    "id": "room-cleaning-service-phrase",
+    "word": "room cleaning service",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "dịch vụ dọn phòng",
+    "pronunciation": "/room cleaning service/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the room cleaning service carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dịch vụ dọn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm room cleaning service",
+      "room cleaning service details",
+      "review room cleaning service"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 56
+  },
+  {
+    "id": "room-upgrade-phrase",
+    "word": "room upgrade",
+    "baseWord": "upgrade",
+    "type": "phrase",
+    "meaning": "nâng hạng phòng",
+    "pronunciation": "/room upgrade/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the room upgrade carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nâng hạng phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm room upgrade",
+      "room upgrade details",
+      "review room upgrade"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "upgrade"
+    ],
+    "day": 56
+  },
+  {
+    "id": "wake-up-call-phrase",
+    "word": "wake-up call",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "cuộc gọi báo thức",
+    "pronunciation": "/wake-up call/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the wake-up call carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cuộc gọi báo thức cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm wake-up call",
+      "wake-up call details",
+      "review wake-up call"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "call"
+    ],
+    "day": 56
+  },
+  {
+    "id": "allergen-information-phrase",
+    "word": "allergen information",
+    "baseWord": "information",
+    "type": "phrase",
+    "meaning": "thông tin dị ứng thực phẩm",
+    "pronunciation": "/allergen information/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the allergen information carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thông tin dị ứng thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm allergen information",
+      "allergen information details",
+      "review allergen information"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "information"
+    ],
+    "day": 57
+  },
+  {
+    "id": "appetizer-noun",
+    "word": "appetizer",
+    "baseWord": "appetizer",
+    "type": "noun",
+    "meaning": "món khai vị",
+    "pronunciation": "/appetizer/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the appetizer carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét món khai vị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm appetizer",
+      "appetizer details",
+      "review appetizer"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "appetizer"
+    ],
+    "day": 57
+  },
+  {
+    "id": "beverage-noun",
+    "word": "beverage",
+    "baseWord": "beverage",
+    "type": "noun",
+    "meaning": "đồ uống",
+    "pronunciation": "/beverage/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the beverage carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đồ uống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm beverage",
+      "beverage details",
+      "review beverage"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "beverage"
+    ],
+    "day": 57
+  },
+  {
+    "id": "buffet-line-phrase",
+    "word": "buffet line",
+    "baseWord": "line",
+    "type": "phrase",
+    "meaning": "quầy buffet",
+    "pronunciation": "/buffet line/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the buffet line carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quầy buffet cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm buffet line",
+      "buffet line details",
+      "review buffet line"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "line"
+    ],
+    "day": 57
+  },
+  {
+    "id": "catering-order-phrase",
+    "word": "catering order",
+    "baseWord": "order",
+    "type": "phrase",
+    "meaning": "đơn đặt suất ăn",
+    "pronunciation": "/catering order/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the catering order carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đơn đặt suất ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm catering order",
+      "catering order details",
+      "review catering order"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "order"
+    ],
+    "day": 57
+  },
+  {
+    "id": "daily-special-phrase",
+    "word": "daily special",
+    "baseWord": "special",
+    "type": "phrase",
+    "meaning": "món đặc biệt trong ngày",
+    "pronunciation": "/daily special/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the daily special carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét món đặc biệt trong ngày cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm daily special",
+      "daily special details",
+      "review daily special"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "special"
+    ],
+    "day": 57
+  },
+  {
+    "id": "dessert-tray-phrase",
+    "word": "dessert tray",
+    "baseWord": "tray",
+    "type": "phrase",
+    "meaning": "khay món tráng miệng",
+    "pronunciation": "/dessert tray/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the dessert tray carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khay món tráng miệng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm dessert tray",
+      "dessert tray details",
+      "review dessert tray"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tray"
+    ],
+    "day": 57
+  },
+  {
+    "id": "dietary-restriction-phrase",
+    "word": "dietary restriction",
+    "baseWord": "restriction",
+    "type": "phrase",
+    "meaning": "hạn chế ăn uống",
+    "pronunciation": "/dietary restriction/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the dietary restriction carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hạn chế ăn uống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm dietary restriction",
+      "dietary restriction details",
+      "review dietary restriction"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "restriction"
+    ],
+    "day": 57
+  },
+  {
+    "id": "dining-area-phrase",
+    "word": "dining area",
+    "baseWord": "area",
+    "type": "phrase",
+    "meaning": "khu vực ăn uống",
+    "pronunciation": "/dining area/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the dining area carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu vực ăn uống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm dining area",
+      "dining area details",
+      "review dining area"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "area"
+    ],
+    "day": 57
+  },
+  {
+    "id": "gratuity-noun",
+    "word": "gratuity",
+    "baseWord": "gratuity",
+    "type": "noun",
+    "meaning": "tiền boa",
+    "pronunciation": "/gratuity/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the gratuity carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiền boa cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm gratuity",
+      "gratuity details",
+      "review gratuity"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "gratuity"
+    ],
+    "day": 57
+  },
+  {
+    "id": "host-stand-phrase",
+    "word": "host stand",
+    "baseWord": "stand",
+    "type": "phrase",
+    "meaning": "quầy đón khách nhà hàng",
+    "pronunciation": "/host stand/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the host stand carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quầy đón khách nhà hàng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm host stand",
+      "host stand details",
+      "review host stand"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "stand"
+    ],
+    "day": 57
+  },
+  {
+    "id": "main-course-phrase",
+    "word": "main course",
+    "baseWord": "course",
+    "type": "phrase",
+    "meaning": "món chính",
+    "pronunciation": "/main course/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the main course carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét món chính cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm main course",
+      "main course details",
+      "review main course"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "course"
+    ],
+    "day": 57
+  },
+  {
+    "id": "place-setting-phrase",
+    "word": "place setting",
+    "baseWord": "setting",
+    "type": "phrase",
+    "meaning": "bộ dụng cụ ăn cho một khách",
+    "pronunciation": "/place setting/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the place setting carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bộ dụng cụ ăn cho một khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm place setting",
+      "place setting details",
+      "review place setting"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "setting"
+    ],
+    "day": 57
+  },
+  {
+    "id": "reservation-list-phrase",
+    "word": "reservation list",
+    "baseWord": "list",
+    "type": "phrase",
+    "meaning": "danh sách đặt bàn",
+    "pronunciation": "/reservation list/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reservation list carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách đặt bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reservation list",
+      "reservation list details",
+      "review reservation list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "list"
+    ],
+    "day": 57
+  },
+  {
+    "id": "serving-station-phrase",
+    "word": "serving station",
+    "baseWord": "station",
+    "type": "phrase",
+    "meaning": "khu phục vụ",
+    "pronunciation": "/serving station/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the serving station carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm serving station",
+      "serving station details",
+      "review serving station"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "station"
+    ],
+    "day": 57
+  },
+  {
+    "id": "set-menu-phrase",
+    "word": "set menu",
+    "baseWord": "menu",
+    "type": "phrase",
+    "meaning": "thực đơn cố định",
+    "pronunciation": "/set menu/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the set menu carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thực đơn cố định cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm set menu",
+      "set menu details",
+      "review set menu"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "menu"
+    ],
+    "day": 57
+  },
+  {
+    "id": "side-dish-phrase",
+    "word": "side dish",
+    "baseWord": "dish",
+    "type": "phrase",
+    "meaning": "món ăn kèm",
+    "pronunciation": "/side dish/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the side dish carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét món ăn kèm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm side dish",
+      "side dish details",
+      "review side dish"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "dish"
+    ],
+    "day": 57
+  },
+  {
+    "id": "table-setting-phrase",
+    "word": "table setting",
+    "baseWord": "setting",
+    "type": "phrase",
+    "meaning": "cách bày bàn ăn",
+    "pronunciation": "/table setting/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the table setting carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cách bày bàn ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm table setting",
+      "table setting details",
+      "review table setting"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "setting"
+    ],
+    "day": 57
+  },
+  {
+    "id": "takeout-counter-phrase",
+    "word": "takeout counter",
+    "baseWord": "counter",
+    "type": "phrase",
+    "meaning": "quầy nhận món mang đi",
+    "pronunciation": "/takeout counter/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the takeout counter carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quầy nhận món mang đi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm takeout counter",
+      "takeout counter details",
+      "review takeout counter"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "counter"
+    ],
+    "day": 57
+  },
+  {
+    "id": "waitstaff-noun",
+    "word": "waitstaff",
+    "baseWord": "waitstaff",
+    "type": "noun",
+    "meaning": "nhân viên phục vụ bàn",
+    "pronunciation": "/waitstaff/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the waitstaff carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên phục vụ bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm waitstaff",
+      "waitstaff details",
+      "review waitstaff"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "waitstaff"
+    ],
+    "day": 57
+  },
+  {
+    "id": "condiment-noun",
+    "word": "condiment",
+    "baseWord": "condiment",
+    "type": "noun",
+    "meaning": "gia vị ăn kèm",
+    "pronunciation": "/condiment/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the condiment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét gia vị ăn kèm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm condiment",
+      "condiment details",
+      "review condiment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "condiment"
+    ],
+    "day": 58
+  },
+  {
+    "id": "cutlery-noun",
+    "word": "cutlery",
+    "baseWord": "cutlery",
+    "type": "noun",
+    "meaning": "dao nĩa muỗng",
+    "pronunciation": "/cutlery/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the cutlery carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dao nĩa muỗng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cutlery",
+      "cutlery details",
+      "review cutlery"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cutlery"
+    ],
+    "day": 58
+  },
+  {
+    "id": "expiration-date-phrase",
+    "word": "expiration date",
+    "baseWord": "date",
+    "type": "phrase",
+    "meaning": "hạn sử dụng",
+    "pronunciation": "/expiration date/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the expiration date carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hạn sử dụng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm expiration date",
+      "expiration date details",
+      "review expiration date"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "date"
+    ],
+    "day": 58
+  },
+  {
+    "id": "food-handler-phrase",
+    "word": "food handler",
+    "baseWord": "handler",
+    "type": "phrase",
+    "meaning": "người xử lý thực phẩm",
+    "pronunciation": "/food handler/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the food handler carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét người xử lý thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm food handler",
+      "food handler details",
+      "review food handler"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "handler"
+    ],
+    "day": 58
+  },
+  {
+    "id": "food-preparation-phrase",
+    "word": "food preparation",
+    "baseWord": "preparation",
+    "type": "phrase",
+    "meaning": "khâu chuẩn bị thực phẩm",
+    "pronunciation": "/food preparation/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the food preparation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khâu chuẩn bị thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm food preparation",
+      "food preparation details",
+      "review food preparation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "preparation"
+    ],
+    "day": 58
+  },
+  {
+    "id": "fresh-produce-phrase",
+    "word": "fresh produce",
+    "baseWord": "produce",
+    "type": "phrase",
+    "meaning": "nông sản tươi",
+    "pronunciation": "/fresh produce/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the fresh produce carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nông sản tươi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm fresh produce",
+      "fresh produce details",
+      "review fresh produce"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "produce"
+    ],
+    "day": 58
+  },
+  {
+    "id": "glassware-noun",
+    "word": "glassware",
+    "baseWord": "glassware",
+    "type": "noun",
+    "meaning": "đồ thủy tinh",
+    "pronunciation": "/glassware/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the glassware carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đồ thủy tinh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm glassware",
+      "glassware details",
+      "review glassware"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "glassware"
+    ],
+    "day": 58
+  },
+  {
+    "id": "ingredient-list-phrase",
+    "word": "ingredient list",
+    "baseWord": "list",
+    "type": "phrase",
+    "meaning": "danh sách nguyên liệu",
+    "pronunciation": "/ingredient list/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the ingredient list carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách nguyên liệu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm ingredient list",
+      "ingredient list details",
+      "review ingredient list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "list"
+    ],
+    "day": 58
+  },
+  {
+    "id": "kitchenware-noun",
+    "word": "kitchenware",
+    "baseWord": "kitchenware",
+    "type": "noun",
+    "meaning": "dụng cụ nhà bếp",
+    "pronunciation": "/kitchenware/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the kitchenware carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dụng cụ nhà bếp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm kitchenware",
+      "kitchenware details",
+      "review kitchenware"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "kitchenware"
+    ],
+    "day": 58
+  },
+  {
+    "id": "napkin-noun",
+    "word": "napkin",
+    "baseWord": "napkin",
+    "type": "noun",
+    "meaning": "khăn ăn",
+    "pronunciation": "/napkin/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the napkin carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khăn ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm napkin",
+      "napkin details",
+      "review napkin"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "napkin"
+    ],
+    "day": 58
+  },
+  {
+    "id": "pitcher-noun",
+    "word": "pitcher",
+    "baseWord": "pitcher",
+    "type": "noun",
+    "meaning": "bình rót nước",
+    "pronunciation": "/pitcher/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the pitcher carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bình rót nước cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm pitcher",
+      "pitcher details",
+      "review pitcher"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "pitcher"
+    ],
+    "day": 58
+  },
+  {
+    "id": "portion-size-phrase",
+    "word": "portion size",
+    "baseWord": "size",
+    "type": "phrase",
+    "meaning": "khẩu phần",
+    "pronunciation": "/portion size/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the portion size carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khẩu phần cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm portion size",
+      "portion size details",
+      "review portion size"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "size"
+    ],
+    "day": 58
+  },
+  {
+    "id": "recipe-card-phrase",
+    "word": "recipe card",
+    "baseWord": "card",
+    "type": "phrase",
+    "meaning": "thẻ công thức",
+    "pronunciation": "/recipe card/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the recipe card carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thẻ công thức cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm recipe card",
+      "recipe card details",
+      "review recipe card"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "card"
+    ],
+    "day": 58
+  },
+  {
+    "id": "refrigerated-storage-phrase",
+    "word": "refrigerated storage",
+    "baseWord": "storage",
+    "type": "phrase",
+    "meaning": "kho lạnh",
+    "pronunciation": "/refrigerated storage/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the refrigerated storage carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kho lạnh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm refrigerated storage",
+      "refrigerated storage details",
+      "review refrigerated storage"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "storage"
+    ],
+    "day": 58
+  },
+  {
+    "id": "sanitation-checklist-phrase",
+    "word": "sanitation checklist",
+    "baseWord": "checklist",
+    "type": "phrase",
+    "meaning": "danh sách kiểm tra vệ sinh",
+    "pronunciation": "/sanitation checklist/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sanitation checklist carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách kiểm tra vệ sinh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sanitation checklist",
+      "sanitation checklist details",
+      "review sanitation checklist"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "checklist"
+    ],
+    "day": 58
+  },
+  {
+    "id": "seasoning-noun",
+    "word": "seasoning",
+    "baseWord": "seasoning",
+    "type": "noun",
+    "meaning": "gia vị nêm nếm",
+    "pronunciation": "/seasoning/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the seasoning carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét gia vị nêm nếm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm seasoning",
+      "seasoning details",
+      "review seasoning"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "seasoning"
+    ],
+    "day": 58
+  },
+  {
+    "id": "serving-platter-phrase",
+    "word": "serving platter",
+    "baseWord": "platter",
+    "type": "phrase",
+    "meaning": "đĩa lớn để phục vụ",
+    "pronunciation": "/serving platter/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the serving platter carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đĩa lớn để phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm serving platter",
+      "serving platter details",
+      "review serving platter"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "platter"
+    ],
+    "day": 58
+  },
+  {
+    "id": "tablecloth-noun",
+    "word": "tablecloth",
+    "baseWord": "tablecloth",
+    "type": "noun",
+    "meaning": "khăn trải bàn",
+    "pronunciation": "/tablecloth/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the tablecloth carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khăn trải bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm tablecloth",
+      "tablecloth details",
+      "review tablecloth"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tablecloth"
+    ],
+    "day": 58
+  },
+  {
+    "id": "tray-noun",
+    "word": "tray",
+    "baseWord": "tray",
+    "type": "noun",
+    "meaning": "khay",
+    "pronunciation": "/tray/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the tray carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khay cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm tray",
+      "tray details",
+      "review tray"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tray"
+    ],
+    "day": 58
+  },
+  {
+    "id": "utensil-noun",
+    "word": "utensil",
+    "baseWord": "utensil",
+    "type": "noun",
+    "meaning": "dụng cụ ăn uống",
+    "pronunciation": "/utensil/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the utensil carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dụng cụ ăn uống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm utensil",
+      "utensil details",
+      "review utensil"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "utensil"
+    ],
+    "day": 58
+  },
+  {
+    "id": "arrival-lounge-phrase",
+    "word": "arrival lounge",
+    "baseWord": "lounge",
+    "type": "phrase",
+    "meaning": "khu chờ đón khách",
+    "pronunciation": "/arrival lounge/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the arrival lounge carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khu chờ đón khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm arrival lounge",
+      "arrival lounge details",
+      "review arrival lounge"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "lounge"
+    ],
+    "day": 59
+  },
+  {
+    "id": "banquet-hall-phrase",
+    "word": "banquet hall",
+    "baseWord": "hall",
+    "type": "phrase",
+    "meaning": "sảnh tiệc",
+    "pronunciation": "/banquet hall/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the banquet hall carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sảnh tiệc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm banquet hall",
+      "banquet hall details",
+      "review banquet hall"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "hall"
+    ],
+    "day": 59
+  },
+  {
+    "id": "cancellation-policy-phrase",
+    "word": "cancellation policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "chính sách hủy đặt chỗ",
+    "pronunciation": "/cancellation policy/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the cancellation policy carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chính sách hủy đặt chỗ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cancellation policy",
+      "cancellation policy details",
+      "review cancellation policy"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 59
+  },
+  {
+    "id": "chef-recommendation-phrase",
+    "word": "chef recommendation",
+    "baseWord": "recommendation",
+    "type": "phrase",
+    "meaning": "món đầu bếp đề xuất",
+    "pronunciation": "/chef recommendation/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the chef recommendation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét món đầu bếp đề xuất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm chef recommendation",
+      "chef recommendation details",
+      "review chef recommendation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "recommendation"
+    ],
+    "day": 59
+  },
+  {
+    "id": "comment-card-phrase",
+    "word": "comment card",
+    "baseWord": "card",
+    "type": "phrase",
+    "meaning": "thẻ góp ý",
+    "pronunciation": "/comment card/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the comment card carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thẻ góp ý cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm comment card",
+      "comment card details",
+      "review comment card"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "card"
+    ],
+    "day": 59
+  },
+  {
+    "id": "corporate-rate-phrase",
+    "word": "corporate rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "mức giá doanh nghiệp",
+    "pronunciation": "/corporate rate/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the corporate rate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mức giá doanh nghiệp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm corporate rate",
+      "corporate rate details",
+      "review corporate rate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rate"
+    ],
+    "day": 59
+  },
+  {
+    "id": "customer-complaint-phrase",
+    "word": "customer complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "khiếu nại của khách hàng",
+    "pronunciation": "/customer complaint/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the customer complaint carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khiếu nại của khách hàng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm customer complaint",
+      "customer complaint details",
+      "review customer complaint"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "complaint"
+    ],
+    "day": 59
+  },
+  {
+    "id": "dining-voucher-phrase",
+    "word": "dining voucher",
+    "baseWord": "voucher",
+    "type": "phrase",
+    "meaning": "phiếu ăn uống",
+    "pronunciation": "/dining voucher/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the dining voucher carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiếu ăn uống cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm dining voucher",
+      "dining voucher details",
+      "review dining voucher"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "voucher"
+    ],
+    "day": 59
+  },
+  {
+    "id": "floor-plan-phrase",
+    "word": "floor plan",
+    "baseWord": "plan",
+    "type": "phrase",
+    "meaning": "sơ đồ mặt bằng",
+    "pronunciation": "/floor plan/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the floor plan carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sơ đồ mặt bằng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm floor plan",
+      "floor plan details",
+      "review floor plan"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "plan"
+    ],
+    "day": 59
+  },
+  {
+    "id": "guest-count-phrase",
+    "word": "guest count",
+    "baseWord": "count",
+    "type": "phrase",
+    "meaning": "số lượng khách",
+    "pronunciation": "/guest count/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the guest count carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét số lượng khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm guest count",
+      "guest count details",
+      "review guest count"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "count"
+    ],
+    "day": 59
+  },
+  {
+    "id": "loyalty-points-phrase",
+    "word": "loyalty points",
+    "baseWord": "points",
+    "type": "phrase",
+    "meaning": "điểm khách hàng thân thiết",
+    "pronunciation": "/loyalty points/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the loyalty points carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điểm khách hàng thân thiết cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm loyalty points",
+      "loyalty points details",
+      "review loyalty points"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "points"
+    ],
+    "day": 59
+  },
+  {
+    "id": "meal-allowance-phrase",
+    "word": "meal allowance",
+    "baseWord": "allowance",
+    "type": "phrase",
+    "meaning": "phụ cấp bữa ăn",
+    "pronunciation": "/meal allowance/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the meal allowance carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phụ cấp bữa ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm meal allowance",
+      "meal allowance details",
+      "review meal allowance"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "allowance"
+    ],
+    "day": 59
+  },
+  {
+    "id": "minimum-charge-phrase",
+    "word": "minimum charge",
+    "baseWord": "charge",
+    "type": "phrase",
+    "meaning": "mức phí tối thiểu",
+    "pronunciation": "/minimum charge/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the minimum charge carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mức phí tối thiểu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm minimum charge",
+      "minimum charge details",
+      "review minimum charge"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "charge"
+    ],
+    "day": 59
+  },
+  {
+    "id": "preferred-guest-phrase",
+    "word": "preferred guest",
+    "baseWord": "guest",
+    "type": "phrase",
+    "meaning": "khách ưu tiên",
+    "pronunciation": "/preferred guest/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the preferred guest carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khách ưu tiên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm preferred guest",
+      "preferred guest details",
+      "review preferred guest"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guest"
+    ],
+    "day": 59
+  },
+  {
+    "id": "private-dining-room-phrase",
+    "word": "private dining room",
+    "baseWord": "room",
+    "type": "phrase",
+    "meaning": "phòng ăn riêng",
+    "pronunciation": "/private dining room/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the private dining room carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng ăn riêng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm private dining room",
+      "private dining room details",
+      "review private dining room"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "room"
+    ],
+    "day": 59
+  },
+  {
+    "id": "reservation-deposit-phrase",
+    "word": "reservation deposit",
+    "baseWord": "deposit",
+    "type": "phrase",
+    "meaning": "tiền đặt cọc giữ chỗ",
+    "pronunciation": "/reservation deposit/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reservation deposit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiền đặt cọc giữ chỗ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reservation deposit",
+      "reservation deposit details",
+      "review reservation deposit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "deposit"
+    ],
+    "day": 59
+  },
+  {
+    "id": "seating-capacity-phrase",
+    "word": "seating capacity",
+    "baseWord": "capacity",
+    "type": "phrase",
+    "meaning": "sức chứa chỗ ngồi",
+    "pronunciation": "/seating capacity/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the seating capacity carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sức chứa chỗ ngồi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm seating capacity",
+      "seating capacity details",
+      "review seating capacity"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "capacity"
+    ],
+    "day": 59
+  },
+  {
+    "id": "service-charge-phrase",
+    "word": "service charge",
+    "baseWord": "charge",
+    "type": "phrase",
+    "meaning": "phí phục vụ",
+    "pronunciation": "/service charge/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the service charge carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phí phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm service charge",
+      "service charge details",
+      "review service charge"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "charge"
+    ],
+    "day": 59
+  },
+  {
+    "id": "tasting-menu-phrase",
+    "word": "tasting menu",
+    "baseWord": "menu",
+    "type": "phrase",
+    "meaning": "thực đơn nếm thử",
+    "pronunciation": "/tasting menu/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the tasting menu carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thực đơn nếm thử cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm tasting menu",
+      "tasting menu details",
+      "review tasting menu"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "menu"
+    ],
+    "day": 59
+  },
+  {
+    "id": "wine-list-phrase",
+    "word": "wine list",
+    "baseWord": "list",
+    "type": "phrase",
+    "meaning": "danh sách rượu vang",
+    "pronunciation": "/wine list/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the wine list carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách rượu vang cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm wine list",
+      "wine list details",
+      "review wine list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "list"
+    ],
+    "day": 59
+  },
+  {
+    "id": "airy-adjective",
+    "word": "airy",
+    "baseWord": "airy",
+    "type": "adjective",
+    "meaning": "thoáng đãng",
+    "pronunciation": "/airy/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thoáng đãng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm airy",
+      "airy details",
+      "review airy"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "airy"
+    ],
+    "day": 60
+  },
+  {
+    "id": "available-for-booking-phrase",
+    "word": "available for booking",
+    "baseWord": "booking",
+    "type": "phrase",
+    "meaning": "còn trống để đặt",
+    "pronunciation": "/available for booking/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the available for booking carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét còn trống để đặt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm available for booking",
+      "available for booking details",
+      "review available for booking"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "booking"
+    ],
+    "day": 60
+  },
+  {
+    "id": "clear-the-table-phrase",
+    "word": "clear the table",
+    "baseWord": "table",
+    "type": "phrase",
+    "meaning": "dọn bàn",
+    "pronunciation": "/clear the table/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the clear the table carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dọn bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm clear the table",
+      "clear the table details",
+      "review clear the table"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "table"
+    ],
+    "day": 60
+  },
+  {
+    "id": "confirm-a-booking-phrase",
+    "word": "confirm a booking",
+    "baseWord": "booking",
+    "type": "phrase",
+    "meaning": "xác nhận đặt chỗ",
+    "pronunciation": "/confirm a booking/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the confirm a booking carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét xác nhận đặt chỗ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm confirm a booking",
+      "confirm a booking details",
+      "review confirm a booking"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "booking"
+    ],
+    "day": 60
+  },
+  {
+    "id": "garnish-verb",
+    "word": "garnish",
+    "baseWord": "garnish",
+    "type": "verb",
+    "meaning": "trang trí món ăn",
+    "pronunciation": "/garnish/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the garnish carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trang trí món ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm garnish",
+      "garnish details",
+      "review garnish"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "garnish"
+    ],
+    "day": 60
+  },
+  {
+    "id": "greet-verb",
+    "word": "greet",
+    "baseWord": "greet",
+    "type": "verb",
+    "meaning": "chào đón",
+    "pronunciation": "/greet/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the greet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chào đón cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm greet",
+      "greet details",
+      "review greet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "greet"
+    ],
+    "day": 60
+  },
+  {
+    "id": "guest-focused-adjective",
+    "word": "guest-focused",
+    "baseWord": "guest-focused",
+    "type": "adjective",
+    "meaning": "tập trung vào khách hàng",
+    "pronunciation": "/guest-focused/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tập trung vào khách hàng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm guest-focused",
+      "guest-focused details",
+      "review guest-focused"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guest-focused"
+    ],
+    "day": 60
+  },
+  {
+    "id": "meet-guest-needs-phrase",
+    "word": "meet guest needs",
+    "baseWord": "needs",
+    "type": "phrase",
+    "meaning": "đáp ứng nhu cầu của khách",
+    "pronunciation": "/meet guest needs/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the meet guest needs carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đáp ứng nhu cầu của khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm meet guest needs",
+      "meet guest needs details",
+      "review meet guest needs"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "needs"
+    ],
+    "day": 60
+  },
+  {
+    "id": "offer-an-apology-phrase",
+    "word": "offer an apology",
+    "baseWord": "apology",
+    "type": "phrase",
+    "meaning": "đưa ra lời xin lỗi",
+    "pronunciation": "/offer an apology/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the offer an apology carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đưa ra lời xin lỗi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm offer an apology",
+      "offer an apology details",
+      "review offer an apology"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "apology"
+    ],
+    "day": 60
+  },
+  {
+    "id": "offer-compensation-phrase",
+    "word": "offer compensation",
+    "baseWord": "compensation",
+    "type": "phrase",
+    "meaning": "đề nghị bồi thường",
+    "pronunciation": "/offer compensation/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the offer compensation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đề nghị bồi thường cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm offer compensation",
+      "offer compensation details",
+      "review offer compensation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "compensation"
+    ],
+    "day": 60
+  },
+  {
+    "id": "politely-adverb",
+    "word": "politely",
+    "baseWord": "politely",
+    "type": "adverb",
+    "meaning": "một cách lịch sự",
+    "pronunciation": "/politely/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét một cách lịch sự cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm politely",
+      "politely details",
+      "review politely"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "politely"
+    ],
+    "day": 60
+  },
+  {
+    "id": "prepare-verb",
+    "word": "prepare",
+    "baseWord": "prepare",
+    "type": "verb",
+    "meaning": "chuẩn bị",
+    "pronunciation": "/prepare/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the prepare carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chuẩn bị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm prepare",
+      "prepare details",
+      "review prepare"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "prepare"
+    ],
+    "day": 60
+  },
+  {
+    "id": "recommend-a-dish-phrase",
+    "word": "recommend a dish",
+    "baseWord": "dish",
+    "type": "phrase",
+    "meaning": "đề xuất món ăn",
+    "pronunciation": "/recommend a dish/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the recommend a dish carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đề xuất món ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm recommend a dish",
+      "recommend a dish details",
+      "review recommend a dish"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "dish"
+    ],
+    "day": 60
+  },
+  {
+    "id": "refill-verb",
+    "word": "refill",
+    "baseWord": "refill",
+    "type": "verb",
+    "meaning": "châm thêm",
+    "pronunciation": "/refill/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the refill carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét châm thêm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm refill",
+      "refill details",
+      "review refill"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "refill"
+    ],
+    "day": 60
+  },
+  {
+    "id": "reserve-a-table-phrase",
+    "word": "reserve a table",
+    "baseWord": "table",
+    "type": "phrase",
+    "meaning": "đặt bàn",
+    "pronunciation": "/reserve a table/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reserve a table carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đặt bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reserve a table",
+      "reserve a table details",
+      "review reserve a table"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "table"
+    ],
+    "day": 60
+  },
+  {
+    "id": "sanitize-a-surface-phrase",
+    "word": "sanitize a surface",
+    "baseWord": "surface",
+    "type": "phrase",
+    "meaning": "khử trùng bề mặt",
+    "pronunciation": "/sanitize a surface/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sanitize a surface carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khử trùng bề mặt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sanitize a surface",
+      "sanitize a surface details",
+      "review sanitize a surface"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "surface"
+    ],
+    "day": 60
+  },
+  {
+    "id": "seat-guests-phrase",
+    "word": "seat guests",
+    "baseWord": "guests",
+    "type": "phrase",
+    "meaning": "xếp chỗ cho khách",
+    "pronunciation": "/seat guests/",
+    "topic": "Hospitality & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the seat guests carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét xếp chỗ cho khách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm seat guests",
+      "seat guests details",
+      "review seat guests"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guests"
+    ],
+    "day": 60
+  },
+  {
+    "id": "serve-verb",
+    "word": "serve",
+    "baseWord": "serve",
+    "type": "verb",
+    "meaning": "phục vụ",
+    "pronunciation": "/serve/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the serve carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm serve",
+      "serve details",
+      "review serve"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "serve"
+    ],
+    "day": 60
+  },
+  {
+    "id": "service-minded-adjective",
+    "word": "service-minded",
+    "baseWord": "service-minded",
+    "type": "adjective",
+    "meaning": "có tinh thần phục vụ",
+    "pronunciation": "/service-minded/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét có tinh thần phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm service-minded",
+      "service-minded details",
+      "review service-minded"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "service-minded"
+    ],
+    "day": 60
+  },
+  {
+    "id": "without-making-guests-wait-phrase",
+    "word": "without making guests wait",
+    "baseWord": "wait",
+    "type": "phrase",
+    "meaning": "không để khách phải chờ",
+    "pronunciation": "/without making guests wait/",
+    "topic": "Hospitality & Dining",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the without making guests wait carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét không để khách phải chờ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm without making guests wait",
+      "without making guests wait details",
+      "review without making guests wait"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "wait"
+    ],
+    "day": 60
+  }
+]

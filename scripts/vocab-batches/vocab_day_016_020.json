@@ -1,0 +1,3019 @@
+[
+  {
+    "id": "appraisal-noun",
+    "word": "appraisal",
+    "baseWord": "appraise",
+    "type": "noun",
+    "meaning": "sự đánh giá, sự nhận xét chuyên môn",
+    "pronunciation": "/əˈpreɪzl/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "She received an excellent performance appraisal from her supervisor.",
+    "exampleVi": "Cô ấy đã nhận được sự đánh giá hiệu suất xuất sắc từ người giám sát của mình.",
+    "collocations": [
+      "performance appraisal",
+      "annual appraisal",
+      "appraisal system"
+    ],
+    "synonyms": [
+      "evaluation",
+      "assessment",
+      "rating"
+    ],
+    "wordFamily": [
+      "appraise",
+      "appraiser"
+    ],
+    "day": 16
+  },
+  {
+    "id": "blacklist-verb",
+    "word": "blacklist",
+    "baseWord": "blacklist",
+    "type": "verb",
+    "meaning": "đưa vào danh sách đen",
+    "pronunciation": "/ˈblæklɪst/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The former contractor was blacklisted due to multiple project delays.",
+    "exampleVi": "Nhà thầu trước đây đã bị đưa vào danh sách đen do nhiều lần chậm trễ dự án.",
+    "collocations": [
+      "blacklist a contractor",
+      "be blacklisted by"
+    ],
+    "synonyms": [
+      "ban",
+      "exclude"
+    ],
+    "wordFamily": [
+      "blacklist-noun"
+    ],
+    "day": 16
+  },
+  {
+    "id": "competent-adjective",
+    "word": "competent",
+    "baseWord": "compete",
+    "type": "adjective",
+    "meaning": "có năng lực, thành thạo",
+    "pronunciation": "/ˈkɑːmpɪtənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We need a competent accountant to manage our tax audit.",
+    "exampleVi": "Chúng tôi cần một kế toán viên có năng lực để quản lý việc kiểm toán thuế của mình.",
+    "collocations": [
+      "competent staff",
+      "highly competent",
+      "competent authority"
+    ],
+    "synonyms": [
+      "capable",
+      "skilled",
+      "proficient"
+    ],
+    "wordFamily": [
+      "competence",
+      "competently",
+      "compete"
+    ],
+    "day": 16
+  },
+  {
+    "id": "credentials-noun",
+    "word": "credentials",
+    "baseWord": "credential",
+    "type": "noun",
+    "meaning": "bằng cấp, chứng chỉ, thông tin xác thực",
+    "pronunciation": "/krəˈdenʃlz/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The search committee is reviewing the academic credentials of all candidates.",
+    "exampleVi": "Ủy ban tìm kiếm đang xem xét các bằng cấp học thuật của tất cả các ứng viên.",
+    "collocations": [
+      "academic credentials",
+      "excellent credentials",
+      "check credentials"
+    ],
+    "synonyms": [
+      "qualifications",
+      "certificates",
+      "references"
+    ],
+    "wordFamily": [],
+    "day": 16
+  },
+  {
+    "id": "endorse-verb",
+    "word": "endorse",
+    "baseWord": "endorse",
+    "type": "verb",
+    "meaning": "ủng hộ, xác nhận, chứng thực",
+    "pronunciation": "/inˈdɔːrs/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The union voted to endorse the proposed salary increase.",
+    "exampleVi": "Công đoàn đã bỏ phiếu ủng hộ mức tăng lương đề xuất.",
+    "collocations": [
+      "endorse a proposal",
+      "endorse a candidate",
+      "officially endorse"
+    ],
+    "synonyms": [
+      "support",
+      "approve",
+      "back"
+    ],
+    "wordFamily": [
+      "endorsement",
+      "endorser"
+    ],
+    "day": 16
+  },
+  {
+    "id": "headhunter-noun",
+    "word": "headhunter",
+    "baseWord": "headhunt",
+    "type": "noun",
+    "meaning": "chuyên viên săn đầu người, nhà tuyển dụng",
+    "pronunciation": "/ˈhedhʌntər/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The board hired a headhunter to find a new chief financial officer.",
+    "exampleVi": "Hội đồng quản trị đã thuê một chuyên viên săn đầu người để tìm một giám đốc tài chính mới.",
+    "collocations": [
+      "hire a headhunter",
+      "executive headhunter"
+    ],
+    "synonyms": [
+      "recruiter"
+    ],
+    "wordFamily": [
+      "headhunt"
+    ],
+    "day": 16
+  },
+  {
+    "id": "overtime-noun",
+    "word": "overtime",
+    "baseWord": "overtime",
+    "type": "noun",
+    "meaning": "giờ làm thêm, tiền làm thêm giờ",
+    "pronunciation": "/ˈoʊvərtaɪm/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees who work on weekends will receive overtime pay.",
+    "exampleVi": "Nhân viên làm việc vào cuối tuần sẽ nhận được tiền làm thêm giờ.",
+    "collocations": [
+      "work overtime",
+      "overtime pay",
+      "overtime hours"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 16
+  },
+  {
+    "id": "payroll-noun",
+    "word": "payroll",
+    "baseWord": "payroll",
+    "type": "noun",
+    "meaning": "bảng lương, danh sách phát lương",
+    "pronunciation": "/ˈpeɪroʊl/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The accounting department handles the monthly payroll.",
+    "exampleVi": "Bộ phận kế toán xử lý bảng lương hàng tháng.",
+    "collocations": [
+      "on the payroll",
+      "payroll department",
+      "payroll system"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 16
+  },
+  {
+    "id": "pension-noun",
+    "word": "pension",
+    "baseWord": "pension",
+    "type": "noun",
+    "meaning": "lương hưu, tiền trợ cấp hưu trí",
+    "pronunciation": "/ˈpenʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees contribute a percentage of their salary to their pension plan.",
+    "exampleVi": "Nhân viên đóng góp một tỷ lệ phần trăm tiền lương của họ vào kế hoạch lương hưu.",
+    "collocations": [
+      "pension plan",
+      "receive a pension",
+      "state pension"
+    ],
+    "synonyms": [
+      "retirement fund"
+    ],
+    "wordFamily": [
+      "pensioner"
+    ],
+    "day": 16
+  },
+  {
+    "id": "personnel-noun",
+    "word": "personnel",
+    "baseWord": "person",
+    "type": "noun",
+    "meaning": "nhân sự, toàn bộ nhân viên",
+    "pronunciation": "/ˌpɜːrsəˈnel/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All personnel must wear their security badges at all times.",
+    "exampleVi": "Toàn bộ nhân viên phải luôn đeo thẻ an ninh của họ.",
+    "collocations": [
+      "personnel department",
+      "personnel file",
+      "qualified personnel"
+    ],
+    "synonyms": [
+      "staff",
+      "workforce",
+      "employees"
+    ],
+    "wordFamily": [
+      "person",
+      "personal"
+    ],
+    "day": 16
+  },
+  {
+    "id": "probationary-adjective",
+    "word": "probationary",
+    "baseWord": "probation",
+    "type": "adjective",
+    "meaning": "tập sự, thử việc",
+    "pronunciation": "/proʊˈbeɪʃəneri/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "New hires are subject to a three-month probationary period.",
+    "exampleVi": "Nhân viên mới phải chịu thời gian thử việc kéo dài ba tháng.",
+    "collocations": [
+      "probationary period",
+      "probationary employee",
+      "probationary contract"
+    ],
+    "synonyms": [
+      "trial",
+      "test"
+    ],
+    "wordFamily": [
+      "probation"
+    ],
+    "day": 16
+  },
+  {
+    "id": "recruitment-noun",
+    "word": "recruitment",
+    "baseWord": "recruit",
+    "type": "noun",
+    "meaning": "sự tuyển dụng",
+    "pronunciation": "/rɪˈkruːtmənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company has launched a new recruitment campaign to hire engineers.",
+    "exampleVi": "Công ty đã phát động một chiến dịch tuyển dụng mới để thuê các kỹ sư.",
+    "collocations": [
+      "recruitment agency",
+      "recruitment process",
+      "recruitment drive"
+    ],
+    "synonyms": [
+      "hiring",
+      "employment"
+    ],
+    "wordFamily": [
+      "recruit",
+      "recruiter"
+    ],
+    "day": 16
+  },
+  {
+    "id": "remuneration-noun",
+    "word": "remuneration",
+    "baseWord": "remunerate",
+    "type": "noun",
+    "meaning": "tiền thù lao, tiền công",
+    "pronunciation": "/rɪˌmjuːnəˈreɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The remuneration package includes a base salary and annual bonuses.",
+    "exampleVi": "Gói tiền thù lao bao gồm lương cơ bản và các khoản tiền thưởng hàng năm.",
+    "collocations": [
+      "remuneration package",
+      "fair remuneration",
+      "direct remuneration"
+    ],
+    "synonyms": [
+      "compensation",
+      "salary",
+      "pay"
+    ],
+    "wordFamily": [
+      "remunerate",
+      "remunerative"
+    ],
+    "day": 16
+  },
+  {
+    "id": "resignation-noun",
+    "word": "resignation",
+    "baseWord": "resign",
+    "type": "noun",
+    "meaning": "sự từ chức, đơn xin thôi việc",
+    "pronunciation": "/ˌrezɪɡˈneɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager submitted his letter of resignation yesterday.",
+    "exampleVi": "Người quản lý đã nộp đơn xin thôi việc vào ngày hôm qua.",
+    "collocations": [
+      "letter of resignation",
+      "tender one's resignation",
+      "announce resignation"
+    ],
+    "synonyms": [
+      "departure",
+      "retirement"
+    ],
+    "wordFamily": [
+      "resign",
+      "resigned"
+    ],
+    "day": 16
+  },
+  {
+    "id": "retrenchment-noun",
+    "word": "retrenchment",
+    "baseWord": "retrench",
+    "type": "noun",
+    "meaning": "sự cắt giảm nhân sự, sự giảm chi tiêu",
+    "pronunciation": "/rɪˈtrentʃmənt/",
+    "topic": "HR & Employment",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Due to financial difficulties, the company announced a policy of retrenchment.",
+    "exampleVi": "Do khó khăn tài chính, công ty đã công bố chính sách cắt giảm nhân sự.",
+    "collocations": [
+      "policy of retrenchment",
+      "staff retrenchment"
+    ],
+    "synonyms": [
+      "downsizing",
+      "layoff",
+      "cutback"
+    ],
+    "wordFamily": [
+      "retrench"
+    ],
+    "day": 16
+  },
+  {
+    "id": "severance-noun",
+    "word": "severance",
+    "baseWord": "sever",
+    "type": "noun",
+    "meaning": "sự thôi việc, trợ cấp thôi việc",
+    "pronunciation": "/ˈsevərəns/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Laid-off workers will receive three months of severance pay.",
+    "exampleVi": "Công nhân bị sa thải sẽ nhận được ba tháng lương trợ cấp thôi việc.",
+    "collocations": [
+      "severance pay",
+      "severance package",
+      "severance agreement"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sever"
+    ],
+    "day": 16
+  },
+  {
+    "id": "shortlist-verb",
+    "word": "shortlist",
+    "baseWord": "shortlist",
+    "type": "verb",
+    "meaning": "đưa vào danh sách rút gọn",
+    "pronunciation": "/ˈʃɔːrtlɪst/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Three candidates were shortlisted for the final round of interviews.",
+    "exampleVi": "Ba ứng viên đã được đưa vào danh sách rút gọn cho vòng phỏng vấn cuối cùng.",
+    "collocations": [
+      "shortlist candidates",
+      "be shortlisted for",
+      "shortlist application"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "shortlist-noun"
+    ],
+    "day": 16
+  },
+  {
+    "id": "turnover-noun",
+    "word": "turnover",
+    "baseWord": "turnover",
+    "type": "noun",
+    "meaning": "tỷ lệ nghỉ việc, doanh thu",
+    "pronunciation": "/ˈtɜːrnoʊvər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store is struggling with a high employee turnover rate.",
+    "exampleVi": "Cửa hàng đang gặp khó khăn với tỷ lệ nghỉ việc của nhân viên cao.",
+    "collocations": [
+      "employee turnover",
+      "turnover rate",
+      "annual turnover"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 16
+  },
+  {
+    "id": "vacate-verb",
+    "word": "vacate",
+    "baseWord": "vacate",
+    "type": "verb",
+    "meaning": "bỏ trống, rời khỏi (vị trí/văn phòng)",
+    "pronunciation": "/vəˈkeɪt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "She will vacate her office by the end of the month.",
+    "exampleVi": "Cô ấy sẽ bỏ trống văn phòng của mình trước cuối tháng.",
+    "collocations": [
+      "vacate a position",
+      "vacate a room",
+      "vacate office"
+    ],
+    "synonyms": [
+      "leave",
+      "abandon",
+      "empty"
+    ],
+    "wordFamily": [
+      "vacancy",
+      "vacant"
+    ],
+    "day": 16
+  },
+  {
+    "id": "workplace-noun",
+    "word": "workplace",
+    "baseWord": "work",
+    "type": "noun",
+    "meaning": "nơi làm việc",
+    "pronunciation": "/ˈwɜːrkpleɪs/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Safety regulations must be strictly followed in the workplace.",
+    "exampleVi": "Các quy định an toàn phải được tuân thủ nghiêm ngặt tại nơi làm việc.",
+    "collocations": [
+      "in the workplace",
+      "workplace safety",
+      "modern workplace"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 16
+  },
+  {
+    "id": "allowance-noun",
+    "word": "allowance",
+    "baseWord": "allow",
+    "type": "noun",
+    "meaning": "tiền trợ cấp, phụ cấp",
+    "pronunciation": "/əˈlaʊəns/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The job offer includes a monthly housing allowance.",
+    "exampleVi": "Lời mời làm việc bao gồm một khoản phụ cấp nhà ở hàng tháng.",
+    "collocations": [
+      "travel allowance",
+      "housing allowance",
+      "daily allowance"
+    ],
+    "synonyms": [
+      "stipend",
+      "grant",
+      "subsidy"
+    ],
+    "wordFamily": [
+      "allow",
+      "allowable"
+    ],
+    "day": 17
+  },
+  {
+    "id": "bonus-noun",
+    "word": "bonus",
+    "baseWord": "bonus",
+    "type": "noun",
+    "meaning": "tiền thưởng",
+    "pronunciation": "/ˈboʊnəs/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees receive a performance bonus at the end of the year.",
+    "exampleVi": "Nhân viên nhận được tiền thưởng hiệu suất vào cuối năm.",
+    "collocations": [
+      "annual bonus",
+      "performance bonus",
+      "sign-on bonus"
+    ],
+    "synonyms": [
+      "incentive",
+      "reward"
+    ],
+    "wordFamily": [],
+    "day": 17
+  },
+  {
+    "id": "employee-noun",
+    "word": "employee",
+    "baseWord": "employ",
+    "type": "noun",
+    "meaning": "nhân viên, người lao động",
+    "pronunciation": "/ɪmˈplɔɪiː/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company has over five hundred full-time employees.",
+    "exampleVi": "Công ty có hơn năm trăm nhân viên toàn thời gian.",
+    "collocations": [
+      "full-time employee",
+      "employee benefits",
+      "employee handbook"
+    ],
+    "synonyms": [
+      "staff member",
+      "worker"
+    ],
+    "wordFamily": [
+      "employ",
+      "employer",
+      "employment"
+    ],
+    "day": 17
+  },
+  {
+    "id": "employer-noun",
+    "word": "employer",
+    "baseWord": "employ",
+    "type": "noun",
+    "meaning": "chủ lao động, người sử dụng lao động",
+    "pronunciation": "/ɪmˈplɔɪər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "As an employer, we strive to provide a safe working environment.",
+    "exampleVi": "Với tư cách là một người sử dụng lao động, chúng tôi cố gắng cung cấp một môi trường làm việc an toàn.",
+    "collocations": [
+      "equal opportunity employer",
+      "local employer",
+      "prospective employer"
+    ],
+    "synonyms": [
+      "boss",
+      "firm",
+      "owner"
+    ],
+    "wordFamily": [
+      "employ",
+      "employee",
+      "employment"
+    ],
+    "day": 17
+  },
+  {
+    "id": "freelancer-noun",
+    "word": "freelancer",
+    "baseWord": "freelance",
+    "type": "noun",
+    "meaning": "người làm tự do",
+    "pronunciation": "/ˈfriːlænsər/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired a freelancer to design our new website.",
+    "exampleVi": "Chúng tôi đã thuê một người làm tự do để thiết kế trang web mới của mình.",
+    "collocations": [
+      "work as a freelancer",
+      "hire a freelancer"
+    ],
+    "synonyms": [
+      "independent contractor"
+    ],
+    "wordFamily": [
+      "freelance-verb",
+      "freelance-adjective"
+    ],
+    "day": 17
+  },
+  {
+    "id": "incentive-noun",
+    "word": "incentive",
+    "baseWord": "incentive",
+    "type": "noun",
+    "meaning": "sự khuyến khích, động lực (kinh tế)",
+    "pronunciation": "/ɪnˈsentɪv/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The commission structure acts as an incentive for sales staff.",
+    "exampleVi": "Cơ cấu hoa hồng đóng vai trò như một động lực khuyến khích nhân viên bán hàng.",
+    "collocations": [
+      "financial incentive",
+      "tax incentive",
+      "incentive scheme"
+    ],
+    "synonyms": [
+      "motivation",
+      "stimulus",
+      "bonus"
+    ],
+    "wordFamily": [
+      "incentivize"
+    ],
+    "day": 17
+  },
+  {
+    "id": "internship-noun",
+    "word": "internship",
+    "baseWord": "intern",
+    "type": "noun",
+    "meaning": "kỳ thực tập, công việc thực tập",
+    "pronunciation": "/ˈɪntɜːrnʃɪp/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She applied for a summer internship at the marketing agency.",
+    "exampleVi": "Cô ấy đã nộp đơn xin thực tập mùa hè tại công ty tiếp thị.",
+    "collocations": [
+      "paid internship",
+      "summer internship",
+      "complete an internship"
+    ],
+    "synonyms": [
+      "training program"
+    ],
+    "wordFamily": [
+      "intern"
+    ],
+    "day": 17
+  },
+  {
+    "id": "interviewee-noun",
+    "word": "interviewee",
+    "baseWord": "interview",
+    "type": "noun",
+    "meaning": "người được phỏng vấn, ứng viên",
+    "pronunciation": "/ˌɪntərvjuˈiː/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The interviewee answered all questions with confidence.",
+    "exampleVi": "Người được phỏng vấn đã trả lời tất cả các câu hỏi một cách tự tin.",
+    "collocations": [
+      "potential interviewee",
+      "interviewee response"
+    ],
+    "synonyms": [
+      "candidate",
+      "applicant"
+    ],
+    "wordFamily": [
+      "interview",
+      "interviewer"
+    ],
+    "day": 17
+  },
+  {
+    "id": "interviewer-noun",
+    "word": "interviewer",
+    "baseWord": "interview",
+    "type": "noun",
+    "meaning": "người phỏng vấn",
+    "pronunciation": "/ˈɪntərvjuːər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The interviewer asked about my previous management experience.",
+    "exampleVi": "Người phỏng vấn đã hỏi về kinh nghiệm quản lý trước đây của tôi.",
+    "collocations": [
+      "experienced interviewer",
+      "panel interviewer",
+      "job interviewer"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "interview",
+      "interviewee"
+    ],
+    "day": 17
+  },
+  {
+    "id": "mentor-noun",
+    "word": "mentor",
+    "baseWord": "mentor",
+    "type": "noun",
+    "meaning": "người hướng dẫn, người cố vấn",
+    "pronunciation": "/ˈmentɔːr/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Each new employee is assigned a mentor for the first month.",
+    "exampleVi": "Mỗi nhân viên mới đều được chỉ định một người hướng dẫn trong tháng đầu tiên.",
+    "collocations": [
+      "act as a mentor",
+      "trusted mentor",
+      "business mentor"
+    ],
+    "synonyms": [
+      "advisor",
+      "guide",
+      "tutor"
+    ],
+    "wordFamily": [
+      "mentorship",
+      "mentor-verb"
+    ],
+    "day": 17
+  },
+  {
+    "id": "mentorship-noun",
+    "word": "mentorship",
+    "baseWord": "mentor",
+    "type": "noun",
+    "meaning": "mối quan hệ hướng dẫn, sự cố vấn",
+    "pronunciation": "/ˈmentɔːrʃɪp/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The mentorship program helped me develop my leadership skills.",
+    "exampleVi": "Chương trình cố vấn đã giúp tôi phát triển các kỹ năng lãnh đạo của mình.",
+    "collocations": [
+      "mentorship program",
+      "provide mentorship"
+    ],
+    "synonyms": [
+      "guidance",
+      "tutoring"
+    ],
+    "wordFamily": [
+      "mentor",
+      "mentor-verb"
+    ],
+    "day": 17
+  },
+  {
+    "id": "perk-noun",
+    "word": "perk",
+    "baseWord": "perk",
+    "type": "noun",
+    "meaning": "đặc quyền, bổng lộc thêm",
+    "pronunciation": "/pɜːrk/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Free gym membership is one of the perks of working at this firm.",
+    "exampleVi": "Thành viên phòng gym miễn phí là một trong những bổng lộc thêm khi làm việc tại công ty này.",
+    "collocations": [
+      "job perks",
+      "employee perks",
+      "perks of the job"
+    ],
+    "synonyms": [
+      "fringe benefit",
+      "privilege"
+    ],
+    "wordFamily": [],
+    "day": 17
+  },
+  {
+    "id": "qualified-adjective",
+    "word": "qualified",
+    "baseWord": "qualify",
+    "type": "adjective",
+    "meaning": "có trình độ, đủ năng lực",
+    "pronunciation": "/ˈkwɑːlɪfaɪd/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "He is highly qualified for the position of project manager.",
+    "exampleVi": "Anh ấy có trình độ chuyên môn cao cho vị trí quản lý dự án.",
+    "collocations": [
+      "highly qualified",
+      "qualified applicant",
+      "qualified personnel"
+    ],
+    "synonyms": [
+      "capable",
+      "competent",
+      "skilled"
+    ],
+    "wordFamily": [
+      "qualify",
+      "qualification"
+    ],
+    "day": 17
+  },
+  {
+    "id": "qualify-verb",
+    "word": "qualify",
+    "baseWord": "qualify",
+    "type": "verb",
+    "meaning": "đủ điều kiện, đủ trình độ",
+    "pronunciation": "/ˈkwɑːlɪfaɪ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "She needs to complete this certification to qualify for the promotion.",
+    "exampleVi": "Cô ấy cần hoàn thành chứng chỉ này để đủ điều kiện thăng chức.",
+    "collocations": [
+      "qualify for",
+      "qualify as",
+      "fully qualify"
+    ],
+    "synonyms": [
+      "fit",
+      "suit",
+      "meet requirements"
+    ],
+    "wordFamily": [
+      "qualification",
+      "qualified",
+      "qualifier"
+    ],
+    "day": 17
+  },
+  {
+    "id": "recruiter-noun",
+    "word": "recruiter",
+    "baseWord": "recruit",
+    "type": "noun",
+    "meaning": "nhà tuyển dụng, người tuyển mộ",
+    "pronunciation": "/rɪˈkruːtər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The recruiter contacted me about a new job opening.",
+    "exampleVi": "Nhà tuyển dụng đã liên hệ với tôi về một cơ hội việc làm mới.",
+    "collocations": [
+      "job recruiter",
+      "corporate recruiter",
+      "independent recruiter"
+    ],
+    "synonyms": [
+      "hiring manager",
+      "headhunter"
+    ],
+    "wordFamily": [
+      "recruit",
+      "recruitment"
+    ],
+    "day": 17
+  },
+  {
+    "id": "stipend-noun",
+    "word": "stipend",
+    "baseWord": "stipend",
+    "type": "noun",
+    "meaning": "lương học bổng, phụ cấp sinh hoạt",
+    "pronunciation": "/ˈstaɪpend/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The interns receive a small monthly stipend to cover travel expenses.",
+    "exampleVi": "Các thực tập sinh nhận được một khoản phụ cấp nhỏ hàng tháng để trang trải chi phí đi lại.",
+    "collocations": [
+      "monthly stipend",
+      "receive a stipend",
+      "modest stipend"
+    ],
+    "synonyms": [
+      "allowance",
+      "grant"
+    ],
+    "wordFamily": [],
+    "day": 17
+  },
+  {
+    "id": "trainee-noun",
+    "word": "trainee",
+    "baseWord": "train",
+    "type": "noun",
+    "meaning": "người được đào tạo, thực tập sinh",
+    "pronunciation": "/ˌtreɪˈniː/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The trainees are learning how to use the new database software.",
+    "exampleVi": "Các thực tập sinh đang học cách sử dụng phần mềm cơ sở dữ liệu mới.",
+    "collocations": [
+      "management trainee",
+      "trainee program",
+      "supervise a trainee"
+    ],
+    "synonyms": [
+      "apprentice",
+      "learner"
+    ],
+    "wordFamily": [
+      "train",
+      "trainer",
+      "training"
+    ],
+    "day": 17
+  },
+  {
+    "id": "trainer-noun",
+    "word": "trainer",
+    "baseWord": "train",
+    "type": "noun",
+    "meaning": "người đào tạo, huấn luyện viên",
+    "pronunciation": "/ˈtreɪnər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The corporate trainer introduced the new sales techniques.",
+    "exampleVi": "Người đào tạo doanh nghiệp đã giới thiệu các kỹ thuật bán hàng mới.",
+    "collocations": [
+      "corporate trainer",
+      "certified trainer",
+      "personal trainer"
+    ],
+    "synonyms": [
+      "instructor",
+      "coach"
+    ],
+    "wordFamily": [
+      "train",
+      "trainee",
+      "training"
+    ],
+    "day": 17
+  },
+  {
+    "id": "vacant-adjective",
+    "word": "vacant",
+    "baseWord": "vacate",
+    "type": "adjective",
+    "meaning": "trống, bỏ trống (vị trí/phòng)",
+    "pronunciation": "/ˈveɪkənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company has three vacant positions in the IT department.",
+    "exampleVi": "Công ty có ba vị trí còn trống trong bộ phận IT.",
+    "collocations": [
+      "vacant position",
+      "vacant post",
+      "remain vacant"
+    ],
+    "synonyms": [
+      "unoccupied",
+      "empty",
+      "free"
+    ],
+    "wordFamily": [
+      "vacate",
+      "vacancy"
+    ],
+    "day": 17
+  },
+  {
+    "id": "welfare-noun",
+    "word": "welfare",
+    "baseWord": "welfare",
+    "type": "noun",
+    "meaning": "phúc lợi, sự an sinh",
+    "pronunciation": "/ˈwelfer/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company has a department dedicated to employee welfare.",
+    "exampleVi": "Công ty có một bộ phận chuyên lo về phúc lợi cho nhân viên.",
+    "collocations": [
+      "employee welfare",
+      "social welfare",
+      "welfare benefits"
+    ],
+    "synonyms": [
+      "well-being",
+      "benefit"
+    ],
+    "wordFamily": [],
+    "day": 17
+  },
+  {
+    "id": "absenteeism-noun",
+    "word": "absenteeism",
+    "baseWord": "absent",
+    "type": "noun",
+    "meaning": "nạn vắng mặt không lý do, trốn việc",
+    "pronunciation": "/ˌæbsənˈtiːɪzəm/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "High levels of absenteeism can severely impact company productivity.",
+    "exampleVi": "Tỷ lệ trốn việc cao có thể ảnh hưởng nghiêm trọng đến năng suất của công ty.",
+    "collocations": [
+      "employee absenteeism",
+      "rate of absenteeism",
+      "reduce absenteeism"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "absent",
+      "absence",
+      "absentee"
+    ],
+    "day": 18
+  },
+  {
+    "id": "arbitration-noun",
+    "word": "arbitration",
+    "baseWord": "arbitrate",
+    "type": "noun",
+    "meaning": "sự phân xử, sự giải quyết bằng trọng tài",
+    "pronunciation": "/ˌɑːrbɪˈtreɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The dispute was submitted to arbitration to avoid a trial.",
+    "exampleVi": "Tranh chấp đã được đưa ra phân xử bằng trọng tài để tránh một phiên tòa.",
+    "collocations": [
+      "binding arbitration",
+      "submit to arbitration",
+      "arbitration clause"
+    ],
+    "synonyms": [
+      "mediation",
+      "settlement"
+    ],
+    "wordFamily": [
+      "arbitrate",
+      "arbitrary",
+      "arbitrator"
+    ],
+    "day": 18
+  },
+  {
+    "id": "dismissal-noun",
+    "word": "dismissal",
+    "baseWord": "dismiss",
+    "type": "noun",
+    "meaning": "sự sa thải, sự đuổi việc",
+    "pronunciation": "/dɪsˈmɪsl/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Unfair dismissal lawsuits can be costly for businesses.",
+    "exampleVi": "Các vụ kiện sa thải không công bằng có thể rất tốn kém cho các doanh nghiệp.",
+    "collocations": [
+      "unfair dismissal",
+      "wrongful dismissal",
+      "instant dismissal"
+    ],
+    "synonyms": [
+      "discharge",
+      "termination",
+      "firing"
+    ],
+    "wordFamily": [
+      "dismiss",
+      "dismissed",
+      "dismissive"
+    ],
+    "day": 18
+  },
+  {
+    "id": "downsizing-noun",
+    "word": "downsizing",
+    "baseWord": "downsize",
+    "type": "noun",
+    "meaning": "sự cắt giảm quy mô nhân sự",
+    "pronunciation": "/ˈdaʊnsaɪzɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Corporate downsizing led to the elimination of several management roles.",
+    "exampleVi": "Việc cắt giảm quy mô công ty đã dẫn đến việc loại bỏ một số vai trò quản lý.",
+    "collocations": [
+      "corporate downsizing",
+      "staff downsizing"
+    ],
+    "synonyms": [
+      "restructuring",
+      "retrenchment"
+    ],
+    "wordFamily": [
+      "downsize",
+      "downsized"
+    ],
+    "day": 18
+  },
+  {
+    "id": "fringe benefit-phrase",
+    "word": "fringe benefit",
+    "baseWord": "benefit",
+    "type": "phrase",
+    "meaning": "phúc lợi bổ sung, phúc lợi phụ",
+    "pronunciation": "/frɪndʒ ˈbenɪfɪt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Company cars and private health insurance are common fringe benefits.",
+    "exampleVi": "Xe hơi của công ty và bảo hiểm y tế tư nhân là những phúc lợi bổ sung phổ biến.",
+    "collocations": [
+      "fringe benefits package",
+      "provide fringe benefits",
+      "common fringe benefits"
+    ],
+    "synonyms": [
+      "perks",
+      "extra benefits"
+    ],
+    "wordFamily": [
+      "benefit"
+    ],
+    "day": 18
+  },
+  {
+    "id": "grievance-noun",
+    "word": "grievance",
+    "baseWord": "grieve",
+    "type": "noun",
+    "meaning": "lời phàn nàn, khiếu nại của công nhân",
+    "pronunciation": "/ˈɡriːvəns/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees can file a formal grievance if they feel they are treated unfairly.",
+    "exampleVi": "Nhân viên có thể nộp khiếu nại chính thức nếu họ cảm thấy mình bị đối xử không công bằng.",
+    "collocations": [
+      "file a grievance",
+      "grievance procedure",
+      "formal grievance"
+    ],
+    "synonyms": [
+      "complaint",
+      "objection"
+    ],
+    "wordFamily": [
+      "grieve",
+      "grievous"
+    ],
+    "day": 18
+  },
+  {
+    "id": "labor-noun",
+    "word": "labor",
+    "baseWord": "labor",
+    "type": "noun",
+    "meaning": "lao động, công nhân",
+    "pronunciation": "/ˈleɪbər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cost of skilled labor has increased significantly in the region.",
+    "exampleVi": "Chi phí lao động lành nghề đã tăng lên đáng kể trong khu vực.",
+    "collocations": [
+      "labor cost",
+      "labor shortage",
+      "skilled labor"
+    ],
+    "synonyms": [
+      "work",
+      "manpower",
+      "workforce"
+    ],
+    "wordFamily": [
+      "labor-verb",
+      "laborer",
+      "laborious"
+    ],
+    "day": 18
+  },
+  {
+    "id": "layoff-noun",
+    "word": "layoff",
+    "baseWord": "layoff",
+    "type": "noun",
+    "meaning": "sự sa thải nhân công",
+    "pronunciation": "/ˈleɪɔːf/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manufacturing plant announced temporary layoffs due to low demand.",
+    "exampleVi": "Nhà máy sản xuất đã công bố sa thải tạm thời do nhu cầu thấp.",
+    "collocations": [
+      "mass layoffs",
+      "temporary layoff",
+      "announce layoffs"
+    ],
+    "synonyms": [
+      "redundancy",
+      "downsizing"
+    ],
+    "wordFamily": [
+      "lay off"
+    ],
+    "day": 18
+  },
+  {
+    "id": "manpower-noun",
+    "word": "manpower",
+    "baseWord": "manpower",
+    "type": "noun",
+    "meaning": "nguồn nhân lực, nhân công",
+    "pronunciation": "/ˈmænpaʊər/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We lack the manpower to complete the project on time.",
+    "exampleVi": "Chúng tôi thiếu nhân lực để hoàn thành dự án đúng hạn.",
+    "collocations": [
+      "lack manpower",
+      "manpower shortage",
+      "increase manpower"
+    ],
+    "synonyms": [
+      "workforce",
+      "personnel",
+      "staff"
+    ],
+    "wordFamily": [],
+    "day": 18
+  },
+  {
+    "id": "maternity leave-phrase",
+    "word": "maternity leave",
+    "baseWord": "maternity leave",
+    "type": "phrase",
+    "meaning": "nghỉ thai sản (cho mẹ)",
+    "pronunciation": "/məˈtɜːrnəti liːv/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She will go on maternity leave starting next month.",
+    "exampleVi": "Cô ấy sẽ nghỉ thai sản bắt đầu từ tháng tới.",
+    "collocations": [
+      "go on maternity leave",
+      "paid maternity leave",
+      "maternity leave benefit"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 18
+  },
+  {
+    "id": "mediation-noun",
+    "word": "mediation",
+    "baseWord": "mediate",
+    "type": "noun",
+    "meaning": "sự hòa giải, sự làm trung gian",
+    "pronunciation": "/ˌmiːdiˈeɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The contract dispute was settled through mediation.",
+    "exampleVi": "Tranh chấp hợp đồng đã được dàn xếp thông qua hòa giải.",
+    "collocations": [
+      "settle through mediation",
+      "mediation services",
+      "mediation process"
+    ],
+    "synonyms": [
+      "arbitration",
+      "conciliation"
+    ],
+    "wordFamily": [
+      "mediate",
+      "mediator",
+      "mediatory"
+    ],
+    "day": 18
+  },
+  {
+    "id": "paternity leave-phrase",
+    "word": "paternity leave",
+    "baseWord": "paternity leave",
+    "type": "phrase",
+    "meaning": "nghỉ thai sản (cho bố)",
+    "pronunciation": "/pəˈtɜːrnəti liːv/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company offers two weeks of paid paternity leave to new fathers.",
+    "exampleVi": "Công ty cung cấp hai tuần nghỉ thai sản có lương cho các ông bố mới.",
+    "collocations": [
+      "take paternity leave",
+      "paid paternity leave"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 18
+  },
+  {
+    "id": "redundancy-noun",
+    "word": "redundancy",
+    "baseWord": "redundant",
+    "type": "noun",
+    "meaning": "sự sa thải do dư thừa nhân viên",
+    "pronunciation": "/rɪˈdʌndənsi/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many workers face redundancy due to corporate restructuring.",
+    "exampleVi": "Nhiều công nhân đối mặt với việc bị sa thải do tái cấu trúc doanh nghiệp.",
+    "collocations": [
+      "redundancy pay",
+      "redundancy package",
+      "compulsory redundancy"
+    ],
+    "synonyms": [
+      "layoff",
+      "dismissal"
+    ],
+    "wordFamily": [
+      "redundant"
+    ],
+    "day": 18
+  },
+  {
+    "id": "sabbatical-noun",
+    "word": "sabbatical",
+    "baseWord": "sabbatical",
+    "type": "noun",
+    "meaning": "kỳ nghỉ phép dài hạn (để học tập/nghiên cứu)",
+    "pronunciation": "/səˈbætɪkl/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The professor is taking a sabbatical to write his new book.",
+    "exampleVi": "Vị giáo sư đang xin nghỉ phép dài hạn để viết cuốn sách mới của mình.",
+    "collocations": [
+      "take a sabbatical",
+      "one-year sabbatical",
+      "academic sabbatical"
+    ],
+    "synonyms": [
+      "leave of absence",
+      "rest"
+    ],
+    "wordFamily": [],
+    "day": 18
+  },
+  {
+    "id": "sick leave-phrase",
+    "word": "sick leave",
+    "baseWord": "sick leave",
+    "type": "phrase",
+    "meaning": "nghỉ ốm",
+    "pronunciation": "/sɪk liːv/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He had to take sick leave after catching the flu.",
+    "exampleVi": "Anh ấy đã phải nghỉ ốm sau khi bị cúm.",
+    "collocations": [
+      "take sick leave",
+      "paid sick leave",
+      "on sick leave"
+    ],
+    "synonyms": [],
+    "wordFamily": [],
+    "day": 18
+  },
+  {
+    "id": "strike-noun",
+    "word": "strike",
+    "baseWord": "strike",
+    "type": "noun",
+    "meaning": "cuộc đình công",
+    "pronunciation": "/straɪk/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Workers went on strike to protest poor working conditions.",
+    "exampleVi": "Công nhân đã đình công để phản đối điều kiện làm việc tồi tệ.",
+    "collocations": [
+      "go on strike",
+      "strike action",
+      "call a strike"
+    ],
+    "synonyms": [
+      "walkout",
+      "boycott"
+    ],
+    "wordFamily": [
+      "strike-verb"
+    ],
+    "day": 18
+  },
+  {
+    "id": "superannuation-noun",
+    "word": "superannuation",
+    "baseWord": "annuity",
+    "type": "noun",
+    "meaning": "quỹ hưu trí, tiền hưu trí",
+    "pronunciation": "/ˌsuːpərˌænjuˈeɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The government announced changes to the superannuation scheme regulations.",
+    "exampleVi": "Chính phủ đã công bố các thay đổi đối với quy định về chương trình hưu trí.",
+    "collocations": [
+      "superannuation fund",
+      "superannuation scheme",
+      "pay superannuation"
+    ],
+    "synonyms": [
+      "pension",
+      "retirement fund"
+    ],
+    "wordFamily": [
+      "superannuated"
+    ],
+    "day": 18
+  },
+  {
+    "id": "termination-noun",
+    "word": "termination",
+    "baseWord": "terminate",
+    "type": "noun",
+    "meaning": "sự chấm dứt hợp đồng, sự thôi việc",
+    "pronunciation": "/ˌtɜːrmɪˈneɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The contract includes a clause regarding early termination.",
+    "exampleVi": "Hợp đồng bao gồm một điều khoản liên quan đến việc chấm dứt hợp đồng trước hạn.",
+    "collocations": [
+      "termination of contract",
+      "termination notice",
+      "termination clause"
+    ],
+    "synonyms": [
+      "ending",
+      "conclusion",
+      "dismissal"
+    ],
+    "wordFamily": [
+      "terminate",
+      "terminated",
+      "terminator"
+    ],
+    "day": 18
+  },
+  {
+    "id": "union-noun",
+    "word": "union",
+    "baseWord": "unite",
+    "type": "noun",
+    "meaning": "công đoàn, liên đoàn lao động",
+    "pronunciation": "/ˈjuːniən/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The labor union negotiated a new contract with management.",
+    "exampleVi": "Công đoàn lao động đã đàm phán một hợp đồng mới với ban quản lý.",
+    "collocations": [
+      "labor union",
+      "union member",
+      "union representative"
+    ],
+    "synonyms": [
+      "association",
+      "alliance",
+      "coalition"
+    ],
+    "wordFamily": [
+      "unite",
+      "unity",
+      "unionist"
+    ],
+    "day": 18
+  },
+  {
+    "id": "workload-noun",
+    "word": "workload",
+    "baseWord": "work",
+    "type": "noun",
+    "meaning": "khối lượng công việc",
+    "pronunciation": "/ˈwɜːrkloʊd/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager redistribution tasks to reduce the team's workload.",
+    "exampleVi": "Người quản lý phân phối lại nhiệm vụ để giảm bớt khối lượng công việc của nhóm.",
+    "collocations": [
+      "heavy workload",
+      "manage workload",
+      "reduce workload"
+    ],
+    "synonyms": [
+      "burden",
+      "tasks"
+    ],
+    "wordFamily": [
+      "work"
+    ],
+    "day": 18
+  },
+  {
+    "id": "appraise-verb",
+    "word": "appraise",
+    "baseWord": "appraise",
+    "type": "verb",
+    "meaning": "đánh giá, định giá",
+    "pronunciation": "/əˈpreɪz/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Supervisors meet with employees to appraise their annual performance.",
+    "exampleVi": "Người giám sát gặp gỡ nhân viên để đánh giá hiệu suất hàng năm của họ.",
+    "collocations": [
+      "appraise performance",
+      "appraise property",
+      "objectively appraise"
+    ],
+    "synonyms": [
+      "evaluate",
+      "assess",
+      "rate"
+    ],
+    "wordFamily": [
+      "appraisal",
+      "appraiser"
+    ],
+    "day": 19
+  },
+  {
+    "id": "assess-verb",
+    "word": "assess",
+    "baseWord": "assess",
+    "type": "verb",
+    "meaning": "đánh giá, ước tính",
+    "pronunciation": "/əˈsɛs/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We need to assess the candidates' communication skills during the interview.",
+    "exampleVi": "Chúng tôi cần đánh giá kỹ năng giao tiếp của các ứng viên trong buổi phỏng vấn.",
+    "collocations": [
+      "assess skills",
+      "assess progress",
+      "assess damages"
+    ],
+    "synonyms": [
+      "evaluate",
+      "examine",
+      "appraise"
+    ],
+    "wordFamily": [
+      "assessment",
+      "assessor"
+    ],
+    "day": 19
+  },
+  {
+    "id": "assessment-noun",
+    "word": "assessment",
+    "baseWord": "assess",
+    "type": "noun",
+    "meaning": "sự đánh giá, sự ước định",
+    "pronunciation": "/əˈsɛsmənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager completed a detailed assessment of the new team member.",
+    "exampleVi": "Người quản lý đã hoàn thành một bản đánh giá chi tiết về thành viên mới trong nhóm.",
+    "collocations": [
+      "needs assessment",
+      "detailed assessment",
+      "conduct an assessment"
+    ],
+    "synonyms": [
+      "evaluation",
+      "appraisal",
+      "judgment"
+    ],
+    "wordFamily": [
+      "assess",
+      "assessor"
+    ],
+    "day": 19
+  },
+  {
+    "id": "demote-verb",
+    "word": "demote",
+    "baseWord": "demote",
+    "type": "verb",
+    "meaning": "giáng chức, hạ bậc",
+    "pronunciation": "/ˌdiːˈmoʊt/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The supervisor was demoted due to poor performance.",
+    "exampleVi": "Người giám sát đã bị giáng chức do hiệu suất làm việc kém.",
+    "collocations": [
+      "demote to",
+      "demote a supervisor"
+    ],
+    "synonyms": [
+      "downgrade",
+      "relegate"
+    ],
+    "wordFamily": [
+      "demotion"
+    ],
+    "day": 19
+  },
+  {
+    "id": "demotion-noun",
+    "word": "demotion",
+    "baseWord": "demote",
+    "type": "noun",
+    "meaning": "sự giáng chức",
+    "pronunciation": "/ˌdiːˈmoʊʃn/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "An employee has the right to appeal against their demotion.",
+    "exampleVi": "Nhân viên có quyền kháng cáo chống lại việc bị giáng chức.",
+    "collocations": [
+      "face demotion",
+      "appeal a demotion"
+    ],
+    "synonyms": [
+      "downgrade",
+      "relegation"
+    ],
+    "wordFamily": [
+      "demote"
+    ],
+    "day": 19
+  },
+  {
+    "id": "evaluation-noun",
+    "word": "evaluation",
+    "baseWord": "evaluate",
+    "type": "noun",
+    "meaning": "sự đánh giá, sự nhận xét",
+    "pronunciation": "/ɪˌvæljuˈeɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The annual evaluation determines employee bonuses.",
+    "exampleVi": "Bản đánh giá hàng năm quyết định tiền thưởng của nhân viên.",
+    "collocations": [
+      "annual evaluation",
+      "performance evaluation",
+      "written evaluation"
+    ],
+    "synonyms": [
+      "assessment",
+      "appraisal"
+    ],
+    "wordFamily": [
+      "evaluate",
+      "evaluative"
+    ],
+    "day": 19
+  },
+  {
+    "id": "headhunt-verb",
+    "word": "headhunt",
+    "baseWord": "headhunt",
+    "type": "verb",
+    "meaning": "săn đầu người, tuyển dụng nhân sự cấp cao",
+    "pronunciation": "/ˈhedhʌnt/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She was headhunted by a rival company for a senior executive position.",
+    "exampleVi": "Cô ấy đã được một công ty đối thủ săn đầu người cho một vị trí điều hành cấp cao.",
+    "collocations": [
+      "be headhunted by",
+      "headhunt executives"
+    ],
+    "synonyms": [
+      "recruit"
+    ],
+    "wordFamily": [
+      "headhunter"
+    ],
+    "day": 19
+  },
+  {
+    "id": "headquarters-noun",
+    "word": "headquarters",
+    "baseWord": "quarter",
+    "type": "noun",
+    "meaning": "trụ sở chính",
+    "pronunciation": "/ˈhedkwɔːrtərz/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's headquarters are located in New York City.",
+    "exampleVi": "Trụ sở chính của công ty nằm ở thành phố New York.",
+    "collocations": [
+      "corporate headquarters",
+      "relocate headquarters",
+      "at headquarters"
+    ],
+    "synonyms": [
+      "head office",
+      "main office"
+    ],
+    "wordFamily": [],
+    "day": 19
+  },
+  {
+    "id": "job description-phrase",
+    "word": "job description",
+    "baseWord": "description",
+    "type": "phrase",
+    "meaning": "bản mô tả công việc",
+    "pronunciation": "/dʒɑːb dɪˈskrɪpʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Read the job description carefully before submitting your application.",
+    "exampleVi": "Đọc kỹ bản mô tả công việc trước khi nộp đơn đăng ký của bạn.",
+    "collocations": [
+      "detailed job description",
+      "write a job description",
+      "match the job description"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "describe",
+      "description"
+    ],
+    "day": 19
+  },
+  {
+    "id": "labor union-phrase",
+    "word": "labor union",
+    "baseWord": "union",
+    "type": "phrase",
+    "meaning": "công đoàn lao động",
+    "pronunciation": "/ˈleɪbər ˈjuːniən/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The labor union organized a meeting to discuss safety demands.",
+    "exampleVi": "Công đoàn lao động đã tổ chức một cuộc họp để thảo luận về các yêu cầu an toàn.",
+    "collocations": [
+      "join a labor union",
+      "labor union representative",
+      "labor union contract"
+    ],
+    "synonyms": [
+      "trade union"
+    ],
+    "wordFamily": [
+      "union"
+    ],
+    "day": 19
+  },
+  {
+    "id": "laborer-noun",
+    "word": "laborer",
+    "baseWord": "labor",
+    "type": "noun",
+    "meaning": "người lao động chân tay",
+    "pronunciation": "/ˈleɪbərər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The construction site is hiring skilled laborers for the project.",
+    "exampleVi": "Công trường xây dựng đang thuê những người lao động lành nghề cho dự án.",
+    "collocations": [
+      "skilled laborer",
+      "manual laborer",
+      "agricultural laborer"
+    ],
+    "synonyms": [
+      "worker",
+      "hand"
+    ],
+    "wordFamily": [
+      "labor",
+      "laborious"
+    ],
+    "day": 19
+  },
+  {
+    "id": "payroll list-phrase",
+    "word": "payroll list",
+    "baseWord": "payroll list",
+    "type": "phrase",
+    "meaning": "danh sách bảng lương",
+    "pronunciation": "/ˈpeɪroʊl lɪst/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please update the payroll list with the names of the new hires.",
+    "exampleVi": "Vui lòng cập nhật danh sách bảng lương với tên của các nhân viên mới tuyển dụng.",
+    "collocations": [
+      "update payroll list",
+      "on the payroll list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "payroll"
+    ],
+    "day": 19
+  },
+  {
+    "id": "promote-verb",
+    "word": "promote",
+    "baseWord": "promote",
+    "type": "verb",
+    "meaning": "thăng chức, quảng bá",
+    "pronunciation": "/prəˈmoʊt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "He was promoted to senior sales representative last month.",
+    "exampleVi": "Anh ấy đã được thăng chức lên đại diện bán hàng cấp cao vào tháng trước.",
+    "collocations": [
+      "promote to manager",
+      "promote a product",
+      "heavily promote"
+    ],
+    "synonyms": [
+      "advance",
+      "elevate",
+      "upgrade"
+    ],
+    "wordFamily": [
+      "promotion",
+      "promoter",
+      "promotional"
+    ],
+    "day": 19
+  },
+  {
+    "id": "recommend-verb",
+    "word": "recommend",
+    "baseWord": "recommend",
+    "type": "verb",
+    "meaning": "khuyên, giới thiệu, đề xuất",
+    "pronunciation": "/ˌrekəˈmend/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "My former boss agreed to recommend me for the senior developer position.",
+    "exampleVi": "Sếp cũ của tôi đã đồng ý giới thiệu tôi cho vị trí nhà phát triển cao cấp.",
+    "collocations": [
+      "highly recommend",
+      "recommend someone for",
+      "recommend changes"
+    ],
+    "synonyms": [
+      "suggest",
+      "endorse",
+      "propose"
+    ],
+    "wordFamily": [
+      "recommendation",
+      "recommended"
+    ],
+    "day": 19
+  },
+  {
+    "id": "referee-noun",
+    "word": "referee",
+    "baseWord": "referee",
+    "type": "noun",
+    "meaning": "người tham chiếu, người giới thiệu",
+    "pronunciation": "/ˌrefəˈriː/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Applicants should list the contact details of two professional referees.",
+    "exampleVi": "Các ứng viên nên liệt kê chi tiết liên hệ của hai người tham chiếu chuyên môn.",
+    "collocations": [
+      "professional referee",
+      "academic referee",
+      "list as a referee"
+    ],
+    "synonyms": [
+      "reference",
+      "recommendation"
+    ],
+    "wordFamily": [
+      "referee-verb"
+    ],
+    "day": 19
+  },
+  {
+    "id": "reference letter-phrase",
+    "word": "reference letter",
+    "baseWord": "letter",
+    "type": "phrase",
+    "meaning": "thư giới thiệu",
+    "pronunciation": "/ˈrefərəns ˈletər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You need to submit a reference letter from your previous employer.",
+    "exampleVi": "Bạn cần nộp thư giới thiệu từ chủ lao động trước đây của bạn.",
+    "collocations": [
+      "submit a reference letter",
+      "provide a reference letter",
+      "request a reference letter"
+    ],
+    "synonyms": [
+      "recommendation letter"
+    ],
+    "wordFamily": [
+      "reference"
+    ],
+    "day": 19
+  },
+  {
+    "id": "relocate-verb",
+    "word": "relocate",
+    "baseWord": "relocate",
+    "type": "verb",
+    "meaning": "chuyển địa điểm, di dời (văn phòng/nhà cửa)",
+    "pronunciation": "/ˌriːˈloʊkeɪt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The company offered to pay all expenses if I relocate to Chicago.",
+    "exampleVi": "Công ty đề nghị thanh toán mọi chi phí nếu tôi chuyển đến Chicago.",
+    "collocations": [
+      "relocate to",
+      "willing to relocate",
+      "relocate offices"
+    ],
+    "synonyms": [
+      "move",
+      "transfer"
+    ],
+    "wordFamily": [
+      "relocation"
+    ],
+    "day": 19
+  },
+  {
+    "id": "relocation-noun",
+    "word": "relocation",
+    "baseWord": "relocate",
+    "type": "noun",
+    "meaning": "sự chuyển địa điểm, di dời",
+    "pronunciation": "/ˌriːloʊˈkeɪʃn/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The relocation of the headquarters will take about six months.",
+    "exampleVi": "Việc di dời trụ sở chính sẽ mất khoảng sáu tháng.",
+    "collocations": [
+      "relocation expenses",
+      "office relocation",
+      "corporate relocation"
+    ],
+    "synonyms": [
+      "move",
+      "transfer"
+    ],
+    "wordFamily": [
+      "relocate"
+    ],
+    "day": 19
+  },
+  {
+    "id": "retiree-noun",
+    "word": "retiree",
+    "baseWord": "retire",
+    "type": "noun",
+    "meaning": "người nghỉ hưu",
+    "pronunciation": "/rɪˌtaɪəˈriː/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The seminar offers financial planning advice for recent retirees.",
+    "exampleVi": "Buổi thảo luận chuyên đề cung cấp lời khuyên lập kế hoạch tài chính cho những người mới nghỉ hưu.",
+    "collocations": [
+      "recent retiree",
+      "retiree benefits"
+    ],
+    "synonyms": [
+      "pensioner"
+    ],
+    "wordFamily": [
+      "retire",
+      "retirement"
+    ],
+    "day": 19
+  },
+  {
+    "id": "retirement-noun",
+    "word": "retirement",
+    "baseWord": "retire",
+    "type": "noun",
+    "meaning": "sự nghỉ hưu",
+    "pronunciation": "/rɪˈtaɪərmənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He announced his retirement after thirty years of service.",
+    "exampleVi": "Ông ấy đã thông báo nghỉ hưu sau ba mươi năm cống hiến.",
+    "collocations": [
+      "early retirement",
+      "retirement age",
+      "retirement party"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "retire",
+      "retiree"
+    ],
+    "day": 19
+  },
+  {
+    "id": "accomplish-verb",
+    "word": "accomplish",
+    "baseWord": "accomplish",
+    "type": "verb",
+    "meaning": "hoàn thành, đạt được",
+    "pronunciation": "/əˈkɑːmplɪʃ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We can accomplish all tasks if we cooperate effectively.",
+    "exampleVi": "Chúng ta có thể hoàn thành mọi nhiệm vụ nếu hợp tác hiệu quả.",
+    "collocations": [
+      "accomplish a task",
+      "accomplish goals",
+      "easily accomplish"
+    ],
+    "synonyms": [
+      "achieve",
+      "complete",
+      "fulfill"
+    ],
+    "wordFamily": [
+      "accomplishment",
+      "accomplished"
+    ],
+    "day": 20
+  },
+  {
+    "id": "accomplishment-noun",
+    "word": "accomplishment",
+    "baseWord": "accomplish",
+    "type": "noun",
+    "meaning": "thành tựu, sự hoàn thành",
+    "pronunciation": "/əˈkɑːmplɪʃmənt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The successful launch of the app was a major accomplishment for the team.",
+    "exampleVi": "Việc ra mắt thành công ứng dụng là một thành tựu lớn của nhóm.",
+    "collocations": [
+      "major accomplishment",
+      "outstanding accomplishment",
+      "sense of accomplishment"
+    ],
+    "synonyms": [
+      "achievement",
+      "feat",
+      "success"
+    ],
+    "wordFamily": [
+      "accomplish",
+      "accomplished"
+    ],
+    "day": 20
+  },
+  {
+    "id": "competence-noun",
+    "word": "competence",
+    "baseWord": "compete",
+    "type": "noun",
+    "meaning": "năng lực, khả năng",
+    "pronunciation": "/ˈkɑːmpɪtəns/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The evaluation test measures the technical competence of applicants.",
+    "exampleVi": "Bài kiểm tra đánh giá đo lường năng lực kỹ thuật của các ứng viên.",
+    "collocations": [
+      "technical competence",
+      "professional competence",
+      "core competence"
+    ],
+    "synonyms": [
+      "capability",
+      "ability",
+      "skill"
+    ],
+    "wordFamily": [
+      "competent",
+      "competently",
+      "competition"
+    ],
+    "day": 20
+  },
+  {
+    "id": "credentialing-noun",
+    "word": "credentialing",
+    "baseWord": "credential",
+    "type": "noun",
+    "meaning": "sự thẩm định và cấp chứng chỉ hành nghề",
+    "pronunciation": "/krəˈdenʃəlɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The hospital is streamlining its doctor credentialing process.",
+    "exampleVi": "Bệnh viện đang tối giản hóa quy trình thẩm định cấp chứng chỉ hành nghề bác sĩ.",
+    "collocations": [
+      "credentialing process",
+      "professional credentialing"
+    ],
+    "synonyms": [
+      "certification",
+      "accreditation"
+    ],
+    "wordFamily": [
+      "credentials"
+    ],
+    "day": 20
+  },
+  {
+    "id": "expertise-noun",
+    "word": "expertise",
+    "baseWord": "expert",
+    "type": "noun",
+    "meaning": "sự chuyên môn, kiến thức chuyên sâu",
+    "pronunciation": "/ˌekspɜːrˈtiːz/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "She brings a wealth of marketing expertise to the team.",
+    "exampleVi": "Cô ấy mang lại rất nhiều kiến thức chuyên môn tiếp thị cho nhóm.",
+    "collocations": [
+      "technical expertise",
+      "area of expertise",
+      "professional expertise"
+    ],
+    "synonyms": [
+      "knowledge",
+      "know-how",
+      "expertness"
+    ],
+    "wordFamily": [
+      "expert",
+      "expertly"
+    ],
+    "day": 20
+  },
+  {
+    "id": "flextime-noun",
+    "word": "flextime",
+    "baseWord": "time",
+    "type": "noun",
+    "meaning": "thời gian làm việc linh hoạt",
+    "pronunciation": "/ˈflekstaɪm/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The marketing firm offers flextime to help employees balance family life.",
+    "exampleVi": "Công ty tiếp thị cung cấp giờ làm việc linh hoạt để giúp nhân viên cân bằng cuộc sống gia đình.",
+    "collocations": [
+      "offer flextime",
+      "introduce flextime",
+      "flextime schedule"
+    ],
+    "synonyms": [
+      "flexible hours"
+    ],
+    "wordFamily": [],
+    "day": 20
+  },
+  {
+    "id": "job sharing-phrase",
+    "word": "job sharing",
+    "baseWord": "share",
+    "type": "phrase",
+    "meaning": "việc chia sẻ công việc (hai người làm một vị trí)",
+    "pronunciation": "/dʒɑːb ˈʃerɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Job sharing allows two part-time employees to split one full-time position.",
+    "exampleVi": "Chia sẻ công việc cho phép hai nhân viên bán thời gian chia nhỏ một vị trí toàn thời gian.",
+    "collocations": [
+      "job sharing scheme",
+      "job sharing arrangement"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "share"
+    ],
+    "day": 20
+  },
+  {
+    "id": "onboarding-noun",
+    "word": "onboarding",
+    "baseWord": "board",
+    "type": "noun",
+    "meaning": "quá trình hội nhập, làm quen cho nhân viên mới",
+    "pronunciation": "/ˈɑːnbɔːrdɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "An effective onboarding program helps new hires adapt quickly.",
+    "exampleVi": "Một chương trình hội nhập hiệu quả giúp nhân viên mới làm quen thích nghi nhanh chóng.",
+    "collocations": [
+      "onboarding process",
+      "onboarding program",
+      "employee onboarding"
+    ],
+    "synonyms": [
+      "orientation",
+      "induction"
+    ],
+    "wordFamily": [
+      "board"
+    ],
+    "day": 20
+  },
+  {
+    "id": "outsourcing-noun",
+    "word": "outsourcing",
+    "baseWord": "source",
+    "type": "noun",
+    "meaning": "sự thuê ngoài, dịch vụ thuê ngoài",
+    "pronunciation": "/ˈaʊtsɔːrsɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The outsourcing of IT services saved the company thousands of dollars.",
+    "exampleVi": "Việc thuê ngoài dịch vụ IT đã tiết kiệm cho công ty hàng ngàn đô la.",
+    "collocations": [
+      "IT outsourcing",
+      "outsourcing contract",
+      "outsourcing services"
+    ],
+    "synonyms": [
+      "subcontracting"
+    ],
+    "wordFamily": [
+      "outsource"
+    ],
+    "day": 20
+  },
+  {
+    "id": "overstaffed-adjective",
+    "word": "overstaffed",
+    "baseWord": "staff",
+    "type": "adjective",
+    "meaning": "thừa nhân viên, quá nhiều nhân viên",
+    "pronunciation": "/ˌoʊvərˈstæft/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Management realized that the production line was overstaffed.",
+    "exampleVi": "Ban quản lý nhận ra rằng dây chuyền sản xuất đang bị thừa nhân viên.",
+    "collocations": [
+      "highly overstaffed",
+      "overstaffed branch"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "staff"
+    ],
+    "day": 20
+  },
+  {
+    "id": "probationer-noun",
+    "word": "probationer",
+    "baseWord": "probation",
+    "type": "noun",
+    "meaning": "người đang trong thời gian thử việc",
+    "pronunciation": "/proʊˈbeɪʃənər/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The probationer must meet monthly performance targets to secure the job.",
+    "exampleVi": "Nhân viên thử việc phải đáp ứng các mục tiêu hiệu suất hàng tháng để giữ được công việc.",
+    "collocations": [
+      "work as a probationer",
+      "probationer evaluation"
+    ],
+    "synonyms": [
+      "novice",
+      "trainee"
+    ],
+    "wordFamily": [
+      "probation",
+      "probationary"
+    ],
+    "day": 20
+  },
+  {
+    "id": "proficiency-noun",
+    "word": "proficiency",
+    "baseWord": "profit",
+    "type": "noun",
+    "meaning": "sự thành thạo, trình độ",
+    "pronunciation": "/prəˈfɪʃnsi/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Language proficiency certificates are required for this position.",
+    "exampleVi": "Chứng chỉ năng lực thành thạo ngôn ngữ được yêu cầu cho vị trí này.",
+    "collocations": [
+      "language proficiency",
+      "demonstrate proficiency",
+      "proficiency level"
+    ],
+    "synonyms": [
+      "skillfulness",
+      "expertise",
+      "fluency"
+    ],
+    "wordFamily": [
+      "proficient",
+      "proficiently"
+    ],
+    "day": 20
+  },
+  {
+    "id": "proficient-adjective",
+    "word": "proficient",
+    "baseWord": "profit",
+    "type": "adjective",
+    "meaning": "thành thạo, giỏi",
+    "pronunciation": "/prəˈfɪʃnt/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Applicants must be proficient in at least two programming languages.",
+    "exampleVi": "Ứng viên phải thành thạo ít nhất hai ngôn ngữ lập trình.",
+    "collocations": [
+      "proficient in",
+      "highly proficient",
+      "proficient user"
+    ],
+    "synonyms": [
+      "skilled",
+      "expert",
+      "capable"
+    ],
+    "wordFamily": [
+      "proficiency",
+      "proficiently"
+    ],
+    "day": 20
+  },
+  {
+    "id": "reskilling-noun",
+    "word": "reskilling",
+    "baseWord": "skill",
+    "type": "noun",
+    "meaning": "việc đào tạo lại kỹ năng mới",
+    "pronunciation": "/ˌriːˈskɪlɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Reskilling is necessary when automation replaces old job roles.",
+    "exampleVi": "Đào tạo lại kỹ năng là cần thiết khi tự động hóa thay thế các vai trò công việc cũ.",
+    "collocations": [
+      "reskilling initiative",
+      "reskilling program",
+      "employee reskilling"
+    ],
+    "synonyms": [
+      "retraining"
+    ],
+    "wordFamily": [
+      "skill",
+      "skilled"
+    ],
+    "day": 20
+  },
+  {
+    "id": "subcontract-verb",
+    "word": "subcontract",
+    "baseWord": "contract",
+    "type": "verb",
+    "meaning": "ký hợp đồng phụ, thầu lại",
+    "pronunciation": "/ˌsʌbˈkɑːntrækt/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The main contractor decided to subcontract the plumbing work.",
+    "exampleVi": "Nhà thầu chính đã quyết định thầu lại công việc sửa chữa đường ống nước.",
+    "collocations": [
+      "subcontract work",
+      "subcontract to a local firm",
+      "decide to subcontract"
+    ],
+    "synonyms": [
+      "outsource"
+    ],
+    "wordFamily": [
+      "contract",
+      "subcontractor",
+      "subcontracted"
+    ],
+    "day": 20
+  },
+  {
+    "id": "subcontractor-noun",
+    "word": "subcontractor",
+    "baseWord": "contract",
+    "type": "noun",
+    "meaning": "nhà thầu phụ",
+    "pronunciation": "/ˌsʌbˈkɑːntræktər/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The builder hired a subcontractor to complete the electrical wiring.",
+    "exampleVi": "Người xây dựng đã thuê một nhà thầu phụ để hoàn thành hệ thống dây điện.",
+    "collocations": [
+      "hire a subcontractor",
+      "independent subcontractor",
+      "local subcontractor"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contract",
+      "subcontract",
+      "subcontracted"
+    ],
+    "day": 20
+  },
+  {
+    "id": "telecommuting-noun",
+    "word": "telecommuting",
+    "baseWord": "commute",
+    "type": "noun",
+    "meaning": "việc làm việc từ xa, làm việc tại nhà qua mạng",
+    "pronunciation": "/ˌtelikəˈmjuːtɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many companies adopted telecommuting during the public health crisis.",
+    "exampleVi": "Nhiều công ty đã áp dụng làm việc từ xa trong thời kỳ khủng hoảng y tế công cộng.",
+    "collocations": [
+      "encourage telecommuting",
+      "telecommuting policy",
+      "telecommuting option"
+    ],
+    "synonyms": [
+      "remote work",
+      "work from home"
+    ],
+    "wordFamily": [
+      "commute",
+      "telecommute",
+      "telecommuter"
+    ],
+    "day": 20
+  },
+  {
+    "id": "understaffed-adjective",
+    "word": "understaffed",
+    "baseWord": "staff",
+    "type": "adjective",
+    "meaning": "thiếu nhân viên",
+    "pronunciation": "/ˌʌndərˈstæft/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The customer service department is understaffed, causing long wait times.",
+    "exampleVi": "Bộ phận chăm sóc khách hàng bị thiếu nhân viên, gây ra thời gian chờ đợi kéo dài.",
+    "collocations": [
+      "seriously understaffed",
+      "remain understaffed",
+      "understaffed department"
+    ],
+    "synonyms": [
+      "undermanned",
+      "short-handed"
+    ],
+    "wordFamily": [
+      "staff"
+    ],
+    "day": 20
+  },
+  {
+    "id": "upskilling-noun",
+    "word": "upskilling",
+    "baseWord": "skill",
+    "type": "noun",
+    "meaning": "việc nâng cao kỹ năng, bồi dưỡng tay nghề",
+    "pronunciation": "/ˌʌpˈskɪlɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company invests heavily in employee upskilling programs.",
+    "exampleVi": "Công ty đầu tư mạnh vào các chương trình nâng cao kỹ năng cho nhân viên.",
+    "collocations": [
+      "upskilling programs",
+      "invest in upskilling",
+      "workforce upskilling"
+    ],
+    "synonyms": [
+      "training"
+    ],
+    "wordFamily": [
+      "skill",
+      "skilled"
+    ],
+    "day": 20
+  },
+  {
+    "id": "vetting-noun",
+    "word": "vetting",
+    "baseWord": "vet",
+    "type": "noun",
+    "meaning": "sự thẩm định, kiểm tra lý lịch",
+    "pronunciation": "/ˈvetɪŋ/",
+    "topic": "HR & Employment",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All security personnel must undergo a rigorous vetting process.",
+    "exampleVi": "Tất cả nhân viên an ninh phải trải qua một quy trình kiểm tra lý lịch nghiêm ngặt.",
+    "collocations": [
+      "vetting process",
+      "rigorous vetting",
+      "vetting procedures"
+    ],
+    "synonyms": [
+      "screening",
+      "checking",
+      "investigation"
+    ],
+    "wordFamily": [
+      "vet"
+    ],
+    "day": 20
+  }
+]

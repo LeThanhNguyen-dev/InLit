@@ -1,0 +1,3120 @@
+[
+  {
+    "id": "billing-statement-phrase",
+    "word": "billing statement",
+    "baseWord": "bill",
+    "type": "phrase",
+    "meaning": "sao kê thanh toán, hóa đơn tổng hợp phí",
+    "pronunciation": "/ˈbɪlɪŋ ˈsteɪtmənt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Your monthly billing statement is now available to view online.",
+    "exampleVi": "Bản sao kê thanh toán hàng tháng của bạn hiện đã có thể xem trực tuyến.",
+    "collocations": [
+      "monthly billing statement",
+      "billing statement date",
+      "receive a billing statement"
+    ],
+    "synonyms": [
+      "invoice",
+      "bill"
+    ],
+    "wordFamily": [
+      "bill",
+      "billing",
+      "state",
+      "statement"
+    ],
+    "day": 31
+  },
+  {
+    "id": "cashback-noun",
+    "word": "cashback",
+    "baseWord": "cashback",
+    "type": "noun",
+    "meaning": "hoàn tiền mặt (khi thanh toán bằng thẻ hoặc mua hàng tích điểm)",
+    "pronunciation": "/ˈkæʃbæk/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "This credit card offers two percent cashback on all grocery purchases.",
+    "exampleVi": "Thẻ tín dụng này cung cấp hoàn tiền hai phần trăm cho tất cả các giao dịch mua hàng tạp hóa.",
+    "collocations": [
+      "cashback offer",
+      "credit card cashback",
+      "earn cashback"
+    ],
+    "synonyms": [
+      "refund",
+      "rebate"
+    ],
+    "wordFamily": [
+      "cash",
+      "back"
+    ],
+    "day": 31
+  },
+  {
+    "id": "coupon-noun",
+    "word": "coupon",
+    "baseWord": "coupon",
+    "type": "noun",
+    "meaning": "phiếu giảm giá, mã giảm giá",
+    "pronunciation": "/ˈkuːpɑːn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "You can clip coupons to save money on your weekly groceries.",
+    "exampleVi": "Bạn có thể cắt phiếu giảm giá để tiết kiệm tiền mua thực phẩm hàng tuần.",
+    "collocations": [
+      "discount coupon",
+      "redeem a coupon",
+      "coupon code"
+    ],
+    "synonyms": [
+      "voucher",
+      "token"
+    ],
+    "wordFamily": [],
+    "day": 31
+  },
+  {
+    "id": "merchandise-noun",
+    "word": "merchandise",
+    "baseWord": "merchant",
+    "type": "noun",
+    "meaning": "hàng hóa thương mại",
+    "pronunciation": "/ˈmɜːrtʃəndaɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All returned merchandise must be in its original packaging.",
+    "exampleVi": "Tất cả hàng hóa bị trả lại phải nằm trong bao bì gốc của nó.",
+    "collocations": [
+      "returned merchandise",
+      "display merchandise",
+      "quality merchandise"
+    ],
+    "synonyms": [
+      "goods",
+      "products",
+      "stock"
+    ],
+    "wordFamily": [
+      "merchant",
+      "merchandiser"
+    ],
+    "day": 31
+  },
+  {
+    "id": "merchant-noun",
+    "word": "merchant",
+    "baseWord": "merchant",
+    "type": "noun",
+    "meaning": "thương gia, nhà buôn, chủ cửa hàng",
+    "pronunciation": "/ˈmɜːrtʃənt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The online merchant offers free shipping for orders over fifty dollars.",
+    "exampleVi": "Nhà bán hàng trực tuyến cung cấp dịch vụ giao hàng miễn phí cho đơn hàng trên năm mươi đô la.",
+    "collocations": [
+      "online merchant",
+      "merchant account",
+      "local merchant"
+    ],
+    "synonyms": [
+      "trader",
+      "retailer",
+      "vendor"
+    ],
+    "wordFamily": [
+      "merchandise",
+      "merchandising"
+    ],
+    "day": 31
+  },
+  {
+    "id": "outlet-noun",
+    "word": "outlet",
+    "baseWord": "outlet",
+    "type": "noun",
+    "meaning": "cửa hàng bán lẻ trực tiếp từ nhà máy, ổ cắm điện",
+    "pronunciation": "/ˈaʊtlet/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "There is a designer outlet mall just outside the city.",
+    "exampleVi": "Có một trung tâm mua sắm đại lý hàng hiệu ngay bên ngoài thành phố.",
+    "collocations": [
+      "retail outlet",
+      "factory outlet",
+      "outlet mall"
+    ],
+    "synonyms": [
+      "shop",
+      "store",
+      "branch"
+    ],
+    "wordFamily": [],
+    "day": 31
+  },
+  {
+    "id": "price-reduction-phrase",
+    "word": "price reduction",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "sự giảm giá sản phẩm",
+    "pronunciation": "/praɪs rɪˈdʌkʃn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store announced a price reduction on all seasonal items.",
+    "exampleVi": "Cửa hàng đã thông báo giảm giá đối với tất cả các mặt hàng theo mùa.",
+    "collocations": [
+      "substantial price reduction",
+      "announce a price reduction",
+      "temporary price reduction"
+    ],
+    "synonyms": [
+      "discount",
+      "price cut",
+      "markdown"
+    ],
+    "wordFamily": [
+      "price",
+      "reduce",
+      "reduction"
+    ],
+    "day": 31
+  },
+  {
+    "id": "procure-verb",
+    "word": "procure",
+    "baseWord": "procure",
+    "type": "verb",
+    "meaning": "thu mua, kiếm được, đạt được",
+    "pronunciation": "/prəˈkjʊr/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The purchasing department was able to procure the materials at a low price.",
+    "exampleVi": "Bộ phận mua hàng đã có thể thu mua được các vật liệu với giá thấp.",
+    "collocations": [
+      "procure materials",
+      "procure equipment",
+      "procure funds"
+    ],
+    "synonyms": [
+      "acquire",
+      "obtain",
+      "purchase"
+    ],
+    "wordFamily": [
+      "procurement",
+      "procurable"
+    ],
+    "day": 31
+  },
+  {
+    "id": "promo-code-phrase",
+    "word": "promo code",
+    "baseWord": "code",
+    "type": "phrase",
+    "meaning": "mã khuyến mãi, mã giảm giá",
+    "pronunciation": "/ˈproʊmoʊ koʊd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Enter the promo code at checkout to get ten percent off your order.",
+    "exampleVi": "Nhập mã khuyến mãi khi thanh toán để được giảm mười phần trăm cho đơn hàng của bạn.",
+    "collocations": [
+      "enter a promo code",
+      "valid promo code",
+      "online promo code"
+    ],
+    "synonyms": [
+      "coupon code",
+      "discount code"
+    ],
+    "wordFamily": [
+      "promotion",
+      "promotional",
+      "code"
+    ],
+    "day": 31
+  },
+  {
+    "id": "proof-of-purchase-phrase",
+    "word": "proof of purchase",
+    "baseWord": "proof",
+    "type": "phrase",
+    "meaning": "bằng chứng mua hàng (như hóa đơn, biên lai)",
+    "pronunciation": "/pruːf əv ˈpɜːrtʃəs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please retain your receipt as proof of purchase for warranty claims.",
+    "exampleVi": "Vui lòng giữ lại biên lai làm bằng chứng mua hàng để yêu cầu bảo hành.",
+    "collocations": [
+      "valid proof of purchase",
+      "require proof of purchase",
+      "present proof of purchase"
+    ],
+    "synonyms": [
+      "receipt",
+      "sales invoice"
+    ],
+    "wordFamily": [
+      "proof",
+      "prove",
+      "purchase"
+    ],
+    "day": 31
+  },
+  {
+    "id": "purchaser-noun",
+    "word": "purchaser",
+    "baseWord": "purchase",
+    "type": "noun",
+    "meaning": "người mua, người mua hàng",
+    "pronunciation": "/ˈpɜːrtʃəsər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The identity of the purchaser of the historic building remains a secret.",
+    "exampleVi": "Danh tính của người mua tòa nhà lịch sử này vẫn được giữ bí mật.",
+    "collocations": [
+      "potential purchaser",
+      "first-time purchaser",
+      "purchaser agreement"
+    ],
+    "synonyms": [
+      "buyer",
+      "customer",
+      "consumer"
+    ],
+    "wordFamily": [
+      "purchase"
+    ],
+    "day": 31
+  },
+  {
+    "id": "rebate-noun",
+    "word": "rebate",
+    "baseWord": "rebate",
+    "type": "noun",
+    "meaning": "khoản tiền chiết khấu được hoàn trả lại sau khi mua",
+    "pronunciation": "/ˈriːbeɪt/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manufacturer is offering a fifty-dollar mail-in rebate on the appliance.",
+    "exampleVi": "Nhà sản xuất đang cung cấp khoản hoàn tiền gửi thư trị giá năm mươi đô la cho thiết bị này.",
+    "collocations": [
+      "mail-in rebate",
+      "tax rebate",
+      "claim a rebate"
+    ],
+    "synonyms": [
+      "refund",
+      "cashback",
+      "discount"
+    ],
+    "wordFamily": [],
+    "day": 31
+  },
+  {
+    "id": "retail-noun",
+    "word": "retail",
+    "baseWord": "retail",
+    "type": "noun",
+    "meaning": "việc bán lẻ, kinh doanh bán lẻ",
+    "pronunciation": "/ˈriːteɪl/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He has worked in retail for over five years.",
+    "exampleVi": "Anh ấy đã làm việc trong ngành bán lẻ hơn năm năm.",
+    "collocations": [
+      "retail store",
+      "retail industry",
+      "retail price"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "retailer",
+      "retailing"
+    ],
+    "day": 31
+  },
+  {
+    "id": "retailer-noun",
+    "word": "retailer",
+    "baseWord": "retail",
+    "type": "noun",
+    "meaning": "nhà bán lẻ, cửa hàng bán lẻ",
+    "pronunciation": "/ˈriːteɪlər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Amazon is now one of the world's largest online retailers.",
+    "exampleVi": "Amazon hiện là một trong những nhà bán lẻ trực tuyến lớn nhất thế giới.",
+    "collocations": [
+      "online retailer",
+      "major retailer",
+      "retailer store"
+    ],
+    "synonyms": [
+      "seller",
+      "merchant"
+    ],
+    "wordFamily": [
+      "retail",
+      "retailing"
+    ],
+    "day": 31
+  },
+  {
+    "id": "stock-noun",
+    "word": "stock",
+    "baseWord": "stock",
+    "type": "noun",
+    "meaning": "nguồn hàng, cổ phiếu, hàng trong kho",
+    "pronunciation": "/stɑːk/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The items you ordered are currently out of stock.",
+    "exampleVi": "Những mặt hàng bạn đặt hiện đang hết hàng trong kho.",
+    "collocations": [
+      "in stock",
+      "out of stock",
+      "take stock"
+    ],
+    "synonyms": [
+      "inventory",
+      "merchandise",
+      "supply"
+    ],
+    "wordFamily": [
+      "stocktaker",
+      "stockist"
+    ],
+    "day": 31
+  },
+  {
+    "id": "stocktaking-noun",
+    "word": "stocktaking",
+    "baseWord": "stock",
+    "type": "noun",
+    "meaning": "việc kiểm kê kho hàng, kiểm kê tài sản",
+    "pronunciation": "/ˈstɑːkteɪkɪŋ/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The shop will be closed on Monday for annual stocktaking.",
+    "exampleVi": "Cửa hàng sẽ đóng cửa vào thứ Hai để kiểm kê kho hàng hàng năm.",
+    "collocations": [
+      "annual stocktaking",
+      "do stocktaking",
+      "stocktaking day"
+    ],
+    "synonyms": [
+      "inventory check",
+      "audit"
+    ],
+    "wordFamily": [
+      "stock",
+      "take"
+    ],
+    "day": 31
+  },
+  {
+    "id": "storefront-noun",
+    "word": "storefront",
+    "baseWord": "storefront",
+    "type": "noun",
+    "meaning": "mặt tiền cửa hàng (nhìn ra đường phố)",
+    "pronunciation": "/ˈstɔːrfrʌnt/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The business display occupies a prominent storefront on Main Street.",
+    "exampleVi": "Mặt hàng trưng bày của doanh nghiệp chiếm một mặt tiền nổi bật trên Phố Main.",
+    "collocations": [
+      "prominent storefront",
+      "storefront window",
+      "renovate a storefront"
+    ],
+    "synonyms": [
+      "shopfront"
+    ],
+    "wordFamily": [
+      "store",
+      "front"
+    ],
+    "day": 31
+  },
+  {
+    "id": "transaction-noun",
+    "word": "transaction",
+    "baseWord": "transact",
+    "type": "noun",
+    "meaning": "giao dịch thương mại, việc mua bán",
+    "pronunciation": "/trænˈzækʃn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You will receive an email confirmation once the transaction is complete.",
+    "exampleVi": "Bạn sẽ nhận được một email xác nhận khi giao dịch hoàn tất.",
+    "collocations": [
+      "business transaction",
+      "financial transaction",
+      "complete a transaction"
+    ],
+    "synonyms": [
+      "deal",
+      "business",
+      "sale"
+    ],
+    "wordFamily": [
+      "transact",
+      "transactional"
+    ],
+    "day": 31
+  },
+  {
+    "id": "wholesale-noun",
+    "word": "wholesale",
+    "baseWord": "wholesale",
+    "type": "noun",
+    "meaning": "việc bán sỉ, bán buôn với số lượng lớn",
+    "pronunciation": "/ˈhoʊlseɪl/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "They buy their goods at wholesale and sell them at retail prices.",
+    "exampleVi": "Họ mua hàng hóa của họ ở mức bán sỉ và bán chúng ở giá bán lẻ.",
+    "collocations": [
+      "wholesale price",
+      "wholesale business",
+      "buy wholesale"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "wholesaler",
+      "wholesaling"
+    ],
+    "day": 31
+  },
+  {
+    "id": "wholesaler-noun",
+    "word": "wholesaler",
+    "baseWord": "wholesale",
+    "type": "noun",
+    "meaning": "nhà bán sỉ, nhà bán buôn số lượng lớn",
+    "pronunciation": "/ˈhoʊlseɪlər/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "By buying directly from a wholesaler, you can get a discount.",
+    "exampleVi": "Bằng cách mua trực tiếp từ nhà bán sỉ, bạn có thể được giảm giá.",
+    "collocations": [
+      "local wholesaler",
+      "wholesaler price",
+      "contact a wholesaler"
+    ],
+    "synonyms": [
+      "distributor"
+    ],
+    "wordFamily": [
+      "wholesale",
+      "wholesaling"
+    ],
+    "day": 31
+  },
+  {
+    "id": "aisle-noun",
+    "word": "aisle",
+    "baseWord": "aisle",
+    "type": "noun",
+    "meaning": "lối đi giữa các dãy kệ hàng hoặc hàng ghế",
+    "pronunciation": "/aɪl/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Coffee and tea are located in aisle number six.",
+    "exampleVi": "Cà phê và trà được đặt ở lối đi số sáu.",
+    "collocations": [
+      "aisle seat",
+      "walk down the aisle",
+      "supermarket aisle"
+    ],
+    "synonyms": [
+      "passageway",
+      "corridor"
+    ],
+    "wordFamily": [],
+    "day": 32
+  },
+  {
+    "id": "bargain-noun",
+    "word": "bargain",
+    "baseWord": "bargain",
+    "type": "noun",
+    "meaning": "món hời, hàng giá rẻ, thỏa thuận mua bán",
+    "pronunciation": "/ˈbɑːrɡən/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "At only ten dollars, this winter coat is a real bargain.",
+    "exampleVi": "Chỉ với mười đô la, chiếc áo khoác mùa đông này thực sự là một món hời.",
+    "collocations": [
+      "bargain price",
+      "drive a hard bargain",
+      "bargain hunter"
+    ],
+    "synonyms": [
+      "good buy",
+      "deal",
+      "agreement"
+    ],
+    "wordFamily": [
+      "bargaining"
+    ],
+    "day": 32
+  },
+  {
+    "id": "buyer-noun",
+    "word": "buyer",
+    "baseWord": "buy",
+    "type": "noun",
+    "meaning": "người mua, nhân viên thu mua của doanh nghiệp",
+    "pronunciation": "/ˈbaɪər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The real estate market is currently very favorable for buyers.",
+    "exampleVi": "Thị trường bất động sản hiện đang rất thuận lợi cho người mua.",
+    "collocations": [
+      "prospective buyer",
+      "corporate buyer",
+      "buyer preference"
+    ],
+    "synonyms": [
+      "purchaser",
+      "customer"
+    ],
+    "wordFamily": [
+      "buy"
+    ],
+    "day": 32
+  },
+  {
+    "id": "cart-noun",
+    "word": "cart",
+    "baseWord": "cart",
+    "type": "noun",
+    "meaning": "xe đẩy mua sắm, xe bò chở hàng",
+    "pronunciation": "/kɑːrt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Click here to add this item to your online shopping cart.",
+    "exampleVi": "Nhấp vào đây để thêm mặt hàng này vào giỏ hàng trực tuyến của bạn.",
+    "collocations": [
+      "shopping cart",
+      "online cart",
+      "push a cart"
+    ],
+    "synonyms": [
+      "trolley",
+      "carriage"
+    ],
+    "wordFamily": [],
+    "day": 32
+  },
+  {
+    "id": "cashier-noun",
+    "word": "cashier",
+    "baseWord": "cash",
+    "type": "noun",
+    "meaning": "nhân viên thu ngân",
+    "pronunciation": "/kæˈʃɪr/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The cashier scanned the items and handed me the receipt.",
+    "exampleVi": "Nhân viên thu ngân đã quét các mặt hàng và đưa cho tôi biên lai.",
+    "collocations": [
+      "store cashier",
+      "supermarket cashier",
+      "pay the cashier"
+    ],
+    "synonyms": [
+      "clerk",
+      "teller"
+    ],
+    "wordFamily": [
+      "cash"
+    ],
+    "day": 32
+  },
+  {
+    "id": "checkout-noun",
+    "word": "checkout",
+    "baseWord": "check",
+    "type": "noun",
+    "meaning": "quầy thanh toán, quá trình làm thủ tục thanh toán",
+    "pronunciation": "/ˈtʃekaʊt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "There was a long line of shoppers at the checkout.",
+    "exampleVi": "Có một hàng dài người mua sắm đứng chờ tại quầy thanh toán.",
+    "collocations": [
+      "checkout area",
+      "express checkout",
+      "checkout process"
+    ],
+    "synonyms": [
+      "cashier counter"
+    ],
+    "wordFamily": [
+      "check",
+      "out"
+    ],
+    "day": 32
+  },
+  {
+    "id": "clearance-noun",
+    "word": "clearance",
+    "baseWord": "clear",
+    "type": "noun",
+    "meaning": "sự bán giải phóng hàng tồn kho, sự thông quan, khoảng trống an toàn",
+    "pronunciation": "/ˈklɪrəns/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "I bought these shoes at the end-of-season clearance sale.",
+    "exampleVi": "Tôi đã mua đôi giày này tại buổi bán thanh lý cuối mùa.",
+    "collocations": [
+      "clearance sale",
+      "security clearance",
+      "clearance item"
+    ],
+    "synonyms": [
+      "liquidation",
+      "removal"
+    ],
+    "wordFamily": [
+      "clear",
+      "clearly"
+    ],
+    "day": 32
+  },
+  {
+    "id": "clerk-noun",
+    "word": "clerk",
+    "baseWord": "clerk",
+    "type": "noun",
+    "meaning": "thư ký, nhân viên bán hàng cửa hàng, nhân viên hành chính",
+    "pronunciation": "/klɜːrk/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The sales clerk helped me find the correct size for the shirt.",
+    "exampleVi": "Nhân viên bán hàng đã giúp tôi tìm kích cỡ chính xác cho chiếc áo sơ mi.",
+    "collocations": [
+      "sales clerk",
+      "desk clerk",
+      "office clerk"
+    ],
+    "synonyms": [
+      "sales assistant",
+      "assistant",
+      "clerical worker"
+    ],
+    "wordFamily": [
+      "clerical"
+    ],
+    "day": 32
+  },
+  {
+    "id": "consumer-noun",
+    "word": "consumer",
+    "baseWord": "consume",
+    "type": "noun",
+    "meaning": "người tiêu dùng",
+    "pronunciation": "/kənˈsuːmər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Consumer demand for organic foods has grown rapidly.",
+    "exampleVi": "Nhu cầu của người tiêu dùng đối với thực phẩm hữu cơ đã tăng lên nhanh chóng.",
+    "collocations": [
+      "consumer protection",
+      "consumer goods",
+      "consumer confidence"
+    ],
+    "synonyms": [
+      "buyer",
+      "customer",
+      "purchaser"
+    ],
+    "wordFamily": [
+      "consume",
+      "consumption",
+      "consumable"
+    ],
+    "day": 32
+  },
+  {
+    "id": "counter-noun",
+    "word": "counter",
+    "baseWord": "counter",
+    "type": "noun",
+    "meaning": "quầy hàng, quầy tính tiền, bàn bếp",
+    "pronunciation": "/ˈkaʊntər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 5"
+    ],
+    "example": "Please proceed to the checkout counter to pay for your items.",
+    "exampleVi": "Vui lòng tiến đến quầy thanh toán để trả tiền cho các mặt hàng của bạn.",
+    "collocations": [
+      "checkout counter",
+      "service counter",
+      "front counter"
+    ],
+    "synonyms": [
+      "desk",
+      "table"
+    ],
+    "wordFamily": [
+      "counter"
+    ],
+    "day": 32
+  },
+  {
+    "id": "distributor-noun",
+    "word": "distributor",
+    "baseWord": "distribute",
+    "type": "noun",
+    "meaning": "nhà phân phối",
+    "pronunciation": "/dɪˈstrɪbjətər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "They are the sole distributor of this beverage in the country.",
+    "exampleVi": "Họ là nhà phân phối duy nhất của loại đồ uống này trong nước.",
+    "collocations": [
+      "sole distributor",
+      "authorized distributor",
+      "local distributor"
+    ],
+    "synonyms": [
+      "wholesaler",
+      "supplier"
+    ],
+    "wordFamily": [
+      "distribute",
+      "distribution",
+      "distributive"
+    ],
+    "day": 32
+  },
+  {
+    "id": "markdown-noun",
+    "word": "markdown",
+    "baseWord": "markdown",
+    "type": "noun",
+    "meaning": "sự hạ giá bán sản phẩm (nhằm thanh lý)",
+    "pronunciation": "/ˈmɑːrkdaʊn/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Items with a red tag are subject to further markdown.",
+    "exampleVi": "Các mặt hàng có thẻ màu đỏ sẽ tiếp tục được hạ giá bán.",
+    "collocations": [
+      "additional markdown",
+      "markdown price",
+      "take a markdown"
+    ],
+    "synonyms": [
+      "price reduction",
+      "discount"
+    ],
+    "wordFamily": [
+      "mark",
+      "down"
+    ],
+    "day": 32
+  },
+  {
+    "id": "markup-noun",
+    "word": "markup",
+    "baseWord": "markup",
+    "type": "noun",
+    "meaning": "số tiền tăng thêm vào giá vốn để định giá bán",
+    "pronunciation": "/ˈmɑːrkʌp/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The markup on high-end electronics can be up to fifty percent.",
+    "exampleVi": "Mức giá tăng thêm trên đồ điện tử cao cấp có thể lên tới năm mươi phần trăm.",
+    "collocations": [
+      "high markup",
+      "percentage markup",
+      "calculate markup"
+    ],
+    "synonyms": [
+      "price increase",
+      "profit margin"
+    ],
+    "wordFamily": [
+      "mark",
+      "up"
+    ],
+    "day": 32
+  },
+  {
+    "id": "merchandiser-noun",
+    "word": "merchandiser",
+    "baseWord": "merchant",
+    "type": "noun",
+    "meaning": "người quản lý trưng bày hàng hóa, nhà buôn",
+    "pronunciation": "/ˈmɜːrtʃəndaɪzər/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The retail chain hired a visual merchandiser to design the window displays.",
+    "exampleVi": "Chuỗi bán lẻ đã thuê một nhân viên thiết kế trưng bày để thiết kế các tủ kính trưng bày.",
+    "collocations": [
+      "visual merchandiser",
+      "fashion merchandiser",
+      "retail merchandiser"
+    ],
+    "synonyms": [
+      "merchant",
+      "trader"
+    ],
+    "wordFamily": [
+      "merchandise",
+      "merchant"
+    ],
+    "day": 32
+  },
+  {
+    "id": "patron-noun",
+    "word": "patron",
+    "baseWord": "patron",
+    "type": "noun",
+    "meaning": "khách hàng quen, người bảo trợ",
+    "pronunciation": "/ˈpeɪtrən/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The restaurant values its loyal patrons and offers them discounts.",
+    "exampleVi": "Nhà hàng trân trọng những khách hàng thân thiết của mình và giảm giá cho họ.",
+    "collocations": [
+      "loyal patron",
+      "patron of the arts",
+      "restaurant patron"
+    ],
+    "synonyms": [
+      "customer",
+      "supporter",
+      "client"
+    ],
+    "wordFamily": [
+      "patronage",
+      "patronize"
+    ],
+    "day": 32
+  },
+  {
+    "id": "sales-representative-phrase",
+    "word": "sales representative",
+    "baseWord": "represent",
+    "type": "phrase",
+    "meaning": "đại diện bán hàng, nhân viên kinh doanh",
+    "pronunciation": "/seɪlz ˌreprɪˈzentətɪv/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our sales representative will contact you shortly to demonstrate the product.",
+    "exampleVi": "Đại diện bán hàng của chúng tôi sẽ liên hệ với bạn trong thời gian ngắn để chạy thử sản phẩm.",
+    "collocations": [
+      "contact a sales representative",
+      "hire a sales representative",
+      "senior sales representative"
+    ],
+    "synonyms": [
+      "salesperson",
+      "sales agent"
+    ],
+    "wordFamily": [
+      "sale",
+      "represent",
+      "representation"
+    ],
+    "day": 32
+  },
+  {
+    "id": "scanner-noun",
+    "word": "scanner",
+    "baseWord": "scan",
+    "type": "noun",
+    "meaning": "máy quét (mã vạch, quét ảnh)",
+    "pronunciation": "/ˈskænər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The barcode scanner failed to read the price on the label.",
+    "exampleVi": "Máy quét mã vạch đã không thể đọc được giá ghi trên nhãn.",
+    "collocations": [
+      "barcode scanner",
+      "document scanner",
+      "optical scanner"
+    ],
+    "synonyms": [
+      "reader"
+    ],
+    "wordFamily": [
+      "scan"
+    ],
+    "day": 32
+  },
+  {
+    "id": "shopper-noun",
+    "word": "shopper",
+    "baseWord": "shop",
+    "type": "noun",
+    "meaning": "người đi mua sắm",
+    "pronunciation": "/ˈʃɑːpər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Many holiday shoppers prefer to buy gifts online.",
+    "exampleVi": "Nhiều người mua sắm dịp lễ thích mua quà tặng trực tuyến hơn.",
+    "collocations": [
+      "holiday shopper",
+      "personal shopper",
+      "shopper behavior"
+    ],
+    "synonyms": [
+      "buyer",
+      "customer"
+    ],
+    "wordFamily": [
+      "shop",
+      "shopping"
+    ],
+    "day": 32
+  },
+  {
+    "id": "trolley-noun",
+    "word": "trolley",
+    "baseWord": "trolley",
+    "type": "noun",
+    "meaning": "xe đẩy hàng mua sắm (trong siêu thị, sân bay)",
+    "pronunciation": "/ˈtrɑːli/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "He put the heavy groceries into the shopping trolley.",
+    "exampleVi": "Anh ấy đã bỏ những thực phẩm nặng vào xe đẩy mua sắm.",
+    "collocations": [
+      "shopping trolley",
+      "luggage trolley",
+      "trolley bag"
+    ],
+    "synonyms": [
+      "cart",
+      "carriage"
+    ],
+    "wordFamily": [],
+    "day": 32
+  },
+  {
+    "id": "vendor-noun",
+    "word": "vendor",
+    "baseWord": "vend",
+    "type": "noun",
+    "meaning": "người bán hàng, nhà cung cấp dịch vụ/sản phẩm",
+    "pronunciation": "/ˈvendər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Software vendors are showing their new products at the exhibition.",
+    "exampleVi": "Các nhà cung cấp phần mềm đang trưng bày sản phẩm mới của họ tại hội chợ triển lãm.",
+    "collocations": [
+      "street vendor",
+      "software vendor",
+      "select a vendor"
+    ],
+    "synonyms": [
+      "seller",
+      "supplier",
+      "merchant"
+    ],
+    "wordFamily": [
+      "vend",
+      "vending machine"
+    ],
+    "day": 32
+  },
+  {
+    "id": "assurance-noun",
+    "word": "assurance",
+    "baseWord": "assure",
+    "type": "noun",
+    "meaning": "sự cam đoan, sự bảo đảm chắc chắn",
+    "pronunciation": "/əˈʃʊrəns/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "She gave us an assurance that the package would arrive tomorrow.",
+    "exampleVi": "Cô ấy đã cam đoan với chúng tôi rằng gói hàng sẽ đến vào ngày mai.",
+    "collocations": [
+      "give an assurance",
+      "quality assurance",
+      "verbal assurance"
+    ],
+    "synonyms": [
+      "guarantee",
+      "promise",
+      "pledge"
+    ],
+    "wordFamily": [
+      "assure",
+      "assured",
+      "assuredly"
+    ],
+    "day": 33
+  },
+  {
+    "id": "bar-code-noun",
+    "word": "bar code",
+    "baseWord": "code",
+    "type": "noun",
+    "meaning": "mã vạch (in trên hàng hóa)",
+    "pronunciation": "/ˈbɑːr koʊd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The cashier used a scanner to read the bar code on the milk carton.",
+    "exampleVi": "Nhân viên thu ngân đã sử dụng máy quét để đọc mã vạch trên hộp sữa.",
+    "collocations": [
+      "scan a bar code",
+      "bar code reader",
+      "print a bar code"
+    ],
+    "synonyms": [
+      "barcode"
+    ],
+    "wordFamily": [
+      "code"
+    ],
+    "day": 33
+  },
+  {
+    "id": "brand-noun",
+    "word": "brand",
+    "baseWord": "brand",
+    "type": "noun",
+    "meaning": "nhãn hiệu, thương hiệu sản phẩm",
+    "pronunciation": "/brænd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He only buys a specific brand of athletic shoes.",
+    "exampleVi": "Anh ấy chỉ mua một thương hiệu giày thể thao cụ thể.",
+    "collocations": [
+      "brand name",
+      "brand loyalty",
+      "leading brand"
+    ],
+    "synonyms": [
+      "trademark",
+      "make",
+      "label"
+    ],
+    "wordFamily": [
+      "branding"
+    ],
+    "day": 33
+  },
+  {
+    "id": "bulk-noun",
+    "word": "bulk",
+    "baseWord": "bulk",
+    "type": "noun",
+    "meaning": "số lượng lớn, thể tích lớn",
+    "pronunciation": "/bʌlk/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Buying ingredients in bulk saves the bakery a lot of money.",
+    "exampleVi": "Mua nguyên liệu với số lượng lớn giúp tiệm bánh tiết kiệm được rất nhiều tiền.",
+    "collocations": [
+      "buy in bulk",
+      "bulk purchase",
+      "bulk order"
+    ],
+    "synonyms": [
+      "large quantity",
+      "mass"
+    ],
+    "wordFamily": [
+      "bulky"
+    ],
+    "day": 33
+  },
+  {
+    "id": "damaged-adjective",
+    "word": "damaged",
+    "baseWord": "damage",
+    "type": "adjective",
+    "meaning": "bị hư hỏng, bị sứt mẻ",
+    "pronunciation": "/ˈdæmɪdʒd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The delivery company is not responsible for damaged items.",
+    "exampleVi": "Công ty giao hàng không chịu trách nhiệm đối với các mặt hàng bị hư hỏng.",
+    "collocations": [
+      "damaged goods",
+      "slightly damaged",
+      "severely damaged"
+    ],
+    "synonyms": [
+      "broken",
+      "defective",
+      "spoiled"
+    ],
+    "wordFamily": [
+      "damage",
+      "damaging"
+    ],
+    "day": 33
+  },
+  {
+    "id": "final-sale-phrase",
+    "word": "final sale",
+    "baseWord": "sale",
+    "type": "phrase",
+    "meaning": "giao dịch mua đứt (không chấp nhận đổi trả hàng)",
+    "pronunciation": "/ˈfaɪnl seɪl/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "All items bought during the clearance event are final sale.",
+    "exampleVi": "Tất cả các mặt hàng mua trong sự kiện thanh lý đều là mua đứt bán đoạn (không đổi trả).",
+    "collocations": [
+      "marked final sale",
+      "final sale policy",
+      "item is final sale"
+    ],
+    "synonyms": [
+      "non-returnable sale"
+    ],
+    "wordFamily": [
+      "final",
+      "sale"
+    ],
+    "day": 33
+  },
+  {
+    "id": "flaw-noun",
+    "word": "flaw",
+    "baseWord": "flaw",
+    "type": "noun",
+    "meaning": "vết nứt, khuyết điểm, lỗi nhỏ trên sản phẩm",
+    "pronunciation": "/flɔː/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The glass bowl was sold at a discount because of a small flaw.",
+    "exampleVi": "Chiếc bát thủy tinh được bán giảm giá vì có một lỗi nhỏ.",
+    "collocations": [
+      "minor flaw",
+      "design flaw",
+      "without flaw"
+    ],
+    "synonyms": [
+      "defect",
+      "fault",
+      "blemish"
+    ],
+    "wordFamily": [
+      "flawless",
+      "flawed"
+    ],
+    "day": 33
+  },
+  {
+    "id": "label-noun",
+    "word": "label",
+    "baseWord": "label",
+    "type": "noun",
+    "meaning": "nhãn hiệu, nhãn mác thông tin",
+    "pronunciation": "/ˈleɪbl/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Always read the label on the bottle before taking any medicine.",
+    "exampleVi": "Luôn luôn đọc kỹ nhãn mác trên chai trước khi uống bất kỳ loại thuốc nào.",
+    "collocations": [
+      "warning label",
+      "address label",
+      "clothing label"
+    ],
+    "synonyms": [
+      "tag",
+      "sticker"
+    ],
+    "wordFamily": [
+      "label"
+    ],
+    "day": 33
+  },
+  {
+    "id": "logo-noun",
+    "word": "logo",
+    "baseWord": "logo",
+    "type": "noun",
+    "meaning": "biểu trưng, lô-gô đại diện",
+    "pronunciation": "/ˈloʊɡoʊ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The designer designed a modern logo for our new retail brand.",
+    "exampleVi": "Nhà thiết kế đã thiết kế một logo hiện đại cho thương hiệu bán lẻ mới của chúng tôi.",
+    "collocations": [
+      "corporate logo",
+      "company logo",
+      "design a logo"
+    ],
+    "synonyms": [
+      "emblem",
+      "symbol",
+      "trademark"
+    ],
+    "wordFamily": [],
+    "day": 33
+  },
+  {
+    "id": "packaging-noun",
+    "word": "packaging",
+    "baseWord": "pack",
+    "type": "noun",
+    "meaning": "bao bì, quy trình đóng gói hàng hóa",
+    "pronunciation": "/ˈpækɪdʒɪŋ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Attractive packaging can play a crucial role in sales.",
+    "exampleVi": "Bao bì bắt mắt có thể đóng một vai trò quyết định trong doanh số bán hàng.",
+    "collocations": [
+      "attractive packaging",
+      "product packaging",
+      "biodegradable packaging"
+    ],
+    "synonyms": [
+      "wrapping",
+      "casing"
+    ],
+    "wordFamily": [
+      "pack",
+      "package",
+      "packer"
+    ],
+    "day": 33
+  },
+  {
+    "id": "price-tag-noun",
+    "word": "price tag",
+    "baseWord": "tag",
+    "type": "noun",
+    "meaning": "nhãn ghi giá hàng hóa",
+    "pronunciation": "/praɪs tæɡ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please check the price tag attached to the sleeve.",
+    "exampleVi": "Vui lòng kiểm tra nhãn ghi giá được gắn vào tay áo.",
+    "collocations": [
+      "attach a price tag",
+      "look at the price tag",
+      "missing price tag"
+    ],
+    "synonyms": [
+      "price label"
+    ],
+    "wordFamily": [
+      "tag"
+    ],
+    "day": 33
+  },
+  {
+    "id": "quantity-noun",
+    "word": "quantity",
+    "baseWord": "quantity",
+    "type": "noun",
+    "meaning": "số lượng, lượng hàng",
+    "pronunciation": "/ˈkwɑːntəti/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We ordered a large quantity of paper for the photocopier.",
+    "exampleVi": "Chúng tôi đã đặt một số lượng lớn giấy cho máy photocopy.",
+    "collocations": [
+      "large quantity",
+      "limited quantity",
+      "quantity discount"
+    ],
+    "synonyms": [
+      "amount",
+      "number",
+      "volume"
+    ],
+    "wordFamily": [
+      "quantitative",
+      "quantify"
+    ],
+    "day": 33
+  },
+  {
+    "id": "refunded-adjective",
+    "word": "refunded",
+    "baseWord": "refund",
+    "type": "adjective",
+    "meaning": "đã được hoàn tiền",
+    "pronunciation": "/ˌriːˈfʌndɪd/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The full amount will be refunded to your credit card.",
+    "exampleVi": "Toàn bộ số tiền sẽ được hoàn trả vào thẻ tín dụng của bạn.",
+    "collocations": [
+      "fully refunded",
+      "automatically refunded",
+      "refunded payment"
+    ],
+    "synonyms": [
+      "reimbursed"
+    ],
+    "wordFamily": [
+      "refund",
+      "refundable"
+    ],
+    "day": 33
+  },
+  {
+    "id": "return-verb",
+    "word": "return",
+    "baseWord": "return",
+    "type": "verb",
+    "meaning": "trả lại hàng hóa đã mua",
+    "pronunciation": "/rɪˈtɜːrn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Customers can return any unwanted goods within thirty days.",
+    "exampleVi": "Khách hàng có thể trả lại bất kỳ hàng hóa không mong muốn nào trong vòng ba mươi ngày.",
+    "collocations": [
+      "return an item",
+      "return to the store",
+      "return policy"
+    ],
+    "synonyms": [
+      "send back",
+      "exchange"
+    ],
+    "wordFamily": [
+      "returnable",
+      "returned"
+    ],
+    "day": 33
+  },
+  {
+    "id": "service-contract-phrase",
+    "word": "service contract",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "hợp đồng bảo trì, dịch vụ bảo hành mở rộng",
+    "pronunciation": "/ˈsɜːrvɪs ˈkɑːntrækt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We signed a service contract for the maintenance of our copiers.",
+    "exampleVi": "Chúng tôi đã ký hợp đồng dịch vụ bảo trì cho các máy photocopy của mình.",
+    "collocations": [
+      "annual service contract",
+      "extend a service contract",
+      "service contract terms"
+    ],
+    "synonyms": [
+      "warranty agreement",
+      "maintenance contract"
+    ],
+    "wordFamily": [
+      "service",
+      "contract"
+    ],
+    "day": 33
+  },
+  {
+    "id": "store-credit-phrase",
+    "word": "store credit",
+    "baseWord": "credit",
+    "type": "phrase",
+    "meaning": "phiếu tích điểm/khoản tiền hoàn trả sử dụng mua hàng tại cửa hàng",
+    "pronunciation": "/stɔːr ˈkredɪt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The shop does not give refunds, but they offer store credit.",
+    "exampleVi": "Cửa hàng không hoàn tiền mặt, nhưng họ cung cấp điểm mua hàng tích lũy.",
+    "collocations": [
+      "receive store credit",
+      "offer store credit",
+      "use store credit"
+    ],
+    "synonyms": [
+      "store voucher"
+    ],
+    "wordFamily": [
+      "store",
+      "credit"
+    ],
+    "day": 33
+  },
+  {
+    "id": "swap-verb",
+    "word": "swap",
+    "baseWord": "swap",
+    "type": "verb",
+    "meaning": "đổi, trao đổi sản phẩm",
+    "pronunciation": "/swɑːp/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "I would like to swap this sweater for a larger size.",
+    "exampleVi": "Tôi muốn đổi chiếc áo len này lấy một cỡ lớn hơn.",
+    "collocations": [
+      "swap for another",
+      "swap items",
+      "decide to swap"
+    ],
+    "synonyms": [
+      "exchange",
+      "trade"
+    ],
+    "wordFamily": [
+      "swap"
+    ],
+    "day": 33
+  },
+  {
+    "id": "trademark-noun",
+    "word": "trademark",
+    "baseWord": "mark",
+    "type": "noun",
+    "meaning": "thương hiệu độc quyền đã đăng ký bảo hộ pháp lý",
+    "pronunciation": "/ˈtreɪdmɑːrk/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's logo is a registered trademark.",
+    "exampleVi": "Biểu trưng của công ty là một thương hiệu đã được đăng ký bản quyền.",
+    "collocations": [
+      "registered trademark",
+      "trademark infringement",
+      "trademark protection"
+    ],
+    "synonyms": [
+      "brand",
+      "logo"
+    ],
+    "wordFamily": [
+      "trade",
+      "mark"
+    ],
+    "day": 33
+  },
+  {
+    "id": "volume-noun",
+    "word": "volume",
+    "baseWord": "volume",
+    "type": "noun",
+    "meaning": "sản lượng, âm lượng, dung tích, tập sách",
+    "pronunciation": "/ˈvɑːljuːm/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store handles a high volume of credit card transactions daily.",
+    "exampleVi": "Cửa hàng xử lý một số lượng lớn các giao dịch thẻ tín dụng mỗi ngày.",
+    "collocations": [
+      "sales volume",
+      "high volume",
+      "volume of trade"
+    ],
+    "synonyms": [
+      "quantity",
+      "amount"
+    ],
+    "wordFamily": [
+      "voluminous"
+    ],
+    "day": 33
+  },
+  {
+    "id": "wrapping-noun",
+    "word": "wrapping",
+    "baseWord": "wrap",
+    "type": "noun",
+    "meaning": "vật bọc ngoài, giấy gói quà",
+    "pronunciation": "/ˈræpɪŋ/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please remove the plastic wrapping before heating the food.",
+    "exampleVi": "Vui lòng tháo bỏ màng bọc nhựa trước khi làm nóng thức ăn.",
+    "collocations": [
+      "gift wrapping",
+      "plastic wrapping",
+      "bubble wrapping"
+    ],
+    "synonyms": [
+      "packaging",
+      "covering"
+    ],
+    "wordFamily": [
+      "wrap",
+      "wrapped"
+    ],
+    "day": 33
+  },
+  {
+    "id": "advertise-verb",
+    "word": "advertise",
+    "baseWord": "advertise",
+    "type": "verb",
+    "meaning": "quảng cáo, quảng bá sản phẩm",
+    "pronunciation": "/ˈædvərtaɪz/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We plan to advertise our new retail store on social media.",
+    "exampleVi": "Chúng tôi dự định quảng cáo cửa hàng bán lẻ mới của mình trên mạng xã hội.",
+    "collocations": [
+      "advertise products",
+      "advertise on television",
+      "heavily advertised"
+    ],
+    "synonyms": [
+      "publicize",
+      "promote"
+    ],
+    "wordFamily": [
+      "advertisement",
+      "advertising",
+      "advertiser"
+    ],
+    "day": 34
+  },
+  {
+    "id": "brochure-noun",
+    "word": "brochure",
+    "baseWord": "brochure",
+    "type": "noun",
+    "meaning": "cuốn sách nhỏ quảng cáo thông tin chi tiết về sản phẩm/dịch vụ",
+    "pronunciation": "/broʊˈʃʊr/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The travel agent gave me a colorful brochure about the resort.",
+    "exampleVi": "Nhân viên đại lý du lịch đã đưa cho tôi một cuốn sách nhỏ đầy màu sắc giới thiệu về khu nghỉ dưỡng.",
+    "collocations": [
+      "color brochure",
+      "informative brochure",
+      "distribute brochures"
+    ],
+    "synonyms": [
+      "pamphlet",
+      "booklet",
+      "leaflet"
+    ],
+    "wordFamily": [],
+    "day": 34
+  },
+  {
+    "id": "catalog-noun",
+    "word": "catalog",
+    "baseWord": "catalog",
+    "type": "noun",
+    "meaning": "danh mục sản phẩm, sách giới thiệu sản phẩm",
+    "pronunciation": "/ˈkætəlɔːɡ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please look through our catalog to select the furniture you want.",
+    "exampleVi": "Vui lòng xem qua danh mục sản phẩm của chúng tôi để chọn đồ nội thất bạn muốn.",
+    "collocations": [
+      "mail-order catalog",
+      "product catalog",
+      "online catalog"
+    ],
+    "synonyms": [
+      "directory",
+      "list",
+      "brochure"
+    ],
+    "wordFamily": [
+      "cataloger"
+    ],
+    "day": 34
+  },
+  {
+    "id": "demand-noun",
+    "word": "demand",
+    "baseWord": "demand",
+    "type": "noun",
+    "meaning": "nhu cầu tiêu thụ, sự đòi hỏi",
+    "pronunciation": "/dɪˈmænd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "There is a huge demand for energy-efficient vehicles nowadays.",
+    "exampleVi": "Ngày nay có một nhu cầu rất lớn đối với các phương tiện tiết kiệm năng lượng.",
+    "collocations": [
+      "in high demand",
+      "meet the demand",
+      "consumer demand"
+    ],
+    "synonyms": [
+      "need",
+      "requirement"
+    ],
+    "wordFamily": [
+      "demand",
+      "demanding"
+    ],
+    "day": 34
+  },
+  {
+    "id": "demographics-noun",
+    "word": "demographics",
+    "baseWord": "demography",
+    "type": "noun",
+    "meaning": "số liệu nhân khẩu học (độ tuổi, giới tính, thu nhập của khách hàng)",
+    "pronunciation": "/ˌdeməˈɡræfɪks/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The marketing team analyzed the demographics of the target audience.",
+    "exampleVi": "Đội ngũ tiếp thị đã phân tích số liệu nhân khẩu học của đối tượng khách hàng mục tiêu.",
+    "collocations": [
+      "target demographics",
+      "analyze demographics",
+      "customer demographics"
+    ],
+    "synonyms": [
+      "population statistics"
+    ],
+    "wordFamily": [
+      "demographic",
+      "demographer"
+    ],
+    "day": 34
+  },
+  {
+    "id": "display-noun",
+    "word": "display",
+    "baseWord": "display",
+    "type": "noun",
+    "meaning": "sự trưng bày, màn hình hiển thị",
+    "pronunciation": "/dɪˈspleɪ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store window displays caught the attention of passersby.",
+    "exampleVi": "Sự trưng bày ở tủ kính cửa hàng đã thu hút sự chú ý của người qua đường.",
+    "collocations": [
+      "window display",
+      "on display",
+      "product display"
+    ],
+    "synonyms": [
+      "exhibition",
+      "show"
+    ],
+    "wordFamily": [
+      "display"
+    ],
+    "day": 34
+  },
+  {
+    "id": "fad-noun",
+    "word": "fad",
+    "baseWord": "fad",
+    "type": "noun",
+    "meaning": "mốt nhất thời, xu hướng nổi lên rồi tàn nhanh",
+    "pronunciation": "/fæd/",
+    "topic": "Sales & Retail",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Experts believe that this new diet is just a passing fad.",
+    "exampleVi": "Các chuyên gia tin rằng chế độ ăn kiêng mới này chỉ là một mốt nhất thời.",
+    "collocations": [
+      "passing fad",
+      "temporary fad",
+      "latest fad"
+    ],
+    "synonyms": [
+      "craze",
+      "trend",
+      "mania"
+    ],
+    "wordFamily": [
+      "faddish"
+    ],
+    "day": 34
+  },
+  {
+    "id": "flyer-noun",
+    "word": "flyer",
+    "baseWord": "fly",
+    "type": "noun",
+    "meaning": "tờ rơi quảng cáo",
+    "pronunciation": "/ˈflaɪər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We handed out promotional flyers to people in the shopping mall.",
+    "exampleVi": "Chúng tôi đã phát tờ rơi khuyến mãi cho mọi người trong trung tâm mua sắm.",
+    "collocations": [
+      "promotional flyer",
+      "distribute flyers",
+      "advertising flyer"
+    ],
+    "synonyms": [
+      "handbill",
+      "leaflet",
+      "pamphlet"
+    ],
+    "wordFamily": [
+      "fly"
+    ],
+    "day": 34
+  },
+  {
+    "id": "leaflet-noun",
+    "word": "leaflet",
+    "baseWord": "leaf",
+    "type": "noun",
+    "meaning": "tờ gấp quảng cáo, tờ rơi gấp nhỏ",
+    "pronunciation": "/ˈliːflət/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The library distributes leaflets containing rules and opening hours.",
+    "exampleVi": "Thư viện phát các tờ gấp chứa nội quy và giờ mở cửa.",
+    "collocations": [
+      "information leaflet",
+      "hand out leaflets",
+      "printed leaflet"
+    ],
+    "synonyms": [
+      "flyer",
+      "pamphlet",
+      "booklet"
+    ],
+    "wordFamily": [
+      "leaf"
+    ],
+    "day": 34
+  },
+  {
+    "id": "niche-noun",
+    "word": "niche",
+    "baseWord": "niche",
+    "type": "noun",
+    "meaning": "thị trường ngách, vị trí thích hợp",
+    "pronunciation": "/niːʃ/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The small retailer found a profitable niche selling handmade shoes.",
+    "exampleVi": "Nhà bán lẻ nhỏ đã tìm thấy một thị trường ngách sinh lợi bằng việc bán giày thủ công.",
+    "collocations": [
+      "niche market",
+      "find a niche",
+      "carve out a niche"
+    ],
+    "synonyms": [
+      "specialty",
+      "corner"
+    ],
+    "wordFamily": [],
+    "day": 34
+  },
+  {
+    "id": "promotional-adjective",
+    "word": "promotional",
+    "baseWord": "promote",
+    "type": "adjective",
+    "meaning": "mang tính quảng cáo, thuộc khuyến mãi",
+    "pronunciation": "/prəˈmoʊʃənl/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We are offering promotional discounts during our grand opening week.",
+    "exampleVi": "Chúng tôi đang áp dụng mức giảm giá khuyến mãi trong tuần lễ khai trương.",
+    "collocations": [
+      "promotional offer",
+      "promotional material",
+      "promotional discount"
+    ],
+    "synonyms": [
+      "advertising",
+      "marketing"
+    ],
+    "wordFamily": [
+      "promote",
+      "promotion",
+      "promoter"
+    ],
+    "day": 34
+  },
+  {
+    "id": "publicity-campaign-phrase",
+    "word": "publicity campaign",
+    "baseWord": "public",
+    "type": "phrase",
+    "meaning": "chiến dịch tuyên truyền, chiến dịch quảng bá rộng rãi",
+    "pronunciation": "/pʌbˈlɪsəti kæmˈpeɪn/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The agency launched a massive publicity campaign to promote the brand.",
+    "exampleVi": "Công ty đại diện đã phát động một chiến dịch quảng bá rầm rộ để thúc đẩy thương hiệu.",
+    "collocations": [
+      "launch a publicity campaign",
+      "massive publicity campaign",
+      "publicity campaign budget"
+    ],
+    "synonyms": [
+      "promotional campaign",
+      "advertising campaign"
+    ],
+    "wordFamily": [
+      "public",
+      "publicity",
+      "campaign"
+    ],
+    "day": 34
+  },
+  {
+    "id": "scarcity-noun",
+    "word": "scarcity",
+    "baseWord": "scarce",
+    "type": "noun",
+    "meaning": "sự khan hiếm hàng hóa/tài nguyên",
+    "pronunciation": "/ˈskersəti/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The scarcity of raw materials led to a delay in production.",
+    "exampleVi": "Sự khan hiếm nguyên liệu thô đã dẫn đến sự chậm trễ trong sản xuất.",
+    "collocations": [
+      "scarcity of resources",
+      "relative scarcity",
+      "food scarcity"
+    ],
+    "synonyms": [
+      "shortage",
+      "lack",
+      "sparsity"
+    ],
+    "wordFamily": [
+      "scarce",
+      "scarcely"
+    ],
+    "day": 34
+  },
+  {
+    "id": "shortage-noun",
+    "word": "shortage",
+    "baseWord": "short",
+    "type": "noun",
+    "meaning": "sự thiếu hụt",
+    "pronunciation": "/ˈʃɔːrtɪdʒ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A severe labor shortage has forced the store to reduce its hours.",
+    "exampleVi": "Tình trạng thiếu hụt lao động trầm trọng đã buộc cửa hàng phải giảm giờ làm.",
+    "collocations": [
+      "labor shortage",
+      "water shortage",
+      "housing shortage"
+    ],
+    "synonyms": [
+      "lack",
+      "deficit",
+      "scarcity"
+    ],
+    "wordFamily": [
+      "short",
+      "shortly",
+      "shorten"
+    ],
+    "day": 34
+  },
+  {
+    "id": "showcase-verb",
+    "word": "showcase",
+    "baseWord": "case",
+    "type": "verb",
+    "meaning": "trưng bày, giới thiệu những điểm tốt nhất của sản phẩm",
+    "pronunciation": "/ˈʃoʊkeɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The trade show is a great opportunity to showcase our products.",
+    "exampleVi": "Triển lãm thương mại là một cơ hội tuyệt vời để giới thiệu sản phẩm của chúng tôi.",
+    "collocations": [
+      "showcase products",
+      "showcase talents",
+      "designed to showcase"
+    ],
+    "synonyms": [
+      "display",
+      "exhibit",
+      "present"
+    ],
+    "wordFamily": [
+      "case"
+    ],
+    "day": 34
+  },
+  {
+    "id": "supply-noun",
+    "word": "supply",
+    "baseWord": "supply",
+    "type": "noun",
+    "meaning": "nguồn cung cấp, hàng tiếp tế",
+    "pronunciation": "/səˈplaɪ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The prices rose because the supply of fresh vegetables was low.",
+    "exampleVi": "Giá cả tăng lên vì nguồn cung rau tươi bị sụt giảm.",
+    "collocations": [
+      "supply chain",
+      "short supply",
+      "medical supplies"
+    ],
+    "synonyms": [
+      "provision",
+      "stock",
+      "source"
+    ],
+    "wordFamily": [
+      "supplier",
+      "supply"
+    ],
+    "day": 34
+  },
+  {
+    "id": "surplus-noun",
+    "word": "surplus",
+    "baseWord": "surplus",
+    "type": "noun",
+    "meaning": "lượng thặng dư, phần dư thừa",
+    "pronunciation": "/ˈsɜːrplʌs/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The warehouse has a surplus of winter stock that must be sold.",
+    "exampleVi": "Nhà kho đang dư thừa lượng hàng mùa đông cần phải bán gấp.",
+    "collocations": [
+      "trade surplus",
+      "budget surplus",
+      "surplus stock"
+    ],
+    "synonyms": [
+      "excess",
+      "overplus",
+      "remainder"
+    ],
+    "wordFamily": [],
+    "day": 34
+  },
+  {
+    "id": "target-market-phrase",
+    "word": "target market",
+    "baseWord": "market",
+    "type": "phrase",
+    "meaning": "thị trường mục tiêu",
+    "pronunciation": "/ˈtɑːrɡɪt ˈmɑːrkɪt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Young professionals are the main target market for this new smartphone.",
+    "exampleVi": "Các chuyên gia trẻ tuổi là thị trường mục tiêu chính cho chiếc điện thoại thông minh mới này.",
+    "collocations": [
+      "define the target market",
+      "reach the target market",
+      "target market segment"
+    ],
+    "synonyms": [
+      "target audience",
+      "niche market"
+    ],
+    "wordFamily": [
+      "target",
+      "market"
+    ],
+    "day": 34
+  },
+  {
+    "id": "trend-noun",
+    "word": "trend",
+    "baseWord": "trend",
+    "type": "noun",
+    "meaning": "xu hướng chung, xu thế phát triển",
+    "pronunciation": "/trend/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Online shopping is a growing trend among elderly consumers.",
+    "exampleVi": "Mua sắm trực tuyến là một xu hướng đang gia tăng đối với người tiêu dùng lớn tuổi.",
+    "collocations": [
+      "current trend",
+      "growing trend",
+      "market trend"
+    ],
+    "synonyms": [
+      "tendency",
+      "movement",
+      "fashion"
+    ],
+    "wordFamily": [
+      "trendy"
+    ],
+    "day": 34
+  },
+  {
+    "id": "window-shopping-phrase",
+    "word": "window shopping",
+    "baseWord": "shop",
+    "type": "phrase",
+    "meaning": "việc ngắm đồ trưng bày qua tủ kính (không có ý định mua)",
+    "pronunciation": "/ˈwɪndoʊ ˈʃɑːpɪŋ/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "We spent Sunday afternoon window shopping in the department store.",
+    "exampleVi": "Chúng tôi đã dành chiều Chủ Nhật đi ngắm đồ qua tủ kính trong cửa hàng bách hóa.",
+    "collocations": [
+      "go window shopping",
+      "enjoy window shopping",
+      "afternoon window shopping"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "window",
+      "shop",
+      "shopping"
+    ],
+    "day": 34
+  },
+  {
+    "id": "brick-and-mortar-adjective",
+    "word": "brick-and-mortar",
+    "baseWord": "mortar",
+    "type": "adjective",
+    "meaning": "truyền thống, có cửa hàng/văn phòng vật lý (không chỉ trực tuyến)",
+    "pronunciation": "/ˌbrɪk ən ˈmɔːrtər/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many online brands are now opening brick-and-mortar stores.",
+    "exampleVi": "Nhiều thương hiệu trực tuyến hiện đang mở các cửa hàng vật lý truyền thống.",
+    "collocations": [
+      "brick-and-mortar store",
+      "brick-and-mortar business",
+      "brick-and-mortar retailer"
+    ],
+    "synonyms": [
+      "traditional",
+      "physical"
+    ],
+    "wordFamily": [],
+    "day": 35
+  },
+  {
+    "id": "competition-noun",
+    "word": "competition",
+    "baseWord": "compete",
+    "type": "noun",
+    "meaning": "sự cạnh tranh, cuộc thi",
+    "pronunciation": "/ˌkɑːmpəˈtɪʃn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Stiff competition in the market has kept prices down.",
+    "exampleVi": "Sự cạnh tranh gay gắt trên thị trường đã giữ cho giá cả ở mức thấp.",
+    "collocations": [
+      "stiff competition",
+      "face competition",
+      "market competition"
+    ],
+    "synonyms": [
+      "rivalry",
+      "contest"
+    ],
+    "wordFamily": [
+      "compete",
+      "competitor",
+      "competitive"
+    ],
+    "day": 35
+  },
+  {
+    "id": "competitive-adjective",
+    "word": "competitive",
+    "baseWord": "compete",
+    "type": "adjective",
+    "meaning": "mang tính cạnh tranh, giá cả phải chăng (có sức cạnh tranh)",
+    "pronunciation": "/kəmˈpetətɪv/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We offer high-quality products at very competitive prices.",
+    "exampleVi": "Chúng tôi cung cấp các sản phẩm chất lượng cao với giá cả rất cạnh tranh.",
+    "collocations": [
+      "competitive price",
+      "competitive edge",
+      "highly competitive"
+    ],
+    "synonyms": [
+      "cheap",
+      "affordable",
+      "rivaling"
+    ],
+    "wordFamily": [
+      "compete",
+      "competition",
+      "competitively"
+    ],
+    "day": 35
+  },
+  {
+    "id": "competitor-noun",
+    "word": "competitor",
+    "baseWord": "compete",
+    "type": "noun",
+    "meaning": "đối thủ cạnh tranh",
+    "pronunciation": "/kəmˈpetɪtər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our competitors have lowered their prices, so we must respond.",
+    "exampleVi": "Các đối thủ cạnh tranh của chúng tôi đã giảm giá của họ, vì vậy chúng tôi phải phản ứng lại.",
+    "collocations": [
+      "chief competitor",
+      "direct competitor",
+      "outperform a competitor"
+    ],
+    "synonyms": [
+      "rival",
+      "opponent"
+    ],
+    "wordFamily": [
+      "compete",
+      "competition",
+      "competitive"
+    ],
+    "day": 35
+  },
+  {
+    "id": "cost-price-phrase",
+    "word": "cost price",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "giá vốn, giá thành sản xuất",
+    "pronunciation": "/kɔːst praɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We sell our old stock at cost price just to clear space.",
+    "exampleVi": "Chúng tôi bán số hàng cũ của mình bằng giá vốn chỉ để dọn dẹp chỗ trống.",
+    "collocations": [
+      "at cost price",
+      "calculate cost price",
+      "below cost price"
+    ],
+    "synonyms": [
+      "cost of production"
+    ],
+    "wordFamily": [
+      "cost",
+      "price"
+    ],
+    "day": 35
+  },
+  {
+    "id": "e-commerce-noun",
+    "word": "e-commerce",
+    "baseWord": "commerce",
+    "type": "noun",
+    "meaning": "thương mại điện tử",
+    "pronunciation": "/ˈiː kɑːmɜːrs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The growth of e-commerce has led to the decline of physical shops.",
+    "exampleVi": "Sự phát triển của thương mại điện tử đã dẫn đến sự suy giảm của các cửa hàng vật lý.",
+    "collocations": [
+      "e-commerce platform",
+      "e-commerce site",
+      "e-commerce sales"
+    ],
+    "synonyms": [
+      "online trade",
+      "electronic commerce"
+    ],
+    "wordFamily": [
+      "commerce",
+      "commercial"
+    ],
+    "day": 35
+  },
+  {
+    "id": "gift-card-phrase",
+    "word": "gift card",
+    "baseWord": "card",
+    "type": "phrase",
+    "meaning": "thẻ quà tặng mua hàng",
+    "pronunciation": "/ɡɪft kɑːrd/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "I received a fifty-dollar gift card to my favorite bookstore.",
+    "exampleVi": "Tôi đã nhận được một thẻ quà tặng trị giá năm mươi đô la cho hiệu sách yêu thích của mình.",
+    "collocations": [
+      "receive a gift card",
+      "purchase a gift card",
+      "gift card balance"
+    ],
+    "synonyms": [
+      "gift voucher",
+      "token"
+    ],
+    "wordFamily": [
+      "gift",
+      "card"
+    ],
+    "day": 35
+  },
+  {
+    "id": "loss-noun",
+    "word": "loss",
+    "baseWord": "lose",
+    "type": "noun",
+    "meaning": "sự thua lỗ, sự tổn thất",
+    "pronunciation": "/lɔːs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The retail company reported a heavy loss in the third quarter.",
+    "exampleVi": "Công ty bán lẻ báo cáo một khoản lỗ lớn trong quý ba.",
+    "collocations": [
+      "financial loss",
+      "net loss",
+      "operating at a loss"
+    ],
+    "synonyms": [
+      "deficit",
+      "reduction"
+    ],
+    "wordFamily": [
+      "lose",
+      "loser",
+      "lost"
+    ],
+    "day": 35
+  },
+  {
+    "id": "loyalty-program-phrase",
+    "word": "loyalty program",
+    "baseWord": "loyal",
+    "type": "phrase",
+    "meaning": "chương trình khách hàng thân thiết",
+    "pronunciation": "/ˈlɔɪəlti ˈproʊɡræm/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Join our loyalty program today to receive exclusive member discounts.",
+    "exampleVi": "Hãy tham gia chương trình khách hàng thân thiết của chúng tôi ngay hôm nay để nhận được mức giảm giá độc quyền dành cho thành viên.",
+    "collocations": [
+      "customer loyalty program",
+      "join a loyalty program",
+      "loyalty program member"
+    ],
+    "synonyms": [
+      "rewards program"
+    ],
+    "wordFamily": [
+      "loyal",
+      "loyalty",
+      "program"
+    ],
+    "day": 35
+  },
+  {
+    "id": "margin-noun",
+    "word": "margin",
+    "baseWord": "margin",
+    "type": "noun",
+    "meaning": "biên lợi nhuận, lề trang giấy",
+    "pronunciation": "/ˈmɑːrdʒɪn/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to keep our operating costs low to improve our profit margin.",
+    "exampleVi": "Chúng tôi cần giữ chi phí hoạt động thấp để cải thiện biên lợi nhuận của mình.",
+    "collocations": [
+      "profit margin",
+      "safety margin",
+      "operating margin"
+    ],
+    "synonyms": [
+      "border",
+      "edge",
+      "allowance"
+    ],
+    "wordFamily": [
+      "marginal",
+      "marginally"
+    ],
+    "day": 35
+  },
+  {
+    "id": "monopoly-noun",
+    "word": "monopoly",
+    "baseWord": "monopoly",
+    "type": "noun",
+    "meaning": "sự độc quyền thị trường",
+    "pronunciation": "/məˈnɑːpəli/",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The government is trying to break up the postal service monopoly.",
+    "exampleVi": "Chính phủ đang cố gắng phá bỏ sự độc quyền của dịch vụ bưu chính.",
+    "collocations": [
+      "absolute monopoly",
+      "have a monopoly",
+      "monopoly power"
+    ],
+    "synonyms": [
+      "exclusive control"
+    ],
+    "wordFamily": [
+      "monopolistic",
+      "monopolize"
+    ],
+    "day": 35
+  },
+  {
+    "id": "online-shopping-phrase",
+    "word": "online shopping",
+    "baseWord": "shop",
+    "type": "phrase",
+    "meaning": "mua sắm trực tuyến, mua sắm qua mạng",
+    "pronunciation": "/ˈɑːnlaɪn ˈʃɑːpɪŋ/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Online shopping is convenient because you can shop from home.",
+    "exampleVi": "Mua sắm trực tuyến rất tiện lợi vì bạn có thể mua sắm ngay tại nhà.",
+    "collocations": [
+      "do online shopping",
+      "online shopping site",
+      "growth of online shopping"
+    ],
+    "synonyms": [
+      "internet shopping",
+      "e-shopping"
+    ],
+    "wordFamily": [
+      "shop",
+      "online"
+    ],
+    "day": 35
+  },
+  {
+    "id": "profit-noun",
+    "word": "profit",
+    "baseWord": "profit",
+    "type": "noun",
+    "meaning": "lợi nhuận, tiền lãi",
+    "pronunciation": "/ˈprɑːfɪt/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store made a substantial profit on the sale of the building.",
+    "exampleVi": "Cửa hàng đã kiếm được một khoản lợi nhuận đáng kể từ việc bán tòa nhà.",
+    "collocations": [
+      "make a profit",
+      "net profit",
+      "operating profit"
+    ],
+    "synonyms": [
+      "gain",
+      "earnings",
+      "returns"
+    ],
+    "wordFamily": [
+      "profitable",
+      "profitably",
+      "profitability"
+    ],
+    "day": 35
+  },
+  {
+    "id": "purchase-order-phrase",
+    "word": "purchase order",
+    "baseWord": "order",
+    "type": "phrase",
+    "meaning": "đơn đặt hàng chính thức (từ người mua gửi người bán)",
+    "pronunciation": "/ˈpɜːrtʃəs ˈɔːrdər/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please submit a purchase order to the finance office for approval.",
+    "exampleVi": "Vui lòng nộp đơn đặt hàng cho văn phòng tài chính để phê duyệt.",
+    "collocations": [
+      "submit a purchase order",
+      "approve a purchase order",
+      "purchase order number"
+    ],
+    "synonyms": [
+      "order form"
+    ],
+    "wordFamily": [
+      "purchase",
+      "order"
+    ],
+    "day": 35
+  },
+  {
+    "id": "retail-price-phrase",
+    "word": "retail price",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "giá bán lẻ (giá niêm yết cho người tiêu dùng cuối)",
+    "pronunciation": "/ˈriːteɪl praɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The suggested retail price for this coat is two hundred dollars.",
+    "exampleVi": "Giá bán lẻ đề xuất cho chiếc áo khoác này là hai trăm đô la.",
+    "collocations": [
+      "suggested retail price",
+      "recommended retail price",
+      "below retail price"
+    ],
+    "synonyms": [
+      "consumer price"
+    ],
+    "wordFamily": [
+      "retail",
+      "price"
+    ],
+    "day": 35
+  },
+  {
+    "id": "revenue-noun",
+    "word": "revenue",
+    "baseWord": "revenue",
+    "type": "noun",
+    "meaning": "doanh thu, tổng thu nhập trước thuế",
+    "pronunciation": "/ˈrevənuː/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Advertising revenue has increased due to the new marketing campaign.",
+    "exampleVi": "Doanh thu quảng cáo đã tăng lên nhờ chiến dịch tiếp thị mới.",
+    "collocations": [
+      "annual revenue",
+      "advertising revenue",
+      "generate revenue"
+    ],
+    "synonyms": [
+      "income",
+      "yield",
+      "returns"
+    ],
+    "wordFamily": [],
+    "day": 35
+  },
+  {
+    "id": "reward-points-phrase",
+    "word": "reward points",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "điểm thưởng tích lũy khi mua hàng",
+    "pronunciation": "/rɪˈwɔːrd pɔɪnts/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "You can redeem your reward points for merchandise or gift cards.",
+    "exampleVi": "Bạn có thể quy đổi điểm thưởng tích lũy của mình để lấy hàng hóa hoặc thẻ quà tặng.",
+    "collocations": [
+      "earn reward points",
+      "redeem reward points",
+      "accumulate reward points"
+    ],
+    "synonyms": [
+      "loyalty points"
+    ],
+    "wordFamily": [
+      "reward",
+      "point"
+    ],
+    "day": 35
+  },
+  {
+    "id": "sales-volume-phrase",
+    "word": "sales volume",
+    "baseWord": "sale",
+    "type": "phrase",
+    "meaning": "doanh số bán hàng, số lượng đơn vị sản phẩm bán ra",
+    "pronunciation": "/seɪlz ˈvɑːljuːm/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's sales volume decreased during the economic recession.",
+    "exampleVi": "Doanh số bán hàng của công ty đã giảm trong thời kỳ suy thoái kinh tế.",
+    "collocations": [
+      "increase sales volume",
+      "monthly sales volume",
+      "sales volume targets"
+    ],
+    "synonyms": [
+      "sales numbers"
+    ],
+    "wordFamily": [
+      "sale",
+      "volume"
+    ],
+    "day": 35
+  },
+  {
+    "id": "selling-price-phrase",
+    "word": "selling price",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "giá bán, mức giá bán ra cho người mua",
+    "pronunciation": "/ˈselɪŋ praɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The selling price of the product includes taxes and shipping.",
+    "exampleVi": "Giá bán của sản phẩm đã bao gồm thuế và phí vận chuyển.",
+    "collocations": [
+      "recommended selling price",
+      "average selling price",
+      "set a selling price"
+    ],
+    "synonyms": [
+      "market price"
+    ],
+    "wordFamily": [
+      "sell",
+      "price"
+    ],
+    "day": 35
+  },
+  {
+    "id": "wholesale-price-phrase",
+    "word": "wholesale price",
+    "baseWord": "price",
+    "type": "phrase",
+    "meaning": "giá bán sỉ (giá cho các đại lý mua số lượng lớn)",
+    "pronunciation": "/ˈhoʊlseɪl praɪs/",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We can offer a lower wholesale price if you double your order.",
+    "exampleVi": "Chúng tôi có thể đề xuất mức giá bán sỉ thấp hơn nếu bạn tăng gấp đôi đơn đặt hàng của mình.",
+    "collocations": [
+      "discounted wholesale price",
+      "wholesale price index",
+      "compare wholesale prices"
+    ],
+    "synonyms": [
+      "dealer price"
+    ],
+    "wordFamily": [
+      "wholesale",
+      "price"
+    ],
+    "day": 35
+  }
+]

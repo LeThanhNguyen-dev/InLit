@@ -1,0 +1,3146 @@
+[
+  {
+    "id": "agile-adjective",
+    "word": "agile",
+    "baseWord": "agile",
+    "type": "adjective",
+    "meaning": "linh hoạt, nhanh nhẹn (phương pháp Agile)",
+    "pronunciation": "/ˈædʒaɪl/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The agency adopted agile methodologies to improve response times.",
+    "exampleVi": "Đại lý đã áp dụng các phương pháp linh hoạt để cải thiện thời gian phản hồi.",
+    "collocations": [
+      "agile methodology",
+      "agile development",
+      "agile team"
+    ],
+    "synonyms": [
+      "nimble",
+      "flexible",
+      "adaptable"
+    ],
+    "wordFamily": [
+      "agility",
+      "agilely"
+    ],
+    "day": 86
+  },
+  {
+    "id": "backlog-noun",
+    "word": "backlog",
+    "baseWord": "backlog",
+    "type": "noun",
+    "meaning": "danh sách công việc tồn đọng, việc chờ xử lý",
+    "pronunciation": "/ˈbækˌlɔːg/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to clear the backlog of feature requests next sprint.",
+    "exampleVi": "Chúng ta cần giải quyết danh sách tồn đọng các yêu cầu tính năng trong chu kỳ nước rút tới.",
+    "collocations": [
+      "product backlog",
+      "backlog item",
+      "clear the backlog"
+    ],
+    "synonyms": [
+      "accumulation",
+      "reserve",
+      "pileup"
+    ],
+    "wordFamily": [
+      "backlogs",
+      "backlog (v.)"
+    ],
+    "day": 86
+  },
+  {
+    "id": "constraint-noun",
+    "word": "constraint",
+    "baseWord": "constrain",
+    "type": "noun",
+    "meaning": "sự ràng buộc, hạn chế",
+    "pronunciation": "/kənˈstreɪnt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Budget constraints prevented us from hiring more software engineers.",
+    "exampleVi": "Ràng buộc ngân sách đã ngăn cản chúng tôi thuê thêm kỹ sư phần mềm.",
+    "collocations": [
+      "budget constraints",
+      "time constraint",
+      "resource constraint"
+    ],
+    "synonyms": [
+      "restriction",
+      "limitation",
+      "bound"
+    ],
+    "wordFamily": [
+      "constrain",
+      "constrained",
+      "constraints"
+    ],
+    "day": 86
+  },
+  {
+    "id": "contingency-noun",
+    "word": "contingency",
+    "baseWord": "contingency",
+    "type": "noun",
+    "meaning": "sự cố bất ngờ, trường hợp dự phòng",
+    "pronunciation": "/kənˈtɪndʒənsi/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We have established a contingency fund for unexpected expenses.",
+    "exampleVi": "Chúng tôi đã thiết lập một quỹ dự phòng cho các chi phí bất ngờ.",
+    "collocations": [
+      "contingency plan",
+      "contingency fund",
+      "contingency measure"
+    ],
+    "synonyms": [
+      "emergency",
+      "backup",
+      "provision"
+    ],
+    "wordFamily": [
+      "contingent",
+      "contingently",
+      "contingencies"
+    ],
+    "day": 86
+  },
+  {
+    "id": "critical path-phrase",
+    "word": "critical path",
+    "baseWord": "critical path",
+    "type": "phrase",
+    "meaning": "đường găng, chuỗi tác vụ quyết định thời gian dự án",
+    "pronunciation": "/ˈkrɪtɪkl pæθ/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Any delay on the critical path will push back the project end date.",
+    "exampleVi": "Bất kỳ sự chậm trễ nào trên đường găng sẽ lùi ngày kết thúc dự án.",
+    "collocations": [
+      "critical path analysis",
+      "critical path method"
+    ],
+    "synonyms": [
+      "critical chain"
+    ],
+    "wordFamily": [
+      "critical",
+      "path",
+      "paths"
+    ],
+    "day": 86
+  },
+  {
+    "id": "deliverable-noun",
+    "word": "deliverable",
+    "baseWord": "deliverable",
+    "type": "noun",
+    "meaning": "sản phẩm bàn giao, kết quả bàn giao",
+    "pronunciation": "/dɪˈlɪvərəbl/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The team must complete all key deliverables by the end of the month.",
+    "exampleVi": "Nhóm phải hoàn thành tất cả các sản phẩm bàn giao chính trước cuối tháng.",
+    "collocations": [
+      "key deliverables",
+      "project deliverables",
+      "meet deliverables"
+    ],
+    "synonyms": [
+      "output",
+      "product",
+      "result"
+    ],
+    "wordFamily": [
+      "deliverables",
+      "deliver",
+      "delivery"
+    ],
+    "day": 86
+  },
+  {
+    "id": "dependency-noun",
+    "word": "dependency",
+    "baseWord": "depend",
+    "type": "noun",
+    "meaning": "sự phụ thuộc, tác vụ phụ thuộc",
+    "pronunciation": "/dɪˈpendənsi/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Identifying task dependencies is crucial for scheduling the project.",
+    "exampleVi": "Xác định các tác vụ phụ thuộc là rất quan trọng để lập lịch trình dự án.",
+    "collocations": [
+      "task dependency",
+      "external dependency",
+      "dependency map"
+    ],
+    "synonyms": [
+      "reliance",
+      "interconnection"
+    ],
+    "wordFamily": [
+      "depend",
+      "dependent",
+      "dependence"
+    ],
+    "day": 86
+  },
+  {
+    "id": "feasibility-noun",
+    "word": "feasibility",
+    "baseWord": "feasibility",
+    "type": "noun",
+    "meaning": "tính khả thi",
+    "pronunciation": "/ˌfiːzəˈbɪləti/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The board requested a feasibility study before committing funds.",
+    "exampleVi": "Hội đồng quản trị yêu cầu nghiên cứu khả thi trước khi cam kết cấp vốn.",
+    "collocations": [
+      "feasibility study",
+      "assess feasibility",
+      "economic feasibility"
+    ],
+    "synonyms": [
+      "viability",
+      "practicability"
+    ],
+    "wordFamily": [
+      "feasible",
+      "feasibility",
+      "infeasible"
+    ],
+    "day": 86
+  },
+  {
+    "id": "gantt chart-phrase",
+    "word": "gantt chart",
+    "baseWord": "gantt chart",
+    "type": "phrase",
+    "meaning": "biểu đồ Gantt, biểu đồ tiến độ dự án",
+    "pronunciation": "/ˈgænt tʃɑːrt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Use the Gantt chart to track task progress and milestones.",
+    "exampleVi": "Sử dụng biểu đồ Gantt để theo dõi tiến độ công việc và các mốc quan trọng.",
+    "collocations": [
+      "create a Gantt chart",
+      "Gantt chart software"
+    ],
+    "synonyms": [
+      "project schedule",
+      "bar chart"
+    ],
+    "wordFamily": [
+      "Gantt",
+      "chart",
+      "charts"
+    ],
+    "day": 86
+  },
+  {
+    "id": "kickoff-noun",
+    "word": "kickoff",
+    "baseWord": "kickoff",
+    "type": "noun",
+    "meaning": "sự khởi động, buổi họp khởi động dự án",
+    "pronunciation": "/ˈkɪkɔːf/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The project kickoff is scheduled for next Monday morning.",
+    "exampleVi": "Buổi họp khởi động dự án được lên lịch vào sáng thứ Hai tuần tới.",
+    "collocations": [
+      "project kickoff",
+      "kickoff meeting",
+      "kickoff session"
+    ],
+    "synonyms": [
+      "launch",
+      "start",
+      "initiation"
+    ],
+    "wordFamily": [
+      "kickoffs",
+      "kick off"
+    ],
+    "day": 86
+  },
+  {
+    "id": "project charter-phrase",
+    "word": "project charter",
+    "baseWord": "project charter",
+    "type": "phrase",
+    "meaning": "điều lệ dự án, quyết định thành lập dự án",
+    "pronunciation": "/ˈprɑːdʒekt ˈtʃɑːrtər/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The project charter formally defines the authority of the manager.",
+    "exampleVi": "Điều lệ dự án xác định chính thức quyền hạn của người quản lý.",
+    "collocations": [
+      "sign the project charter",
+      "approve the project charter"
+    ],
+    "synonyms": [
+      "project definition document"
+    ],
+    "wordFamily": [
+      "project",
+      "charter",
+      "charters"
+    ],
+    "day": 86
+  },
+  {
+    "id": "resource allocation-phrase",
+    "word": "resource allocation",
+    "baseWord": "resource allocation",
+    "type": "phrase",
+    "meaning": "sự phân bổ nguồn lực, tài nguyên",
+    "pronunciation": "/rɪˈsɔːrs ˌæləˈkeɪʃən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Efficient resource allocation helped us finish the project under budget.",
+    "exampleVi": "Sự phân bổ nguồn lực hiệu quả đã giúp chúng tôi hoàn thành dự án dưới ngân sách.",
+    "collocations": [
+      "efficient resource allocation",
+      "resource allocation plan"
+    ],
+    "synonyms": [
+      "resource distribution",
+      "assignment"
+    ],
+    "wordFamily": [
+      "resource",
+      "allocate",
+      "allocation"
+    ],
+    "day": 86
+  },
+  {
+    "id": "risk mitigation-phrase",
+    "word": "risk mitigation",
+    "baseWord": "risk mitigation",
+    "type": "phrase",
+    "meaning": "sự giảm thiểu rủi ro",
+    "pronunciation": "/rɪsk ˌmɪtɪˈgəʃən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our risk mitigation strategy includes backing up all data daily.",
+    "exampleVi": "Chiến lược giảm thiểu rủi ro của chúng tôi bao gồm sao lưu tất cả dữ liệu hàng ngày.",
+    "collocations": [
+      "risk mitigation strategy",
+      "effective risk mitigation",
+      "risk mitigation plan"
+    ],
+    "synonyms": [
+      "risk reduction",
+      "risk management"
+    ],
+    "wordFamily": [
+      "risk",
+      "mitigate",
+      "mitigation"
+    ],
+    "day": 86
+  },
+  {
+    "id": "scope-noun",
+    "word": "scope",
+    "baseWord": "scope",
+    "type": "noun",
+    "meaning": "phạm vi, quy mô công việc",
+    "pronunciation": "/skoʊp/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to define the scope of the project before hiring contractors.",
+    "exampleVi": "Chúng ta cần xác định phạm vi của dự án trước khi thuê nhà thầu.",
+    "collocations": [
+      "scope of work",
+      "project scope",
+      "define the scope"
+    ],
+    "synonyms": [
+      "range",
+      "extent",
+      "breadth"
+    ],
+    "wordFamily": [
+      "scopes",
+      "scoping",
+      "scope out"
+    ],
+    "day": 86
+  },
+  {
+    "id": "scrum-noun",
+    "word": "scrum",
+    "baseWord": "scrum",
+    "type": "noun",
+    "meaning": "phương pháp quản lý dự án Scrum, họp nhanh hàng ngày",
+    "pronunciation": "/skrʌm/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We hold a daily scrum meeting at 9:00 AM to discuss blockers.",
+    "exampleVi": "Chúng tôi tổ chức một cuộc họp nhanh hàng ngày lúc 9:00 sáng để thảo luận về các chướng ngại.",
+    "collocations": [
+      "scrum meeting",
+      "daily scrum",
+      "scrum framework"
+    ],
+    "synonyms": [
+      "stand-up meeting"
+    ],
+    "wordFamily": [
+      "scrums",
+      "scrumming",
+      "scrum master"
+    ],
+    "day": 86
+  },
+  {
+    "id": "sprint-noun",
+    "word": "sprint",
+    "baseWord": "sprint",
+    "type": "noun",
+    "meaning": "giai đoạn nước rút, chu kỳ làm việc ngắn",
+    "pronunciation": "/sprɪnt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The software development team is starting a two-week sprint today.",
+    "exampleVi": "Nhóm phát triển phần mềm đang bắt đầu một chu kỳ nước rút hai tuần vào ngày hôm nay.",
+    "collocations": [
+      "two-week sprint",
+      "sprint planning",
+      "sprint goal"
+    ],
+    "synonyms": [
+      "cycle",
+      "iteration"
+    ],
+    "wordFamily": [
+      "sprints",
+      "sprinting",
+      "sprinter"
+    ],
+    "day": 86
+  },
+  {
+    "id": "status report-phrase",
+    "word": "status report",
+    "baseWord": "status report",
+    "type": "phrase",
+    "meaning": "báo cáo tình trạng, báo cáo tiến độ",
+    "pronunciation": "/ˈsteɪtəs rɪˈpɔːrt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please submit your weekly status report by 5:00 PM on Friday.",
+    "exampleVi": "Vui lòng nộp báo cáo tình trạng hàng tuần của bạn trước 5:00 chiều thứ Sáu.",
+    "collocations": [
+      "weekly status report",
+      "monthly status report",
+      "submit a status report"
+    ],
+    "synonyms": [
+      "progress report",
+      "update"
+    ],
+    "wordFamily": [
+      "status",
+      "report",
+      "reports"
+    ],
+    "day": 86
+  },
+  {
+    "id": "timeline-noun",
+    "word": "timeline",
+    "baseWord": "timeline",
+    "type": "noun",
+    "meaning": "tiến trình thời gian, mốc thời gian",
+    "pronunciation": "/ˈtaɪmlaɪn/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager presented a detailed timeline for the product launch.",
+    "exampleVi": "Người quản lý đã trình bày một tiến trình thời gian chi tiết cho việc ra mắt sản phẩm.",
+    "collocations": [
+      "project timeline",
+      "proposed timeline",
+      "strict timeline"
+    ],
+    "synonyms": [
+      "schedule",
+      "chronology"
+    ],
+    "wordFamily": [
+      "timelines",
+      "timeline (v.)"
+    ],
+    "day": 86
+  },
+  {
+    "id": "waterfall-noun",
+    "word": "waterfall",
+    "baseWord": "waterfall",
+    "type": "noun",
+    "meaning": "quy trình thác nước, quy trình tuần tự",
+    "pronunciation": "/ˈwɔːtərfɔːl/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Unlike Agile, the Waterfall model does not allow easy scope changes.",
+    "exampleVi": "Không giống như Agile, mô hình Waterfall không cho phép thay đổi phạm vi dễ dàng.",
+    "collocations": [
+      "waterfall model",
+      "waterfall methodology",
+      "waterfall process"
+    ],
+    "synonyms": [
+      "sequential model"
+    ],
+    "wordFamily": [
+      "waterfalls",
+      "waterfall process"
+    ],
+    "day": 86
+  },
+  {
+    "id": "work breakdown structure-phrase",
+    "word": "work breakdown structure",
+    "baseWord": "work breakdown structure",
+    "type": "phrase",
+    "meaning": "cơ cấu phân chia công việc (WBS)",
+    "pronunciation": "/wɜːrk ˈbreɪkdaʊn ˈstrʌktʃər/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We created a work breakdown structure to organize tasks hierarchically.",
+    "exampleVi": "Chúng tôi đã tạo ra một cơ cấu phân chia công việc để tổ chức các tác vụ theo phân cấp.",
+    "collocations": [
+      "detailed work breakdown structure",
+      "create a work breakdown structure"
+    ],
+    "synonyms": [
+      "task hierarchy",
+      "WBS"
+    ],
+    "wordFamily": [
+      "work",
+      "breakdown",
+      "structure"
+    ],
+    "day": 86
+  },
+  {
+    "id": "align-verb",
+    "word": "align",
+    "baseWord": "align",
+    "type": "verb",
+    "meaning": "căn chỉnh, đồng bộ, nhất quán",
+    "pronunciation": "/əˈlaɪn/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We must align our project goals with the corporate strategy.",
+    "exampleVi": "Chúng ta phải đồng bộ mục tiêu dự án của mình với chiến lược của công ty.",
+    "collocations": [
+      "align goals",
+      "align with strategy",
+      "closely align"
+    ],
+    "synonyms": [
+      "coordinate",
+      "match",
+      "conform"
+    ],
+    "wordFamily": [
+      "alignment",
+      "aligning",
+      "aligned"
+    ],
+    "day": 87
+  },
+  {
+    "id": "alignment-noun",
+    "word": "alignment",
+    "baseWord": "align",
+    "type": "noun",
+    "meaning": "sự căn chỉnh, sự đồng bộ nhất quán",
+    "pronunciation": "/əˈlaɪnmənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager ensured perfect alignment between developers and designers.",
+    "exampleVi": "Người quản lý đảm bảo sự đồng bộ hoàn hảo giữa các lập trình viên và nhà thiết kế.",
+    "collocations": [
+      "strategic alignment",
+      "in alignment with",
+      "ensure alignment"
+    ],
+    "synonyms": [
+      "agreement",
+      "harmony",
+      "conformity"
+    ],
+    "wordFamily": [
+      "align",
+      "aligning",
+      "aligned"
+    ],
+    "day": 87
+  },
+  {
+    "id": "blocker-noun",
+    "word": "blocker",
+    "baseWord": "block",
+    "type": "noun",
+    "meaning": "vật cản, chướng ngại (làm dừng công việc)",
+    "pronunciation": "/ˈblɑːkər/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please raise any blockers you have during the daily stand-up meeting.",
+    "exampleVi": "Vui lòng nêu ra bất kỳ chướng ngại nào bạn gặp phải trong cuộc họp nhanh hàng ngày.",
+    "collocations": [
+      "identify blockers",
+      "remove blockers",
+      "key blocker"
+    ],
+    "synonyms": [
+      "obstacle",
+      "impediment"
+    ],
+    "wordFamily": [
+      "block",
+      "blocked",
+      "blocking"
+    ],
+    "day": 87
+  },
+  {
+    "id": "closure-noun",
+    "word": "closure",
+    "baseWord": "close",
+    "type": "noun",
+    "meaning": "sự khép lại, đóng cửa, kết thúc dự án",
+    "pronunciation": "/ˈkloʊʒər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We are completing final administrative tasks for project closure.",
+    "exampleVi": "Chúng tôi đang hoàn thành các tác vụ hành chính cuối cùng để đóng dự án.",
+    "collocations": [
+      "project closure",
+      "formal closure",
+      "bring to closure"
+    ],
+    "synonyms": [
+      "completion",
+      "conclusion",
+      "termination"
+    ],
+    "wordFamily": [
+      "close",
+      "closed",
+      "closing"
+    ],
+    "day": 87
+  },
+  {
+    "id": "execute-verb",
+    "word": "execute",
+    "baseWord": "execute",
+    "type": "verb",
+    "meaning": "thực hiện, thi hành, ký kết",
+    "pronunciation": "/ˈeksɪkjuːt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need a skilled team to execute this marketing plan.",
+    "exampleVi": "Chúng tôi cần một đội ngũ lành nghề để thực hiện kế hoạch tiếp thị này.",
+    "collocations": [
+      "execute a plan",
+      "execute a contract",
+      "successfully execute"
+    ],
+    "synonyms": [
+      "perform",
+      "implement",
+      "discharge"
+    ],
+    "wordFamily": [
+      "execution",
+      "executable",
+      "executive"
+    ],
+    "day": 87
+  },
+  {
+    "id": "execution-noun",
+    "word": "execution",
+    "baseWord": "execute",
+    "type": "noun",
+    "meaning": "sự thực hiện, sự thi hành",
+    "pronunciation": "/ˌeksɪˈkjuːʃən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The success of the campaign depends on the team's execution.",
+    "exampleVi": "Sự thành công của chiến dịch phụ thuộc vào sự thực hiện của nhóm.",
+    "collocations": [
+      "project execution",
+      "flawless execution",
+      "execution phase"
+    ],
+    "synonyms": [
+      "implementation",
+      "carrying out",
+      "performance"
+    ],
+    "wordFamily": [
+      "execute",
+      "executable",
+      "executive"
+    ],
+    "day": 87
+  },
+  {
+    "id": "expediter-noun",
+    "word": "expediter",
+    "baseWord": "expedite",
+    "type": "noun",
+    "meaning": "nhân viên thúc tiến, người theo dõi tiến độ",
+    "pronunciation": "/ˈekspədaɪtər/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The project hired an expediter to ensure supply chain issues are resolved.",
+    "exampleVi": "Dự án đã thuê một nhân viên thúc tiến để đảm bảo các vấn đề chuỗi cung ứng được giải quyết.",
+    "collocations": [
+      "materials expediter",
+      "production expediter"
+    ],
+    "synonyms": [
+      "coordinator",
+      "facilitator"
+    ],
+    "wordFamily": [
+      "expedite",
+      "expeditions",
+      "expeditious"
+    ],
+    "day": 87
+  },
+  {
+    "id": "handover-noun",
+    "word": "handover",
+    "baseWord": "handover",
+    "type": "noun",
+    "meaning": "sự bàn giao công việc, dự án",
+    "pronunciation": "/ˈhændoʊvər/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager arranged a formal handover before leaving for vacation.",
+    "exampleVi": "Người quản lý đã sắp xếp một cuộc bàn giao chính thức trước khi nghỉ phép.",
+    "collocations": [
+      "project handover",
+      "smooth handover",
+      "handover ceremony"
+    ],
+    "synonyms": [
+      "transfer",
+      "passing over"
+    ],
+    "wordFamily": [
+      "hand",
+      "hands",
+      "hand over"
+    ],
+    "day": 87
+  },
+  {
+    "id": "impediment-noun",
+    "word": "impediment",
+    "baseWord": "impede",
+    "type": "noun",
+    "meaning": "sự trở ngại, chướng ngại vật",
+    "pronunciation": "/ɪmˈpedɪmənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Lack of developer availability is a major impediment to our progress.",
+    "exampleVi": "Sự thiếu hụt nguồn lực lập trình viên là một trở ngại lớn đối với tiến độ của chúng tôi.",
+    "collocations": [
+      "major impediment",
+      "serious impediment",
+      "remove impediments"
+    ],
+    "synonyms": [
+      "obstacle",
+      "barrier",
+      "hindrance"
+    ],
+    "wordFamily": [
+      "impede",
+      "impediments",
+      "impeding"
+    ],
+    "day": 87
+  },
+  {
+    "id": "initiate-verb",
+    "word": "initiate",
+    "baseWord": "initiate",
+    "type": "verb",
+    "meaning": "khởi xướng, bắt đầu",
+    "pronunciation": "/ɪˈnɪʃieɪt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The executive committee voted to initiate the expansion project.",
+    "exampleVi": "Ủy ban điều hành đã bỏ phiếu khởi xướng dự án mở rộng.",
+    "collocations": [
+      "initiate a project",
+      "initiate talks",
+      "initiate change"
+    ],
+    "synonyms": [
+      "start",
+      "launch",
+      "begin"
+    ],
+    "wordFamily": [
+      "initiation",
+      "initiative",
+      "initiator",
+      "initiated"
+    ],
+    "day": 87
+  },
+  {
+    "id": "initiation-noun",
+    "word": "initiation",
+    "baseWord": "initiate",
+    "type": "noun",
+    "meaning": "sự khởi đầu, sự khởi xướng",
+    "pronunciation": "/ɪˌnɪʃiˈeɪʃən/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The initiation phase of the project requires stakeholder approval.",
+    "exampleVi": "Giai đoạn khởi đầu của dự án yêu cầu sự chấp thuận của các bên liên quan.",
+    "collocations": [
+      "project initiation",
+      "initiation phase",
+      "initiation ceremony"
+    ],
+    "synonyms": [
+      "beginning",
+      "launch",
+      "commencement"
+    ],
+    "wordFamily": [
+      "initiate",
+      "initiative",
+      "initiator"
+    ],
+    "day": 87
+  },
+  {
+    "id": "methodological-adjective",
+    "word": "methodological",
+    "baseWord": "methodology",
+    "type": "adjective",
+    "meaning": "thuộc về phương pháp luận",
+    "pronunciation": "/ˌmeθədəˈlɑːdʒɪkl/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The audit revealed several methodological errors in the study.",
+    "exampleVi": "Cuộc kiểm toán đã tiết lộ một số lỗi thuộc về phương pháp luận trong nghiên cứu.",
+    "collocations": [
+      "methodological errors",
+      "methodological framework"
+    ],
+    "synonyms": [
+      "systematic",
+      "procedural"
+    ],
+    "wordFamily": [
+      "methodology",
+      "methodologically",
+      "methodologies"
+    ],
+    "day": 87
+  },
+  {
+    "id": "methodology-noun",
+    "word": "methodology",
+    "baseWord": "methodology",
+    "type": "noun",
+    "meaning": "hệ phương pháp, phương pháp luận",
+    "pronunciation": "/ˌmeθəˈdɑːlədʒi/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We use a rigorous methodology to test software updates.",
+    "exampleVi": "Chúng tôi sử dụng một hệ phương pháp nghiêm ngặt để kiểm thử các bản cập nhật phần mềm.",
+    "collocations": [
+      "project methodology",
+      "research methodology",
+      "agile methodology"
+    ],
+    "synonyms": [
+      "method",
+      "system",
+      "approach"
+    ],
+    "wordFamily": [
+      "methodological",
+      "methodologies",
+      "methodologist"
+    ],
+    "day": 87
+  },
+  {
+    "id": "permanent-agenda-phrase",
+    "word": "permanent agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve project management: permanent agenda",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the permanent agenda before the next business day.",
+    "exampleVi": "Vui long xem lai permanent agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "permanent agenda",
+      "permanent agenda process",
+      "permanent agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 87
+  },
+  {
+    "id": "procured-adjective",
+    "word": "procured",
+    "baseWord": "procure",
+    "type": "adjective",
+    "meaning": "được mua sắm, được thu mua",
+    "pronunciation": "/prəˈkjʊrd/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The procured equipment will be delivered to the site tomorrow.",
+    "exampleVi": "Thiết bị được mua sắm sẽ được giao đến địa điểm vào ngày mai.",
+    "collocations": [
+      "procured goods",
+      "procured assets",
+      "locally procured"
+    ],
+    "synonyms": [
+      "acquired",
+      "purchased"
+    ],
+    "wordFamily": [
+      "procure",
+      "procurement",
+      "procures"
+    ],
+    "day": 87
+  },
+  {
+    "id": "project manager-phrase",
+    "word": "project manager",
+    "baseWord": "project manager",
+    "type": "phrase",
+    "meaning": "người quản lý dự án",
+    "pronunciation": "/ˈprɑːdʒekt ˈmænɪdʒər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The project manager will assign roles to the team members.",
+    "exampleVi": "Người quản lý dự án sẽ phân công vai trò cho các thành viên trong nhóm.",
+    "collocations": [
+      "senior project manager",
+      "certified project manager"
+    ],
+    "synonyms": [
+      "project lead",
+      "director"
+    ],
+    "wordFamily": [
+      "project",
+      "manage",
+      "manager"
+    ],
+    "day": 87
+  },
+  {
+    "id": "scheduled-agenda-phrase",
+    "word": "scheduled agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve project management: scheduled agenda",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the scheduled agenda before the next business day.",
+    "exampleVi": "Vui long xem lai scheduled agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "scheduled agenda",
+      "scheduled agenda process",
+      "scheduled agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 87
+  },
+  {
+    "id": "supervise-verb",
+    "word": "supervise",
+    "baseWord": "supervise",
+    "type": "verb",
+    "meaning": "giám sát, quản lý công việc",
+    "pronunciation": "/ˈsuːpərvaɪz/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He was chosen to supervise the construction of the new warehouse.",
+    "exampleVi": "Anh ấy đã được chọn để giám sát việc xây dựng nhà kho mới.",
+    "collocations": [
+      "supervise workers",
+      "supervise construction",
+      "closely supervise"
+    ],
+    "synonyms": [
+      "oversee",
+      "manage",
+      "direct"
+    ],
+    "wordFamily": [
+      "supervision",
+      "supervisor",
+      "supervisory"
+    ],
+    "day": 87
+  },
+  {
+    "id": "supervision-noun",
+    "word": "supervision",
+    "baseWord": "supervise",
+    "type": "noun",
+    "meaning": "sự giám sát, quản lý",
+    "pronunciation": "/ˌsuːpərˈvɪʒən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Construction must be done under the direct supervision of the chief engineer.",
+    "exampleVi": "Việc xây dựng phải được thực hiện dưới sự giám sát trực tiếp của kỹ sư trưởng.",
+    "collocations": [
+      "direct supervision",
+      "under the supervision of",
+      "close supervision"
+    ],
+    "synonyms": [
+      "oversight",
+      "management",
+      "direction"
+    ],
+    "wordFamily": [
+      "supervise",
+      "supervisor",
+      "supervisory"
+    ],
+    "day": 87
+  },
+  {
+    "id": "temporary-agenda-phrase",
+    "word": "temporary agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve project management: temporary agenda",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the temporary agenda before the next business day.",
+    "exampleVi": "Vui long xem lai temporary agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "temporary agenda",
+      "temporary agenda process",
+      "temporary agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 87
+  },
+  {
+    "id": "allocator-noun",
+    "word": "allocator",
+    "baseWord": "allocate",
+    "type": "noun",
+    "meaning": "người phân bổ, cơ chế phân phối tài nguyên",
+    "pronunciation": "/ˈæləkeɪtər/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The resource allocator coordinates staffing across multiple projects.",
+    "exampleVi": "Người phân bổ nguồn lực điều phối việc bố trí nhân sự trên nhiều dự án.",
+    "collocations": [
+      "resource allocator",
+      "budget allocator"
+    ],
+    "synonyms": [
+      "distributor",
+      "assigner"
+    ],
+    "wordFamily": [
+      "allocate",
+      "allocation",
+      "allocatable"
+    ],
+    "day": 88
+  },
+  {
+    "id": "assignee-noun",
+    "word": "assignee",
+    "baseWord": "assign",
+    "type": "noun",
+    "meaning": "người được giao nhiệm vụ, người được ủy nhiệm",
+    "pronunciation": "/əˌsaɪˈniː/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The assignee must update the ticket status once the task is completed.",
+    "exampleVi": "Người được giao nhiệm vụ phải cập nhật tình trạng yêu cầu sau khi công việc hoàn thành.",
+    "collocations": [
+      "task assignee",
+      "designated assignee"
+    ],
+    "synonyms": [
+      "recipient",
+      "nominee"
+    ],
+    "wordFamily": [
+      "assign",
+      "assignment",
+      "assignor"
+    ],
+    "day": 88
+  },
+  {
+    "id": "assignor-noun",
+    "word": "assignor",
+    "baseWord": "assign",
+    "type": "noun",
+    "meaning": "người giao nhiệm vụ, người ủy nhiệm",
+    "pronunciation": "/əˌsaɪˈnɔːr/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The assignor retains overall responsibility for the quality of the work.",
+    "exampleVi": "Người giao nhiệm vụ vẫn chịu trách nhiệm tổng thể về chất lượng công việc.",
+    "collocations": [
+      "original assignor",
+      "role of assignor"
+    ],
+    "synonyms": [
+      "delegator",
+      "employer"
+    ],
+    "wordFamily": [
+      "assign",
+      "assignment",
+      "assignee"
+    ],
+    "day": 88
+  },
+  {
+    "id": "buffer-noun",
+    "word": "buffer",
+    "baseWord": "buffer",
+    "type": "noun",
+    "meaning": "khoảng đệm (thời gian hoặc tiền bạc)",
+    "pronunciation": "/ˈbʌfər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We added a two-week buffer to the schedule to account for delays.",
+    "exampleVi": "Chúng tôi đã thêm một khoảng đệm hai tuần vào lịch trình để tính đến sự chậm trễ.",
+    "collocations": [
+      "time buffer",
+      "budget buffer",
+      "act as a buffer"
+    ],
+    "synonyms": [
+      "safeguard",
+      "cushion",
+      "margin"
+    ],
+    "wordFamily": [
+      "buffers",
+      "buffered",
+      "buffering"
+    ],
+    "day": 88
+  },
+  {
+    "id": "dashboard-noun",
+    "word": "dashboard",
+    "baseWord": "dashboard",
+    "type": "noun",
+    "meaning": "bảng điều khiển thông tin hiển thị tiến độ",
+    "pronunciation": "/ˈdæʃbɔːrd/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The executive dashboard displays key performance indicators in real time.",
+    "exampleVi": "Bảng thông tin điều hành hiển thị các chỉ số hiệu suất chính trong thời gian thực.",
+    "collocations": [
+      "project dashboard",
+      "online dashboard",
+      "view the dashboard"
+    ],
+    "synonyms": [
+      "control panel",
+      "console"
+    ],
+    "wordFamily": [
+      "dashboards",
+      "dashboard widget"
+    ],
+    "day": 88
+  },
+  {
+    "id": "deviate-verb",
+    "word": "deviate",
+    "baseWord": "deviate",
+    "type": "verb",
+    "meaning": "chệch hướng, làm sai lệch kế hoạch",
+    "pronunciation": "/ˈdiːvieɪt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Do not deviate from the approved project guidelines.",
+    "exampleVi": "Không được chệch hướng khỏi các hướng dẫn dự án đã được phê duyệt.",
+    "collocations": [
+      "deviate from the plan",
+      "deviate from the path"
+    ],
+    "synonyms": [
+      "diverge",
+      "stray",
+      "drift"
+    ],
+    "wordFamily": [
+      "deviation",
+      "deviated",
+      "deviating"
+    ],
+    "day": 88
+  },
+  {
+    "id": "deviation-noun",
+    "word": "deviation",
+    "baseWord": "deviate",
+    "type": "noun",
+    "meaning": "sự chệch hướng, sai lệch",
+    "pronunciation": "/ˌdiːviˈeɪʃən/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Any deviation from the schedule must be reported to the director.",
+    "exampleVi": "Bất kỳ sự sai lệch nào so với lịch trình đều phải báo cáo cho giám đốc.",
+    "collocations": [
+      "standard deviation",
+      "deviation from the plan",
+      "allowable deviation"
+    ],
+    "synonyms": [
+      "divergence",
+      "variation",
+      "departure"
+    ],
+    "wordFamily": [
+      "deviate",
+      "deviating",
+      "deviated"
+    ],
+    "day": 88
+  },
+  {
+    "id": "forecast-verb",
+    "word": "forecast",
+    "baseWord": "forecast",
+    "type": "verb",
+    "meaning": "dự báo, dự đoán (chi phí, tiến độ)",
+    "pronunciation": "/ˈfɔːrkæst/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "It is difficult to forecast the total cost at this early stage.",
+    "exampleVi": "Rất khó để dự báo tổng chi phí ở giai đoạn đầu này.",
+    "collocations": [
+      "forecast sales",
+      "forecast expenses",
+      "accurately forecast"
+    ],
+    "synonyms": [
+      "predict",
+      "estimate",
+      "project"
+    ],
+    "wordFamily": [
+      "forecasts",
+      "forecaster",
+      "forecasting"
+    ],
+    "day": 88
+  },
+  {
+    "id": "monitor-verb",
+    "word": "monitor",
+    "baseWord": "monitor",
+    "type": "verb",
+    "meaning": "giám sát, theo dõi",
+    "pronunciation": "/ˈmɑːnɪtər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The supervisor will monitor the progress of the project closely.",
+    "exampleVi": "Người giám sát sẽ theo dõi tiến độ của dự án một cách chặt chẽ.",
+    "collocations": [
+      "monitor progress",
+      "closely monitor",
+      "monitor performance"
+    ],
+    "synonyms": [
+      "observe",
+      "track",
+      "watch"
+    ],
+    "wordFamily": [
+      "monitor (n.)",
+      "monitored",
+      "monitoring"
+    ],
+    "day": 88
+  },
+  {
+    "id": "overrun-noun",
+    "word": "overrun",
+    "baseWord": "overrun",
+    "type": "noun",
+    "meaning": "sự vượt quá giới hạn (chi phí, thời gian)",
+    "pronunciation": "/ˈoʊvərʌn/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The construction project faced a major budget overrun due to material costs.",
+    "exampleVi": "Dự án xây dựng đã đối mặt với sự vượt quá ngân sách lớn do chi phí vật liệu.",
+    "collocations": [
+      "budget overrun",
+      "cost overrun",
+      "schedule overrun"
+    ],
+    "synonyms": [
+      "excess",
+      "surplus"
+    ],
+    "wordFamily": [
+      "overrun (v.)",
+      "overrunning",
+      "overruns"
+    ],
+    "day": 88
+  },
+  {
+    "id": "projection-noun",
+    "word": "projection",
+    "baseWord": "project",
+    "type": "noun",
+    "meaning": "bản dự phóng, sự dự báo",
+    "pronunciation": "/prəˈdʒekʃən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The financial projection shows steady growth over the next five years.",
+    "exampleVi": "Bản dự phóng tài chính cho thấy sự tăng trưởng ổn định trong năm năm tới.",
+    "collocations": [
+      "financial projection",
+      "sales projection",
+      "make a projection"
+    ],
+    "synonyms": [
+      "forecast",
+      "estimate",
+      "prediction"
+    ],
+    "wordFamily": [
+      "project",
+      "projected",
+      "projecting"
+    ],
+    "day": 88
+  },
+  {
+    "id": "reforecast-verb",
+    "word": "reforecast",
+    "baseWord": "forecast",
+    "type": "verb",
+    "meaning": "dự báo lại, lập lại dự toán",
+    "pronunciation": "/ˌriːˈfɔːrkæst/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The project board asked the team to reforecast the third-quarter budget.",
+    "exampleVi": "Ban dự án đã yêu cầu nhóm dự báo lại ngân sách quý ba.",
+    "collocations": [
+      "reforecast budget",
+      "reforecast sales"
+    ],
+    "synonyms": [
+      "re-estimate",
+      "recalculate"
+    ],
+    "wordFamily": [
+      "forecast",
+      "reforecasted",
+      "reforecasting"
+    ],
+    "day": 88
+  },
+  {
+    "id": "slack-noun",
+    "word": "slack",
+    "baseWord": "slack",
+    "type": "noun",
+    "meaning": "thời gian dự phòng, thời gian chậm trễ cho phép",
+    "pronunciation": "/slæk/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "There is two days of slack in this task, so we don't need to worry yet.",
+    "exampleVi": "Có hai ngày dự phòng cho tác vụ này, vì vậy chúng ta chưa cần lo lắng.",
+    "collocations": [
+      "slack time",
+      "total slack",
+      "slack period"
+    ],
+    "synonyms": [
+      "float",
+      "leeway",
+      "slackness"
+    ],
+    "wordFamily": [
+      "slacker",
+      "slacked",
+      "slackness"
+    ],
+    "day": 88
+  },
+  {
+    "id": "taskload-noun",
+    "word": "taskload",
+    "baseWord": "taskload",
+    "type": "noun",
+    "meaning": "khối lượng công việc tác vụ, số lượng nhiệm vụ",
+    "pronunciation": "/ˈtæskloʊd/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager reduced her taskload to allow her to focus on key designs.",
+    "exampleVi": "Người quản lý đã giảm số lượng nhiệm vụ của cô ấy để cho phép cô ấy tập trung vào các thiết kế chính.",
+    "collocations": [
+      "daily taskload",
+      "manage taskload"
+    ],
+    "synonyms": [
+      "workload",
+      "duties"
+    ],
+    "wordFamily": [
+      "task",
+      "tasks",
+      "tasking"
+    ],
+    "day": 88
+  },
+  {
+    "id": "timesheet-noun",
+    "word": "timesheet",
+    "baseWord": "timesheet",
+    "type": "noun",
+    "meaning": "bảng ghi giờ làm việc, bảng chấm công",
+    "pronunciation": "/ˈtaɪmʃiːt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Consultants must submit their weekly timesheets by Friday at noon.",
+    "exampleVi": "Các tư vấn viên phải nộp bảng ghi giờ làm việc hàng tuần của họ trước trưa thứ Sáu.",
+    "collocations": [
+      "submit a timesheet",
+      "fill out a timesheet",
+      "approve timesheets"
+    ],
+    "synonyms": [
+      "timecard",
+      "time record"
+    ],
+    "wordFamily": [
+      "timesheets",
+      "timesheet record"
+    ],
+    "day": 88
+  },
+  {
+    "id": "track-verb",
+    "word": "track",
+    "baseWord": "track",
+    "type": "verb",
+    "meaning": "theo dõi tiến độ, bám sát",
+    "pronunciation": "/træk/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We use specialized software to track project hours and expenses.",
+    "exampleVi": "Chúng tôi sử dụng phần mềm chuyên dụng để theo dõi giờ dự án và chi phí.",
+    "collocations": [
+      "track progress",
+      "track performance",
+      "track hours"
+    ],
+    "synonyms": [
+      "monitor",
+      "follow",
+      "trail"
+    ],
+    "wordFamily": [
+      "tracker",
+      "tracked",
+      "tracking"
+    ],
+    "day": 88
+  },
+  {
+    "id": "tracker-noun",
+    "word": "tracker",
+    "baseWord": "track",
+    "type": "noun",
+    "meaning": "công cụ theo dõi, thiết bị theo dõi",
+    "pronunciation": "/ˈtrækər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The team uses an online bug tracker to log system errors.",
+    "exampleVi": "Nhóm sử dụng một công cụ theo dõi lỗi trực tuyến để ghi nhận lỗi hệ thống.",
+    "collocations": [
+      "bug tracker",
+      "issue tracker",
+      "progress tracker"
+    ],
+    "synonyms": [
+      "log",
+      "record-keeper"
+    ],
+    "wordFamily": [
+      "track",
+      "tracked",
+      "tracking"
+    ],
+    "day": 88
+  },
+  {
+    "id": "underrun-noun",
+    "word": "underrun",
+    "baseWord": "underrun",
+    "type": "noun",
+    "meaning": "sự dưới mức giới hạn, chi tiêu dưới ngân sách",
+    "pronunciation": "/ˈʌndər-rʌn/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "A significant cost underrun allowed us to invest in additional features.",
+    "exampleVi": "Sự chi tiêu dưới ngân sách đáng kể đã cho phép chúng tôi đầu tư vào các tính năng bổ sung.",
+    "collocations": [
+      "cost underrun",
+      "budget underrun"
+    ],
+    "synonyms": [
+      "saving",
+      "surplus"
+    ],
+    "wordFamily": [
+      "underruns",
+      "underrun (v.)"
+    ],
+    "day": 88
+  },
+  {
+    "id": "variance-noun",
+    "word": "variance",
+    "baseWord": "vary",
+    "type": "noun",
+    "meaning": "độ lệch, sự biến động, sự khác biệt",
+    "pronunciation": "/ˈværiəns/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to analyze the budget variance to explain the high costs.",
+    "exampleVi": "Chúng ta cần phân tích độ lệch ngân sách để giải thích chi phí cao.",
+    "collocations": [
+      "budget variance",
+      "cost variance",
+      "variance report"
+    ],
+    "synonyms": [
+      "deviation",
+      "discrepancy",
+      "difference"
+    ],
+    "wordFamily": [
+      "vary",
+      "variation",
+      "variant"
+    ],
+    "day": 88
+  },
+  {
+    "id": "variant-noun",
+    "word": "variant",
+    "baseWord": "vary",
+    "type": "noun",
+    "meaning": "biến thể, phương án khác",
+    "pronunciation": "/ˈværiənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The design team proposed a variant of the original product model.",
+    "exampleVi": "Nhóm thiết kế đã đề xuất một biến thể của mô hình sản phẩm ban đầu.",
+    "collocations": [
+      "product variant",
+      "design variant"
+    ],
+    "synonyms": [
+      "version",
+      "modification",
+      "alternative"
+    ],
+    "wordFamily": [
+      "vary",
+      "variance",
+      "variable"
+    ],
+    "day": 88
+  },
+  {
+    "id": "change management-phrase",
+    "word": "change management",
+    "baseWord": "change management",
+    "type": "phrase",
+    "meaning": "quy trình quản lý sự thay đổi",
+    "pronunciation": "/tʃeɪndʒ ˈmænɪdʒmənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Good change management minimizes disruptions to the team.",
+    "exampleVi": "Quản lý sự thay đổi tốt sẽ giảm thiểu sự gián đoạn cho nhóm.",
+    "collocations": [
+      "change management process",
+      "change management system"
+    ],
+    "synonyms": [
+      "configuration management"
+    ],
+    "wordFamily": [
+      "change",
+      "manage",
+      "management"
+    ],
+    "day": 89
+  },
+  {
+    "id": "change request-phrase",
+    "word": "change request",
+    "baseWord": "change request",
+    "type": "phrase",
+    "meaning": "yêu cầu thay đổi (trong dự án)",
+    "pronunciation": "/tʃeɪndʒ rɪˈkwest/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The client submitted a formal change request to add a login page.",
+    "exampleVi": "Khách hàng đã nộp một yêu cầu thay đổi chính thức để thêm một trang đăng nhập.",
+    "collocations": [
+      "submit a change request",
+      "approve a change request",
+      "formal change request"
+    ],
+    "synonyms": [
+      "change order"
+    ],
+    "wordFamily": [
+      "change",
+      "request",
+      "requests"
+    ],
+    "day": 89
+  },
+  {
+    "id": "constrain-verb",
+    "word": "constrain",
+    "baseWord": "constrain",
+    "type": "verb",
+    "meaning": "hạn chế, bắt buộc, kìm hãm",
+    "pronunciation": "/kənˈstreɪn/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The tight schedule will constrain our design options.",
+    "exampleVi": "Lịch trình chặt chẽ sẽ hạn chế các lựa chọn thiết kế của chúng tôi.",
+    "collocations": [
+      "constrain growth",
+      "severely constrain",
+      "constrain resources"
+    ],
+    "synonyms": [
+      "restrict",
+      "limit",
+      "confine"
+    ],
+    "wordFamily": [
+      "constraint",
+      "constrained",
+      "constraining"
+    ],
+    "day": 89
+  },
+  {
+    "id": "constrained-adjective",
+    "word": "constrained",
+    "baseWord": "constrain",
+    "type": "adjective",
+    "meaning": "bị hạn chế, bị ràng buộc",
+    "pronunciation": "/kənˈstreɪnd/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We had to work with a highly constrained budget.",
+    "exampleVi": "Chúng tôi đã phải làm việc với một ngân sách bị ràng buộc rất nhiều.",
+    "collocations": [
+      "budget-constrained",
+      "time-constrained",
+      "constrained resources"
+    ],
+    "synonyms": [
+      "restricted",
+      "limited",
+      "confined"
+    ],
+    "wordFamily": [
+      "constrain",
+      "constraint",
+      "constraining"
+    ],
+    "day": 89
+  },
+  {
+    "id": "contingent-adjective",
+    "word": "contingent",
+    "baseWord": "contingency",
+    "type": "adjective",
+    "meaning": "phụ thuộc vào, tùy thuộc vào tình huống",
+    "pronunciation": "/kənˈtɪndʒənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The release of funds is contingent upon meeting the first milestone.",
+    "exampleVi": "Việc cấp vốn phụ thuộc vào việc hoàn thành mốc quan trọng đầu tiên.",
+    "collocations": [
+      "contingent on",
+      "contingent worker",
+      "contingent liability"
+    ],
+    "synonyms": [
+      "dependent",
+      "conditional"
+    ],
+    "wordFamily": [
+      "contingency",
+      "contingently",
+      "contingents"
+    ],
+    "day": 89
+  },
+  {
+    "id": "contingently-adverb",
+    "word": "contingently",
+    "baseWord": "contingency",
+    "type": "adverb",
+    "meaning": "một cách tùy thuộc, ngẫu nhiên",
+    "pronunciation": "/kənˈtɪndʒəntli/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The contract was signed contingently on the patent approval.",
+    "exampleVi": "Hợp đồng đã được ký kết một cách tùy thuộc vào việc phê duyệt bằng sáng chế.",
+    "collocations": [
+      "contingently planned",
+      "contingently funded"
+    ],
+    "synonyms": [
+      "conditionally"
+    ],
+    "wordFamily": [
+      "contingent",
+      "contingency",
+      "contingents"
+    ],
+    "day": 89
+  },
+  {
+    "id": "deliverable items-phrase",
+    "word": "deliverable items",
+    "baseWord": "deliverable items",
+    "type": "phrase",
+    "meaning": "các hạng mục bàn giao",
+    "pronunciation": "/dɪˈlɪvərəbl ˈaɪtəmz/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The contract outlines all the deliverable items and their deadlines.",
+    "exampleVi": "Hợp đồng phác thảo tất cả các hạng mục bàn giao và thời hạn của chúng.",
+    "collocations": [
+      "list of deliverable items",
+      "finalize deliverable items"
+    ],
+    "synonyms": [
+      "deliverables"
+    ],
+    "wordFamily": [
+      "deliver",
+      "deliverable",
+      "items"
+    ],
+    "day": 89
+  },
+  {
+    "id": "earned value-phrase",
+    "word": "earned value",
+    "baseWord": "earned value",
+    "type": "phrase",
+    "meaning": "giá trị kiếm được, giá trị thu được (phương pháp EVM)",
+    "pronunciation": "/ɜːrnd ˈvæljuː/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We use earned value management to measure schedule and cost performance.",
+    "exampleVi": "Chúng tôi sử dụng quản lý giá trị kiếm được để đo lường hiệu suất lịch trình và chi phí.",
+    "collocations": [
+      "earned value management",
+      "earned value analysis"
+    ],
+    "synonyms": [
+      "EVM"
+    ],
+    "wordFamily": [
+      "earn",
+      "earned",
+      "value"
+    ],
+    "day": 89
+  },
+  {
+    "id": "feasibility study-phrase",
+    "word": "feasibility study",
+    "baseWord": "feasibility study",
+    "type": "phrase",
+    "meaning": "nghiên cứu khả thi, khảo sát khả thi",
+    "pronunciation": "/ˌfiːzəˈbɪləti ˈstʌdi/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The consultancy conducted a feasibility study for the new railway route.",
+    "exampleVi": "Công ty tư vấn đã thực hiện nghiên cứu khả thi cho tuyến đường sắt mới.",
+    "collocations": [
+      "conduct a feasibility study",
+      "detailed feasibility study"
+    ],
+    "synonyms": [
+      "viability study"
+    ],
+    "wordFamily": [
+      "feasible",
+      "feasibility",
+      "study"
+    ],
+    "day": 89
+  },
+  {
+    "id": "feasible-adjective",
+    "word": "feasible",
+    "baseWord": "feasibility",
+    "type": "adjective",
+    "meaning": "khả thi, có thể thực hiện được",
+    "pronunciation": "/ˈfiːzəbl/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "It is no longer feasible to complete the project by December.",
+    "exampleVi": "Việc hoàn thành dự án trước tháng 12 không còn khả thi nữa.",
+    "collocations": [
+      "commercially feasible",
+      "technically feasible",
+      "economically feasible"
+    ],
+    "synonyms": [
+      "viable",
+      "practicable",
+      "possible"
+    ],
+    "wordFamily": [
+      "feasibility",
+      "infeasible",
+      "feasibly"
+    ],
+    "day": 89
+  },
+  {
+    "id": "infeasible-adjective",
+    "word": "infeasible",
+    "baseWord": "feasibility",
+    "type": "adjective",
+    "meaning": "không khả thi, không thể thực hiện được",
+    "pronunciation": "/ɪnˈfiːzəbl/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Developing the feature within three days is technically infeasible.",
+    "exampleVi": "Phát triển tính năng đó trong vòng ba ngày là không khả thi về mặt kỹ thuật.",
+    "collocations": [
+      "technically infeasible",
+      "economically infeasible"
+    ],
+    "synonyms": [
+      "impracticable",
+      "unviable",
+      "impossible"
+    ],
+    "wordFamily": [
+      "feasible",
+      "feasibility",
+      "infeasibly"
+    ],
+    "day": 89
+  },
+  {
+    "id": "kickoff meeting-phrase",
+    "word": "kickoff meeting",
+    "baseWord": "kickoff meeting",
+    "type": "phrase",
+    "meaning": "cuộc họp khởi động dự án",
+    "pronunciation": "/ˈkɪkɔːf ˈmiːtɪŋ/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "All stakeholders are invited to attend the project kickoff meeting.",
+    "exampleVi": "Tất cả các bên liên quan được mời tham dự cuộc họp khởi động dự án.",
+    "collocations": [
+      "hold a kickoff meeting",
+      "attend a kickoff meeting"
+    ],
+    "synonyms": [
+      "launch meeting"
+    ],
+    "wordFamily": [
+      "kick",
+      "off",
+      "meeting"
+    ],
+    "day": 89
+  },
+  {
+    "id": "milestone payment-phrase",
+    "word": "milestone payment",
+    "baseWord": "milestone payment",
+    "type": "phrase",
+    "meaning": "thanh toán theo giai đoạn, thanh toán khi đạt mốc",
+    "pronunciation": "/ˈmaɪlstoʊn ˈpeɪmənt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The contract details a milestone payment schedule based on delivery.",
+    "exampleVi": "Hợp đồng nêu chi tiết lịch trình thanh toán theo giai đoạn dựa trên việc bàn giao.",
+    "collocations": [
+      "receive milestone payments",
+      "milestone payment schedule"
+    ],
+    "synonyms": [
+      "progress payment"
+    ],
+    "wordFamily": [
+      "milestone",
+      "pay",
+      "payment"
+    ],
+    "day": 89
+  },
+  {
+    "id": "project lifecycle-phrase",
+    "word": "project lifecycle",
+    "baseWord": "project lifecycle",
+    "type": "phrase",
+    "meaning": "vòng đời dự án",
+    "pronunciation": "/ˈprɑːdʒekt ˈlaɪfsaɪkl/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We are currently in the execution phase of the project lifecycle.",
+    "exampleVi": "Chúng tôi hiện đang ở giai đoạn thực hiện của vòng đời dự án.",
+    "collocations": [
+      "stages of project lifecycle",
+      "manage project lifecycle"
+    ],
+    "synonyms": [
+      "project cycle"
+    ],
+    "wordFamily": [
+      "project",
+      "life",
+      "lifecycle"
+    ],
+    "day": 89
+  },
+  {
+    "id": "reallocate-verb",
+    "word": "reallocate",
+    "baseWord": "allocate",
+    "type": "verb",
+    "meaning": "phân bổ lại (tài nguyên, ngân sách)",
+    "pronunciation": "/ˌriːˈæləkeɪt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We had to reallocate staff from the design team to the testing team.",
+    "exampleVi": "Chúng tôi đã phải phân bổ lại nhân viên từ nhóm thiết kế sang nhóm kiểm thử.",
+    "collocations": [
+      "reallocate resources",
+      "reallocate funds",
+      "reallocate tasks"
+    ],
+    "synonyms": [
+      "reassign",
+      "redistribute"
+    ],
+    "wordFamily": [
+      "allocate",
+      "reallocation",
+      "allocated"
+    ],
+    "day": 89
+  },
+  {
+    "id": "reallocation-noun",
+    "word": "reallocation",
+    "baseWord": "allocate",
+    "type": "noun",
+    "meaning": "sự phân bổ lại",
+    "pronunciation": "/ˌriːˌæləˈkeɪʃən/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Resource reallocation solved the bottleneck in code development.",
+    "exampleVi": "Việc phân bổ lại nguồn lực đã giải quyết nút thắt cổ chai trong việc phát triển mã nguồn.",
+    "collocations": [
+      "budget reallocation",
+      "resource reallocation"
+    ],
+    "synonyms": [
+      "redistribution",
+      "reassignment"
+    ],
+    "wordFamily": [
+      "allocate",
+      "reallocate",
+      "allocated"
+    ],
+    "day": 89
+  },
+  {
+    "id": "risk assessment-phrase",
+    "word": "risk assessment",
+    "baseWord": "risk assessment",
+    "type": "phrase",
+    "meaning": "sự đánh giá rủi ro",
+    "pronunciation": "/rɪsk əˈsesmənt/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The safety officer conducted a thorough risk assessment of the plant.",
+    "exampleVi": "Nhân viên an toàn đã tiến hành đánh giá rủi ro kỹ lưỡng đối với nhà máy.",
+    "collocations": [
+      "conduct a risk assessment",
+      "annual risk assessment"
+    ],
+    "synonyms": [
+      "risk analysis",
+      "risk evaluation"
+    ],
+    "wordFamily": [
+      "risk",
+      "assess",
+      "assessment"
+    ],
+    "day": 89
+  },
+  {
+    "id": "scope creep-phrase",
+    "word": "scope creep",
+    "baseWord": "scope creep",
+    "type": "phrase",
+    "meaning": "sự phình to phạm vi dự án, thay đổi phạm vi mất kiểm soát",
+    "pronunciation": "/skoʊp kriːp/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "To avoid scope creep, all changes must go through a formal approval process.",
+    "exampleVi": "Để tránh việc phạm vi dự án phình to mất kiểm soát, tất cả các thay đổi phải thông qua quy trình phê duyệt chính thức.",
+    "collocations": [
+      "prevent scope creep",
+      "experience scope creep"
+    ],
+    "synonyms": [
+      "requirement creep"
+    ],
+    "wordFamily": [
+      "scope",
+      "creep",
+      "creeping"
+    ],
+    "day": 89
+  },
+  {
+    "id": "scrum master-phrase",
+    "word": "scrum master",
+    "baseWord": "scrum master",
+    "type": "phrase",
+    "meaning": "người điều phối Scrum, trưởng nhóm Scrum",
+    "pronunciation": "/skrʌm ˈmæstər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The Scrum Master is responsible for removing blockers for the developers.",
+    "exampleVi": "Trưởng nhóm Scrum có trách nhiệm loại bỏ các chướng ngại cho lập trình viên.",
+    "collocations": [
+      "certified Scrum Master",
+      "hire a Scrum Master"
+    ],
+    "synonyms": [
+      "agile coach"
+    ],
+    "wordFamily": [
+      "scrum",
+      "master",
+      "masters"
+    ],
+    "day": 89
+  },
+  {
+    "id": "sprint planning-phrase",
+    "word": "sprint planning",
+    "baseWord": "sprint planning",
+    "type": "phrase",
+    "meaning": "buổi lập kế hoạch sprint, lập kế hoạch chu kỳ",
+    "pronunciation": "/sprɪnt ˈplænɪŋ/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "During sprint planning, the team commits to a list of backlog items.",
+    "exampleVi": "Trong buổi lập kế hoạch sprint, nhóm cam kết thực hiện một danh sách các hạng mục tồn đọng.",
+    "collocations": [
+      "sprint planning meeting",
+      "facilitate sprint planning"
+    ],
+    "synonyms": [
+      "iteration planning"
+    ],
+    "wordFamily": [
+      "sprint",
+      "plan",
+      "planning"
+    ],
+    "day": 89
+  },
+  {
+    "id": "additional-agenda-phrase",
+    "word": "additional agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve project management: additional agenda",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the additional agenda before the next business day.",
+    "exampleVi": "Vui long xem lai additional agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "additional agenda",
+      "additional agenda process",
+      "additional agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 90
+  },
+  {
+    "id": "contingency fund-phrase",
+    "word": "contingency fund",
+    "baseWord": "contingency fund",
+    "type": "phrase",
+    "meaning": "quỹ dự phòng, ngân sách dự phòng",
+    "pronunciation": "/kənˈtɪndʒənsi fʌnd/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We allocate 10 percent of the total budget to the contingency fund.",
+    "exampleVi": "Chúng tôi phân bổ 10 phần trăm tổng ngân sách cho quỹ dự phòng.",
+    "collocations": [
+      "contingency fund allocation",
+      "draw from the contingency fund"
+    ],
+    "synonyms": [
+      "reserve fund",
+      "emergency fund"
+    ],
+    "wordFamily": [
+      "contingency",
+      "fund",
+      "funding"
+    ],
+    "day": 90
+  },
+  {
+    "id": "contingency plan-phrase",
+    "word": "contingency plan",
+    "baseWord": "contingency plan",
+    "type": "phrase",
+    "meaning": "kế hoạch dự phòng, kế hoạch ứng phó sự cố",
+    "pronunciation": "/kənˈtɪndʒənsi plæn/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager developed a contingency plan in case the supplier failed to deliver.",
+    "exampleVi": "Người quản lý đã xây dựng một kế hoạch dự phòng trong trường hợp nhà cung cấp không giao hàng.",
+    "collocations": [
+      "develop a contingency plan",
+      "implement a contingency plan"
+    ],
+    "synonyms": [
+      "backup plan",
+      "emergency plan"
+    ],
+    "wordFamily": [
+      "contingency",
+      "plan",
+      "planning"
+    ],
+    "day": 90
+  },
+  {
+    "id": "contractor-noun",
+    "word": "contractor",
+    "baseWord": "contract",
+    "type": "noun",
+    "meaning": "nhà thầu",
+    "pronunciation": "/ˈkɑːntræktər/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired a local contractor to renovate the reception area.",
+    "exampleVi": "Chúng tôi đã thuê một nhà thầu địa phương để cải tạo khu vực lễ tân.",
+    "collocations": [
+      "independent contractor",
+      "general contractor",
+      "hire a contractor"
+    ],
+    "synonyms": [
+      "builder",
+      "supplier",
+      "firm"
+    ],
+    "wordFamily": [
+      "contract",
+      "contractual",
+      "contracted"
+    ],
+    "day": 90
+  },
+  {
+    "id": "critical path method-phrase",
+    "word": "critical path method",
+    "baseWord": "critical path method",
+    "type": "phrase",
+    "meaning": "phương pháp đường găng (CPM)",
+    "pronunciation": "/ˈkrɪtɪkl pæθ ˈmeθəd/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Applying the critical path method helped us optimize the project duration.",
+    "exampleVi": "Áp dụng phương pháp đường găng đã giúp chúng tôi tối ưu hóa thời gian dự án.",
+    "collocations": [
+      "use the critical path method",
+      "critical path method scheduling"
+    ],
+    "synonyms": [
+      "CPM scheduling"
+    ],
+    "wordFamily": [
+      "critical",
+      "path",
+      "method"
+    ],
+    "day": 90
+  },
+  {
+    "id": "deliverable quality-phrase",
+    "word": "deliverable quality",
+    "baseWord": "deliverable quality",
+    "type": "phrase",
+    "meaning": "chất lượng sản phẩm bàn giao",
+    "pronunciation": "/dɪˈlɪvərəbl ˈkwɑːləti/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "We conduct user testing to guarantee the deliverable quality of the app.",
+    "exampleVi": "Chúng tôi tiến hành thử nghiệm người dùng để đảm bảo chất lượng sản phẩm bàn giao của ứng dụng.",
+    "collocations": [
+      "ensure deliverable quality",
+      "standards for deliverable quality"
+    ],
+    "synonyms": [
+      "output quality"
+    ],
+    "wordFamily": [
+      "deliverable",
+      "quality",
+      "qualities"
+    ],
+    "day": 90
+  },
+  {
+    "id": "impediment log-phrase",
+    "word": "impediment log",
+    "baseWord": "impediment log",
+    "type": "phrase",
+    "meaning": "nhật ký ghi nhận trở ngại",
+    "pronunciation": "/ɪmˈpedɪmənt lɔːg/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The Scrum Master updates the impediment log daily to track resolved issues.",
+    "exampleVi": "Trưởng nhóm Scrum cập nhật nhật ký trở ngại hàng ngày để theo dõi các vấn đề đã được giải quyết.",
+    "collocations": [
+      "update the impediment log",
+      "maintain an impediment log"
+    ],
+    "synonyms": [
+      "issue log",
+      "blocker log"
+    ],
+    "wordFamily": [
+      "impede",
+      "impediment",
+      "log"
+    ],
+    "day": 90
+  },
+  {
+    "id": "lessons learned-phrase",
+    "word": "lessons learned",
+    "baseWord": "lessons learned",
+    "type": "phrase",
+    "meaning": "bài học kinh nghiệm, bài học rút ra",
+    "pronunciation": "/ˈlesənz lɜːrnd/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We documented the lessons learned during the construction phase.",
+    "exampleVi": "Chúng tôi đã ghi chép lại các bài học kinh nghiệm rút ra trong giai đoạn xây dựng.",
+    "collocations": [
+      "document lessons learned",
+      "lessons learned session"
+    ],
+    "synonyms": [
+      "key takeaways",
+      "insights"
+    ],
+    "wordFamily": [
+      "lesson",
+      "lessons",
+      "learned"
+    ],
+    "day": 90
+  },
+  {
+    "id": "mitigate-verb",
+    "word": "mitigate",
+    "baseWord": "mitigate",
+    "type": "verb",
+    "meaning": "giảm thiểu, giảm nhẹ tác hại",
+    "pronunciation": "/ˈmɪtɪgəte/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We can mitigate the risk of delay by hiring additional contractors.",
+    "exampleVi": "Chúng ta có thể giảm thiểu rủi ro chậm trễ bằng cách thuê thêm nhà thầu phụ.",
+    "collocations": [
+      "mitigate risks",
+      "mitigate damage",
+      "mitigate the effects"
+    ],
+    "synonyms": [
+      "reduce",
+      "alleviate",
+      "lessen"
+    ],
+    "wordFamily": [
+      "mitigation",
+      "mitigated",
+      "mitigator"
+    ],
+    "day": 90
+  },
+  {
+    "id": "mitigation-noun",
+    "word": "mitigation",
+    "baseWord": "mitigate",
+    "type": "noun",
+    "meaning": "sự giảm thiểu, giảm nhẹ",
+    "pronunciation": "/ˌmɪtɪˈgəʃən/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Risk mitigation is a continuous process throughout the project.",
+    "exampleVi": "Giảm thiểu rủi ro là một quá trình liên tục trong suốt dự án.",
+    "collocations": [
+      "risk mitigation",
+      "damage mitigation",
+      "mitigation measures"
+    ],
+    "synonyms": [
+      "reduction",
+      "alleviation",
+      "abatement"
+    ],
+    "wordFamily": [
+      "mitigate",
+      "mitigator",
+      "mitigated"
+    ],
+    "day": 90
+  },
+  {
+    "id": "mitigator-noun",
+    "word": "mitigator",
+    "baseWord": "mitigate",
+    "type": "noun",
+    "meaning": "yếu tố giảm nhẹ, người giảm thiểu",
+    "pronunciation": "/ˈmɪtɪgeɪtər/",
+    "topic": "Project Management",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The extra budget acted as a key mitigator against scope creep.",
+    "exampleVi": "Ngân sách bổ sung hoạt động như một yếu tố giảm nhẹ quan trọng chống lại sự phình to phạm vi dự án.",
+    "collocations": [
+      "primary mitigator",
+      "risk mitigator"
+    ],
+    "synonyms": [
+      "cushion",
+      "buffer"
+    ],
+    "wordFamily": [
+      "mitigate",
+      "mitigation",
+      "mitigators"
+    ],
+    "day": 90
+  },
+  {
+    "id": "post-mortem-noun",
+    "word": "post-mortem",
+    "baseWord": "post-mortem",
+    "type": "noun",
+    "meaning": "buổi họp rút kinh nghiệm, phân tích sau dự án",
+    "pronunciation": "/ˌpoʊstˈmɔːrtəm/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The team conducted a post-mortem to analyze what went wrong with the launch.",
+    "exampleVi": "Nhóm đã tổ chức một buổi rút kinh nghiệm để phân tích những gì đã xảy ra ngoài ý muốn trong việc ra mắt.",
+    "collocations": [
+      "conduct a post-mortem",
+      "post-mortem meeting"
+    ],
+    "synonyms": [
+      "debriefing",
+      "retrospective"
+    ],
+    "wordFamily": [
+      "post-mortems",
+      "postmortem"
+    ],
+    "day": 90
+  },
+  {
+    "id": "project pipeline-phrase",
+    "word": "project pipeline",
+    "baseWord": "project pipeline",
+    "type": "phrase",
+    "meaning": "danh sách dự án đang chuẩn bị thực hiện",
+    "pronunciation": "/ˈprɑːdʒekt ˈpaɪplaɪn/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We have five new software upgrades in our project pipeline.",
+    "exampleVi": "Chúng tôi có năm nâng cấp phần mềm mới trong danh sách dự án đang chuẩn bị thực hiện.",
+    "collocations": [
+      "in the project pipeline",
+      "robust project pipeline"
+    ],
+    "synonyms": [
+      "project queue"
+    ],
+    "wordFamily": [
+      "project",
+      "pipe",
+      "pipeline"
+    ],
+    "day": 90
+  },
+  {
+    "id": "quality gate-phrase",
+    "word": "quality gate",
+    "baseWord": "quality gate",
+    "type": "phrase",
+    "meaning": "cổng chất lượng, điểm kiểm soát chất lượng",
+    "pronunciation": "/ˈkwɑːləti ɡeɪt/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The project must pass the final quality gate before deployment.",
+    "exampleVi": "Dự án phải vượt qua cổng chất lượng cuối cùng trước khi triển khai.",
+    "collocations": [
+      "pass a quality gate",
+      "establish quality gates"
+    ],
+    "synonyms": [
+      "milestone gate",
+      "checkpoint"
+    ],
+    "wordFamily": [
+      "quality",
+      "gate",
+      "gates"
+    ],
+    "day": 90
+  },
+  {
+    "id": "resource leveling-phrase",
+    "word": "resource leveling",
+    "baseWord": "resource leveling",
+    "type": "phrase",
+    "meaning": "sự san bằng nguồn lực, cân bằng nhân sự",
+    "pronunciation": "/rɪˈsɔːrs ˈlevəlɪŋ/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Resource leveling resolved conflicts where a developer was double-booked.",
+    "exampleVi": "Việc san bằng nguồn lực đã giải quyết các xung đột khi một lập trình viên bị xếp lịch trùng.",
+    "collocations": [
+      "perform resource leveling",
+      "resource leveling technique"
+    ],
+    "synonyms": [
+      "resource smoothing"
+    ],
+    "wordFamily": [
+      "resource",
+      "level",
+      "leveling"
+    ],
+    "day": 90
+  },
+  {
+    "id": "retroactive-adjective",
+    "word": "retroactive",
+    "baseWord": "retroactive",
+    "type": "adjective",
+    "meaning": "có hiệu lực trở về trước, hồi tố",
+    "pronunciation": "/ˌretrəʊˈæktɪv/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The committee approved a retroactive pay raise for all staff members.",
+    "exampleVi": "Ủy ban đã phê duyệt một đợt tăng lương hồi tố cho tất cả các nhân viên.",
+    "collocations": [
+      "retroactive pay",
+      "retroactive effect",
+      "retroactive approval"
+    ],
+    "synonyms": [
+      "retrospective",
+      "backdated"
+    ],
+    "wordFamily": [
+      "retroactively",
+      "retroact",
+      "retroaction"
+    ],
+    "day": 90
+  },
+  {
+    "id": "retrospective-noun",
+    "word": "retrospective",
+    "baseWord": "retrospective",
+    "type": "noun",
+    "meaning": "buổi họp nhìn lại, rút kinh nghiệm chu kỳ dự án",
+    "pronunciation": "/ˌretrəˈspektɪv/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "At the end of each sprint, we hold a retrospective to improve our workflows.",
+    "exampleVi": "Vào cuối mỗi chu kỳ nước rút, chúng tôi tổ chức cuộc họp nhìn lại để cải thiện quy trình làm việc.",
+    "collocations": [
+      "sprint retrospective",
+      "hold a retrospective"
+    ],
+    "synonyms": [
+      "review session",
+      "post-mortem"
+    ],
+    "wordFamily": [
+      "retrospectives",
+      "retrospectively",
+      "retrospect"
+    ],
+    "day": 90
+  },
+  {
+    "id": "risk register-phrase",
+    "word": "risk register",
+    "baseWord": "risk register",
+    "type": "phrase",
+    "meaning": "danh mục rủi ro, nhật ký theo dõi rủi ro",
+    "pronunciation": "/rɪsk ˈredʒɪstər/",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The project manager updated the risk register with new security threats.",
+    "exampleVi": "Người quản lý dự án đã cập nhật danh mục rủi ro với các mối đe dọa bảo mật mới.",
+    "collocations": [
+      "update the risk register",
+      "maintain a risk register"
+    ],
+    "synonyms": [
+      "risk log"
+    ],
+    "wordFamily": [
+      "risk",
+      "register",
+      "registration"
+    ],
+    "day": 90
+  },
+  {
+    "id": "scrum team-phrase",
+    "word": "scrum team",
+    "baseWord": "scrum team",
+    "type": "phrase",
+    "meaning": "nhóm Scrum, đội ngũ làm việc linh hoạt",
+    "pronunciation": "/skrʌm tiːm/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "A typical scrum team consists of a product owner, scrum master, and developers.",
+    "exampleVi": "Một nhóm Scrum điển hình bao gồm một chủ sở hữu sản phẩm, trưởng nhóm Scrum và các lập trình viên.",
+    "collocations": [
+      "cross-functional scrum team",
+      "scrum team members"
+    ],
+    "synonyms": [
+      "agile team"
+    ],
+    "wordFamily": [
+      "scrum",
+      "team",
+      "teams"
+    ],
+    "day": 90
+  },
+  {
+    "id": "sprint review-phrase",
+    "word": "sprint review",
+    "baseWord": "sprint review",
+    "type": "phrase",
+    "meaning": "buổi đánh giá sprint, xem xét kết quả chu kỳ",
+    "pronunciation": "/sprɪnt rɪˈvjuː/",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We demonstrate working software to stakeholders during the sprint review.",
+    "exampleVi": "Chúng tôi trình diễn phần mềm đang hoạt động cho các bên liên quan trong buổi đánh giá sprint.",
+    "collocations": [
+      "weekly sprint review",
+      "facilitate a sprint review"
+    ],
+    "synonyms": [
+      "iteration review"
+    ],
+    "wordFamily": [
+      "sprint",
+      "review",
+      "reviewer"
+    ],
+    "day": 90
+  }
+]

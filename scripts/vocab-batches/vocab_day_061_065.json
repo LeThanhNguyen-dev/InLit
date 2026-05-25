@@ -1,0 +1,2798 @@
+[
+  {
+    "id": "auditorium-noun",
+    "word": "auditorium",
+    "baseWord": "auditorium",
+    "type": "noun",
+    "meaning": "hội trường",
+    "pronunciation": "/auditorium/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the auditorium carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hội trường cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm auditorium",
+      "auditorium details",
+      "review auditorium"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "auditorium"
+    ],
+    "day": 61
+  },
+  {
+    "id": "breakout-session-phrase",
+    "word": "breakout session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "phiên họp chuyên đề",
+    "pronunciation": "/breakout session/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the breakout session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiên họp chuyên đề cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm breakout session",
+      "breakout session details",
+      "review breakout session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 61
+  },
+  {
+    "id": "conference-agenda-phrase",
+    "word": "conference agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "lịch trình hội nghị",
+    "pronunciation": "/conference agenda/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the conference agenda carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lịch trình hội nghị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm conference agenda",
+      "conference agenda details",
+      "review conference agenda"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 61
+  },
+  {
+    "id": "conference-venue-phrase",
+    "word": "conference venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "địa điểm hội nghị",
+    "pronunciation": "/conference venue/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the conference venue carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét địa điểm hội nghị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm conference venue",
+      "conference venue details",
+      "review conference venue"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "venue"
+    ],
+    "day": 61
+  },
+  {
+    "id": "delegate-noun",
+    "word": "delegate",
+    "baseWord": "delegate",
+    "type": "noun",
+    "meaning": "đại biểu",
+    "pronunciation": "/delegate/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the delegate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đại biểu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm delegate",
+      "delegate details",
+      "review delegate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "delegate"
+    ],
+    "day": 61
+  },
+  {
+    "id": "event-program-phrase",
+    "word": "event program",
+    "baseWord": "program",
+    "type": "phrase",
+    "meaning": "chương trình sự kiện",
+    "pronunciation": "/event program/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the event program carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chương trình sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm event program",
+      "event program details",
+      "review event program"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "program"
+    ],
+    "day": 61
+  },
+  {
+    "id": "exhibition-booth-phrase",
+    "word": "exhibition booth",
+    "baseWord": "booth",
+    "type": "phrase",
+    "meaning": "gian triển lãm",
+    "pronunciation": "/exhibition booth/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the exhibition booth carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét gian triển lãm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm exhibition booth",
+      "exhibition booth details",
+      "review exhibition booth"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "booth"
+    ],
+    "day": 61
+  },
+  {
+    "id": "keynote-speaker-phrase",
+    "word": "keynote speaker",
+    "baseWord": "speaker",
+    "type": "phrase",
+    "meaning": "diễn giả chính",
+    "pronunciation": "/keynote speaker/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the keynote speaker carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét diễn giả chính cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm keynote speaker",
+      "keynote speaker details",
+      "review keynote speaker"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "speaker"
+    ],
+    "day": 61
+  },
+  {
+    "id": "name-badge-phrase",
+    "word": "name badge",
+    "baseWord": "badge",
+    "type": "phrase",
+    "meaning": "thẻ tên",
+    "pronunciation": "/name badge/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the name badge carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thẻ tên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm name badge",
+      "name badge details",
+      "review name badge"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "badge"
+    ],
+    "day": 61
+  },
+  {
+    "id": "networking-reception-phrase",
+    "word": "networking reception",
+    "baseWord": "reception",
+    "type": "phrase",
+    "meaning": "tiệc giao lưu",
+    "pronunciation": "/networking reception/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the networking reception carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiệc giao lưu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm networking reception",
+      "networking reception details",
+      "review networking reception"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "reception"
+    ],
+    "day": 61
+  },
+  {
+    "id": "panel-discussion-phrase",
+    "word": "panel discussion",
+    "baseWord": "discussion",
+    "type": "phrase",
+    "meaning": "phiên thảo luận nhóm",
+    "pronunciation": "/panel discussion/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the panel discussion carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiên thảo luận nhóm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm panel discussion",
+      "panel discussion details",
+      "review panel discussion"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "discussion"
+    ],
+    "day": 61
+  },
+  {
+    "id": "plenary-session-phrase",
+    "word": "plenary session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "phiên toàn thể",
+    "pronunciation": "/plenary session/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the plenary session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiên toàn thể cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm plenary session",
+      "plenary session details",
+      "review plenary session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 61
+  },
+  {
+    "id": "registered-participant-phrase",
+    "word": "registered participant",
+    "baseWord": "participant",
+    "type": "phrase",
+    "meaning": "người tham dự đã đăng ký",
+    "pronunciation": "/registered participant/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the registered participant carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét người tham dự đã đăng ký cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm registered participant",
+      "registered participant details",
+      "review registered participant"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "participant"
+    ],
+    "day": 61
+  },
+  {
+    "id": "registration-desk-phrase",
+    "word": "registration desk",
+    "baseWord": "desk",
+    "type": "phrase",
+    "meaning": "bàn đăng ký",
+    "pronunciation": "/registration desk/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the registration desk carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bàn đăng ký cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm registration desk",
+      "registration desk details",
+      "review registration desk"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "desk"
+    ],
+    "day": 61
+  },
+  {
+    "id": "seminar-room-phrase",
+    "word": "seminar room",
+    "baseWord": "room",
+    "type": "phrase",
+    "meaning": "phòng hội thảo",
+    "pronunciation": "/seminar room/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the seminar room carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phòng hội thảo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm seminar room",
+      "seminar room details",
+      "review seminar room"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "room"
+    ],
+    "day": 61
+  },
+  {
+    "id": "session-moderator-phrase",
+    "word": "session moderator",
+    "baseWord": "moderator",
+    "type": "phrase",
+    "meaning": "người điều hành phiên",
+    "pronunciation": "/session moderator/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the session moderator carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét người điều hành phiên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm session moderator",
+      "session moderator details",
+      "review session moderator"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "moderator"
+    ],
+    "day": 61
+  },
+  {
+    "id": "speaker-lectern-phrase",
+    "word": "speaker lectern",
+    "baseWord": "lectern",
+    "type": "phrase",
+    "meaning": "bục diễn giả",
+    "pronunciation": "/speaker lectern/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the speaker lectern carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bục diễn giả cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm speaker lectern",
+      "speaker lectern details",
+      "review speaker lectern"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "lectern"
+    ],
+    "day": 61
+  },
+  {
+    "id": "sponsor-package-phrase",
+    "word": "sponsor package",
+    "baseWord": "package",
+    "type": "phrase",
+    "meaning": "gói tài trợ",
+    "pronunciation": "/sponsor package/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sponsor package carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét gói tài trợ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sponsor package",
+      "sponsor package details",
+      "review sponsor package"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "package"
+    ],
+    "day": 61
+  },
+  {
+    "id": "welcome-packet-phrase",
+    "word": "welcome packet",
+    "baseWord": "packet",
+    "type": "phrase",
+    "meaning": "tập tài liệu chào mừng",
+    "pronunciation": "/welcome packet/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the welcome packet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tập tài liệu chào mừng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm welcome packet",
+      "welcome packet details",
+      "review welcome packet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "packet"
+    ],
+    "day": 61
+  },
+  {
+    "id": "workshop-leader-phrase",
+    "word": "workshop leader",
+    "baseWord": "leader",
+    "type": "phrase",
+    "meaning": "người dẫn hội thảo",
+    "pronunciation": "/workshop leader/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the workshop leader carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét người dẫn hội thảo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm workshop leader",
+      "workshop leader details",
+      "review workshop leader"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "leader"
+    ],
+    "day": 61
+  },
+  {
+    "id": "aisle-marker-phrase",
+    "word": "aisle marker",
+    "baseWord": "marker",
+    "type": "phrase",
+    "meaning": "dấu chỉ lối đi",
+    "pronunciation": "/aisle marker/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the aisle marker carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dấu chỉ lối đi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm aisle marker",
+      "aisle marker details",
+      "review aisle marker"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "marker"
+    ],
+    "day": 62
+  },
+  {
+    "id": "attendance-list-phrase",
+    "word": "attendance list",
+    "baseWord": "list",
+    "type": "phrase",
+    "meaning": "danh sách tham dự",
+    "pronunciation": "/attendance list/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the attendance list carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách tham dự cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm attendance list",
+      "attendance list details",
+      "review attendance list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "list"
+    ],
+    "day": 62
+  },
+  {
+    "id": "audio-system-phrase",
+    "word": "audio system",
+    "baseWord": "system",
+    "type": "phrase",
+    "meaning": "hệ thống âm thanh",
+    "pronunciation": "/audio system/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the audio system carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hệ thống âm thanh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm audio system",
+      "audio system details",
+      "review audio system"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "system"
+    ],
+    "day": 62
+  },
+  {
+    "id": "banner-stand-phrase",
+    "word": "banner stand",
+    "baseWord": "stand",
+    "type": "phrase",
+    "meaning": "giá treo banner",
+    "pronunciation": "/banner stand/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the banner stand carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giá treo banner cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm banner stand",
+      "banner stand details",
+      "review banner stand"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "stand"
+    ],
+    "day": 62
+  },
+  {
+    "id": "directional-signage-phrase",
+    "word": "directional signage",
+    "baseWord": "signage",
+    "type": "phrase",
+    "meaning": "biển chỉ dẫn",
+    "pronunciation": "/directional signage/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the directional signage carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét biển chỉ dẫn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm directional signage",
+      "directional signage details",
+      "review directional signage"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "signage"
+    ],
+    "day": 62
+  },
+  {
+    "id": "feedback-survey-phrase",
+    "word": "feedback survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "khảo sát phản hồi",
+    "pronunciation": "/feedback survey/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the feedback survey carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khảo sát phản hồi cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm feedback survey",
+      "feedback survey details",
+      "review feedback survey"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "survey"
+    ],
+    "day": 62
+  },
+  {
+    "id": "invitation-letter-phrase",
+    "word": "invitation letter",
+    "baseWord": "letter",
+    "type": "phrase",
+    "meaning": "thư mời",
+    "pronunciation": "/invitation letter/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the invitation letter carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thư mời cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm invitation letter",
+      "invitation letter details",
+      "review invitation letter"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "letter"
+    ],
+    "day": 62
+  },
+  {
+    "id": "live-stream-noun",
+    "word": "live stream",
+    "baseWord": "stream",
+    "type": "noun",
+    "meaning": "phát trực tiếp",
+    "pronunciation": "/live stream/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the live stream carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phát trực tiếp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm live stream",
+      "live stream details",
+      "review live stream"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "stream"
+    ],
+    "day": 62
+  },
+  {
+    "id": "microphone-stand-phrase",
+    "word": "microphone stand",
+    "baseWord": "stand",
+    "type": "phrase",
+    "meaning": "chân micro",
+    "pronunciation": "/microphone stand/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the microphone stand carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chân micro cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm microphone stand",
+      "microphone stand details",
+      "review microphone stand"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "stand"
+    ],
+    "day": 62
+  },
+  {
+    "id": "presentation-slide-phrase",
+    "word": "presentation slide",
+    "baseWord": "slide",
+    "type": "phrase",
+    "meaning": "trang trình chiếu",
+    "pronunciation": "/presentation slide/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the presentation slide carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trang trình chiếu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm presentation slide",
+      "presentation slide details",
+      "review presentation slide"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "slide"
+    ],
+    "day": 62
+  },
+  {
+    "id": "printed-handout-phrase",
+    "word": "printed handout",
+    "baseWord": "handout",
+    "type": "phrase",
+    "meaning": "tài liệu phát tay in sẵn",
+    "pronunciation": "/printed handout/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the printed handout carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tài liệu phát tay in sẵn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm printed handout",
+      "printed handout details",
+      "review printed handout"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "handout"
+    ],
+    "day": 62
+  },
+  {
+    "id": "projector-screen-phrase",
+    "word": "projector screen",
+    "baseWord": "screen",
+    "type": "phrase",
+    "meaning": "màn chiếu",
+    "pronunciation": "/projector screen/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the projector screen carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét màn chiếu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm projector screen",
+      "projector screen details",
+      "review projector screen"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "screen"
+    ],
+    "day": 62
+  },
+  {
+    "id": "reserved-seating-phrase",
+    "word": "reserved seating",
+    "baseWord": "seating",
+    "type": "phrase",
+    "meaning": "chỗ ngồi được giữ trước",
+    "pronunciation": "/reserved seating/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the reserved seating carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chỗ ngồi được giữ trước cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm reserved seating",
+      "reserved seating details",
+      "review reserved seating"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "seating"
+    ],
+    "day": 62
+  },
+  {
+    "id": "rsvp-deadline-phrase",
+    "word": "RSVP deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "hạn phản hồi tham dự",
+    "pronunciation": "/rsvp deadline/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the RSVP deadline carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hạn phản hồi tham dự cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm RSVP deadline",
+      "RSVP deadline details",
+      "review RSVP deadline"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "deadline"
+    ],
+    "day": 62
+  },
+  {
+    "id": "simultaneous-interpretation-phrase",
+    "word": "simultaneous interpretation",
+    "baseWord": "interpretation",
+    "type": "phrase",
+    "meaning": "phiên dịch đồng thời",
+    "pronunciation": "/simultaneous interpretation/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the simultaneous interpretation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiên dịch đồng thời cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm simultaneous interpretation",
+      "simultaneous interpretation details",
+      "review simultaneous interpretation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "interpretation"
+    ],
+    "day": 62
+  },
+  {
+    "id": "speaker-bio-phrase",
+    "word": "speaker bio",
+    "baseWord": "bio",
+    "type": "phrase",
+    "meaning": "tiểu sử diễn giả",
+    "pronunciation": "/speaker bio/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the speaker bio carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tiểu sử diễn giả cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm speaker bio",
+      "speaker bio details",
+      "review speaker bio"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "bio"
+    ],
+    "day": 62
+  },
+  {
+    "id": "stage-lighting-phrase",
+    "word": "stage lighting",
+    "baseWord": "lighting",
+    "type": "phrase",
+    "meaning": "ánh sáng sân khấu",
+    "pronunciation": "/stage lighting/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the stage lighting carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ánh sáng sân khấu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm stage lighting",
+      "stage lighting details",
+      "review stage lighting"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "lighting"
+    ],
+    "day": 62
+  },
+  {
+    "id": "technical-rehearsal-phrase",
+    "word": "technical rehearsal",
+    "baseWord": "rehearsal",
+    "type": "phrase",
+    "meaning": "buổi tổng duyệt kỹ thuật",
+    "pronunciation": "/technical rehearsal/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the technical rehearsal carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét buổi tổng duyệt kỹ thuật cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm technical rehearsal",
+      "technical rehearsal details",
+      "review technical rehearsal"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rehearsal"
+    ],
+    "day": 62
+  },
+  {
+    "id": "video-recording-phrase",
+    "word": "video recording",
+    "baseWord": "recording",
+    "type": "phrase",
+    "meaning": "bản ghi hình",
+    "pronunciation": "/video recording/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the video recording carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bản ghi hình cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm video recording",
+      "video recording details",
+      "review video recording"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "recording"
+    ],
+    "day": 62
+  },
+  {
+    "id": "workshop-materials-phrase",
+    "word": "workshop materials",
+    "baseWord": "materials",
+    "type": "phrase",
+    "meaning": "tài liệu hội thảo",
+    "pronunciation": "/workshop materials/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the workshop materials carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tài liệu hội thảo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm workshop materials",
+      "workshop materials details",
+      "review workshop materials"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "materials"
+    ],
+    "day": 62
+  },
+  {
+    "id": "agenda-item-phrase",
+    "word": "agenda item",
+    "baseWord": "item",
+    "type": "phrase",
+    "meaning": "mục trong chương trình",
+    "pronunciation": "/agenda item/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the agenda item carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mục trong chương trình cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm agenda item",
+      "agenda item details",
+      "review agenda item"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "item"
+    ],
+    "day": 63
+  },
+  {
+    "id": "audience-q-a-phrase",
+    "word": "audience Q&A",
+    "baseWord": "q&a",
+    "type": "phrase",
+    "meaning": "phần hỏi đáp với khán giả",
+    "pronunciation": "/audience q&a/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the audience Q&A carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phần hỏi đáp với khán giả cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm audience Q&A",
+      "audience Q&A details",
+      "review audience Q&A"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "q&a"
+    ],
+    "day": 63
+  },
+  {
+    "id": "award-ceremony-phrase",
+    "word": "award ceremony",
+    "baseWord": "ceremony",
+    "type": "phrase",
+    "meaning": "lễ trao giải",
+    "pronunciation": "/award ceremony/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the award ceremony carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lễ trao giải cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm award ceremony",
+      "award ceremony details",
+      "review award ceremony"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "ceremony"
+    ],
+    "day": 63
+  },
+  {
+    "id": "closing-remarks-phrase",
+    "word": "closing remarks",
+    "baseWord": "remarks",
+    "type": "phrase",
+    "meaning": "lời phát biểu bế mạc",
+    "pronunciation": "/closing remarks/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the closing remarks carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lời phát biểu bế mạc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm closing remarks",
+      "closing remarks details",
+      "review closing remarks"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "remarks"
+    ],
+    "day": 63
+  },
+  {
+    "id": "coffee-break-phrase",
+    "word": "coffee break",
+    "baseWord": "break",
+    "type": "phrase",
+    "meaning": "giờ nghỉ uống cà phê",
+    "pronunciation": "/coffee break/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the coffee break carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giờ nghỉ uống cà phê cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm coffee break",
+      "coffee break details",
+      "review coffee break"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "break"
+    ],
+    "day": 63
+  },
+  {
+    "id": "exhibitor-list-phrase",
+    "word": "exhibitor list",
+    "baseWord": "list",
+    "type": "phrase",
+    "meaning": "danh sách đơn vị triển lãm",
+    "pronunciation": "/exhibitor list/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the exhibitor list carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét danh sách đơn vị triển lãm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm exhibitor list",
+      "exhibitor list details",
+      "review exhibitor list"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "list"
+    ],
+    "day": 63
+  },
+  {
+    "id": "fundraising-gala-phrase",
+    "word": "fundraising gala",
+    "baseWord": "gala",
+    "type": "phrase",
+    "meaning": "dạ tiệc gây quỹ",
+    "pronunciation": "/fundraising gala/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the fundraising gala carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dạ tiệc gây quỹ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm fundraising gala",
+      "fundraising gala details",
+      "review fundraising gala"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "gala"
+    ],
+    "day": 63
+  },
+  {
+    "id": "headcount-noun",
+    "word": "headcount",
+    "baseWord": "headcount",
+    "type": "noun",
+    "meaning": "số người",
+    "pronunciation": "/headcount/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the headcount carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét số người cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm headcount",
+      "headcount details",
+      "review headcount"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "headcount"
+    ],
+    "day": 63
+  },
+  {
+    "id": "launch-event-phrase",
+    "word": "launch event",
+    "baseWord": "event",
+    "type": "phrase",
+    "meaning": "sự kiện ra mắt",
+    "pronunciation": "/launch event/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the launch event carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự kiện ra mắt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm launch event",
+      "launch event details",
+      "review launch event"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "event"
+    ],
+    "day": 63
+  },
+  {
+    "id": "lunch-break-phrase",
+    "word": "lunch break",
+    "baseWord": "break",
+    "type": "phrase",
+    "meaning": "giờ nghỉ trưa",
+    "pronunciation": "/lunch break/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the lunch break carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giờ nghỉ trưa cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm lunch break",
+      "lunch break details",
+      "review lunch break"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "break"
+    ],
+    "day": 63
+  },
+  {
+    "id": "media-exposure-phrase",
+    "word": "media exposure",
+    "baseWord": "exposure",
+    "type": "phrase",
+    "meaning": "sự xuất hiện trên truyền thông",
+    "pronunciation": "/media exposure/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the media exposure carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự xuất hiện trên truyền thông cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm media exposure",
+      "media exposure details",
+      "review media exposure"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "exposure"
+    ],
+    "day": 63
+  },
+  {
+    "id": "opening-remarks-phrase",
+    "word": "opening remarks",
+    "baseWord": "remarks",
+    "type": "phrase",
+    "meaning": "lời phát biểu khai mạc",
+    "pronunciation": "/opening remarks/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the opening remarks carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lời phát biểu khai mạc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm opening remarks",
+      "opening remarks details",
+      "review opening remarks"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "remarks"
+    ],
+    "day": 63
+  },
+  {
+    "id": "post-event-report-phrase",
+    "word": "post-event report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "báo cáo sau sự kiện",
+    "pronunciation": "/post-event report/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the post-event report carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét báo cáo sau sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm post-event report",
+      "post-event report details",
+      "review post-event report"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "report"
+    ],
+    "day": 63
+  },
+  {
+    "id": "press-briefing-phrase",
+    "word": "press briefing",
+    "baseWord": "briefing",
+    "type": "phrase",
+    "meaning": "buổi họp báo ngắn",
+    "pronunciation": "/press briefing/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the press briefing carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét buổi họp báo ngắn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm press briefing",
+      "press briefing details",
+      "review press briefing"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "briefing"
+    ],
+    "day": 63
+  },
+  {
+    "id": "press-packet-phrase",
+    "word": "press packet",
+    "baseWord": "packet",
+    "type": "phrase",
+    "meaning": "bộ tài liệu báo chí",
+    "pronunciation": "/press packet/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the press packet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bộ tài liệu báo chí cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm press packet",
+      "press packet details",
+      "review press packet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "packet"
+    ],
+    "day": 63
+  },
+  {
+    "id": "time-slot-phrase",
+    "word": "time slot",
+    "baseWord": "slot",
+    "type": "phrase",
+    "meaning": "khung thời gian",
+    "pronunciation": "/time slot/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the time slot carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khung thời gian cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm time slot",
+      "time slot details",
+      "review time slot"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "slot"
+    ],
+    "day": 63
+  },
+  {
+    "id": "trade-fair-phrase",
+    "word": "trade fair",
+    "baseWord": "fair",
+    "type": "phrase",
+    "meaning": "hội chợ thương mại",
+    "pronunciation": "/trade fair/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the trade fair carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hội chợ thương mại cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm trade fair",
+      "trade fair details",
+      "review trade fair"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "fair"
+    ],
+    "day": 63
+  },
+  {
+    "id": "travel-schedule-phrase",
+    "word": "travel schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "lịch trình di chuyển",
+    "pronunciation": "/travel schedule/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the travel schedule carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét lịch trình di chuyển cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm travel schedule",
+      "travel schedule details",
+      "review travel schedule"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "schedule"
+    ],
+    "day": 63
+  },
+  {
+    "id": "turnout-noun",
+    "word": "turnout",
+    "baseWord": "turnout",
+    "type": "noun",
+    "meaning": "số người tham dự",
+    "pronunciation": "/turnout/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the turnout carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét số người tham dự cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm turnout",
+      "turnout details",
+      "review turnout"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "turnout"
+    ],
+    "day": 63
+  },
+  {
+    "id": "vendor-table-phrase",
+    "word": "vendor table",
+    "baseWord": "table",
+    "type": "phrase",
+    "meaning": "bàn nhà cung cấp",
+    "pronunciation": "/vendor table/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the vendor table carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bàn nhà cung cấp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm vendor table",
+      "vendor table details",
+      "review vendor table"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "table"
+    ],
+    "day": 63
+  },
+  {
+    "id": "book-a-venue-phrase",
+    "word": "book a venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "đặt địa điểm",
+    "pronunciation": "/book a venue/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the book a venue carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đặt địa điểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm book a venue",
+      "book a venue details",
+      "review book a venue"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "venue"
+    ],
+    "day": 64
+  },
+  {
+    "id": "brief-the-speaker-phrase",
+    "word": "brief the speaker",
+    "baseWord": "speaker",
+    "type": "phrase",
+    "meaning": "tóm tắt thông tin cho diễn giả",
+    "pronunciation": "/brief the speaker/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the brief the speaker carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tóm tắt thông tin cho diễn giả cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm brief the speaker",
+      "brief the speaker details",
+      "review brief the speaker"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "speaker"
+    ],
+    "day": 64
+  },
+  {
+    "id": "cancel-a-session-phrase",
+    "word": "cancel a session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "hủy một phiên",
+    "pronunciation": "/cancel a session/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the cancel a session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hủy một phiên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cancel a session",
+      "cancel a session details",
+      "review cancel a session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 64
+  },
+  {
+    "id": "change-the-event-date-phrase",
+    "word": "change the event date",
+    "baseWord": "date",
+    "type": "phrase",
+    "meaning": "đổi ngày sự kiện",
+    "pronunciation": "/change the event date/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the change the event date carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đổi ngày sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm change the event date",
+      "change the event date details",
+      "review change the event date"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "date"
+    ],
+    "day": 64
+  },
+  {
+    "id": "close-the-meeting-phrase",
+    "word": "close the meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "kết thúc cuộc họp",
+    "pronunciation": "/close the meeting/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the close the meeting carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kết thúc cuộc họp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm close the meeting",
+      "close the meeting details",
+      "review close the meeting"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "meeting"
+    ],
+    "day": 64
+  },
+  {
+    "id": "coordinate-logistics-phrase",
+    "word": "coordinate logistics",
+    "baseWord": "logistics",
+    "type": "phrase",
+    "meaning": "phối hợp hậu cần",
+    "pronunciation": "/coordinate logistics/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the coordinate logistics carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phối hợp hậu cần cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm coordinate logistics",
+      "coordinate logistics details",
+      "review coordinate logistics"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "logistics"
+    ],
+    "day": 64
+  },
+  {
+    "id": "delay-the-session-phrase",
+    "word": "delay the session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "hoãn phiên họp",
+    "pronunciation": "/delay the session/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the delay the session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hoãn phiên họp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm delay the session",
+      "delay the session details",
+      "review delay the session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 64
+  },
+  {
+    "id": "give-a-presentation-phrase",
+    "word": "give a presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "trình bày bài nói",
+    "pronunciation": "/give a presentation/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the give a presentation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trình bày bài nói cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm give a presentation",
+      "give a presentation details",
+      "review give a presentation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "presentation"
+    ],
+    "day": 64
+  },
+  {
+    "id": "host-an-event-phrase",
+    "word": "host an event",
+    "baseWord": "event",
+    "type": "phrase",
+    "meaning": "đăng cai sự kiện",
+    "pronunciation": "/host an event/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the host an event carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đăng cai sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm host an event",
+      "host an event details",
+      "review host an event"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "event"
+    ],
+    "day": 64
+  },
+  {
+    "id": "invite-verb",
+    "word": "invite",
+    "baseWord": "invite",
+    "type": "verb",
+    "meaning": "mời",
+    "pronunciation": "/invite/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the invite carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mời cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm invite",
+      "invite details",
+      "review invite"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "invite"
+    ],
+    "day": 64
+  },
+  {
+    "id": "issue-an-event-notice-phrase",
+    "word": "issue an event notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "phát thông báo sự kiện",
+    "pronunciation": "/issue an event notice/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the issue an event notice carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phát thông báo sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm issue an event notice",
+      "issue an event notice details",
+      "review issue an event notice"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "notice"
+    ],
+    "day": 64
+  },
+  {
+    "id": "join-the-conference-phrase",
+    "word": "join the conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "tham gia hội nghị",
+    "pronunciation": "/join the conference/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the join the conference carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tham gia hội nghị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm join the conference",
+      "join the conference details",
+      "review join the conference"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "conference"
+    ],
+    "day": 64
+  },
+  {
+    "id": "lead-a-workshop-phrase",
+    "word": "lead a workshop",
+    "baseWord": "workshop",
+    "type": "phrase",
+    "meaning": "dẫn dắt hội thảo",
+    "pronunciation": "/lead a workshop/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the lead a workshop carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dẫn dắt hội thảo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm lead a workshop",
+      "lead a workshop details",
+      "review lead a workshop"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "workshop"
+    ],
+    "day": 64
+  },
+  {
+    "id": "moderate-verb",
+    "word": "moderate",
+    "baseWord": "moderate",
+    "type": "verb",
+    "meaning": "điều hành thảo luận",
+    "pronunciation": "/moderate/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the moderate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều hành thảo luận cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm moderate",
+      "moderate details",
+      "review moderate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "moderate"
+    ],
+    "day": 64
+  },
+  {
+    "id": "organize-verb",
+    "word": "organize",
+    "baseWord": "organize",
+    "type": "verb",
+    "meaning": "tổ chức",
+    "pronunciation": "/organize/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the organize carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tổ chức cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm organize",
+      "organize details",
+      "review organize"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "organize"
+    ],
+    "day": 64
+  },
+  {
+    "id": "participate-verb",
+    "word": "participate",
+    "baseWord": "participate",
+    "type": "verb",
+    "meaning": "tham gia",
+    "pronunciation": "/participate/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the participate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tham gia cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm participate",
+      "participate details",
+      "review participate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "participate"
+    ],
+    "day": 64
+  },
+  {
+    "id": "provide-equipment-phrase",
+    "word": "provide equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "cung cấp thiết bị",
+    "pronunciation": "/provide equipment/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the provide equipment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cung cấp thiết bị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm provide equipment",
+      "provide equipment details",
+      "review provide equipment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "equipment"
+    ],
+    "day": 64
+  },
+  {
+    "id": "register-for-a-seminar-phrase",
+    "word": "register for a seminar",
+    "baseWord": "seminar",
+    "type": "phrase",
+    "meaning": "đăng ký hội thảo",
+    "pronunciation": "/register for a seminar/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the register for a seminar carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đăng ký hội thảo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm register for a seminar",
+      "register for a seminar details",
+      "review register for a seminar"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "seminar"
+    ],
+    "day": 64
+  },
+  {
+    "id": "sponsor-a-session-phrase",
+    "word": "sponsor a session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "tài trợ một phiên",
+    "pronunciation": "/sponsor a session/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sponsor a session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tài trợ một phiên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sponsor a session",
+      "sponsor a session details",
+      "review sponsor a session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 64
+  },
+  {
+    "id": "stream-online-phrase",
+    "word": "stream online",
+    "baseWord": "online",
+    "type": "phrase",
+    "meaning": "phát trực tuyến",
+    "pronunciation": "/stream online/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the stream online carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phát trực tuyến cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm stream online",
+      "stream online details",
+      "review stream online"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "online"
+    ],
+    "day": 64
+  },
+  {
+    "id": "access-credential-phrase",
+    "word": "access credential",
+    "baseWord": "credential",
+    "type": "phrase",
+    "meaning": "thông tin xác thực ra vào",
+    "pronunciation": "/access credential/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the access credential carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thông tin xác thực ra vào cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm access credential",
+      "access credential details",
+      "review access credential"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "credential"
+    ],
+    "day": 65
+  },
+  {
+    "id": "annual-adjective",
+    "word": "annual",
+    "baseWord": "annual",
+    "type": "adjective",
+    "meaning": "hàng năm",
+    "pronunciation": "/annual/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hàng năm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm annual",
+      "annual details",
+      "review annual"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "annual"
+    ],
+    "day": 65
+  },
+  {
+    "id": "attendance-fee-phrase",
+    "word": "attendance fee",
+    "baseWord": "fee",
+    "type": "phrase",
+    "meaning": "phí tham dự",
+    "pronunciation": "/attendance fee/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the attendance fee carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phí tham dự cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm attendance fee",
+      "attendance fee details",
+      "review attendance fee"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "fee"
+    ],
+    "day": 65
+  },
+  {
+    "id": "audience-engaging-adjective",
+    "word": "audience-engaging",
+    "baseWord": "audience-engaging",
+    "type": "adjective",
+    "meaning": "thu hút người nghe",
+    "pronunciation": "/audience-engaging/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thu hút người nghe cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm audience-engaging",
+      "audience-engaging details",
+      "review audience-engaging"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "audience-engaging"
+    ],
+    "day": 65
+  },
+  {
+    "id": "cleanup-crew-phrase",
+    "word": "cleanup crew",
+    "baseWord": "crew",
+    "type": "phrase",
+    "meaning": "đội dọn dẹp",
+    "pronunciation": "/cleanup crew/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the cleanup crew carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đội dọn dẹp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cleanup crew",
+      "cleanup crew details",
+      "review cleanup crew"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "crew"
+    ],
+    "day": 65
+  },
+  {
+    "id": "content-rich-adjective",
+    "word": "content-rich",
+    "baseWord": "content-rich",
+    "type": "adjective",
+    "meaning": "giàu nội dung",
+    "pronunciation": "/content-rich/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giàu nội dung cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm content-rich",
+      "content-rich details",
+      "review content-rich"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "content-rich"
+    ],
+    "day": 65
+  },
+  {
+    "id": "early-bird-rate-phrase",
+    "word": "early-bird rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "mức giá đăng ký sớm",
+    "pronunciation": "/early-bird rate/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the early-bird rate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mức giá đăng ký sớm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm early-bird rate",
+      "early-bird rate details",
+      "review early-bird rate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rate"
+    ],
+    "day": 65
+  },
+  {
+    "id": "event-coordinator-phrase",
+    "word": "event coordinator",
+    "baseWord": "coordinator",
+    "type": "phrase",
+    "meaning": "điều phối viên sự kiện",
+    "pronunciation": "/event coordinator/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the event coordinator carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều phối viên sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm event coordinator",
+      "event coordinator details",
+      "review event coordinator"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "coordinator"
+    ],
+    "day": 65
+  },
+  {
+    "id": "event-protocol-phrase",
+    "word": "event protocol",
+    "baseWord": "protocol",
+    "type": "phrase",
+    "meaning": "nghi thức sự kiện",
+    "pronunciation": "/event protocol/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the event protocol carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nghi thức sự kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm event protocol",
+      "event protocol details",
+      "review event protocol"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "protocol"
+    ],
+    "day": 65
+  },
+  {
+    "id": "group-discount-phrase",
+    "word": "group discount",
+    "baseWord": "discount",
+    "type": "phrase",
+    "meaning": "giảm giá nhóm",
+    "pronunciation": "/group discount/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the group discount carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giảm giá nhóm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm group discount",
+      "group discount details",
+      "review group discount"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "discount"
+    ],
+    "day": 65
+  },
+  {
+    "id": "hybrid-format-phrase",
+    "word": "hybrid format",
+    "baseWord": "format",
+    "type": "phrase",
+    "meaning": "hình thức kết hợp",
+    "pronunciation": "/hybrid format/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hybrid format carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hình thức kết hợp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hybrid format",
+      "hybrid format details",
+      "review hybrid format"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "format"
+    ],
+    "day": 65
+  },
+  {
+    "id": "official-accreditation-phrase",
+    "word": "official accreditation",
+    "baseWord": "accreditation",
+    "type": "phrase",
+    "meaning": "sự công nhận chính thức",
+    "pronunciation": "/official accreditation/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the official accreditation carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự công nhận chính thức cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm official accreditation",
+      "official accreditation details",
+      "review official accreditation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "accreditation"
+    ],
+    "day": 65
+  },
+  {
+    "id": "on-site-registration-phrase",
+    "word": "on-site registration",
+    "baseWord": "registration",
+    "type": "phrase",
+    "meaning": "đăng ký tại địa điểm",
+    "pronunciation": "/on-site registration/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the on-site registration carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đăng ký tại địa điểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm on-site registration",
+      "on-site registration details",
+      "review on-site registration"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "registration"
+    ],
+    "day": 65
+  },
+  {
+    "id": "online-only-adjective",
+    "word": "online-only",
+    "baseWord": "online-only",
+    "type": "adjective",
+    "meaning": "chỉ diễn ra trực tuyến",
+    "pronunciation": "/online-only/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chỉ diễn ra trực tuyến cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm online-only",
+      "online-only details",
+      "review online-only"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "online-only"
+    ],
+    "day": 65
+  },
+  {
+    "id": "optional-session-phrase",
+    "word": "optional session",
+    "baseWord": "session",
+    "type": "phrase",
+    "meaning": "phiên không bắt buộc",
+    "pronunciation": "/optional session/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the optional session carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiên không bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm optional session",
+      "optional session details",
+      "review optional session"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "session"
+    ],
+    "day": 65
+  },
+  {
+    "id": "required-attendance-phrase",
+    "word": "required attendance",
+    "baseWord": "attendance",
+    "type": "phrase",
+    "meaning": "sự tham dự bắt buộc",
+    "pronunciation": "/required attendance/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the required attendance carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự tham dự bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm required attendance",
+      "required attendance details",
+      "review required attendance"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "attendance"
+    ],
+    "day": 65
+  },
+  {
+    "id": "room-capacity-phrase",
+    "word": "room capacity",
+    "baseWord": "capacity",
+    "type": "phrase",
+    "meaning": "sức chứa phòng",
+    "pronunciation": "/room capacity/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the room capacity carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sức chứa phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm room capacity",
+      "room capacity details",
+      "review room capacity"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "capacity"
+    ],
+    "day": 65
+  },
+  {
+    "id": "seat-availability-phrase",
+    "word": "seat availability",
+    "baseWord": "availability",
+    "type": "phrase",
+    "meaning": "tình trạng còn chỗ",
+    "pronunciation": "/seat availability/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the seat availability carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tình trạng còn chỗ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm seat availability",
+      "seat availability details",
+      "review seat availability"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "availability"
+    ],
+    "day": 65
+  },
+  {
+    "id": "setup-crew-phrase",
+    "word": "setup crew",
+    "baseWord": "crew",
+    "type": "phrase",
+    "meaning": "đội lắp đặt",
+    "pronunciation": "/setup crew/",
+    "topic": "Events & Conferences",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the setup crew carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đội lắp đặt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm setup crew",
+      "setup crew details",
+      "review setup crew"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "crew"
+    ],
+    "day": 65
+  },
+  {
+    "id": "venue-contract-phrase",
+    "word": "venue contract",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "hợp đồng thuê địa điểm",
+    "pronunciation": "/venue contract/",
+    "topic": "Events & Conferences",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the venue contract carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hợp đồng thuê địa điểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm venue contract",
+      "venue contract details",
+      "review venue contract"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contract"
+    ],
+    "day": 65
+  }
+]

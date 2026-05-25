@@ -1,186 +1,38 @@
 [
   {
-    "id": "negotiate-verb",
-    "word": "negotiate",
-    "baseWord": "negotiate",
-    "type": "verb",
-    "meaning": "đàm phán, thương lượng",
-    "pronunciation": "/nɪˈɡoʊʃieɪt/",
+    "id": "at stake-phrase",
+    "word": "at stake",
+    "baseWord": "stake",
+    "type": "phrase",
+    "meaning": "đang bị đe dọa, có liên quan",
+    "pronunciation": "/æt steɪk/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Both parties agreed to negotiate the terms of the contract.",
-    "exampleVi": "Cả hai bên đồng ý đàm phán các điều khoản của hợp đồng.",
-    "collocations": ["negotiate a deal", "negotiate terms", "negotiate a contract"],
-    "synonyms": ["bargain", "discuss", "mediate"],
-    "wordFamily": ["negotiation", "negotiator", "negotiable"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Millions of dollars are at stake in this deal.",
+    "exampleVi": "Hàng triệu đô la đang bị đe dọa trong thỏa thuận này.",
+    "collocations": [
+      "what's at stake",
+      "lives at stake",
+      "jobs at stake"
+    ],
+    "synonyms": [
+      "at risk",
+      "in jeopardy",
+      "on the line"
+    ],
+    "wordFamily": [
+      "stake",
+      "stakeholder"
+    ],
     "day": 106
   },
   {
-    "id": "negotiation-noun",
-    "word": "negotiation",
-    "baseWord": "negotiate",
-    "type": "noun",
-    "meaning": "cuộc đàm phán",
-    "pronunciation": "/nɪˌɡoʊʃiˈeɪʃən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The negotiation between the two firms lasted several weeks.",
-    "exampleVi": "Cuộc đàm phán giữa hai công ty kéo dài vài tuần.",
-    "collocations": ["enter into negotiations", "contract negotiation", "salary negotiation"],
-    "synonyms": ["discussion", "deliberation", "bargaining"],
-    "wordFamily": ["negotiate", "negotiator", "negotiable"],
-    "day": 106
-  },
-  {
-    "id": "proposal-noun",
-    "word": "proposal",
-    "baseWord": "propose",
-    "type": "noun",
-    "meaning": "đề xuất, lời đề nghị",
-    "pronunciation": "/prəˈpoʊzəl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The client submitted a proposal for the construction project.",
-    "exampleVi": "Khách hàng đã nộp đề xuất cho dự án xây dựng.",
-    "collocations": ["submit a proposal", "accept a proposal", "business proposal"],
-    "synonyms": ["suggestion", "offer", "plan"],
-    "wordFamily": ["propose", "proposed", "proposer"],
-    "day": 106
-  },
-  {
-    "id": "counteroffer-noun",
-    "word": "counteroffer",
-    "baseWord": "offer",
-    "type": "noun",
-    "meaning": "lời đề nghị đối lại",
-    "pronunciation": "/ˈkaʊntərˌɔːfər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The seller rejected the initial bid and made a counteroffer.",
-    "exampleVi": "Người bán từ chối giá chào ban đầu và đưa ra lời đề nghị đối lại.",
-    "collocations": ["make a counteroffer", "submit a counteroffer", "accept a counteroffer"],
-    "synonyms": ["counter-proposal", "alternative offer"],
-    "wordFamily": ["offer", "counter"],
-    "day": 106
-  },
-  {
-    "id": "concession-noun",
-    "word": "concession",
-    "baseWord": "concede",
-    "type": "noun",
-    "meaning": "sự nhượng bộ",
-    "pronunciation": "/kənˈseʃən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Both sides had to make concessions to reach an agreement.",
-    "exampleVi": "Cả hai bên phải nhượng bộ để đạt được thỏa thuận.",
-    "collocations": ["make concessions", "major concession", "price concession"],
-    "synonyms": ["compromise", "allowance", "accommodation"],
-    "wordFamily": ["concede", "conceded"],
-    "day": 106
-  },
-  {
-    "id": "clause-noun",
-    "word": "clause",
-    "baseWord": "clause",
-    "type": "noun",
-    "meaning": "điều khoản",
-    "pronunciation": "/klɔːz/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The lawyer recommended adding a termination clause to the contract.",
-    "exampleVi": "Luật sư khuyến nghị thêm điều khoản chấm dứt vào hợp đồng.",
-    "collocations": ["termination clause", "penalty clause", "contractual clause"],
-    "synonyms": ["provision", "condition", "stipulation"],
-    "wordFamily": ["clauses"],
-    "day": 106
-  },
-  {
-    "id": "binding-adjective",
-    "word": "binding",
-    "baseWord": "bind",
-    "type": "adjective",
-    "meaning": "ràng buộc, có tính pháp lý",
-    "pronunciation": "/ˈbaɪndɪŋ/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Once signed, the contract becomes legally binding.",
-    "exampleVi": "Khi đã ký, hợp đồng trở nên có tính ràng buộc pháp lý.",
-    "collocations": ["legally binding", "binding agreement", "binding contract"],
-    "synonyms": ["obligatory", "enforceable", "compulsory"],
-    "wordFamily": ["bind", "bound", "unbinding"],
-    "day": 106
-  },
-  {
-    "id": "leverage-noun",
-    "word": "leverage",
-    "baseWord": "leverage",
-    "type": "noun",
-    "meaning": "đòn bẩy, thế mạnh",
-    "pronunciation": "/ˈlevərɪdʒ/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Having multiple suppliers gives us more leverage in negotiations.",
-    "exampleVi": "Có nhiều nhà cung cấp cho chúng tôi thêm thế mạnh trong đàm phán.",
-    "collocations": ["negotiating leverage", "gain leverage", "use leverage"],
-    "synonyms": ["advantage", "influence", "power"],
-    "wordFamily": ["leverage", "leveraged"],
-    "day": 106
-  },
-  {
-    "id": "mutually-adverb",
-    "word": "mutually",
-    "baseWord": "mutual",
-    "type": "adverb",
-    "meaning": "lẫn nhau, song phương",
-    "pronunciation": "/ˈmjuːtʃuəli/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "The two companies reached a mutually beneficial agreement.",
-    "exampleVi": "Hai công ty đạt được thỏa thuận có lợi cho cả hai bên.",
-    "collocations": ["mutually beneficial", "mutually agreed", "mutually exclusive"],
-    "synonyms": ["reciprocally", "jointly"],
-    "wordFamily": ["mutual"],
-    "day": 106
-  },
-  {
-    "id": "tentative-adjective",
-    "word": "tentative",
-    "baseWord": "tentative",
-    "type": "adjective",
-    "meaning": "tạm thời, chưa chắc chắn",
-    "pronunciation": "/ˈtentətɪv/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We have a tentative agreement pending final review.",
-    "exampleVi": "Chúng tôi có một thỏa thuận tạm thời đang chờ xem xét cuối cùng.",
-    "collocations": ["tentative agreement", "tentative plan", "tentative schedule"],
-    "synonyms": ["preliminary", "provisional", "uncertain"],
-    "wordFamily": ["tentatively"],
-    "day": 106
-  },
-  {
-    "id": "stipulate-verb-neg",
+    "id": "broker-verb",
     "word": "broker",
     "baseWord": "broker",
     "type": "verb",
@@ -189,12 +41,26 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "A third party was brought in to broker the deal.",
     "exampleVi": "Một bên thứ ba được mời đến để dàn xếp thỏa thuận.",
-    "collocations": ["broker a deal", "broker an agreement", "broker a compromise"],
-    "synonyms": ["mediate", "arrange", "negotiate"],
-    "wordFamily": ["broker", "brokerage", "brokered"],
+    "collocations": [
+      "broker a deal",
+      "broker an agreement",
+      "broker a compromise"
+    ],
+    "synonyms": [
+      "mediate",
+      "arrange",
+      "negotiate"
+    ],
+    "wordFamily": [
+      "broker",
+      "brokerage",
+      "brokered"
+    ],
     "day": 106
   },
   {
@@ -207,48 +73,156 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
     "example": "After hours of discussion, both sides reached a compromise.",
     "exampleVi": "Sau nhiều giờ thảo luận, cả hai bên đã đạt được thỏa hiệp.",
-    "collocations": ["reach a compromise", "make a compromise", "acceptable compromise"],
-    "synonyms": ["settlement", "agreement", "middle ground"],
-    "wordFamily": ["compromise", "compromised", "compromising"],
+    "collocations": [
+      "reach a compromise",
+      "make a compromise",
+      "acceptable compromise"
+    ],
+    "synonyms": [
+      "settlement",
+      "agreement",
+      "middle ground"
+    ],
+    "wordFamily": [
+      "compromise",
+      "compromised",
+      "compromising"
+    ],
     "day": 106
   },
   {
-    "id": "negotiate-adjective",
-    "word": "negotiable",
-    "baseWord": "negotiate",
-    "type": "adjective",
-    "meaning": "có thể thương lượng",
-    "pronunciation": "/nɪˈɡoʊʃəbl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5"],
-    "example": "The salary is negotiable depending on experience.",
-    "exampleVi": "Mức lương có thể thương lượng tùy thuộc vào kinh nghiệm.",
-    "collocations": ["negotiable price", "negotiable terms", "non-negotiable"],
-    "synonyms": ["flexible", "open to discussion", "adjustable"],
-    "wordFamily": ["negotiate", "negotiation", "negotiator"],
-    "day": 106
-  },
-  {
-    "id": "broker-noun",
-    "word": "broker",
-    "baseWord": "broker",
+    "id": "concession-noun",
+    "word": "concession",
+    "baseWord": "concede",
     "type": "noun",
-    "meaning": "người môi giới",
-    "pronunciation": "/ˈbroʊkər/",
+    "meaning": "sự nhượng bộ",
+    "pronunciation": "/kənˈseʃən/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Both sides had to make concessions to reach an agreement.",
+    "exampleVi": "Cả hai bên phải nhượng bộ để đạt được thỏa thuận.",
+    "collocations": [
+      "make concessions",
+      "major concession",
+      "price concession"
+    ],
+    "synonyms": [
+      "compromise",
+      "allowance",
+      "accommodation"
+    ],
+    "wordFamily": [
+      "concede",
+      "conceded"
+    ],
+    "day": 106
+  },
+  {
+    "id": "cooperate-verb",
+    "word": "cooperate",
+    "baseWord": "cooperate",
+    "type": "verb",
+    "meaning": "hợp tác, cộng tác",
+    "pronunciation": "/koʊˈɑːpəreɪt/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The real estate broker helped finalize the office lease.",
-    "exampleVi": "Người môi giới bất động sản đã giúp hoàn tất hợp đồng thuê văn phòng.",
-    "collocations": ["real estate broker", "insurance broker", "stock broker"],
-    "synonyms": ["agent", "intermediary", "dealer"],
-    "wordFamily": ["brokerage", "brokered"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The two divisions agreed to cooperate on the marketing campaign.",
+    "exampleVi": "Hai bộ phận đã đồng ý hợp tác trong chiến dịch tiếp thị.",
+    "collocations": [
+      "cooperate with",
+      "cooperate fully",
+      "refuse to cooperate"
+    ],
+    "synonyms": [
+      "collaborate",
+      "team up",
+      "assist"
+    ],
+    "wordFamily": [
+      "cooperation",
+      "cooperative",
+      "cooperatively"
+    ],
+    "day": 106
+  },
+  {
+    "id": "counteroffer-noun",
+    "word": "counteroffer",
+    "baseWord": "offer",
+    "type": "noun",
+    "meaning": "lời đề nghị đối lại",
+    "pronunciation": "/ˈkaʊntərˌɔːfər/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The seller rejected the initial bid and made a counteroffer.",
+    "exampleVi": "Người bán từ chối giá chào ban đầu và đưa ra lời đề nghị đối lại.",
+    "collocations": [
+      "make a counteroffer",
+      "submit a counteroffer",
+      "accept a counteroffer"
+    ],
+    "synonyms": [
+      "counter-proposal",
+      "alternative offer"
+    ],
+    "wordFamily": [
+      "offer",
+      "counter"
+    ],
+    "day": 106
+  },
+  {
+    "id": "covenant-noun",
+    "word": "covenant",
+    "baseWord": "covenant",
+    "type": "noun",
+    "meaning": "điều khoản ràng buộc, cam kết pháp lý",
+    "pronunciation": "/ˈkʌvənənt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The contract contains a restrictive covenant preventing employees from joining competitors.",
+    "exampleVi": "Hợp đồng có một điều khoản ràng buộc hạn chế ngăn nhân viên gia nhập đối thủ cạnh tranh.",
+    "collocations": [
+      "restrictive covenant",
+      "covenant agreement",
+      "breach of covenant"
+    ],
+    "synonyms": [
+      "agreement",
+      "pledge",
+      "undertaking"
+    ],
+    "wordFamily": [
+      "covenants",
+      "covenanted",
+      "covenanting"
+    ],
     "day": 106
   },
   {
@@ -261,30 +235,25 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
     "example": "The lack of a warranty was a dealbreaker for the buyer.",
     "exampleVi": "Việc không có bảo hành là yếu tố phá vỡ thỏa thuận đối với người mua.",
-    "collocations": ["potential dealbreaker", "major dealbreaker", "a dealbreaker for"],
-    "synonyms": ["obstacle", "sticking point"],
-    "wordFamily": ["deal", "break"],
-    "day": 106
-  },
-  {
-    "id": "contingency-noun",
-    "word": "contingency",
-    "baseWord": "contingent",
-    "type": "noun",
-    "meaning": "tình huống bất ngờ, dự phòng",
-    "pronunciation": "/kənˈtɪndʒənsi/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The agreement includes a contingency plan in case of delays.",
-    "exampleVi": "Thỏa thuận bao gồm kế hoạch dự phòng trong trường hợp chậm trễ.",
-    "collocations": ["contingency plan", "contingency fund", "contingency measures"],
-    "synonyms": ["backup plan", "emergency plan", "precaution"],
-    "wordFamily": ["contingent", "contingencies"],
+    "collocations": [
+      "potential dealbreaker",
+      "major dealbreaker",
+      "a dealbreaker for"
+    ],
+    "synonyms": [
+      "obstacle",
+      "sticking point"
+    ],
+    "wordFamily": [
+      "deal",
+      "break"
+    ],
     "day": 106
   },
   {
@@ -297,30 +266,219 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The negotiation resulted in favorable terms for both parties.",
     "exampleVi": "Cuộc đàm phán đã mang lại các điều khoản thuận lợi cho cả hai bên.",
-    "collocations": ["favorable terms", "favorable conditions", "favorable outcome"],
-    "synonyms": ["advantageous", "beneficial", "positive"],
-    "wordFamily": ["favor", "favorably", "unfavorable"],
+    "collocations": [
+      "favorable terms",
+      "favorable conditions",
+      "favorable outcome"
+    ],
+    "synonyms": [
+      "advantageous",
+      "beneficial",
+      "positive"
+    ],
+    "wordFamily": [
+      "favor",
+      "favorably",
+      "unfavorable"
+    ],
     "day": 106
   },
   {
-    "id": "at-stake-phrase",
-    "word": "at stake",
-    "baseWord": "stake",
+    "id": "formal-appointment-phrase",
+    "word": "formal appointment",
+    "baseWord": "appointment",
     "type": "phrase",
-    "meaning": "đang bị đe dọa, có liên quan",
-    "pronunciation": "/æt steɪk/",
+    "meaning": "cum tu TOEIC ve negotiations & deals: formal appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the formal appointment before the next business day.",
+    "exampleVi": "Vui long xem lai formal appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "formal appointment",
+      "formal appointment process",
+      "formal appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 106
+  },
+  {
+    "id": "leverage-noun",
+    "word": "leverage",
+    "baseWord": "leverage",
+    "type": "noun",
+    "meaning": "đòn bẩy, thế mạnh",
+    "pronunciation": "/ˈlevərɪdʒ/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Having multiple suppliers gives us more leverage in negotiations.",
+    "exampleVi": "Có nhiều nhà cung cấp cho chúng tôi thêm thế mạnh trong đàm phán.",
+    "collocations": [
+      "negotiating leverage",
+      "gain leverage",
+      "use leverage"
+    ],
+    "synonyms": [
+      "advantage",
+      "influence",
+      "power"
+    ],
+    "wordFamily": [
+      "leverage",
+      "leveraged"
+    ],
+    "day": 106
+  },
+  {
+    "id": "mutually-adverb",
+    "word": "mutually",
+    "baseWord": "mutual",
+    "type": "adverb",
+    "meaning": "lẫn nhau, song phương",
+    "pronunciation": "/ˈmjuːtʃuəli/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "Millions of dollars are at stake in this deal.",
-    "exampleVi": "Hàng triệu đô la đang bị đe dọa trong thỏa thuận này.",
-    "collocations": ["what's at stake", "lives at stake", "jobs at stake"],
-    "synonyms": ["at risk", "in jeopardy", "on the line"],
-    "wordFamily": ["stake", "stakeholder"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The two companies reached a mutually beneficial agreement.",
+    "exampleVi": "Hai công ty đạt được thỏa thuận có lợi cho cả hai bên.",
+    "collocations": [
+      "mutually beneficial",
+      "mutually agreed",
+      "mutually exclusive"
+    ],
+    "synonyms": [
+      "reciprocally",
+      "jointly"
+    ],
+    "wordFamily": [
+      "mutual",
+      "mutuality",
+      "mutually"
+    ],
+    "day": 106
+  },
+  {
+    "id": "negotiable-adjective",
+    "word": "negotiable",
+    "baseWord": "negotiate",
+    "type": "adjective",
+    "meaning": "có thể thương lượng",
+    "pronunciation": "/nɪˈɡoʊʃəbl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The salary is negotiable depending on experience.",
+    "exampleVi": "Mức lương có thể thương lượng tùy thuộc vào kinh nghiệm.",
+    "collocations": [
+      "negotiable price",
+      "negotiable terms",
+      "non-negotiable"
+    ],
+    "synonyms": [
+      "flexible",
+      "open to discussion",
+      "adjustable"
+    ],
+    "wordFamily": [
+      "negotiate",
+      "negotiation",
+      "negotiator"
+    ],
+    "day": 106
+  },
+  {
+    "id": "negotiation-noun",
+    "word": "negotiation",
+    "baseWord": "negotiate",
+    "type": "noun",
+    "meaning": "cuộc đàm phán",
+    "pronunciation": "/nɪˌɡoʊʃiˈeɪʃən/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The negotiation between the two firms lasted several weeks.",
+    "exampleVi": "Cuộc đàm phán giữa hai công ty kéo dài vài tuần.",
+    "collocations": [
+      "enter into negotiations",
+      "contract negotiation",
+      "salary negotiation"
+    ],
+    "synonyms": [
+      "discussion",
+      "deliberation",
+      "bargaining"
+    ],
+    "wordFamily": [
+      "negotiate",
+      "negotiator",
+      "negotiable"
+    ],
+    "day": 106
+  },
+  {
+    "id": "official-appointment-phrase",
+    "word": "official appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: official appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the official appointment before the next business day.",
+    "exampleVi": "Vui long xem lai official appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "official appointment",
+      "official appointment process",
+      "official appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 106
   },
   {
@@ -333,12 +491,57 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The sales team identified several promising prospects at the trade show.",
     "exampleVi": "Đội bán hàng đã xác định được một số khách hàng tiềm năng tại hội chợ thương mại.",
-    "collocations": ["business prospect", "sales prospect", "promising prospect"],
-    "synonyms": ["potential client", "opportunity", "lead"],
-    "wordFamily": ["prospective", "prospecting"],
+    "collocations": [
+      "business prospect",
+      "sales prospect",
+      "promising prospect"
+    ],
+    "synonyms": [
+      "potential client",
+      "opportunity",
+      "lead"
+    ],
+    "wordFamily": [
+      "prospective",
+      "prospecting"
+    ],
+    "day": 106
+  },
+  {
+    "id": "revised-appointment-phrase",
+    "word": "revised appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: revised appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the revised appointment before the next business day.",
+    "exampleVi": "Vui long xem lai revised appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "revised appointment",
+      "revised appointment process",
+      "revised appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 106
   },
   {
@@ -351,49 +554,89 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
     "example": "The meeting has been tentatively scheduled for Thursday.",
     "exampleVi": "Cuộc họp đã được tạm thời xếp lịch vào thứ Năm.",
-    "collocations": ["tentatively scheduled", "tentatively agreed", "tentatively planned"],
-    "synonyms": ["provisionally", "preliminarily"],
-    "wordFamily": ["tentative"],
+    "collocations": [
+      "tentatively scheduled",
+      "tentatively agreed",
+      "tentatively planned"
+    ],
+    "synonyms": [
+      "provisionally",
+      "preliminarily"
+    ],
+    "wordFamily": [
+      "tentative",
+      "tentatively",
+      "tentativeness"
+    ],
     "day": 106
   },
   {
-    "id": "partnership-noun",
-    "word": "partnership",
-    "baseWord": "partner",
-    "type": "noun",
-    "meaning": "sự hợp tác, quan hệ đối tác",
-    "pronunciation": "/ˈpɑːrtnərʃɪp/",
+    "id": "updated-appointment-phrase",
+    "word": "updated appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: updated appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The two companies announced a strategic partnership.",
-    "exampleVi": "Hai công ty công bố quan hệ đối tác chiến lược.",
-    "collocations": ["strategic partnership", "business partnership", "form a partnership"],
-    "synonyms": ["alliance", "collaboration", "joint venture"],
-    "wordFamily": ["partner", "partnered"],
-    "day": 107
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the updated appointment before the next business day.",
+    "exampleVi": "Vui long xem lai updated appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "updated appointment",
+      "updated appointment process",
+      "updated appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 106
   },
   {
-    "id": "merger-noun",
-    "word": "merger",
-    "baseWord": "merge",
-    "type": "noun",
-    "meaning": "sự sáp nhập",
-    "pronunciation": "/ˈmɜːrdʒər/",
+    "id": "written-appointment-phrase",
+    "word": "written appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: written appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The merger between the two banks was finalized last month.",
-    "exampleVi": "Việc sáp nhập giữa hai ngân hàng đã được hoàn tất tháng trước.",
-    "collocations": ["merger agreement", "proposed merger", "corporate merger"],
-    "synonyms": ["consolidation", "union", "amalgamation"],
-    "wordFamily": ["merge", "merged", "merging"],
-    "day": 107
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the written appointment before the next business day.",
+    "exampleVi": "Vui long xem lai written appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "written appointment",
+      "written appointment process",
+      "written appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 106
   },
   {
     "id": "acquisition-noun",
@@ -405,102 +648,27 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
     "example": "The acquisition of the smaller firm expanded the company's market reach.",
     "exampleVi": "Việc mua lại công ty nhỏ hơn đã mở rộng phạm vi thị trường của công ty.",
-    "collocations": ["corporate acquisition", "acquisition strategy", "complete an acquisition"],
-    "synonyms": ["purchase", "takeover", "buyout"],
-    "wordFamily": ["acquire", "acquired", "acquiring"],
-    "day": 107
-  },
-  {
-    "id": "arbitration-noun",
-    "word": "arbitration",
-    "baseWord": "arbitrate",
-    "type": "noun",
-    "meaning": "sự phân xử, trọng tài",
-    "pronunciation": "/ˌɑːrbɪˈtreɪʃən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The dispute was resolved through arbitration rather than litigation.",
-    "exampleVi": "Tranh chấp được giải quyết thông qua phân xử trọng tài thay vì kiện tụng.",
-    "collocations": ["go to arbitration", "binding arbitration", "arbitration clause"],
-    "synonyms": ["mediation", "adjudication", "settlement"],
-    "wordFamily": ["arbitrate", "arbitrator", "arbitrated"],
-    "day": 107
-  },
-  {
-    "id": "mediate-verb",
-    "word": "mediate",
-    "baseWord": "mediate",
-    "type": "verb",
-    "meaning": "hòa giải, làm trung gian",
-    "pronunciation": "/ˈmiːdieɪt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A lawyer was hired to mediate the contract dispute.",
-    "exampleVi": "Một luật sư được thuê để hòa giải tranh chấp hợp đồng.",
-    "collocations": ["mediate a dispute", "mediate between parties", "mediate negotiations"],
-    "synonyms": ["arbitrate", "intervene", "reconcile"],
-    "wordFamily": ["mediation", "mediator", "mediated"],
-    "day": 107
-  },
-  {
-    "id": "mediator-noun",
-    "word": "mediator",
-    "baseWord": "mediate",
-    "type": "noun",
-    "meaning": "người hòa giải, trung gian",
-    "pronunciation": "/ˈmiːdieɪtər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "An independent mediator was appointed to resolve the conflict.",
-    "exampleVi": "Một trung gian hòa giải độc lập đã được chỉ định để giải quyết xung đột.",
-    "collocations": ["appoint a mediator", "independent mediator", "neutral mediator"],
-    "synonyms": ["arbitrator", "go-between", "intermediary"],
-    "wordFamily": ["mediate", "mediation", "mediated"],
-    "day": 107
-  },
-  {
-    "id": "ratify-verb",
-    "word": "ratify",
-    "baseWord": "ratify",
-    "type": "verb",
-    "meaning": "phê chuẩn, thông qua",
-    "pronunciation": "/ˈrætɪfaɪ/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board of directors voted to ratify the new agreement.",
-    "exampleVi": "Hội đồng quản trị đã bỏ phiếu phê chuẩn thỏa thuận mới.",
-    "collocations": ["ratify an agreement", "ratify a treaty", "ratify a contract"],
-    "synonyms": ["approve", "endorse", "sanction"],
-    "wordFamily": ["ratification", "ratified"],
-    "day": 107
-  },
-  {
-    "id": "stalemate-noun",
-    "word": "stalemate",
-    "baseWord": "stalemate",
-    "type": "noun",
-    "meaning": "tình trạng bế tắc",
-    "pronunciation": "/ˈsteɪlmeɪt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The negotiations ended in a stalemate with no resolution.",
-    "exampleVi": "Cuộc đàm phán kết thúc trong tình trạng bế tắc mà không có giải pháp.",
-    "collocations": ["reach a stalemate", "break the stalemate", "negotiation stalemate"],
-    "synonyms": ["deadlock", "impasse", "standstill"],
-    "wordFamily": ["stalemated"],
+    "collocations": [
+      "corporate acquisition",
+      "acquisition strategy",
+      "complete an acquisition"
+    ],
+    "synonyms": [
+      "purchase",
+      "takeover",
+      "buyout"
+    ],
+    "wordFamily": [
+      "acquire",
+      "acquired",
+      "acquiring"
+    ],
     "day": 107
   },
   {
@@ -513,138 +681,26 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The airline formed a global alliance with three other carriers.",
     "exampleVi": "Hãng hàng không đã thành lập liên minh toàn cầu với ba hãng khác.",
-    "collocations": ["strategic alliance", "form an alliance", "business alliance"],
-    "synonyms": ["partnership", "coalition", "union"],
-    "wordFamily": ["ally", "allied", "allies"],
-    "day": 107
-  },
-  {
-    "id": "consensus-noun",
-    "word": "consensus",
-    "baseWord": "consensus",
-    "type": "noun",
-    "meaning": "sự đồng thuận",
-    "pronunciation": "/kənˈsensəs/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee reached a consensus on the new pricing strategy.",
-    "exampleVi": "Ủy ban đã đạt được đồng thuận về chiến lược định giá mới.",
-    "collocations": ["reach a consensus", "general consensus", "build consensus"],
-    "synonyms": ["agreement", "accord", "unanimity"],
-    "wordFamily": ["consensual"],
-    "day": 107
-  },
-  {
-    "id": "concede-verb",
-    "word": "concede",
-    "baseWord": "concede",
-    "type": "verb",
-    "meaning": "nhượng bộ, thừa nhận",
-    "pronunciation": "/kənˈsiːd/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The vendor conceded on the delivery timeline to close the deal.",
-    "exampleVi": "Nhà cung cấp đã nhượng bộ về thời hạn giao hàng để chốt thỏa thuận.",
-    "collocations": ["concede a point", "concede to demands", "willing to concede"],
-    "synonyms": ["yield", "give in", "admit"],
-    "wordFamily": ["concession", "conceded"],
-    "day": 107
-  },
-  {
-    "id": "stakeholder-noun",
-    "word": "stakeholder",
-    "baseWord": "stake",
-    "type": "noun",
-    "meaning": "bên liên quan, các bên có lợi ích",
-    "pronunciation": "/ˈsteɪkˌhoʊldər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "All stakeholders must be consulted before finalizing the deal.",
-    "exampleVi": "Tất cả các bên liên quan phải được tham vấn trước khi hoàn tất thỏa thuận.",
-    "collocations": ["key stakeholder", "stakeholder meeting", "stakeholder engagement"],
-    "synonyms": ["interested party", "participant", "shareholder"],
-    "wordFamily": ["stake", "stakeholding"],
-    "day": 107
-  },
-  {
-    "id": "preliminary-adjective",
-    "word": "preliminary",
-    "baseWord": "preliminary",
-    "type": "adjective",
-    "meaning": "sơ bộ, ban đầu",
-    "pronunciation": "/prɪˈlɪmɪneri/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Preliminary discussions suggest both parties are open to collaboration.",
-    "exampleVi": "Các cuộc thảo luận sơ bộ cho thấy cả hai bên đều sẵn sàng hợp tác.",
-    "collocations": ["preliminary meeting", "preliminary report", "preliminary results"],
-    "synonyms": ["initial", "introductory", "preparatory"],
-    "wordFamily": ["preliminarily", "preliminaries"],
-    "day": 107
-  },
-  {
-    "id": "lucrative-adjective",
-    "word": "lucrative",
-    "baseWord": "lucrative",
-    "type": "adjective",
-    "meaning": "sinh lời, có lợi nhuận cao",
-    "pronunciation": "/ˈluːkrətɪv/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The partnership turned out to be extremely lucrative for both companies.",
-    "exampleVi": "Mối hợp tác hóa ra cực kỳ sinh lời cho cả hai công ty.",
-    "collocations": ["lucrative deal", "lucrative contract", "lucrative opportunity"],
-    "synonyms": ["profitable", "rewarding", "gainful"],
-    "wordFamily": ["lucratively", "lucrativeness"],
-    "day": 107
-  },
-  {
-    "id": "reciprocal-adjective",
-    "word": "reciprocal",
-    "baseWord": "reciprocal",
-    "type": "adjective",
-    "meaning": "có đi có lại, qua lại",
-    "pronunciation": "/rɪˈsɪprəkəl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The two nations signed a reciprocal trade agreement.",
-    "exampleVi": "Hai quốc gia đã ký một thỏa thuận thương mại có đi có lại.",
-    "collocations": ["reciprocal agreement", "reciprocal arrangement", "reciprocal benefit"],
-    "synonyms": ["mutual", "corresponding", "complementary"],
-    "wordFamily": ["reciprocate", "reciprocity", "reciprocally"],
-    "day": 107
-  },
-  {
-    "id": "on-the-table-phrase",
-    "word": "on the table",
-    "baseWord": "table",
-    "type": "phrase",
-    "meaning": "được đưa ra thảo luận",
-    "pronunciation": "/ɑːn ðə ˈteɪbl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "Several options are currently on the table.",
-    "exampleVi": "Một số phương án hiện đang được đưa ra thảo luận.",
-    "collocations": ["put on the table", "options on the table", "offer on the table"],
-    "synonyms": ["under consideration", "being discussed"],
-    "wordFamily": ["table", "tabled"],
+    "collocations": [
+      "strategic alliance",
+      "form an alliance",
+      "business alliance"
+    ],
+    "synonyms": [
+      "partnership",
+      "coalition",
+      "union"
+    ],
+    "wordFamily": [
+      "ally",
+      "allied",
+      "allies"
+    ],
     "day": 107
   },
   {
@@ -657,318 +713,633 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The contract was amended to include new delivery terms.",
     "exampleVi": "Hợp đồng đã được sửa đổi để bao gồm các điều khoản giao hàng mới.",
-    "collocations": ["amend a contract", "amend the agreement", "amend the terms"],
-    "synonyms": ["revise", "modify", "alter"],
-    "wordFamily": ["amendment", "amended"],
+    "collocations": [
+      "amend a contract",
+      "amend the agreement",
+      "amend the terms"
+    ],
+    "synonyms": [
+      "revise",
+      "modify",
+      "alter"
+    ],
+    "wordFamily": [
+      "amendment",
+      "amended"
+    ],
     "day": 107
   },
   {
-    "id": "amendment-noun",
-    "word": "amendment",
-    "baseWord": "amend",
-    "type": "noun",
-    "meaning": "sự sửa đổi, bổ sung",
-    "pronunciation": "/əˈmendmənt/",
+    "id": "bargain-verb",
+    "word": "bargain",
+    "baseWord": "bargain",
+    "type": "verb",
+    "meaning": "thương lượng, mặc cả",
+    "pronunciation": "/ˈbɑːrɡən/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "An amendment to the contract was requested by the legal team.",
-    "exampleVi": "Một bản sửa đổi hợp đồng đã được yêu cầu bởi đội ngũ pháp lý.",
-    "collocations": ["contract amendment", "propose an amendment", "amendment to the agreement"],
-    "synonyms": ["revision", "modification", "alteration"],
-    "wordFamily": ["amend", "amended"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "They bargained for hours before finally agreeing on a lower price.",
+    "exampleVi": "Họ đã thương lượng hàng giờ trước khi cuối cùng đồng ý với mức giá thấp hơn.",
+    "collocations": [
+      "bargain for",
+      "bargain over price",
+      "collective bargaining"
+    ],
+    "synonyms": [
+      "negotiate",
+      "haggle",
+      "deal"
+    ],
+    "wordFamily": [
+      "bargaining",
+      "bargains",
+      "bargained"
+    ],
     "day": 107
   },
   {
-    "id": "provision-noun",
-    "word": "provision",
-    "baseWord": "provide",
+    "id": "bargaining-noun",
+    "word": "bargaining",
+    "baseWord": "bargain",
     "type": "noun",
-    "meaning": "điều khoản, quy định",
-    "pronunciation": "/prəˈvɪʒən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The agreement contains a provision for early termination.",
-    "exampleVi": "Thỏa thuận chứa điều khoản về việc chấm dứt sớm.",
-    "collocations": ["contractual provision", "legal provision", "key provision"],
-    "synonyms": ["clause", "stipulation", "condition"],
-    "wordFamily": ["provide", "provisional", "provisionally"],
-    "day": 108
-  },
-  {
-    "id": "provisional-adjective",
-    "word": "provisional",
-    "baseWord": "provision",
-    "type": "adjective",
-    "meaning": "tạm thời, có thể thay đổi",
-    "pronunciation": "/prəˈvɪʒənəl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee approved a provisional budget for the project.",
-    "exampleVi": "Ủy ban đã phê duyệt ngân sách tạm thời cho dự án.",
-    "collocations": ["provisional agreement", "provisional budget", "provisional license"],
-    "synonyms": ["temporary", "tentative", "interim"],
-    "wordFamily": ["provision", "provisionally"],
-    "day": 108
-  },
-  {
-    "id": "obligate-verb",
-    "word": "obligate",
-    "baseWord": "obligate",
-    "type": "verb",
-    "meaning": "bắt buộc, ràng buộc",
-    "pronunciation": "/ˈɑːblɪɡeɪt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The contract obligates both parties to meet certain milestones.",
-    "exampleVi": "Hợp đồng bắt buộc cả hai bên phải đạt được các mốc nhất định.",
-    "collocations": ["obligate to pay", "legally obligated", "contractually obligated"],
-    "synonyms": ["require", "compel", "bind"],
-    "wordFamily": ["obligation", "obligated", "obligatory"],
-    "day": 108
-  },
-  {
-    "id": "obligation-noun",
-    "word": "obligation",
-    "baseWord": "obligate",
-    "type": "noun",
-    "meaning": "nghĩa vụ, bổn phận",
-    "pronunciation": "/ˌɑːblɪˈɡeɪʃən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company has an obligation to deliver the goods by December.",
-    "exampleVi": "Công ty có nghĩa vụ giao hàng trước tháng Mười Hai.",
-    "collocations": ["contractual obligation", "financial obligation", "fulfill an obligation"],
-    "synonyms": ["duty", "responsibility", "commitment"],
-    "wordFamily": ["obligate", "obligated", "obligatory"],
-    "day": 108
-  },
-  {
-    "id": "forfeit-verb",
-    "word": "forfeit",
-    "baseWord": "forfeit",
-    "type": "verb",
-    "meaning": "mất quyền, bị tước",
-    "pronunciation": "/ˈfɔːrfɪt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Failure to comply may cause the vendor to forfeit the deposit.",
-    "exampleVi": "Việc không tuân thủ có thể khiến nhà cung cấp bị mất tiền đặt cọc.",
-    "collocations": ["forfeit a deposit", "forfeit the right", "forfeit payment"],
-    "synonyms": ["lose", "surrender", "relinquish"],
-    "wordFamily": ["forfeiture", "forfeited"],
-    "day": 108
-  },
-  {
-    "id": "entitle-verb",
-    "word": "entitle",
-    "baseWord": "entitle",
-    "type": "verb",
-    "meaning": "cho quyền, trao quyền",
-    "pronunciation": "/ɪnˈtaɪtl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "This membership entitles you to exclusive discounts.",
-    "exampleVi": "Tư cách thành viên này cho bạn quyền hưởng giảm giá đặc biệt.",
-    "collocations": ["entitled to benefits", "entitled to a refund", "entitled to compensation"],
-    "synonyms": ["authorize", "qualify", "permit"],
-    "wordFamily": ["entitlement", "entitled"],
-    "day": 108
-  },
-  {
-    "id": "entitlement-noun",
-    "word": "entitlement",
-    "baseWord": "entitle",
-    "type": "noun",
-    "meaning": "quyền lợi, quyền hưởng",
-    "pronunciation": "/ɪnˈtaɪtlmənt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Employees should review their entitlement to paid leave.",
-    "exampleVi": "Nhân viên nên xem xét quyền lợi nghỉ phép có lương của mình.",
-    "collocations": ["entitlement to leave", "benefit entitlement", "entitlement program"],
-    "synonyms": ["right", "privilege", "claim"],
-    "wordFamily": ["entitle", "entitled"],
-    "day": 108
-  },
-  {
-    "id": "consent-noun",
-    "word": "consent",
-    "baseWord": "consent",
-    "type": "noun",
-    "meaning": "sự đồng ý, sự chấp thuận",
-    "pronunciation": "/kənˈsent/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Written consent from the client is required before making changes.",
-    "exampleVi": "Sự đồng ý bằng văn bản từ khách hàng là bắt buộc trước khi thay đổi.",
-    "collocations": ["give consent", "written consent", "prior consent"],
-    "synonyms": ["approval", "permission", "agreement"],
-    "wordFamily": ["consent", "consented", "consenting"],
-    "day": 108
-  },
-  {
-    "id": "void-adjective",
-    "word": "void",
-    "baseWord": "void",
-    "type": "adjective",
-    "meaning": "vô hiệu, không có giá trị",
-    "pronunciation": "/vɔɪd/",
+    "meaning": "việc thương lượng, mặc cả",
+    "pronunciation": "/ˈbɑːrɡənɪŋ/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The warranty will become void if the product is modified.",
-    "exampleVi": "Bảo hành sẽ trở nên vô hiệu nếu sản phẩm bị sửa đổi.",
-    "collocations": ["null and void", "render void", "declare void"],
-    "synonyms": ["invalid", "null", "unenforceable"],
-    "wordFamily": ["void", "voided", "voiding"],
-    "day": 108
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Collective bargaining sessions are scheduled to begin next week.",
+    "exampleVi": "Các phiên thương lượng tập thể được lên lịch bắt đầu vào tuần tới.",
+    "collocations": [
+      "collective bargaining",
+      "bargaining power",
+      "bargaining position"
+    ],
+    "synonyms": [
+      "negotiating",
+      "haggling",
+      "discussion"
+    ],
+    "wordFamily": [
+      "bargain",
+      "bargains",
+      "bargained"
+    ],
+    "day": 107
   },
   {
-    "id": "nondisclosure-noun",
-    "word": "nondisclosure",
-    "baseWord": "disclose",
-    "type": "noun",
-    "meaning": "sự không tiết lộ, bảo mật",
-    "pronunciation": "/ˌnɑːndɪsˈkloʊʒər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Both parties signed a nondisclosure agreement before sharing proprietary data.",
-    "exampleVi": "Cả hai bên đã ký thỏa thuận bảo mật trước khi chia sẻ dữ liệu độc quyền.",
-    "collocations": ["nondisclosure agreement", "sign a nondisclosure", "nondisclosure clause"],
-    "synonyms": ["confidentiality", "secrecy"],
-    "wordFamily": ["disclose", "disclosure", "nondisclosure"],
-    "day": 108
-  },
-  {
-    "id": "breach-noun",
-    "word": "breach",
-    "baseWord": "breach",
-    "type": "noun",
-    "meaning": "sự vi phạm",
-    "pronunciation": "/briːtʃ/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The supplier was penalized for a breach of contract.",
-    "exampleVi": "Nhà cung cấp bị phạt vì vi phạm hợp đồng.",
-    "collocations": ["breach of contract", "security breach", "breach of agreement"],
-    "synonyms": ["violation", "infringement", "transgression"],
-    "wordFamily": ["breach", "breached", "breaching"],
-    "day": 108
-  },
-  {
-    "id": "indemnify-verb",
-    "word": "indemnify",
-    "baseWord": "indemnify",
+    "id": "concede-verb",
+    "word": "concede",
+    "baseWord": "concede",
     "type": "verb",
-    "meaning": "bồi thường, bảo đảm",
-    "pronunciation": "/ɪnˈdemnɪfaɪ/",
-    "topic": "Negotiations & Deals",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The contractor agreed to indemnify the client against any losses.",
-    "exampleVi": "Nhà thầu đồng ý bồi thường cho khách hàng trước mọi tổn thất.",
-    "collocations": ["indemnify against losses", "agree to indemnify", "indemnify and hold harmless"],
-    "synonyms": ["compensate", "reimburse", "protect"],
-    "wordFamily": ["indemnification", "indemnity", "indemnified"],
-    "day": 108
-  },
-  {
-    "id": "waive-verb",
-    "word": "waive",
-    "baseWord": "waive",
-    "type": "verb",
-    "meaning": "từ bỏ, miễn",
-    "pronunciation": "/weɪv/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company agreed to waive the late payment fee.",
-    "exampleVi": "Công ty đồng ý miễn phí thanh toán trễ.",
-    "collocations": ["waive a fee", "waive the right", "waive a requirement"],
-    "synonyms": ["relinquish", "forgo", "renounce"],
-    "wordFamily": ["waiver", "waived"],
-    "day": 108
-  },
-  {
-    "id": "waiver-noun",
-    "word": "waiver",
-    "baseWord": "waive",
-    "type": "noun",
-    "meaning": "sự miễn trừ, giấy miễn trừ",
-    "pronunciation": "/ˈweɪvər/",
+    "meaning": "nhượng bộ, thừa nhận",
+    "pronunciation": "/kənˈsiːd/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Participants must sign a liability waiver before the event.",
-    "exampleVi": "Người tham gia phải ký giấy miễn trừ trách nhiệm trước sự kiện.",
-    "collocations": ["liability waiver", "sign a waiver", "fee waiver"],
-    "synonyms": ["disclaimer", "release", "exemption"],
-    "wordFamily": ["waive", "waived"],
-    "day": 108
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The vendor conceded on the delivery timeline to close the deal.",
+    "exampleVi": "Nhà cung cấp đã nhượng bộ về thời hạn giao hàng để chốt thỏa thuận.",
+    "collocations": [
+      "concede a point",
+      "concede to demands",
+      "willing to concede"
+    ],
+    "synonyms": [
+      "yield",
+      "give in",
+      "admit"
+    ],
+    "wordFamily": [
+      "concession",
+      "conceded"
+    ],
+    "day": 107
   },
   {
-    "id": "underway-adverb",
-    "word": "underway",
-    "baseWord": "underway",
-    "type": "adverb",
-    "meaning": "đang tiến hành",
-    "pronunciation": "/ˌʌndərˈweɪ/",
+    "id": "cooperation-noun",
+    "word": "cooperation",
+    "baseWord": "cooperate",
+    "type": "noun",
+    "meaning": "sự hợp tác, sự cộng tác",
+    "pronunciation": "/koʊˌɑːpəˈreɪʃən/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Negotiations are already underway with the new supplier.",
-    "exampleVi": "Đàm phán đã đang tiến hành với nhà cung cấp mới.",
-    "collocations": ["already underway", "get underway", "well underway"],
-    "synonyms": ["in progress", "ongoing", "started"],
-    "wordFamily": [],
-    "day": 108
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We would like to thank you for your valuable cooperation in this project.",
+    "exampleVi": "Chúng tôi muốn cảm ơn bạn vì sự hợp tác có giá trị trong dự án này.",
+    "collocations": [
+      "close cooperation",
+      "in cooperation with",
+      "international cooperation"
+    ],
+    "synonyms": [
+      "collaboration",
+      "assistance",
+      "partnership"
+    ],
+    "wordFamily": [
+      "cooperate",
+      "cooperative",
+      "cooperatively"
+    ],
+    "day": 107
   },
   {
-    "id": "in-good-faith-phrase",
-    "word": "in good faith",
-    "baseWord": "faith",
+    "id": "corporate-appointment-phrase",
+    "word": "corporate appointment",
+    "baseWord": "appointment",
     "type": "phrase",
-    "meaning": "với thiện ý, trung thực",
-    "pronunciation": "/ɪn ɡʊd feɪθ/",
+    "meaning": "cum tu TOEIC ve negotiations & deals: corporate appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the corporate appointment before the next business day.",
+    "exampleVi": "Vui long xem lai corporate appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "corporate appointment",
+      "corporate appointment process",
+      "corporate appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "deadlock-noun",
+    "word": "deadlock",
+    "baseWord": "deadlock",
+    "type": "noun",
+    "meaning": "sự bế tắc, thế bí",
+    "pronunciation": "/ˈdedlɑːk/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The union and management reached a deadlock over salary increases.",
+    "exampleVi": "Công đoàn và ban quản lý đã đi đến bế tắc về vấn đề tăng lương.",
+    "collocations": [
+      "reach a deadlock",
+      "break a deadlock",
+      "negotiation deadlock"
+    ],
+    "synonyms": [
+      "impasse",
+      "stalemate",
+      "standstill"
+    ],
+    "wordFamily": [
+      "deadlocked",
+      "deadlocks",
+      "deadlocking"
+    ],
+    "day": 107
+  },
+  {
+    "id": "external-appointment-phrase",
+    "word": "external appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: external appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "Both companies entered the negotiation in good faith.",
-    "exampleVi": "Cả hai công ty đã tham gia đàm phán với thiện ý.",
-    "collocations": ["negotiate in good faith", "act in good faith", "in good faith effort"],
-    "synonyms": ["honestly", "sincerely"],
-    "wordFamily": ["faith", "faithful"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the external appointment before the next business day.",
+    "exampleVi": "Vui long xem lai external appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "external appointment",
+      "external appointment process",
+      "external appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "internal-appointment-phrase",
+    "word": "internal appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: internal appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the internal appointment before the next business day.",
+    "exampleVi": "Vui long xem lai internal appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "internal appointment",
+      "internal appointment process",
+      "internal appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "local-appointment-phrase",
+    "word": "local appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: local appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the local appointment before the next business day.",
+    "exampleVi": "Vui long xem lai local appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "local appointment",
+      "local appointment process",
+      "local appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "merger-noun",
+    "word": "merger",
+    "baseWord": "merge",
+    "type": "noun",
+    "meaning": "sự sáp nhập",
+    "pronunciation": "/ˈmɜːrdʒər/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The merger between the two banks was finalized last month.",
+    "exampleVi": "Việc sáp nhập giữa hai ngân hàng đã được hoàn tất tháng trước.",
+    "collocations": [
+      "merger agreement",
+      "proposed merger",
+      "corporate merger"
+    ],
+    "synonyms": [
+      "consolidation",
+      "union",
+      "amalgamation"
+    ],
+    "wordFamily": [
+      "merge",
+      "merged",
+      "merging"
+    ],
+    "day": 107
+  },
+  {
+    "id": "on the table-phrase",
+    "word": "on the table",
+    "baseWord": "table",
+    "type": "phrase",
+    "meaning": "được đưa ra thảo luận",
+    "pronunciation": "/ɑːn ðə ˈteɪbl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Several options are currently on the table.",
+    "exampleVi": "Một số phương án hiện đang được đưa ra thảo luận.",
+    "collocations": [
+      "put on the table",
+      "options on the table",
+      "offer on the table"
+    ],
+    "synonyms": [
+      "under consideration",
+      "being discussed"
+    ],
+    "wordFamily": [
+      "table",
+      "tabled"
+    ],
+    "day": 107
+  },
+  {
+    "id": "overseas-appointment-phrase",
+    "word": "overseas appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: overseas appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the overseas appointment before the next business day.",
+    "exampleVi": "Vui long xem lai overseas appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "overseas appointment",
+      "overseas appointment process",
+      "overseas appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "partnership-noun",
+    "word": "partnership",
+    "baseWord": "partner",
+    "type": "noun",
+    "meaning": "sự hợp tác, quan hệ đối tác",
+    "pronunciation": "/ˈpɑːrtnərʃɪp/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The two companies announced a strategic partnership.",
+    "exampleVi": "Hai công ty công bố quan hệ đối tác chiến lược.",
+    "collocations": [
+      "strategic partnership",
+      "business partnership",
+      "form a partnership"
+    ],
+    "synonyms": [
+      "alliance",
+      "collaboration",
+      "joint venture"
+    ],
+    "wordFamily": [
+      "partner",
+      "partnered"
+    ],
+    "day": 107
+  },
+  {
+    "id": "reciprocal-adjective",
+    "word": "reciprocal",
+    "baseWord": "reciprocal",
+    "type": "adjective",
+    "meaning": "có đi có lại, qua lại",
+    "pronunciation": "/rɪˈsɪprəkəl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The two nations signed a reciprocal trade agreement.",
+    "exampleVi": "Hai quốc gia đã ký một thỏa thuận thương mại có đi có lại.",
+    "collocations": [
+      "reciprocal agreement",
+      "reciprocal arrangement",
+      "reciprocal benefit"
+    ],
+    "synonyms": [
+      "mutual",
+      "corresponding",
+      "complementary"
+    ],
+    "wordFamily": [
+      "reciprocate",
+      "reciprocity",
+      "reciprocally"
+    ],
+    "day": 107
+  },
+  {
+    "id": "regional-appointment-phrase",
+    "word": "regional appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: regional appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the regional appointment before the next business day.",
+    "exampleVi": "Vui long xem lai regional appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "regional appointment",
+      "regional appointment process",
+      "regional appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 107
+  },
+  {
+    "id": "renegotiate-verb",
+    "word": "renegotiate",
+    "baseWord": "negotiate",
+    "type": "verb",
+    "meaning": "thương lượng lại, đàm phán lại",
+    "pronunciation": "/ˌriːnɪˈɡoʊʃieɪt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Due to changing market conditions, we had to renegotiate the supplier contract.",
+    "exampleVi": "Do điều kiện thị trường thay đổi, chúng tôi đã phải đàm phán lại hợp đồng nhà cung cấp.",
+    "collocations": [
+      "renegotiate terms",
+      "renegotiate a contract",
+      "seek to renegotiate"
+    ],
+    "synonyms": [
+      "re-examine",
+      "re-discuss"
+    ],
+    "wordFamily": [
+      "negotiate",
+      "negotiation",
+      "negotiator"
+    ],
+    "day": 107
+  },
+  {
+    "id": "stalemate-noun",
+    "word": "stalemate",
+    "baseWord": "stalemate",
+    "type": "noun",
+    "meaning": "tình trạng bế tắc",
+    "pronunciation": "/ˈsteɪlmeɪt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The negotiations ended in a stalemate with no resolution.",
+    "exampleVi": "Cuộc đàm phán kết thúc trong tình trạng bế tắc mà không có giải pháp.",
+    "collocations": [
+      "reach a stalemate",
+      "break the stalemate",
+      "negotiation stalemate"
+    ],
+    "synonyms": [
+      "deadlock",
+      "impasse",
+      "standstill"
+    ],
+    "wordFamily": [
+      "stalemate",
+      "stalemated",
+      "stalemating"
+    ],
+    "day": 107
+  },
+  {
+    "id": "commercial-appointment-phrase",
+    "word": "commercial appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: commercial appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the commercial appointment before the next business day.",
+    "exampleVi": "Vui long xem lai commercial appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "commercial appointment",
+      "commercial appointment process",
+      "commercial appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "comprehensive-appointment-phrase",
+    "word": "comprehensive appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: comprehensive appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the comprehensive appointment before the next business day.",
+    "exampleVi": "Vui long xem lai comprehensive appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "comprehensive appointment",
+      "comprehensive appointment process",
+      "comprehensive appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 108
   },
   {
@@ -981,124 +1352,696 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The CEO met with her counterpart from the partner company.",
     "exampleVi": "Giám đốc điều hành đã gặp người đồng cấp từ công ty đối tác.",
-    "collocations": ["foreign counterpart", "business counterpart", "meet with counterparts"],
-    "synonyms": ["equivalent", "peer", "opposite number"],
-    "wordFamily": ["counterparts"],
+    "collocations": [
+      "foreign counterpart",
+      "business counterpart",
+      "meet with counterparts"
+    ],
+    "synonyms": [
+      "equivalent",
+      "peer",
+      "opposite number"
+    ],
+    "wordFamily": [
+      "counterpart",
+      "counterparts",
+      "partner"
+    ],
     "day": 108
   },
   {
-    "id": "joint-venture-noun",
-    "word": "joint venture",
-    "baseWord": "venture",
+    "id": "detailed-appointment-phrase",
+    "word": "detailed appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: detailed appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the detailed appointment before the next business day.",
+    "exampleVi": "Vui long xem lai detailed appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "detailed appointment",
+      "detailed appointment process",
+      "detailed appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "entitlement-noun",
+    "word": "entitlement",
+    "baseWord": "entitle",
     "type": "noun",
-    "meaning": "liên doanh",
-    "pronunciation": "/dʒɔɪnt ˈventʃər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The two firms launched a joint venture to develop new technology.",
-    "exampleVi": "Hai công ty đã thành lập liên doanh để phát triển công nghệ mới.",
-    "collocations": ["form a joint venture", "joint venture agreement", "joint venture partner"],
-    "synonyms": ["partnership", "collaboration", "co-enterprise"],
-    "wordFamily": ["venture", "venturing"],
-    "day": 109
-  },
-  {
-    "id": "incentive-noun",
-    "word": "incentive",
-    "baseWord": "incentive",
-    "type": "noun",
-    "meaning": "động lực, ưu đãi",
-    "pronunciation": "/ɪnˈsentɪv/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company offered financial incentives to attract new partners.",
-    "exampleVi": "Công ty đưa ra các ưu đãi tài chính để thu hút đối tác mới.",
-    "collocations": ["financial incentive", "offer incentives", "tax incentive"],
-    "synonyms": ["motivation", "encouragement", "inducement"],
-    "wordFamily": ["incentivize", "incentivized"],
-    "day": 109
-  },
-  {
-    "id": "terminate-verb",
-    "word": "terminate",
-    "baseWord": "terminate",
-    "type": "verb",
-    "meaning": "chấm dứt, kết thúc",
-    "pronunciation": "/ˈtɜːrmɪneɪt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Either party may terminate the agreement with 30 days' notice.",
-    "exampleVi": "Bất kỳ bên nào có thể chấm dứt thỏa thuận với thông báo trước 30 ngày.",
-    "collocations": ["terminate a contract", "terminate an agreement", "terminate employment"],
-    "synonyms": ["end", "cancel", "discontinue"],
-    "wordFamily": ["termination", "terminated"],
-    "day": 109
-  },
-  {
-    "id": "termination-noun",
-    "word": "termination",
-    "baseWord": "terminate",
-    "type": "noun",
-    "meaning": "sự chấm dứt",
-    "pronunciation": "/ˌtɜːrmɪˈneɪʃən/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The termination of the contract was effective immediately.",
-    "exampleVi": "Việc chấm dứt hợp đồng có hiệu lực ngay lập tức.",
-    "collocations": ["early termination", "contract termination", "termination clause"],
-    "synonyms": ["cancellation", "ending", "discontinuation"],
-    "wordFamily": ["terminate", "terminated"],
-    "day": 109
-  },
-  {
-    "id": "dispute-noun",
-    "word": "dispute",
-    "baseWord": "dispute",
-    "type": "noun",
-    "meaning": "tranh chấp, bất đồng",
-    "pronunciation": "/dɪˈspjuːt/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The dispute between the two parties was resolved through mediation.",
-    "exampleVi": "Tranh chấp giữa hai bên đã được giải quyết thông qua hòa giải.",
-    "collocations": ["resolve a dispute", "contract dispute", "labor dispute"],
-    "synonyms": ["conflict", "disagreement", "argument"],
-    "wordFamily": ["dispute", "disputed", "disputing"],
-    "day": 109
-  },
-  {
-    "id": "endorse-verb-neg",
-    "word": "pledge",
-    "baseWord": "pledge",
-    "type": "verb",
-    "meaning": "cam kết, hứa",
-    "pronunciation": "/pledʒ/",
+    "meaning": "quyền lợi, quyền hưởng",
+    "pronunciation": "/ɪnˈtaɪtlmənt/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The CEO pledged to invest more in research and development.",
-    "exampleVi": "Giám đốc điều hành cam kết đầu tư nhiều hơn vào nghiên cứu và phát triển.",
-    "collocations": ["pledge support", "pledge to invest", "pledge cooperation"],
-    "synonyms": ["promise", "commit", "vow"],
-    "wordFamily": ["pledge", "pledged"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Employees should review their entitlement to paid leave.",
+    "exampleVi": "Nhân viên nên xem xét quyền lợi nghỉ phép có lương của mình.",
+    "collocations": [
+      "entitlement to leave",
+      "benefit entitlement",
+      "entitlement program"
+    ],
+    "synonyms": [
+      "right",
+      "privilege",
+      "claim"
+    ],
+    "wordFamily": [
+      "entitle",
+      "entitled"
+    ],
+    "day": 108
+  },
+  {
+    "id": "final-appointment-phrase",
+    "word": "final appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: final appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the final appointment before the next business day.",
+    "exampleVi": "Vui long xem lai final appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "final appointment",
+      "final appointment process",
+      "final appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "guarantor-noun",
+    "word": "guarantor",
+    "baseWord": "guarantee",
+    "type": "noun",
+    "meaning": "người bảo lãnh, bên bảo lãnh",
+    "pronunciation": "/ˌɡærənˈtɔːr/",
+    "topic": "Negotiations & Deals",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Since the startup was new, the bank required a guarantor for the business loan.",
+    "exampleVi": "Vì công ty khởi nghiệp còn mới, ngân hàng yêu cầu một người bảo lãnh cho khoản vay kinh doanh.",
+    "collocations": [
+      "act as guarantor",
+      "loan guarantor",
+      "financial guarantor"
+    ],
+    "synonyms": [
+      "sponsor",
+      "underwriter",
+      "backer"
+    ],
+    "wordFamily": [
+      "guarantee",
+      "guaranteed",
+      "guarantors"
+    ],
+    "day": 108
+  },
+  {
+    "id": "in good faith-phrase",
+    "word": "in good faith",
+    "baseWord": "faith",
+    "type": "phrase",
+    "meaning": "với thiện ý, trung thực",
+    "pronunciation": "/ɪn ɡʊd feɪθ/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Both companies entered the negotiation in good faith.",
+    "exampleVi": "Cả hai công ty đã tham gia đàm phán với thiện ý.",
+    "collocations": [
+      "negotiate in good faith",
+      "act in good faith",
+      "in good faith effort"
+    ],
+    "synonyms": [
+      "honestly",
+      "sincerely"
+    ],
+    "wordFamily": [
+      "faith",
+      "faithful"
+    ],
+    "day": 108
+  },
+  {
+    "id": "mandatory-appointment-phrase",
+    "word": "mandatory appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: mandatory appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the mandatory appointment before the next business day.",
+    "exampleVi": "Vui long xem lai mandatory appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "mandatory appointment",
+      "mandatory appointment process",
+      "mandatory appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "nondisclosure-noun",
+    "word": "nondisclosure",
+    "baseWord": "disclose",
+    "type": "noun",
+    "meaning": "sự không tiết lộ, bảo mật",
+    "pronunciation": "/ˌnɑːndɪsˈkloʊʒər/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Both parties signed a nondisclosure agreement before sharing proprietary data.",
+    "exampleVi": "Cả hai bên đã ký thỏa thuận bảo mật trước khi chia sẻ dữ liệu độc quyền.",
+    "collocations": [
+      "nondisclosure agreement",
+      "sign a nondisclosure",
+      "nondisclosure clause"
+    ],
+    "synonyms": [
+      "confidentiality",
+      "secrecy"
+    ],
+    "wordFamily": [
+      "disclose",
+      "disclosure",
+      "nondisclosure"
+    ],
+    "day": 108
+  },
+  {
+    "id": "obligate-verb",
+    "word": "obligate",
+    "baseWord": "obligate",
+    "type": "verb",
+    "meaning": "bắt buộc, ràng buộc",
+    "pronunciation": "/ˈɑːblɪɡeɪt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The contract obligates both parties to meet certain milestones.",
+    "exampleVi": "Hợp đồng bắt buộc cả hai bên phải đạt được các mốc nhất định.",
+    "collocations": [
+      "obligate to pay",
+      "legally obligated",
+      "contractually obligated"
+    ],
+    "synonyms": [
+      "require",
+      "compel",
+      "bind"
+    ],
+    "wordFamily": [
+      "obligation",
+      "obligated",
+      "obligatory"
+    ],
+    "day": 108
+  },
+  {
+    "id": "obligation-noun",
+    "word": "obligation",
+    "baseWord": "obligate",
+    "type": "noun",
+    "meaning": "nghĩa vụ, bổn phận",
+    "pronunciation": "/ˌɑːblɪˈɡeɪʃən/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company has an obligation to deliver the goods by December.",
+    "exampleVi": "Công ty có nghĩa vụ giao hàng trước tháng Mười Hai.",
+    "collocations": [
+      "contractual obligation",
+      "financial obligation",
+      "fulfill an obligation"
+    ],
+    "synonyms": [
+      "duty",
+      "responsibility",
+      "commitment"
+    ],
+    "wordFamily": [
+      "obligate",
+      "obligated",
+      "obligatory"
+    ],
+    "day": 108
+  },
+  {
+    "id": "preliminary-appointment-phrase",
+    "word": "preliminary appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: preliminary appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the preliminary appointment before the next business day.",
+    "exampleVi": "Vui long xem lai preliminary appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "preliminary appointment",
+      "preliminary appointment process",
+      "preliminary appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "priority-appointment-phrase",
+    "word": "priority appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: priority appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the priority appointment before the next business day.",
+    "exampleVi": "Vui long xem lai priority appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "priority appointment",
+      "priority appointment process",
+      "priority appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "provisional-adjective",
+    "word": "provisional",
+    "baseWord": "provision",
+    "type": "adjective",
+    "meaning": "tạm thời, có thể thay đổi",
+    "pronunciation": "/prəˈvɪʒənəl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The committee approved a provisional budget for the project.",
+    "exampleVi": "Ủy ban đã phê duyệt ngân sách tạm thời cho dự án.",
+    "collocations": [
+      "provisional agreement",
+      "provisional budget",
+      "provisional license"
+    ],
+    "synonyms": [
+      "temporary",
+      "tentative",
+      "interim"
+    ],
+    "wordFamily": [
+      "provision",
+      "provisionally"
+    ],
+    "day": 108
+  },
+  {
+    "id": "routine-appointment-phrase",
+    "word": "routine appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: routine appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the routine appointment before the next business day.",
+    "exampleVi": "Vui long xem lai routine appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "routine appointment",
+      "routine appointment process",
+      "routine appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "trustee-noun",
+    "word": "trustee",
+    "baseWord": "trust",
+    "type": "noun",
+    "meaning": "người ủy thác, thành viên ban quản trị",
+    "pronunciation": "/ˌtrʌsˈtiː/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The board of trustees approved the merger after reviewing the audit.",
+    "exampleVi": "Ban quản trị ủy thác đã chấp thuận vụ sáp nhập sau khi xem xét báo cáo kiểm toán.",
+    "collocations": [
+      "board of trustees",
+      "acting trustee",
+      "appoint a trustee"
+    ],
+    "synonyms": [
+      "administrator",
+      "guardian",
+      "fiduciary"
+    ],
+    "wordFamily": [
+      "trust",
+      "trusteeship",
+      "trustees"
+    ],
+    "day": 108
+  },
+  {
+    "id": "underway-adverb",
+    "word": "underway",
+    "baseWord": "underway",
+    "type": "adverb",
+    "meaning": "đang tiến hành",
+    "pronunciation": "/ˌʌndərˈweɪ/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Negotiations are already underway with the new supplier.",
+    "exampleVi": "Đàm phán đã đang tiến hành với nhà cung cấp mới.",
+    "collocations": [
+      "already underway",
+      "get underway",
+      "well underway"
+    ],
+    "synonyms": [
+      "in progress",
+      "ongoing",
+      "started"
+    ],
+    "wordFamily": [
+      "underway",
+      "ways",
+      "way"
+    ],
+    "day": 108
+  },
+  {
+    "id": "urgent-appointment-phrase",
+    "word": "urgent appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: urgent appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the urgent appointment before the next business day.",
+    "exampleVi": "Vui long xem lai urgent appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "urgent appointment",
+      "urgent appointment process",
+      "urgent appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 108
+  },
+  {
+    "id": "waive-verb",
+    "word": "waive",
+    "baseWord": "waive",
+    "type": "verb",
+    "meaning": "từ bỏ, miễn",
+    "pronunciation": "/weɪv/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company agreed to waive the late payment fee.",
+    "exampleVi": "Công ty đồng ý miễn phí thanh toán trễ.",
+    "collocations": [
+      "waive a fee",
+      "waive the right",
+      "waive a requirement"
+    ],
+    "synonyms": [
+      "relinquish",
+      "forgo",
+      "renounce"
+    ],
+    "wordFamily": [
+      "waiver",
+      "waived"
+    ],
+    "day": 108
+  },
+  {
+    "id": "bilateral-adjective",
+    "word": "bilateral",
+    "baseWord": "lateral",
+    "type": "adjective",
+    "meaning": "song phương, hai bên",
+    "pronunciation": "/ˌbaɪˈlætərəl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A bilateral trade agreement was signed between Vietnam and Japan.",
+    "exampleVi": "Một thỏa thuận thương mại song phương đã được ký kết giữa Việt Nam và Nhật Bản.",
+    "collocations": [
+      "bilateral agreement",
+      "bilateral trade",
+      "bilateral talks"
+    ],
+    "synonyms": [
+      "two-sided",
+      "mutual"
+    ],
+    "wordFamily": [
+      "bilaterally",
+      "unilateral",
+      "multilateral"
+    ],
     "day": 109
   },
   {
-    "id": "binding-noun",
+    "id": "confidential-appointment-phrase",
+    "word": "confidential appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: confidential appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the confidential appointment before the next business day.",
+    "exampleVi": "Vui long xem lai confidential appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "confidential appointment",
+      "confidential appointment process",
+      "confidential appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 109
+  },
+  {
+    "id": "draw up-phrase",
+    "word": "draw up",
+    "baseWord": "draw",
+    "type": "phrase",
+    "meaning": "soạn thảo, lập ra",
+    "pronunciation": "/drɔː ʌp/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The lawyers will draw up a new contract by Friday.",
+    "exampleVi": "Các luật sư sẽ soạn thảo hợp đồng mới trước thứ Sáu.",
+    "collocations": [
+      "draw up a contract",
+      "draw up a plan",
+      "draw up an agreement"
+    ],
+    "synonyms": [
+      "draft",
+      "compose",
+      "prepare"
+    ],
+    "wordFamily": [
+      "draw",
+      "up",
+      "draws"
+    ],
+    "day": 109
+  },
+  {
+    "id": "electronic-appointment-phrase",
+    "word": "electronic appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: electronic appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the electronic appointment before the next business day.",
+    "exampleVi": "Vui long xem lai electronic appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "electronic appointment",
+      "electronic appointment process",
+      "electronic appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 109
+  },
+  {
+    "id": "impasse-noun",
     "word": "impasse",
     "baseWord": "impasse",
     "type": "noun",
@@ -1107,30 +2050,217 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "Talks reached an impasse over pricing terms.",
     "exampleVi": "Các cuộc đàm phán đã rơi vào bế tắc về điều khoản giá cả.",
-    "collocations": ["reach an impasse", "break the impasse", "negotiation impasse"],
-    "synonyms": ["deadlock", "stalemate", "standstill"],
-    "wordFamily": [],
+    "collocations": [
+      "reach an impasse",
+      "break the impasse",
+      "negotiation impasse"
+    ],
+    "synonyms": [
+      "deadlock",
+      "stalemate",
+      "standstill"
+    ],
+    "wordFamily": [
+      "impasse",
+      "impasses",
+      "pass"
+    ],
     "day": 109
   },
   {
-    "id": "rescind-verb",
-    "word": "rescind",
-    "baseWord": "rescind",
-    "type": "verb",
-    "meaning": "hủy bỏ, thu hồi",
-    "pronunciation": "/rɪˈsɪnd/",
+    "id": "iron out-phrase",
+    "word": "iron out",
+    "baseWord": "iron",
+    "type": "phrase",
+    "meaning": "giải quyết, làm rõ",
+    "pronunciation": "/ˈaɪərn aʊt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "We still need to iron out a few details before signing.",
+    "exampleVi": "Chúng tôi vẫn cần giải quyết một vài chi tiết trước khi ký.",
+    "collocations": [
+      "iron out the details",
+      "iron out differences",
+      "iron out problems"
+    ],
+    "synonyms": [
+      "resolve",
+      "sort out",
+      "settle"
+    ],
+    "wordFamily": [
+      "iron",
+      "out",
+      "irons"
+    ],
+    "day": 109
+  },
+  {
+    "id": "joint venture-noun",
+    "word": "joint venture",
+    "baseWord": "venture",
+    "type": "noun",
+    "meaning": "liên doanh",
+    "pronunciation": "/dʒɔɪnt ˈventʃər/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The two firms launched a joint venture to develop new technology.",
+    "exampleVi": "Hai công ty đã thành lập liên doanh để phát triển công nghệ mới.",
+    "collocations": [
+      "form a joint venture",
+      "joint venture agreement",
+      "joint venture partner"
+    ],
+    "synonyms": [
+      "partnership",
+      "collaboration",
+      "co-enterprise"
+    ],
+    "wordFamily": [
+      "venture",
+      "venturing"
+    ],
+    "day": 109
+  },
+  {
+    "id": "multilateral-adjective",
+    "word": "multilateral",
+    "baseWord": "lateral",
+    "type": "adjective",
+    "meaning": "đa phương, nhiều bên",
+    "pronunciation": "/ˌmʌltiˈlætərəl/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The board decided to rescind the previous offer.",
-    "exampleVi": "Hội đồng quyết định hủy bỏ đề nghị trước đó.",
-    "collocations": ["rescind an offer", "rescind a decision", "rescind a contract"],
-    "synonyms": ["revoke", "cancel", "withdraw"],
-    "wordFamily": ["rescission", "rescinded"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The multilateral treaty aims to lower tariffs among member nations.",
+    "exampleVi": "Hiệp ước đa phương nhằm giảm thuế quan giữa các quốc gia thành viên.",
+    "collocations": [
+      "multilateral agreement",
+      "multilateral trade",
+      "multilateral negotiations"
+    ],
+    "synonyms": [
+      "many-sided",
+      "multiparty"
+    ],
+    "wordFamily": [
+      "multilaterally",
+      "unilateral",
+      "bilateral"
+    ],
+    "day": 109
+  },
+  {
+    "id": "non-binding-adjective",
+    "word": "non-binding",
+    "baseWord": "bind",
+    "type": "adjective",
+    "meaning": "không ràng buộc (pháp lý)",
+    "pronunciation": "/ˌnɑːnˈbaɪndɪŋ/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The parties signed a non-binding letter of intent to continue discussions.",
+    "exampleVi": "Các bên đã ký một thư bày tỏ ý định không ràng buộc để tiếp tục các cuộc thảo luận.",
+    "collocations": [
+      "non-binding agreement",
+      "non-binding offer",
+      "legally non-binding"
+    ],
+    "synonyms": [
+      "optional",
+      "unrestricted"
+    ],
+    "wordFamily": [
+      "bind",
+      "binding",
+      "bound"
+    ],
+    "day": 109
+  },
+  {
+    "id": "optional-appointment-phrase",
+    "word": "optional appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: optional appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the optional appointment before the next business day.",
+    "exampleVi": "Vui long xem lai optional appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "optional appointment",
+      "optional appointment process",
+      "optional appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 109
+  },
+  {
+    "id": "printed-appointment-phrase",
+    "word": "printed appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: printed appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the printed appointment before the next business day.",
+    "exampleVi": "Vui long xem lai printed appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "printed appointment",
+      "printed appointment process",
+      "printed appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 109
   },
   {
@@ -1143,48 +2273,25 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The proprietor agreed to sell the business to the highest bidder.",
     "exampleVi": "Chủ sở hữu đồng ý bán doanh nghiệp cho người trả giá cao nhất.",
-    "collocations": ["sole proprietor", "business proprietor", "property proprietor"],
-    "synonyms": ["owner", "holder", "possessor"],
-    "wordFamily": ["proprietary", "proprietorship"],
-    "day": 109
-  },
-  {
-    "id": "proprietary-adjective",
-    "word": "proprietary",
-    "baseWord": "proprietary",
-    "type": "adjective",
-    "meaning": "độc quyền, thuộc sở hữu riêng",
-    "pronunciation": "/prəˈpraɪəteri/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The deal included the transfer of proprietary technology.",
-    "exampleVi": "Thỏa thuận bao gồm việc chuyển giao công nghệ độc quyền.",
-    "collocations": ["proprietary information", "proprietary software", "proprietary technology"],
-    "synonyms": ["exclusive", "patented", "copyrighted"],
-    "wordFamily": ["proprietor", "proprietorship"],
-    "day": 109
-  },
-  {
-    "id": "viable-adjective",
-    "word": "viable",
-    "baseWord": "viable",
-    "type": "adjective",
-    "meaning": "khả thi, có thể thực hiện",
-    "pronunciation": "/ˈvaɪəbl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee determined the plan was commercially viable.",
-    "exampleVi": "Ủy ban xác định kế hoạch khả thi về mặt thương mại.",
-    "collocations": ["viable option", "commercially viable", "viable alternative"],
-    "synonyms": ["feasible", "practical", "workable"],
-    "wordFamily": ["viability", "viably"],
+    "collocations": [
+      "sole proprietor",
+      "business proprietor",
+      "property proprietor"
+    ],
+    "synonyms": [
+      "owner",
+      "holder",
+      "possessor"
+    ],
+    "wordFamily": [
+      "proprietary",
+      "proprietorship"
+    ],
     "day": 109
   },
   {
@@ -1197,174 +2304,468 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Prospective partners were invited to attend the presentation.",
     "exampleVi": "Các đối tác tiềm năng được mời tham dự buổi thuyết trình.",
-    "collocations": ["prospective buyer", "prospective client", "prospective partner"],
-    "synonyms": ["potential", "future", "expected"],
-    "wordFamily": ["prospect", "prospecting"],
+    "collocations": [
+      "prospective buyer",
+      "prospective client",
+      "prospective partner"
+    ],
+    "synonyms": [
+      "potential",
+      "future",
+      "expected"
+    ],
+    "wordFamily": [
+      "prospect",
+      "prospecting"
+    ],
     "day": 109
   },
   {
-    "id": "forthcoming-adjective",
-    "word": "forthcoming",
-    "baseWord": "forthcoming",
+    "id": "scheduled-appointment-phrase",
+    "word": "scheduled appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: scheduled appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the scheduled appointment before the next business day.",
+    "exampleVi": "Vui long xem lai scheduled appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "scheduled appointment",
+      "scheduled appointment process",
+      "scheduled appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 109
+  },
+  {
+    "id": "signatory-noun",
+    "word": "signatory",
+    "baseWord": "sign",
+    "type": "noun",
+    "meaning": "người ký kết, quốc gia ký kết",
+    "pronunciation": "/ˈsɪɡnətɔːri/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Representatives of the major signatories met to finalize the treaty terms.",
+    "exampleVi": "Đại diện của các bên ký kết chính đã gặp nhau để hoàn thiện các điều khoản hiệp ước.",
+    "collocations": [
+      "original signatory",
+      "signatory party",
+      "authorized signatory"
+    ],
+    "synonyms": [
+      "signer",
+      "endorser"
+    ],
+    "wordFamily": [
+      "sign",
+      "signature",
+      "signatories"
+    ],
+    "day": 109
+  },
+  {
+    "id": "temporary-appointment-phrase",
+    "word": "temporary appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: temporary appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the temporary appointment before the next business day.",
+    "exampleVi": "Vui long xem lai temporary appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "temporary appointment",
+      "temporary appointment process",
+      "temporary appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 109
+  },
+  {
+    "id": "terminate-verb",
+    "word": "terminate",
+    "baseWord": "terminate",
+    "type": "verb",
+    "meaning": "chấm dứt, kết thúc",
+    "pronunciation": "/ˈtɜːrmɪneɪt/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Either party may terminate the agreement with 30 days' notice.",
+    "exampleVi": "Bất kỳ bên nào có thể chấm dứt thỏa thuận với thông báo trước 30 ngày.",
+    "collocations": [
+      "terminate a contract",
+      "terminate an agreement",
+      "terminate employment"
+    ],
+    "synonyms": [
+      "end",
+      "cancel",
+      "discontinue"
+    ],
+    "wordFamily": [
+      "termination",
+      "terminated"
+    ],
+    "day": 109
+  },
+  {
+    "id": "unilateral-adjective",
+    "word": "unilateral",
+    "baseWord": "lateral",
     "type": "adjective",
-    "meaning": "sắp tới, sẵn sàng cung cấp",
-    "pronunciation": "/ˌfɔːrθˈkʌmɪŋ/",
+    "meaning": "đơn phương, một chiều",
+    "pronunciation": "/ˌjuːnɪˈlætərəl/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Details of the deal will be included in the forthcoming announcement.",
-    "exampleVi": "Chi tiết thỏa thuận sẽ được đưa vào thông báo sắp tới.",
-    "collocations": ["forthcoming event", "forthcoming report", "forthcoming changes"],
-    "synonyms": ["upcoming", "approaching", "imminent"],
-    "wordFamily": [],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company made a unilateral decision to adjust the product pricing.",
+    "exampleVi": "Công ty đã đưa ra quyết định đơn phương điều chỉnh giá sản phẩm.",
+    "collocations": [
+      "unilateral decision",
+      "unilateral contract",
+      "unilateral action"
+    ],
+    "synonyms": [
+      "one-sided",
+      "independent"
+    ],
+    "wordFamily": [
+      "unilaterally",
+      "bilateral",
+      "multilateral"
+    ],
     "day": 109
   },
   {
-    "id": "iron-out-phrase",
-    "word": "iron out",
-    "baseWord": "iron",
+    "id": "viable-adjective",
+    "word": "viable",
+    "baseWord": "viable",
+    "type": "adjective",
+    "meaning": "khả thi, có thể thực hiện",
+    "pronunciation": "/ˈvaɪəbl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The committee determined the plan was commercially viable.",
+    "exampleVi": "Ủy ban xác định kế hoạch khả thi về mặt thương mại.",
+    "collocations": [
+      "viable option",
+      "commercially viable",
+      "viable alternative"
+    ],
+    "synonyms": [
+      "feasible",
+      "practical",
+      "workable"
+    ],
+    "wordFamily": [
+      "viability",
+      "viably"
+    ],
+    "day": 109
+  },
+  {
+    "id": "win-win-adjective",
+    "word": "win-win",
+    "baseWord": "win-win",
+    "type": "adjective",
+    "meaning": "đôi bên cùng có lợi, cả hai đều thắng",
+    "pronunciation": "/ˈwɪn wɪn/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Both companies felt the joint marketing venture was a win-win situation.",
+    "exampleVi": "Cả hai công ty đều cảm thấy liên doanh tiếp thị chung là một tình huống đôi bên cùng có lợi.",
+    "collocations": [
+      "win-win situation",
+      "win-win outcome",
+      "win-win solution"
+    ],
+    "synonyms": [
+      "mutually beneficial",
+      "reciprocal"
+    ],
+    "wordFamily": [
+      "win",
+      "winning",
+      "winner"
+    ],
+    "day": 109
+  },
+  {
+    "id": "additional-appointment-phrase",
+    "word": "additional appointment",
+    "baseWord": "appointment",
     "type": "phrase",
-    "meaning": "giải quyết, làm rõ",
-    "pronunciation": "/ˈaɪərn aʊt/",
+    "meaning": "cum tu TOEIC ve negotiations & deals: additional appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "We still need to iron out a few details before signing.",
-    "exampleVi": "Chúng tôi vẫn cần giải quyết một vài chi tiết trước khi ký.",
-    "collocations": ["iron out the details", "iron out differences", "iron out problems"],
-    "synonyms": ["resolve", "sort out", "settle"],
-    "wordFamily": [],
-    "day": 109
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the additional appointment before the next business day.",
+    "exampleVi": "Vui long xem lai additional appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "additional appointment",
+      "additional appointment process",
+      "additional appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 110
   },
   {
-    "id": "draw-up-phrase",
-    "word": "draw up",
-    "baseWord": "draw",
+    "id": "advance-appointment-phrase",
+    "word": "advance appointment",
+    "baseWord": "appointment",
     "type": "phrase",
-    "meaning": "soạn thảo, lập ra",
-    "pronunciation": "/drɔː ʌp/",
+    "meaning": "cum tu TOEIC ve negotiations & deals: advance appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The lawyers will draw up a new contract by Friday.",
-    "exampleVi": "Các luật sư sẽ soạn thảo hợp đồng mới trước thứ Sáu.",
-    "collocations": ["draw up a contract", "draw up a plan", "draw up an agreement"],
-    "synonyms": ["draft", "compose", "prepare"],
-    "wordFamily": [],
-    "day": 109
-  },
-  {
-    "id": "negotiate-noun-2",
-    "word": "negotiator",
-    "baseWord": "negotiate",
-    "type": "noun",
-    "meaning": "nhà đàm phán",
-    "pronunciation": "/nɪˈɡoʊʃieɪtər/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "She is known as a skilled negotiator in the industry.",
-    "exampleVi": "Cô ấy được biết đến là nhà đàm phán tài giỏi trong ngành.",
-    "collocations": ["skilled negotiator", "chief negotiator", "lead negotiator"],
-    "synonyms": ["mediator", "dealmaker", "bargainer"],
-    "wordFamily": ["negotiate", "negotiation", "negotiable"],
-    "day": 109
-  },
-  {
-    "id": "memorandum-noun",
-    "word": "memorandum",
-    "baseWord": "memorandum",
-    "type": "noun",
-    "meaning": "biên bản ghi nhớ",
-    "pronunciation": "/ˌmeməˈrændəm/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The two parties signed a memorandum of understanding.",
-    "exampleVi": "Hai bên đã ký biên bản ghi nhớ.",
-    "collocations": ["memorandum of understanding", "memorandum of agreement", "internal memorandum"],
-    "synonyms": ["memo", "note", "communication"],
-    "wordFamily": ["memo", "memoranda"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the advance appointment before the next business day.",
+    "exampleVi": "Vui long xem lai advance appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "advance appointment",
+      "advance appointment process",
+      "advance appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 110
   },
   {
-    "id": "due-diligence-noun",
-    "word": "due diligence",
-    "baseWord": "diligence",
-    "type": "noun",
-    "meaning": "sự thẩm định, xem xét kỹ lưỡng",
-    "pronunciation": "/duː ˈdɪlɪdʒəns/",
+    "id": "available-appointment-phrase",
+    "word": "available appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: available appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The buyer conducted due diligence before completing the acquisition.",
-    "exampleVi": "Người mua đã thực hiện thẩm định trước khi hoàn tất việc mua lại.",
-    "collocations": ["conduct due diligence", "due diligence process", "due diligence report"],
-    "synonyms": ["investigation", "assessment", "examination"],
-    "wordFamily": ["diligence", "diligent", "diligently"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the available appointment before the next business day.",
+    "exampleVi": "Vui long xem lai available appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "available appointment",
+      "available appointment process",
+      "available appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 110
   },
   {
-    "id": "convene-verb",
-    "word": "convene",
-    "baseWord": "convene",
-    "type": "verb",
-    "meaning": "triệu tập, nhóm họp",
-    "pronunciation": "/kənˈviːn/",
+    "id": "come to terms-phrase",
+    "word": "come to terms",
+    "baseWord": "terms",
+    "type": "phrase",
+    "meaning": "đạt được thỏa thuận",
+    "pronunciation": "/kʌm tuː tɜːrmz/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "After lengthy talks, both sides finally came to terms.",
+    "exampleVi": "Sau các cuộc đàm phán kéo dài, cả hai bên cuối cùng đã đạt được thỏa thuận.",
+    "collocations": [
+      "come to terms with",
+      "come to terms on pricing",
+      "come to agreeable terms"
+    ],
+    "synonyms": [
+      "reach an agreement",
+      "settle",
+      "agree"
+    ],
+    "wordFamily": [
+      "come",
+      "terms",
+      "term"
+    ],
+    "day": 110
+  },
+  {
+    "id": "complimentary-appointment-phrase",
+    "word": "complimentary appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: complimentary appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the complimentary appointment before the next business day.",
+    "exampleVi": "Vui long xem lai complimentary appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "complimentary appointment",
+      "complimentary appointment process",
+      "complimentary appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 110
+  },
+  {
+    "id": "customized-appointment-phrase",
+    "word": "customized appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: customized appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The committee will convene next Monday to discuss the proposal.",
-    "exampleVi": "Ủy ban sẽ nhóm họp vào thứ Hai tới để thảo luận đề xuất.",
-    "collocations": ["convene a meeting", "convene a committee", "convene a session"],
-    "synonyms": ["assemble", "gather", "summon"],
-    "wordFamily": ["convention", "convened", "convening"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the customized appointment before the next business day.",
+    "exampleVi": "Vui long xem lai customized appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "customized appointment",
+      "customized appointment process",
+      "customized appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 110
   },
   {
-    "id": "ratification-noun",
-    "word": "ratification",
-    "baseWord": "ratify",
+    "id": "discretion-noun",
+    "word": "discretion",
+    "baseWord": "discreet",
     "type": "noun",
-    "meaning": "sự phê chuẩn",
-    "pronunciation": "/ˌrætɪfɪˈkeɪʃən/",
+    "meaning": "sự thận trọng, quyền tự quyết định",
+    "pronunciation": "/dɪˈskreʃən/",
     "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The ratification of the trade deal is expected this month.",
-    "exampleVi": "Sự phê chuẩn thỏa thuận thương mại dự kiến trong tháng này.",
-    "collocations": ["ratification process", "pending ratification", "formal ratification"],
-    "synonyms": ["approval", "endorsement", "confirmation"],
-    "wordFamily": ["ratify", "ratified"],
-    "day": 110
-  },
-  {
-    "id": "revoke-verb",
-    "word": "revoke",
-    "baseWord": "revoke",
-    "type": "verb",
-    "meaning": "thu hồi, hủy bỏ",
-    "pronunciation": "/rɪˈvoʊk/",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company reserves the right to revoke the license at any time.",
-    "exampleVi": "Công ty có quyền thu hồi giấy phép bất cứ lúc nào.",
-    "collocations": ["revoke a license", "revoke access", "revoke permission"],
-    "synonyms": ["withdraw", "cancel", "rescind"],
-    "wordFamily": ["revocation", "revoked", "revoking"],
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The details of the settlement were kept confidential at the manager's discretion.",
+    "exampleVi": "Các chi tiết của cuộc dàn xếp được giữ bí mật theo sự tự quyết định của người quản lý.",
+    "collocations": [
+      "managerial discretion",
+      "at the discretion of",
+      "exercise discretion"
+    ],
+    "synonyms": [
+      "judgment",
+      "prudence",
+      "choice"
+    ],
+    "wordFamily": [
+      "discreet",
+      "discreetly",
+      "discretionary"
+    ],
     "day": 110
   },
   {
@@ -1377,30 +2778,57 @@
     "topic": "Negotiations & Deals",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The dissolution of the partnership was announced last week.",
     "exampleVi": "Việc giải thể quan hệ đối tác đã được công bố tuần trước.",
-    "collocations": ["dissolution of partnership", "dissolution of contract", "voluntary dissolution"],
-    "synonyms": ["termination", "breakup", "disbanding"],
-    "wordFamily": ["dissolve", "dissolved"],
+    "collocations": [
+      "dissolution of partnership",
+      "dissolution of contract",
+      "voluntary dissolution"
+    ],
+    "synonyms": [
+      "termination",
+      "breakup",
+      "disbanding"
+    ],
+    "wordFamily": [
+      "dissolve",
+      "dissolved"
+    ],
     "day": 110
   },
   {
-    "id": "milestone-noun",
-    "word": "milestone",
-    "baseWord": "milestone",
+    "id": "due diligence-noun",
+    "word": "due diligence",
+    "baseWord": "diligence",
     "type": "noun",
-    "meaning": "cột mốc, thành tựu quan trọng",
-    "pronunciation": "/ˈmaɪlstoʊn/",
+    "meaning": "sự thẩm định, xem xét kỹ lưỡng",
+    "pronunciation": "/duː ˈdɪlɪdʒəns/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Reaching 1,000 clients was a major milestone for the firm.",
-    "exampleVi": "Đạt 1.000 khách hàng là một cột mốc quan trọng của công ty.",
-    "collocations": ["reach a milestone", "project milestone", "key milestone"],
-    "synonyms": ["landmark", "achievement", "benchmark"],
-    "wordFamily": ["milestones"],
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The buyer conducted due diligence before completing the acquisition.",
+    "exampleVi": "Người mua đã thực hiện thẩm định trước khi hoàn tất việc mua lại.",
+    "collocations": [
+      "conduct due diligence",
+      "due diligence process",
+      "due diligence report"
+    ],
+    "synonyms": [
+      "investigation",
+      "assessment",
+      "examination"
+    ],
+    "wordFamily": [
+      "diligence",
+      "diligent",
+      "diligently"
+    ],
     "day": 110
   },
   {
@@ -1413,12 +2841,27 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The distributor was granted exclusive rights to sell the product.",
     "exampleVi": "Nhà phân phối đã được cấp quyền độc quyền bán sản phẩm.",
-    "collocations": ["exclusive rights", "exclusive deal", "exclusive access"],
-    "synonyms": ["sole", "unique", "restricted"],
-    "wordFamily": ["exclude", "exclusively", "exclusivity"],
+    "collocations": [
+      "exclusive rights",
+      "exclusive deal",
+      "exclusive access"
+    ],
+    "synonyms": [
+      "sole",
+      "unique",
+      "restricted"
+    ],
+    "wordFamily": [
+      "exclude",
+      "exclusively",
+      "exclusivity"
+    ],
     "day": 110
   },
   {
@@ -1431,16 +2874,29 @@
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The agreement guarantees exclusivity for three years.",
     "exampleVi": "Thỏa thuận đảm bảo quyền độc quyền trong ba năm.",
-    "collocations": ["exclusivity agreement", "exclusivity period", "grant exclusivity"],
-    "synonyms": ["monopoly", "sole right", "exclusiveness"],
-    "wordFamily": ["exclusive", "exclusively"],
+    "collocations": [
+      "exclusivity agreement",
+      "exclusivity period",
+      "grant exclusivity"
+    ],
+    "synonyms": [
+      "monopoly",
+      "sole right",
+      "exclusiveness"
+    ],
+    "wordFamily": [
+      "exclusive",
+      "exclusively"
+    ],
     "day": 110
   },
   {
-    "id": "comply-with-terms-verb",
+    "id": "finalize-verb",
     "word": "finalize",
     "baseWord": "final",
     "type": "verb",
@@ -1449,102 +2905,92 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
     "example": "We expect to finalize the deal by the end of the month.",
     "exampleVi": "Chúng tôi dự kiến hoàn tất thỏa thuận vào cuối tháng.",
-    "collocations": ["finalize a deal", "finalize the agreement", "finalize details"],
-    "synonyms": ["complete", "conclude", "settle"],
-    "wordFamily": ["final", "finalization", "finalized"],
+    "collocations": [
+      "finalize a deal",
+      "finalize the agreement",
+      "finalize details"
+    ],
+    "synonyms": [
+      "complete",
+      "conclude",
+      "settle"
+    ],
+    "wordFamily": [
+      "final",
+      "finalization",
+      "finalized"
+    ],
     "day": 110
   },
   {
-    "id": "equity-noun",
-    "word": "equity",
-    "baseWord": "equity",
-    "type": "noun",
-    "meaning": "vốn chủ sở hữu, cổ phần",
-    "pronunciation": "/ˈekwəti/",
+    "id": "fine print-phrase",
+    "word": "fine print",
+    "baseWord": "fine print",
+    "type": "phrase",
+    "meaning": "chữ in nhỏ (chứa các điều khoản quan trọng trong hợp đồng)",
+    "pronunciation": "/faɪn prɪnt/",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The investor acquired a 30% equity stake in the company.",
-    "exampleVi": "Nhà đầu tư đã mua lại 30% cổ phần trong công ty.",
-    "collocations": ["equity stake", "private equity", "equity investment"],
-    "synonyms": ["ownership", "share", "interest"],
-    "wordFamily": ["equitable", "equitably"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Make sure to read the fine print before signing the lease agreement.",
+    "exampleVi": "Hãy chắc chắn đọc phần chữ in nhỏ trước khi ký hợp đồng thuê nhà.",
+    "collocations": [
+      "read the fine print",
+      "hidden in the fine print",
+      "understand the fine print"
+    ],
+    "synonyms": [
+      "small print",
+      "detailed terms"
+    ],
+    "wordFamily": [
+      "fine",
+      "print",
+      "printed"
+    ],
     "day": 110
   },
   {
-    "id": "render-verb",
-    "word": "render",
-    "baseWord": "render",
-    "type": "verb",
-    "meaning": "khiến cho, cung cấp (dịch vụ)",
-    "pronunciation": "/ˈrendər/",
+    "id": "letter of intent-phrase",
+    "word": "letter of intent",
+    "baseWord": "letter of intent",
+    "type": "phrase",
+    "meaning": "thư bày tỏ ý định, thư ngỏ hợp tác",
+    "pronunciation": "/ˈletər əv ɪnˈtent/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Any changes to the terms may render the agreement invalid.",
-    "exampleVi": "Bất kỳ thay đổi nào đối với các điều khoản có thể khiến thỏa thuận vô hiệu.",
-    "collocations": ["render invalid", "render a service", "render a decision"],
-    "synonyms": ["make", "provide", "deliver"],
-    "wordFamily": ["rendered", "rendering"],
-    "day": 110
-  },
-  {
-    "id": "confidential-adjective",
-    "word": "confidential",
-    "baseWord": "confide",
-    "type": "adjective",
-    "meaning": "bảo mật, bí mật",
-    "pronunciation": "/ˌkɑːnfɪˈdenʃəl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "All negotiation documents are strictly confidential.",
-    "exampleVi": "Tất cả tài liệu đàm phán đều tuyệt đối bảo mật.",
-    "collocations": ["confidential information", "strictly confidential", "confidential documents"],
-    "synonyms": ["private", "classified", "secret"],
-    "wordFamily": ["confidentiality", "confidentially", "confide"],
-    "day": 110
-  },
-  {
-    "id": "confidentiality-noun",
-    "word": "confidentiality",
-    "baseWord": "confidential",
-    "type": "noun",
-    "meaning": "tính bảo mật",
-    "pronunciation": "/ˌkɑːnfɪˌdenʃiˈæləti/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Employees must maintain strict confidentiality regarding client data.",
-    "exampleVi": "Nhân viên phải giữ bí mật tuyệt đối về dữ liệu khách hàng.",
-    "collocations": ["maintain confidentiality", "confidentiality agreement", "breach of confidentiality"],
-    "synonyms": ["privacy", "secrecy", "discretion"],
-    "wordFamily": ["confidential", "confidentially"],
-    "day": 110
-  },
-  {
-    "id": "come-to-terms-phrase",
-    "word": "come to terms",
-    "baseWord": "terms",
-    "type": "phrase",
-    "meaning": "đạt được thỏa thuận",
-    "pronunciation": "/kʌm tuː tɜːrmz/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "After lengthy talks, both sides finally came to terms.",
-    "exampleVi": "Sau các cuộc đàm phán kéo dài, cả hai bên cuối cùng đã đạt được thỏa thuận.",
-    "collocations": ["come to terms with", "come to terms on pricing", "come to agreeable terms"],
-    "synonyms": ["reach an agreement", "settle", "agree"],
-    "wordFamily": ["terms"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Signing the letter of intent is the first step toward building the partnership.",
+    "exampleVi": "Ký thư bày tỏ ý định là bước đầu tiên để xây dựng mối quan hệ đối tác.",
+    "collocations": [
+      "submit a letter of intent",
+      "sign a letter of intent",
+      "non-binding letter of intent"
+    ],
+    "synonyms": [
+      "memorandum of understanding",
+      "preliminary agreement"
+    ],
+    "wordFamily": [
+      "letter",
+      "intent",
+      "intention"
+    ],
     "day": 110
   },
   {
@@ -1557,48 +3003,184 @@
     "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
     "example": "The delivery date is non-negotiable.",
     "exampleVi": "Ngày giao hàng là không thể thương lượng.",
-    "collocations": ["non-negotiable terms", "non-negotiable price", "non-negotiable conditions"],
-    "synonyms": ["fixed", "firm", "absolute"],
-    "wordFamily": ["negotiate", "negotiable", "negotiation"],
+    "collocations": [
+      "non-negotiable terms",
+      "non-negotiable price",
+      "non-negotiable conditions"
+    ],
+    "synonyms": [
+      "fixed",
+      "firm",
+      "absolute"
+    ],
+    "wordFamily": [
+      "negotiate",
+      "negotiable",
+      "negotiation"
+    ],
     "day": 110
   },
   {
-    "id": "leverage-verb",
-    "word": "leverage",
-    "baseWord": "leverage",
-    "type": "verb",
-    "meaning": "tận dụng, khai thác",
-    "pronunciation": "/ˈlevərɪdʒ/",
+    "id": "permanent-appointment-phrase",
+    "word": "permanent appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: permanent appointment",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "We can leverage our market position to negotiate better terms.",
-    "exampleVi": "Chúng tôi có thể tận dụng vị thế thị trường để đàm phán điều khoản tốt hơn.",
-    "collocations": ["leverage resources", "leverage technology", "leverage expertise"],
-    "synonyms": ["utilize", "exploit", "capitalize on"],
-    "wordFamily": ["leverage", "leveraged", "leveraging"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the permanent appointment before the next business day.",
+    "exampleVi": "Vui long xem lai permanent appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "permanent appointment",
+      "permanent appointment process",
+      "permanent appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 110
   },
   {
-    "id": "contingent-adjective",
-    "word": "contingent",
-    "baseWord": "contingent",
-    "type": "adjective",
-    "meaning": "phụ thuộc vào, tùy thuộc",
-    "pronunciation": "/kənˈtɪndʒənt/",
+    "id": "ratification-noun",
+    "word": "ratification",
+    "baseWord": "ratify",
+    "type": "noun",
+    "meaning": "sự phê chuẩn",
+    "pronunciation": "/ˌrætɪfɪˈkeɪʃən/",
     "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The deal is contingent upon board approval.",
-    "exampleVi": "Thỏa thuận phụ thuộc vào sự phê duyệt của hội đồng.",
-    "collocations": ["contingent upon", "contingent on approval", "contingent offer"],
-    "synonyms": ["dependent", "conditional", "subject to"],
-    "wordFamily": ["contingency", "contingently"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The ratification of the trade deal is expected this month.",
+    "exampleVi": "Sự phê chuẩn thỏa thuận thương mại dự kiến trong tháng này.",
+    "collocations": [
+      "ratification process",
+      "pending ratification",
+      "formal ratification"
+    ],
+    "synonyms": [
+      "approval",
+      "endorsement",
+      "confirmation"
+    ],
+    "wordFamily": [
+      "ratify",
+      "ratified"
+    ],
+    "day": 110
+  },
+  {
+    "id": "render-verb",
+    "word": "render",
+    "baseWord": "render",
+    "type": "verb",
+    "meaning": "khiến cho, cung cấp (dịch vụ)",
+    "pronunciation": "/ˈrendər/",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Any changes to the terms may render the agreement invalid.",
+    "exampleVi": "Bất kỳ thay đổi nào đối với các điều khoản có thể khiến thỏa thuận vô hiệu.",
+    "collocations": [
+      "render invalid",
+      "render a service",
+      "render a decision"
+    ],
+    "synonyms": [
+      "make",
+      "provide",
+      "deliver"
+    ],
+    "wordFamily": [
+      "rendered",
+      "rendering"
+    ],
+    "day": 110
+  },
+  {
+    "id": "seal the deal-phrase",
+    "word": "seal the deal",
+    "baseWord": "seal the deal",
+    "type": "phrase",
+    "meaning": "chốt thỏa thuận, hoàn tất giao dịch",
+    "pronunciation": "/siːl ðə diːl/",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The executive offered a discount to seal the deal with the client.",
+    "exampleVi": "Giám đốc điều hành đã đề xuất giảm giá để chốt thỏa thuận với khách hàng.",
+    "collocations": [
+      "negotiate to seal the deal",
+      "help seal the deal",
+      "ready to seal the deal"
+    ],
+    "synonyms": [
+      "close the deal",
+      "finalize the agreement"
+    ],
+    "wordFamily": [
+      "seal",
+      "deal",
+      "deals"
+    ],
+    "day": 110
+  },
+  {
+    "id": "standard-appointment-phrase",
+    "word": "standard appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve negotiations & deals: standard appointment",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the standard appointment before the next business day.",
+    "exampleVi": "Vui long xem lai standard appointment truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "standard appointment",
+      "standard appointment process",
+      "standard appointment deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
     "day": 110
   }
 ]

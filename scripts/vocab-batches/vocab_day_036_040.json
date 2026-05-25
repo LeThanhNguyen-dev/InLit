@@ -1,0 +1,3118 @@
+[
+  {
+    "id": "audit-noun",
+    "word": "audit",
+    "baseWord": "audit",
+    "type": "noun",
+    "meaning": "sự kiểm toán, cuộc kiểm tra sổ sách tài chính",
+    "pronunciation": "/ˈɔːdɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company underwent an independent financial audit last month.",
+    "exampleVi": "Công ty đã trải qua một cuộc kiểm toán tài chính độc lập vào tháng trước.",
+    "collocations": [
+      "financial audit",
+      "internal audit",
+      "conduct an audit"
+    ],
+    "synonyms": [
+      "inspection",
+      "examination",
+      "review"
+    ],
+    "wordFamily": [
+      "auditor",
+      "auditing"
+    ],
+    "day": 36
+  },
+  {
+    "id": "auditor-noun",
+    "word": "auditor",
+    "baseWord": "audit",
+    "type": "noun",
+    "meaning": "kiểm toán viên",
+    "pronunciation": "/ˈɔːdɪtər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The external auditors found no discrepancies in the tax records.",
+    "exampleVi": "Các kiểm toán viên bên ngoài đã không tìm thấy sự bất nhất nào trong hồ sơ thuế.",
+    "collocations": [
+      "external auditor",
+      "certified auditor",
+      "auditor report"
+    ],
+    "synonyms": [
+      "inspector",
+      "examiner"
+    ],
+    "wordFamily": [
+      "audit",
+      "auditing"
+    ],
+    "day": 36
+  },
+  {
+    "id": "balance-noun",
+    "word": "balance",
+    "baseWord": "balance",
+    "type": "noun",
+    "meaning": "số dư tài khoản, sự cân bằng",
+    "pronunciation": "/ˈbæləns/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You can check your account balance at any ATM.",
+    "exampleVi": "Bạn có thể kiểm tra số dư tài khoản của mình tại bất kỳ máy ATM nào.",
+    "collocations": [
+      "account balance",
+      "outstanding balance",
+      "remaining balance"
+    ],
+    "synonyms": [
+      "remainder",
+      "equilibrium"
+    ],
+    "wordFamily": [
+      "balance",
+      "balanced"
+    ],
+    "day": 36
+  },
+  {
+    "id": "bankrupt-adjective",
+    "word": "bankrupt",
+    "baseWord": "bankrupt",
+    "type": "adjective",
+    "meaning": "bị phá sản, vỡ nợ",
+    "pronunciation": "/ˈbæŋkrʌpt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The economic crisis went so far as to make several banks bankrupt.",
+    "exampleVi": "Cuộc khủng hoảng kinh tế đã đi xa đến mức làm cho một vài ngân hàng bị phá sản.",
+    "collocations": [
+      "go bankrupt",
+      "declared bankrupt",
+      "bankrupt company"
+    ],
+    "synonyms": [
+      "insolvent",
+      "broke"
+    ],
+    "wordFamily": [
+      "bankruptcy"
+    ],
+    "day": 36
+  },
+  {
+    "id": "bankruptcy-noun",
+    "word": "bankruptcy",
+    "baseWord": "bankrupt",
+    "type": "noun",
+    "meaning": "sự phá sản, tình trạng vỡ nợ",
+    "pronunciation": "/ˈbæŋkrʌptsi/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The retail chain filed for bankruptcy after failing to pay its debts.",
+    "exampleVi": "Chuỗi bán lẻ đã nộp đơn xin phá sản sau khi không trả được nợ.",
+    "collocations": [
+      "file for bankruptcy",
+      "declare bankruptcy",
+      "prevent bankruptcy"
+    ],
+    "synonyms": [
+      "insolvency",
+      "ruin"
+    ],
+    "wordFamily": [
+      "bankrupt"
+    ],
+    "day": 36
+  },
+  {
+    "id": "bond-noun",
+    "word": "bond",
+    "baseWord": "bond",
+    "type": "noun",
+    "meaning": "trái phiếu, mối ràng buộc",
+    "pronunciation": "/bɑːnd/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Government bonds are generally considered a low-risk investment.",
+    "exampleVi": "Trái phiếu chính phủ thường được coi là một khoản đầu tư rủi ro thấp.",
+    "collocations": [
+      "government bond",
+      "corporate bond",
+      "bond market"
+    ],
+    "synonyms": [
+      "security",
+      "debenture"
+    ],
+    "wordFamily": [
+      "bondage"
+    ],
+    "day": 36
+  },
+  {
+    "id": "borrow-verb",
+    "word": "borrow",
+    "baseWord": "borrow",
+    "type": "verb",
+    "meaning": "vay, mượn",
+    "pronunciation": "/ˈbɑːroʊ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The startup had to borrow money from the bank to expand.",
+    "exampleVi": "Công ty khởi nghiệp đã phải vay tiền từ ngân hàng để mở rộng.",
+    "collocations": [
+      "borrow money",
+      "borrow from a friend",
+      "borrower agreement"
+    ],
+    "synonyms": [
+      "take on loan"
+    ],
+    "wordFamily": [
+      "borrower",
+      "borrowing"
+    ],
+    "day": 36
+  },
+  {
+    "id": "borrower-noun",
+    "word": "borrower",
+    "baseWord": "borrow",
+    "type": "noun",
+    "meaning": "người đi vay, con nợ",
+    "pronunciation": "/ˈbɑːroʊər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Borrowers are required to provide collateral for larger loans.",
+    "exampleVi": "Người đi vay được yêu cầu cung cấp tài sản thế chấp cho các khoản vay lớn hơn.",
+    "collocations": [
+      "reliable borrower",
+      "borrower credit score",
+      "defaulting borrower"
+    ],
+    "synonyms": [
+      "debtor"
+    ],
+    "wordFamily": [
+      "borrow",
+      "borrowing"
+    ],
+    "day": 36
+  },
+  {
+    "id": "budget-noun",
+    "word": "budget",
+    "baseWord": "budget",
+    "type": "noun",
+    "meaning": "ngân sách, quỹ tài chính giới hạn",
+    "pronunciation": "/ˈbʌdʒɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to stay within our marketing budget for this quarter.",
+    "exampleVi": "Chúng ta cần duy trì trong phạm vi ngân sách tiếp thị cho quý này.",
+    "collocations": [
+      "within budget",
+      "over budget",
+      "marketing budget"
+    ],
+    "synonyms": [
+      "funding",
+      "allowance",
+      "financial plan"
+    ],
+    "wordFamily": [
+      "budgetary",
+      "budgeting"
+    ],
+    "day": 36
+  },
+  {
+    "id": "capital-noun",
+    "word": "capital",
+    "baseWord": "capital",
+    "type": "noun",
+    "meaning": "vốn đầu tư, thủ đô, chữ hoa",
+    "pronunciation": "/ˈkæpɪtl/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The firm is raising capital to fund its new research project.",
+    "exampleVi": "Công ty đang huy động vốn để tài trợ cho dự án nghiên cứu mới của mình.",
+    "collocations": [
+      "raise capital",
+      "working capital",
+      "venture capital"
+    ],
+    "synonyms": [
+      "funds",
+      "assets",
+      "principal"
+    ],
+    "wordFamily": [
+      "capitalist",
+      "capitalize",
+      "capitalism"
+    ],
+    "day": 36
+  },
+  {
+    "id": "cash-noun",
+    "word": "cash",
+    "baseWord": "cash",
+    "type": "noun",
+    "meaning": "tiền mặt",
+    "pronunciation": "/kæʃ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Will you be paying in cash or by credit card?",
+    "exampleVi": "Bạn sẽ thanh toán bằng tiền mặt hay thẻ tín dụng?",
+    "collocations": [
+      "pay in cash",
+      "cash payment",
+      "petty cash"
+    ],
+    "synonyms": [
+      "currency",
+      "money"
+    ],
+    "wordFamily": [
+      "cashier",
+      "cashless"
+    ],
+    "day": 36
+  },
+  {
+    "id": "collateral-noun",
+    "word": "collateral",
+    "baseWord": "collateral",
+    "type": "noun",
+    "meaning": "tài sản thế chấp (để đảm bảo khoản vay)",
+    "pronunciation": "/kəˈlætərəl/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She used her house as collateral to secure the business loan.",
+    "exampleVi": "Cô ấy đã sử dụng ngôi nhà của mình làm tài sản thế chấp để bảo đảm cho khoản vay kinh doanh.",
+    "collocations": [
+      "provide collateral",
+      "put up collateral",
+      "collateral value"
+    ],
+    "synonyms": [
+      "security",
+      "pledge",
+      "guarantee"
+    ],
+    "wordFamily": [],
+    "day": 36
+  },
+  {
+    "id": "credit-noun",
+    "word": "credit",
+    "baseWord": "credit",
+    "type": "noun",
+    "meaning": "tín dụng, lòng tin, danh tiếng, khoản tiền cộng vào tài khoản",
+    "pronunciation": "/ˈkredɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The bank refused to extend any further credit to the developer.",
+    "exampleVi": "Ngân hàng đã từ chối mở rộng thêm bất kỳ khoản tín dụng nào cho nhà phát triển.",
+    "collocations": [
+      "credit card",
+      "credit limit",
+      "line of credit"
+    ],
+    "synonyms": [
+      "trust",
+      "solvency"
+    ],
+    "wordFamily": [
+      "creditable",
+      "creditor"
+    ],
+    "day": 36
+  },
+  {
+    "id": "debt-noun",
+    "word": "debt",
+    "baseWord": "debt",
+    "type": "noun",
+    "meaning": "khoản nợ, tình trạng nợ nần",
+    "pronunciation": "/det/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He has finally paid off all his credit card debts.",
+    "exampleVi": "Anh ấy cuối cùng đã trả hết tất cả các khoản nợ thẻ tín dụng của mình.",
+    "collocations": [
+      "pay off debt",
+      "in debt",
+      "national debt"
+    ],
+    "synonyms": [
+      "liability",
+      "obligation",
+      "dues"
+    ],
+    "wordFamily": [
+      "debtor"
+    ],
+    "day": 36
+  },
+  {
+    "id": "debtor-noun",
+    "word": "debtor",
+    "baseWord": "debt",
+    "type": "noun",
+    "meaning": "con nợ, người mắc nợ",
+    "pronunciation": "/ˈdetər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The court ordered the debtor to sell assets to repay the bank.",
+    "exampleVi": "Tòa án đã ra lệnh cho con nợ bán tài sản để trả nợ cho ngân hàng.",
+    "collocations": [
+      "unreliable debtor",
+      "debtor company",
+      "collect from a debtor"
+    ],
+    "synonyms": [
+      "borrower"
+    ],
+    "wordFamily": [
+      "debt"
+    ],
+    "day": 36
+  },
+  {
+    "id": "deficit-noun",
+    "word": "deficit",
+    "baseWord": "deficit",
+    "type": "noun",
+    "meaning": "số tiền thâm hụt, thâm hụt tài chính",
+    "pronunciation": "/ˈdefɪsɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The government is trying to reduce the trade deficit.",
+    "exampleVi": "Chính phủ đang cố gắng giảm thâm hụt thương mại.",
+    "collocations": [
+      "budget deficit",
+      "trade deficit",
+      "run a deficit"
+    ],
+    "synonyms": [
+      "shortfall",
+      "loss",
+      "deficit spending"
+    ],
+    "wordFamily": [
+      "deficient"
+    ],
+    "day": 36
+  },
+  {
+    "id": "deposit-noun",
+    "word": "deposit",
+    "baseWord": "deposit",
+    "type": "noun",
+    "meaning": "tiền gửi ngân hàng, tiền đặt cọc",
+    "pronunciation": "/dɪˈpɑːzɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A ten percent deposit is required to book the venue.",
+    "exampleVi": "Yêu cầu đặt cọc mười phần trăm để đặt trước địa điểm.",
+    "collocations": [
+      "make a deposit",
+      "security deposit",
+      "direct deposit"
+    ],
+    "synonyms": [
+      "down payment",
+      "installment"
+    ],
+    "wordFamily": [
+      "deposit",
+      "depositor"
+    ],
+    "day": 36
+  },
+  {
+    "id": "depreciate-verb",
+    "word": "depreciate",
+    "baseWord": "depreciate",
+    "type": "verb",
+    "meaning": "giảm giá trị, sụt giá theo thời gian",
+    "pronunciation": "/dɪˈpriːʃieɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "New cars depreciate rapidly during the first year of ownership.",
+    "exampleVi": "Xe ô tô mới giảm giá trị nhanh chóng trong năm đầu tiên sở hữu.",
+    "collocations": [
+      "depreciate in value",
+      "rapidly depreciate",
+      "assets depreciate"
+    ],
+    "synonyms": [
+      "devalue",
+      "cheapen",
+      "drop"
+    ],
+    "wordFamily": [
+      "depreciation",
+      "depreciable"
+    ],
+    "day": 36
+  },
+  {
+    "id": "depreciation-noun",
+    "word": "depreciation",
+    "baseWord": "depreciate",
+    "type": "noun",
+    "meaning": "sự giảm giá trị, sự khấu hao tài sản",
+    "pronunciation": "/dɪˌpriːʃiˈeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company calculates the depreciation of its machinery annually.",
+    "exampleVi": "Công ty tính toán khấu hao máy móc của mình hàng năm.",
+    "collocations": [
+      "annual depreciation",
+      "depreciation rate",
+      "asset depreciation"
+    ],
+    "synonyms": [
+      "devaluation",
+      "decrease"
+    ],
+    "wordFamily": [
+      "depreciate",
+      "depreciable"
+    ],
+    "day": 36
+  },
+  {
+    "id": "dividend-noun",
+    "word": "dividend",
+    "baseWord": "dividend",
+    "type": "noun",
+    "meaning": "cổ tức (lợi nhuận được chia cho cổ đông)",
+    "pronunciation": "/ˈdɪvɪdend/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company declared a quarterly dividend of fifty cents per share.",
+    "exampleVi": "Công ty đã công bố cổ tức hàng quý là năm mươi xu cho mỗi cổ phiếu.",
+    "collocations": [
+      "pay a dividend",
+      "dividend yield",
+      "annual dividend"
+    ],
+    "synonyms": [
+      "share",
+      "payout"
+    ],
+    "wordFamily": [],
+    "day": 36
+  },
+  {
+    "id": "expenditure-noun",
+    "word": "expenditure",
+    "baseWord": "spend",
+    "type": "noun",
+    "meaning": "khoản chi tiêu, lượng tiền tiêu dùng",
+    "pronunciation": "/ɪkˈspendɪtʃər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The board approved a major expenditure on computer software.",
+    "exampleVi": "Ban giám đốc đã phê duyệt một khoản chi tiêu lớn cho phần mềm máy tính.",
+    "collocations": [
+      "capital expenditure",
+      "annual expenditure",
+      "reduce expenditure"
+    ],
+    "synonyms": [
+      "spending",
+      "outlay",
+      "expense"
+    ],
+    "wordFamily": [
+      "expend",
+      "expense",
+      "expensive"
+    ],
+    "day": 37
+  },
+  {
+    "id": "expense-noun",
+    "word": "expense",
+    "baseWord": "spend",
+    "type": "noun",
+    "meaning": "chi phí phát sinh, khoản chi tiêu",
+    "pronunciation": "/ɪkˈspens/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We must cut down on travel expenses to save money.",
+    "exampleVi": "Chúng ta phải cắt giảm chi phí đi lại để tiết kiệm tiền.",
+    "collocations": [
+      "travel expenses",
+      "business expense",
+      "expense report"
+    ],
+    "synonyms": [
+      "cost",
+      "charge",
+      "outlay"
+    ],
+    "wordFamily": [
+      "expensive",
+      "expenditure"
+    ],
+    "day": 37
+  },
+  {
+    "id": "finance-noun",
+    "word": "finance",
+    "baseWord": "finance",
+    "type": "noun",
+    "meaning": "tài chính, việc quản lý tiền bạc",
+    "pronunciation": "/ˈfaɪnæns/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She is studying corporate finance at university.",
+    "exampleVi": "Cô ấy đang học ngành tài chính doanh nghiệp tại trường đại học.",
+    "collocations": [
+      "corporate finance",
+      "personal finance",
+      "finance department"
+    ],
+    "synonyms": [
+      "funding",
+      "banking"
+    ],
+    "wordFamily": [
+      "financial",
+      "financially",
+      "financier",
+      "finance"
+    ],
+    "day": 37
+  },
+  {
+    "id": "financial-adjective",
+    "word": "financial",
+    "baseWord": "finance",
+    "type": "adjective",
+    "meaning": "thuộc về tài chính",
+    "pronunciation": "/faɪˈnænʃl/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The firm is in a strong financial position this year.",
+    "exampleVi": "Công ty đang ở trong một vị thế tài chính mạnh mẽ trong năm nay.",
+    "collocations": [
+      "financial statement",
+      "financial adviser",
+      "financial difficulties"
+    ],
+    "synonyms": [
+      "fiscal",
+      "monetary",
+      "pecuniary"
+    ],
+    "wordFamily": [
+      "finance",
+      "financially",
+      "financier"
+    ],
+    "day": 37
+  },
+  {
+    "id": "fiscal-adjective",
+    "word": "fiscal",
+    "baseWord": "fiscal",
+    "type": "adjective",
+    "meaning": "thuộc tài chính công, tài khóa quốc gia",
+    "pronunciation": "/ˈfɪskl/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The company's fiscal year ends on September 30.",
+    "exampleVi": "Năm tài chính của công ty kết thúc vào ngày 30 tháng 9.",
+    "collocations": [
+      "fiscal year",
+      "fiscal policy",
+      "fiscal stimulus"
+    ],
+    "synonyms": [
+      "financial",
+      "budgetary"
+    ],
+    "wordFamily": [
+      "fiscally"
+    ],
+    "day": 37
+  },
+  {
+    "id": "forecast-noun",
+    "word": "forecast",
+    "baseWord": "cast",
+    "type": "noun",
+    "meaning": "sự dự báo, dự báo thời tiết/tài chính",
+    "pronunciation": "/ˈfɔːrkæst/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The financial forecast predicts a steady increase in sales.",
+    "exampleVi": "Bản dự báo tài chính dự đoán doanh số bán hàng sẽ tăng đều đặn.",
+    "collocations": [
+      "financial forecast",
+      "sales forecast",
+      "weather forecast"
+    ],
+    "synonyms": [
+      "prediction",
+      "projection",
+      "estimate"
+    ],
+    "wordFamily": [
+      "forecast",
+      "forecaster"
+    ],
+    "day": 37
+  },
+  {
+    "id": "fund-noun",
+    "word": "fund",
+    "baseWord": "fund",
+    "type": "noun",
+    "meaning": "quỹ tiền tệ, nguồn tiền tài trợ",
+    "pronunciation": "/fʌnd/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The organization raised funds for the new building.",
+    "exampleVi": "Tổ chức đã gây quỹ cho tòa nhà mới.",
+    "collocations": [
+      "pension fund",
+      "mutual fund",
+      "raise funds"
+    ],
+    "synonyms": [
+      "capital",
+      "endowment",
+      "reserves"
+    ],
+    "wordFamily": [
+      "funding",
+      "funded",
+      "fundraiser"
+    ],
+    "day": 37
+  },
+  {
+    "id": "funding-noun",
+    "word": "funding",
+    "baseWord": "fund",
+    "type": "noun",
+    "meaning": "sự cấp vốn, sự tài trợ tài chính",
+    "pronunciation": "/ˈfʌndɪŋ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The project will close if government funding is cut off.",
+    "exampleVi": "Dự án sẽ đóng cửa nếu nguồn tài trợ của chính phủ bị cắt.",
+    "collocations": [
+      "government funding",
+      "secure funding",
+      "funding source"
+    ],
+    "synonyms": [
+      "financing",
+      "subsidy",
+      "backing"
+    ],
+    "wordFamily": [
+      "fund",
+      "funded"
+    ],
+    "day": 37
+  },
+  {
+    "id": "inflation-noun",
+    "word": "inflation",
+    "baseWord": "inflate",
+    "type": "noun",
+    "meaning": "sự lạm phát, sự tăng giá tiền tệ",
+    "pronunciation": "/ɪnˈfleɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "High inflation rates can erode the purchasing power of consumers.",
+    "exampleVi": "Tỷ lệ lạm phát cao có thể làm xói mòn sức mua của người tiêu dùng.",
+    "collocations": [
+      "inflation rate",
+      "combat inflation",
+      "rising inflation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "inflate",
+      "inflationary",
+      "inflatable"
+    ],
+    "day": 37
+  },
+  {
+    "id": "interest-noun",
+    "word": "interest",
+    "baseWord": "interest",
+    "type": "noun",
+    "meaning": "lãi suất ngân hàng, sự quan tâm, quyền lợi",
+    "pronunciation": "/ˈɪntrəst/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The bank pays five percent interest on savings accounts.",
+    "exampleVi": "Ngân hàng trả năm phần trăm tiền lãi cho các tài khoản tiết kiệm.",
+    "collocations": [
+      "interest rate",
+      "earn interest",
+      "charge interest"
+    ],
+    "synonyms": [
+      "dividend",
+      "gain"
+    ],
+    "wordFamily": [
+      "interested",
+      "interesting"
+    ],
+    "day": 37
+  },
+  {
+    "id": "interest-rate-phrase",
+    "word": "interest rate",
+    "baseWord": "interest",
+    "type": "phrase",
+    "meaning": "lãi suất phần trăm hàng năm hoặc hàng tháng",
+    "pronunciation": "/ˈɪntrəst reɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The central bank decided to lower the benchmark interest rate.",
+    "exampleVi": "Ngân hàng trung ương đã quyết định giảm lãi suất chuẩn.",
+    "collocations": [
+      "low interest rate",
+      "high interest rate",
+      "fixed interest rate"
+    ],
+    "synonyms": [
+      "rate of interest"
+    ],
+    "wordFamily": [
+      "interest"
+    ],
+    "day": 37
+  },
+  {
+    "id": "invest-verb",
+    "word": "invest",
+    "baseWord": "invest",
+    "type": "verb",
+    "meaning": "đầu tư tiền bạc hoặc thời gian",
+    "pronunciation": "/ɪnˈvest/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "They decided to invest their savings in real estate.",
+    "exampleVi": "Họ đã quyết định đầu tư tiền tiết kiệm của mình vào bất động sản.",
+    "collocations": [
+      "invest in stocks",
+      "invest heavily",
+      "invest wisely"
+    ],
+    "synonyms": [
+      "venture",
+      "put money in"
+    ],
+    "wordFamily": [
+      "investment",
+      "investor"
+    ],
+    "day": 37
+  },
+  {
+    "id": "investment-noun",
+    "word": "investment",
+    "baseWord": "invest",
+    "type": "noun",
+    "meaning": "khoản đầu tư, sự đầu tư",
+    "pronunciation": "/ɪnˈvestmənt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A business degree is a good investment for your career.",
+    "exampleVi": "Một bằng cấp kinh doanh là một sự đầu tư tốt cho sự nghiệp của bạn.",
+    "collocations": [
+      "make an investment",
+      "foreign investment",
+      "capital investment"
+    ],
+    "synonyms": [
+      "venture",
+      "asset"
+    ],
+    "wordFamily": [
+      "invest",
+      "investor"
+    ],
+    "day": 37
+  },
+  {
+    "id": "investor-noun",
+    "word": "investor",
+    "baseWord": "invest",
+    "type": "noun",
+    "meaning": "nhà đầu tư",
+    "pronunciation": "/ɪnˈvestər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The firm attracted several major international investors.",
+    "exampleVi": "Công ty đã thu hút được một số nhà đầu tư quốc tế lớn.",
+    "collocations": [
+      "private investor",
+      "institutional investor",
+      "foreign investor"
+    ],
+    "synonyms": [
+      "financier",
+      "backer"
+    ],
+    "wordFamily": [
+      "invest",
+      "investment"
+    ],
+    "day": 37
+  },
+  {
+    "id": "ledger-noun",
+    "word": "ledger",
+    "baseWord": "ledger",
+    "type": "noun",
+    "meaning": "sổ cái kế toán, sổ ghi chép giao dịch tài chính",
+    "pronunciation": "/ˈledʒər/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The accountant recorded the payment in the general ledger.",
+    "exampleVi": "Kế toán đã ghi chép khoản thanh toán vào sổ cái chung.",
+    "collocations": [
+      "general ledger",
+      "account ledger",
+      "update the ledger"
+    ],
+    "synonyms": [
+      "account book",
+      "register",
+      "record book"
+    ],
+    "wordFamily": [],
+    "day": 37
+  },
+  {
+    "id": "lend-verb",
+    "word": "lend",
+    "baseWord": "lend",
+    "type": "verb",
+    "meaning": "cho vay, cho mượn",
+    "pronunciation": "/lend/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Many financial institutions lend money to buyers for mortgages.",
+    "exampleVi": "Nhiều tổ chức tài chính cho người mua vay tiền để thế chấp nhà đất.",
+    "collocations": [
+      "lend money",
+      "lend at interest",
+      "willing to lend"
+    ],
+    "synonyms": [
+      "loan",
+      "advance"
+    ],
+    "wordFamily": [
+      "lender",
+      "lending"
+    ],
+    "day": 37
+  },
+  {
+    "id": "lender-noun",
+    "word": "lender",
+    "baseWord": "lend",
+    "type": "noun",
+    "meaning": "người cho vay, tổ chức cho vay",
+    "pronunciation": "/ˈlendər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You should compare rates from several lenders before choosing a loan.",
+    "exampleVi": "Bạn nên so sánh lãi suất từ một vài tổ chức cho vay trước khi chọn một khoản vay.",
+    "collocations": [
+      "money lender",
+      "mortgage lender",
+      "approved lender"
+    ],
+    "synonyms": [
+      "creditor"
+    ],
+    "wordFamily": [
+      "lend",
+      "lending"
+    ],
+    "day": 37
+  },
+  {
+    "id": "loan-noun",
+    "word": "loan",
+    "baseWord": "loan",
+    "type": "noun",
+    "meaning": "khoản vay, khoản nợ được cấp",
+    "pronunciation": "/loʊn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He applied for a loan to buy a new delivery van.",
+    "exampleVi": "Anh ấy đã nộp đơn xin một khoản vay để mua một chiếc xe tải giao hàng mới.",
+    "collocations": [
+      "bank loan",
+      "student loan",
+      "repay a loan"
+    ],
+    "synonyms": [
+      "mortgage",
+      "credit"
+    ],
+    "wordFamily": [
+      "loan"
+    ],
+    "day": 37
+  },
+  {
+    "id": "lucrative-adjective",
+    "word": "lucrative",
+    "baseWord": "lucre",
+    "type": "adjective",
+    "meaning": "sinh lợi cao, béo bở",
+    "pronunciation": "/ˈluːkrətɪv/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The contract proved to be highly lucrative for the marketing agency.",
+    "exampleVi": "Hợp đồng đã tỏ ra cực kỳ sinh lợi cho công ty quảng cáo tiếp thị.",
+    "collocations": [
+      "lucrative contract",
+      "lucrative market",
+      "highly lucrative"
+    ],
+    "synonyms": [
+      "profitable",
+      "rewarding",
+      "fruitful"
+    ],
+    "wordFamily": [
+      "lucre"
+    ],
+    "day": 37
+  },
+  {
+    "id": "mortgage-noun",
+    "word": "mortgage",
+    "baseWord": "mortgage",
+    "type": "noun",
+    "meaning": "thế chấp bất động sản, khoản vay mua nhà thế chấp",
+    "pronunciation": "/ˈmɔːrɡɪdʒ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We took out a thirty-year mortgage to buy our house.",
+    "exampleVi": "Chúng tôi đã thực hiện một khoản vay thế chấp ba mươi năm để mua ngôi nhà của mình.",
+    "collocations": [
+      "pay a mortgage",
+      "mortgage rate",
+      "apply for a mortgage"
+    ],
+    "synonyms": [
+      "home loan",
+      "pledge"
+    ],
+    "wordFamily": [
+      "mortgagee",
+      "mortgagor"
+    ],
+    "day": 37
+  },
+  {
+    "id": "earnings-noun",
+    "word": "earnings",
+    "baseWord": "earn",
+    "type": "noun",
+    "meaning": "lợi nhuận kiếm được, thu nhập doanh nghiệp/cá nhân",
+    "pronunciation": "/ˈɜːrnɪŋz/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company reported record earnings for the second quarter.",
+    "exampleVi": "Công ty đã báo cáo thu nhập kỷ lục trong quý hai.",
+    "collocations": [
+      "quarterly earnings",
+      "annual earnings",
+      "earnings report"
+    ],
+    "synonyms": [
+      "income",
+      "revenue",
+      "profit"
+    ],
+    "wordFamily": [
+      "earn",
+      "earner"
+    ],
+    "day": 38
+  },
+  {
+    "id": "portfolio-noun",
+    "word": "portfolio",
+    "baseWord": "portfolio",
+    "type": "noun",
+    "meaning": "danh mục đầu tư, hồ sơ năng lực dự án",
+    "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Financial advisers recommend diversifying your investment portfolio.",
+    "exampleVi": "Các nhà tư vấn tài chính khuyên bạn nên đa dạng hóa danh mục đầu tư của mình.",
+    "collocations": [
+      "investment portfolio",
+      "diversify a portfolio",
+      "project portfolio"
+    ],
+    "synonyms": [
+      "profile",
+      "briefcase",
+      "assets"
+    ],
+    "wordFamily": [],
+    "day": 38
+  },
+  {
+    "id": "premium-noun",
+    "word": "premium",
+    "baseWord": "premium",
+    "type": "noun",
+    "meaning": "phí bảo hiểm định kỳ, tiền thưởng thêm",
+    "pronunciation": "/ˈpriːmiəm/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You must pay your monthly insurance premium on time.",
+    "exampleVi": "Bạn phải trả phí bảo hiểm hàng tháng của mình đúng hạn.",
+    "collocations": [
+      "insurance premium",
+      "monthly premium",
+      "pay a premium"
+    ],
+    "synonyms": [
+      "fee",
+      "bonus",
+      "surcharge"
+    ],
+    "wordFamily": [
+      "premium"
+    ],
+    "day": 38
+  },
+  {
+    "id": "price-evaluation-phrase",
+    "word": "price evaluation",
+    "baseWord": "value",
+    "type": "phrase",
+    "meaning": "sự xem xét đánh giá giá cả, thẩm định giá",
+    "pronunciation": "/praɪs ɪˌvæljuˈeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We carried out a detailed price evaluation of the competing products.",
+    "exampleVi": "Chúng tôi đã tiến hành đánh giá giá cả chi tiết đối với các sản phẩm cạnh tranh.",
+    "collocations": [
+      "conduct a price evaluation",
+      "price evaluation process",
+      "price evaluation criteria"
+    ],
+    "synonyms": [
+      "price appraisal",
+      "pricing assessment"
+    ],
+    "wordFamily": [
+      "price",
+      "evaluate",
+      "evaluation"
+    ],
+    "day": 38
+  },
+  {
+    "id": "principal-noun",
+    "word": "principal",
+    "baseWord": "principal",
+    "type": "noun",
+    "meaning": "tiền gốc (khoản vay), hiệu trưởng trường học",
+    "pronunciation": "/ˈprɪnsəpl/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The monthly payment goes toward both interest and principal.",
+    "exampleVi": "Khoản thanh toán hàng tháng được dùng để trả cả lãi lẫn gốc.",
+    "collocations": [
+      "loan principal",
+      "repay the principal",
+      "principal amount"
+    ],
+    "synonyms": [
+      "capital",
+      "chief"
+    ],
+    "wordFamily": [
+      "principally"
+    ],
+    "day": 38
+  },
+  {
+    "id": "reconcile-verb",
+    "word": "reconcile",
+    "baseWord": "reconcile",
+    "type": "verb",
+    "meaning": "đối chiếu sổ sách kế toán, hòa giải sự bất hòa",
+    "pronunciation": "/ˈrekənsaɪl/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The accountant must reconcile the bank statements with the company books.",
+    "exampleVi": "Kế toán phải đối chiếu các bản sao kê ngân hàng với sổ sách công ty.",
+    "collocations": [
+      "reconcile account",
+      "reconcile differences",
+      "reconcile bank statement"
+    ],
+    "synonyms": [
+      "resolve",
+      "settle",
+      "match"
+    ],
+    "wordFamily": [
+      "reconciliation",
+      "reconcilable"
+    ],
+    "day": 38
+  },
+  {
+    "id": "reconciliation-noun",
+    "word": "reconciliation",
+    "baseWord": "reconcile",
+    "type": "noun",
+    "meaning": "sự đối chiếu tài khoản, sự hòa giải",
+    "pronunciation": "/ˌrekənsɪliˈeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We perform a weekly reconciliation of our credit card receipts.",
+    "exampleVi": "Chúng tôi thực hiện đối chiếu hàng tuần các biên lai thẻ tín dụng của mình.",
+    "collocations": [
+      "bank reconciliation",
+      "account reconciliation",
+      "process of reconciliation"
+    ],
+    "synonyms": [
+      "settlement",
+      "adjustment",
+      "matching"
+    ],
+    "wordFamily": [
+      "reconcile",
+      "reconcilable"
+    ],
+    "day": 38
+  },
+  {
+    "id": "remit-verb",
+    "word": "remit",
+    "baseWord": "remit",
+    "type": "verb",
+    "meaning": "chuyển tiền (để trả nợ/mua hàng), miễn giảm nợ",
+    "pronunciation": "/rɪˈmɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "Taxpayers can remit their payments online or by mail.",
+    "exampleVi": "Người nộp thuế có thể chuyển khoản các khoản thanh toán của họ trực tuyến hoặc qua thư bưu điện.",
+    "collocations": [
+      "remit payment",
+      "remit funds",
+      "remit a tax liability"
+    ],
+    "synonyms": [
+      "send",
+      "pay",
+      "transmit"
+    ],
+    "wordFamily": [
+      "remittance"
+    ],
+    "day": 38
+  },
+  {
+    "id": "remittance-noun",
+    "word": "remittance",
+    "baseWord": "remit",
+    "type": "noun",
+    "meaning": "sự chuyển tiền từ xa, khoản tiền được chuyển",
+    "pronunciation": "/rɪˈmɪtəns/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the invoice number with your remittance.",
+    "exampleVi": "Vui lòng kèm theo số hóa đơn cùng với khoản tiền chuyển của bạn.",
+    "collocations": [
+      "send a remittance",
+      "remittance advice",
+      "inward remittance"
+    ],
+    "synonyms": [
+      "payment",
+      "transfer"
+    ],
+    "wordFamily": [
+      "remit"
+    ],
+    "day": 38
+  },
+  {
+    "id": "solvency-noun",
+    "word": "solvency",
+    "baseWord": "solvent",
+    "type": "noun",
+    "meaning": "khả năng thanh toán nợ nần dài hạn",
+    "pronunciation": "/ˈsɑːlvənsi/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The audit verified the company's long-term solvency.",
+    "exampleVi": "Cuộc kiểm toán đã xác minh khả năng thanh toán nợ dài hạn của công ty.",
+    "collocations": [
+      "maintain solvency",
+      "ensure solvency",
+      "financial solvency"
+    ],
+    "synonyms": [
+      "liquidity",
+      "stability"
+    ],
+    "wordFamily": [
+      "solvent"
+    ],
+    "day": 38
+  },
+  {
+    "id": "solvent-adjective",
+    "word": "solvent",
+    "baseWord": "solvent",
+    "type": "adjective",
+    "meaning": "có khả năng thanh toán các khoản nợ",
+    "pronunciation": "/ˈsɑːlvənt/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The government provided a loan to keep the airline solvent.",
+    "exampleVi": "Chính phủ đã cung cấp một khoản vay để giữ cho hãng hàng không có khả năng trả nợ.",
+    "collocations": [
+      "remain solvent",
+      "solvent business",
+      "solvent condition"
+    ],
+    "synonyms": [
+      "financially sound"
+    ],
+    "wordFamily": [
+      "solvency"
+    ],
+    "day": 38
+  },
+  {
+    "id": "stockbroker-noun",
+    "word": "stockbroker",
+    "baseWord": "broker",
+    "type": "noun",
+    "meaning": "người môi giới chứng khoán",
+    "pronunciation": "/ˈstɑːkbroʊkər/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She consulted a stockbroker before buying shares of the tech company.",
+    "exampleVi": "Cô ấy đã tham khảo ý kiến của một người môi giới chứng khoán trước khi mua cổ phần của công ty công nghệ.",
+    "collocations": [
+      "licensed stockbroker",
+      "consult a stockbroker",
+      "stockbroker fees"
+    ],
+    "synonyms": [
+      "broker",
+      "investment agent"
+    ],
+    "wordFamily": [
+      "stock",
+      "broker",
+      "brokerage"
+    ],
+    "day": 38
+  },
+  {
+    "id": "stockholder-noun",
+    "word": "stockholder",
+    "baseWord": "stock",
+    "type": "noun",
+    "meaning": "cổ đông sở hữu cổ phần công ty",
+    "pronunciation": "/ˈstɑːkhoʊldər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The annual meeting is a chance for stockholders to vote on key decisions.",
+    "exampleVi": "Cuộc họp thường niên là cơ hội để các cổ đông bỏ phiếu về các quyết định quan trọng.",
+    "collocations": [
+      "majority stockholder",
+      "stockholder meeting",
+      "stockholder rights"
+    ],
+    "synonyms": [
+      "shareholder"
+    ],
+    "wordFamily": [
+      "stock",
+      "hold",
+      "holder"
+    ],
+    "day": 38
+  },
+  {
+    "id": "stocks-noun",
+    "word": "stocks",
+    "baseWord": "stock",
+    "type": "noun",
+    "meaning": "cổ phiếu, chứng khoán đại diện sở hữu công ty",
+    "pronunciation": "/stɑːks/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He invested a significant portion of his wealth in tech stocks.",
+    "exampleVi": "Anh ấy đã đầu tư một phần đáng kể tài sản của mình vào cổ phiếu công nghệ.",
+    "collocations": [
+      "buy stocks",
+      "sell stocks",
+      "blue-chip stocks"
+    ],
+    "synonyms": [
+      "shares",
+      "equities"
+    ],
+    "wordFamily": [
+      "stockbroker",
+      "stockholder"
+    ],
+    "day": 38
+  },
+  {
+    "id": "tax-noun",
+    "word": "tax",
+    "baseWord": "tax",
+    "type": "noun",
+    "meaning": "thuế phải nộp cho nhà nước",
+    "pronunciation": "/tæks/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Income tax is automatically deducted from employees' paychecks.",
+    "exampleVi": "Thuế thu nhập được tự động khấu trừ từ tiền lương của nhân viên.",
+    "collocations": [
+      "income tax",
+      "property tax",
+      "pay tax"
+    ],
+    "synonyms": [
+      "duty",
+      "levy",
+      "tariff"
+    ],
+    "wordFamily": [
+      "taxation",
+      "taxable",
+      "taxpayer"
+    ],
+    "day": 38
+  },
+  {
+    "id": "taxation-noun",
+    "word": "taxation",
+    "baseWord": "tax",
+    "type": "noun",
+    "meaning": "hệ thống thuế, sự đánh thuế",
+    "pronunciation": "/tækˈseɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new government proposed changes to corporate taxation laws.",
+    "exampleVi": "Chính phủ mới đã đề xuất những thay đổi đối với luật thuế doanh nghiệp.",
+    "collocations": [
+      "double taxation",
+      "taxation system",
+      "laws of taxation"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "tax",
+      "taxable",
+      "taxpayer"
+    ],
+    "day": 38
+  },
+  {
+    "id": "treasury-noun",
+    "word": "treasury",
+    "baseWord": "treasure",
+    "type": "noun",
+    "meaning": "kho bạc, bộ tài chính, quỹ dự trữ quốc gia",
+    "pronunciation": "/ˈtreʒəri/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The national treasury issued new guidelines on currency exchange.",
+    "exampleVi": "Kho bạc nhà nước đã ban hành hướng dẫn mới về đổi tiền tệ.",
+    "collocations": [
+      "state treasury",
+      "treasury bonds",
+      "national treasury"
+    ],
+    "synonyms": [
+      "exchequer",
+      "vault"
+    ],
+    "wordFamily": [
+      "treasure",
+      "treasurer"
+    ],
+    "day": 38
+  },
+  {
+    "id": "valuation-noun",
+    "word": "valuation",
+    "baseWord": "value",
+    "type": "noun",
+    "meaning": "sự định giá, sự đánh giá giá trị tài sản",
+    "pronunciation": "/ˌvæljuˈeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The bank requested a property valuation before approving the mortgage.",
+    "exampleVi": "Ngân hàng đã yêu cầu định giá tài sản trước khi chấp thuận khoản thế chấp.",
+    "collocations": [
+      "property valuation",
+      "independent valuation",
+      "valuation report"
+    ],
+    "synonyms": [
+      "appraisal",
+      "assessment",
+      "estimation"
+    ],
+    "wordFamily": [
+      "value",
+      "evaluate",
+      "evaluator"
+    ],
+    "day": 38
+  },
+  {
+    "id": "venture-noun",
+    "word": "venture",
+    "baseWord": "venture",
+    "type": "noun",
+    "meaning": "dự án kinh doanh mạo hiểm đầy rủi ro",
+    "pronunciation": "/ˈventʃər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The two firms joined forces in a joint venture to build a new factory.",
+    "exampleVi": "Hai công ty đã hợp tác trong một dự án liên doanh để xây dựng một nhà máy mới.",
+    "collocations": [
+      "joint venture",
+      "business venture",
+      "venture capital"
+    ],
+    "synonyms": [
+      "enterprise",
+      "undertaking",
+      "project"
+    ],
+    "wordFamily": [
+      "venturesome"
+    ],
+    "day": 38
+  },
+  {
+    "id": "yield-noun",
+    "word": "yield",
+    "baseWord": "yield",
+    "type": "noun",
+    "meaning": "lợi suất, lợi nhuận thực tế thu được (từ đầu tư)",
+    "pronunciation": "/jiːld/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "High-yield bonds offer higher returns but carry more risk.",
+    "exampleVi": "Trái phiếu lợi suất cao mang lại lợi nhuận cao hơn nhưng đi kèm với nhiều rủi ro hơn.",
+    "collocations": [
+      "bond yield",
+      "dividend yield",
+      "high yield"
+    ],
+    "synonyms": [
+      "return",
+      "earnings",
+      "revenue"
+    ],
+    "wordFamily": [
+      "yield"
+    ],
+    "day": 38
+  },
+  {
+    "id": "account-balance-phrase",
+    "word": "account balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "số dư tài khoản ngân hàng hiện tại",
+    "pronunciation": "/əˈkaʊnt ˈbæləns/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The online app displays your account balance in real time.",
+    "exampleVi": "Ứng dụng trực tuyến hiển thị số dư tài khoản của bạn trong thời gian thực.",
+    "collocations": [
+      "check account balance",
+      "current account balance",
+      "low account balance"
+    ],
+    "synonyms": [
+      "balance"
+    ],
+    "wordFamily": [
+      "account",
+      "balance"
+    ],
+    "day": 39
+  },
+  {
+    "id": "bank-statement-phrase",
+    "word": "bank statement",
+    "baseWord": "state",
+    "type": "phrase",
+    "meaning": "bản sao kê tài khoản ngân hàng hàng tháng",
+    "pronunciation": "/bæŋk ˈsteɪtmənt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please check your bank statement to make sure all transactions are correct.",
+    "exampleVi": "Vui lòng kiểm tra sao kê ngân hàng của bạn để đảm bảo tất cả giao dịch đều chính xác.",
+    "collocations": [
+      "monthly bank statement",
+      "view a bank statement",
+      "request a bank statement"
+    ],
+    "synonyms": [
+      "account statement"
+    ],
+    "wordFamily": [
+      "bank",
+      "state",
+      "statement"
+    ],
+    "day": 39
+  },
+  {
+    "id": "bounced-check-phrase",
+    "word": "bounced check",
+    "baseWord": "check",
+    "type": "phrase",
+    "meaning": "tờ séc bị trả lại (do tài khoản người viết không đủ số dư)",
+    "pronunciation": "/baʊnst tʃek/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The supplier charged us a penalty fee for the bounced check.",
+    "exampleVi": "Nhà cung cấp đã tính một khoản phí phạt đối với chúng tôi vì tờ séc bị trả lại.",
+    "collocations": [
+      "receive a bounced check",
+      "bounced check fee",
+      "penalty for bounced check"
+    ],
+    "synonyms": [
+      "bad check",
+      "returned check"
+    ],
+    "wordFamily": [
+      "bounce",
+      "check"
+    ],
+    "day": 39
+  },
+  {
+    "id": "cash-flow-phrase",
+    "word": "cash flow",
+    "baseWord": "flow",
+    "type": "phrase",
+    "meaning": "dòng tiền thu chi trong doanh nghiệp",
+    "pronunciation": "/kæʃ floʊ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A healthy cash flow is essential for startup survival.",
+    "exampleVi": "Một dòng tiền lành mạnh là điều tối quan trọng cho sự sống sót của các công ty khởi nghiệp.",
+    "collocations": [
+      "positive cash flow",
+      "manage cash flow",
+      "cash flow statement"
+    ],
+    "synonyms": [
+      "monetary flow",
+      "working capital flow"
+    ],
+    "wordFamily": [
+      "cash",
+      "flow"
+    ],
+    "day": 39
+  },
+  {
+    "id": "checking-account-phrase",
+    "word": "checking account",
+    "baseWord": "check",
+    "type": "phrase",
+    "meaning": "tài khoản thanh toán, tài khoản vãng lai",
+    "pronunciation": "/ˈtʃekɪŋ əˈkaʊnt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Most of my monthly bills are paid directly from my checking account.",
+    "exampleVi": "Hầu hết các hóa đơn hàng tháng của tôi được thanh toán trực tiếp từ tài khoản thanh toán của tôi.",
+    "collocations": [
+      "open a checking account",
+      "checking account fee",
+      "link a checking account"
+    ],
+    "synonyms": [
+      "current account"
+    ],
+    "wordFamily": [
+      "check",
+      "checking",
+      "account"
+    ],
+    "day": 39
+  },
+  {
+    "id": "cost-of-living-phrase",
+    "word": "cost of living",
+    "baseWord": "live",
+    "type": "phrase",
+    "meaning": "chi phí sinh hoạt hàng ngày (nhà ở, ăn uống, đi lại)",
+    "pronunciation": "/kɔːst əv ˈlɪvɪŋ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cost of living in New York is much higher than in Houston.",
+    "exampleVi": "Chi phí sinh hoạt ở New York cao hơn nhiều so với ở Houston.",
+    "collocations": [
+      "high cost of living",
+      "cost of living index",
+      "cost of living adjustment"
+    ],
+    "synonyms": [
+      "living expenses"
+    ],
+    "wordFamily": [
+      "cost",
+      "live",
+      "living"
+    ],
+    "day": 39
+  },
+  {
+    "id": "credit-limit-phrase",
+    "word": "credit limit",
+    "baseWord": "limit",
+    "type": "phrase",
+    "meaning": "hạn mức tín dụng tối đa của thẻ tín dụng",
+    "pronunciation": "/ˈkredɪt ˈlɪmɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The bank agreed to increase the credit limit on my card.",
+    "exampleVi": "Ngân hàng đã đồng ý tăng hạn mức tín dụng trên thẻ của tôi.",
+    "collocations": [
+      "exceed credit limit",
+      "request credit limit increase",
+      "maximum credit limit"
+    ],
+    "synonyms": [
+      "credit line"
+    ],
+    "wordFamily": [
+      "credit",
+      "limit"
+    ],
+    "day": 39
+  },
+  {
+    "id": "credit-score-phrase",
+    "word": "credit score",
+    "baseWord": "score",
+    "type": "phrase",
+    "meaning": "điểm tín dụng cá nhân (đánh giá độ tin cậy khi vay nợ)",
+    "pronunciation": "/ˈkredɪt skɔːr/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A high credit score helps you qualify for low interest rate loans.",
+    "exampleVi": "Một điểm tín dụng cao giúp bạn đủ điều kiện vay các khoản vay lãi suất thấp.",
+    "collocations": [
+      "improve credit score",
+      "check credit score",
+      "excellent credit score"
+    ],
+    "synonyms": [
+      "credit rating"
+    ],
+    "wordFamily": [
+      "credit",
+      "score"
+    ],
+    "day": 39
+  },
+  {
+    "id": "debt-consolidation-phrase",
+    "word": "debt consolidation",
+    "baseWord": "solid",
+    "type": "phrase",
+    "meaning": "sự hợp nhất các khoản nợ (gộp nhiều nợ thành một khoản vay duy nhất)",
+    "pronunciation": "/det kənˌsɑːlɪˈdeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He applied for a debt consolidation loan to lower his monthly payments.",
+    "exampleVi": "Anh ấy đã nộp đơn xin một khoản vay hợp nhất nợ để giảm các khoản thanh toán hàng tháng của mình.",
+    "collocations": [
+      "debt consolidation loan",
+      "apply for debt consolidation",
+      "debt consolidation program"
+    ],
+    "synonyms": [
+      "loan consolidation"
+    ],
+    "wordFamily": [
+      "debt",
+      "consolidate",
+      "consolidation"
+    ],
+    "day": 39
+  },
+  {
+    "id": "default-verb",
+    "word": "default",
+    "baseWord": "default",
+    "type": "verb",
+    "meaning": "không thực hiện được nghĩa vụ thanh toán nợ nần đúng hạn, vỡ nợ",
+    "pronunciation": "/dɪˈfɔːlt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "If you default on your mortgage, the bank can seize your home.",
+    "exampleVi": "Nếu bạn không trả được nợ thế chấp của mình, ngân hàng có thể tịch thu nhà của bạn.",
+    "collocations": [
+      "default on a loan",
+      "default on payments",
+      "risk of defaulting"
+    ],
+    "synonyms": [
+      "fail to pay",
+      "defaulted"
+    ],
+    "wordFamily": [
+      "defaulter"
+    ],
+    "day": 39
+  },
+  {
+    "id": "direct-deposit-phrase",
+    "word": "direct deposit",
+    "baseWord": "deposit",
+    "type": "phrase",
+    "meaning": "hình thức gửi tiền trực tiếp (chuyển khoản lương trực tiếp)",
+    "pronunciation": "/dəˈrekt dɪˈpɑːzɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees prefer direct deposit because it is faster than a paper check.",
+    "exampleVi": "Nhân viên thích hình thức chuyển khoản trực tiếp hơn vì nó nhanh hơn séc bằng giấy.",
+    "collocations": [
+      "receive via direct deposit",
+      "set up direct deposit",
+      "direct deposit authorization"
+    ],
+    "synonyms": [
+      "electronic transfer"
+    ],
+    "wordFamily": [
+      "direct",
+      "deposit"
+    ],
+    "day": 39
+  },
+  {
+    "id": "foreclosure-noun",
+    "word": "foreclosure",
+    "baseWord": "close",
+    "type": "noun",
+    "meaning": "sự tịch thu tài sản thế chấp do con nợ không trả được nợ",
+    "pronunciation": "/fɔːrˈkloʊʒər/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many families faced foreclosure during the housing market collapse.",
+    "exampleVi": "Nhiều gia đình đã phải đối mặt với việc tịch thu nhà trong thời kỳ sụp đổ thị trường nhà đất.",
+    "collocations": [
+      "foreclosure proceedings",
+      "avoid foreclosure",
+      "foreclosure sale"
+    ],
+    "synonyms": [
+      "repossession",
+      "seizure"
+    ],
+    "wordFamily": [
+      "foreclose"
+    ],
+    "day": 39
+  },
+  {
+    "id": "insufficient-funds-phrase",
+    "word": "insufficient funds",
+    "baseWord": "fund",
+    "type": "phrase",
+    "meaning": "không đủ tiền trong tài khoản để thanh toán",
+    "pronunciation": "/ˌɪnsəˈfɪʃnt fʌndz/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The transaction was declined because of insufficient funds.",
+    "exampleVi": "Giao dịch đã bị từ chối vì không đủ tiền trong tài khoản.",
+    "collocations": [
+      "due to insufficient funds",
+      "insufficient funds fee",
+      "notice of insufficient funds"
+    ],
+    "synonyms": [
+      "non-sufficient funds",
+      "lack of money"
+    ],
+    "wordFamily": [
+      "sufficient",
+      "funds"
+    ],
+    "day": 39
+  },
+  {
+    "id": "overdraft-noun",
+    "word": "overdraft",
+    "baseWord": "draft",
+    "type": "noun",
+    "meaning": "sự thấu chi (rút quá số tiền có trong tài khoản)",
+    "pronunciation": "/ˈoʊvərdræft/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He had to pay a thirty-dollar fee for a bank overdraft.",
+    "exampleVi": "Anh ấy đã phải trả một khoản phí ba mươi đô la cho một vụ thấu chi ngân hàng.",
+    "collocations": [
+      "overdraft protection",
+      "overdraft fee",
+      "bank overdraft"
+    ],
+    "synonyms": [
+      "deficit"
+    ],
+    "wordFamily": [
+      "overdraw"
+    ],
+    "day": 39
+  },
+  {
+    "id": "overdraw-verb",
+    "word": "overdraw",
+    "baseWord": "draw",
+    "type": "verb",
+    "meaning": "thấu chi, rút quá số tiền ký gửi tài khoản",
+    "pronunciation": "/ˌoʊvərˈdrɔː/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "Be careful not to overdraw your account, or you will face penalties.",
+    "exampleVi": "Hãy cẩn thận đừng để thấu chi tài khoản của bạn, nếu không bạn sẽ đối mặt với các khoản phạt.",
+    "collocations": [
+      "overdraw an account",
+      "overdraw by a hundred dollars",
+      "avoid overdrawing"
+    ],
+    "synonyms": [
+      "overspend"
+    ],
+    "wordFamily": [
+      "overdraft"
+    ],
+    "day": 39
+  },
+  {
+    "id": "savings-account-phrase",
+    "word": "savings account",
+    "baseWord": "save",
+    "type": "phrase",
+    "meaning": "tài khoản tiết kiệm tích lũy nhận lãi suất",
+    "pronunciation": "/ˈseɪvɪŋz əˈkaʊnt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "I set up a savings account to prepare for emergency expenses.",
+    "exampleVi": "Tôi đã mở một tài khoản tiết kiệm để chuẩn bị cho các chi phí khẩn cấp.",
+    "collocations": [
+      "open a savings account",
+      "savings account interest rate",
+      "deposit into a savings account"
+    ],
+    "synonyms": [
+      "deposit account"
+    ],
+    "wordFamily": [
+      "save",
+      "savings",
+      "account"
+    ],
+    "day": 39
+  },
+  {
+    "id": "transaction-fee-phrase",
+    "word": "transaction fee",
+    "baseWord": "fee",
+    "type": "phrase",
+    "meaning": "phí giao dịch chuyển khoản/thanh toán",
+    "pronunciation": "/trænˈzækʃn fiː/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Some credit cards do not charge a transaction fee for overseas purchases.",
+    "exampleVi": "Một số thẻ tín dụng không tính phí giao dịch cho các giao dịch mua hàng ở nước ngoài.",
+    "collocations": [
+      "no transaction fee",
+      "international transaction fee",
+      "impose a transaction fee"
+    ],
+    "synonyms": [
+      "service fee",
+      "handling charge"
+    ],
+    "wordFamily": [
+      "transaction",
+      "fee"
+    ],
+    "day": 39
+  },
+  {
+    "id": "wire-transfer-phrase",
+    "word": "wire transfer",
+    "baseWord": "transfer",
+    "type": "phrase",
+    "meaning": "chuyển tiền điện tử trực tiếp giữa các ngân hàng",
+    "pronunciation": "/ˈwaɪər ˈtrænsfɜːr/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "I will send the payment via wire transfer this afternoon.",
+    "exampleVi": "Tôi sẽ gửi khoản thanh toán qua hình thức chuyển khoản ngân hàng điện tử chiều nay.",
+    "collocations": [
+      "bank wire transfer",
+      "international wire transfer",
+      "send a wire transfer"
+    ],
+    "synonyms": [
+      "telegraphic transfer",
+      "electronic fund transfer"
+    ],
+    "wordFamily": [
+      "wire",
+      "transfer"
+    ],
+    "day": 39
+  },
+  {
+    "id": "withdraw-verb",
+    "word": "withdraw",
+    "baseWord": "withdraw",
+    "type": "verb",
+    "meaning": "rút tiền mặt, rút lui khỏi dự án/cuộc thi",
+    "pronunciation": "/wɪθˈdrɔː/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "You can withdraw up to five hundred dollars per day from the ATM.",
+    "exampleVi": "Bạn có thể rút tối đa năm trăm đô la mỗi ngày từ máy ATM.",
+    "collocations": [
+      "withdraw money",
+      "withdraw from the market",
+      "withdraw a statement"
+    ],
+    "synonyms": [
+      "take out",
+      "retract",
+      "pull out"
+    ],
+    "wordFamily": [
+      "withdrawal"
+    ],
+    "day": 39
+  },
+  {
+    "id": "withdrawal-noun",
+    "word": "withdrawal",
+    "baseWord": "withdraw",
+    "type": "noun",
+    "meaning": "sự rút tiền mặt ra khỏi tài khoản, sự thu hồi",
+    "pronunciation": "/wɪθˈdrɔːəl/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The customer made a large cash withdrawal from the local branch.",
+    "exampleVi": "Khách hàng đã thực hiện một giao dịch rút tiền mặt lớn từ chi nhánh địa phương.",
+    "collocations": [
+      "cash withdrawal",
+      "make a withdrawal",
+      "withdrawal limit"
+    ],
+    "synonyms": [
+      "removal",
+      "taking out"
+    ],
+    "wordFamily": [
+      "withdraw"
+    ],
+    "day": 39
+  },
+  {
+    "id": "annual-percentage-rate-phrase",
+    "word": "annual percentage rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "lãi suất phần trăm hàng năm (APR, bao gồm phí dịch vụ phát sinh)",
+    "pronunciation": "/ˈænjuəl pərˈsentɪdʒ reɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "It is important to check the annual percentage rate before signing the contract.",
+    "exampleVi": "Việc kiểm tra lãi suất phần trăm hàng năm trước khi ký hợp đồng là rất quan trọng.",
+    "collocations": [
+      "low annual percentage rate",
+      "calculate annual percentage rate",
+      "annual percentage rate of interest"
+    ],
+    "synonyms": [
+      "yearly interest rate"
+    ],
+    "wordFamily": [
+      "annual",
+      "percent",
+      "percentage",
+      "rate"
+    ],
+    "day": 40
+  },
+  {
+    "id": "asset-noun",
+    "word": "asset",
+    "baseWord": "asset",
+    "type": "noun",
+    "meaning": "tài sản, của cải có ích",
+    "pronunciation": "/ˈæset/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The firm's assets include factories, machinery, and trademarks.",
+    "exampleVi": "Tài sản của công ty bao gồm các nhà máy, máy móc và thương hiệu.",
+    "collocations": [
+      "liquid assets",
+      "fixed assets",
+      "seize assets"
+    ],
+    "synonyms": [
+      "property",
+      "estate",
+      "capital"
+    ],
+    "wordFamily": [],
+    "day": 40
+  },
+  {
+    "id": "capital-gain-phrase",
+    "word": "capital gain",
+    "baseWord": "gain",
+    "type": "phrase",
+    "meaning": "lợi nhuận chênh lệch vốn đầu tư (khi bán tài sản giá cao hơn lúc mua)",
+    "pronunciation": "/ˈkæpɪtl ɡeɪn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You may have to pay tax on your capital gains from stock sales.",
+    "exampleVi": "Bạn có thể phải nộp thuế đối với các khoản lợi nhuận chênh lệch vốn từ việc bán cổ phiếu.",
+    "collocations": [
+      "tax on capital gains",
+      "realize a capital gain",
+      "substantial capital gain"
+    ],
+    "synonyms": [
+      "investment return",
+      "capital profit"
+    ],
+    "wordFamily": [
+      "capital",
+      "gain"
+    ],
+    "day": 40
+  },
+  {
+    "id": "currency-noun",
+    "word": "currency",
+    "baseWord": "currency",
+    "type": "noun",
+    "meaning": "tiền tệ quốc gia, sự lưu hành",
+    "pronunciation": "/ˈkɜːrənsi/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The yen is the official currency of Japan.",
+    "exampleVi": "Đồng yên là tiền tệ chính thức của Nhật Bản.",
+    "collocations": [
+      "foreign currency",
+      "local currency",
+      "currency market"
+    ],
+    "synonyms": [
+      "money",
+      "cash"
+    ],
+    "wordFamily": [
+      "current"
+    ],
+    "day": 40
+  },
+  {
+    "id": "diversification-noun",
+    "word": "diversification",
+    "baseWord": "diverse",
+    "type": "noun",
+    "meaning": "sự đa dạng hóa đầu tư/sản xuất",
+    "pronunciation": "/daɪˌvɜːrsɪfɪˈkeɪʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Asset diversification is key to reducing investment risk.",
+    "exampleVi": "Đa dạng hóa tài sản là chìa khóa để giảm thiểu rủi ro đầu tư.",
+    "collocations": [
+      "portfolio diversification",
+      "product diversification",
+      "business diversification"
+    ],
+    "synonyms": [
+      "variance",
+      "multiplicity"
+    ],
+    "wordFamily": [
+      "diverse",
+      "diversify",
+      "diversity"
+    ],
+    "day": 40
+  },
+  {
+    "id": "diversify-verb",
+    "word": "diversify",
+    "baseWord": "diverse",
+    "type": "verb",
+    "meaning": "đa dạng hóa danh mục/sản phẩm",
+    "pronunciation": "/daɪˈvɜːrsɪfaɪ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The retail group decided to diversify into online grocery delivery.",
+    "exampleVi": "Tập đoàn bán lẻ đã quyết định đa dạng hóa sang lĩnh vực giao thực phẩm trực tuyến.",
+    "collocations": [
+      "diversify investment",
+      "diversify products",
+      "diversify portfolio"
+    ],
+    "synonyms": [
+      "vary",
+      "branch out",
+      "expand"
+    ],
+    "wordFamily": [
+      "diverse",
+      "diversification",
+      "diversity"
+    ],
+    "day": 40
+  },
+  {
+    "id": "equity-noun",
+    "word": "equity",
+    "baseWord": "equity",
+    "type": "noun",
+    "meaning": "vốn chủ sở hữu, tính công bằng, giá trị thực tế tài sản sau khi trừ nợ",
+    "pronunciation": "/ˈekwəti/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He has built up significant equity in his home over the past decade.",
+    "exampleVi": "Anh ấy đã tích lũy được vốn chủ sở hữu đáng kể trong ngôi nhà của mình trong thập kỷ qua.",
+    "collocations": [
+      "home equity",
+      "brand equity",
+      "equity market"
+    ],
+    "synonyms": [
+      "ownership interest",
+      "fairness",
+      "value"
+    ],
+    "wordFamily": [
+      "equitable",
+      "equitably"
+    ],
+    "day": 40
+  },
+  {
+    "id": "exchange-rate-phrase",
+    "word": "exchange rate",
+    "baseWord": "rate",
+    "type": "phrase",
+    "meaning": "tỷ giá hối đoái tiền tệ",
+    "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Check the exchange rate before exchanging your currency at the airport.",
+    "exampleVi": "Hãy kiểm tra tỷ giá hối đoái trước khi đổi tiền tệ của bạn tại sân bay.",
+    "collocations": [
+      "foreign exchange rate",
+      "favorable exchange rate",
+      "fluctuating exchange rate"
+    ],
+    "synonyms": [
+      "currency rate"
+    ],
+    "wordFamily": [
+      "exchange",
+      "rate"
+    ],
+    "day": 40
+  },
+  {
+    "id": "fiscal-year-phrase",
+    "word": "fiscal year",
+    "baseWord": "fiscal",
+    "type": "phrase",
+    "meaning": "năm tài chính, năm tài khóa",
+    "pronunciation": "/ˈfɪskl jɪər/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our profits doubled in the last fiscal year.",
+    "exampleVi": "Lợi nhuận của chúng tôi đã tăng gấp đôi trong năm tài chính vừa qua.",
+    "collocations": [
+      "current fiscal year",
+      "previous fiscal year",
+      "fiscal year end"
+    ],
+    "synonyms": [
+      "financial year"
+    ],
+    "wordFamily": [
+      "fiscal"
+    ],
+    "day": 40
+  },
+  {
+    "id": "gross-profit-phrase",
+    "word": "gross profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "lợi nhuận gộp (lợi nhuận trước khi trừ chi phí vận hành và thuế)",
+    "pronunciation": "/ɡroʊs ˈprɑːfɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The store's gross profit was high, but high overhead reduced the net profit.",
+    "exampleVi": "Lợi nhuận gộp của cửa hàng cao, nhưng chi phí gián tiếp cao đã làm giảm lợi nhuận ròng.",
+    "collocations": [
+      "calculate gross profit",
+      "quarterly gross profit",
+      "gross profit margin"
+    ],
+    "synonyms": [
+      "pre-tax profit"
+    ],
+    "wordFamily": [
+      "gross",
+      "profit"
+    ],
+    "day": 40
+  },
+  {
+    "id": "liquid-asset-phrase",
+    "word": "liquid asset",
+    "baseWord": "liquid",
+    "type": "phrase",
+    "meaning": "tài sản thanh khoản (như tiền mặt, tài khoản thanh toán)",
+    "pronunciation": "/ˈlɪkwɪd ˈæset/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "It is important to keep some liquid assets to meet emergency expenses.",
+    "exampleVi": "Việc giữ một số tài sản thanh khoản để đáp ứng các chi phí khẩn cấp là rất quan trọng.",
+    "collocations": [
+      "hold liquid assets",
+      "cash and other liquid assets",
+      "convert into liquid assets"
+    ],
+    "synonyms": [
+      "cash assets"
+    ],
+    "wordFamily": [
+      "liquid",
+      "asset"
+    ],
+    "day": 40
+  },
+  {
+    "id": "liquidity-noun",
+    "word": "liquidity",
+    "baseWord": "liquid",
+    "type": "noun",
+    "meaning": "tính thanh khoản, khả năng chuyển đổi tài sản thành tiền mặt",
+    "pronunciation": "/lɪˈkwɪdəti/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The firm faces a liquidity crisis because it cannot sell its real estate quickly.",
+    "exampleVi": "Công ty đối mặt với một cuộc khủng hoảng thanh khoản vì không thể bán bất động sản của mình một cách nhanh chóng.",
+    "collocations": [
+      "market liquidity",
+      "high liquidity",
+      "liquidity ratio"
+    ],
+    "synonyms": [
+      "convertibility"
+    ],
+    "wordFamily": [
+      "liquid",
+      "liquidate",
+      "liquidation"
+    ],
+    "day": 40
+  },
+  {
+    "id": "mutual-fund-phrase",
+    "word": "mutual fund",
+    "baseWord": "fund",
+    "type": "phrase",
+    "meaning": "quỹ đầu tư tương hỗ (gộp tiền từ nhiều nhà đầu tư để mua chứng khoán)",
+    "pronunciation": "/ˈmjuːtʃuəl fʌnd/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He decided to buy shares in a mutual fund to diversify his investments.",
+    "exampleVi": "Anh ấy đã quyết định mua cổ phần trong một quỹ đầu tư tương hỗ để đa dạng hóa các khoản đầu tư của mình.",
+    "collocations": [
+      "invest in a mutual fund",
+      "mutual fund portfolio",
+      "mutual fund manager"
+    ],
+    "synonyms": [
+      "investment fund"
+    ],
+    "wordFamily": [
+      "mutual",
+      "fund"
+    ],
+    "day": 40
+  },
+  {
+    "id": "net-profit-phrase",
+    "word": "net profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "lợi nhuận ròng, lãi thuần (lợi nhuận thực tế sau khi trừ tất cả chi phí)",
+    "pronunciation": "/net ˈprɑːfɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's net profit increased by ten percent this fiscal year.",
+    "exampleVi": "Lợi nhuận ròng của công ty đã tăng mười phần trăm trong năm tài chính này.",
+    "collocations": [
+      "net profit margin",
+      "increase net profit",
+      "annual net profit"
+    ],
+    "synonyms": [
+      "net income",
+      "clean profit"
+    ],
+    "wordFamily": [
+      "net",
+      "profit"
+    ],
+    "day": 40
+  },
+  {
+    "id": "net-worth-phrase",
+    "word": "net worth",
+    "baseWord": "worth",
+    "type": "phrase",
+    "meaning": "giá trị tài sản ròng (tổng tài sản trừ đi tổng nợ)",
+    "pronunciation": "/net wɜːrθ/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The business tycoon has an estimated net worth of five billion dollars.",
+    "exampleVi": "Trùm kinh doanh có giá trị tài sản ròng ước tính khoảng năm tỷ đô la.",
+    "collocations": [
+      "estimate net worth",
+      "personal net worth",
+      "total net worth"
+    ],
+    "synonyms": [
+      "net assets"
+    ],
+    "wordFamily": [
+      "net",
+      "worth",
+      "worthy"
+    ],
+    "day": 40
+  },
+  {
+    "id": "return-on-investment-phrase",
+    "word": "return on investment",
+    "baseWord": "invest",
+    "type": "phrase",
+    "meaning": "tỷ suất sinh lời trên vốn đầu tư, hiệu quả đầu tư (ROI)",
+    "pronunciation": "/rɪˈtɜːrn ɑːn ɪnˈvestmənt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The business proposal promises a high return on investment within two years.",
+    "exampleVi": "Đề xuất kinh doanh hứa hẹn tỷ suất sinh lời trên vốn đầu tư cao trong vòng hai năm.",
+    "collocations": [
+      "high return on investment",
+      "calculate return on investment",
+      "expected return on investment"
+    ],
+    "synonyms": [
+      "yield on investment",
+      "ROI"
+    ],
+    "wordFamily": [
+      "return",
+      "invest",
+      "investment"
+    ],
+    "day": 40
+  },
+  {
+    "id": "stock-market-phrase",
+    "word": "stock market",
+    "baseWord": "market",
+    "type": "phrase",
+    "meaning": "thị trường chứng khoán",
+    "pronunciation": "/stɑːk ˈmɑːrkɪt/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The stock market crashed, causing widespread financial concern.",
+    "exampleVi": "Thị trường chứng khoán sụp đổ, gây ra sự lo ngại tài chính trên diện rộng.",
+    "collocations": [
+      "invest in the stock market",
+      "stock market crash",
+      "stock market trends"
+    ],
+    "synonyms": [
+      "share market",
+      "equity market"
+    ],
+    "wordFamily": [
+      "stock",
+      "market"
+    ],
+    "day": 40
+  },
+  {
+    "id": "tax-deduction-phrase",
+    "word": "tax deduction",
+    "baseWord": "deduct",
+    "type": "phrase",
+    "meaning": "khoản giảm trừ gia cảnh, khấu trừ thuế",
+    "pronunciation": "/tæks dɪˈdʌkʃn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Donations to charities are eligible for a tax deduction.",
+    "exampleVi": "Các khoản quyên góp cho các hội từ thiện đủ điều kiện để được khấu trừ thuế.",
+    "collocations": [
+      "claim a tax deduction",
+      "eligible tax deduction",
+      "maximum tax deduction"
+    ],
+    "synonyms": [
+      "tax write-off",
+      "tax break"
+    ],
+    "wordFamily": [
+      "tax",
+      "deduct",
+      "deduction"
+    ],
+    "day": 40
+  },
+  {
+    "id": "tax-return-phrase",
+    "word": "tax return",
+    "baseWord": "return",
+    "type": "phrase",
+    "meaning": "tờ khai thuế, hồ sơ kê khai hoàn thuế",
+    "pronunciation": "/tæks rɪˈtɜːrn/",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He hired an accountant to help him file his annual tax return.",
+    "exampleVi": "Anh ấy đã thuê một kế toán để giúp anh ấy nộp tờ khai thuế hàng năm.",
+    "collocations": [
+      "file a tax return",
+      "annual tax return",
+      "joint tax return"
+    ],
+    "synonyms": [
+      "tax declaration"
+    ],
+    "wordFamily": [
+      "tax",
+      "return"
+    ],
+    "day": 40
+  },
+  {
+    "id": "write-off-noun",
+    "word": "write-off",
+    "baseWord": "write-off",
+    "type": "noun",
+    "meaning": "sự xóa nợ, sự khấu trừ thuế do mất mát tài sản",
+    "pronunciation": "/ˈraɪt ɔːf/",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The bank had to take a massive write-off on its unpaid commercial loans.",
+    "exampleVi": "Ngân hàng đã phải thực hiện một đợt xóa nợ lớn đối với các khoản vay thương mại không trả được.",
+    "collocations": [
+      "total write-off",
+      "tax write-off",
+      "take a write-off"
+    ],
+    "synonyms": [
+      "cancellation",
+      "deduction"
+    ],
+    "wordFamily": [],
+    "day": 40
+  }
+]

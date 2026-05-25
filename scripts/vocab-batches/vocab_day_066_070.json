@@ -1,0 +1,2791 @@
+[
+  {
+    "id": "evacuation-route-phrase",
+    "word": "evacuation route",
+    "baseWord": "route",
+    "type": "phrase",
+    "meaning": "tuyến sơ tán",
+    "pronunciation": "/evacuation route/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the evacuation route carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tuyến sơ tán cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm evacuation route",
+      "evacuation route details",
+      "review evacuation route"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "route"
+    ],
+    "day": 66
+  },
+  {
+    "id": "exit-route-phrase",
+    "word": "exit route",
+    "baseWord": "route",
+    "type": "phrase",
+    "meaning": "đường thoát hiểm",
+    "pronunciation": "/exit route/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the exit route carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đường thoát hiểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm exit route",
+      "exit route details",
+      "review exit route"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "route"
+    ],
+    "day": 66
+  },
+  {
+    "id": "fire-drill-phrase",
+    "word": "fire drill",
+    "baseWord": "drill",
+    "type": "phrase",
+    "meaning": "diễn tập phòng cháy",
+    "pronunciation": "/fire drill/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the fire drill carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét diễn tập phòng cháy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm fire drill",
+      "fire drill details",
+      "review fire drill"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "drill"
+    ],
+    "day": 66
+  },
+  {
+    "id": "first-aid-kit-phrase",
+    "word": "first-aid kit",
+    "baseWord": "kit",
+    "type": "phrase",
+    "meaning": "bộ sơ cứu",
+    "pronunciation": "/first-aid kit/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the first-aid kit carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bộ sơ cứu cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm first-aid kit",
+      "first-aid kit details",
+      "review first-aid kit"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "kit"
+    ],
+    "day": 66
+  },
+  {
+    "id": "hard-hat-phrase",
+    "word": "hard hat",
+    "baseWord": "hat",
+    "type": "phrase",
+    "meaning": "mũ bảo hộ",
+    "pronunciation": "/hard hat/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hard hat carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mũ bảo hộ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hard hat",
+      "hard hat details",
+      "review hard hat"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "hat"
+    ],
+    "day": 66
+  },
+  {
+    "id": "hazard-inspection-phrase",
+    "word": "hazard inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "kiểm tra mối nguy",
+    "pronunciation": "/hazard inspection/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hazard inspection carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm tra mối nguy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hazard inspection",
+      "hazard inspection details",
+      "review hazard inspection"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "inspection"
+    ],
+    "day": 66
+  },
+  {
+    "id": "hazard-report-phrase",
+    "word": "hazard report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "báo cáo mối nguy",
+    "pronunciation": "/hazard report/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hazard report carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét báo cáo mối nguy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hazard report",
+      "hazard report details",
+      "review hazard report"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "report"
+    ],
+    "day": 66
+  },
+  {
+    "id": "incident-log-phrase",
+    "word": "incident log",
+    "baseWord": "log",
+    "type": "phrase",
+    "meaning": "sổ ghi sự cố",
+    "pronunciation": "/incident log/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the incident log carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sổ ghi sự cố cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm incident log",
+      "incident log details",
+      "review incident log"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "log"
+    ],
+    "day": 66
+  },
+  {
+    "id": "injury-claim-phrase",
+    "word": "injury claim",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "yêu cầu bồi thường chấn thương",
+    "pronunciation": "/injury claim/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the injury claim carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét yêu cầu bồi thường chấn thương cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm injury claim",
+      "injury claim details",
+      "review injury claim"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "claim"
+    ],
+    "day": 66
+  },
+  {
+    "id": "medical-leave-phrase",
+    "word": "medical leave",
+    "baseWord": "leave",
+    "type": "phrase",
+    "meaning": "nghỉ phép y tế",
+    "pronunciation": "/medical leave/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the medical leave carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nghỉ phép y tế cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm medical leave",
+      "medical leave details",
+      "review medical leave"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "leave"
+    ],
+    "day": 66
+  },
+  {
+    "id": "occupational-health-phrase",
+    "word": "occupational health",
+    "baseWord": "health",
+    "type": "phrase",
+    "meaning": "sức khỏe nghề nghiệp",
+    "pronunciation": "/occupational health/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the occupational health carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sức khỏe nghề nghiệp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm occupational health",
+      "occupational health details",
+      "review occupational health"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "health"
+    ],
+    "day": 66
+  },
+  {
+    "id": "personal-protective-equipment-phrase",
+    "word": "personal protective equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "thiết bị bảo hộ cá nhân",
+    "pronunciation": "/personal protective equipment/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the personal protective equipment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thiết bị bảo hộ cá nhân cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm personal protective equipment",
+      "personal protective equipment details",
+      "review personal protective equipment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "equipment"
+    ],
+    "day": 66
+  },
+  {
+    "id": "protective-eyewear-phrase",
+    "word": "protective eyewear",
+    "baseWord": "eyewear",
+    "type": "phrase",
+    "meaning": "kính bảo vệ mắt",
+    "pronunciation": "/protective eyewear/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the protective eyewear carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kính bảo vệ mắt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm protective eyewear",
+      "protective eyewear details",
+      "review protective eyewear"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "eyewear"
+    ],
+    "day": 66
+  },
+  {
+    "id": "respirator-noun",
+    "word": "respirator",
+    "baseWord": "respirator",
+    "type": "noun",
+    "meaning": "mặt nạ phòng độc",
+    "pronunciation": "/respirator/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the respirator carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mặt nạ phòng độc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm respirator",
+      "respirator details",
+      "review respirator"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "respirator"
+    ],
+    "day": 66
+  },
+  {
+    "id": "safety-compliance-officer-phrase",
+    "word": "safety compliance officer",
+    "baseWord": "officer",
+    "type": "phrase",
+    "meaning": "nhân viên tuân thủ an toàn",
+    "pronunciation": "/safety compliance officer/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the safety compliance officer carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nhân viên tuân thủ an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm safety compliance officer",
+      "safety compliance officer details",
+      "review safety compliance officer"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "officer"
+    ],
+    "day": 66
+  },
+  {
+    "id": "safety-guideline-phrase",
+    "word": "safety guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "hướng dẫn an toàn",
+    "pronunciation": "/safety guideline/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the safety guideline carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hướng dẫn an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm safety guideline",
+      "safety guideline details",
+      "review safety guideline"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guideline"
+    ],
+    "day": 66
+  },
+  {
+    "id": "warning-sign-phrase",
+    "word": "warning sign",
+    "baseWord": "sign",
+    "type": "phrase",
+    "meaning": "biển cảnh báo",
+    "pronunciation": "/warning sign/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the warning sign carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét biển cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm warning sign",
+      "warning sign details",
+      "review warning sign"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sign"
+    ],
+    "day": 66
+  },
+  {
+    "id": "wellness-program-phrase",
+    "word": "wellness program",
+    "baseWord": "program",
+    "type": "phrase",
+    "meaning": "chương trình chăm sóc sức khỏe",
+    "pronunciation": "/wellness program/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the wellness program carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chương trình chăm sóc sức khỏe cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm wellness program",
+      "wellness program details",
+      "review wellness program"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "program"
+    ],
+    "day": 66
+  },
+  {
+    "id": "workplace-injury-phrase",
+    "word": "workplace injury",
+    "baseWord": "injury",
+    "type": "phrase",
+    "meaning": "chấn thương tại nơi làm việc",
+    "pronunciation": "/workplace injury/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the workplace injury carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chấn thương tại nơi làm việc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm workplace injury",
+      "workplace injury details",
+      "review workplace injury"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "injury"
+    ],
+    "day": 66
+  },
+  {
+    "id": "workplace-risk-review-phrase",
+    "word": "workplace risk review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "đánh giá rủi ro nơi làm việc",
+    "pronunciation": "/workplace risk review/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the workplace risk review carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đánh giá rủi ro nơi làm việc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm workplace risk review",
+      "workplace risk review details",
+      "review workplace risk review"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "review"
+    ],
+    "day": 66
+  },
+  {
+    "id": "air-quality-phrase",
+    "word": "air quality",
+    "baseWord": "quality",
+    "type": "phrase",
+    "meaning": "chất lượng không khí",
+    "pronunciation": "/air quality/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the air quality carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chất lượng không khí cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm air quality",
+      "air quality details",
+      "review air quality"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "quality"
+    ],
+    "day": 67
+  },
+  {
+    "id": "clinic-appointment-phrase",
+    "word": "clinic appointment",
+    "baseWord": "appointment",
+    "type": "phrase",
+    "meaning": "cuộc hẹn phòng khám",
+    "pronunciation": "/clinic appointment/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the clinic appointment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cuộc hẹn phòng khám cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm clinic appointment",
+      "clinic appointment details",
+      "review clinic appointment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 67
+  },
+  {
+    "id": "contamination-noun",
+    "word": "contamination",
+    "baseWord": "contamination",
+    "type": "noun",
+    "meaning": "sự nhiễm bẩn",
+    "pronunciation": "/contamination/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the contamination carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự nhiễm bẩn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm contamination",
+      "contamination details",
+      "review contamination"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contamination"
+    ],
+    "day": 67
+  },
+  {
+    "id": "diagnosis-noun",
+    "word": "diagnosis",
+    "baseWord": "diagnosis",
+    "type": "noun",
+    "meaning": "chẩn đoán",
+    "pronunciation": "/diagnosis/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the diagnosis carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chẩn đoán cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm diagnosis",
+      "diagnosis details",
+      "review diagnosis"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "diagnosis"
+    ],
+    "day": 67
+  },
+  {
+    "id": "disinfectant-noun",
+    "word": "disinfectant",
+    "baseWord": "disinfectant",
+    "type": "noun",
+    "meaning": "chất khử trùng",
+    "pronunciation": "/disinfectant/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the disinfectant carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chất khử trùng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm disinfectant",
+      "disinfectant details",
+      "review disinfectant"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "disinfectant"
+    ],
+    "day": 67
+  },
+  {
+    "id": "doctor-order-phrase",
+    "word": "doctor order",
+    "baseWord": "order",
+    "type": "phrase",
+    "meaning": "chỉ định của bác sĩ",
+    "pronunciation": "/doctor order/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the doctor order carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chỉ định của bác sĩ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm doctor order",
+      "doctor order details",
+      "review doctor order"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "order"
+    ],
+    "day": 67
+  },
+  {
+    "id": "ergonomic-chair-phrase",
+    "word": "ergonomic chair",
+    "baseWord": "chair",
+    "type": "phrase",
+    "meaning": "ghế công thái học",
+    "pronunciation": "/ergonomic chair/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the ergonomic chair carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ghế công thái học cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm ergonomic chair",
+      "ergonomic chair details",
+      "review ergonomic chair"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "chair"
+    ],
+    "day": 67
+  },
+  {
+    "id": "exposure-noun",
+    "word": "exposure",
+    "baseWord": "exposure",
+    "type": "noun",
+    "meaning": "sự phơi nhiễm",
+    "pronunciation": "/exposure/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the exposure carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự phơi nhiễm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm exposure",
+      "exposure details",
+      "review exposure"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "exposure"
+    ],
+    "day": 67
+  },
+  {
+    "id": "fitness-center-phrase",
+    "word": "fitness center",
+    "baseWord": "center",
+    "type": "phrase",
+    "meaning": "trung tâm thể dục",
+    "pronunciation": "/fitness center/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the fitness center carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trung tâm thể dục cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm fitness center",
+      "fitness center details",
+      "review fitness center"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "center"
+    ],
+    "day": 67
+  },
+  {
+    "id": "hand-sanitizer-phrase",
+    "word": "hand sanitizer",
+    "baseWord": "sanitizer",
+    "type": "phrase",
+    "meaning": "dung dịch sát khuẩn tay",
+    "pronunciation": "/hand sanitizer/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hand sanitizer carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dung dịch sát khuẩn tay cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hand sanitizer",
+      "hand sanitizer details",
+      "review hand sanitizer"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sanitizer"
+    ],
+    "day": 67
+  },
+  {
+    "id": "health-screening-phrase",
+    "word": "health screening",
+    "baseWord": "screening",
+    "type": "phrase",
+    "meaning": "kiểm tra sức khỏe",
+    "pronunciation": "/health screening/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the health screening carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm tra sức khỏe cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm health screening",
+      "health screening details",
+      "review health screening"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "screening"
+    ],
+    "day": 67
+  },
+  {
+    "id": "insurance-coverage-phrase",
+    "word": "insurance coverage",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "phạm vi bảo hiểm",
+    "pronunciation": "/insurance coverage/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the insurance coverage carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phạm vi bảo hiểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm insurance coverage",
+      "insurance coverage details",
+      "review insurance coverage"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "coverage"
+    ],
+    "day": 67
+  },
+  {
+    "id": "medical-absence-phrase",
+    "word": "medical absence",
+    "baseWord": "absence",
+    "type": "phrase",
+    "meaning": "vắng mặt vì lý do y tế",
+    "pronunciation": "/medical absence/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the medical absence carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét vắng mặt vì lý do y tế cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm medical absence",
+      "medical absence details",
+      "review medical absence"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "absence"
+    ],
+    "day": 67
+  },
+  {
+    "id": "medical-record-phrase",
+    "word": "medical record",
+    "baseWord": "record",
+    "type": "phrase",
+    "meaning": "hồ sơ y tế",
+    "pronunciation": "/medical record/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the medical record carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hồ sơ y tế cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm medical record",
+      "medical record details",
+      "review medical record"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "record"
+    ],
+    "day": 67
+  },
+  {
+    "id": "sanitary-condition-phrase",
+    "word": "sanitary condition",
+    "baseWord": "condition",
+    "type": "phrase",
+    "meaning": "điều kiện vệ sinh",
+    "pronunciation": "/sanitary condition/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sanitary condition carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều kiện vệ sinh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sanitary condition",
+      "sanitary condition details",
+      "review sanitary condition"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "condition"
+    ],
+    "day": 67
+  },
+  {
+    "id": "temperature-check-phrase",
+    "word": "temperature check",
+    "baseWord": "check",
+    "type": "phrase",
+    "meaning": "kiểm tra nhiệt độ",
+    "pronunciation": "/temperature check/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the temperature check carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm tra nhiệt độ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm temperature check",
+      "temperature check details",
+      "review temperature check"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "check"
+    ],
+    "day": 67
+  },
+  {
+    "id": "treatment-plan-phrase",
+    "word": "treatment plan",
+    "baseWord": "plan",
+    "type": "phrase",
+    "meaning": "kế hoạch điều trị",
+    "pronunciation": "/treatment plan/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the treatment plan carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kế hoạch điều trị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm treatment plan",
+      "treatment plan details",
+      "review treatment plan"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "plan"
+    ],
+    "day": 67
+  },
+  {
+    "id": "vaccination-record-phrase",
+    "word": "vaccination record",
+    "baseWord": "record",
+    "type": "phrase",
+    "meaning": "hồ sơ tiêm chủng",
+    "pronunciation": "/vaccination record/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the vaccination record carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hồ sơ tiêm chủng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm vaccination record",
+      "vaccination record details",
+      "review vaccination record"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "record"
+    ],
+    "day": 67
+  },
+  {
+    "id": "ventilation-system-phrase",
+    "word": "ventilation system",
+    "baseWord": "system",
+    "type": "phrase",
+    "meaning": "hệ thống thông gió",
+    "pronunciation": "/ventilation system/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the ventilation system carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hệ thống thông gió cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm ventilation system",
+      "ventilation system details",
+      "review ventilation system"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "system"
+    ],
+    "day": 67
+  },
+  {
+    "id": "warning-symptom-phrase",
+    "word": "warning symptom",
+    "baseWord": "symptom",
+    "type": "phrase",
+    "meaning": "triệu chứng cảnh báo",
+    "pronunciation": "/warning symptom/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the warning symptom carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét triệu chứng cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm warning symptom",
+      "warning symptom details",
+      "review warning symptom"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "symptom"
+    ],
+    "day": 67
+  },
+  {
+    "id": "alarm-system-phrase",
+    "word": "alarm system",
+    "baseWord": "system",
+    "type": "phrase",
+    "meaning": "hệ thống báo động",
+    "pronunciation": "/alarm system/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the alarm system carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hệ thống báo động cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm alarm system",
+      "alarm system details",
+      "review alarm system"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "system"
+    ],
+    "day": 68
+  },
+  {
+    "id": "chemical-spill-phrase",
+    "word": "chemical spill",
+    "baseWord": "spill",
+    "type": "phrase",
+    "meaning": "sự cố tràn hóa chất",
+    "pronunciation": "/chemical spill/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the chemical spill carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự cố tràn hóa chất cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm chemical spill",
+      "chemical spill details",
+      "review chemical spill"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "spill"
+    ],
+    "day": 68
+  },
+  {
+    "id": "emergency-shower-phrase",
+    "word": "emergency shower",
+    "baseWord": "shower",
+    "type": "phrase",
+    "meaning": "vòi tắm khẩn cấp",
+    "pronunciation": "/emergency shower/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the emergency shower carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét vòi tắm khẩn cấp cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm emergency shower",
+      "emergency shower details",
+      "review emergency shower"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "shower"
+    ],
+    "day": 68
+  },
+  {
+    "id": "equipment-malfunction-phrase",
+    "word": "equipment malfunction",
+    "baseWord": "malfunction",
+    "type": "phrase",
+    "meaning": "sự cố thiết bị",
+    "pronunciation": "/equipment malfunction/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the equipment malfunction carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự cố thiết bị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm equipment malfunction",
+      "equipment malfunction details",
+      "review equipment malfunction"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "malfunction"
+    ],
+    "day": 68
+  },
+  {
+    "id": "eye-wash-station-phrase",
+    "word": "eye wash station",
+    "baseWord": "station",
+    "type": "phrase",
+    "meaning": "trạm rửa mắt",
+    "pronunciation": "/eye wash station/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the eye wash station carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trạm rửa mắt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm eye wash station",
+      "eye wash station details",
+      "review eye wash station"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "station"
+    ],
+    "day": 68
+  },
+  {
+    "id": "fire-suppression-canister-phrase",
+    "word": "fire suppression canister",
+    "baseWord": "canister",
+    "type": "phrase",
+    "meaning": "bình dập lửa",
+    "pronunciation": "/fire suppression canister/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the fire suppression canister carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bình dập lửa cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm fire suppression canister",
+      "fire suppression canister details",
+      "review fire suppression canister"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "canister"
+    ],
+    "day": 68
+  },
+  {
+    "id": "flammable-liquid-phrase",
+    "word": "flammable liquid",
+    "baseWord": "liquid",
+    "type": "phrase",
+    "meaning": "chất lỏng dễ cháy",
+    "pronunciation": "/flammable liquid/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the flammable liquid carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét chất lỏng dễ cháy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm flammable liquid",
+      "flammable liquid details",
+      "review flammable liquid"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "liquid"
+    ],
+    "day": 68
+  },
+  {
+    "id": "hazardous-material-phrase",
+    "word": "hazardous material",
+    "baseWord": "material",
+    "type": "phrase",
+    "meaning": "vật liệu nguy hiểm",
+    "pronunciation": "/hazardous material/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hazardous material carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét vật liệu nguy hiểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hazardous material",
+      "hazardous material details",
+      "review hazardous material"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "material"
+    ],
+    "day": 68
+  },
+  {
+    "id": "hearing-protection-phrase",
+    "word": "hearing protection",
+    "baseWord": "protection",
+    "type": "phrase",
+    "meaning": "bảo vệ thính giác",
+    "pronunciation": "/hearing protection/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the hearing protection carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảo vệ thính giác cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hearing protection",
+      "hearing protection details",
+      "review hearing protection"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "protection"
+    ],
+    "day": 68
+  },
+  {
+    "id": "lockout-procedure-phrase",
+    "word": "lockout procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "quy trình khóa nguồn",
+    "pronunciation": "/lockout procedure/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the lockout procedure carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét quy trình khóa nguồn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm lockout procedure",
+      "lockout procedure details",
+      "review lockout procedure"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "procedure"
+    ],
+    "day": 68
+  },
+  {
+    "id": "machine-guard-phrase",
+    "word": "machine guard",
+    "baseWord": "guard",
+    "type": "phrase",
+    "meaning": "tấm chắn máy",
+    "pronunciation": "/machine guard/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the machine guard carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tấm chắn máy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm machine guard",
+      "machine guard details",
+      "review machine guard"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "guard"
+    ],
+    "day": 68
+  },
+  {
+    "id": "near-miss-noun",
+    "word": "near miss",
+    "baseWord": "miss",
+    "type": "noun",
+    "meaning": "sự cố suýt xảy ra",
+    "pronunciation": "/near miss/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the near miss carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sự cố suýt xảy ra cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm near miss",
+      "near miss details",
+      "review near miss"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "miss"
+    ],
+    "day": 68
+  },
+  {
+    "id": "noise-level-phrase",
+    "word": "noise level",
+    "baseWord": "level",
+    "type": "phrase",
+    "meaning": "mức độ tiếng ồn",
+    "pronunciation": "/noise level/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the noise level carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét mức độ tiếng ồn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm noise level",
+      "noise level details",
+      "review noise level"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "level"
+    ],
+    "day": 68
+  },
+  {
+    "id": "protective-barrier-phrase",
+    "word": "protective barrier",
+    "baseWord": "barrier",
+    "type": "phrase",
+    "meaning": "rào chắn bảo vệ",
+    "pronunciation": "/protective barrier/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the protective barrier carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét rào chắn bảo vệ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm protective barrier",
+      "protective barrier details",
+      "review protective barrier"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "barrier"
+    ],
+    "day": 68
+  },
+  {
+    "id": "safety-data-sheet-phrase",
+    "word": "safety data sheet",
+    "baseWord": "sheet",
+    "type": "phrase",
+    "meaning": "phiếu dữ liệu an toàn",
+    "pronunciation": "/safety data sheet/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the safety data sheet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phiếu dữ liệu an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm safety data sheet",
+      "safety data sheet details",
+      "review safety data sheet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "sheet"
+    ],
+    "day": 68
+  },
+  {
+    "id": "smoke-detector-phrase",
+    "word": "smoke detector",
+    "baseWord": "detector",
+    "type": "phrase",
+    "meaning": "máy báo khói",
+    "pronunciation": "/smoke detector/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the smoke detector carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét máy báo khói cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm smoke detector",
+      "smoke detector details",
+      "review smoke detector"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "detector"
+    ],
+    "day": 68
+  },
+  {
+    "id": "sprinkler-system-phrase",
+    "word": "sprinkler system",
+    "baseWord": "system",
+    "type": "phrase",
+    "meaning": "hệ thống phun nước chữa cháy",
+    "pronunciation": "/sprinkler system/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sprinkler system carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hệ thống phun nước chữa cháy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sprinkler system",
+      "sprinkler system details",
+      "review sprinkler system"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "system"
+    ],
+    "day": 68
+  },
+  {
+    "id": "storage-cabinet-phrase",
+    "word": "storage cabinet",
+    "baseWord": "cabinet",
+    "type": "phrase",
+    "meaning": "tủ lưu trữ",
+    "pronunciation": "/storage cabinet/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the storage cabinet carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tủ lưu trữ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm storage cabinet",
+      "storage cabinet details",
+      "review storage cabinet"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "cabinet"
+    ],
+    "day": 68
+  },
+  {
+    "id": "trip-hazard-phrase",
+    "word": "trip hazard",
+    "baseWord": "hazard",
+    "type": "phrase",
+    "meaning": "nguy cơ vấp ngã",
+    "pronunciation": "/trip hazard/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the trip hazard carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nguy cơ vấp ngã cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm trip hazard",
+      "trip hazard details",
+      "review trip hazard"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "hazard"
+    ],
+    "day": 68
+  },
+  {
+    "id": "wet-floor-phrase",
+    "word": "wet floor",
+    "baseWord": "floor",
+    "type": "phrase",
+    "meaning": "sàn ướt",
+    "pronunciation": "/wet floor/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the wet floor carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sàn ướt cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm wet floor",
+      "wet floor details",
+      "review wet floor"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "floor"
+    ],
+    "day": 68
+  },
+  {
+    "id": "alert-staff-phrase",
+    "word": "alert staff",
+    "baseWord": "staff",
+    "type": "phrase",
+    "meaning": "cảnh báo nhân viên",
+    "pronunciation": "/alert staff/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the alert staff carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cảnh báo nhân viên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm alert staff",
+      "alert staff details",
+      "review alert staff"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "staff"
+    ],
+    "day": 69
+  },
+  {
+    "id": "cause-contamination-phrase",
+    "word": "cause contamination",
+    "baseWord": "contamination",
+    "type": "phrase",
+    "meaning": "gây nhiễm bẩn",
+    "pronunciation": "/cause contamination/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the cause contamination carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét gây nhiễm bẩn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm cause contamination",
+      "cause contamination details",
+      "review cause contamination"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contamination"
+    ],
+    "day": 69
+  },
+  {
+    "id": "disinfect-verb",
+    "word": "disinfect",
+    "baseWord": "disinfect",
+    "type": "verb",
+    "meaning": "tẩy trùng",
+    "pronunciation": "/disinfect/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the disinfect carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tẩy trùng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm disinfect",
+      "disinfect details",
+      "review disinfect"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "disinfect"
+    ],
+    "day": 69
+  },
+  {
+    "id": "enforce-safety-rules-phrase",
+    "word": "enforce safety rules",
+    "baseWord": "rules",
+    "type": "phrase",
+    "meaning": "thực thi quy tắc an toàn",
+    "pronunciation": "/enforce safety rules/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the enforce safety rules carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thực thi quy tắc an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm enforce safety rules",
+      "enforce safety rules details",
+      "review enforce safety rules"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rules"
+    ],
+    "day": 69
+  },
+  {
+    "id": "evacuate-verb",
+    "word": "evacuate",
+    "baseWord": "evacuate",
+    "type": "verb",
+    "meaning": "sơ tán",
+    "pronunciation": "/evacuate/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the evacuate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét sơ tán cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm evacuate",
+      "evacuate details",
+      "review evacuate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "evacuate"
+    ],
+    "day": 69
+  },
+  {
+    "id": "expose-verb",
+    "word": "expose",
+    "baseWord": "expose",
+    "type": "verb",
+    "meaning": "làm phơi nhiễm",
+    "pronunciation": "/expose/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the expose carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét làm phơi nhiễm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm expose",
+      "expose details",
+      "review expose"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "expose"
+    ],
+    "day": 69
+  },
+  {
+    "id": "follow-safety-rules-phrase",
+    "word": "follow safety rules",
+    "baseWord": "rules",
+    "type": "phrase",
+    "meaning": "tuân theo quy tắc an toàn",
+    "pronunciation": "/follow safety rules/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the follow safety rules carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét tuân theo quy tắc an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm follow safety rules",
+      "follow safety rules details",
+      "review follow safety rules"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "rules"
+    ],
+    "day": 69
+  },
+  {
+    "id": "inspect-equipment-phrase",
+    "word": "inspect equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "kiểm tra thiết bị",
+    "pronunciation": "/inspect equipment/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the inspect equipment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kiểm tra thiết bị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm inspect equipment",
+      "inspect equipment details",
+      "review inspect equipment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "equipment"
+    ],
+    "day": 69
+  },
+  {
+    "id": "isolate-verb",
+    "word": "isolate",
+    "baseWord": "isolate",
+    "type": "verb",
+    "meaning": "cách ly",
+    "pronunciation": "/isolate/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the isolate carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cách ly cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm isolate",
+      "isolate details",
+      "review isolate"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "isolate"
+    ],
+    "day": 69
+  },
+  {
+    "id": "issue-certification-phrase",
+    "word": "issue certification",
+    "baseWord": "certification",
+    "type": "phrase",
+    "meaning": "cấp chứng nhận",
+    "pronunciation": "/issue certification/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the issue certification carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cấp chứng nhận cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm issue certification",
+      "issue certification details",
+      "review issue certification"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "certification"
+    ],
+    "day": 69
+  },
+  {
+    "id": "make-a-diagnosis-phrase",
+    "word": "make a diagnosis",
+    "baseWord": "diagnosis",
+    "type": "phrase",
+    "meaning": "đưa ra chẩn đoán",
+    "pronunciation": "/make a diagnosis/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the make a diagnosis carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đưa ra chẩn đoán cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm make a diagnosis",
+      "make a diagnosis details",
+      "review make a diagnosis"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "diagnosis"
+    ],
+    "day": 69
+  },
+  {
+    "id": "monitor-conditions-phrase",
+    "word": "monitor conditions",
+    "baseWord": "conditions",
+    "type": "phrase",
+    "meaning": "giám sát điều kiện",
+    "pronunciation": "/monitor conditions/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the monitor conditions carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giám sát điều kiện cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm monitor conditions",
+      "monitor conditions details",
+      "review monitor conditions"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "conditions"
+    ],
+    "day": 69
+  },
+  {
+    "id": "prevent-an-accident-phrase",
+    "word": "prevent an accident",
+    "baseWord": "accident",
+    "type": "phrase",
+    "meaning": "ngăn ngừa tai nạn",
+    "pronunciation": "/prevent an accident/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the prevent an accident carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ngăn ngừa tai nạn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm prevent an accident",
+      "prevent an accident details",
+      "review prevent an accident"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "accident"
+    ],
+    "day": 69
+  },
+  {
+    "id": "protect-workers-phrase",
+    "word": "protect workers",
+    "baseWord": "workers",
+    "type": "phrase",
+    "meaning": "bảo vệ người lao động",
+    "pronunciation": "/protect workers/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the protect workers carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảo vệ người lao động cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm protect workers",
+      "protect workers details",
+      "review protect workers"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "workers"
+    ],
+    "day": 69
+  },
+  {
+    "id": "report-an-incident-phrase",
+    "word": "report an incident",
+    "baseWord": "incident",
+    "type": "phrase",
+    "meaning": "báo cáo sự cố",
+    "pronunciation": "/report an incident/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the report an incident carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét báo cáo sự cố cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm report an incident",
+      "report an incident details",
+      "review report an incident"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "incident"
+    ],
+    "day": 69
+  },
+  {
+    "id": "respond-to-an-alert-phrase",
+    "word": "respond to an alert",
+    "baseWord": "alert",
+    "type": "phrase",
+    "meaning": "phản ứng với cảnh báo",
+    "pronunciation": "/respond to an alert/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the respond to an alert carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét phản ứng với cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm respond to an alert",
+      "respond to an alert details",
+      "review respond to an alert"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "alert"
+    ],
+    "day": 69
+  },
+  {
+    "id": "return-to-work-phrase",
+    "word": "return to work",
+    "baseWord": "work",
+    "type": "phrase",
+    "meaning": "trở lại làm việc",
+    "pronunciation": "/return to work/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the return to work carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trở lại làm việc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm return to work",
+      "return to work details",
+      "review return to work"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "work"
+    ],
+    "day": 69
+  },
+  {
+    "id": "sanitize-equipment-phrase",
+    "word": "sanitize equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "khử trùng thiết bị",
+    "pronunciation": "/sanitize equipment/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the sanitize equipment carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét khử trùng thiết bị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm sanitize equipment",
+      "sanitize equipment details",
+      "review sanitize equipment"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "equipment"
+    ],
+    "day": 69
+  },
+  {
+    "id": "train-employees-phrase",
+    "word": "train employees",
+    "baseWord": "employees",
+    "type": "phrase",
+    "meaning": "đào tạo nhân viên",
+    "pronunciation": "/train employees/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the train employees carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đào tạo nhân viên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm train employees",
+      "train employees details",
+      "review train employees"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "employees"
+    ],
+    "day": 69
+  },
+  {
+    "id": "treat-verb",
+    "word": "treat",
+    "baseWord": "treat",
+    "type": "verb",
+    "meaning": "điều trị",
+    "pronunciation": "/treat/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 2",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the treat carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều trị cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm treat",
+      "treat details",
+      "review treat"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "treat"
+    ],
+    "day": 69
+  },
+  {
+    "id": "caution-notice-phrase",
+    "word": "caution notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "thông báo cảnh báo",
+    "pronunciation": "/caution notice/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the caution notice carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thông báo cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm caution notice",
+      "caution notice details",
+      "review caution notice"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "notice"
+    ],
+    "day": 70
+  },
+  {
+    "id": "contagious-adjective",
+    "word": "contagious",
+    "baseWord": "contagious",
+    "type": "adjective",
+    "meaning": "dễ lây",
+    "pronunciation": "/contagious/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dễ lây cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm contagious",
+      "contagious details",
+      "review contagious"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "contagious"
+    ],
+    "day": 70
+  },
+  {
+    "id": "ergonomic-adjective",
+    "word": "ergonomic",
+    "baseWord": "ergonomic",
+    "type": "adjective",
+    "meaning": "thuộc công thái học",
+    "pronunciation": "/ergonomic/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thuộc công thái học cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm ergonomic",
+      "ergonomic details",
+      "review ergonomic"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "ergonomic"
+    ],
+    "day": 70
+  },
+  {
+    "id": "flammable-adjective",
+    "word": "flammable",
+    "baseWord": "flammable",
+    "type": "adjective",
+    "meaning": "dễ cháy",
+    "pronunciation": "/flammable/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét dễ cháy cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm flammable",
+      "flammable details",
+      "review flammable"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "flammable"
+    ],
+    "day": 70
+  },
+  {
+    "id": "hazardous-adjective",
+    "word": "hazardous",
+    "baseWord": "hazardous",
+    "type": "adjective",
+    "meaning": "nguy hiểm",
+    "pronunciation": "/hazardous/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nguy hiểm cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm hazardous",
+      "hazardous details",
+      "review hazardous"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "hazardous"
+    ],
+    "day": 70
+  },
+  {
+    "id": "healthy-workplace-phrase",
+    "word": "healthy workplace",
+    "baseWord": "workplace",
+    "type": "phrase",
+    "meaning": "nơi làm việc lành mạnh",
+    "pronunciation": "/healthy workplace/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the healthy workplace carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét nơi làm việc lành mạnh cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm healthy workplace",
+      "healthy workplace details",
+      "review healthy workplace"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "workplace"
+    ],
+    "day": 70
+  },
+  {
+    "id": "legal-liability-phrase",
+    "word": "legal liability",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "trách nhiệm pháp lý",
+    "pronunciation": "/legal liability/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the legal liability carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét trách nhiệm pháp lý cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm legal liability",
+      "legal liability details",
+      "review legal liability"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "liability"
+    ],
+    "day": 70
+  },
+  {
+    "id": "poisonous-adjective",
+    "word": "poisonous",
+    "baseWord": "poisonous",
+    "type": "adjective",
+    "meaning": "có độc",
+    "pronunciation": "/poisonous/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét có độc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm poisonous",
+      "poisonous details",
+      "review poisonous"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "poisonous"
+    ],
+    "day": 70
+  },
+  {
+    "id": "properly-adverb",
+    "word": "properly",
+    "baseWord": "properly",
+    "type": "adverb",
+    "meaning": "đúng cách",
+    "pronunciation": "/properly/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đúng cách cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm properly",
+      "properly details",
+      "review properly"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "properly"
+    ],
+    "day": 70
+  },
+  {
+    "id": "protective-action-phrase",
+    "word": "protective action",
+    "baseWord": "action",
+    "type": "phrase",
+    "meaning": "hành động bảo vệ",
+    "pronunciation": "/protective action/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the protective action carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét hành động bảo vệ cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm protective action",
+      "protective action details",
+      "review protective action"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "action"
+    ],
+    "day": 70
+  },
+  {
+    "id": "protocol-update-phrase",
+    "word": "protocol update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "cập nhật quy trình",
+    "pronunciation": "/protocol update/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the protocol update carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét cập nhật quy trình cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm protocol update",
+      "protocol update details",
+      "review protocol update"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "update"
+    ],
+    "day": 70
+  },
+  {
+    "id": "regularly-adverb",
+    "word": "regularly",
+    "baseWord": "regularly",
+    "type": "adverb",
+    "meaning": "thường xuyên",
+    "pronunciation": "/regularly/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét thường xuyên cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm regularly",
+      "regularly details",
+      "review regularly"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "regularly"
+    ],
+    "day": 70
+  },
+  {
+    "id": "required-protection-phrase",
+    "word": "required protection",
+    "baseWord": "protection",
+    "type": "phrase",
+    "meaning": "bảo hộ bắt buộc",
+    "pronunciation": "/required protection/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the required protection carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét bảo hộ bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm required protection",
+      "required protection details",
+      "review required protection"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "protection"
+    ],
+    "day": 70
+  },
+  {
+    "id": "risk-reducing-adjective",
+    "word": "risk-reducing",
+    "baseWord": "risk-reducing",
+    "type": "adjective",
+    "meaning": "giảm thiểu rủi ro",
+    "pronunciation": "/risk-reducing/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét giảm thiểu rủi ro cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm risk-reducing",
+      "risk-reducing details",
+      "review risk-reducing"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "risk-reducing"
+    ],
+    "day": 70
+  },
+  {
+    "id": "safety-briefing-phrase",
+    "word": "safety briefing",
+    "baseWord": "briefing",
+    "type": "phrase",
+    "meaning": "buổi phổ biến an toàn",
+    "pronunciation": "/safety briefing/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the safety briefing carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét buổi phổ biến an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm safety briefing",
+      "safety briefing details",
+      "review safety briefing"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "briefing"
+    ],
+    "day": 70
+  },
+  {
+    "id": "safety-compliant-adjective",
+    "word": "safety-compliant",
+    "baseWord": "safety-compliant",
+    "type": "adjective",
+    "meaning": "đáp ứng yêu cầu an toàn",
+    "pronunciation": "/safety-compliant/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét đáp ứng yêu cầu an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm safety-compliant",
+      "safety-compliant details",
+      "review safety-compliant"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "safety-compliant"
+    ],
+    "day": 70
+  },
+  {
+    "id": "securely-adverb",
+    "word": "securely",
+    "baseWord": "securely",
+    "type": "adverb",
+    "meaning": "một cách chắc chắn",
+    "pronunciation": "/securely/",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét một cách chắc chắn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm securely",
+      "securely details",
+      "review securely"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "securely"
+    ],
+    "day": 70
+  },
+  {
+    "id": "thoroughly-adverb",
+    "word": "thoroughly",
+    "baseWord": "thoroughly",
+    "type": "adverb",
+    "meaning": "kỹ lưỡng",
+    "pronunciation": "/thoroughly/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the term carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét kỹ lưỡng cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm thoroughly",
+      "thoroughly details",
+      "review thoroughly"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "thoroughly"
+    ],
+    "day": 70
+  },
+  {
+    "id": "unsafe-condition-phrase",
+    "word": "unsafe condition",
+    "baseWord": "condition",
+    "type": "phrase",
+    "meaning": "điều kiện không an toàn",
+    "pronunciation": "/unsafe condition/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the unsafe condition carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét điều kiện không an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm unsafe condition",
+      "unsafe condition details",
+      "review unsafe condition"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "condition"
+    ],
+    "day": 70
+  },
+  {
+    "id": "without-delay-phrase",
+    "word": "without delay",
+    "baseWord": "delay",
+    "type": "phrase",
+    "meaning": "ngay lập tức",
+    "pronunciation": "/without delay/",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the without delay carefully before confirming the arrangement.",
+    "exampleVi": "Vui lòng xem xét ngay lập tức cẩn thận trước khi xác nhận sắp xếp.",
+    "collocations": [
+      "confirm without delay",
+      "without delay details",
+      "review without delay"
+    ],
+    "synonyms": [],
+    "wordFamily": [
+      "delay"
+    ],
+    "day": 70
+  }
+]

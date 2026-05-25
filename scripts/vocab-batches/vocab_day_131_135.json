@@ -1,848 +1,2977 @@
 [
   {
-    "id": "asset-noun",
-    "word": "asset",
-    "baseWord": "asset",
-    "type": "noun",
-    "meaning": "tài sản",
-    "pronunciation": "/ˈæset/",
-    "topic": "Advanced Finance",
+    "id": "binding-agreement-phrase",
+    "word": "binding agreement",
+    "baseWord": "binding",
+    "type": "phrase",
+    "meaning": "binding agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company's total assets exceeded $5 billion last year.",
-    "exampleVi": "Tổng tài sản của công ty đã vượt quá 5 tỷ đô la vào năm ngoái.",
-    "collocations": ["fixed assets", "current assets", "asset management", "total assets"],
-    "synonyms": ["property", "resource", "holding"],
-    "wordFamily": ["assets"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the binding agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét binding agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "binding agreement",
+      "binding agreement review",
+      "binding agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "binding"
+    ],
     "day": 131
   },
   {
-    "id": "liability-noun",
-    "word": "liability",
-    "baseWord": "liable",
-    "type": "noun",
-    "meaning": "khoản nợ, trách nhiệm pháp lý",
-    "pronunciation": "/ˌlaɪəˈbɪləti/",
-    "topic": "Advanced Finance",
+    "id": "code-of-conduct-phrase",
+    "word": "code of conduct",
+    "baseWord": "code",
+    "type": "phrase",
+    "meaning": "code of conduct; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company reduced its liabilities by paying off long-term debt.",
-    "exampleVi": "Công ty đã giảm các khoản nợ bằng cách trả hết nợ dài hạn.",
-    "collocations": ["current liabilities", "limited liability", "liability insurance", "assume liability"],
-    "synonyms": ["debt", "obligation", "responsibility"],
-    "wordFamily": ["liable", "liabilities"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the code of conduct before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét code of conduct trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "code of conduct",
+      "code of conduct review",
+      "code of conduct process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "code"
+    ],
     "day": 131
   },
   {
-    "id": "portfolio-noun",
-    "word": "portfolio",
-    "baseWord": "portfolio",
-    "type": "noun",
-    "meaning": "danh mục đầu tư, hồ sơ tác phẩm",
-    "pronunciation": "/pɔːrtˈfoʊlioʊ/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Our financial advisor recommended diversifying the investment portfolio.",
-    "exampleVi": "Cố vấn tài chính của chúng tôi khuyến nghị đa dạng hóa danh mục đầu tư.",
-    "collocations": ["investment portfolio", "portfolio management", "diversify a portfolio", "product portfolio"],
-    "synonyms": ["collection", "holdings"],
-    "wordFamily": ["portfolios"],
-    "day": 131
-  },
-  {
-    "id": "depreciation-noun",
-    "word": "depreciation",
-    "baseWord": "depreciate",
-    "type": "noun",
-    "meaning": "sự khấu hao, sự mất giá",
-    "pronunciation": "/dɪˌpriːʃiˈeɪʃən/",
-    "topic": "Advanced Finance",
+    "id": "compliance-policy-phrase",
+    "word": "compliance policy",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance policy; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The depreciation of equipment is calculated over a five-year period.",
-    "exampleVi": "Khấu hao thiết bị được tính trong khoảng thời gian năm năm.",
-    "collocations": ["asset depreciation", "depreciation rate", "accumulated depreciation", "annual depreciation"],
-    "synonyms": ["devaluation", "decline in value"],
-    "wordFamily": ["depreciate", "depreciated", "depreciating"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance policy before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance policy trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance policy",
+      "compliance policy review",
+      "compliance policy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
     "day": 131
   },
   {
-    "id": "fiscal-adjective",
-    "word": "fiscal",
-    "baseWord": "fiscal",
-    "type": "adjective",
-    "meaning": "thuộc tài chính, thuộc tài khóa",
-    "pronunciation": "/ˈfɪskəl/",
-    "topic": "Advanced Finance",
+    "id": "confidentiality-clause-phrase",
+    "word": "confidentiality clause",
+    "baseWord": "confidentiality",
+    "type": "phrase",
+    "meaning": "confidentiality clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the confidentiality clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét confidentiality clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "confidentiality clause",
+      "confidentiality clause review",
+      "confidentiality clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "confidentiality"
+    ],
+    "day": 131
+  },
+  {
+    "id": "contract-clause-phrase",
+    "word": "contract clause",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "contract clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the contract clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét contract clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "contract clause",
+      "contract clause review",
+      "contract clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "contract"
+    ],
+    "day": 131
+  },
+  {
+    "id": "contract-term-phrase",
+    "word": "contract term",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "contract term; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company reported strong results for the fiscal year ending in March.",
-    "exampleVi": "Công ty báo cáo kết quả mạnh mẽ cho năm tài khóa kết thúc vào tháng Ba.",
-    "collocations": ["fiscal year", "fiscal policy", "fiscal quarter", "fiscal responsibility"],
-    "synonyms": ["financial", "monetary", "budgetary"],
-    "wordFamily": ["fiscally"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the contract term before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét contract term trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "contract term",
+      "contract term review",
+      "contract term process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "contract"
+    ],
     "day": 131
   },
   {
-    "id": "amortize-verb",
-    "word": "amortize",
-    "baseWord": "amortize",
-    "type": "verb",
-    "meaning": "phân bổ, trả dần",
-    "pronunciation": "/ˈæmərtaɪz/",
-    "topic": "Advanced Finance",
+    "id": "corporate-policy-phrase",
+    "word": "corporate policy",
+    "baseWord": "corporate",
+    "type": "phrase",
+    "meaning": "corporate policy; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The startup costs will be amortized over a ten-year period.",
-    "exampleVi": "Chi phí khởi nghiệp sẽ được phân bổ trong khoảng thời gian mười năm.",
-    "collocations": ["amortize a loan", "amortize costs", "fully amortized"],
-    "synonyms": ["write off", "spread out"],
-    "wordFamily": ["amortization", "amortized", "amortizing"],
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the corporate policy before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét corporate policy trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "corporate policy",
+      "corporate policy review",
+      "corporate policy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "corporate"
+    ],
     "day": 131
   },
   {
-    "id": "accrued-adjective",
-    "word": "accrued",
-    "baseWord": "accrue",
-    "type": "adjective",
-    "meaning": "tích lũy, cộng dồn",
-    "pronunciation": "/əˈkruːd/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Accrued interest on the loan must be paid at the end of each quarter.",
-    "exampleVi": "Lãi suất tích lũy trên khoản vay phải được thanh toán vào cuối mỗi quý.",
-    "collocations": ["accrued interest", "accrued expenses", "accrued benefits", "accrued liabilities"],
-    "synonyms": ["accumulated", "built-up"],
-    "wordFamily": ["accrue", "accrual", "accruing"],
-    "day": 131
-  },
-  {
-    "id": "insolvency-noun",
-    "word": "insolvency",
-    "baseWord": "insolvent",
-    "type": "noun",
-    "meaning": "sự mất khả năng thanh toán, sự phá sản",
-    "pronunciation": "/ɪnˈsɒlvənsi/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company filed for insolvency after failing to secure additional funding.",
-    "exampleVi": "Công ty đã nộp đơn mất khả năng thanh toán sau khi không thể huy động thêm vốn.",
-    "collocations": ["file for insolvency", "insolvency proceedings", "risk of insolvency"],
-    "synonyms": ["bankruptcy", "liquidation"],
-    "wordFamily": ["insolvent", "solvency", "solvent"],
-    "day": 131
-  },
-  {
-    "id": "collateral-noun",
-    "word": "collateral",
-    "baseWord": "collateral",
-    "type": "noun",
-    "meaning": "tài sản thế chấp",
-    "pronunciation": "/kəˈlætərəl/",
-    "topic": "Advanced Finance",
+    "id": "external-regulation-phrase",
+    "word": "external regulation",
+    "baseWord": "external",
+    "type": "phrase",
+    "meaning": "external regulation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The bank requires collateral before approving the business loan.",
-    "exampleVi": "Ngân hàng yêu cầu tài sản thế chấp trước khi phê duyệt khoản vay kinh doanh.",
-    "collocations": ["put up collateral", "collateral damage", "collateral requirement", "use as collateral"],
-    "synonyms": ["security", "guarantee", "pledge"],
-    "wordFamily": ["collateralized"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the external regulation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét external regulation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "external regulation",
+      "external regulation review",
+      "external regulation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "external"
+    ],
     "day": 131
   },
   {
-    "id": "yield-noun",
-    "word": "yield",
-    "baseWord": "yield",
-    "type": "noun",
-    "meaning": "lợi suất, sản lượng",
-    "pronunciation": "/jiːld/",
-    "topic": "Advanced Finance",
+    "id": "governing-law-phrase",
+    "word": "governing law",
+    "baseWord": "governing",
+    "type": "phrase",
+    "meaning": "governing law; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Government bonds currently offer a yield of around 4%.",
-    "exampleVi": "Trái phiếu chính phủ hiện đang mang lại lợi suất khoảng 4%.",
-    "collocations": ["high yield", "bond yield", "dividend yield", "annual yield"],
-    "synonyms": ["return", "profit", "gain"],
-    "wordFamily": ["yields", "yielding", "yielded"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the governing law before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét governing law trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "governing law",
+      "governing law review",
+      "governing law process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "governing"
+    ],
     "day": 131
   },
   {
-    "id": "receivable-adjective",
-    "word": "receivable",
-    "baseWord": "receive",
-    "type": "adjective",
-    "meaning": "phải thu (kế toán)",
-    "pronunciation": "/rɪˈsiːvəbəl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Accounts receivable increased by 15% compared to the previous quarter.",
-    "exampleVi": "Các khoản phải thu tăng 15% so với quý trước.",
-    "collocations": ["accounts receivable", "notes receivable", "receivable balance"],
-    "synonyms": ["outstanding", "due"],
-    "wordFamily": ["receive", "receivables"],
-    "day": 132
-  },
-  {
-    "id": "payable-adjective",
-    "word": "payable",
-    "baseWord": "pay",
-    "type": "adjective",
-    "meaning": "phải trả (kế toán)",
-    "pronunciation": "/ˈpeɪəbəl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Accounts payable should be settled within 30 days of invoice date.",
-    "exampleVi": "Các khoản phải trả nên được thanh toán trong vòng 30 ngày kể từ ngày hóa đơn.",
-    "collocations": ["accounts payable", "payable on demand", "payable to", "interest payable"],
-    "synonyms": ["due", "owed", "outstanding"],
-    "wordFamily": ["pay", "payment", "payables"],
-    "day": 132
-  },
-  {
-    "id": "accrue-verb",
-    "word": "accrue",
-    "baseWord": "accrue",
-    "type": "verb",
-    "meaning": "tích lũy, cộng dồn",
-    "pronunciation": "/əˈkruː/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Interest will accrue on the outstanding balance at a rate of 5%.",
-    "exampleVi": "Lãi suất sẽ được tích lũy trên số dư chưa thanh toán với tỷ lệ 5%.",
-    "collocations": ["accrue interest", "accrue benefits", "accrue over time"],
-    "synonyms": ["accumulate", "build up", "amass"],
-    "wordFamily": ["accrued", "accrual", "accruing"],
-    "day": 132
-  },
-  {
-    "id": "disbursement-noun",
-    "word": "disbursement",
-    "baseWord": "disburse",
-    "type": "noun",
-    "meaning": "sự giải ngân, sự chi trả",
-    "pronunciation": "/dɪsˈbɜːrsmənt/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Loan disbursements will begin after the contract has been signed.",
-    "exampleVi": "Việc giải ngân khoản vay sẽ bắt đầu sau khi hợp đồng được ký.",
-    "collocations": ["loan disbursement", "cash disbursement", "disbursement of funds"],
-    "synonyms": ["payment", "expenditure", "outlay"],
-    "wordFamily": ["disburse", "disbursed", "disbursing"],
-    "day": 132
-  },
-  {
-    "id": "reconcile-verb",
-    "word": "reconcile",
-    "baseWord": "reconcile",
-    "type": "verb",
-    "meaning": "đối chiếu, cân đối",
-    "pronunciation": "/ˈrekənsaɪl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The accountant needs to reconcile the bank statements with internal records.",
-    "exampleVi": "Kế toán cần đối chiếu bảng sao kê ngân hàng với hồ sơ nội bộ.",
-    "collocations": ["reconcile accounts", "reconcile differences", "reconcile statements"],
-    "synonyms": ["balance", "match", "harmonize"],
-    "wordFamily": ["reconciliation", "reconciled", "reconciling"],
-    "day": 132
-  },
-  {
-    "id": "ledger-noun",
-    "word": "ledger",
-    "baseWord": "ledger",
-    "type": "noun",
-    "meaning": "sổ cái (kế toán)",
-    "pronunciation": "/ˈledʒər/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "All financial transactions must be recorded in the general ledger.",
-    "exampleVi": "Tất cả các giao dịch tài chính phải được ghi vào sổ cái.",
-    "collocations": ["general ledger", "ledger entry", "ledger balance", "maintain a ledger"],
-    "synonyms": ["account book", "record book"],
-    "wordFamily": ["ledgers"],
-    "day": 132
-  },
-  {
-    "id": "audit-verb",
-    "word": "audit",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "kiểm toán",
-    "pronunciation": "/ˈɔːdɪt/",
-    "topic": "Advanced Finance",
+    "id": "indemnity-clause-phrase",
+    "word": "indemnity clause",
+    "baseWord": "indemnity",
+    "type": "phrase",
+    "meaning": "indemnity clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 4", "Part 5", "Part 7"],
-    "example": "An external firm has been hired to audit the company's financial records.",
-    "exampleVi": "Một công ty bên ngoài đã được thuê để kiểm toán hồ sơ tài chính của công ty.",
-    "collocations": ["audit accounts", "audit financial statements", "audit compliance"],
-    "synonyms": ["examine", "inspect", "review"],
-    "wordFamily": ["auditor", "auditing", "audited"],
-    "day": 132
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the indemnity clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét indemnity clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "indemnity clause",
+      "indemnity clause review",
+      "indemnity clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "indemnity"
+    ],
+    "day": 131
   },
   {
-    "id": "appropriation-noun",
-    "word": "appropriation",
-    "baseWord": "appropriate",
-    "type": "noun",
-    "meaning": "sự phân bổ ngân sách",
-    "pronunciation": "/əˌproʊpriˈeɪʃən/",
-    "topic": "Advanced Finance",
+    "id": "internal-regulation-phrase",
+    "word": "internal regulation",
+    "baseWord": "internal",
+    "type": "phrase",
+    "meaning": "internal regulation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the internal regulation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét internal regulation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "internal regulation",
+      "internal regulation review",
+      "internal regulation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "internal"
+    ],
+    "day": 131
+  },
+  {
+    "id": "jurisdiction-clause-phrase",
+    "word": "jurisdiction clause",
+    "baseWord": "jurisdiction",
+    "type": "phrase",
+    "meaning": "jurisdiction clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Congress approved the appropriation of $2 million for the research project.",
-    "exampleVi": "Quốc hội đã phê duyệt việc phân bổ 2 triệu đô la cho dự án nghiên cứu.",
-    "collocations": ["budget appropriation", "capital appropriation", "appropriation of funds"],
-    "synonyms": ["allocation", "allotment"],
-    "wordFamily": ["appropriate", "appropriated", "appropriating"],
-    "day": 132
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the jurisdiction clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét jurisdiction clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "jurisdiction clause",
+      "jurisdiction clause review",
+      "jurisdiction clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "jurisdiction"
+    ],
+    "day": 131
   },
   {
-    "id": "depreciate-verb",
-    "word": "depreciate",
-    "baseWord": "depreciate",
-    "type": "verb",
-    "meaning": "khấu hao, giảm giá trị",
-    "pronunciation": "/dɪˈpriːʃieɪt/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "New vehicles depreciate significantly within the first two years.",
-    "exampleVi": "Xe mới giảm giá trị đáng kể trong hai năm đầu tiên.",
-    "collocations": ["depreciate in value", "depreciate over time", "depreciate an asset"],
-    "synonyms": ["decrease in value", "devalue", "decline"],
-    "wordFamily": ["depreciation", "depreciated", "depreciating"],
-    "day": 132
-  },
-  {
-    "id": "remittance-noun",
-    "word": "remittance",
-    "baseWord": "remit",
-    "type": "noun",
-    "meaning": "tiền chuyển, khoản chuyển tiền",
-    "pronunciation": "/rɪˈmɪtəns/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "International remittances to the region increased by 8% this year.",
-    "exampleVi": "Lượng kiều hối đến khu vực đã tăng 8% trong năm nay.",
-    "collocations": ["send a remittance", "remittance transfer", "remittance service"],
-    "synonyms": ["payment", "transfer", "wire"],
-    "wordFamily": ["remit", "remitted", "remitting"],
-    "day": 132
-  },
-  {
-    "id": "solvency-noun",
-    "word": "solvency",
-    "baseWord": "solvent",
-    "type": "noun",
-    "meaning": "khả năng thanh toán",
-    "pronunciation": "/ˈsɒlvənsi/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The rating agency assessed the bank's solvency before issuing a rating.",
-    "exampleVi": "Cơ quan xếp hạng đã đánh giá khả năng thanh toán của ngân hàng trước khi đưa ra xếp hạng.",
-    "collocations": ["financial solvency", "solvency ratio", "solvency requirement", "maintain solvency"],
-    "synonyms": ["financial stability", "creditworthiness"],
-    "wordFamily": ["solvent", "insolvent", "insolvency"],
-    "day": 133
-  },
-  {
-    "id": "forfeit-verb",
-    "word": "forfeit",
-    "baseWord": "forfeit",
-    "type": "verb",
-    "meaning": "mất quyền, bị tịch thu",
-    "pronunciation": "/ˈfɔːrfɪt/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Employees who leave before the vesting period will forfeit their stock options.",
-    "exampleVi": "Nhân viên nghỉ việc trước kỳ hạn sẽ bị mất quyền chọn cổ phiếu.",
-    "collocations": ["forfeit a deposit", "forfeit rights", "forfeit a claim"],
-    "synonyms": ["lose", "surrender", "relinquish"],
-    "wordFamily": ["forfeiture", "forfeited", "forfeiting"],
-    "day": 133
-  },
-  {
-    "id": "deductible-adjective",
-    "word": "deductible",
-    "baseWord": "deduct",
-    "type": "adjective",
-    "meaning": "được khấu trừ",
-    "pronunciation": "/dɪˈdʌktəbəl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Business travel expenses are tax-deductible under current regulations.",
-    "exampleVi": "Chi phí đi công tác được khấu trừ thuế theo các quy định hiện hành.",
-    "collocations": ["tax-deductible", "deductible expenses", "insurance deductible"],
-    "synonyms": ["allowable", "subtractable"],
-    "wordFamily": ["deduct", "deduction", "deducted"],
-    "day": 133
-  },
-  {
-    "id": "arrears-noun",
-    "word": "arrears",
-    "baseWord": "arrears",
-    "type": "noun",
-    "meaning": "tiền nợ đọng, tiền trả chậm",
-    "pronunciation": "/əˈrɪərz/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The tenant was three months in arrears on the rent payment.",
-    "exampleVi": "Người thuê nợ đọng ba tháng tiền thuê.",
-    "collocations": ["in arrears", "pay arrears", "rent arrears", "salary arrears"],
-    "synonyms": ["outstanding debt", "overdue payment"],
-    "wordFamily": [],
-    "day": 133
-  },
-  {
-    "id": "endowment-noun",
-    "word": "endowment",
-    "baseWord": "endow",
-    "type": "noun",
-    "meaning": "quỹ tài trợ, khoản hiến tặng",
-    "pronunciation": "/ɪnˈdaʊmənt/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The university received a $10 million endowment from a private donor.",
-    "exampleVi": "Trường đại học nhận được khoản hiến tặng 10 triệu đô la từ một nhà tài trợ tư nhân.",
-    "collocations": ["endowment fund", "university endowment", "financial endowment"],
-    "synonyms": ["donation", "bequest", "grant"],
-    "wordFamily": ["endow", "endowed", "endowing"],
-    "day": 133
-  },
-  {
-    "id": "hedge-verb",
-    "word": "hedge",
-    "baseWord": "hedge",
-    "type": "verb",
-    "meaning": "phòng ngừa rủi ro",
-    "pronunciation": "/hedʒ/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company uses derivatives to hedge against currency fluctuations.",
-    "exampleVi": "Công ty sử dụng các công cụ phái sinh để phòng ngừa rủi ro biến động tiền tệ.",
-    "collocations": ["hedge against risk", "hedge a position", "hedge fund"],
-    "synonyms": ["protect", "safeguard", "insure"],
-    "wordFamily": ["hedging", "hedged", "hedge fund"],
-    "day": 133
-  },
-  {
-    "id": "write-off-noun",
-    "word": "write-off",
-    "baseWord": "write off",
-    "type": "noun",
-    "meaning": "khoản xóa sổ, khoản bút toán giảm",
-    "pronunciation": "/ˈraɪtɒf/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The bank recorded a $50 million write-off for bad loans this quarter.",
-    "exampleVi": "Ngân hàng đã ghi nhận khoản xóa sổ 50 triệu đô la cho các khoản nợ xấu trong quý này.",
-    "collocations": ["tax write-off", "asset write-off", "loan write-off"],
-    "synonyms": ["deduction", "loss"],
-    "wordFamily": ["write off", "written off"],
-    "day": 133
-  },
-  {
-    "id": "liquidity-noun",
-    "word": "liquidity",
-    "baseWord": "liquid",
-    "type": "noun",
-    "meaning": "tính thanh khoản",
-    "pronunciation": "/lɪˈkwɪdəti/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The central bank intervened to ensure sufficient market liquidity.",
-    "exampleVi": "Ngân hàng trung ương đã can thiệp để đảm bảo đủ thanh khoản thị trường.",
-    "collocations": ["market liquidity", "liquidity crisis", "liquidity ratio", "ensure liquidity"],
-    "synonyms": ["cash availability", "fluid assets"],
-    "wordFamily": ["liquid", "liquidate", "liquidation"],
-    "day": 133
-  },
-  {
-    "id": "principal-noun",
-    "word": "principal",
-    "baseWord": "principal",
-    "type": "noun",
-    "meaning": "tiền gốc, vốn gốc",
-    "pronunciation": "/ˈprɪnsəpəl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Monthly payments include both principal and interest on the loan.",
-    "exampleVi": "Các khoản thanh toán hàng tháng bao gồm cả vốn gốc và lãi suất trên khoản vay.",
-    "collocations": ["principal amount", "principal and interest", "repay the principal"],
-    "synonyms": ["capital", "original sum"],
-    "wordFamily": ["principally"],
-    "day": 133
-  },
-  {
-    "id": "overhead-noun",
-    "word": "overhead",
-    "baseWord": "overhead",
-    "type": "noun",
-    "meaning": "chi phí chung, chi phí gián tiếp",
-    "pronunciation": "/ˈoʊvərhed/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Reducing overhead costs was essential for improving profitability.",
-    "exampleVi": "Giảm chi phí chung là điều thiết yếu để cải thiện khả năng sinh lời.",
-    "collocations": ["overhead costs", "overhead expenses", "reduce overhead", "operating overhead"],
-    "synonyms": ["running costs", "indirect costs", "fixed costs"],
-    "wordFamily": ["overheads"],
-    "day": 134
-  },
-  {
-    "id": "expenditure-noun",
-    "word": "expenditure",
-    "baseWord": "expend",
-    "type": "noun",
-    "meaning": "chi tiêu, khoản chi",
-    "pronunciation": "/ɪkˈspendɪtʃər/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Capital expenditure on new equipment totaled $3 million.",
-    "exampleVi": "Chi tiêu vốn cho thiết bị mới lên tổng cộng 3 triệu đô la.",
-    "collocations": ["capital expenditure", "public expenditure", "annual expenditure", "reduce expenditure"],
-    "synonyms": ["spending", "outlay", "expense"],
-    "wordFamily": ["expend", "expended", "expenditures"],
-    "day": 134
-  },
-  {
-    "id": "solicit-verb",
-    "word": "solicit",
-    "baseWord": "solicit",
-    "type": "verb",
-    "meaning": "chào mời, xin, gạ gẫm",
-    "pronunciation": "/səˈlɪsɪt/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The fund manager solicited investments from institutional clients.",
-    "exampleVi": "Người quản lý quỹ đã chào mời đầu tư từ các khách hàng tổ chức.",
-    "collocations": ["solicit funds", "solicit bids", "solicit feedback", "solicit donations"],
-    "synonyms": ["seek", "request", "canvass"],
-    "wordFamily": ["solicitation", "solicited", "soliciting"],
-    "day": 134
-  },
-  {
-    "id": "reimburse-verb",
-    "word": "reimburse",
-    "baseWord": "reimburse",
-    "type": "verb",
-    "meaning": "hoàn trả, bồi hoàn",
-    "pronunciation": "/ˌriːɪmˈbɜːrs/",
-    "topic": "Advanced Finance",
+    "id": "legal-obligation-phrase",
+    "word": "legal obligation",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal obligation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Employees will be reimbursed for all approved travel expenses.",
-    "exampleVi": "Nhân viên sẽ được hoàn trả tất cả chi phí đi lại đã được phê duyệt.",
-    "collocations": ["reimburse expenses", "reimburse costs", "reimburse employees"],
-    "synonyms": ["repay", "compensate", "refund"],
-    "wordFamily": ["reimbursement", "reimbursed", "reimbursing"],
-    "day": 134
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal obligation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal obligation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal obligation",
+      "legal obligation review",
+      "legal obligation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 131
   },
   {
-    "id": "fluctuate-verb",
-    "word": "fluctuate",
-    "baseWord": "fluctuate",
-    "type": "verb",
-    "meaning": "dao động, biến động",
-    "pronunciation": "/ˈflʌktʃueɪt/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Exchange rates tend to fluctuate in response to economic news.",
-    "exampleVi": "Tỷ giá hối đoái có xu hướng dao động khi có tin tức kinh tế.",
-    "collocations": ["fluctuate widely", "prices fluctuate", "fluctuate between"],
-    "synonyms": ["vary", "oscillate", "shift"],
-    "wordFamily": ["fluctuation", "fluctuated", "fluctuating"],
-    "day": 134
-  },
-  {
-    "id": "appraisal-noun",
-    "word": "appraisal",
-    "baseWord": "appraise",
-    "type": "noun",
-    "meaning": "sự thẩm định, sự đánh giá",
-    "pronunciation": "/əˈpreɪzəl/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "An independent appraisal valued the property at $2.5 million.",
-    "exampleVi": "Một cuộc thẩm định độc lập đã định giá bất động sản ở mức 2,5 triệu đô la.",
-    "collocations": ["property appraisal", "performance appraisal", "independent appraisal", "appraisal value"],
-    "synonyms": ["valuation", "assessment", "evaluation"],
-    "wordFamily": ["appraise", "appraised", "appraiser"],
-    "day": 134
-  },
-  {
-    "id": "delinquent-adjective",
-    "word": "delinquent",
-    "baseWord": "delinquent",
-    "type": "adjective",
-    "meaning": "quá hạn, chậm trả",
-    "pronunciation": "/dɪˈlɪŋkwənt/",
-    "topic": "Advanced Finance",
+    "id": "legal-review-phrase",
+    "word": "legal review",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal review; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The number of delinquent accounts has risen sharply this quarter.",
-    "exampleVi": "Số tài khoản quá hạn đã tăng mạnh trong quý này.",
-    "collocations": ["delinquent account", "delinquent payment", "delinquent loan", "delinquent borrower"],
-    "synonyms": ["overdue", "past due", "in default"],
-    "wordFamily": ["delinquency", "delinquencies"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal review before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal review trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal review",
+      "legal review review",
+      "legal review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 131
+  },
+  {
+    "id": "liability-limit-phrase",
+    "word": "liability limit",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "liability limit; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the liability limit before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét liability limit trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "liability limit",
+      "liability limit review",
+      "liability limit process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "liability"
+    ],
+    "day": 131
+  },
+  {
+    "id": "nonbinding-agreement-phrase",
+    "word": "nonbinding agreement",
+    "baseWord": "nonbinding",
+    "type": "phrase",
+    "meaning": "nonbinding agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the nonbinding agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét nonbinding agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "nonbinding agreement",
+      "nonbinding agreement review",
+      "nonbinding agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "nonbinding"
+    ],
+    "day": 131
+  },
+  {
+    "id": "nondisclosure-agreement-phrase",
+    "word": "nondisclosure agreement",
+    "baseWord": "nondisclosure",
+    "type": "phrase",
+    "meaning": "nondisclosure agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the nondisclosure agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét nondisclosure agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "nondisclosure agreement",
+      "nondisclosure agreement review",
+      "nondisclosure agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "nondisclosure"
+    ],
+    "day": 131
+  },
+  {
+    "id": "regulatory-requirement-phrase",
+    "word": "regulatory requirement",
+    "baseWord": "regulatory",
+    "type": "phrase",
+    "meaning": "regulatory requirement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the regulatory requirement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét regulatory requirement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "regulatory requirement",
+      "regulatory requirement review",
+      "regulatory requirement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "regulatory"
+    ],
+    "day": 131
+  },
+  {
+    "id": "renewal-clause-phrase",
+    "word": "renewal clause",
+    "baseWord": "renewal",
+    "type": "phrase",
+    "meaning": "renewal clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the renewal clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét renewal clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "renewal clause",
+      "renewal clause review",
+      "renewal clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "renewal"
+    ],
+    "day": 131
+  },
+  {
+    "id": "termination-clause-phrase",
+    "word": "termination clause",
+    "baseWord": "termination",
+    "type": "phrase",
+    "meaning": "termination clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the termination clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét termination clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "termination clause",
+      "termination clause review",
+      "termination clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "termination"
+    ],
+    "day": 131
+  },
+  {
+    "id": "anti-bribery-policy-phrase",
+    "word": "anti-bribery policy",
+    "baseWord": "anti-bribery",
+    "type": "phrase",
+    "meaning": "anti-bribery policy; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the anti-bribery policy before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét anti-bribery policy trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "anti-bribery policy",
+      "anti-bribery policy review",
+      "anti-bribery policy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "anti-bribery"
+    ],
+    "day": 132
+  },
+  {
+    "id": "anti-corruption-rule-phrase",
+    "word": "anti-corruption rule",
+    "baseWord": "anti-corruption",
+    "type": "phrase",
+    "meaning": "anti-corruption rule; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the anti-corruption rule before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét anti-corruption rule trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "anti-corruption rule",
+      "anti-corruption rule review",
+      "anti-corruption rule process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "anti-corruption"
+    ],
+    "day": 132
+  },
+  {
+    "id": "audit-requirement-verb",
+    "word": "audit requirement",
+    "baseWord": "audit",
+    "type": "verb",
+    "meaning": "audit requirement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the audit requirement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét audit requirement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "audit requirement",
+      "audit requirement review",
+      "audit requirement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "audit"
+    ],
+    "day": 132
+  },
+  {
+    "id": "compliance-officer-phrase",
+    "word": "compliance officer",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance officer; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance officer before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance officer trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance officer",
+      "compliance officer review",
+      "compliance officer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 132
+  },
+  {
+    "id": "compliance-training-phrase",
+    "word": "compliance training",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance training; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance training before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance training trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance training",
+      "compliance training review",
+      "compliance training process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 132
+  },
+  {
+    "id": "conflict-of-interest-phrase",
+    "word": "conflict of interest",
+    "baseWord": "conflict",
+    "type": "phrase",
+    "meaning": "conflict of interest; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the conflict of interest before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét conflict of interest trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "conflict of interest",
+      "conflict of interest review",
+      "conflict of interest process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "conflict"
+    ],
+    "day": 132
+  },
+  {
+    "id": "consent-form-phrase",
+    "word": "consent form",
+    "baseWord": "consent",
+    "type": "phrase",
+    "meaning": "consent form; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the consent form before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét consent form trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "consent form",
+      "consent form review",
+      "consent form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "consent"
+    ],
+    "day": 132
+  },
+  {
+    "id": "corporate-counsel-phrase",
+    "word": "corporate counsel",
+    "baseWord": "corporate",
+    "type": "phrase",
+    "meaning": "corporate counsel; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the corporate counsel before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét corporate counsel trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "corporate counsel",
+      "corporate counsel review",
+      "corporate counsel process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "corporate"
+    ],
+    "day": 132
+  },
+  {
+    "id": "data-privacy-phrase",
+    "word": "data privacy",
+    "baseWord": "data",
+    "type": "phrase",
+    "meaning": "data privacy; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the data privacy before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét data privacy trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "data privacy",
+      "data privacy review",
+      "data privacy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "data"
+    ],
+    "day": 132
+  },
+  {
+    "id": "document-retention-phrase",
+    "word": "document retention",
+    "baseWord": "document",
+    "type": "phrase",
+    "meaning": "document retention; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the document retention before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét document retention trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "document retention",
+      "document retention review",
+      "document retention process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "document"
+    ],
+    "day": 132
+  },
+  {
+    "id": "ethics-hotline-phrase",
+    "word": "ethics hotline",
+    "baseWord": "ethic",
+    "type": "phrase",
+    "meaning": "ethics hotline; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the ethics hotline before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét ethics hotline trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "ethics hotline",
+      "ethics hotline review",
+      "ethics hotline process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "ethic"
+    ],
+    "day": 132
+  },
+  {
+    "id": "legal-counsel-phrase",
+    "word": "legal counsel",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal counsel; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal counsel before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal counsel trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal counsel",
+      "legal counsel review",
+      "legal counsel process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 132
+  },
+  {
+    "id": "legal-department-phrase",
+    "word": "legal department",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal department; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal department before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal department trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal department",
+      "legal department review",
+      "legal department process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 132
+  },
+  {
+    "id": "mandatory-disclosure-phrase",
+    "word": "mandatory disclosure",
+    "baseWord": "mandatory",
+    "type": "phrase",
+    "meaning": "mandatory disclosure; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the mandatory disclosure before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét mandatory disclosure trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "mandatory disclosure",
+      "mandatory disclosure review",
+      "mandatory disclosure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "mandatory"
+    ],
+    "day": 132
+  },
+  {
+    "id": "outside-counsel-phrase",
+    "word": "outside counsel",
+    "baseWord": "outside",
+    "type": "phrase",
+    "meaning": "outside counsel; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the outside counsel before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét outside counsel trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "outside counsel",
+      "outside counsel review",
+      "outside counsel process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "outside"
+    ],
+    "day": 132
+  },
+  {
+    "id": "policy-acknowledgement-phrase",
+    "word": "policy acknowledgement",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy acknowledgement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the policy acknowledgement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét policy acknowledgement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "policy acknowledgement",
+      "policy acknowledgement review",
+      "policy acknowledgement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 132
+  },
+  {
+    "id": "privacy-notice-phrase",
+    "word": "privacy notice",
+    "baseWord": "privacy",
+    "type": "phrase",
+    "meaning": "privacy notice; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the privacy notice before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét privacy notice trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "privacy notice",
+      "privacy notice review",
+      "privacy notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "privacy"
+    ],
+    "day": 132
+  },
+  {
+    "id": "record-retention-phrase",
+    "word": "record retention",
+    "baseWord": "record",
+    "type": "phrase",
+    "meaning": "record retention; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the record retention before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét record retention trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "record retention",
+      "record retention review",
+      "record retention process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "record"
+    ],
+    "day": 132
+  },
+  {
+    "id": "reporting-obligation-phrase",
+    "word": "reporting obligation",
+    "baseWord": "reporting",
+    "type": "phrase",
+    "meaning": "reporting obligation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the reporting obligation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét reporting obligation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "reporting obligation",
+      "reporting obligation review",
+      "reporting obligation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "reporting"
+    ],
+    "day": 132
+  },
+  {
+    "id": "whistleblower-report-phrase",
+    "word": "whistleblower report",
+    "baseWord": "whistleblower",
+    "type": "phrase",
+    "meaning": "whistleblower report; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the whistleblower report before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét whistleblower report trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "whistleblower report",
+      "whistleblower report review",
+      "whistleblower report process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "whistleblower"
+    ],
+    "day": 132
+  },
+  {
+    "id": "affidavit-form-phrase",
+    "word": "affidavit form",
+    "baseWord": "affidavit",
+    "type": "phrase",
+    "meaning": "affidavit form; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the affidavit form before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét affidavit form trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "affidavit form",
+      "affidavit form review",
+      "affidavit form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "affidavit"
+    ],
+    "day": 133
+  },
+  {
+    "id": "appeal-process-phrase",
+    "word": "appeal process",
+    "baseWord": "appeal",
+    "type": "phrase",
+    "meaning": "appeal process; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the appeal process before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét appeal process trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "appeal process",
+      "appeal process review",
+      "appeal process process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "appeal"
+    ],
+    "day": 133
+  },
+  {
+    "id": "arbitration-clause-phrase",
+    "word": "arbitration clause",
+    "baseWord": "arbitration",
+    "type": "phrase",
+    "meaning": "arbitration clause; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the arbitration clause before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét arbitration clause trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "arbitration clause",
+      "arbitration clause review",
+      "arbitration clause process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "arbitration"
+    ],
+    "day": 133
+  },
+  {
+    "id": "breach-of-contract-phrase",
+    "word": "breach of contract",
+    "baseWord": "breach",
+    "type": "phrase",
+    "meaning": "breach of contract; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the breach of contract before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét breach of contract trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "breach of contract",
+      "breach of contract review",
+      "breach of contract process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "breach"
+    ],
+    "day": 133
+  },
+  {
+    "id": "case-dismissal-phrase",
+    "word": "case dismissal",
+    "baseWord": "case",
+    "type": "phrase",
+    "meaning": "case dismissal; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the case dismissal before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét case dismissal trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "case dismissal",
+      "case dismissal review",
+      "case dismissal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "case"
+    ],
+    "day": 133
+  },
+  {
+    "id": "cease-and-desist-notice-phrase",
+    "word": "cease-and-desist notice",
+    "baseWord": "cease-and-desist",
+    "type": "phrase",
+    "meaning": "cease-and-desist notice; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the cease-and-desist notice before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét cease-and-desist notice trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "cease-and-desist notice",
+      "cease-and-desist notice review",
+      "cease-and-desist notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "cease-and-desist"
+    ],
+    "day": 133
+  },
+  {
+    "id": "civil-claim-phrase",
+    "word": "civil claim",
+    "baseWord": "civil",
+    "type": "phrase",
+    "meaning": "civil claim; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the civil claim before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét civil claim trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "civil claim",
+      "civil claim review",
+      "civil claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "civil"
+    ],
+    "day": 133
+  },
+  {
+    "id": "contractual-breach-phrase",
+    "word": "contractual breach",
+    "baseWord": "contractual",
+    "type": "phrase",
+    "meaning": "contractual breach; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the contractual breach before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét contractual breach trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "contractual breach",
+      "contractual breach review",
+      "contractual breach process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "contractual"
+    ],
+    "day": 133
+  },
+  {
+    "id": "court-filing-phrase",
+    "word": "court filing",
+    "baseWord": "court",
+    "type": "phrase",
+    "meaning": "court filing; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the court filing before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét court filing trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "court filing",
+      "court filing review",
+      "court filing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "court"
+    ],
+    "day": 133
+  },
+  {
+    "id": "damages-claim-phrase",
+    "word": "damages claim",
+    "baseWord": "damage",
+    "type": "phrase",
+    "meaning": "damages claim; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the damages claim before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét damages claim trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "damages claim",
+      "damages claim review",
+      "damages claim process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "damage"
+    ],
+    "day": 133
+  },
+  {
+    "id": "injunction-request-phrase",
+    "word": "injunction request",
+    "baseWord": "injunction",
+    "type": "phrase",
+    "meaning": "injunction request; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the injunction request before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét injunction request trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "injunction request",
+      "injunction request review",
+      "injunction request process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "injunction"
+    ],
+    "day": 133
+  },
+  {
+    "id": "legal-dispute-phrase",
+    "word": "legal dispute",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal dispute; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal dispute before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal dispute trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal dispute",
+      "legal dispute review",
+      "legal dispute process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 133
+  },
+  {
+    "id": "legal-proceeding-phrase",
+    "word": "legal proceeding",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal proceeding; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal proceeding before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal proceeding trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal proceeding",
+      "legal proceeding review",
+      "legal proceeding process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 133
+  },
+  {
+    "id": "legal-remedy-phrase",
+    "word": "legal remedy",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal remedy; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal remedy before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal remedy trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal remedy",
+      "legal remedy review",
+      "legal remedy process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 133
+  },
+  {
+    "id": "legal-settlement-phrase",
+    "word": "legal settlement",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal settlement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal settlement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal settlement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal settlement",
+      "legal settlement review",
+      "legal settlement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 133
+  },
+  {
+    "id": "mediation-session-phrase",
+    "word": "mediation session",
+    "baseWord": "mediation",
+    "type": "phrase",
+    "meaning": "mediation session; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the mediation session before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét mediation session trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "mediation session",
+      "mediation session review",
+      "mediation session process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "mediation"
+    ],
+    "day": 133
+  },
+  {
+    "id": "notary-seal-phrase",
+    "word": "notary seal",
+    "baseWord": "notary",
+    "type": "phrase",
+    "meaning": "notary seal; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the notary seal before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét notary seal trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "notary seal",
+      "notary seal review",
+      "notary seal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "notary"
+    ],
+    "day": 133
+  },
+  {
+    "id": "settlement-agreement-verb",
+    "word": "settlement agreement",
+    "baseWord": "settlement",
+    "type": "verb",
+    "meaning": "settlement agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the settlement agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét settlement agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "settlement agreement",
+      "settlement agreement review",
+      "settlement agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "settlement"
+    ],
+    "day": 133
+  },
+  {
+    "id": "settlement-offer-verb",
+    "word": "settlement offer",
+    "baseWord": "settlement",
+    "type": "verb",
+    "meaning": "settlement offer; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the settlement offer before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét settlement offer trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "settlement offer",
+      "settlement offer review",
+      "settlement offer process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "settlement"
+    ],
+    "day": 133
+  },
+  {
+    "id": "witness-statement-phrase",
+    "word": "witness statement",
+    "baseWord": "witnes",
+    "type": "phrase",
+    "meaning": "witness statement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the witness statement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét witness statement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "witness statement",
+      "witness statement review",
+      "witness statement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "witnes"
+    ],
+    "day": 133
+  },
+  {
+    "id": "compliance-gap-phrase",
+    "word": "compliance gap",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance gap; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance gap before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance gap trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance gap",
+      "compliance gap review",
+      "compliance gap process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
     "day": 134
   },
   {
-    "id": "encumber-verb",
-    "word": "encumber",
-    "baseWord": "encumber",
-    "type": "verb",
-    "meaning": "gánh nặng, cản trở, thế chấp",
-    "pronunciation": "/ɪnˈkʌmbər/",
-    "topic": "Advanced Finance",
-    "frequency": "low",
+    "id": "compliance-review-phrase",
+    "word": "compliance review",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance review; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The property is encumbered by a $500,000 mortgage lien.",
-    "exampleVi": "Bất động sản bị thế chấp bởi quyền lưu giữ khoản vay thế chấp 500.000 đô la.",
-    "collocations": ["encumbered assets", "encumber with debt", "legally encumbered"],
-    "synonyms": ["burden", "hinder", "impede"],
-    "wordFamily": ["encumbrance", "encumbered", "unencumbered"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance review before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance review trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance review",
+      "compliance review review",
+      "compliance review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
     "day": 134
   },
   {
-    "id": "maturity-noun",
-    "word": "maturity",
-    "baseWord": "mature",
-    "type": "noun",
-    "meaning": "ngày đáo hạn, kỳ hạn",
-    "pronunciation": "/məˈtʃʊərəti/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
+    "id": "consumer-protection-phrase",
+    "word": "consumer protection",
+    "baseWord": "consumer",
+    "type": "phrase",
+    "meaning": "consumer protection; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The bond has a maturity of ten years from the date of issue.",
-    "exampleVi": "Trái phiếu có kỳ hạn mười năm kể từ ngày phát hành.",
-    "collocations": ["maturity date", "upon maturity", "bond maturity", "long-term maturity"],
-    "synonyms": ["due date", "expiration"],
-    "wordFamily": ["mature", "matured", "maturing"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the consumer protection before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét consumer protection trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "consumer protection",
+      "consumer protection review",
+      "consumer protection process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "consumer"
+    ],
     "day": 134
   },
   {
-    "id": "underperform-verb",
-    "word": "underperform",
-    "baseWord": "perform",
-    "type": "verb",
-    "meaning": "hoạt động kém hơn kỳ vọng",
-    "pronunciation": "/ˌʌndərpərˈfɔːrm/",
-    "topic": "Advanced Finance",
+    "id": "corrective-action-phrase",
+    "word": "corrective action",
+    "baseWord": "corrective",
+    "type": "phrase",
+    "meaning": "corrective action; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the corrective action before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét corrective action trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "corrective action",
+      "corrective action review",
+      "corrective action process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "corrective"
+    ],
+    "day": 134
+  },
+  {
+    "id": "disciplinary-action-phrase",
+    "word": "disciplinary action",
+    "baseWord": "disciplinary",
+    "type": "phrase",
+    "meaning": "disciplinary action; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the disciplinary action before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét disciplinary action trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "disciplinary action",
+      "disciplinary action review",
+      "disciplinary action process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "disciplinary"
+    ],
+    "day": 134
+  },
+  {
+    "id": "due-diligence-review-phrase",
+    "word": "due diligence review",
+    "baseWord": "due",
+    "type": "phrase",
+    "meaning": "due diligence review; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The stock has underperformed the market index for three consecutive quarters.",
-    "exampleVi": "Cổ phiếu đã hoạt động kém hơn chỉ số thị trường trong ba quý liên tiếp.",
-    "collocations": ["underperform the market", "underperform expectations", "significantly underperform"],
-    "synonyms": ["lag behind", "fall short"],
-    "wordFamily": ["underperformance", "underperforming"],
-    "day": 135
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the due diligence review before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét due diligence review trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "due diligence review",
+      "due diligence review review",
+      "due diligence review process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "due"
+    ],
+    "day": 134
   },
   {
-    "id": "outperform-verb",
-    "word": "outperform",
-    "baseWord": "perform",
+    "id": "enforcement-action-phrase",
+    "word": "enforcement action",
+    "baseWord": "enforcement",
+    "type": "phrase",
+    "meaning": "enforcement action; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the enforcement action before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét enforcement action trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "enforcement action",
+      "enforcement action review",
+      "enforcement action process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "enforcement"
+    ],
+    "day": 134
+  },
+  {
+    "id": "export-restriction-verb",
+    "word": "export restriction",
+    "baseWord": "export",
     "type": "verb",
-    "meaning": "hoạt động vượt trội",
-    "pronunciation": "/ˌaʊtpərˈfɔːrm/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Technology stocks outperformed all other sectors last year.",
-    "exampleVi": "Cổ phiếu công nghệ đã hoạt động vượt trội so với tất cả các lĩnh vực khác vào năm ngoái.",
-    "collocations": ["outperform the market", "outperform competitors", "consistently outperform"],
-    "synonyms": ["surpass", "exceed", "beat"],
-    "wordFamily": ["outperformance", "outperforming"],
-    "day": 135
+    "meaning": "export restriction; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the export restriction before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét export restriction trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "export restriction",
+      "export restriction review",
+      "export restriction process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "export"
+    ],
+    "day": 134
   },
   {
-    "id": "volatility-noun",
-    "word": "volatility",
-    "baseWord": "volatile",
-    "type": "noun",
-    "meaning": "sự biến động, tính bất ổn",
-    "pronunciation": "/ˌvɒləˈtɪləti/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Market volatility has increased due to geopolitical uncertainty.",
-    "exampleVi": "Sự biến động thị trường đã gia tăng do bất ổn địa chính trị.",
-    "collocations": ["market volatility", "price volatility", "high volatility", "volatility index"],
-    "synonyms": ["instability", "unpredictability", "fluctuation"],
-    "wordFamily": ["volatile"],
-    "day": 135
-  },
-  {
-    "id": "appreciation-noun",
-    "word": "appreciation",
-    "baseWord": "appreciate",
-    "type": "noun",
-    "meaning": "sự tăng giá; sự đánh giá cao",
-    "pronunciation": "/əˌpriːʃiˈeɪʃən/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The property showed a 12% appreciation in value over three years.",
-    "exampleVi": "Bất động sản cho thấy sự tăng giá 12% trong ba năm.",
-    "collocations": ["capital appreciation", "asset appreciation", "price appreciation", "appreciation in value"],
-    "synonyms": ["increase", "rise", "growth"],
-    "wordFamily": ["appreciate", "appreciated", "appreciating"],
-    "day": 135
-  },
-  {
-    "id": "defer-verb",
-    "word": "defer",
-    "baseWord": "defer",
-    "type": "verb",
-    "meaning": "hoãn lại, trì hoãn",
-    "pronunciation": "/dɪˈfɜːr/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board decided to defer the dividend payment until next quarter.",
-    "exampleVi": "Hội đồng quản trị quyết định hoãn việc trả cổ tức đến quý sau.",
-    "collocations": ["defer payment", "defer a decision", "defer taxes"],
-    "synonyms": ["postpone", "delay", "put off"],
-    "wordFamily": ["deferral", "deferred", "deferring"],
-    "day": 135
-  },
-  {
-    "id": "deferred-adjective",
-    "word": "deferred",
-    "baseWord": "defer",
-    "type": "adjective",
-    "meaning": "được hoãn lại, trả chậm",
-    "pronunciation": "/dɪˈfɜːrd/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The employee enrolled in the deferred compensation plan.",
-    "exampleVi": "Nhân viên đã đăng ký vào chương trình bồi thường hoãn lại.",
-    "collocations": ["deferred payment", "deferred tax", "deferred compensation", "deferred income"],
-    "synonyms": ["postponed", "delayed"],
-    "wordFamily": ["defer", "deferral", "deferring"],
-    "day": 135
-  },
-  {
-    "id": "undervalued-adjective",
-    "word": "undervalued",
-    "baseWord": "undervalue",
-    "type": "adjective",
-    "meaning": "bị định giá thấp",
-    "pronunciation": "/ˌʌndərˈvæljuːd/",
-    "topic": "Advanced Finance",
+    "id": "filing-deadline-phrase",
+    "word": "filing deadline",
+    "baseWord": "filing",
+    "type": "phrase",
+    "meaning": "filing deadline; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Analysts believe the stock is currently undervalued based on its earnings potential.",
-    "exampleVi": "Các nhà phân tích tin rằng cổ phiếu hiện đang bị định giá thấp dựa trên tiềm năng thu nhập.",
-    "collocations": ["undervalued stock", "undervalued asset", "significantly undervalued"],
-    "synonyms": ["underpriced", "below value"],
-    "wordFamily": ["undervalue", "undervaluation"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the filing deadline before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét filing deadline trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "filing deadline",
+      "filing deadline review",
+      "filing deadline process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "filing"
+    ],
+    "day": 134
+  },
+  {
+    "id": "inspection-notice-phrase",
+    "word": "inspection notice",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "inspection notice; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the inspection notice before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét inspection notice trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "inspection notice",
+      "inspection notice review",
+      "inspection notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "inspection"
+    ],
+    "day": 134
+  },
+  {
+    "id": "labor-regulation-phrase",
+    "word": "labor regulation",
+    "baseWord": "labor",
+    "type": "phrase",
+    "meaning": "labor regulation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the labor regulation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét labor regulation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "labor regulation",
+      "labor regulation review",
+      "labor regulation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "labor"
+    ],
+    "day": 134
+  },
+  {
+    "id": "license-renewal-phrase",
+    "word": "license renewal",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "license renewal; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the license renewal before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét license renewal trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "license renewal",
+      "license renewal review",
+      "license renewal process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "license"
+    ],
+    "day": 134
+  },
+  {
+    "id": "occupational-compliance-rule-phrase",
+    "word": "occupational compliance rule",
+    "baseWord": "occupational",
+    "type": "phrase",
+    "meaning": "occupational compliance rule; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the occupational compliance rule before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét occupational compliance rule trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "occupational compliance rule",
+      "occupational compliance rule review",
+      "occupational compliance rule process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "occupational"
+    ],
+    "day": 134
+  },
+  {
+    "id": "permit-application-phrase",
+    "word": "permit application",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "permit application; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the permit application before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét permit application trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "permit application",
+      "permit application review",
+      "permit application process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "permit"
+    ],
+    "day": 134
+  },
+  {
+    "id": "policy-violation-phrase",
+    "word": "policy violation",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "policy violation; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the policy violation before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét policy violation trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "policy violation",
+      "policy violation review",
+      "policy violation process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "policy"
+    ],
+    "day": 134
+  },
+  {
+    "id": "regulatory-filing-phrase",
+    "word": "regulatory filing",
+    "baseWord": "regulatory",
+    "type": "phrase",
+    "meaning": "regulatory filing; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the regulatory filing before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét regulatory filing trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "regulatory filing",
+      "regulatory filing review",
+      "regulatory filing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "regulatory"
+    ],
+    "day": 134
+  },
+  {
+    "id": "risk-control-phrase",
+    "word": "risk control",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "risk control; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the risk control before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét risk control trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "risk control",
+      "risk control review",
+      "risk control process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 134
+  },
+  {
+    "id": "sanctions-screening-phrase",
+    "word": "sanctions screening",
+    "baseWord": "sanction",
+    "type": "phrase",
+    "meaning": "sanctions screening; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the sanctions screening before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét sanctions screening trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "sanctions screening",
+      "sanctions screening review",
+      "sanctions screening process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "sanction"
+    ],
+    "day": 134
+  },
+  {
+    "id": "statutory-deadline-phrase",
+    "word": "statutory deadline",
+    "baseWord": "statutory",
+    "type": "phrase",
+    "meaning": "statutory deadline; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the statutory deadline before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét statutory deadline trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "statutory deadline",
+      "statutory deadline review",
+      "statutory deadline process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "statutory"
+    ],
+    "day": 134
+  },
+  {
+    "id": "vendor-screening-phrase",
+    "word": "vendor screening",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "vendor screening; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the vendor screening before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét vendor screening trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "vendor screening",
+      "vendor screening review",
+      "vendor screening process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "vendor"
+    ],
+    "day": 134
+  },
+  {
+    "id": "attestation-form-phrase",
+    "word": "attestation form",
+    "baseWord": "attestation",
+    "type": "phrase",
+    "meaning": "attestation form; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the attestation form before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét attestation form trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "attestation form",
+      "attestation form review",
+      "attestation form process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "attestation"
+    ],
     "day": 135
   },
   {
-    "id": "creditor-noun",
-    "word": "creditor",
-    "baseWord": "credit",
-    "type": "noun",
-    "meaning": "chủ nợ",
-    "pronunciation": "/ˈkredɪtər/",
-    "topic": "Advanced Finance",
-    "frequency": "medium",
+    "id": "breach-notification-phrase",
+    "word": "breach notification",
+    "baseWord": "breach",
+    "type": "phrase",
+    "meaning": "breach notification; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The company must negotiate with its creditors to restructure the debt.",
-    "exampleVi": "Công ty phải đàm phán với các chủ nợ để tái cấu trúc khoản nợ.",
-    "collocations": ["major creditor", "creditor's rights", "secured creditor", "pay creditors"],
-    "synonyms": ["lender", "financier"],
-    "wordFamily": ["credit", "creditors"],
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the breach notification before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét breach notification trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "breach notification",
+      "breach notification review",
+      "breach notification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "breach"
+    ],
     "day": 135
   },
   {
-    "id": "subsidy-noun",
-    "word": "subsidy",
-    "baseWord": "subsidy",
-    "type": "noun",
-    "meaning": "trợ cấp, khoản tài trợ",
-    "pronunciation": "/ˈsʌbsɪdi/",
-    "topic": "Advanced Finance",
+    "id": "compliance-certification-phrase",
+    "word": "compliance certification",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "compliance certification; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the compliance certification before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét compliance certification trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "compliance certification",
+      "compliance certification review",
+      "compliance certification process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 135
+  },
+  {
+    "id": "contract-template-phrase",
+    "word": "contract template",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "contract template; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The government provides subsidies to farmers to offset rising production costs.",
-    "exampleVi": "Chính phủ cung cấp trợ cấp cho nông dân để bù đắp chi phí sản xuất tăng cao.",
-    "collocations": ["government subsidy", "receive a subsidy", "agricultural subsidy", "subsidy program"],
-    "synonyms": ["grant", "allowance", "aid"],
-    "wordFamily": ["subsidize", "subsidized", "subsidizing", "subsidies"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the contract template before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét contract template trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "contract template",
+      "contract template review",
+      "contract template process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "contract"
+    ],
+    "day": 135
+  },
+  {
+    "id": "copyright-notice-phrase",
+    "word": "copyright notice",
+    "baseWord": "copyright",
+    "type": "phrase",
+    "meaning": "copyright notice; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the copyright notice before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét copyright notice trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "copyright notice",
+      "copyright notice review",
+      "copyright notice process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "copyright"
+    ],
+    "day": 135
+  },
+  {
+    "id": "data-breach-phrase",
+    "word": "data breach",
+    "baseWord": "data",
+    "type": "phrase",
+    "meaning": "data breach; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the data breach before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét data breach trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "data breach",
+      "data breach review",
+      "data breach process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "data"
+    ],
+    "day": 135
+  },
+  {
+    "id": "employment-agreement-phrase",
+    "word": "employment agreement",
+    "baseWord": "employment",
+    "type": "phrase",
+    "meaning": "employment agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the employment agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét employment agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "employment agreement",
+      "employment agreement review",
+      "employment agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "employment"
+    ],
+    "day": 135
+  },
+  {
+    "id": "exclusive-right-phrase",
+    "word": "exclusive right",
+    "baseWord": "exclusive",
+    "type": "phrase",
+    "meaning": "exclusive right; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the exclusive right before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét exclusive right trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "exclusive right",
+      "exclusive right review",
+      "exclusive right process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "exclusive"
+    ],
+    "day": 135
+  },
+  {
+    "id": "intellectual-property-phrase",
+    "word": "intellectual property",
+    "baseWord": "intellectual",
+    "type": "phrase",
+    "meaning": "intellectual property; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the intellectual property before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét intellectual property trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "intellectual property",
+      "intellectual property review",
+      "intellectual property process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "intellectual"
+    ],
+    "day": 135
+  },
+  {
+    "id": "lease-agreement-phrase",
+    "word": "lease agreement",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "lease agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the lease agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét lease agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "lease agreement",
+      "lease agreement review",
+      "lease agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "lease"
+    ],
+    "day": 135
+  },
+  {
+    "id": "legal-exposure-phrase",
+    "word": "legal exposure",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal exposure; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal exposure before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal exposure trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal exposure",
+      "legal exposure review",
+      "legal exposure process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 135
+  },
+  {
+    "id": "legal-ownership-phrase",
+    "word": "legal ownership",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal ownership; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal ownership before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal ownership trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal ownership",
+      "legal ownership review",
+      "legal ownership process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 135
+  },
+  {
+    "id": "legal-precedent-phrase",
+    "word": "legal precedent",
+    "baseWord": "legal",
+    "type": "phrase",
+    "meaning": "legal precedent; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the legal precedent before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét legal precedent trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "legal precedent",
+      "legal precedent review",
+      "legal precedent process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "legal"
+    ],
+    "day": 135
+  },
+  {
+    "id": "licensing-agreement-phrase",
+    "word": "licensing agreement",
+    "baseWord": "licensing",
+    "type": "phrase",
+    "meaning": "licensing agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the licensing agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét licensing agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "licensing agreement",
+      "licensing agreement review",
+      "licensing agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "licensing"
+    ],
+    "day": 135
+  },
+  {
+    "id": "patent-application-phrase",
+    "word": "patent application",
+    "baseWord": "patent",
+    "type": "phrase",
+    "meaning": "patent application; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the patent application before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét patent application trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "patent application",
+      "patent application review",
+      "patent application process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "patent"
+    ],
+    "day": 135
+  },
+  {
+    "id": "purchase-agreement-phrase",
+    "word": "purchase agreement",
+    "baseWord": "purchase",
+    "type": "phrase",
+    "meaning": "purchase agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the purchase agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét purchase agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "purchase agreement",
+      "purchase agreement review",
+      "purchase agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "purchase"
+    ],
+    "day": 135
+  },
+  {
+    "id": "regulatory-approval-phrase",
+    "word": "regulatory approval",
+    "baseWord": "regulatory",
+    "type": "phrase",
+    "meaning": "regulatory approval; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the regulatory approval before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét regulatory approval trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "regulatory approval",
+      "regulatory approval review",
+      "regulatory approval process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "regulatory"
+    ],
+    "day": 135
+  },
+  {
+    "id": "service-agreement-phrase",
+    "word": "service agreement",
+    "baseWord": "service",
+    "type": "phrase",
+    "meaning": "service agreement; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the service agreement before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét service agreement trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "service agreement",
+      "service agreement review",
+      "service agreement process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "service"
+    ],
+    "day": 135
+  },
+  {
+    "id": "standard-terms-phrase",
+    "word": "standard terms",
+    "baseWord": "standard",
+    "type": "phrase",
+    "meaning": "standard terms; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The legal team examined the standard terms before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét standard terms trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "standard terms",
+      "standard terms review",
+      "standard terms process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "standard"
+    ],
+    "day": 135
+  },
+  {
+    "id": "trademark-filing-phrase",
+    "word": "trademark filing",
+    "baseWord": "trademark",
+    "type": "phrase",
+    "meaning": "trademark filing; thuật ngữ về pháp lý và tuân thủ",
+    "pronunciation": "",
+    "topic": "Legal & Compliance",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The legal team examined the trademark filing before approving the agreement.",
+    "exampleVi": "Nhóm pháp lý đã xem xét trademark filing trước khi phê duyệt thỏa thuận.",
+    "collocations": [
+      "trademark filing",
+      "trademark filing review",
+      "trademark filing process"
+    ],
+    "synonyms": [
+      "related term",
+      "business expression"
+    ],
+    "wordFamily": [
+      "trademark"
+    ],
     "day": 135
   }
 ]

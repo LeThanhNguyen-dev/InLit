@@ -1,0 +1,3167 @@
+[
+  {
+    "id": "bill of lading-phrase",
+    "word": "bill of lading",
+    "baseWord": "bill",
+    "type": "phrase",
+    "meaning": "vận đơn đường biển hoặc đường bộ",
+    "pronunciation": "/ˌbɪl əv ˈleɪdɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The carrier issued a bill of lading listing all the loaded items.",
+    "exampleVi": "Người vận chuyển đã phát hành một vận đơn liệt kê tất cả các mặt hàng được xếp lên.",
+    "collocations": [
+      "ocean bill of lading",
+      "sign the bill of lading",
+      "original bill of lading"
+    ],
+    "synonyms": [
+      "waybill",
+      "manifest"
+    ],
+    "wordFamily": [
+      "bill",
+      "lade"
+    ],
+    "day": 46
+  },
+  {
+    "id": "carton-noun",
+    "word": "carton",
+    "baseWord": "carton",
+    "type": "noun",
+    "meaning": "hộp giấy cứng, thùng các-tông",
+    "pronunciation": "/ˈkɑːrtn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please pack the books into the large cardboard carton.",
+    "exampleVi": "Vui lòng đóng gói những cuốn sách vào chiếc thùng các-tông lớn bằng bìa cứng.",
+    "collocations": [
+      "milk carton",
+      "cardboard carton",
+      "pack in a carton"
+    ],
+    "synonyms": [
+      "box",
+      "case",
+      "crate"
+    ],
+    "wordFamily": [
+      "carton"
+    ],
+    "day": 46
+  },
+  {
+    "id": "consignee-noun",
+    "word": "consignee",
+    "baseWord": "consign",
+    "type": "noun",
+    "meaning": "người nhận hàng ký gửi, người nhận hàng",
+    "pronunciation": "/ˌkɑːnsaɪˈniː/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The shipment will be released only after the consignee signs the receipt.",
+    "exampleVi": "Lô hàng sẽ chỉ được giao sau khi người nhận hàng ký tên vào biên lai.",
+    "collocations": [
+      "named consignee",
+      "consignee address",
+      "notify the consignee"
+    ],
+    "synonyms": [
+      "recipient",
+      "receiver",
+      "buyer"
+    ],
+    "wordFamily": [
+      "consign",
+      "consignor",
+      "consignment"
+    ],
+    "day": 46
+  },
+  {
+    "id": "consignment-noun",
+    "word": "consignment",
+    "baseWord": "consign",
+    "type": "noun",
+    "meaning": "lô hàng ký gửi, sự ký gửi hàng hóa",
+    "pronunciation": "/kənˈsaɪnmənt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "A new consignment of clothing is scheduled to arrive tomorrow.",
+    "exampleVi": "Một lô hàng quần áo mới được lên lịch sẽ đến vào ngày mai.",
+    "collocations": [
+      "on consignment",
+      "consignment agreement",
+      "receive a consignment"
+    ],
+    "synonyms": [
+      "shipment",
+      "batch",
+      "delivery"
+    ],
+    "wordFamily": [
+      "consign",
+      "consignor",
+      "consignee"
+    ],
+    "day": 46
+  },
+  {
+    "id": "consignor-noun",
+    "word": "consignor",
+    "baseWord": "consign",
+    "type": "noun",
+    "meaning": "người gửi hàng, người ký gửi",
+    "pronunciation": "/kənˈsaɪnər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The consignor is responsible for paying all initial shipping charges.",
+    "exampleVi": "Người gửi hàng có trách nhiệm thanh toán tất cả các khoản phí vận chuyển ban đầu.",
+    "collocations": [
+      "original consignor",
+      "consignor liability",
+      "shipper and consignor"
+    ],
+    "synonyms": [
+      "shipper",
+      "sender",
+      "dispatcher"
+    ],
+    "wordFamily": [
+      "consign",
+      "consignee",
+      "consignment"
+    ],
+    "day": 46
+  },
+  {
+    "id": "container-noun",
+    "word": "container",
+    "baseWord": "contain",
+    "type": "noun",
+    "meaning": "thùng chứa, công-te-nơ đựng hàng",
+    "pronunciation": "/kənˈteɪnər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The goods were packed securely inside a steel container.",
+    "exampleVi": "Hàng hóa được đóng gói an toàn bên trong một thùng chứa bằng thép.",
+    "collocations": [
+      "shipping container",
+      "cargo container",
+      "container ship"
+    ],
+    "synonyms": [
+      "receptacle",
+      "crate",
+      "box"
+    ],
+    "wordFamily": [
+      "contain",
+      "containment"
+    ],
+    "day": 46
+  },
+  {
+    "id": "containerization-noun",
+    "word": "containerization",
+    "baseWord": "contain",
+    "type": "noun",
+    "meaning": "sự công-te-nơ hóa, việc đóng hàng vào công-te-nơ",
+    "pronunciation": "/kənˌteɪnəraɪˈzeɪʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Containerization revolutionized international trade by reducing transit times.",
+    "exampleVi": "Sự công-te-nơ hóa đã cách mạng hóa thương mại quốc tế bằng cách giảm thời gian vận chuyển.",
+    "collocations": [
+      "cargo containerization",
+      "benefits of containerization",
+      "modern containerization"
+    ],
+    "synonyms": [
+      "packing",
+      "unitization"
+    ],
+    "wordFamily": [
+      "container",
+      "contain"
+    ],
+    "day": 46
+  },
+  {
+    "id": "distribute-verb",
+    "word": "distribute",
+    "baseWord": "tribute",
+    "type": "verb",
+    "meaning": "phân phối, phân phát hàng hóa",
+    "pronunciation": "/dɪˈstrɪbjuːt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The company will distribute its products through local wholesalers.",
+    "exampleVi": "Công ty sẽ phân phối sản phẩm của mình thông qua các nhà bán bán buôn địa phương.",
+    "collocations": [
+      "distribute flyers",
+      "distribute products",
+      "evenly distribute"
+    ],
+    "synonyms": [
+      "allocate",
+      "disperse",
+      "share"
+    ],
+    "wordFamily": [
+      "distribution",
+      "distributor",
+      "distributive"
+    ],
+    "day": 46
+  },
+  {
+    "id": "distribution-noun",
+    "word": "distribution",
+    "baseWord": "tribute",
+    "type": "noun",
+    "meaning": "sự phân phối, việc giao hàng khắp nơi",
+    "pronunciation": "/ˌdɪstrɪˈbjuːʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The new distribution center will cut down our shipping costs.",
+    "exampleVi": "Trung tâm phân phối mới sẽ cắt giảm chi phí vận chuyển của chúng tôi.",
+    "collocations": [
+      "distribution network",
+      "distribution channel",
+      "product distribution"
+    ],
+    "synonyms": [
+      "allocation",
+      "dissemination",
+      "delivery"
+    ],
+    "wordFamily": [
+      "distribute",
+      "distributor"
+    ],
+    "day": 46
+  },
+  {
+    "id": "forwarder-noun",
+    "word": "forwarder",
+    "baseWord": "forward",
+    "type": "noun",
+    "meaning": "đại lý giao nhận, người chuyển tiếp",
+    "pronunciation": "/ˈfɔːrwərdər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We hired a freight forwarder to handle all customs documentation.",
+    "exampleVi": "Chúng tôi đã thuê một đại lý giao nhận hàng hóa để xử lý tất cả các tài liệu hải quan.",
+    "collocations": [
+      "freight forwarder",
+      "forwarder contract",
+      "local forwarder"
+    ],
+    "synonyms": [
+      "shipper agent",
+      "intermediary"
+    ],
+    "wordFamily": [
+      "forward",
+      "forwarding"
+    ],
+    "day": 46
+  },
+  {
+    "id": "fulfillment-noun",
+    "word": "fulfillment",
+    "baseWord": "fulfill",
+    "type": "noun",
+    "meaning": "sự hoàn tất đơn hàng, sự đáp ứng, hoàn thành",
+    "pronunciation": "/fʊlˈfɪlmənt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The online retailer is upgrading its order fulfillment system.",
+    "exampleVi": "Nhà bán lẻ trực tuyến đang nâng cấp hệ thống hoàn tất đơn hàng của mình.",
+    "collocations": [
+      "order fulfillment",
+      "fulfillment center",
+      "guarantee fulfillment"
+    ],
+    "synonyms": [
+      "completion",
+      "execution",
+      "satisfaction"
+    ],
+    "wordFamily": [
+      "fulfill",
+      "fulfilled",
+      "fulfilling"
+    ],
+    "day": 46
+  },
+  {
+    "id": "package-noun",
+    "word": "package",
+    "baseWord": "pack",
+    "type": "noun",
+    "meaning": "gói hàng, kiện hàng, bưu kiện",
+    "pronunciation": "/ˈpækɪdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The courier delivered the package to the reception desk this morning.",
+    "exampleVi": "Nhân viên chuyển phát nhanh đã giao gói hàng đến bàn lễ tân sáng nay.",
+    "collocations": [
+      "receive a package",
+      "care package",
+      "software package"
+    ],
+    "synonyms": [
+      "parcel",
+      "bundle",
+      "packet"
+    ],
+    "wordFamily": [
+      "pack",
+      "packer",
+      "packaging"
+    ],
+    "day": 46
+  },
+  {
+    "id": "replenish-verb",
+    "word": "replenish",
+    "baseWord": "plenty",
+    "type": "verb",
+    "meaning": "làm đầy lại, bổ sung (hàng tồn kho hoặc nguồn cung)",
+    "pronunciation": "/rɪˈplenɪʃ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We need to replenish our office supplies before they run out completely.",
+    "exampleVi": "Chúng ta cần bổ sung đồ dùng văn phòng của mình trước khi chúng hết sạch.",
+    "collocations": [
+      "replenish inventory",
+      "replenish supplies",
+      "replenish funds"
+    ],
+    "synonyms": [
+      "refill",
+      "restock",
+      "restore"
+    ],
+    "wordFamily": [
+      "replenishment"
+    ],
+    "day": 46
+  },
+  {
+    "id": "shrink-wrap-noun",
+    "word": "shrink-wrap",
+    "baseWord": "wrap",
+    "type": "noun",
+    "meaning": "màng bọc co nhiệt (bảo vệ hàng hóa trên pallet)",
+    "pronunciation": "/ˈʃrɪŋk ræp/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We apply shrink-wrap to the boxes to prevent moisture during transit.",
+    "exampleVi": "Chúng tôi áp dụng màng bọc co nhiệt vào các hộp để ngăn ẩm trong quá trình vận chuyển.",
+    "collocations": [
+      "heavy-duty shrink-wrap",
+      "apply shrink-wrap",
+      "plastic shrink-wrap"
+    ],
+    "synonyms": [
+      "plastic wrap",
+      "stretch wrap"
+    ],
+    "wordFamily": [
+      "wrap",
+      "wrapper",
+      "wrapping"
+    ],
+    "day": 46
+  },
+  {
+    "id": "stevedore-noun",
+    "word": "stevedore",
+    "baseWord": "stevedore",
+    "type": "noun",
+    "meaning": "công nhân bốc xếp ở cảng, người dỡ hàng",
+    "pronunciation": "/ˈstiːvədɔːr/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The stevedores worked all night to unload the grain freighter.",
+    "exampleVi": "Các công nhân bốc xếp cảng đã làm việc suốt đêm để dỡ hàng chiếc tàu chở ngũ cốc.",
+    "collocations": [
+      "hire stevedores",
+      "stevedore crew",
+      "dock stevedore"
+    ],
+    "synonyms": [
+      "longshoreman",
+      "dockworker",
+      "loader"
+    ],
+    "wordFamily": [
+      "stevedoring"
+    ],
+    "day": 46
+  },
+  {
+    "id": "stockout-noun",
+    "word": "stockout",
+    "baseWord": "stock",
+    "type": "noun",
+    "meaning": "sự hết hàng, tình trạng hết hàng trong kho",
+    "pronunciation": "/ˈstɑːkaʊt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The unexpected demand led to a temporary stockout of the best-selling model.",
+    "exampleVi": "Nhu cầu bất ngờ đã dẫn đến tình trạng hết hàng tạm thời của mẫu xe bán chạy nhất.",
+    "collocations": [
+      "prevent stockouts",
+      "stockout costs",
+      "suffer a stockout"
+    ],
+    "synonyms": [
+      "shortage",
+      "depletion",
+      "deficit"
+    ],
+    "wordFamily": [
+      "stock"
+    ],
+    "day": 46
+  },
+  {
+    "id": "tracking-noun",
+    "word": "tracking",
+    "baseWord": "track",
+    "type": "noun",
+    "meaning": "sự theo dõi lộ trình hàng hóa/giao dịch",
+    "pronunciation": "/ˈtrækɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You can use the tracking number to check the status of your order.",
+    "exampleVi": "Bạn có thể sử dụng mã theo dõi để kiểm tra trạng thái đơn đặt hàng của mình.",
+    "collocations": [
+      "shipment tracking",
+      "tracking number",
+      "tracking information"
+    ],
+    "synonyms": [
+      "monitoring",
+      "tracing"
+    ],
+    "wordFamily": [
+      "track",
+      "tracker"
+    ],
+    "day": 46
+  },
+  {
+    "id": "transportation-noun",
+    "word": "transportation",
+    "baseWord": "port",
+    "type": "noun",
+    "meaning": "sự vận chuyển, hệ thống giao thông vận tải",
+    "pronunciation": "/ˌtrænspɔːrˈteɪʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cost of transportation is rising due to increased fuel prices.",
+    "exampleVi": "Chi phí vận chuyển đang tăng do giá nhiên liệu tăng.",
+    "collocations": [
+      "public transportation",
+      "means of transportation",
+      "transportation costs"
+    ],
+    "synonyms": [
+      "transit",
+      "conveyance",
+      "carriage"
+    ],
+    "wordFamily": [
+      "transport",
+      "transporter"
+    ],
+    "day": 46
+  },
+  {
+    "id": "waybill-noun",
+    "word": "waybill",
+    "baseWord": "waybill",
+    "type": "noun",
+    "meaning": "vận đơn, giấy gửi hàng",
+    "pronunciation": "/ˈweɪbɪl/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The customs officer checked the waybill against the actual cargo.",
+    "exampleVi": "Nhân viên hải quan đã kiểm tra vận đơn so với hàng hóa thực tế.",
+    "collocations": [
+      "air waybill",
+      "sea waybill",
+      "attach a waybill"
+    ],
+    "synonyms": [
+      "consignment note",
+      "delivery note"
+    ],
+    "wordFamily": [
+      "waybill"
+    ],
+    "day": 46
+  },
+  {
+    "id": "wharf-noun",
+    "word": "wharf",
+    "baseWord": "wharf",
+    "type": "noun",
+    "meaning": "cầu cảng, bến tàu",
+    "pronunciation": "/wɔːrf/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cargo ship was docked at the wharf to discharge its containers.",
+    "exampleVi": "Tàu chở hàng đã cập bến tại cầu cảng để dỡ các công-te-nơ của nó xuống.",
+    "collocations": [
+      "wooden wharf",
+      "dock at the wharf",
+      "wharf manager"
+    ],
+    "synonyms": [
+      "dock",
+      "quay",
+      "pier"
+    ],
+    "wordFamily": [
+      "wharfage"
+    ],
+    "day": 46
+  },
+  {
+    "id": "backorder-noun",
+    "word": "backorder",
+    "baseWord": "order",
+    "type": "noun",
+    "meaning": "đơn hàng nợ (sẽ giao khi có hàng lại)",
+    "pronunciation": "/ˈbækɔːrdər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The item you requested is currently on backorder and will ship in two weeks.",
+    "exampleVi": "Mặt hàng bạn yêu cầu hiện đang bị nợ đơn hàng và sẽ được giao sau hai tuần.",
+    "collocations": [
+      "placed on backorder",
+      "backorder list",
+      "fulfill a backorder"
+    ],
+    "synonyms": [
+      "delayed order"
+    ],
+    "wordFamily": [
+      "order"
+    ],
+    "day": 47
+  },
+  {
+    "id": "barge-noun",
+    "word": "barge",
+    "baseWord": "barge",
+    "type": "noun",
+    "meaning": "sà lan (thuyền lớn đáy bằng để chở hàng trên sông)",
+    "pronunciation": "/bɑːrdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Coal and lumber are transported down the river by large barges.",
+    "exampleVi": "Than và gỗ được vận chuyển xuôi dòng sông bằng những chiếc sà lan lớn.",
+    "collocations": [
+      "cargo barge",
+      "river barge",
+      "barge canal"
+    ],
+    "synonyms": [
+      "flatboat",
+      "lighter"
+    ],
+    "wordFamily": [
+      "barge"
+    ],
+    "day": 47
+  },
+  {
+    "id": "declare-verb",
+    "word": "declare",
+    "baseWord": "declare",
+    "type": "verb",
+    "meaning": "khai báo hàng hóa (hải quan), tuyên bố",
+    "pronunciation": "/dɪˈkler/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Do you have any commercial items to declare to customs?",
+    "exampleVi": "Bạn có mặt hàng thương mại nào cần khai báo với hải quan không?",
+    "collocations": [
+      "declare goods",
+      "nothing to declare",
+      "officially declare"
+    ],
+    "synonyms": [
+      "state",
+      "announce",
+      "proclaim"
+    ],
+    "wordFamily": [
+      "declaration",
+      "declaratory"
+    ],
+    "day": 47
+  },
+  {
+    "id": "dock-noun",
+    "word": "dock",
+    "baseWord": "dock",
+    "type": "noun",
+    "meaning": "bến bốc dỡ hàng, bến tàu",
+    "pronunciation": "/dɑːk/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The trucks are parked at the loading dock, waiting for their cargo.",
+    "exampleVi": "Các xe tải đang đỗ tại bến bốc xếp, chờ đợi hàng hóa của mình.",
+    "collocations": [
+      "loading dock",
+      "ship at dock",
+      "dock worker"
+    ],
+    "synonyms": [
+      "wharf",
+      "pier",
+      "quay"
+    ],
+    "wordFamily": [
+      "dockyard",
+      "undock"
+    ],
+    "day": 47
+  },
+  {
+    "id": "duty-noun",
+    "word": "duty",
+    "baseWord": "duty",
+    "type": "noun",
+    "meaning": "thuế hải quan, nghĩa vụ, nhiệm vụ",
+    "pronunciation": "/ˈduːti/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You may have to pay import duty when ordering goods from overseas.",
+    "exampleVi": "Bạn có thể phải trả thuế nhập khẩu khi đặt hàng từ nước ngoài.",
+    "collocations": [
+      "customs duty",
+      "duty-free shop",
+      "on duty"
+    ],
+    "synonyms": [
+      "tariff",
+      "tax",
+      "obligation"
+    ],
+    "wordFamily": [
+      "dutiful",
+      "duty-free"
+    ],
+    "day": 47
+  },
+  {
+    "id": "export-verb",
+    "word": "export",
+    "baseWord": "port",
+    "type": "verb",
+    "meaning": "xuất khẩu",
+    "pronunciation": "/ˈekspɔːrt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We export agricultural machinery to several Asian markets.",
+    "exampleVi": "Chúng tôi xuất khẩu máy móc nông nghiệp sang một số thị trường châu Á.",
+    "collocations": [
+      "export products",
+      "export market",
+      "license to export"
+    ],
+    "synonyms": [
+      "send abroad",
+      "sell overseas"
+    ],
+    "wordFamily": [
+      "export",
+      "exporter",
+      "exportation"
+    ],
+    "day": 47
+  },
+  {
+    "id": "freighter-noun",
+    "word": "freighter",
+    "baseWord": "freight",
+    "type": "noun",
+    "meaning": "tàu chở hàng, máy bay chở hàng",
+    "pronunciation": "/ˈfreɪtər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "An ocean freighter docked yesterday to unload electronics.",
+    "exampleVi": "Một chiếc tàu chở hàng đại dương đã cập bến hôm qua để dỡ đồ điện tử.",
+    "collocations": [
+      "ocean freighter",
+      "cargo freighter",
+      "air freighter"
+    ],
+    "synonyms": [
+      "cargo ship",
+      "merchant vessel"
+    ],
+    "wordFamily": [
+      "freight"
+    ],
+    "day": 47
+  },
+  {
+    "id": "harbor-noun",
+    "word": "harbor",
+    "baseWord": "harbor",
+    "type": "noun",
+    "meaning": "hải cảng, vũng tàu đậu",
+    "pronunciation": "/ˈhɑːrbər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The city's natural harbor protects vessels from high winds.",
+    "exampleVi": "Hải cảng tự nhiên của thành phố bảo vệ các tàu thuyền khỏi gió lớn.",
+    "collocations": [
+      "natural harbor",
+      "harbor master",
+      "ships in the harbor"
+    ],
+    "synonyms": [
+      "port",
+      "haven",
+      "bay"
+    ],
+    "wordFamily": [
+      "harbor"
+    ],
+    "day": 47
+  },
+  {
+    "id": "import-verb",
+    "word": "import",
+    "baseWord": "port",
+    "type": "verb",
+    "meaning": "nhập khẩu",
+    "pronunciation": "/ˈɪmpɔːrt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The country has to import most of its raw materials.",
+    "exampleVi": "Quốc gia phải nhập khẩu hầu hết các nguyên liệu thô của mình.",
+    "collocations": [
+      "import goods",
+      "import license",
+      "import tax"
+    ],
+    "synonyms": [
+      "bring in",
+      "buy from abroad"
+    ],
+    "wordFamily": [
+      "import",
+      "importer",
+      "importation"
+    ],
+    "day": 47
+  },
+  {
+    "id": "lead time-phrase",
+    "word": "lead time",
+    "baseWord": "lead",
+    "type": "phrase",
+    "meaning": "thời gian từ lúc đặt hàng đến lúc nhận hàng",
+    "pronunciation": "/ˈliːd taɪm/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Ordering from overseas suppliers usually increases the lead time.",
+    "exampleVi": "Đặt hàng từ các nhà cung cấp nước ngoài thường làm tăng thời gian chờ nhận hàng.",
+    "collocations": [
+      "reduce lead time",
+      "average lead time",
+      "delivery lead time"
+    ],
+    "synonyms": [
+      "waiting time",
+      "latency"
+    ],
+    "wordFamily": [
+      "lead"
+    ],
+    "day": 47
+  },
+  {
+    "id": "lift-verb",
+    "word": "lift",
+    "baseWord": "lift",
+    "type": "verb",
+    "meaning": "nâng lên, nhấc lên, bãi bỏ (luật lệ/lệnh cấm)",
+    "pronunciation": "/lɪft/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 5"
+    ],
+    "example": "Please use the forklift to lift those heavy boxes onto the shelf.",
+    "exampleVi": "Vui lòng sử dụng xe nâng để nâng những chiếc hộp nặng đó lên kệ.",
+    "collocations": [
+      "lift heavy objects",
+      "lift a ban",
+      "forklift operator"
+    ],
+    "synonyms": [
+      "raise",
+      "hoist",
+      "elevate"
+    ],
+    "wordFamily": [
+      "lifter"
+    ],
+    "day": 47
+  },
+  {
+    "id": "load-verb",
+    "word": "load",
+    "baseWord": "load",
+    "type": "verb",
+    "meaning": "bốc hàng, xếp hàng lên xe/tàu",
+    "pronunciation": "/loʊd/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "They are loading the container onto the cargo ship right now.",
+    "exampleVi": "Họ đang xếp chiếc công-te-nơ lên tàu chở hàng ngay bây giờ.",
+    "collocations": [
+      "load a truck",
+      "load cargo",
+      "loading dock"
+    ],
+    "synonyms": [
+      "fill",
+      "burden",
+      "pack"
+    ],
+    "wordFamily": [
+      "loader",
+      "unload",
+      "payload"
+    ],
+    "day": 47
+  },
+  {
+    "id": "port-noun",
+    "word": "port",
+    "baseWord": "port",
+    "type": "noun",
+    "meaning": "cảng biển, bến cảng, cổng kết nối máy tính",
+    "pronunciation": "/pɔːrt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our ship will arrive at the port of Rotterdam next Thursday.",
+    "exampleVi": "Tàu của chúng tôi sẽ đến cảng Rotterdam vào thứ Năm tới.",
+    "collocations": [
+      "port of entry",
+      "seaport",
+      "computer port"
+    ],
+    "synonyms": [
+      "harbor",
+      "haven",
+      "terminal"
+    ],
+    "wordFamily": [
+      "portage",
+      "seaport"
+    ],
+    "day": 47
+  },
+  {
+    "id": "replenishment-noun",
+    "word": "replenishment",
+    "baseWord": "plenty",
+    "type": "noun",
+    "meaning": "sự bổ sung, việc nhập thêm hàng",
+    "pronunciation": "/rɪˈplenɪʃmənt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The warehouse manager ordered an immediate replenishment of raw materials.",
+    "exampleVi": "Quản lý kho đã ra lệnh bổ sung ngay lập tức các nguyên liệu thô.",
+    "collocations": [
+      "inventory replenishment",
+      "replenishment cycle",
+      "automatic replenishment"
+    ],
+    "synonyms": [
+      "restocking",
+      "refilling"
+    ],
+    "wordFamily": [
+      "replenish"
+    ],
+    "day": 47
+  },
+  {
+    "id": "sourcing-noun",
+    "word": "sourcing",
+    "baseWord": "source",
+    "type": "noun",
+    "meaning": "việc tìm kiếm nguồn cung ứng hàng hóa",
+    "pronunciation": "/ˈsɔːrsɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Global sourcing helps companies find cheaper raw materials.",
+    "exampleVi": "Tìm kiếm nguồn cung toàn cầu giúp các công ty tìm kiếm nguyên liệu thô rẻ hơn.",
+    "collocations": [
+      "global sourcing",
+      "sourcing strategy",
+      "outsourcing"
+    ],
+    "synonyms": [
+      "procurement",
+      "supply finding",
+      "purchasing"
+    ],
+    "wordFamily": [
+      "source",
+      "outsource"
+    ],
+    "day": 47
+  },
+  {
+    "id": "stack-verb",
+    "word": "stack",
+    "baseWord": "stack",
+    "type": "verb",
+    "meaning": "xếp thành chồng, chất đống",
+    "pronunciation": "/stæk/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 5"
+    ],
+    "example": "The workers are stacking the wooden crates in the corner of the warehouse.",
+    "exampleVi": "Các công nhân đang xếp các thùng gỗ thành chồng ở góc kho.",
+    "collocations": [
+      "stack boxes",
+      "stack neatly",
+      "stack on pallets"
+    ],
+    "synonyms": [
+      "pile",
+      "heap",
+      "arrange"
+    ],
+    "wordFamily": [
+      "stacker",
+      "stacked"
+    ],
+    "day": 47
+  },
+  {
+    "id": "tanker-noun",
+    "word": "tanker",
+    "baseWord": "tank",
+    "type": "noun",
+    "meaning": "tàu chở dầu, xe bồn",
+    "pronunciation": "/ˈtæŋkər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The oil tanker ran aground and caused an environmental spill.",
+    "exampleVi": "Tàu chở dầu đã bị mắc cạn và gây ra một vụ tràn dầu ảnh hưởng môi trường.",
+    "collocations": [
+      "oil tanker",
+      "chemical tanker",
+      "water tanker"
+    ],
+    "synonyms": [
+      "tank ship",
+      "fuel truck"
+    ],
+    "wordFamily": [
+      "tank"
+    ],
+    "day": 47
+  },
+  {
+    "id": "tariff-noun",
+    "word": "tariff",
+    "baseWord": "tariff",
+    "type": "noun",
+    "meaning": "thuế quan, thuế xuất nhập khẩu, biểu giá",
+    "pronunciation": "/ˈtærɪf/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The government imposed a ten percent tariff on imported steel.",
+    "exampleVi": "Chính phủ đã áp thuế quan mười phần trăm đối với thép nhập khẩu.",
+    "collocations": [
+      "import tariff",
+      "impose tariffs",
+      "tariff barrier"
+    ],
+    "synonyms": [
+      "tax",
+      "duty",
+      "levy"
+    ],
+    "wordFamily": [
+      "tariff"
+    ],
+    "day": 47
+  },
+  {
+    "id": "transporter-noun",
+    "word": "transporter",
+    "baseWord": "port",
+    "type": "noun",
+    "meaning": "hãng vận tải, người vận chuyển, thiết bị vận chuyển",
+    "pronunciation": "/trænˈspɔːrtər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The logistics firm serves as the primary transporter for our products.",
+    "exampleVi": "Công ty hậu cần đóng vai trò là nhà vận chuyển chính cho các sản phẩm của chúng tôi.",
+    "collocations": [
+      "car transporter",
+      "primary transporter",
+      "licensed transporter"
+    ],
+    "synonyms": [
+      "carrier",
+      "shipper",
+      "conveyance"
+    ],
+    "wordFamily": [
+      "transport",
+      "transportation"
+    ],
+    "day": 47
+  },
+  {
+    "id": "unload-verb",
+    "word": "unload",
+    "baseWord": "load",
+    "type": "verb",
+    "meaning": "dỡ hàng xuống (khỏi tàu/xe)",
+    "pronunciation": "/ˌʌnˈloʊd/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The crew will unload the delivery van as soon as it arrives.",
+    "exampleVi": "Thủy thủ đoàn sẽ dỡ hàng khỏi xe tải giao hàng ngay khi nó đến.",
+    "collocations": [
+      "unload goods",
+      "unload cargo",
+      "unload quickly"
+    ],
+    "synonyms": [
+      "discharge",
+      "empty",
+      "unpack"
+    ],
+    "wordFamily": [
+      "load",
+      "loader"
+    ],
+    "day": 47
+  },
+  {
+    "id": "customs broker-phrase",
+    "word": "customs broker",
+    "baseWord": "broker",
+    "type": "phrase",
+    "meaning": "nhân viên đại lý hải quan, người môi giới hải quan",
+    "pronunciation": "/ˈkʌstəmz ˈbroʊkər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our customs broker helped us resolve the tariff dispute quickly.",
+    "exampleVi": "Người môi giới hải quan của chúng tôi đã giúp chúng tôi giải quyết tranh chấp thuế quan một cách nhanh chóng.",
+    "collocations": [
+      "licensed customs broker",
+      "hire a customs broker",
+      "customs broker fee"
+    ],
+    "synonyms": [
+      "customs agent",
+      "import broker"
+    ],
+    "wordFamily": [
+      "broker",
+      "brokerage"
+    ],
+    "day": 48
+  },
+  {
+    "id": "customs duty-phrase",
+    "word": "customs duty",
+    "baseWord": "duty",
+    "type": "phrase",
+    "meaning": "thuế hải quan, thuế xuất nhập khẩu hàng hóa",
+    "pronunciation": "/ˈkʌstəmz ˈduːti/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The import of luxury goods attracts a high customs duty.",
+    "exampleVi": "Việc nhập khẩu hàng hóa xa xỉ phải chịu thuế hải quan cao.",
+    "collocations": [
+      "pay customs duty",
+      "exempt from customs duty",
+      "customs duty rate"
+    ],
+    "synonyms": [
+      "import tax",
+      "tariff"
+    ],
+    "wordFamily": [
+      "duty"
+    ],
+    "day": 48
+  },
+  {
+    "id": "delivery van-phrase",
+    "word": "delivery van",
+    "baseWord": "deliver",
+    "type": "phrase",
+    "meaning": "xe tải giao hàng, xe van chuyển phát",
+    "pronunciation": "/dɪˈlɪvəri væn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The delivery van was blocked in traffic on the main avenue.",
+    "exampleVi": "Chiếc xe tải giao hàng đã bị tắc nghẽn giao thông trên đại lộ chính.",
+    "collocations": [
+      "drive a delivery van",
+      "electric delivery van",
+      "park a delivery van"
+    ],
+    "synonyms": [
+      "delivery truck",
+      "carrier vehicle"
+    ],
+    "wordFamily": [
+      "deliver",
+      "delivery"
+    ],
+    "day": 48
+  },
+  {
+    "id": "dimension-noun",
+    "word": "dimension",
+    "baseWord": "dimension",
+    "type": "noun",
+    "meaning": "kích thước (chiều dài, rộng, cao), khía cạnh",
+    "pronunciation": "/daɪˈmenʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The package dimensions must not exceed the shipping limit.",
+    "exampleVi": "Kích thước gói hàng không được vượt quá giới hạn vận chuyển.",
+    "collocations": [
+      "outer dimensions",
+      "exact dimensions",
+      "add a new dimension"
+    ],
+    "synonyms": [
+      "size",
+      "measurement",
+      "scale"
+    ],
+    "wordFamily": [
+      "dimensional"
+    ],
+    "day": 48
+  },
+  {
+    "id": "freight forwarder-phrase",
+    "word": "freight forwarder",
+    "baseWord": "forward",
+    "type": "phrase",
+    "meaning": "đơn vị giao nhận vận tải, công ty hậu cần bên thứ ba",
+    "pronunciation": "/ˈfreɪt fɔːrwərdər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The freight forwarder arranged for the customs clearance in New York.",
+    "exampleVi": "Đơn vị giao nhận vận tải đã sắp xếp việc thông quan hải quan tại New York.",
+    "collocations": [
+      "reliable freight forwarder",
+      "freight forwarder agent",
+      "hire a freight forwarder"
+    ],
+    "synonyms": [
+      "forwarding agent",
+      "shipping broker"
+    ],
+    "wordFamily": [
+      "forward",
+      "forwarder"
+    ],
+    "day": 48
+  },
+  {
+    "id": "gross weight-phrase",
+    "word": "gross weight",
+    "baseWord": "weight",
+    "type": "phrase",
+    "meaning": "trọng lượng toàn phần (gồm cả bao bì, vỏ hộp)",
+    "pronunciation": "/ɡroʊs weɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The gross weight of the cargo includes the wooden pallet and packaging.",
+    "exampleVi": "Trọng lượng toàn phần của hàng hóa bao gồm cả pallet gỗ và bao bì đóng gói.",
+    "collocations": [
+      "calculate gross weight",
+      "maximum gross weight",
+      "gross weight ticket"
+    ],
+    "synonyms": [
+      "total weight"
+    ],
+    "wordFamily": [
+      "weight",
+      "gross"
+    ],
+    "day": 48
+  },
+  {
+    "id": "loading dock-phrase",
+    "word": "loading dock",
+    "baseWord": "load",
+    "type": "phrase",
+    "meaning": "khu vực bốc xếp hàng, thềm bốc dỡ hàng",
+    "pronunciation": "/ˈloʊdɪŋ dɑːk/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please move the truck to the loading dock behind the main building.",
+    "exampleVi": "Vui lòng di chuyển xe tải đến thềm bốc dỡ hàng phía sau tòa nhà chính.",
+    "collocations": [
+      "warehouse loading dock",
+      "loading dock manager",
+      "deliver to the loading dock"
+    ],
+    "synonyms": [
+      "loading bay",
+      "cargo platform"
+    ],
+    "wordFamily": [
+      "load",
+      "dock"
+    ],
+    "day": 48
+  },
+  {
+    "id": "mass-noun",
+    "word": "mass",
+    "baseWord": "mass",
+    "type": "noun",
+    "meaning": "khối lượng vật lý, số đông, thánh lễ",
+    "pronunciation": "/mæs/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The mass of the object makes it difficult to move manually.",
+    "exampleVi": "Khối lượng của vật thể khiến nó khó có thể di chuyển bằng tay.",
+    "collocations": [
+      "mass production",
+      "mass transit",
+      "critical mass"
+    ],
+    "synonyms": [
+      "bulk",
+      "volume",
+      "weight"
+    ],
+    "wordFamily": [
+      "massive",
+      "massively"
+    ],
+    "day": 48
+  },
+  {
+    "id": "measure-verb",
+    "word": "measure",
+    "baseWord": "measure",
+    "type": "verb",
+    "meaning": "đo lường, định lượng",
+    "pronunciation": "/ˈmeʒər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We need to measure the box length to see if it fits in the van.",
+    "exampleVi": "Chúng ta cần đo chiều dài của chiếc hộp để xem nó có vừa với xe van không.",
+    "collocations": [
+      "measure performance",
+      "measure distance",
+      "measure precisely"
+    ],
+    "synonyms": [
+      "gauge",
+      "evaluate",
+      "quantify"
+    ],
+    "wordFamily": [
+      "measurement",
+      "measurable"
+    ],
+    "day": 48
+  },
+  {
+    "id": "measurement-noun",
+    "word": "measurement",
+    "baseWord": "measure",
+    "type": "noun",
+    "meaning": "sự đo lường, kích thước đo được",
+    "pronunciation": "/ˈmeʒərmənt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please take precise measurements of the container before loading it.",
+    "exampleVi": "Vui lòng đo đạc kích thước chính xác của công-te-nơ trước khi xếp nó lên.",
+    "collocations": [
+      "accurate measurement",
+      "take measurements",
+      "unit of measurement"
+    ],
+    "synonyms": [
+      "dimension",
+      "size",
+      "assessment"
+    ],
+    "wordFamily": [
+      "measure",
+      "measurable"
+    ],
+    "day": 48
+  },
+  {
+    "id": "net weight-phrase",
+    "word": "net weight",
+    "baseWord": "weight",
+    "type": "phrase",
+    "meaning": "trọng lượng tịnh (chỉ tính riêng hàng hóa bên trong)",
+    "pronunciation": "/net weɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The net weight of the chemical product is precisely fifty kilograms.",
+    "exampleVi": "Trọng lượng tịnh của sản phẩm hóa chất chính xác là năm mươi ki-lô-gam.",
+    "collocations": [
+      "indicate net weight",
+      "net weight vs gross weight",
+      "actual net weight"
+    ],
+    "synonyms": [
+      "pure weight"
+    ],
+    "wordFamily": [
+      "weight",
+      "net"
+    ],
+    "day": 48
+  },
+  {
+    "id": "packing-noun",
+    "word": "packing",
+    "baseWord": "pack",
+    "type": "noun",
+    "meaning": "vật liệu đóng gói, sự đóng gói",
+    "pronunciation": "/ˈpækɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We use eco-friendly packing materials to protect our shipments.",
+    "exampleVi": "Chúng tôi sử dụng các vật liệu đóng gói thân thiện với môi trường để bảo vệ các lô hàng của mình.",
+    "collocations": [
+      "packing list",
+      "packing materials",
+      "packing slip"
+    ],
+    "synonyms": [
+      "packaging",
+      "wrapping",
+      "boxing"
+    ],
+    "wordFamily": [
+      "pack",
+      "package",
+      "packer"
+    ],
+    "day": 48
+  },
+  {
+    "id": "payload-noun",
+    "word": "payload",
+    "baseWord": "load",
+    "type": "noun",
+    "meaning": "trọng tải hữu ích, lượng hàng hóa hữu ích mang theo",
+    "pronunciation": "/ˈpeɪloʊd/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new cargo aircraft has a maximum payload of one hundred tons.",
+    "exampleVi": "Máy bay chở hàng mới có trọng tải hữu ích tối đa là một trăm tấn.",
+    "collocations": [
+      "maximum payload",
+      "vehicle payload",
+      "payload capacity"
+    ],
+    "synonyms": [
+      "carrying capacity",
+      "freight load"
+    ],
+    "wordFamily": [
+      "load",
+      "unload"
+    ],
+    "day": 48
+  },
+  {
+    "id": "scale-noun",
+    "word": "scale",
+    "baseWord": "scale",
+    "type": "noun",
+    "meaning": "cái cân, quy mô, tỷ lệ",
+    "pronunciation": "/skeɪl/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Place the box on the scale so we can check its shipping weight.",
+    "exampleVi": "Đặt chiếc hộp lên cân để chúng ta có thể kiểm tra trọng lượng vận chuyển của nó.",
+    "collocations": [
+      "weighing scale",
+      "large scale",
+      "salary scale"
+    ],
+    "synonyms": [
+      "balance",
+      "dimension",
+      "level"
+    ],
+    "wordFamily": [
+      "scale"
+    ],
+    "day": 48
+  },
+  {
+    "id": "stow-verb",
+    "word": "stow",
+    "baseWord": "stow",
+    "type": "verb",
+    "meaning": "xếp gọn gàng, thu xếp hàng vào khoang",
+    "pronunciation": "/stoʊ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 1",
+      "Part 5"
+    ],
+    "example": "Please stow your carry-on luggage in the overhead compartments.",
+    "exampleVi": "Vui lòng xếp hành lý xách tay của bạn gọn gàng vào các ngăn phía trên đầu.",
+    "collocations": [
+      "stow luggage",
+      "safely stow",
+      "stow away"
+    ],
+    "synonyms": [
+      "pack",
+      "store",
+      "deposit"
+    ],
+    "wordFamily": [
+      "stowage"
+    ],
+    "day": 48
+  },
+  {
+    "id": "stowage-noun",
+    "word": "stowage",
+    "baseWord": "stow",
+    "type": "noun",
+    "meaning": "sự xếp hàng, không gian xếp hàng trên tàu",
+    "pronunciation": "/ˈstoʊɪdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cargo must be secured properly in the ship's stowage area.",
+    "exampleVi": "Hàng hóa phải được bảo đảm chắc chắn trong khu vực xếp hàng của tàu.",
+    "collocations": [
+      "stowage plan",
+      "safe stowage",
+      "stowage capacity"
+    ],
+    "synonyms": [
+      "storage",
+      "packing",
+      "stowing"
+    ],
+    "wordFamily": [
+      "stow"
+    ],
+    "day": 48
+  },
+  {
+    "id": "supply chain-phrase",
+    "word": "supply chain",
+    "baseWord": "chain",
+    "type": "phrase",
+    "meaning": "chuỗi cung ứng",
+    "pronunciation": "/səˈplaɪ tʃeɪn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory shutdown disrupted the entire supply chain.",
+    "exampleVi": "Việc đóng cửa nhà máy đã làm gián đoạn toàn bộ chuỗi cung ứng.",
+    "collocations": [
+      "supply chain management",
+      "global supply chain",
+      "supply chain disruption"
+    ],
+    "synonyms": [
+      "supply network",
+      "logistics channel"
+    ],
+    "wordFamily": [
+      "chain"
+    ],
+    "day": 48
+  },
+  {
+    "id": "weigh-verb",
+    "word": "weigh",
+    "baseWord": "weigh",
+    "type": "verb",
+    "meaning": "cân trọng lượng, cân nhắc",
+    "pronunciation": "/weɪ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The post office clerk will weigh your parcel to calculate the postage.",
+    "exampleVi": "Nhân viên bưu điện sẽ cân bưu kiện của bạn để tính phí bưu điện.",
+    "collocations": [
+      "weigh luggage",
+      "weigh options",
+      "weigh carefully"
+    ],
+    "synonyms": [
+      "measure weight",
+      "evaluate"
+    ],
+    "wordFamily": [
+      "weight",
+      "weighing"
+    ],
+    "day": 48
+  },
+  {
+    "id": "weight-noun",
+    "word": "weight",
+    "baseWord": "weigh",
+    "type": "noun",
+    "meaning": "trọng lượng, cân nặng, quả cân",
+    "pronunciation": "/weɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The total weight of the shipment exceeds the legal limit for this truck.",
+    "exampleVi": "Tổng trọng lượng của lô hàng vượt quá giới hạn pháp lý đối với xe tải này.",
+    "collocations": [
+      "maximum weight",
+      "net weight",
+      "lose weight"
+    ],
+    "synonyms": [
+      "mass",
+      "heaviness",
+      "load"
+    ],
+    "wordFamily": [
+      "weigh",
+      "weighty"
+    ],
+    "day": 48
+  },
+  {
+    "id": "wrapper-noun",
+    "word": "wrapper",
+    "baseWord": "wrap",
+    "type": "noun",
+    "meaning": "vỏ bọc ngoài, giấy gói",
+    "pronunciation": "/ˈræpər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please throw the plastic wrappers into the recycling bin.",
+    "exampleVi": "Vui lòng vứt những chiếc vỏ bọc bằng nhựa vào thùng rác tái chế.",
+    "collocations": [
+      "plastic wrapper",
+      "paper wrapper",
+      "candy wrapper"
+    ],
+    "synonyms": [
+      "covering",
+      "casing",
+      "sleeve"
+    ],
+    "wordFamily": [
+      "wrap",
+      "wrapping"
+    ],
+    "day": 48
+  },
+  {
+    "id": "billing-noun",
+    "word": "billing",
+    "baseWord": "bill",
+    "type": "noun",
+    "meaning": "việc lập hóa đơn thanh toán, doanh thu dự kiến",
+    "pronunciation": "/ˈbɪlɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please contact the billing department if there is an error on your invoice.",
+    "exampleVi": "Vui lòng liên hệ với bộ phận lập hóa đơn nếu có lỗi trên hóa đơn của bạn.",
+    "collocations": [
+      "billing address",
+      "billing department",
+      "incorrect billing"
+    ],
+    "synonyms": [
+      "invoicing",
+      "charging"
+    ],
+    "wordFamily": [
+      "billable",
+      "bill"
+    ],
+    "day": 49
+  },
+  {
+    "id": "bonded warehouse-phrase",
+    "word": "bonded warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "kho ngoại quan (lưu giữ hàng chưa nộp thuế)",
+    "pronunciation": "/ˈbɑːndɪd ˈwerhaʊs/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Imported goods are held in a bonded warehouse until duty is paid.",
+    "exampleVi": "Hàng hóa nhập khẩu được giữ trong kho ngoại quan cho đến khi nộp thuế.",
+    "collocations": [
+      "store in a bonded warehouse",
+      "licensed bonded warehouse",
+      "bonded warehouse facility"
+    ],
+    "synonyms": [
+      "customs warehouse"
+    ],
+    "wordFamily": [
+      "bond",
+      "warehouse"
+    ],
+    "day": 49
+  },
+  {
+    "id": "caution-noun",
+    "word": "caution",
+    "baseWord": "caution",
+    "type": "noun",
+    "meaning": "sự thận trọng, lời cảnh báo",
+    "pronunciation": "/ˈkɔːʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The warning label advised workers to handle the chemical with caution.",
+    "exampleVi": "Nhãn cảnh báo khuyên công nhân nên xử lý hóa chất một cách thận trọng.",
+    "collocations": [
+      "with caution",
+      "exercise caution",
+      "word of caution"
+    ],
+    "synonyms": [
+      "carefulness",
+      "prudence",
+      "warning"
+    ],
+    "wordFamily": [
+      "cautious",
+      "cautiously"
+    ],
+    "day": 49
+  },
+  {
+    "id": "cautious-adjective",
+    "word": "cautious",
+    "baseWord": "caution",
+    "type": "adjective",
+    "meaning": "thận trọng, cẩn thận",
+    "pronunciation": "/ˈkɔːʃəs/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Logistics managers must be cautious about choosing cheap insurers.",
+    "exampleVi": "Các quản lý hậu cần phải thận trọng trong việc lựa chọn các nhà bảo hiểm giá rẻ.",
+    "collocations": [
+      "cautious approach",
+      "cautious investor",
+      "extremely cautious"
+    ],
+    "synonyms": [
+      "careful",
+      "wary",
+      "prudent"
+    ],
+    "wordFamily": [
+      "caution",
+      "cautiously"
+    ],
+    "day": 49
+  },
+  {
+    "id": "damage-noun",
+    "word": "damage",
+    "baseWord": "damage",
+    "type": "noun",
+    "meaning": "sự hư hại, thiệt hại",
+    "pronunciation": "/ˈdæmɪdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The buyer claimed compensation for the damage to the cargo.",
+    "exampleVi": "Người mua đã yêu cầu bồi thường cho những hư hại đối với hàng hóa.",
+    "collocations": [
+      "water damage",
+      "severely damage",
+      "claim for damages"
+    ],
+    "synonyms": [
+      "harm",
+      "injury",
+      "loss"
+    ],
+    "wordFamily": [
+      "damage",
+      "damaged"
+    ],
+    "day": 49
+  },
+  {
+    "id": "demurrage-noun",
+    "word": "demurrage",
+    "baseWord": "demur",
+    "type": "noun",
+    "meaning": "phí lưu công-te-nơ/tàu tại cảng quá hạn (bên trong cảng)",
+    "pronunciation": "/dɪˈmɜːrɪdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "To avoid demurrage charges, the importer cleared the container within three days.",
+    "exampleVi": "Để tránh phí lưu bãi quá hạn, nhà nhập khẩu đã thông quan công-te-nơ trong vòng ba ngày.",
+    "collocations": [
+      "demurrage charge",
+      "demurrage rate",
+      "pay demurrage"
+    ],
+    "synonyms": [
+      "storage fee",
+      "delay charge"
+    ],
+    "wordFamily": [
+      "demur"
+    ],
+    "day": 49
+  },
+  {
+    "id": "detention-noun",
+    "word": "detention",
+    "baseWord": "detain",
+    "type": "noun",
+    "meaning": "phí giữ công-te-nơ quá hạn (bên ngoài cảng), sự giam giữ",
+    "pronunciation": "/dɪˈtenʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The carrier charged detention fees because the customer kept the container too long.",
+    "exampleVi": "Người vận chuyển đã tính phí giữ công-te-nơ quá hạn vì khách hàng giữ công-te-nơ quá lâu.",
+    "collocations": [
+      "detention fee",
+      "container detention",
+      "avoid detention"
+    ],
+    "synonyms": [
+      "delay penalty",
+      "holding charge"
+    ],
+    "wordFamily": [
+      "detain"
+    ],
+    "day": 49
+  },
+  {
+    "id": "fee-noun",
+    "word": "fee",
+    "baseWord": "fee",
+    "type": "noun",
+    "meaning": "phí dịch vụ, lệ phí",
+    "pronunciation": "/fiː/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The shipping company charges a processing fee for international orders.",
+    "exampleVi": "Công ty vận chuyển tính phí xử lý cho các đơn đặt hàng quốc tế.",
+    "collocations": [
+      "processing fee",
+      "registration fee",
+      "consulting fee"
+    ],
+    "synonyms": [
+      "charge",
+      "toll",
+      "rate"
+    ],
+    "wordFamily": [
+      "fee"
+    ],
+    "day": 49
+  },
+  {
+    "id": "fragile-adjective",
+    "word": "fragile",
+    "baseWord": "fragile",
+    "type": "adjective",
+    "meaning": "dễ vỡ, mỏng manh",
+    "pronunciation": "/ˈfrædʒl/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "This box contains fragile glassware; please handle it with care.",
+    "exampleVi": "Chiếc hộp này chứa đồ thủy tinh dễ vỡ; vui lòng xử lý nó cẩn thận.",
+    "collocations": [
+      "fragile items",
+      "fragile sticker",
+      "handle fragile cargo"
+    ],
+    "synonyms": [
+      "breakable",
+      "delicate",
+      "brittle"
+    ],
+    "wordFamily": [
+      "fragility"
+    ],
+    "day": 49
+  },
+  {
+    "id": "freight collect-phrase",
+    "word": "freight collect",
+    "baseWord": "freight",
+    "type": "phrase",
+    "meaning": "cước phí vận chuyển trả sau (người nhận trả)",
+    "pronunciation": "/freɪt kəˈlekt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The goods were shipped freight collect, so the buyer paid upon delivery.",
+    "exampleVi": "Hàng hóa được gửi theo phương thức cước trả sau, vì vậy người mua đã thanh toán khi giao hàng.",
+    "collocations": [
+      "ship freight collect",
+      "freight collect term",
+      "freight collect agreement"
+    ],
+    "synonyms": [
+      "collect on delivery",
+      "COD shipping"
+    ],
+    "wordFamily": [
+      "freight",
+      "collect"
+    ],
+    "day": 49
+  },
+  {
+    "id": "freight prepaid-phrase",
+    "word": "freight prepaid",
+    "baseWord": "freight",
+    "type": "phrase",
+    "meaning": "cước phí vận chuyển trả trước (người gửi trả)",
+    "pronunciation": "/freɪt ˌpriːˈpeɪd/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All items on this invoice were shipped freight prepaid by the manufacturer.",
+    "exampleVi": "Tất cả các mặt hàng trên hóa đơn này được vận chuyển theo hình thức cước phí trả trước bởi nhà sản xuất.",
+    "collocations": [
+      "shipped freight prepaid",
+      "freight prepaid agreement",
+      "freight prepaid terms"
+    ],
+    "synonyms": [
+      "prepaid carriage"
+    ],
+    "wordFamily": [
+      "freight",
+      "pay",
+      "prepay"
+    ],
+    "day": 49
+  },
+  {
+    "id": "hub-noun",
+    "word": "hub",
+    "baseWord": "hub",
+    "type": "noun",
+    "meaning": "trung tâm trung chuyển, trung tâm hoạt động",
+    "pronunciation": "/hʌb/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Singapore is one of the busiest shipping hubs in the world.",
+    "exampleVi": "Singapore là một trong những trung tâm trung chuyển hàng hải bận rộn nhất trên thế giới.",
+    "collocations": [
+      "transportation hub",
+      "logistics hub",
+      "regional hub"
+    ],
+    "synonyms": [
+      "center",
+      "pivot",
+      "focus"
+    ],
+    "wordFamily": [
+      "hub"
+    ],
+    "day": 49
+  },
+  {
+    "id": "incoterms-noun",
+    "word": "incoterms",
+    "baseWord": "terms",
+    "type": "noun",
+    "meaning": "các điều khoản thương mại quốc tế",
+    "pronunciation": "/ˈɪŋkoʊtɜːrmz/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The sales contract clearly defines which Incoterms govern the shipping.",
+    "exampleVi": "Hợp đồng mua bán xác định rõ ràng các điều khoản thương mại quốc tế nào điều chỉnh việc vận chuyển.",
+    "collocations": [
+      "standard Incoterms",
+      "Incoterms rules",
+      "apply Incoterms"
+    ],
+    "synonyms": [
+      "trade terms",
+      "shipping rules"
+    ],
+    "wordFamily": [
+      "terms"
+    ],
+    "day": 49
+  },
+  {
+    "id": "order-noun",
+    "word": "order",
+    "baseWord": "order",
+    "type": "noun",
+    "meaning": "đơn đặt hàng, trật tự, mệnh lệnh",
+    "pronunciation": "/ˈɔːrdər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The warehouse staff is preparing your order for shipment.",
+    "exampleVi": "Nhân viên kho đang chuẩn bị đơn đặt hàng của bạn để vận chuyển.",
+    "collocations": [
+      "place an order",
+      "cancel an order",
+      "order confirmation"
+    ],
+    "synonyms": [
+      "request",
+      "purchase order",
+      "command"
+    ],
+    "wordFamily": [
+      "order",
+      "orderly"
+    ],
+    "day": 49
+  },
+  {
+    "id": "port of discharge-phrase",
+    "word": "port of discharge",
+    "baseWord": "port",
+    "type": "phrase",
+    "meaning": "cảng dỡ hàng, cảng đến giải phóng hàng",
+    "pronunciation": "/ˌpɔːrt əv dɪsˈtʃɑːrdʒ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The ship will sail directly from the loading port to the port of discharge.",
+    "exampleVi": "Con tàu sẽ đi thẳng từ cảng xếp hàng đến cảng dỡ hàng.",
+    "collocations": [
+      "named port of discharge",
+      "arrive at port of discharge",
+      "indicate port of discharge"
+    ],
+    "synonyms": [
+      "port of destination",
+      "unloading port"
+    ],
+    "wordFamily": [
+      "port",
+      "discharge"
+    ],
+    "day": 49
+  },
+  {
+    "id": "port of entry-phrase",
+    "word": "port of entry",
+    "baseWord": "port",
+    "type": "phrase",
+    "meaning": "cảng nhập cảnh, cửa khẩu thông quan đầu tiên",
+    "pronunciation": "/ˌpɔːrt əv ˈentri/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All foreign cargo must pass inspection at the first port of entry.",
+    "exampleVi": "Tất cả hàng hóa nước ngoài phải qua kiểm tra tại cảng nhập cảnh đầu tiên.",
+    "collocations": [
+      "official port of entry",
+      "designated port of entry",
+      "arrive at the port of entry"
+    ],
+    "synonyms": [
+      "border crossing",
+      "checkpoint"
+    ],
+    "wordFamily": [
+      "port",
+      "entry"
+    ],
+    "day": 49
+  },
+  {
+    "id": "quotation-noun",
+    "word": "quotation",
+    "baseWord": "quote",
+    "type": "noun",
+    "meaning": "báo giá chính thức, sự trích dẫn",
+    "pronunciation": "/kwoʊˈteɪʃn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The logistics firm sent us a formal quotation for international airfreight.",
+    "exampleVi": "Công ty hậu cần đã gửi cho chúng tôi một báo giá chính thức cho vận tải hàng không quốc tế.",
+    "collocations": [
+      "formal quotation",
+      "obtain a quotation",
+      "quotation request"
+    ],
+    "synonyms": [
+      "estimate",
+      "bid",
+      "pricing"
+    ],
+    "wordFamily": [
+      "quote"
+    ],
+    "day": 49
+  },
+  {
+    "id": "quote-noun",
+    "word": "quote",
+    "baseWord": "quote",
+    "type": "noun",
+    "meaning": "bản báo giá, lời trích dẫn",
+    "pronunciation": "/kwoʊt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We requested a shipping quote from three different carriers.",
+    "exampleVi": "Chúng tôi đã yêu cầu bản báo giá vận chuyển từ ba nhà vận chuyển khác nhau.",
+    "collocations": [
+      "price quote",
+      "written quote",
+      "request a quote"
+    ],
+    "synonyms": [
+      "estimation",
+      "price",
+      "quotation"
+    ],
+    "wordFamily": [
+      "quote",
+      "quotation"
+    ],
+    "day": 49
+  },
+  {
+    "id": "rate-noun",
+    "word": "rate",
+    "baseWord": "rate",
+    "type": "noun",
+    "meaning": "mức phí, tỷ lệ, tốc độ",
+    "pronunciation": "/reɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We negotiated a lower shipping rate for bulk shipments.",
+    "exampleVi": "Chúng tôi đã thương lượng một mức phí vận chuyển thấp hơn cho các lô hàng số lượng lớn.",
+    "collocations": [
+      "shipping rate",
+      "exchange rate",
+      "interest rate"
+    ],
+    "synonyms": [
+      "charge",
+      "tariff",
+      "percentage"
+    ],
+    "wordFamily": [
+      "rate",
+      "rating"
+    ],
+    "day": 49
+  },
+  {
+    "id": "transit time-phrase",
+    "word": "transit time",
+    "baseWord": "transit",
+    "type": "phrase",
+    "meaning": "thời gian vận chuyển từ điểm đi đến điểm đến",
+    "pronunciation": "/ˈtrænzɪt taɪm/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Air shipping offers a much shorter transit time than ocean shipping.",
+    "exampleVi": "Vận chuyển đường hàng không mang lại thời gian vận chuyển ngắn hơn nhiều so với vận chuyển đường biển.",
+    "collocations": [
+      "average transit time",
+      "reduce transit time",
+      "guaranteed transit time"
+    ],
+    "synonyms": [
+      "delivery duration",
+      "shipping time"
+    ],
+    "wordFamily": [
+      "transit"
+    ],
+    "day": 49
+  },
+  {
+    "id": "carrier liability-phrase",
+    "word": "carrier liability",
+    "baseWord": "liable",
+    "type": "phrase",
+    "meaning": "trách nhiệm pháp lý của nhà vận chuyển đối với hàng hóa",
+    "pronunciation": "/ˈkæriər ˌlaɪəˈbɪləti/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The contract limits carrier liability in case of natural disasters.",
+    "exampleVi": "Hợp đồng giới hạn trách nhiệm pháp lý của nhà vận chuyển trong trường hợp thiên tai.",
+    "collocations": [
+      "limit carrier liability",
+      "carrier liability clause",
+      "full carrier liability"
+    ],
+    "synonyms": [
+      "shipper liability",
+      "transporter responsibility"
+    ],
+    "wordFamily": [
+      "liable",
+      "liability"
+    ],
+    "day": 50
+  },
+  {
+    "id": "consign-verb",
+    "word": "consign",
+    "baseWord": "consign",
+    "type": "verb",
+    "meaning": "ký gửi hàng hóa, giao thác",
+    "pronunciation": "/kənˈsaɪn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We decided to consign our excess inventory to a local auction house.",
+    "exampleVi": "Chúng tôi quyết định ký gửi hàng tồn kho dư thừa của mình cho một nhà đấu giá địa phương.",
+    "collocations": [
+      "consign goods",
+      "consign to an agent",
+      "consign inventory"
+    ],
+    "synonyms": [
+      "entrust",
+      "hand over",
+      "delegate"
+    ],
+    "wordFamily": [
+      "consignment",
+      "consignee",
+      "consignor"
+    ],
+    "day": 50
+  },
+  {
+    "id": "consignment note-phrase",
+    "word": "consignment note",
+    "baseWord": "consign",
+    "type": "phrase",
+    "meaning": "phiếu gửi hàng, chứng từ ký gửi hàng hóa",
+    "pronunciation": "/kənˈsaɪnmənt noʊt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please sign the consignment note before the driver leaves the facility.",
+    "exampleVi": "Vui lòng ký vào phiếu gửi hàng trước khi tài xế rời khỏi cơ sở.",
+    "collocations": [
+      "standard consignment note",
+      "sign the consignment note",
+      "consignment note details"
+    ],
+    "synonyms": [
+      "waybill",
+      "shipping receipt"
+    ],
+    "wordFamily": [
+      "consign",
+      "consignment"
+    ],
+    "day": 50
+  },
+  {
+    "id": "damage claim-phrase",
+    "word": "damage claim",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "yêu cầu bồi thường thiệt hại hàng hóa",
+    "pronunciation": "/ˈdæmɪdʒ kleɪm/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manufacturer filed a damage claim after the shipment arrived wet.",
+    "exampleVi": "Nhà sản xuất đã đệ đơn yêu cầu bồi thường thiệt hại sau khi lô hàng đến trong tình trạng ẩm ướt.",
+    "collocations": [
+      "file a damage claim",
+      "submit a damage claim",
+      "process a damage claim"
+    ],
+    "synonyms": [
+      "insurance claim",
+      "compensation claim"
+    ],
+    "wordFamily": [
+      "damage",
+      "claim"
+    ],
+    "day": 50
+  },
+  {
+    "id": "freight rate-phrase",
+    "word": "freight rate",
+    "baseWord": "freight",
+    "type": "phrase",
+    "meaning": "mức cước vận chuyển, giá cước vận tải",
+    "pronunciation": "/freɪt reɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Freight rates have soared significantly over the last six months.",
+    "exampleVi": "Mức cước vận chuyển đã tăng vọt đáng kể trong sáu tháng qua.",
+    "collocations": [
+      "ocean freight rate",
+      "increase freight rates",
+      "negotiate freight rates"
+    ],
+    "synonyms": [
+      "shipping rate",
+      "carriage fee"
+    ],
+    "wordFamily": [
+      "freight"
+    ],
+    "day": 50
+  },
+  {
+    "id": "mail-noun",
+    "word": "mail",
+    "baseWord": "mail",
+    "type": "noun",
+    "meaning": "thư từ, bưu phẩm, hệ thống bưu điện",
+    "pronunciation": "/meɪl/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Did we receive any physical mail from the law firm today?",
+    "exampleVi": "Hôm nay chúng ta có nhận được thư giấy nào từ công ty luật không?",
+    "collocations": [
+      "incoming mail",
+      "junk mail",
+      "mail delivery"
+    ],
+    "synonyms": [
+      "post",
+      "correspondence",
+      "letters"
+    ],
+    "wordFamily": [
+      "mailbox",
+      "mailing"
+    ],
+    "day": 50
+  },
+  {
+    "id": "mailbox-noun",
+    "word": "mailbox",
+    "baseWord": "mail",
+    "type": "noun",
+    "meaning": "hộp thư (ở cổng nhà hoặc bưu điện), hộp thư điện tử",
+    "pronunciation": "/ˈmeɪlbɑːks/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The mail carrier left the small package inside our mailbox.",
+    "exampleVi": "Người phát thư đã để gói hàng nhỏ bên trong hộp thư của chúng tôi.",
+    "collocations": [
+      "empty the mailbox",
+      "digital mailbox",
+      "mailbox size"
+    ],
+    "synonyms": [
+      "letterbox",
+      "postbox"
+    ],
+    "wordFamily": [
+      "mail",
+      "mailing"
+    ],
+    "day": 50
+  },
+  {
+    "id": "marine insurance-phrase",
+    "word": "marine insurance",
+    "baseWord": "insurance",
+    "type": "phrase",
+    "meaning": "bảo hiểm hàng hải, bảo hiểm vận chuyển đường biển",
+    "pronunciation": "/məˈriːn ɪnˈʃʊrəns/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our cargo is fully covered by marine insurance during the ocean transit.",
+    "exampleVi": "Hàng hóa của chúng tôi được bảo hiểm hàng hải bảo vệ đầy đủ trong suốt quá trình vận chuyển đường biển.",
+    "collocations": [
+      "purchase marine insurance",
+      "marine insurance policy",
+      "marine insurance coverage"
+    ],
+    "synonyms": [
+      "cargo insurance",
+      "ocean freight insurance"
+    ],
+    "wordFamily": [
+      "marine",
+      "insurance"
+    ],
+    "day": 50
+  },
+  {
+    "id": "origin-noun",
+    "word": "origin",
+    "baseWord": "origin",
+    "type": "noun",
+    "meaning": "nguồn gốc, điểm xuất phát",
+    "pronunciation": "/ˈɔːrɪdʒɪn/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Customs requires a certificate of origin for all imported textiles.",
+    "exampleVi": "Hải quan yêu cầu giấy chứng nhận xuất xứ đối với tất cả các loại vải dệt nhập khẩu.",
+    "collocations": [
+      "certificate of origin",
+      "country of origin",
+      "point of origin"
+    ],
+    "synonyms": [
+      "source",
+      "beginning",
+      "birthplace"
+    ],
+    "wordFamily": [
+      "original",
+      "originally",
+      "originate"
+    ],
+    "day": 50
+  },
+  {
+    "id": "overnight-adjective",
+    "word": "overnight",
+    "baseWord": "night",
+    "type": "adjective",
+    "meaning": "qua đêm, chuyển phát nhanh qua đêm",
+    "pronunciation": "/ˌoʊvərˈnaɪt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We need to use overnight shipping to ensure the contract arrives tomorrow.",
+    "exampleVi": "Chúng ta cần sử dụng dịch vụ vận chuyển qua đêm để đảm bảo hợp đồng sẽ đến vào ngày mai.",
+    "collocations": [
+      "overnight delivery",
+      "overnight shipping",
+      "stay overnight"
+    ],
+    "synonyms": [
+      "next-day",
+      "rapid"
+    ],
+    "wordFamily": [
+      "night"
+    ],
+    "day": 50
+  },
+  {
+    "id": "packing slip-phrase",
+    "word": "packing slip",
+    "baseWord": "pack",
+    "type": "phrase",
+    "meaning": "phiếu đóng gói hàng (liệt kê các mặt hàng bên trong kiện)",
+    "pronunciation": "/ˈpækɪŋ slɪp/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Check the packing slip to ensure all ordered items are in the box.",
+    "exampleVi": "Kiểm tra phiếu đóng gói để đảm bảo tất cả các mặt hàng đã đặt đều có trong hộp.",
+    "collocations": [
+      "verify the packing slip",
+      "print a packing slip",
+      "include a packing slip"
+    ],
+    "synonyms": [
+      "packing list",
+      "shipping manifest"
+    ],
+    "wordFamily": [
+      "pack",
+      "packing"
+    ],
+    "day": 50
+  },
+  {
+    "id": "post office-phrase",
+    "word": "post office",
+    "baseWord": "post",
+    "type": "phrase",
+    "meaning": "bưu điện",
+    "pronunciation": "/ˈpoʊst ˌɔːfɪs/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "I need to go to the post office to mail these documents to Tokyo.",
+    "exampleVi": "Tôi cần đi bưu điện để gửi những tài liệu này đến Tokyo.",
+    "collocations": [
+      "local post office",
+      "post office branch",
+      "visit the post office"
+    ],
+    "synonyms": [
+      "postal station"
+    ],
+    "wordFamily": [
+      "post",
+      "postal"
+    ],
+    "day": 50
+  },
+  {
+    "id": "proof of delivery-phrase",
+    "word": "proof of delivery",
+    "baseWord": "deliver",
+    "type": "phrase",
+    "meaning": "bằng chứng giao hàng (chữ ký hoặc xác nhận nhận hàng)",
+    "pronunciation": "/pruːf əv dɪˈlɪvəri/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The logistics provider emailed the proof of delivery immediately after receipt.",
+    "exampleVi": "Nhà cung cấp dịch vụ hậu cần đã gửi email bằng chứng giao hàng ngay sau khi nhận.",
+    "collocations": [
+      "require proof of delivery",
+      "signed proof of delivery",
+      "digital proof of delivery"
+    ],
+    "synonyms": [
+      "delivery receipt",
+      "POD"
+    ],
+    "wordFamily": [
+      "deliver",
+      "delivery"
+    ],
+    "day": 50
+  },
+  {
+    "id": "reroute-verb",
+    "word": "reroute",
+    "baseWord": "route",
+    "type": "verb",
+    "meaning": "định tuyến lại, đổi lộ trình",
+    "pronunciation": "/ˌriːˈruːt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "We had to reroute the shipment due to a major storm in the Atlantic.",
+    "exampleVi": "Chúng tôi đã phải đổi lộ trình của lô hàng do một cơn bão lớn ở Đại Tây Dương.",
+    "collocations": [
+      "reroute a flight",
+      "reroute traffic",
+      "reroute shipments"
+    ],
+    "synonyms": [
+      "divert",
+      "redirect"
+    ],
+    "wordFamily": [
+      "route",
+      "routing"
+    ],
+    "day": 50
+  },
+  {
+    "id": "routing-noun",
+    "word": "routing",
+    "baseWord": "route",
+    "type": "noun",
+    "meaning": "sự lập lộ trình, tuyến đường chỉ định",
+    "pronunciation": "/ˈruːtɪŋ/",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The logistics manager is reviewing the shipping routing to save time.",
+    "exampleVi": "Quản lý hậu cần đang xem xét lộ trình vận chuyển để tiết kiệm thời gian.",
+    "collocations": [
+      "routing options",
+      "routing system",
+      "routing schedule"
+    ],
+    "synonyms": [
+      "direction",
+      "pathfinder",
+      "channeling"
+    ],
+    "wordFamily": [
+      "route",
+      "reroute"
+    ],
+    "day": 50
+  },
+  {
+    "id": "shipper-noun",
+    "word": "shipper",
+    "baseWord": "ship",
+    "type": "noun",
+    "meaning": "người gửi hàng, chủ hàng",
+    "pronunciation": "/ˈʃɪpər/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The shipper must ensure that all hazardous goods are labeled properly.",
+    "exampleVi": "Chủ hàng phải đảm bảo rằng tất cả các mặt hàng nguy hiểm đều được dán nhãn đúng cách.",
+    "collocations": [
+      "original shipper",
+      "shipper declaration",
+      "shipper requirements"
+    ],
+    "synonyms": [
+      "consignor",
+      "sender"
+    ],
+    "wordFamily": [
+      "ship",
+      "shipment",
+      "shipping"
+    ],
+    "day": 50
+  },
+  {
+    "id": "shipping fee-phrase",
+    "word": "shipping fee",
+    "baseWord": "fee",
+    "type": "phrase",
+    "meaning": "phí vận chuyển, cước phí giao hàng",
+    "pronunciation": "/ˈʃɪpɪŋ fiː/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We offer free delivery if the order total exceeds fifty dollars.",
+    "exampleVi": "Chúng tôi cung cấp giao hàng miễn phí nếu tổng đơn hàng vượt quá năm mươi đô la.",
+    "collocations": [
+      "free shipping fee",
+      "calculate shipping fee",
+      "additional shipping fee"
+    ],
+    "synonyms": [
+      "delivery charge",
+      "carriage rate",
+      "postage cost"
+    ],
+    "wordFamily": [
+      "ship",
+      "fee"
+    ],
+    "day": 50
+  },
+  {
+    "id": "tracking system-phrase",
+    "word": "tracking system",
+    "baseWord": "track",
+    "type": "phrase",
+    "meaning": "hệ thống theo dõi lộ trình hàng hóa/bưu phẩm",
+    "pronunciation": "/ˈtrækɪŋ ˈsɪstəm/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The new tracking system provides real-time updates on cargo location.",
+    "exampleVi": "Hệ thống theo dõi mới cung cấp cập nhật thời gian thực về vị trí hàng hóa.",
+    "collocations": [
+      "GPS tracking system",
+      "install a tracking system",
+      "online tracking system"
+    ],
+    "synonyms": [
+      "monitoring system",
+      "tracing tool"
+    ],
+    "wordFamily": [
+      "track",
+      "tracking"
+    ],
+    "day": 50
+  },
+  {
+    "id": "truck-noun",
+    "word": "truck",
+    "baseWord": "truck",
+    "type": "noun",
+    "meaning": "xe tải, xe chở hàng",
+    "pronunciation": "/trʌk/",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The cargo truck was loaded with containers at the port.",
+    "exampleVi": "Chiếc xe tải chở hàng được xếp đầy công-te-nơ tại cảng.",
+    "collocations": [
+      "delivery truck",
+      "garbage truck",
+      "drive a truck"
+    ],
+    "synonyms": [
+      "lorry",
+      "van",
+      "vehicle"
+    ],
+    "wordFamily": [
+      "trucker",
+      "trucking"
+    ],
+    "day": 50
+  },
+  {
+    "id": "waypoint-noun",
+    "word": "waypoint",
+    "baseWord": "point",
+    "type": "noun",
+    "meaning": "điểm trung chuyển, điểm dừng dọc đường",
+    "pronunciation": "/ˈweɪpɔɪnt/",
+    "topic": "Shipping & Logistics",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The delivery truck has to stop at several waypoints before the final destination.",
+    "exampleVi": "Xe tải giao hàng phải dừng lại ở một số điểm dừng dọc đường trước khi đến điểm đến cuối cùng.",
+    "collocations": [
+      "next waypoint",
+      "GPS waypoint",
+      "intermediate waypoint"
+    ],
+    "synonyms": [
+      "stopover",
+      "checkpoint",
+      "landmark"
+    ],
+    "wordFamily": [
+      "way",
+      "point"
+    ],
+    "day": 50
+  }
+]

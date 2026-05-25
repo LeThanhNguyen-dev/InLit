@@ -1,110 +1,34 @@
 [
   {
-    "id": "workshop-noun",
-    "word": "workshop",
-    "baseWord": "workshop",
+    "id": "accreditation-noun",
+    "word": "accreditation",
+    "baseWord": "accredit",
     "type": "noun",
-    "meaning": "hội thảo chuyên đề, xưởng",
-    "pronunciation": "/ˈwɜːrkʃɒp/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "A leadership workshop will be held for all managers next Friday.",
-    "exampleVi": "Một hội thảo chuyên đề về lãnh đạo sẽ được tổ chức cho tất cả các quản lý vào thứ Sáu tới.",
-    "collocations": ["attend a workshop", "conduct a workshop", "hands-on workshop", "training workshop"],
-    "synonyms": ["seminar", "session"],
-    "wordFamily": ["workshops"],
-    "day": 81
-  },
-  {
-    "id": "certification-noun",
-    "word": "certification",
-    "baseWord": "certification",
-    "type": "noun",
-    "meaning": "chứng chỉ, giấy chứng nhận",
-    "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃən/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Applicants with a project management certification will be given preference.",
-    "exampleVi": "Các ứng viên có chứng chỉ quản lý dự án sẽ được ưu tiên.",
-    "collocations": ["professional certification", "certification program", "obtain certification", "certification requirements"],
-    "synonyms": ["credential", "accreditation"],
-    "wordFamily": ["certify", "certified", "certificate"],
-    "day": 81
-  },
-  {
-    "id": "mentor-noun",
-    "word": "mentor",
-    "baseWord": "mentor",
-    "type": "noun",
-    "meaning": "người hướng dẫn, người cố vấn",
-    "pronunciation": "/ˈmentɔːr/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "Each new employee is assigned a mentor during the first six months.",
-    "exampleVi": "Mỗi nhân viên mới được phân công một người hướng dẫn trong sáu tháng đầu.",
-    "collocations": ["assigned a mentor", "mentor program", "experienced mentor", "serve as a mentor"],
-    "synonyms": ["advisor", "coach"],
-    "wordFamily": ["mentoring", "mentorship", "mentee"],
-    "day": 81
-  },
-  {
-    "id": "seminar-noun",
-    "word": "seminar",
-    "baseWord": "seminar",
-    "type": "noun",
-    "meaning": "hội thảo, buổi nghiên cứu",
-    "pronunciation": "/ˈsemɪnɑːr/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The finance seminar attracted over 200 participants this year.",
-    "exampleVi": "Hội thảo tài chính đã thu hút hơn 200 người tham gia trong năm nay.",
-    "collocations": ["attend a seminar", "host a seminar", "online seminar", "professional seminar"],
-    "synonyms": ["conference", "symposium"],
-    "wordFamily": ["seminars"],
-    "day": 81
-  },
-  {
-    "id": "proficiency-noun",
-    "word": "proficiency",
-    "baseWord": "proficiency",
-    "type": "noun",
-    "meaning": "sự thành thạo, trình độ",
-    "pronunciation": "/prəˈfɪʃənsi/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Candidates must demonstrate proficiency in at least two programming languages.",
-    "exampleVi": "Ứng viên phải chứng minh sự thành thạo ít nhất hai ngôn ngữ lập trình.",
-    "collocations": ["language proficiency", "demonstrate proficiency", "proficiency level", "technical proficiency"],
-    "synonyms": ["competence", "expertise"],
-    "wordFamily": ["proficient", "proficiently"],
-    "day": 81
-  },
-  {
-    "id": "curriculum-noun",
-    "word": "curriculum",
-    "baseWord": "curriculum",
-    "type": "noun",
-    "meaning": "chương trình giảng dạy",
-    "pronunciation": "/kəˈrɪkjʊləm/",
+    "meaning": "sự kiểm định chất lượng, sự công nhận",
+    "pronunciation": "/əˌkredɪˈteɪʃən/",
     "topic": "Training & Professional Development",
     "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The training curriculum has been updated to include digital marketing.",
-    "exampleVi": "Chương trình đào tạo đã được cập nhật để bao gồm tiếp thị kỹ thuật số.",
-    "collocations": ["training curriculum", "curriculum development", "core curriculum", "curriculum design"],
-    "synonyms": ["syllabus", "program"],
-    "wordFamily": ["curricula", "curricular"],
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The school is seeking national accreditation for its business program.",
+    "exampleVi": "Trường học đang tìm kiếm sự kiểm định chất lượng quốc gia cho chương trình kinh doanh của mình.",
+    "collocations": [
+      "seek accreditation",
+      "receive accreditation",
+      "accreditation board"
+    ],
+    "synonyms": [
+      "certification",
+      "approval",
+      "endorsement"
+    ],
+    "wordFamily": [
+      "accredit",
+      "accredited"
+    ],
     "day": 81
   },
   {
@@ -117,30 +41,90 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 7"],
+    "partTags": [
+      "Part 7"
+    ],
     "example": "The company takes on ten apprentices from the local college each year.",
     "exampleVi": "Công ty nhận mười người học việc từ trường cao đẳng địa phương mỗi năm.",
-    "collocations": ["apprentice program", "take on an apprentice", "train an apprentice", "apprentice position"],
-    "synonyms": ["trainee", "intern"],
-    "wordFamily": ["apprenticeship", "apprentices"],
+    "collocations": [
+      "apprentice program",
+      "take on an apprentice",
+      "train an apprentice",
+      "apprentice position"
+    ],
+    "synonyms": [
+      "trainee",
+      "intern"
+    ],
+    "wordFamily": [
+      "apprenticeship",
+      "apprentices",
+      "apprenticed"
+    ],
     "day": 81
   },
   {
-    "id": "instruct-verb",
-    "word": "instruct",
-    "baseWord": "instruct",
-    "type": "verb",
-    "meaning": "hướng dẫn, chỉ dạy",
-    "pronunciation": "/ɪnˈstrʌkt/",
+    "id": "certification-noun",
+    "word": "certification",
+    "baseWord": "certification",
+    "type": "noun",
+    "meaning": "chứng chỉ, giấy chứng nhận",
+    "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃən/",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6"],
-    "example": "The trainer will instruct participants on how to use the new software.",
-    "exampleVi": "Giảng viên sẽ hướng dẫn người tham gia cách sử dụng phần mềm mới.",
-    "collocations": ["instruct employees", "instruct participants", "instruct staff", "clearly instructed"],
-    "synonyms": ["teach", "train"],
-    "wordFamily": ["instruction", "instructor", "instructional"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Applicants with a project management certification will be given preference.",
+    "exampleVi": "Các ứng viên có chứng chỉ quản lý dự án sẽ được ưu tiên.",
+    "collocations": [
+      "professional certification",
+      "certification program",
+      "obtain certification",
+      "certification requirements"
+    ],
+    "synonyms": [
+      "credential",
+      "accreditation"
+    ],
+    "wordFamily": [
+      "certify",
+      "certified",
+      "certificate"
+    ],
+    "day": 81
+  },
+  {
+    "id": "commercial-agenda-phrase",
+    "word": "commercial agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: commercial agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the commercial agenda before the next business day.",
+    "exampleVi": "Vui long xem lai commercial agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "commercial agenda",
+      "commercial agenda process",
+      "commercial agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 81
   },
   {
@@ -153,12 +137,154 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Please provide copies of your professional credentials with the application.",
     "exampleVi": "Vui lòng cung cấp bản sao bằng cấp chuyên môn của bạn cùng với đơn xin.",
-    "collocations": ["professional credentials", "academic credentials", "verify credentials", "required credentials"],
-    "synonyms": ["qualification", "certification"],
-    "wordFamily": ["credentials", "credentialed"],
+    "collocations": [
+      "professional credentials",
+      "academic credentials",
+      "verify credentials",
+      "required credentials"
+    ],
+    "synonyms": [
+      "qualification",
+      "certification"
+    ],
+    "wordFamily": [
+      "credentials",
+      "credentialed"
+    ],
+    "day": 81
+  },
+  {
+    "id": "curriculum-noun",
+    "word": "curriculum",
+    "baseWord": "curriculum",
+    "type": "noun",
+    "meaning": "chương trình giảng dạy",
+    "pronunciation": "/kəˈrɪkjʊləm/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The training curriculum has been updated to include digital marketing.",
+    "exampleVi": "Chương trình đào tạo đã được cập nhật để bao gồm tiếp thị kỹ thuật số.",
+    "collocations": [
+      "training curriculum",
+      "curriculum development",
+      "core curriculum",
+      "curriculum design"
+    ],
+    "synonyms": [
+      "syllabus",
+      "program"
+    ],
+    "wordFamily": [
+      "curricula",
+      "curricular",
+      "extra-curricular"
+    ],
+    "day": 81
+  },
+  {
+    "id": "developmental-adjective",
+    "word": "developmental",
+    "baseWord": "develop",
+    "type": "adjective",
+    "meaning": "thuộc về phát triển",
+    "pronunciation": "/dɪˌveləpˈmentl/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager assigned him developmental projects to build leadership skills.",
+    "exampleVi": "Người quản lý đã giao cho anh ấy các dự án phát triển để xây dựng kỹ năng lãnh đạo.",
+    "collocations": [
+      "developmental needs",
+      "developmental program",
+      "developmental phase"
+    ],
+    "synonyms": [
+      "evolutionary",
+      "progressive"
+    ],
+    "wordFamily": [
+      "develop",
+      "development",
+      "developer"
+    ],
+    "day": 81
+  },
+  {
+    "id": "e-learning-noun",
+    "word": "e-learning",
+    "baseWord": "e-learning",
+    "type": "noun",
+    "meaning": "học trực tuyến, đào tạo trực tuyến",
+    "pronunciation": "/ˈiː lɜːrnɪŋ/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Our new e-learning platform allows staff to learn at their own pace.",
+    "exampleVi": "Nền tảng học trực tuyến mới của chúng tôi cho phép nhân viên học theo tốc độ của riêng họ.",
+    "collocations": [
+      "e-learning platform",
+      "e-learning course",
+      "corporate e-learning"
+    ],
+    "synonyms": [
+      "online learning",
+      "digital learning"
+    ],
+    "wordFamily": [
+      "learn",
+      "learner",
+      "learning"
+    ],
+    "day": 81
+  },
+  {
+    "id": "educator-noun",
+    "word": "educator",
+    "baseWord": "educate",
+    "type": "noun",
+    "meaning": "nhà giáo dục, người làm công tác giảng dạy",
+    "pronunciation": "/ˈedʒukeɪtər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "He is a prominent educator who has written several training books.",
+    "exampleVi": "Ông ấy là một nhà giáo dục nổi tiếng, người đã viết một số cuốn sách đào tạo.",
+    "collocations": [
+      "professional educator",
+      "leading educator",
+      "consult an educator"
+    ],
+    "synonyms": [
+      "teacher",
+      "instructor",
+      "trainer"
+    ],
+    "wordFamily": [
+      "educate",
+      "education",
+      "educational"
+    ],
     "day": 81
   },
   {
@@ -171,12 +297,27 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The program is designed to enrich employees' leadership skills.",
     "exampleVi": "Chương trình được thiết kế để nâng cao kỹ năng lãnh đạo của nhân viên.",
-    "collocations": ["enrich knowledge", "enrich skills", "enrich experience", "enrich learning"],
-    "synonyms": ["enhance", "improve"],
-    "wordFamily": ["enrichment", "enriched", "enriching"],
+    "collocations": [
+      "enrich knowledge",
+      "enrich skills",
+      "enrich experience",
+      "enrich learning"
+    ],
+    "synonyms": [
+      "enhance",
+      "improve"
+    ],
+    "wordFamily": [
+      "enrichment",
+      "enriched",
+      "enriching"
+    ],
     "day": 81
   },
   {
@@ -189,30 +330,347 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
     "example": "The course includes hands-on exercises to reinforce key concepts.",
     "exampleVi": "Khóa học bao gồm các bài tập thực hành để củng cố các khái niệm chính.",
-    "collocations": ["hands-on experience", "hands-on training", "hands-on approach", "hands-on learning"],
-    "synonyms": ["practical", "experiential"],
-    "wordFamily": [],
+    "collocations": [
+      "hands-on experience",
+      "hands-on training",
+      "hands-on approach",
+      "hands-on learning"
+    ],
+    "synonyms": [
+      "practical",
+      "experiential"
+    ],
+    "wordFamily": [
+      "practical",
+      "experiential",
+      "active learning"
+    ],
     "day": 81
   },
   {
-    "id": "specialize-verb",
-    "word": "specialize",
-    "baseWord": "specialize",
+    "id": "instruct-verb",
+    "word": "instruct",
+    "baseWord": "instruct",
     "type": "verb",
-    "meaning": "chuyên môn hóa",
-    "pronunciation": "/ˈspeʃəlaɪz/",
+    "meaning": "hướng dẫn, chỉ dạy",
+    "pronunciation": "/ɪnˈstrʌkt/",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Our firm specializes in corporate law and compliance.",
-    "exampleVi": "Công ty chúng tôi chuyên về luật doanh nghiệp và tuân thủ.",
-    "collocations": ["specialize in", "highly specialized", "specialized training", "specialized skills"],
-    "synonyms": ["focus", "concentrate"],
-    "wordFamily": ["specialization", "specialist", "specialized"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The trainer will instruct participants on how to use the new software.",
+    "exampleVi": "Giảng viên sẽ hướng dẫn người tham gia cách sử dụng phần mềm mới.",
+    "collocations": [
+      "instruct employees",
+      "instruct participants",
+      "instruct staff",
+      "clearly instructed"
+    ],
+    "synonyms": [
+      "teach",
+      "train"
+    ],
+    "wordFamily": [
+      "instruction",
+      "instructor",
+      "instructional"
+    ],
+    "day": 81
+  },
+  {
+    "id": "instructional-adjective",
+    "word": "instructional",
+    "baseWord": "instruct",
+    "type": "adjective",
+    "meaning": "thuộc về hướng dẫn, giảng dạy",
+    "pronunciation": "/ɪnˈstrʌkʃənl/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company created new instructional materials for the workshop.",
+    "exampleVi": "Công ty đã tạo ra các tài liệu hướng dẫn mới cho hội thảo.",
+    "collocations": [
+      "instructional materials",
+      "instructional design",
+      "instructional video"
+    ],
+    "synonyms": [
+      "educational",
+      "teaching"
+    ],
+    "wordFamily": [
+      "instruct",
+      "instruction",
+      "instructor"
+    ],
+    "day": 81
+  },
+  {
+    "id": "instructive-adjective",
+    "word": "instructive",
+    "baseWord": "instruct",
+    "type": "adjective",
+    "meaning": "mang tính hướng dẫn, bổ ích",
+    "pronunciation": "/ɪnˈstrʌktɪv/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager's feedback was highly instructive and helped me improve.",
+    "exampleVi": "Phản hồi của người quản lý rất mang tính hướng dẫn và đã giúp tôi tiến bộ.",
+    "collocations": [
+      "instructive video",
+      "instructive feedback",
+      "highly instructive"
+    ],
+    "synonyms": [
+      "educational",
+      "informative",
+      "helpful"
+    ],
+    "wordFamily": [
+      "instruct",
+      "instruction",
+      "instructor",
+      "instructively"
+    ],
+    "day": 81
+  },
+  {
+    "id": "mentee-noun",
+    "word": "mentee",
+    "baseWord": "mentor",
+    "type": "noun",
+    "meaning": "người được hướng dẫn, người được cố vấn",
+    "pronunciation": "/menˈtiː/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The mentor provided valuable career advice to the young mentee.",
+    "exampleVi": "Người cố vấn đã đưa ra lời khuyên sự nghiệp quý giá cho người được cố vấn trẻ tuổi.",
+    "collocations": [
+      "mentor and mentee",
+      "assigned mentee",
+      "advise a mentee"
+    ],
+    "synonyms": [
+      "protege",
+      "apprentice"
+    ],
+    "wordFamily": [
+      "mentor",
+      "mentorship",
+      "mentoring"
+    ],
+    "day": 81
+  },
+  {
+    "id": "pedagogical-adjective",
+    "word": "pedagogical",
+    "baseWord": "pedagogy",
+    "type": "adjective",
+    "meaning": "thuộc về sư phạm",
+    "pronunciation": "/ˌpedəˈɡɑːdʒɪkl/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The training division is researching new pedagogical techniques.",
+    "exampleVi": "Bộ phận đào tạo đang nghiên cứu các kỹ thuật sư phạm mới.",
+    "collocations": [
+      "pedagogical methods",
+      "pedagogical skills",
+      "pedagogical research"
+    ],
+    "synonyms": [
+      "educational",
+      "didactic"
+    ],
+    "wordFamily": [
+      "pedagogy",
+      "pedagogue"
+    ],
+    "day": 81
+  },
+  {
+    "id": "priority-agenda-phrase",
+    "word": "priority agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: priority agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the priority agenda before the next business day.",
+    "exampleVi": "Vui long xem lai priority agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "priority agenda",
+      "priority agenda process",
+      "priority agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 81
+  },
+  {
+    "id": "retraining-noun",
+    "word": "retraining",
+    "baseWord": "retrain",
+    "type": "noun",
+    "meaning": "sự đào tạo lại, tái đào tạo",
+    "pronunciation": "/ˌriːˈtreɪnɪŋ/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company offered retraining to employees whose jobs were automated.",
+    "exampleVi": "Công ty đã cung cấp chương trình đào tạo lại cho những nhân viên có công việc bị tự động hóa.",
+    "collocations": [
+      "job retraining",
+      "retraining program",
+      "undergo retraining"
+    ],
+    "synonyms": [
+      "re-education",
+      "upskilling"
+    ],
+    "wordFamily": [
+      "retrain",
+      "retrained",
+      "retraining"
+    ],
+    "day": 81
+  },
+  {
+    "id": "shadow-verb",
+    "word": "shadow",
+    "baseWord": "shadow",
+    "type": "verb",
+    "meaning": "đi theo học việc, quan sát thực tế",
+    "pronunciation": "/ˈʃædoʊ/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "New hires will shadow experienced technicians for their first week.",
+    "exampleVi": "Nhân viên mới sẽ đi theo học việc các kỹ thuật viên giàu kinh nghiệm trong tuần đầu tiên của họ.",
+    "collocations": [
+      "shadow a colleague",
+      "shadow an employee",
+      "job shadowing program"
+    ],
+    "synonyms": [
+      "follow",
+      "observe"
+    ],
+    "wordFamily": [
+      "shadowing",
+      "shadowed",
+      "shadowy"
+    ],
+    "day": 81
+  },
+  {
+    "id": "urgent-agenda-phrase",
+    "word": "urgent agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: urgent agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the urgent agenda before the next business day.",
+    "exampleVi": "Vui long xem lai urgent agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "urgent agenda",
+      "urgent agenda process",
+      "urgent agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 81
+  },
+  {
+    "id": "accredit-verb",
+    "word": "accredit",
+    "baseWord": "accredit",
+    "type": "verb",
+    "meaning": "công nhận, cấp chứng nhận",
+    "pronunciation": "/əˈkredɪt/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The program is accredited by the International Training Board.",
+    "exampleVi": "Chương trình được công nhận bởi Hội đồng Đào tạo Quốc tế.",
+    "collocations": [
+      "accredited institution",
+      "accredited program",
+      "nationally accredited",
+      "accredited by"
+    ],
+    "synonyms": [
+      "certify",
+      "authorize"
+    ],
+    "wordFamily": [
+      "accreditation",
+      "accredited"
+    ],
     "day": 82
   },
   {
@@ -225,48 +683,58 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "All new hires must complete an aptitude test during orientation.",
     "exampleVi": "Tất cả nhân viên mới phải hoàn thành bài kiểm tra năng khiếu trong quá trình định hướng.",
-    "collocations": ["aptitude test", "natural aptitude", "aptitude for", "demonstrate aptitude"],
-    "synonyms": ["talent", "ability"],
-    "wordFamily": ["aptitudes"],
+    "collocations": [
+      "aptitude test",
+      "natural aptitude",
+      "aptitude for",
+      "demonstrate aptitude"
+    ],
+    "synonyms": [
+      "talent",
+      "ability"
+    ],
+    "wordFamily": [
+      "aptitudes",
+      "aptitude testing",
+      "aptitudinal"
+    ],
     "day": 82
   },
   {
-    "id": "accredit-verb",
-    "word": "accredit",
-    "baseWord": "accredit",
-    "type": "verb",
-    "meaning": "công nhận, cấp chứng nhận",
-    "pronunciation": "/əˈkredɪt/",
+    "id": "certifiable-adjective",
+    "word": "certifiable",
+    "baseWord": "certify",
+    "type": "adjective",
+    "meaning": "có thể chứng nhận được",
+    "pronunciation": "/ˌsɜːrtɪˈfaɪəbl/",
     "topic": "Training & Professional Development",
-    "frequency": "medium",
+    "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The program is accredited by the International Training Board.",
-    "exampleVi": "Chương trình được công nhận bởi Hội đồng Đào tạo Quốc tế.",
-    "collocations": ["accredited institution", "accredited program", "nationally accredited", "accredited by"],
-    "synonyms": ["certify", "authorize"],
-    "wordFamily": ["accreditation", "accredited"],
-    "day": 82
-  },
-  {
-    "id": "webinar-noun",
-    "word": "webinar",
-    "baseWord": "webinar",
-    "type": "noun",
-    "meaning": "hội thảo trực tuyến",
-    "pronunciation": "/ˈwebɪnɑːr/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Over 500 people registered for the marketing webinar.",
-    "exampleVi": "Hơn 500 người đã đăng ký tham gia hội thảo trực tuyến về tiếp thị.",
-    "collocations": ["attend a webinar", "host a webinar", "live webinar", "recorded webinar"],
-    "synonyms": ["online seminar", "virtual workshop"],
-    "wordFamily": ["webinars"],
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "These credit hours are certifiable under the new training standards.",
+    "exampleVi": "Những giờ tín chỉ này có thể chứng nhận được theo tiêu chuẩn đào tạo mới.",
+    "collocations": [
+      "certifiable hours",
+      "certifiable skills",
+      "certifiable qualifications"
+    ],
+    "synonyms": [
+      "verifiable",
+      "provable"
+    ],
+    "wordFamily": [
+      "certify",
+      "certification",
+      "certified"
+    ],
     "day": 82
   },
   {
@@ -279,84 +747,377 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The assessment measures core competencies required for the position.",
     "exampleVi": "Bài đánh giá đo lường các năng lực cốt lõi cần thiết cho vị trí.",
-    "collocations": ["core competency", "competency framework", "competency assessment", "key competencies"],
-    "synonyms": ["capability", "proficiency"],
-    "wordFamily": ["competent", "competently", "incompetent"],
+    "collocations": [
+      "core competency",
+      "competency framework",
+      "competency assessment",
+      "key competencies"
+    ],
+    "synonyms": [
+      "capability",
+      "proficiency"
+    ],
+    "wordFamily": [
+      "competent",
+      "competently",
+      "incompetent"
+    ],
     "day": 82
   },
   {
-    "id": "onboarding-noun",
-    "word": "onboarding",
-    "baseWord": "onboarding",
+    "id": "courseware-noun",
+    "word": "courseware",
+    "baseWord": "courseware",
     "type": "noun",
-    "meaning": "quy trình hội nhập, tiếp nhận",
-    "pronunciation": "/ˈɒnbɔːrdɪŋ/",
+    "meaning": "tài liệu giảng dạy điện tử, phần mềm khóa học",
+    "pronunciation": "/ˈkɔːrswer/",
     "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The onboarding process for new hires takes approximately two weeks.",
-    "exampleVi": "Quy trình hội nhập cho nhân viên mới mất khoảng hai tuần.",
-    "collocations": ["onboarding process", "employee onboarding", "onboarding program", "onboarding experience"],
-    "synonyms": ["orientation", "induction"],
-    "wordFamily": ["onboard", "onboarded"],
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The IT team updated the e-learning courseware on the server.",
+    "exampleVi": "Đội ngũ CNTT đã cập nhật phần mềm khóa học trực tuyến trên máy chủ.",
+    "collocations": [
+      "interactive courseware",
+      "develop courseware",
+      "educational courseware"
+    ],
+    "synonyms": [
+      "training software",
+      "learning materials"
+    ],
+    "wordFamily": [
+      "course",
+      "courses"
+    ],
     "day": 82
   },
   {
-    "id": "facilitate-verb",
-    "word": "facilitate",
-    "baseWord": "facilitate",
-    "type": "verb",
-    "meaning": "tạo điều kiện, hỗ trợ",
-    "pronunciation": "/fəˈsɪlɪteɪt/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The HR team will facilitate the two-day training session.",
-    "exampleVi": "Đội ngũ nhân sự sẽ điều phối buổi đào tạo kéo dài hai ngày.",
-    "collocations": ["facilitate training", "facilitate discussion", "facilitate learning", "facilitate communication"],
-    "synonyms": ["enable", "assist"],
-    "wordFamily": ["facilitation", "facilitator", "facilitated"],
-    "day": 82
-  },
-  {
-    "id": "tutorial-noun",
-    "word": "tutorial",
-    "baseWord": "tutorial",
-    "type": "noun",
-    "meaning": "bài hướng dẫn",
-    "pronunciation": "/tjuːˈtɔːriəl/",
+    "id": "detailed-agenda-phrase",
+    "word": "detailed agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: detailed agenda",
+    "pronunciation": "",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "A video tutorial is available on the company intranet for reference.",
-    "exampleVi": "Một bài hướng dẫn bằng video có sẵn trên mạng nội bộ của công ty để tham khảo.",
-    "collocations": ["video tutorial", "online tutorial", "step-by-step tutorial", "follow a tutorial"],
-    "synonyms": ["guide", "lesson"],
-    "wordFamily": ["tutorials", "tutor"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the detailed agenda before the next business day.",
+    "exampleVi": "Vui long xem lai detailed agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "detailed agenda",
+      "detailed agenda process",
+      "detailed agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 82
   },
   {
-    "id": "upskill-verb",
-    "word": "upskill",
-    "baseWord": "upskill",
+    "id": "educate-verb",
+    "word": "educate",
+    "baseWord": "educate",
     "type": "verb",
-    "meaning": "nâng cao kỹ năng",
-    "pronunciation": "/ʌpˈskɪl/",
+    "meaning": "giáo dục, đào tạo",
+    "pronunciation": "/ˈedʒukeɪt/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The campaign aims to educate the public about workplace safety.",
+    "exampleVi": "Chiến dịch nhằm giáo dục công chúng về an toàn lao động.",
+    "collocations": [
+      "educate employees",
+      "educate the public",
+      "highly educated"
+    ],
+    "synonyms": [
+      "train",
+      "instruct",
+      "teach"
+    ],
+    "wordFamily": [
+      "education",
+      "educator",
+      "educational"
+    ],
+    "day": 82
+  },
+  {
+    "id": "enrichment-noun",
+    "word": "enrichment",
+    "baseWord": "enrich",
+    "type": "noun",
+    "meaning": "sự làm phong phú, sự nâng cao",
+    "pronunciation": "/ɪnˈrɪtʃmənt/",
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company invested in programs to upskill its workforce.",
-    "exampleVi": "Công ty đã đầu tư vào các chương trình nâng cao kỹ năng cho lực lượng lao động.",
-    "collocations": ["upskill employees", "upskill the workforce", "upskill staff", "upskilling program"],
-    "synonyms": ["retrain", "develop"],
-    "wordFamily": ["upskilling", "upskilled"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The job enrichment program gives staff more autonomy in their tasks.",
+    "exampleVi": "Chương trình nâng cao chất lượng công việc mang lại cho nhân viên sự tự chủ hơn trong các nhiệm vụ của họ.",
+    "collocations": [
+      "job enrichment",
+      "professional enrichment",
+      "educational enrichment"
+    ],
+    "synonyms": [
+      "enhancement",
+      "improvement",
+      "advancement"
+    ],
+    "wordFamily": [
+      "enrich",
+      "enriching",
+      "enriched"
+    ],
+    "day": 82
+  },
+  {
+    "id": "guidance-noun",
+    "word": "guidance",
+    "baseWord": "guide",
+    "type": "noun",
+    "meaning": "sự chỉ dẫn, sự hướng dẫn",
+    "pronunciation": "/ˈɡaɪdns/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "With the counselor's guidance, she chose a suitable career path.",
+    "exampleVi": "Với sự hướng dẫn của cố vấn, cô ấy đã chọn một con đường sự nghiệp phù hợp.",
+    "collocations": [
+      "under the guidance of",
+      "provide guidance",
+      "career guidance"
+    ],
+    "synonyms": [
+      "direction",
+      "instruction",
+      "counsel"
+    ],
+    "wordFamily": [
+      "guide",
+      "guided",
+      "guideline"
+    ],
+    "day": 82
+  },
+  {
+    "id": "instructively-adverb",
+    "word": "instructively",
+    "baseWord": "instruct",
+    "type": "adverb",
+    "meaning": "một cách có tính hướng dẫn, bổ ích",
+    "pronunciation": "/ɪnˈstrʌktɪvli/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The seminar was instructively presented with practical case studies.",
+    "exampleVi": "Hội thảo được trình bày một cách đầy bổ ích với các nghiên cứu tình huống thực tế.",
+    "collocations": [
+      "instructively designed",
+      "instructively presented"
+    ],
+    "synonyms": [
+      "informatively",
+      "educationally"
+    ],
+    "wordFamily": [
+      "instruct",
+      "instruction",
+      "instructive"
+    ],
+    "day": 82
+  },
+  {
+    "id": "intern-noun",
+    "word": "intern",
+    "baseWord": "intern",
+    "type": "noun",
+    "meaning": "thực tập sinh",
+    "pronunciation": "/ˈɪntɜːrn/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The marketing department hired three new interns this semester.",
+    "exampleVi": "Bộ phận tiếp thị đã thuê ba thực tập sinh mới trong học kỳ này.",
+    "collocations": [
+      "hire an intern",
+      "marketing intern",
+      "unpaid intern"
+    ],
+    "synonyms": [
+      "trainee",
+      "apprentice"
+    ],
+    "wordFamily": [
+      "internship",
+      "interned",
+      "interning"
+    ],
+    "day": 82
+  },
+  {
+    "id": "novice-noun",
+    "word": "novice",
+    "baseWord": "novice",
+    "type": "noun",
+    "meaning": "người mới, người bắt đầu",
+    "pronunciation": "/ˈnɑːvɪs/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The software is designed for both novices and advanced users.",
+    "exampleVi": "Phần mềm được thiết kế cho cả người mới bắt đầu và người dùng nâng cao.",
+    "collocations": [
+      "complete novice",
+      "novice user",
+      "novice level"
+    ],
+    "synonyms": [
+      "beginner",
+      "newcomer",
+      "starter"
+    ],
+    "wordFamily": [
+      "novices",
+      "noviceing",
+      "noviceed"
+    ],
+    "day": 82
+  },
+  {
+    "id": "practicum-noun",
+    "word": "practicum",
+    "baseWord": "practicum",
+    "type": "noun",
+    "meaning": "khóa thực hành, kỳ thực tập thực tế",
+    "pronunciation": "/ˈpræktɪkəm/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The MBA course requires a hands-on practicum with a local business.",
+    "exampleVi": "Khóa học MBA yêu cầu một kỳ thực tập thực tế với một doanh nghiệp địa phương.",
+    "collocations": [
+      "complete a practicum",
+      "practicum experience",
+      "teaching practicum"
+    ],
+    "synonyms": [
+      "internship",
+      "placement"
+    ],
+    "wordFamily": [
+      "practice",
+      "practical",
+      "practitioner"
+    ],
+    "day": 82
+  },
+  {
+    "id": "preliminary-agenda-phrase",
+    "word": "preliminary agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: preliminary agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the preliminary agenda before the next business day.",
+    "exampleVi": "Vui long xem lai preliminary agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "preliminary agenda",
+      "preliminary agenda process",
+      "preliminary agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 82
+  },
+  {
+    "id": "routine-agenda-phrase",
+    "word": "routine agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: routine agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the routine agenda before the next business day.",
+    "exampleVi": "Vui long xem lai routine agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "routine agenda",
+      "routine agenda process",
+      "routine agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 82
   },
   {
@@ -369,156 +1130,192 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The training program uses computer simulations to practice real scenarios.",
     "exampleVi": "Chương trình đào tạo sử dụng mô phỏng máy tính để thực hành các tình huống thực tế.",
-    "collocations": ["computer simulation", "training simulation", "run a simulation", "realistic simulation"],
-    "synonyms": ["model", "imitation"],
-    "wordFamily": ["simulate", "simulated", "simulator"],
+    "collocations": [
+      "computer simulation",
+      "training simulation",
+      "run a simulation",
+      "realistic simulation"
+    ],
+    "synonyms": [
+      "model",
+      "imitation"
+    ],
+    "wordFamily": [
+      "simulate",
+      "simulated",
+      "simulator"
+    ],
     "day": 82
   },
   {
-    "id": "mentorship-noun",
-    "word": "mentorship",
-    "baseWord": "mentorship",
-    "type": "noun",
-    "meaning": "sự cố vấn, chương trình cố vấn",
-    "pronunciation": "/ˈmentɔːrʃɪp/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The mentorship program has helped many junior staff advance their careers.",
-    "exampleVi": "Chương trình cố vấn đã giúp nhiều nhân viên trẻ thăng tiến sự nghiệp.",
-    "collocations": ["mentorship program", "mentorship opportunity", "provide mentorship", "mentorship relationship"],
-    "synonyms": ["guidance", "coaching"],
-    "wordFamily": ["mentor", "mentoring", "mentee"],
-    "day": 83
-  },
-  {
-    "id": "orientation-noun",
-    "word": "orientation",
-    "baseWord": "orientation",
-    "type": "noun",
-    "meaning": "buổi định hướng, hướng dẫn ban đầu",
-    "pronunciation": "/ˌɔːriənˈteɪʃən/",
+    "id": "specialize-verb",
+    "word": "specialize",
+    "baseWord": "specialize",
+    "type": "verb",
+    "meaning": "chuyên môn hóa",
+    "pronunciation": "/ˈspeʃəlaɪz/",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "New employee orientation will be held on the first Monday of each month.",
-    "exampleVi": "Buổi định hướng nhân viên mới sẽ được tổ chức vào thứ Hai đầu tiên mỗi tháng.",
-    "collocations": ["employee orientation", "orientation session", "orientation program", "attend orientation"],
-    "synonyms": ["induction", "introduction"],
-    "wordFamily": ["orient", "oriented", "orientate"],
-    "day": 83
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our firm specializes in corporate law and compliance.",
+    "exampleVi": "Công ty chúng tôi chuyên về luật doanh nghiệp và tuân thủ.",
+    "collocations": [
+      "specialize in",
+      "highly specialized",
+      "specialized training",
+      "specialized skills"
+    ],
+    "synonyms": [
+      "focus",
+      "concentrate"
+    ],
+    "wordFamily": [
+      "specialization",
+      "specialist",
+      "specialized"
+    ],
+    "day": 82
   },
   {
-    "id": "expertise-noun",
-    "word": "expertise",
-    "baseWord": "expertise",
+    "id": "tutorial-noun",
+    "word": "tutorial",
+    "baseWord": "tutorial",
     "type": "noun",
-    "meaning": "chuyên môn, kiến thức chuyên sâu",
-    "pronunciation": "/ˌekspɜːrˈtiːz/",
+    "meaning": "bài hướng dẫn",
+    "pronunciation": "/tjuːˈtɔːriəl/",
     "topic": "Training & Professional Development",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Her expertise in data analysis made her the ideal candidate for the role.",
-    "exampleVi": "Chuyên môn của cô ấy trong phân tích dữ liệu khiến cô ấy trở thành ứng viên lý tưởng cho vị trí này.",
-    "collocations": ["technical expertise", "professional expertise", "area of expertise", "share expertise"],
-    "synonyms": ["knowledge", "skill"],
-    "wordFamily": ["expert", "expertly"],
-    "day": 83
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "A video tutorial is available on the company intranet for reference.",
+    "exampleVi": "Một bài hướng dẫn bằng video có sẵn trên mạng nội bộ của công ty để tham khảo.",
+    "collocations": [
+      "video tutorial",
+      "online tutorial",
+      "step-by-step tutorial",
+      "follow a tutorial"
+    ],
+    "synonyms": [
+      "guide",
+      "lesson"
+    ],
+    "wordFamily": [
+      "tutorials",
+      "tutor"
+    ],
+    "day": 82
   },
   {
-    "id": "apprenticeship-noun",
-    "word": "apprenticeship",
-    "baseWord": "apprenticeship",
-    "type": "noun",
-    "meaning": "thời gian học việc, chương trình học nghề",
-    "pronunciation": "/əˈprentɪsʃɪp/",
+    "id": "upskill-verb",
+    "word": "upskill",
+    "baseWord": "upskill",
+    "type": "verb",
+    "meaning": "nâng cao kỹ năng",
+    "pronunciation": "/ʌpˈskɪl/",
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "She completed a three-year apprenticeship at an engineering firm.",
-    "exampleVi": "Cô ấy đã hoàn thành chương trình học nghề ba năm tại một công ty kỹ thuật.",
-    "collocations": ["complete an apprenticeship", "apprenticeship program", "apprenticeship opportunity", "apprenticeship training"],
-    "synonyms": ["traineeship", "internship"],
-    "wordFamily": ["apprentice", "apprentices"],
-    "day": 83
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company invested in programs to upskill its workforce.",
+    "exampleVi": "Công ty đã đầu tư vào các chương trình nâng cao kỹ năng cho lực lượng lao động.",
+    "collocations": [
+      "upskill employees",
+      "upskill the workforce",
+      "upskill staff",
+      "upskilling program"
+    ],
+    "synonyms": [
+      "retrain",
+      "develop"
+    ],
+    "wordFamily": [
+      "upskills",
+      "upskilled",
+      "upskilling"
+    ],
+    "day": 82
   },
   {
-    "id": "refresher-noun",
-    "word": "refresher",
-    "baseWord": "refresher",
+    "id": "webinar-noun",
+    "word": "webinar",
+    "baseWord": "webinar",
     "type": "noun",
-    "meaning": "khóa bổ túc, bài ôn tập",
-    "pronunciation": "/rɪˈfreʃər/",
+    "meaning": "hội thảo trực tuyến",
+    "pronunciation": "/ˈwebɪnɑːr/",
     "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "All employees must attend a safety refresher course every two years.",
-    "exampleVi": "Tất cả nhân viên phải tham dự khóa bổ túc an toàn mỗi hai năm.",
-    "collocations": ["refresher course", "refresher training", "annual refresher", "refresher session"],
-    "synonyms": ["review", "recap"],
-    "wordFamily": ["refresh", "refreshed"],
-    "day": 83
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Over 500 people registered for the marketing webinar.",
+    "exampleVi": "Hơn 500 người đã đăng ký tham gia hội thảo trực tuyến về tiếp thị.",
+    "collocations": [
+      "attend a webinar",
+      "host a webinar",
+      "live webinar",
+      "recorded webinar"
+    ],
+    "synonyms": [
+      "online seminar",
+      "virtual workshop"
+    ],
+    "wordFamily": [
+      "webinars",
+      "webinar-based",
+      "webinar host"
+    ],
+    "day": 82
   },
   {
-    "id": "practitioner-noun",
-    "word": "practitioner",
-    "baseWord": "practitioner",
-    "type": "noun",
-    "meaning": "người hành nghề, chuyên gia",
-    "pronunciation": "/prækˈtɪʃənər/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The course is aimed at experienced practitioners in the healthcare field.",
-    "exampleVi": "Khóa học hướng đến những người hành nghề có kinh nghiệm trong lĩnh vực y tế.",
-    "collocations": ["medical practitioner", "experienced practitioner", "qualified practitioner", "general practitioner"],
-    "synonyms": ["professional", "specialist"],
-    "wordFamily": ["practice", "practiced"],
-    "day": 83
-  },
-  {
-    "id": "proficient-adjective",
-    "word": "proficient",
-    "baseWord": "proficient",
+    "id": "academic-adjective",
+    "word": "academic",
+    "baseWord": "academic",
     "type": "adjective",
-    "meaning": "thành thạo, giỏi",
-    "pronunciation": "/prəˈfɪʃənt/",
+    "meaning": "thuộc học thuật, lý thuyết",
+    "pronunciation": "/ˌækəˈdemɪk/",
     "topic": "Training & Professional Development",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Applicants must be proficient in Microsoft Office and data management.",
-    "exampleVi": "Ứng viên phải thành thạo Microsoft Office và quản lý dữ liệu.",
-    "collocations": ["proficient in", "highly proficient", "proficient at", "proficient user"],
-    "synonyms": ["skilled", "competent"],
-    "wordFamily": ["proficiency", "proficiently"],
-    "day": 83
-  },
-  {
-    "id": "prerequisite-noun",
-    "word": "prerequisite",
-    "baseWord": "prerequisite",
-    "type": "noun",
-    "meaning": "điều kiện tiên quyết",
-    "pronunciation": "/priːˈrekwɪzɪt/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "A basic accounting course is a prerequisite for the advanced program.",
-    "exampleVi": "Khóa kế toán cơ bản là điều kiện tiên quyết cho chương trình nâng cao.",
-    "collocations": ["prerequisite for", "meet prerequisites", "prerequisite course", "essential prerequisite"],
-    "synonyms": ["requirement", "precondition"],
-    "wordFamily": ["prerequisites"],
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The candidate has a distinguished academic record.",
+    "exampleVi": "Ứng viên có thành tích học tập xuất sắc.",
+    "collocations": [
+      "academic record",
+      "academic performance",
+      "academic advisor"
+    ],
+    "synonyms": [
+      "scholarly",
+      "educational",
+      "theoretical"
+    ],
+    "wordFamily": [
+      "academy",
+      "academically",
+      "academics"
+    ],
     "day": 83
   },
   {
@@ -531,12 +1328,150 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Only accredited institutions are eligible for government funding.",
     "exampleVi": "Chỉ các tổ chức được công nhận mới đủ điều kiện nhận tài trợ của chính phủ.",
-    "collocations": ["accredited university", "accredited program", "accredited institution", "fully accredited"],
-    "synonyms": ["certified", "recognized"],
-    "wordFamily": ["accredit", "accreditation"],
+    "collocations": [
+      "accredited university",
+      "accredited program",
+      "accredited institution",
+      "fully accredited"
+    ],
+    "synonyms": [
+      "certified",
+      "recognized"
+    ],
+    "wordFamily": [
+      "accredit",
+      "accreditation"
+    ],
+    "day": 83
+  },
+  {
+    "id": "alumni-noun",
+    "word": "alumni",
+    "baseWord": "alumnus",
+    "type": "noun",
+    "meaning": "cựu sinh viên, cựu học viên",
+    "pronunciation": "/əˈlʌmnaɪ/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The training academy keeps in touch with all its alumni.",
+    "exampleVi": "Học viện đào tạo giữ liên lạc với tất cả các cựu học viên của mình.",
+    "collocations": [
+      "alumni association",
+      "alumni network",
+      "distinguished alumni"
+    ],
+    "synonyms": [
+      "graduates"
+    ],
+    "wordFamily": [
+      "alumnus",
+      "alumna"
+    ],
+    "day": 83
+  },
+  {
+    "id": "apprenticeship-noun",
+    "word": "apprenticeship",
+    "baseWord": "apprenticeship",
+    "type": "noun",
+    "meaning": "thời gian học việc, chương trình học nghề",
+    "pronunciation": "/əˈprentɪsʃɪp/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "She completed a three-year apprenticeship at an engineering firm.",
+    "exampleVi": "Cô ấy đã hoàn thành chương trình học nghề ba năm tại một công ty kỹ thuật.",
+    "collocations": [
+      "complete an apprenticeship",
+      "apprenticeship program",
+      "apprenticeship opportunity",
+      "apprenticeship training"
+    ],
+    "synonyms": [
+      "traineeship",
+      "internship"
+    ],
+    "wordFamily": [
+      "apprentice",
+      "apprentices"
+    ],
+    "day": 83
+  },
+  {
+    "id": "attainment-noun",
+    "word": "attainment",
+    "baseWord": "attain",
+    "type": "noun",
+    "meaning": "sự đạt được, thành tựu",
+    "pronunciation": "/əˈteɪnmənt/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The training program tracks the educational attainment of its staff.",
+    "exampleVi": "Chương trình đào tạo theo dõi trình độ học vấn đạt được của nhân viên.",
+    "collocations": [
+      "educational attainment",
+      "attainment of goals",
+      "level of attainment"
+    ],
+    "synonyms": [
+      "achievement",
+      "acquisition",
+      "accomplishment"
+    ],
+    "wordFamily": [
+      "attain",
+      "attainable",
+      "unattainable"
+    ],
+    "day": 83
+  },
+  {
+    "id": "comprehensive-agenda-phrase",
+    "word": "comprehensive agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: comprehensive agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the comprehensive agenda before the next business day.",
+    "exampleVi": "Vui long xem lai comprehensive agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "comprehensive agenda",
+      "comprehensive agenda process",
+      "comprehensive agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 83
   },
   {
@@ -549,102 +1484,535 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The training program equips employees with essential leadership skills.",
     "exampleVi": "Chương trình đào tạo trang bị cho nhân viên các kỹ năng lãnh đạo thiết yếu.",
-    "collocations": ["equip employees", "well-equipped", "equip with skills", "equip with knowledge"],
-    "synonyms": ["prepare", "furnish"],
-    "wordFamily": ["equipment", "equipped", "equipping"],
+    "collocations": [
+      "equip employees",
+      "well-equipped",
+      "equip with skills",
+      "equip with knowledge"
+    ],
+    "synonyms": [
+      "prepare",
+      "furnish"
+    ],
+    "wordFamily": [
+      "equipment",
+      "equipped",
+      "equipping"
+    ],
     "day": 83
   },
   {
-    "id": "module-noun",
-    "word": "module",
-    "baseWord": "module",
+    "id": "fellowship-noun",
+    "word": "fellowship",
+    "baseWord": "fellow",
     "type": "noun",
-    "meaning": "mô-đun, phần học",
-    "pronunciation": "/ˈmɒdjuːl/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The course consists of six modules, each lasting two weeks.",
-    "exampleVi": "Khóa học bao gồm sáu mô-đun, mỗi phần kéo dài hai tuần.",
-    "collocations": ["training module", "online module", "complete a module", "course module"],
-    "synonyms": ["unit", "section"],
-    "wordFamily": ["modules", "modular"],
-    "day": 84
-  },
-  {
-    "id": "pedagogy-noun",
-    "word": "pedagogy",
-    "baseWord": "pedagogy",
-    "type": "noun",
-    "meaning": "phương pháp sư phạm",
-    "pronunciation": "/ˈpedəɡɒdʒi/",
-    "topic": "Training & Professional Development",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The institution is known for its innovative pedagogy and teaching methods.",
-    "exampleVi": "Tổ chức này nổi tiếng với phương pháp sư phạm sáng tạo và phương pháp giảng dạy.",
-    "collocations": ["innovative pedagogy", "modern pedagogy", "teaching pedagogy", "effective pedagogy"],
-    "synonyms": ["teaching methodology", "instruction"],
-    "wordFamily": ["pedagogical", "pedagogue"],
-    "day": 84
-  },
-  {
-    "id": "interactive-adjective",
-    "word": "interactive",
-    "baseWord": "interactive",
-    "type": "adjective",
-    "meaning": "tương tác",
-    "pronunciation": "/ˌɪntərˈæktɪv/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "The interactive training session encouraged participants to ask questions.",
-    "exampleVi": "Buổi đào tạo tương tác khuyến khích người tham gia đặt câu hỏi.",
-    "collocations": ["interactive session", "interactive learning", "interactive workshop", "interactive exercise"],
-    "synonyms": ["engaging", "participatory"],
-    "wordFamily": ["interact", "interaction", "interactivity"],
-    "day": 84
-  },
-  {
-    "id": "symposium-noun",
-    "word": "symposium",
-    "baseWord": "symposium",
-    "type": "noun",
-    "meaning": "hội nghị chuyên đề",
-    "pronunciation": "/sɪmˈpoʊziəm/",
+    "meaning": "học bổng nghiên cứu, hội học thuật",
+    "pronunciation": "/ˈfeloʊʃɪp/",
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The annual technology symposium will feature speakers from leading firms.",
-    "exampleVi": "Hội nghị chuyên đề công nghệ hàng năm sẽ có các diễn giả từ các công ty hàng đầu.",
-    "collocations": ["annual symposium", "international symposium", "academic symposium", "attend a symposium"],
-    "synonyms": ["conference", "forum"],
-    "wordFamily": ["symposia", "symposiums"],
-    "day": 84
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "She won a prestigious fellowship to conduct research in London.",
+    "exampleVi": "Cô ấy đã giành được một học bổng nghiên cứu uy tín để tiến hành nghiên cứu ở London.",
+    "collocations": [
+      "research fellowship",
+      "prestigious fellowship",
+      "award a fellowship"
+    ],
+    "synonyms": [
+      "grant",
+      "scholarship"
+    ],
+    "wordFamily": [
+      "fellows",
+      "fellowship"
+    ],
+    "day": 83
   },
   {
-    "id": "evaluate-verb",
-    "word": "evaluate",
-    "baseWord": "evaluate",
-    "type": "verb",
-    "meaning": "đánh giá",
-    "pronunciation": "/ɪˈvæljueɪt/",
+    "id": "final-agenda-phrase",
+    "word": "final agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: final agenda",
+    "pronunciation": "",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "Participants are asked to evaluate the effectiveness of the training.",
-    "exampleVi": "Người tham gia được yêu cầu đánh giá hiệu quả của buổi đào tạo.",
-    "collocations": ["evaluate performance", "evaluate effectiveness", "evaluate results", "carefully evaluate"],
-    "synonyms": ["assess", "appraise"],
-    "wordFamily": ["evaluation", "evaluator", "evaluated"],
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the final agenda before the next business day.",
+    "exampleVi": "Vui long xem lai final agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "final agenda",
+      "final agenda process",
+      "final agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 83
+  },
+  {
+    "id": "instructorship-noun",
+    "word": "instructorship",
+    "baseWord": "instruct",
+    "type": "noun",
+    "meaning": "cương vị giảng viên, chức vụ người hướng dẫn",
+    "pronunciation": "/ɪnˈstrʌktərʃɪp/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "He accepted a full-time instructorship at the technology institute.",
+    "exampleVi": "Anh ấy đã chấp nhận một cương vị giảng viên toàn thời gian tại viện công nghệ.",
+    "collocations": [
+      "accept an instructorship",
+      "hold an instructorship"
+    ],
+    "synonyms": [
+      "teaching post",
+      "faculty position"
+    ],
+    "wordFamily": [
+      "instruct",
+      "instruction",
+      "instructor"
+    ],
+    "day": 83
+  },
+  {
+    "id": "lecture-noun",
+    "word": "lecture",
+    "baseWord": "lecture",
+    "type": "noun",
+    "meaning": "bài thuyết trình, bài giảng",
+    "pronunciation": "/ˈlektʃər/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The guest speaker delivered an inspiring lecture on entrepreneurship.",
+    "exampleVi": "Diễn giả khách mời đã trình bày một bài giảng đầy cảm hứng về tinh thần khởi nghiệp.",
+    "collocations": [
+      "deliver a lecture",
+      "attend a lecture",
+      "guest lecture"
+    ],
+    "synonyms": [
+      "talk",
+      "presentation",
+      "address"
+    ],
+    "wordFamily": [
+      "lecturer",
+      "lectured",
+      "lecturing"
+    ],
+    "day": 83
+  },
+  {
+    "id": "lecturer-noun",
+    "word": "lecturer",
+    "baseWord": "lecture",
+    "type": "noun",
+    "meaning": "giảng viên, thuyết trình viên",
+    "pronunciation": "/ˈlektʃərər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "She works as a senior lecturer at the training center.",
+    "exampleVi": "Cô ấy làm việc với tư cách là giảng viên cao cấp tại trung tâm đào tạo.",
+    "collocations": [
+      "senior lecturer",
+      "guest lecturer",
+      "university lecturer"
+    ],
+    "synonyms": [
+      "instructor",
+      "teacher",
+      "speaker"
+    ],
+    "wordFamily": [
+      "lecture",
+      "lectured",
+      "lecturing"
+    ],
+    "day": 83
+  },
+  {
+    "id": "mandatory-agenda-phrase",
+    "word": "mandatory agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: mandatory agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the mandatory agenda before the next business day.",
+    "exampleVi": "Vui long xem lai mandatory agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "mandatory agenda",
+      "mandatory agenda process",
+      "mandatory agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 83
+  },
+  {
+    "id": "optional-agenda-phrase",
+    "word": "optional agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: optional agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please review the optional agenda before the next business day.",
+    "exampleVi": "Vui long xem lai optional agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "optional agenda",
+      "optional agenda process",
+      "optional agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 83
+  },
+  {
+    "id": "practitioner-noun",
+    "word": "practitioner",
+    "baseWord": "practitioner",
+    "type": "noun",
+    "meaning": "người hành nghề, chuyên gia",
+    "pronunciation": "/prækˈtɪʃənər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The course is aimed at experienced practitioners in the healthcare field.",
+    "exampleVi": "Khóa học hướng đến những người hành nghề có kinh nghiệm trong lĩnh vực y tế.",
+    "collocations": [
+      "medical practitioner",
+      "experienced practitioner",
+      "qualified practitioner",
+      "general practitioner"
+    ],
+    "synonyms": [
+      "professional",
+      "specialist"
+    ],
+    "wordFamily": [
+      "practice",
+      "practiced",
+      "practices"
+    ],
+    "day": 83
+  },
+  {
+    "id": "prerequisite-noun",
+    "word": "prerequisite",
+    "baseWord": "prerequisite",
+    "type": "noun",
+    "meaning": "điều kiện tiên quyết",
+    "pronunciation": "/priːˈrekwɪzɪt/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A basic accounting course is a prerequisite for the advanced program.",
+    "exampleVi": "Khóa kế toán cơ bản là điều kiện tiên quyết cho chương trình nâng cao.",
+    "collocations": [
+      "prerequisite for",
+      "meet prerequisites",
+      "prerequisite course",
+      "essential prerequisite"
+    ],
+    "synonyms": [
+      "requirement",
+      "precondition"
+    ],
+    "wordFamily": [
+      "prerequisites",
+      "pre-requisite",
+      "requisite"
+    ],
+    "day": 83
+  },
+  {
+    "id": "recertify-verb",
+    "word": "recertify",
+    "baseWord": "certify",
+    "type": "verb",
+    "meaning": "cấp lại chứng chỉ, gia hạn chứng nhận",
+    "pronunciation": "/ˌriːˈsɜːrtɪfaɪ/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Professionals must recertify every three years by taking an exam.",
+    "exampleVi": "Các chuyên gia phải gia hạn chứng nhận mỗi ba năm bằng cách tham gia kỳ thi.",
+    "collocations": [
+      "recertify a license",
+      "recertify trainers",
+      "required to recertify"
+    ],
+    "synonyms": [
+      "renew",
+      "revalidate"
+    ],
+    "wordFamily": [
+      "certify",
+      "certification",
+      "recertified"
+    ],
+    "day": 83
+  },
+  {
+    "id": "refresher-noun",
+    "word": "refresher",
+    "baseWord": "refresher",
+    "type": "noun",
+    "meaning": "khóa bổ túc, bài ôn tập",
+    "pronunciation": "/rɪˈfreʃər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "All employees must attend a safety refresher course every two years.",
+    "exampleVi": "Tất cả nhân viên phải tham dự khóa bổ túc an toàn mỗi hai năm.",
+    "collocations": [
+      "refresher course",
+      "refresher training",
+      "annual refresher",
+      "refresher session"
+    ],
+    "synonyms": [
+      "review",
+      "recap"
+    ],
+    "wordFamily": [
+      "refresh",
+      "refreshed"
+    ],
+    "day": 83
+  },
+  {
+    "id": "scholarship-noun",
+    "word": "scholarship",
+    "baseWord": "scholar",
+    "type": "noun",
+    "meaning": "học bổng",
+    "pronunciation": "/ˈskɑːlərʃɪp/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "He was awarded a full scholarship to complete his executive MBA.",
+    "exampleVi": "Anh ấy đã được trao một học bổng toàn phần để hoàn thành chương trình MBA điều hành của mình.",
+    "collocations": [
+      "full scholarship",
+      "award a scholarship",
+      "apply for a scholarship"
+    ],
+    "synonyms": [
+      "grant",
+      "fellowship"
+    ],
+    "wordFamily": [
+      "scholar",
+      "scholarly"
+    ],
+    "day": 83
+  },
+  {
+    "id": "tutor-noun",
+    "word": "tutor",
+    "baseWord": "tutor",
+    "type": "noun",
+    "meaning": "gia sư, người dạy kèm",
+    "pronunciation": "/ˈtuːtər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The training academy assigned a private tutor to assist him.",
+    "exampleVi": "Học viện đào tạo đã phân công một gia sư riêng để hỗ trợ anh ấy.",
+    "collocations": [
+      "private tutor",
+      "academic tutor",
+      "hire a tutor"
+    ],
+    "synonyms": [
+      "teacher",
+      "instructor"
+    ],
+    "wordFamily": [
+      "tutoring",
+      "tutorials",
+      "tutors"
+    ],
+    "day": 83
+  },
+  {
+    "id": "academy-noun",
+    "word": "academy",
+    "baseWord": "academy",
+    "type": "noun",
+    "meaning": "học viện, trung tâm đào tạo chuyên ngành",
+    "pronunciation": "/əˈkædəmi/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The company established a training academy for technical staff.",
+    "exampleVi": "Công ty đã thành lập một học viện đào tạo cho nhân viên kỹ thuật.",
+    "collocations": [
+      "training academy",
+      "military academy",
+      "academy graduate"
+    ],
+    "synonyms": [
+      "school",
+      "institute",
+      "college"
+    ],
+    "wordFamily": [
+      "academic",
+      "academically",
+      "academics"
+    ],
+    "day": 84
+  },
+  {
+    "id": "assessor-noun",
+    "word": "assessor",
+    "baseWord": "assess",
+    "type": "noun",
+    "meaning": "người đánh giá, giám định viên",
+    "pronunciation": "/əˈsesər/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The external assessor evaluated our training quality standards.",
+    "exampleVi": "Đánh giá viên độc lập đã đánh giá các tiêu chuẩn chất lượng đào tạo của chúng tôi.",
+    "collocations": [
+      "external assessor",
+      "independent assessor",
+      "tax assessor"
+    ],
+    "synonyms": [
+      "evaluator",
+      "examiner",
+      "inspector"
+    ],
+    "wordFamily": [
+      "assess",
+      "assessment",
+      "assessed"
+    ],
+    "day": 84
+  },
+  {
+    "id": "capstone-noun",
+    "word": "capstone",
+    "baseWord": "capstone",
+    "type": "noun",
+    "meaning": "đồ án tốt nghiệp, khóa luận cuối khóa",
+    "pronunciation": "/ˈkæpstoʊn/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Students must complete a team capstone project to graduate.",
+    "exampleVi": "Sinh viên phải hoàn thành một đồ án tốt nghiệp nhóm để ra trường.",
+    "collocations": [
+      "capstone project",
+      "capstone course",
+      "capstone presentation"
+    ],
+    "synonyms": [
+      "final project",
+      "culminating project"
+    ],
+    "wordFamily": [
+      "capstones",
+      "capstoneing",
+      "capstoneed"
+    ],
     "day": 84
   },
   {
@@ -657,48 +2025,218 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
     "example": "One-on-one coaching is available for employees seeking career advancement.",
     "exampleVi": "Huấn luyện trực tiếp một-một dành cho nhân viên muốn thăng tiến sự nghiệp.",
-    "collocations": ["executive coaching", "career coaching", "coaching session", "coaching program"],
-    "synonyms": ["mentoring", "training"],
-    "wordFamily": ["coach", "coached", "coaches"],
+    "collocations": [
+      "executive coaching",
+      "career coaching",
+      "coaching session",
+      "coaching program"
+    ],
+    "synonyms": [
+      "mentoring",
+      "training"
+    ],
+    "wordFamily": [
+      "coach",
+      "coached",
+      "coaches"
+    ],
     "day": 84
   },
   {
-    "id": "skillset-noun",
-    "word": "skillset",
-    "baseWord": "skillset",
+    "id": "cognition-noun",
+    "word": "cognition",
+    "baseWord": "cognition",
     "type": "noun",
-    "meaning": "bộ kỹ năng",
-    "pronunciation": "/ˈskɪlset/",
+    "meaning": "nhận thức, quá trình tư duy",
+    "pronunciation": "/kɑːɡˈnɪʃən/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Psychologists study how training programs affect adult cognition.",
+    "exampleVi": "Các nhà tâm lý học nghiên cứu cách các chương trình đào tạo ảnh hưởng đến nhận thức của người lớn.",
+    "collocations": [
+      "human cognition",
+      "social cognition",
+      "cognitive processes"
+    ],
+    "synonyms": [
+      "perception",
+      "awareness",
+      "understanding"
+    ],
+    "wordFamily": [
+      "cognitive",
+      "cognitively",
+      "cognizable"
+    ],
+    "day": 84
+  },
+  {
+    "id": "cognitive-adjective",
+    "word": "cognitive",
+    "baseWord": "cognition",
+    "type": "adjective",
+    "meaning": "thuộc về nhận thức, tư duy",
+    "pronunciation": "/ˈkɑːɡnətɪv/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The test measures both analytical and cognitive skills.",
+    "exampleVi": "Bài kiểm tra đo lường cả kỹ năng phân tích và nhận thức.",
+    "collocations": [
+      "cognitive skills",
+      "cognitive development",
+      "cognitive load"
+    ],
+    "synonyms": [
+      "mental",
+      "intellectual"
+    ],
+    "wordFamily": [
+      "cognition",
+      "cognitively"
+    ],
+    "day": 84
+  },
+  {
+    "id": "confidential-agenda-phrase",
+    "word": "confidential agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: confidential agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please review the confidential agenda before the next business day.",
+    "exampleVi": "Vui long xem lai confidential agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "confidential agenda",
+      "confidential agenda process",
+      "confidential agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 84
+  },
+  {
+    "id": "credentialed-adjective",
+    "word": "credentialed",
+    "baseWord": "credential",
+    "type": "adjective",
+    "meaning": "có đầy đủ bằng cấp, chứng nhận",
+    "pronunciation": "/krɪˈdenʃəld/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We only hire credentialed trainers to teach our specialized classes.",
+    "exampleVi": "Chúng tôi chỉ thuê những giảng viên có bằng cấp đầy đủ để dạy các lớp chuyên môn.",
+    "collocations": [
+      "credentialed trainer",
+      "highly credentialed",
+      "credentialed professional"
+    ],
+    "synonyms": [
+      "certified",
+      "qualified",
+      "accredited"
+    ],
+    "wordFamily": [
+      "credential",
+      "credentials"
+    ],
+    "day": 84
+  },
+  {
+    "id": "electronic-agenda-phrase",
+    "word": "electronic agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: electronic agenda",
+    "pronunciation": "",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The ideal candidate should have a strong skillset in digital marketing.",
-    "exampleVi": "Ứng viên lý tưởng nên có bộ kỹ năng mạnh trong tiếp thị kỹ thuật số.",
-    "collocations": ["diverse skillset", "technical skillset", "expand a skillset", "required skillset"],
-    "synonyms": ["abilities", "competencies"],
-    "wordFamily": ["skill", "skilled"],
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please review the electronic agenda before the next business day.",
+    "exampleVi": "Vui long xem lai electronic agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "electronic agenda",
+      "electronic agenda process",
+      "electronic agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
     "day": 84
   },
   {
-    "id": "certify-verb",
-    "word": "certify",
-    "baseWord": "certify",
+    "id": "enroll-verb",
+    "word": "enroll",
+    "baseWord": "enroll",
     "type": "verb",
-    "meaning": "chứng nhận, xác nhận",
-    "pronunciation": "/ˈsɜːrtɪfaɪ/",
+    "meaning": "đăng ký, ghi danh (học)",
+    "pronunciation": "/ɪnˈroʊl/",
     "topic": "Training & Professional Development",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The board will certify instructors who meet the training standards.",
-    "exampleVi": "Hội đồng sẽ chứng nhận các giảng viên đáp ứng tiêu chuẩn đào tạo.",
-    "collocations": ["certify a course", "certified professional", "certify compliance", "duly certified"],
-    "synonyms": ["accredit", "validate"],
-    "wordFamily": ["certification", "certified", "certificate"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees must enroll in the mandatory compliance course by Friday.",
+    "exampleVi": "Nhân viên phải đăng ký khóa học tuân thủ bắt buộc trước thứ Sáu.",
+    "collocations": [
+      "enroll in a course",
+      "enroll online",
+      "automatically enroll"
+    ],
+    "synonyms": [
+      "register",
+      "sign up",
+      "join"
+    ],
+    "wordFamily": [
+      "enrollment",
+      "enrolled",
+      "enrollee"
+    ],
     "day": 84
   },
   {
@@ -711,84 +2249,372 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "Enrollment for the fall training session closes on September 1.",
     "exampleVi": "Đăng ký cho khóa đào tạo mùa thu đóng vào ngày 1 tháng 9.",
-    "collocations": ["enrollment deadline", "enrollment form", "open enrollment", "increase enrollment"],
-    "synonyms": ["registration", "sign-up"],
-    "wordFamily": ["enroll", "enrolled", "enrollee"],
+    "collocations": [
+      "enrollment deadline",
+      "enrollment form",
+      "open enrollment",
+      "increase enrollment"
+    ],
+    "synonyms": [
+      "registration",
+      "sign-up"
+    ],
+    "wordFamily": [
+      "enroll",
+      "enrolled",
+      "enrollee"
+    ],
     "day": 84
   },
   {
-    "id": "peer-noun",
-    "word": "peer",
-    "baseWord": "peer",
-    "type": "noun",
-    "meaning": "đồng nghiệp cùng cấp, bạn đồng trang lứa",
-    "pronunciation": "/pɪr/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Employees are encouraged to learn from their peers through team activities.",
-    "exampleVi": "Nhân viên được khuyến khích học hỏi từ đồng nghiệp cùng cấp thông qua các hoạt động nhóm.",
-    "collocations": ["peer review", "peer feedback", "peer learning", "peer group"],
-    "synonyms": ["colleague", "counterpart"],
-    "wordFamily": ["peers", "peer (v.)"],
-    "day": 85
-  },
-  {
-    "id": "syllabus-noun",
-    "word": "syllabus",
-    "baseWord": "syllabus",
-    "type": "noun",
-    "meaning": "đề cương, chương trình học",
-    "pronunciation": "/ˈsɪləbəs/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The course syllabus is available for download on the training portal.",
-    "exampleVi": "Đề cương khóa học có sẵn để tải xuống trên cổng đào tạo.",
-    "collocations": ["course syllabus", "detailed syllabus", "follow the syllabus", "update the syllabus"],
-    "synonyms": ["curriculum", "outline"],
-    "wordFamily": ["syllabi", "syllabuses"],
-    "day": 85
-  },
-  {
-    "id": "understudy-noun",
-    "word": "understudy",
-    "baseWord": "understudy",
-    "type": "noun",
-    "meaning": "người dự bị, người thay thế",
-    "pronunciation": "/ˈʌndərstʌdi/",
+    "id": "matriculate-verb",
+    "word": "matriculate",
+    "baseWord": "matriculate",
+    "type": "verb",
+    "meaning": "nhập học, ghi tên vào đại học",
+    "pronunciation": "/məˈtrɪkjuleɪt/",
     "topic": "Training & Professional Development",
     "frequency": "low",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Each manager should identify an understudy to cover during absences.",
-    "exampleVi": "Mỗi quản lý nên chỉ định một người dự bị để đảm nhiệm trong thời gian vắng mặt.",
-    "collocations": ["serve as an understudy", "train an understudy", "designated understudy", "understudy role"],
-    "synonyms": ["substitute", "backup"],
-    "wordFamily": ["understudies"],
-    "day": 85
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "He decided to matriculate at the business school this fall.",
+    "exampleVi": "Anh ấy quyết định nhập học trường kinh doanh vào mùa thu này.",
+    "collocations": [
+      "matriculate at university",
+      "matriculate in a program"
+    ],
+    "synonyms": [
+      "enroll",
+      "register"
+    ],
+    "wordFamily": [
+      "matriculation",
+      "matriculated"
+    ],
+    "day": 84
   },
   {
-    "id": "benchmark-noun",
-    "word": "benchmark",
-    "baseWord": "benchmark",
+    "id": "matriculation-noun",
+    "word": "matriculation",
+    "baseWord": "matriculate",
     "type": "noun",
-    "meaning": "tiêu chuẩn đánh giá, chuẩn mực",
-    "pronunciation": "/ˈbentʃmɑːrk/",
+    "meaning": "sự nhập học, lễ khai giảng",
+    "pronunciation": "/məˌtrɪkjuˈleɪʃən/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The matriculation ceremony will be held in the main auditorium.",
+    "exampleVi": "Lễ khai giảng sẽ được tổ chức tại hội trường chính.",
+    "collocations": [
+      "matriculation ceremony",
+      "matriculation fee",
+      "matriculation requirements"
+    ],
+    "synonyms": [
+      "enrollment",
+      "admission"
+    ],
+    "wordFamily": [
+      "matriculate",
+      "matriculated"
+    ],
+    "day": 84
+  },
+  {
+    "id": "module-noun",
+    "word": "module",
+    "baseWord": "module",
+    "type": "noun",
+    "meaning": "mô-đun, phần học",
+    "pronunciation": "/ˈmɒdjuːl/",
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company uses industry benchmarks to measure employee performance.",
-    "exampleVi": "Công ty sử dụng các chuẩn mực ngành để đo lường hiệu suất nhân viên.",
-    "collocations": ["industry benchmark", "set a benchmark", "performance benchmark", "benchmark against"],
-    "synonyms": ["standard", "reference point"],
-    "wordFamily": ["benchmarking", "benchmarked"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The course consists of six modules, each lasting two weeks.",
+    "exampleVi": "Khóa học bao gồm sáu mô-đun, mỗi phần kéo dài hai tuần.",
+    "collocations": [
+      "training module",
+      "online module",
+      "complete a module",
+      "course module"
+    ],
+    "synonyms": [
+      "unit",
+      "section"
+    ],
+    "wordFamily": [
+      "modules",
+      "modular"
+    ],
+    "day": 84
+  },
+  {
+    "id": "pedagogy-noun",
+    "word": "pedagogy",
+    "baseWord": "pedagogy",
+    "type": "noun",
+    "meaning": "phương pháp sư phạm",
+    "pronunciation": "/ˈpedəɡɒdʒi/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The institution is known for its innovative pedagogy and teaching methods.",
+    "exampleVi": "Tổ chức này nổi tiếng với phương pháp sư phạm sáng tạo và phương pháp giảng dạy.",
+    "collocations": [
+      "innovative pedagogy",
+      "modern pedagogy",
+      "teaching pedagogy",
+      "effective pedagogy"
+    ],
+    "synonyms": [
+      "teaching methodology",
+      "instruction"
+    ],
+    "wordFamily": [
+      "pedagogical",
+      "pedagogue"
+    ],
+    "day": 84
+  },
+  {
+    "id": "proficiently-adverb",
+    "word": "proficiently",
+    "baseWord": "proficient",
+    "type": "adverb",
+    "meaning": "một cách thành thạo",
+    "pronunciation": "/prəˈfɪʃəntli/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "After the course, trainees could proficiently operate the machinery.",
+    "exampleVi": "Sau khóa học, học viên có thể vận hành máy móc một cách thành thạo.",
+    "collocations": [
+      "proficiently execute",
+      "proficiently speak",
+      "proficiently run"
+    ],
+    "synonyms": [
+      "expertly",
+      "skillfully",
+      "competently"
+    ],
+    "wordFamily": [
+      "proficient",
+      "proficiency"
+    ],
+    "day": 84
+  },
+  {
+    "id": "skillset-noun",
+    "word": "skillset",
+    "baseWord": "skillset",
+    "type": "noun",
+    "meaning": "bộ kỹ năng",
+    "pronunciation": "/ˈskɪlset/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The ideal candidate should have a strong skillset in digital marketing.",
+    "exampleVi": "Ứng viên lý tưởng nên có bộ kỹ năng mạnh trong tiếp thị kỹ thuật số.",
+    "collocations": [
+      "diverse skillset",
+      "technical skillset",
+      "expand a skillset",
+      "required skillset"
+    ],
+    "synonyms": [
+      "abilities",
+      "competencies"
+    ],
+    "wordFamily": [
+      "skill",
+      "skilled"
+    ],
+    "day": 84
+  },
+  {
+    "id": "specialization-noun",
+    "word": "specialization",
+    "baseWord": "specialize",
+    "type": "noun",
+    "meaning": "sự chuyên môn hóa, chuyên ngành",
+    "pronunciation": "/ˌspeʃəlaɪˈzeɪʃən/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "His specialization is in international financial regulations.",
+    "exampleVi": "Chuyên môn của anh ấy là về các quy định tài chính quốc tế.",
+    "collocations": [
+      "area of specialization",
+      "degree of specialization",
+      "workplace specialization"
+    ],
+    "synonyms": [
+      "specialty",
+      "focus",
+      "expertise"
+    ],
+    "wordFamily": [
+      "specialize",
+      "specialized",
+      "specialty"
+    ],
+    "day": 84
+  },
+  {
+    "id": "specialty-noun",
+    "word": "specialty",
+    "baseWord": "specialty",
+    "type": "noun",
+    "meaning": "chuyên khoa, lĩnh vực chuyên môn",
+    "pronunciation": "/ˈspeʃəlti/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Developing customized corporate software is our company's specialty.",
+    "exampleVi": "Phát triển phần mềm doanh nghiệp tùy chỉnh là lĩnh vực chuyên môn của công ty chúng tôi.",
+    "collocations": [
+      "company specialty",
+      "medical specialty",
+      "area of specialty"
+    ],
+    "synonyms": [
+      "specialization",
+      "expertness"
+    ],
+    "wordFamily": [
+      "specialize",
+      "specialized"
+    ],
+    "day": 84
+  },
+  {
+    "id": "symposium-noun",
+    "word": "symposium",
+    "baseWord": "symposium",
+    "type": "noun",
+    "meaning": "hội nghị chuyên đề",
+    "pronunciation": "/sɪmˈpoʊziəm/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The annual technology symposium will feature speakers from leading firms.",
+    "exampleVi": "Hội nghị chuyên đề công nghệ hàng năm sẽ có các diễn giả từ các công ty hàng đầu.",
+    "collocations": [
+      "annual symposium",
+      "international symposium",
+      "academic symposium",
+      "attend a symposium"
+    ],
+    "synonyms": [
+      "conference",
+      "forum"
+    ],
+    "wordFamily": [
+      "symposia",
+      "symposiums"
+    ],
+    "day": 84
+  },
+  {
+    "id": "advancement-noun",
+    "word": "advancement",
+    "baseWord": "advance",
+    "type": "noun",
+    "meaning": "sự tiến bộ, sự thăng tiến",
+    "pronunciation": "/ədˈvænsmənt/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The course is designed for professionals seeking career advancement.",
+    "exampleVi": "Khóa học được thiết kế cho các chuyên gia tìm kiếm sự thăng tiến sự nghiệp.",
+    "collocations": [
+      "career advancement",
+      "technological advancement",
+      "advancement opportunities"
+    ],
+    "synonyms": [
+      "promotion",
+      "progress",
+      "improvement"
+    ],
+    "wordFamily": [
+      "advance",
+      "advanced",
+      "advancing"
+    ],
+    "day": 85
+  },
+  {
+    "id": "career path-phrase",
+    "word": "career path",
+    "baseWord": "career path",
+    "type": "phrase",
+    "meaning": "con đường sự nghiệp, lộ trình sự nghiệp",
+    "pronunciation": "/kəˈrɪr pæθ/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The HR manager helped him plan a clear career path within the firm.",
+    "exampleVi": "Quản lý nhân sự đã giúp anh ấy vạch ra một lộ trình sự nghiệp rõ ràng trong công ty.",
+    "collocations": [
+      "clear career path",
+      "choose a career path",
+      "career path options"
+    ],
+    "synonyms": [
+      "career track",
+      "career trajectory"
+    ],
+    "wordFamily": [
+      "career paths",
+      "career pathing",
+      "career pathed"
+    ],
     "day": 85
   },
   {
@@ -801,85 +2627,90 @@
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The leadership program helps managers cultivate strong communication skills.",
     "exampleVi": "Chương trình lãnh đạo giúp quản lý trau dồi kỹ năng giao tiếp mạnh mẽ.",
-    "collocations": ["cultivate skills", "cultivate talent", "cultivate relationships", "cultivate leadership"],
-    "synonyms": ["develop", "nurture"],
-    "wordFamily": ["cultivation", "cultivated"],
+    "collocations": [
+      "cultivate skills",
+      "cultivate talent",
+      "cultivate relationships",
+      "cultivate leadership"
+    ],
+    "synonyms": [
+      "develop",
+      "nurture"
+    ],
+    "wordFamily": [
+      "cultivation",
+      "cultivated"
+    ],
     "day": 85
   },
   {
-    "id": "credential-verb",
-    "word": "retrain",
-    "baseWord": "retrain",
-    "type": "verb",
-    "meaning": "đào tạo lại",
-    "pronunciation": "/riːˈtreɪn/",
-    "id": "retrain-verb",
+    "id": "distance learning-phrase",
+    "word": "distance learning",
+    "baseWord": "distance learning",
+    "type": "phrase",
+    "meaning": "học từ xa, đào tạo từ xa",
+    "pronunciation": "/ˈdɪstəns ˈlɜːrnɪŋ/",
     "topic": "Training & Professional Development",
     "frequency": "medium",
     "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Workers displaced by automation were offered opportunities to retrain.",
-    "exampleVi": "Công nhân bị thay thế bởi tự động hóa đã được cung cấp cơ hội đào tạo lại.",
-    "collocations": ["retrain employees", "retrain staff", "retrain workers", "retrain for a new role"],
-    "synonyms": ["reskill", "reeducate"],
-    "wordFamily": ["retraining", "retrained"],
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Distance learning programs are ideal for employees who travel frequently.",
+    "exampleVi": "Các chương trình học từ xa là lý tưởng cho các nhân viên phải đi công tác thường xuyên.",
+    "collocations": [
+      "distance learning programs",
+      "online distance learning"
+    ],
+    "synonyms": [
+      "remote learning",
+      "online education"
+    ],
+    "wordFamily": [
+      "distance learnings",
+      "distance learninging",
+      "distance learninged"
+    ],
     "day": 85
   },
   {
-    "id": "delegate-verb",
-    "word": "delegate",
-    "baseWord": "delegate",
-    "type": "verb",
-    "meaning": "ủy thác, giao phó",
-    "pronunciation": "/ˈdelɪɡeɪt/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Effective managers know how to delegate tasks to their teams.",
-    "exampleVi": "Quản lý hiệu quả biết cách giao phó công việc cho nhóm của họ.",
-    "collocations": ["delegate responsibility", "delegate tasks", "delegate authority", "delegate work"],
-    "synonyms": ["assign", "entrust"],
-    "wordFamily": ["delegation", "delegated", "delegate (n.)"],
-    "day": 85
-  },
-  {
-    "id": "knowledgeable-adjective",
-    "word": "knowledgeable",
-    "baseWord": "knowledgeable",
+    "id": "educative-adjective",
+    "word": "educative",
+    "baseWord": "educate",
     "type": "adjective",
-    "meaning": "hiểu biết, có kiến thức",
-    "pronunciation": "/ˈnɒlɪdʒəbəl/",
+    "meaning": "có tính giáo dục, mang tính truyền đạt",
+    "pronunciation": "/ˈedʒukeɪtɪv/",
     "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Our sales team is highly knowledgeable about the latest product features.",
-    "exampleVi": "Đội ngũ bán hàng của chúng tôi rất am hiểu về các tính năng sản phẩm mới nhất.",
-    "collocations": ["highly knowledgeable", "knowledgeable about", "knowledgeable staff", "knowledgeable in"],
-    "synonyms": ["well-informed", "educated"],
-    "wordFamily": ["knowledge", "knowledgeably"],
-    "day": 85
-  },
-  {
-    "id": "self-paced-adjective",
-    "word": "self-paced",
-    "baseWord": "self-paced",
-    "type": "adjective",
-    "meaning": "tự học theo tiến độ cá nhân",
-    "pronunciation": "/ˌself ˈpeɪst/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The self-paced online course allows employees to study at their convenience.",
-    "exampleVi": "Khóa học trực tuyến tự theo tiến độ cho phép nhân viên học theo sự thuận tiện của họ.",
-    "collocations": ["self-paced learning", "self-paced course", "self-paced training", "self-paced program"],
-    "synonyms": ["flexible", "independent"],
-    "wordFamily": [],
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The interactive game has a highly educative value for new staff.",
+    "exampleVi": "Trò chơi tương tác có giá trị giáo dục cao đối với nhân viên mới.",
+    "collocations": [
+      "educative value",
+      "educative experience",
+      "educative process"
+    ],
+    "synonyms": [
+      "educational",
+      "instructive",
+      "informative"
+    ],
+    "wordFamily": [
+      "educate",
+      "education",
+      "educational",
+      "educator"
+    ],
     "day": 85
   },
   {
@@ -892,12 +2723,475 @@
     "topic": "Training & Professional Development",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
     "example": "The training program empowers employees to take initiative on projects.",
     "exampleVi": "Chương trình đào tạo trao quyền cho nhân viên chủ động trong các dự án.",
-    "collocations": ["empower employees", "empower teams", "empower individuals", "empower communities"],
-    "synonyms": ["enable", "authorize"],
-    "wordFamily": ["empowerment", "empowered", "empowering"],
+    "collocations": [
+      "empower employees",
+      "empower teams",
+      "empower individuals",
+      "empower communities"
+    ],
+    "synonyms": [
+      "enable",
+      "authorize"
+    ],
+    "wordFamily": [
+      "empowerment",
+      "empowered",
+      "empowering"
+    ],
+    "day": 85
+  },
+  {
+    "id": "empowerment-noun",
+    "word": "empowerment",
+    "baseWord": "empower",
+    "type": "noun",
+    "meaning": "sự trao quyền, sự làm cho tự chủ",
+    "pronunciation": "/ɪmˈpaʊərmənt/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employee empowerment leads to increased motivation and productivity.",
+    "exampleVi": "Sự trao quyền cho nhân viên dẫn đến động lực và năng suất tăng cao.",
+    "collocations": [
+      "employee empowerment",
+      "youth empowerment",
+      "feel empowerment"
+    ],
+    "synonyms": [
+      "authorization",
+      "autonomy"
+    ],
+    "wordFamily": [
+      "empower",
+      "empowered",
+      "empowering"
+    ],
+    "day": 85
+  },
+  {
+    "id": "knowledgeable-adjective",
+    "word": "knowledgeable",
+    "baseWord": "knowledgeable",
+    "type": "adjective",
+    "meaning": "hiểu biết, có kiến thức",
+    "pronunciation": "/ˈnɒlɪdʒəbəl/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our sales team is highly knowledgeable about the latest product features.",
+    "exampleVi": "Đội ngũ bán hàng của chúng tôi rất am hiểu về các tính năng sản phẩm mới nhất.",
+    "collocations": [
+      "highly knowledgeable",
+      "knowledgeable about",
+      "knowledgeable staff",
+      "knowledgeable in"
+    ],
+    "synonyms": [
+      "well-informed",
+      "educated"
+    ],
+    "wordFamily": [
+      "knowledge",
+      "knowledgeably"
+    ],
+    "day": 85
+  },
+  {
+    "id": "peer-noun",
+    "word": "peer",
+    "baseWord": "peer",
+    "type": "noun",
+    "meaning": "đồng nghiệp cùng cấp, bạn đồng trang lứa",
+    "pronunciation": "/pɪr/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Employees are encouraged to learn from their peers through team activities.",
+    "exampleVi": "Nhân viên được khuyến khích học hỏi từ đồng nghiệp cùng cấp thông qua các hoạt động nhóm.",
+    "collocations": [
+      "peer review",
+      "peer feedback",
+      "peer learning",
+      "peer group"
+    ],
+    "synonyms": [
+      "colleague",
+      "counterpart"
+    ],
+    "wordFamily": [
+      "peers",
+      "peer (v.)"
+    ],
+    "day": 85
+  },
+  {
+    "id": "printed-agenda-phrase",
+    "word": "printed agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "cum tu TOEIC ve training & professional development: printed agenda",
+    "pronunciation": "",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please review the printed agenda before the next business day.",
+    "exampleVi": "Vui long xem lai printed agenda truoc ngay lam viec tiep theo.",
+    "collocations": [
+      "printed agenda",
+      "printed agenda process",
+      "printed agenda deadline"
+    ],
+    "synonyms": [
+      "business term",
+      "workplace expression"
+    ],
+    "wordFamily": [
+      "agenda"
+    ],
+    "day": 85
+  },
+  {
+    "id": "professional growth-phrase",
+    "word": "professional growth",
+    "baseWord": "professional growth",
+    "type": "phrase",
+    "meaning": "sự phát triển chuyên môn, phát triển nghề nghiệp",
+    "pronunciation": "/prəˈfeʃənl ɡroʊθ/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Our company supports professional growth through tuition reimbursement.",
+    "exampleVi": "Công ty chúng tôi hỗ trợ sự phát triển chuyên môn thông qua hoàn trả học phí.",
+    "collocations": [
+      "support professional growth",
+      "professional growth opportunities"
+    ],
+    "synonyms": [
+      "career development",
+      "professional development"
+    ],
+    "wordFamily": [
+      "professional growths",
+      "professional growthing",
+      "professional growthed"
+    ],
+    "day": 85
+  },
+  {
+    "id": "retrain-verb",
+    "word": "retrain",
+    "baseWord": "retrain",
+    "type": "verb",
+    "meaning": "đào tạo lại",
+    "pronunciation": "/riːˈtreɪn/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Workers displaced by automation were offered opportunities to retrain.",
+    "exampleVi": "Công nhân bị thay thế bởi tự động hóa đã được cung cấp cơ hội đào tạo lại.",
+    "collocations": [
+      "retrain employees",
+      "retrain staff",
+      "retrain workers",
+      "retrain for a new role"
+    ],
+    "synonyms": [
+      "reskill",
+      "reeducate"
+    ],
+    "wordFamily": [
+      "retrains",
+      "retraining",
+      "retrained"
+    ],
+    "day": 85
+  },
+  {
+    "id": "self-paced-adjective",
+    "word": "self-paced",
+    "baseWord": "self-paced",
+    "type": "adjective",
+    "meaning": "tự học theo tiến độ cá nhân",
+    "pronunciation": "/ˌself ˈpeɪst/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The self-paced online course allows employees to study at their convenience.",
+    "exampleVi": "Khóa học trực tuyến tự theo tiến độ cho phép nhân viên học theo sự thuận tiện của họ.",
+    "collocations": [
+      "self-paced learning",
+      "self-paced course",
+      "self-paced training",
+      "self-paced program"
+    ],
+    "synonyms": [
+      "flexible",
+      "independent"
+    ],
+    "wordFamily": [
+      "self-paceds",
+      "self-paceding",
+      "self-paceded"
+    ],
+    "day": 85
+  },
+  {
+    "id": "skill development-phrase",
+    "word": "skill development",
+    "baseWord": "skill development",
+    "type": "phrase",
+    "meaning": "sự phát triển kỹ năng",
+    "pronunciation": "/skɪl dɪˈveləpmənt/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The workshop focuses on team building and skill development.",
+    "exampleVi": "Hội thảo tập trung vào xây dựng đội ngũ và phát triển kỹ năng.",
+    "collocations": [
+      "focus on skill development",
+      "skill development workshop"
+    ],
+    "synonyms": [
+      "skill acquisition",
+      "training"
+    ],
+    "wordFamily": [
+      "skill developments",
+      "skill developmenting",
+      "skill developmented"
+    ],
+    "day": 85
+  },
+  {
+    "id": "skillful-adjective",
+    "word": "skillful",
+    "baseWord": "skill",
+    "type": "adjective",
+    "meaning": "khéo léo, tài giỏi, lành nghề",
+    "pronunciation": "/ˈskɪlfl/",
+    "topic": "Training & Professional Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs a skillful negotiator to close the deal.",
+    "exampleVi": "Đội ngũ cần một nhà đàm phán tài giỏi để hoàn tất thương vụ.",
+    "collocations": [
+      "skillful performance",
+      "highly skillful",
+      "skillful worker"
+    ],
+    "synonyms": [
+      "expert",
+      "proficient",
+      "adept"
+    ],
+    "wordFamily": [
+      "skill",
+      "skillfully",
+      "skillfulness"
+    ],
+    "day": 85
+  },
+  {
+    "id": "studious-adjective",
+    "word": "studious",
+    "baseWord": "study",
+    "type": "adjective",
+    "meaning": "chăm học, siêng năng nghiên cứu",
+    "pronunciation": "/ˈstuːdiəs/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "medium",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The new apprentice is very studious and quickly absorbs information.",
+    "exampleVi": "Người học việc mới rất chăm học và nhanh chóng tiếp thu thông tin.",
+    "collocations": [
+      "studious nature",
+      "studious student",
+      "highly studious"
+    ],
+    "synonyms": [
+      "scholarly",
+      "diligent",
+      "industrious"
+    ],
+    "wordFamily": [
+      "study",
+      "studies",
+      "studiously"
+    ],
+    "day": 85
+  },
+  {
+    "id": "syllabus-noun",
+    "word": "syllabus",
+    "baseWord": "syllabus",
+    "type": "noun",
+    "meaning": "đề cương, chương trình học",
+    "pronunciation": "/ˈsɪləbəs/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The course syllabus is available for download on the training portal.",
+    "exampleVi": "Đề cương khóa học có sẵn để tải xuống trên cổng đào tạo.",
+    "collocations": [
+      "course syllabus",
+      "detailed syllabus",
+      "follow the syllabus",
+      "update the syllabus"
+    ],
+    "synonyms": [
+      "curriculum",
+      "outline"
+    ],
+    "wordFamily": [
+      "syllabi",
+      "syllabuses",
+      "syllabus-like"
+    ],
+    "day": 85
+  },
+  {
+    "id": "tuition reimbursement-phrase",
+    "word": "tuition reimbursement",
+    "baseWord": "tuition reimbursement",
+    "type": "phrase",
+    "meaning": "sự hỗ trợ học phí, hoàn trả học phí",
+    "pronunciation": "/tuːˈɪʃən ˌriːɪmˈbɜːrsmənt/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The firm offers tuition reimbursement for job-related university courses.",
+    "exampleVi": "Công ty cung cấp hoàn trả học phí cho các khóa học đại học liên quan đến công việc.",
+    "collocations": [
+      "tuition reimbursement policy",
+      "offer tuition reimbursement"
+    ],
+    "synonyms": [
+      "educational assistance",
+      "tuition support"
+    ],
+    "wordFamily": [
+      "tuition reimbursements",
+      "tuition reimbursementing",
+      "tuition reimbursemented"
+    ],
+    "day": 85
+  },
+  {
+    "id": "understudy-noun",
+    "word": "understudy",
+    "baseWord": "understudy",
+    "type": "noun",
+    "meaning": "người dự bị, người thay thế",
+    "pronunciation": "/ˈʌndərstʌdi/",
+    "topic": "Training & Professional Development",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Each manager should identify an understudy to cover during absences.",
+    "exampleVi": "Mỗi quản lý nên chỉ định một người dự bị để đảm nhiệm trong thời gian vắng mặt.",
+    "collocations": [
+      "serve as an understudy",
+      "train an understudy",
+      "designated understudy",
+      "understudy role"
+    ],
+    "synonyms": [
+      "substitute",
+      "backup"
+    ],
+    "wordFamily": [
+      "understudies",
+      "understudying",
+      "understudied"
+    ],
+    "day": 85
+  },
+  {
+    "id": "vocational-adjective",
+    "word": "vocational",
+    "baseWord": "vocation",
+    "type": "adjective",
+    "meaning": "thuộc về hướng nghiệp, dạy nghề",
+    "pronunciation": "/voʊˈkeɪʃənl/",
+    "topic": "Training & Professional Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The government funded vocational training for high school graduates.",
+    "exampleVi": "Chính phủ đã tài trợ đào tạo nghề cho học sinh tốt nghiệp trung học phổ thông.",
+    "collocations": [
+      "vocational training",
+      "vocational school",
+      "vocational education"
+    ],
+    "synonyms": [
+      "professional",
+      "occupational",
+      "technical"
+    ],
+    "wordFamily": [
+      "vocation",
+      "vocations"
+    ],
     "day": 85
   }
 ]

@@ -1,0 +1,3184 @@
+[
+  {
+    "id": "biodiversity-noun",
+    "word": "biodiversity",
+    "baseWord": "biodiversity",
+    "type": "noun",
+    "meaning": "đa dạng sinh học",
+    "pronunciation": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Forest conservation helps maintain biodiversity and prevents species loss.",
+    "exampleVi": "Bảo tồn rừng giúp duy trì sự đa dạng sinh học và ngăn ngừa mất mát các loài sinh vật.",
+    "collocations": [
+      "preserve biodiversity",
+      "protect biodiversity",
+      "rich biodiversity"
+    ],
+    "synonyms": [
+      "biological diversity",
+      "variety of life"
+    ],
+    "wordFamily": [
+      "biodiverse",
+      "biological",
+      "biology"
+    ],
+    "day": 91
+  },
+  {
+    "id": "carbon footprint-phrase",
+    "word": "carbon footprint",
+    "baseWord": "carbon footprint",
+    "type": "phrase",
+    "meaning": "dấu chân carbon, lượng khí phát thải carbon",
+    "pronunciation": "/ˈkɑːrbən ˈfʊtprɪnt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Using public transit is an effective way to reduce your carbon footprint.",
+    "exampleVi": "Sử dụng phương tiện công cộng là một cách hiệu quả để giảm dấu chân carbon của bạn.",
+    "collocations": [
+      "reduce carbon footprint",
+      "calculate carbon footprint",
+      "corporate carbon footprint"
+    ],
+    "synonyms": [
+      "carbon emissions",
+      "climate impact"
+    ],
+    "wordFamily": [
+      "carbon",
+      "footprint",
+      "footprints"
+    ],
+    "day": 91
+  },
+  {
+    "id": "compost-verb",
+    "word": "compost",
+    "baseWord": "compost",
+    "type": "verb",
+    "meaning": "ủ phân hữu cơ, làm phân compost",
+    "pronunciation": "/ˈkɑːmpoʊst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Homeowners are encouraged to compost kitchen waste instead of throwing it away.",
+    "exampleVi": "Chủ nhà được khuyến khích ủ rác nhà bếp thành phân hữu cơ thay vì vứt bỏ nó.",
+    "collocations": [
+      "compost organic waste",
+      "compost food scraps"
+    ],
+    "synonyms": [
+      "fertilize",
+      "decompose"
+    ],
+    "wordFamily": [
+      "composting",
+      "composted",
+      "compostable"
+    ],
+    "day": 91
+  },
+  {
+    "id": "compostable-adjective",
+    "word": "compostable",
+    "baseWord": "compost",
+    "type": "adjective",
+    "meaning": "có thể phân hủy làm phân hữu cơ",
+    "pronunciation": "/ˈkɑːmpoʊstəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The cafeteria uses compostable plates and cutlery made from cornstarch.",
+    "exampleVi": "Căng tin sử dụng đĩa và dao muỗng nĩa có thể phân hủy làm từ tinh bột ngô.",
+    "collocations": [
+      "compostable packaging",
+      "compostable cups",
+      "100% compostable"
+    ],
+    "synonyms": [
+      "biodegradable",
+      "decomposable"
+    ],
+    "wordFamily": [
+      "compost",
+      "composting",
+      "composted"
+    ],
+    "day": 91
+  },
+  {
+    "id": "conservation-noun",
+    "word": "conservation",
+    "baseWord": "conserve",
+    "type": "noun",
+    "meaning": "sự bảo tồn, sự gìn giữ tự nhiên",
+    "pronunciation": "/ˌkɑːnsərˈveɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Energy conservation is one of the company's primary environmental goals.",
+    "exampleVi": "Bảo tồn năng lượng là một trong những mục tiêu môi trường hàng đầu của công ty.",
+    "collocations": [
+      "energy conservation",
+      "environmental conservation",
+      "conservation effort"
+    ],
+    "synonyms": [
+      "preservation",
+      "protection",
+      "saving"
+    ],
+    "wordFamily": [
+      "conserve",
+      "conservationist",
+      "conservationism"
+    ],
+    "day": 91
+  },
+  {
+    "id": "conserve-verb",
+    "word": "conserve",
+    "baseWord": "conserve",
+    "type": "verb",
+    "meaning": "bảo tồn, tiết kiệm nguồn lực",
+    "pronunciation": "/kənˈsɜːrv/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "New smart meters help homeowners conserve water and electricity.",
+    "exampleVi": "Các đồng hồ thông minh mới giúp chủ nhà tiết kiệm nước và điện.",
+    "collocations": [
+      "conserve water",
+      "conserve energy",
+      "conserve resources"
+    ],
+    "synonyms": [
+      "save",
+      "protect",
+      "preserve"
+    ],
+    "wordFamily": [
+      "conservation",
+      "conservationist",
+      "conserved"
+    ],
+    "day": 91
+  },
+  {
+    "id": "eco-friendly-adjective",
+    "word": "eco-friendly",
+    "baseWord": "eco-friendly",
+    "type": "adjective",
+    "meaning": "thân thiện với môi trường",
+    "pronunciation": "/ˌiːkoʊˈfrendli/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Many consumers prefer eco-friendly products made from recycled materials.",
+    "exampleVi": "Nhiều người tiêu dùng ưa thích các sản phẩm thân thiện với môi trường làm từ vật liệu tái chế.",
+    "collocations": [
+      "eco-friendly packaging",
+      "eco-friendly cleaning products",
+      "eco-friendly practices"
+    ],
+    "synonyms": [
+      "green",
+      "environmentally friendly",
+      "environment-friendly"
+    ],
+    "wordFamily": [
+      "ecology",
+      "eco-friendliness",
+      "ecologically"
+    ],
+    "day": 91
+  },
+  {
+    "id": "ecosystem-noun",
+    "word": "ecosystem",
+    "baseWord": "ecosystem",
+    "type": "noun",
+    "meaning": "hệ sinh thái",
+    "pronunciation": "/ˈiːkoʊsɪstəm/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Pollution can cause severe damage to the local marine ecosystem.",
+    "exampleVi": "Ô nhiễm có thể gây ra thiệt hại nghiêm trọng cho hệ sinh thái biển địa phương.",
+    "collocations": [
+      "marine ecosystem",
+      "fragile ecosystem",
+      "local ecosystem"
+    ],
+    "synonyms": [
+      "ecological system",
+      "environment"
+    ],
+    "wordFamily": [
+      "ecological",
+      "ecologically",
+      "ecosystems"
+    ],
+    "day": 91
+  },
+  {
+    "id": "geothermal-adjective",
+    "word": "geothermal",
+    "baseWord": "geothermal",
+    "type": "adjective",
+    "meaning": "thuộc địa nhiệt",
+    "pronunciation": "/ˌdʒiːoʊˈθɜːrml/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The country relies heavily on geothermal power for heating homes.",
+    "exampleVi": "Quốc gia này phụ thuộc lớn vào năng lượng địa nhiệt để sưởi ấm các ngôi nhà.",
+    "collocations": [
+      "geothermal energy",
+      "geothermal power plant",
+      "geothermal heating"
+    ],
+    "synonyms": [
+      "hydrothermal"
+    ],
+    "wordFamily": [
+      "geothermally",
+      "geothermal energy",
+      "geothermal power"
+    ],
+    "day": 91
+  },
+  {
+    "id": "greenhouse gas-phrase",
+    "word": "greenhouse gas",
+    "baseWord": "greenhouse gas",
+    "type": "phrase",
+    "meaning": "khí nhà kính",
+    "pronunciation": "/ˈɡriːnhaʊs ɡæs/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Countries signed a treaty to reduce greenhouse gas emissions by 2030.",
+    "exampleVi": "Các quốc gia đã ký một hiệp ước nhằm giảm phát thải khí nhà kính trước năm 2030.",
+    "collocations": [
+      "greenhouse gas emissions",
+      "reduce greenhouse gases",
+      "greenhouse gas concentration"
+    ],
+    "synonyms": [
+      "carbon emissions",
+      "heat-trapping gas"
+    ],
+    "wordFamily": [
+      "greenhouse",
+      "gas",
+      "gases"
+    ],
+    "day": 91
+  },
+  {
+    "id": "landfill-noun",
+    "word": "landfill",
+    "baseWord": "landfill",
+    "type": "noun",
+    "meaning": "bãi chôn lấp rác thải",
+    "pronunciation": "/ˈlændfɪl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Too much plastic waste is ending up in municipal landfills.",
+    "exampleVi": "Quá nhiều rác thải nhựa đang bị đổ về các bãi chôn lấp của thành phố.",
+    "collocations": [
+      "municipal landfill",
+      "landfill site",
+      "reduce landfill waste"
+    ],
+    "synonyms": [
+      "dump",
+      "garbage dump"
+    ],
+    "wordFamily": [
+      "landfills",
+      "land",
+      "fill"
+    ],
+    "day": 91
+  },
+  {
+    "id": "organic-adjective",
+    "word": "organic",
+    "baseWord": "organ",
+    "type": "adjective",
+    "meaning": "hữu cơ",
+    "pronunciation": "/ɔːrˈɡænɪk/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The hotel restaurant sources its organic vegetables from local farms.",
+    "exampleVi": "Nhà hàng khách sạn lấy nguồn rau hữu cơ từ các trang trại địa phương.",
+    "collocations": [
+      "organic farming",
+      "organic food",
+      "certified organic"
+    ],
+    "synonyms": [
+      "natural",
+      "biological"
+    ],
+    "wordFamily": [
+      "organically",
+      "organics",
+      "organism"
+    ],
+    "day": 91
+  },
+  {
+    "id": "pesticide-noun",
+    "word": "pesticide",
+    "baseWord": "pesticide",
+    "type": "noun",
+    "meaning": "thuốc trừ sâu, thuốc bảo vệ thực vật",
+    "pronunciation": "/ˈpestɪsaɪd/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The regulations aim to limit the use of chemical pesticides in agriculture.",
+    "exampleVi": "Các quy định nhằm hạn chế sử dụng thuốc trừ sâu hóa học trong nông nghiệp.",
+    "collocations": [
+      "chemical pesticide",
+      "use pesticides",
+      "pesticide runoff"
+    ],
+    "synonyms": [
+      "insecticide",
+      "agricultural chemical"
+    ],
+    "wordFamily": [
+      "pesticides",
+      "pest",
+      "pests"
+    ],
+    "day": 91
+  },
+  {
+    "id": "pollutant-noun",
+    "word": "pollutant",
+    "baseWord": "pollute",
+    "type": "noun",
+    "meaning": "chất gây ô nhiễm",
+    "pronunciation": "/pəˈluːtənt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Filters were installed in the chimneys to capture harmful air pollutants.",
+    "exampleVi": "Bộ lọc đã được lắp đặt trong các ống khói để giữ lại các chất gây ô nhiễm không khí có hại.",
+    "collocations": [
+      "air pollutant",
+      "chemical pollutant",
+      "eliminate pollutants"
+    ],
+    "synonyms": [
+      "contaminant",
+      "waste"
+    ],
+    "wordFamily": [
+      "pollute",
+      "pollution",
+      "pollutants"
+    ],
+    "day": 91
+  },
+  {
+    "id": "pollute-verb",
+    "word": "pollute",
+    "baseWord": "pollute",
+    "type": "verb",
+    "meaning": "làm ô nhiễm",
+    "pronunciation": "/pəˈluːt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Industrial waste continues to pollute nearby rivers and lakes.",
+    "exampleVi": "Rác thải công nghiệp tiếp tục làm ô nhiễm các con sông và hồ lân cận.",
+    "collocations": [
+      "pollute rivers",
+      "pollute the environment",
+      "heavily pollute"
+    ],
+    "synonyms": [
+      "contaminate",
+      "dirty",
+      "spoil"
+    ],
+    "wordFamily": [
+      "pollutant",
+      "pollution",
+      "polluted"
+    ],
+    "day": 91
+  },
+  {
+    "id": "recycle-verb",
+    "word": "recycle",
+    "baseWord": "recycle",
+    "type": "verb",
+    "meaning": "tái chế",
+    "pronunciation": "/ˌriːˈsaɪkl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our office encourages staff to recycle paper, plastic, and glass.",
+    "exampleVi": "Văn phòng chúng tôi khuyến khích nhân viên tái chế giấy, nhựa và thủy tinh.",
+    "collocations": [
+      "recycle paper",
+      "recycle plastics",
+      "encourage to recycle"
+    ],
+    "synonyms": [
+      "reprocess",
+      "reuse"
+    ],
+    "wordFamily": [
+      "recycler",
+      "recycling",
+      "recycled"
+    ],
+    "day": 91
+  },
+  {
+    "id": "renewable-adjective",
+    "word": "renewable",
+    "baseWord": "renew",
+    "type": "adjective",
+    "meaning": "có thể tái tạo (năng lượng)",
+    "pronunciation": "/rɪˈnuːəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory plans to transition to renewable energy by next year.",
+    "exampleVi": "Nhà máy có kế hoạch chuyển đổi sang năng lượng tái tạo trước năm tới.",
+    "collocations": [
+      "renewable energy",
+      "renewable resources",
+      "renewable power"
+    ],
+    "synonyms": [
+      "sustainable",
+      "replenishable"
+    ],
+    "wordFamily": [
+      "renew",
+      "renewal",
+      "renewably"
+    ],
+    "day": 91
+  },
+  {
+    "id": "reusable-adjective",
+    "word": "reusable",
+    "baseWord": "reuse",
+    "type": "adjective",
+    "meaning": "có thể tái sử dụng",
+    "pronunciation": "/ˌriːˈjuːzəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Employees are provided with reusable coffee mugs to reduce waste.",
+    "exampleVi": "Nhân viên được cung cấp ly cà phê tái sử dụng để giảm thiểu rác thải.",
+    "collocations": [
+      "reusable bags",
+      "reusable container",
+      "reusable water bottle"
+    ],
+    "synonyms": [
+      "multi-use",
+      "recyclable"
+    ],
+    "wordFamily": [
+      "reuse",
+      "reusability",
+      "reused"
+    ],
+    "day": 91
+  },
+  {
+    "id": "solar panel-phrase",
+    "word": "solar panel",
+    "baseWord": "solar panel",
+    "type": "phrase",
+    "meaning": "tấm pin năng lượng mặt trời",
+    "pronunciation": "/ˈsoʊlər ˈpænl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Installing solar panels on the roof significantly reduced our utility bills.",
+    "exampleVi": "Việc lắp đặt các tấm pin mặt trời trên mái nhà đã giảm đáng kể hóa đơn tiền điện của chúng tôi.",
+    "collocations": [
+      "install solar panels",
+      "solar panel array",
+      "roof solar panels"
+    ],
+    "synonyms": [
+      "photovoltaic cell"
+    ],
+    "wordFamily": [
+      "solar",
+      "panel",
+      "panels"
+    ],
+    "day": 91
+  },
+  {
+    "id": "wind turbine-phrase",
+    "word": "wind turbine",
+    "baseWord": "wind turbine",
+    "type": "phrase",
+    "meaning": "tua bin gió",
+    "pronunciation": "/wɪnd ˈtɜːrbaɪn/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "A new wind turbine farm was constructed along the windy coastline.",
+    "exampleVi": "Một trang trại tua bin gió mới đã được xây dựng dọc theo đường bờ biển đầy gió.",
+    "collocations": [
+      "wind turbine farm",
+      "giant wind turbine",
+      "wind turbine blade"
+    ],
+    "synonyms": [
+      "windmill"
+    ],
+    "wordFamily": [
+      "wind",
+      "turbine",
+      "turbines"
+    ],
+    "day": 91
+  },
+  {
+    "id": "afforestation-noun",
+    "word": "afforestation",
+    "baseWord": "forest",
+    "type": "noun",
+    "meaning": "sự trồng rừng trên đất trống đồi trọc",
+    "pronunciation": "/əˌfɔːrɪˈsteɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Afforestation helps convert desert zones into green, productive land.",
+    "exampleVi": "Trồng rừng mới giúp chuyển đổi các vùng sa mạc thành đất xanh tươi và trù phú.",
+    "collocations": [
+      "afforestation program",
+      "government afforestation",
+      "large-scale afforestation"
+    ],
+    "synonyms": [
+      "forest establishment"
+    ],
+    "wordFamily": [
+      "afforest",
+      "afforested",
+      "afforesting"
+    ],
+    "day": 92
+  },
+  {
+    "id": "biosphere-noun",
+    "word": "biosphere",
+    "baseWord": "biosphere",
+    "type": "noun",
+    "meaning": "sinh quyển",
+    "pronunciation": "/ˈbaɪoʊsfɪr/",
+    "topic": "Environment & Sustainability",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "All living organisms on Earth interact within the biosphere.",
+    "exampleVi": "Tất cả các sinh vật sống trên Trái đất tương tác với nhau trong phạm vi sinh quyển.",
+    "collocations": [
+      "protect the biosphere",
+      "biosphere reserve",
+      "earth's biosphere"
+    ],
+    "synonyms": [
+      "ecosphere",
+      "global ecosystem"
+    ],
+    "wordFamily": [
+      "biospheres",
+      "biospheric",
+      "biophysical"
+    ],
+    "day": 92
+  },
+  {
+    "id": "climate change-phrase",
+    "word": "climate change",
+    "baseWord": "climate change",
+    "type": "phrase",
+    "meaning": "biến đổi khí hậu",
+    "pronunciation": "/ˈklaɪmət tʃeɪndʒ/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The conference focused on how businesses can adapt to climate change.",
+    "exampleVi": "Hội nghị tập trung vào cách các doanh nghiệp có thể thích ứng với biến đổi khí hậu.",
+    "collocations": [
+      "fight climate change",
+      "impact of climate change",
+      "address climate change"
+    ],
+    "synonyms": [
+      "global warming",
+      "climate crisis"
+    ],
+    "wordFamily": [
+      "climate",
+      "change",
+      "changes"
+    ],
+    "day": 92
+  },
+  {
+    "id": "conservationist-noun",
+    "word": "conservationist",
+    "baseWord": "conserve",
+    "type": "noun",
+    "meaning": "nhà bảo tồn thiên nhiên",
+    "pronunciation": "/ˌkɑːnsərˈveɪʃənɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Local conservationists protested against the construction of the highway.",
+    "exampleVi": "Các nhà bảo tồn địa phương đã phản đối việc xây dựng đường cao tốc.",
+    "collocations": [
+      "wildlife conservationist",
+      "conservationist group"
+    ],
+    "synonyms": [
+      "environmentalist",
+      "preservationist"
+    ],
+    "wordFamily": [
+      "conserve",
+      "conservation",
+      "conservational"
+    ],
+    "day": 92
+  },
+  {
+    "id": "deforestation-noun",
+    "word": "deforestation",
+    "baseWord": "forest",
+    "type": "noun",
+    "meaning": "nạn phá rừng, sự tàn phá rừng",
+    "pronunciation": "/diːˌfɔːrɪˈsteɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Deforestation in the Amazon threatens millions of rare animal species.",
+    "exampleVi": "Nạn phá rừng ở vùng Amazon đe dọa hàng triệu loài động vật quý hiếm.",
+    "collocations": [
+      "halt deforestation",
+      "tropical deforestation",
+      "cause deforestation"
+    ],
+    "synonyms": [
+      "clear-cutting",
+      "forest clearance"
+    ],
+    "wordFamily": [
+      "deforest",
+      "deforested",
+      "deforesting"
+    ],
+    "day": 92
+  },
+  {
+    "id": "degradation-noun",
+    "word": "degradation",
+    "baseWord": "grade",
+    "type": "noun",
+    "meaning": "sự suy thoái, sự sa sút chất lượng",
+    "pronunciation": "/ˌdeɡrəˈdeɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Soil degradation leads to a decrease in crop productivity.",
+    "exampleVi": "Suy thoái đất dẫn đến sự sụt giảm năng suất cây trồng.",
+    "collocations": [
+      "environmental degradation",
+      "soil degradation",
+      "prevent degradation"
+    ],
+    "synonyms": [
+      "deterioration",
+      "decline",
+      "debasement"
+    ],
+    "wordFamily": [
+      "degrade",
+      "degraded",
+      "degrading"
+    ],
+    "day": 92
+  },
+  {
+    "id": "degrade-verb",
+    "word": "degrade",
+    "baseWord": "grade",
+    "type": "verb",
+    "meaning": "làm suy thoái, phân hủy",
+    "pronunciation": "/dɪˈɡreɪd/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Plastics do not degrade easily and remain in nature for centuries.",
+    "exampleVi": "Nhựa không dễ dàng phân hủy và tồn tại trong tự nhiên suốt nhiều thế kỷ.",
+    "collocations": [
+      "degrade environment",
+      "naturally degrade",
+      "degrade quality"
+    ],
+    "synonyms": [
+      "deteriorate",
+      "break down",
+      "degenerate"
+    ],
+    "wordFamily": [
+      "degraded",
+      "degrading",
+      "degradation"
+    ],
+    "day": 92
+  },
+  {
+    "id": "ecological-adjective",
+    "word": "ecological",
+    "baseWord": "ecology",
+    "type": "adjective",
+    "meaning": "thuộc về sinh thái học",
+    "pronunciation": "/ˌiːkəˈlɑːdʒɪkl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The oil spill caused an ecological disaster in the Gulf region.",
+    "exampleVi": "Sự cố tràn dầu đã gây ra thảm họa sinh thái ở vùng Vịnh.",
+    "collocations": [
+      "ecological balance",
+      "ecological disaster",
+      "ecological impact"
+    ],
+    "synonyms": [
+      "environmental",
+      "ecosystemic"
+    ],
+    "wordFamily": [
+      "ecology",
+      "ecologically",
+      "ecologist"
+    ],
+    "day": 92
+  },
+  {
+    "id": "ecologically-adverb",
+    "word": "ecologically",
+    "baseWord": "ecology",
+    "type": "adverb",
+    "meaning": "về mặt sinh thái",
+    "pronunciation": "/ˌiːkəˈlɑːdʒɪkli/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5"
+    ],
+    "example": "The builder promises to use ecologically sound construction techniques.",
+    "exampleVi": "Nhà thầu cam kết sử dụng các kỹ thuật xây dựng hợp lý về mặt sinh thái.",
+    "collocations": [
+      "ecologically sound",
+      "ecologically diverse",
+      "ecologically sensitive"
+    ],
+    "synonyms": [
+      "environmentally"
+    ],
+    "wordFamily": [
+      "ecology",
+      "ecological",
+      "ecologist"
+    ],
+    "day": 92
+  },
+  {
+    "id": "ecologist-noun",
+    "word": "ecologist",
+    "baseWord": "ecology",
+    "type": "noun",
+    "meaning": "nhà sinh thái học",
+    "pronunciation": "/iˈkɑːlədʒɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The ecologist presented data on declining bee populations.",
+    "exampleVi": "Nhà sinh thái học đã trình bày dữ liệu về số lượng ong đang sụt giảm.",
+    "collocations": [
+      "marine ecologist",
+      "renowned ecologist",
+      "consult an ecologist"
+    ],
+    "synonyms": [
+      "environmental scientist"
+    ],
+    "wordFamily": [
+      "ecology",
+      "ecological",
+      "ecologists"
+    ],
+    "day": 92
+  },
+  {
+    "id": "ecology-noun",
+    "word": "ecology",
+    "baseWord": "ecology",
+    "type": "noun",
+    "meaning": "sinh thái học, hệ sinh thái",
+    "pronunciation": "/iˈkɑːlədʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Students can major in environmental science and ecology.",
+    "exampleVi": "Sinh viên có thể theo học chuyên ngành khoa học môi trường và sinh thái học.",
+    "collocations": [
+      "study ecology",
+      "human ecology",
+      "forest ecology"
+    ],
+    "synonyms": [
+      "environmental science",
+      "bionomics"
+    ],
+    "wordFamily": [
+      "ecological",
+      "ecologically",
+      "ecologist"
+    ],
+    "day": 92
+  },
+  {
+    "id": "environmentalist-noun",
+    "word": "environmentalist",
+    "baseWord": "environment",
+    "type": "noun",
+    "meaning": "nhà bảo vệ môi trường, nhà hoạt động môi trường",
+    "pronunciation": "/ɪnˌvaɪrənˈmentəlɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The project met with criticism from prominent environmentalists.",
+    "exampleVi": "Dự án đã gặp phải sự chỉ trích từ các nhà bảo vệ môi trường nổi tiếng.",
+    "collocations": [
+      "leading environmentalist",
+      "environmental group",
+      "advise environmentalists"
+    ],
+    "synonyms": [
+      "conservationist",
+      "green advocate"
+    ],
+    "wordFamily": [
+      "environment",
+      "environmental",
+      "environmentalists"
+    ],
+    "day": 92
+  },
+  {
+    "id": "global warming-phrase",
+    "word": "global warming",
+    "baseWord": "global warming",
+    "type": "phrase",
+    "meaning": "sự nóng lên toàn cầu",
+    "pronunciation": "/ˈɡloʊbl ˈwɔːrmɪŋ/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Scientific evidence shows that global warming is accelerating glacier melt.",
+    "exampleVi": "Bằng chứng khoa học cho thấy sự nóng lên toàn cầu đang đẩy nhanh tốc độ tan chảy của sông băng.",
+    "collocations": [
+      "combat global warming",
+      "effects of global warming",
+      "cause global warming"
+    ],
+    "synonyms": [
+      "greenhouse effect",
+      "climate change"
+    ],
+    "wordFamily": [
+      "global",
+      "warm",
+      "warming"
+    ],
+    "day": 92
+  },
+  {
+    "id": "habitable-adjective",
+    "word": "habitable",
+    "baseWord": "habitat",
+    "type": "adjective",
+    "meaning": "có thể ở được, thích hợp để sinh sống",
+    "pronunciation": "/ˈhæbɪtəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Renovation work made the old building habitable once again.",
+    "exampleVi": "Công việc cải tạo đã làm cho tòa nhà cũ có thể ở được một lần nữa.",
+    "collocations": [
+      "habitable zone",
+      "make habitable",
+      "perfectly habitable"
+    ],
+    "synonyms": [
+      "livable",
+      "inhabitable"
+    ],
+    "wordFamily": [
+      "habitat",
+      "habitation",
+      "uninhabitable"
+    ],
+    "day": 92
+  },
+  {
+    "id": "habitat-noun",
+    "word": "habitat",
+    "baseWord": "habitat",
+    "type": "noun",
+    "meaning": "môi trường sống tự nhiên của sinh vật",
+    "pronunciation": "/ˈhæbɪtæt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Urban expansion is destroying the natural habitat of wild animals.",
+    "exampleVi": "Sự mở rộng đô thị đang hủy hoại môi trường sống tự nhiên của động vật hoang dã.",
+    "collocations": [
+      "natural habitat",
+      "habitat destruction",
+      "protect habitats"
+    ],
+    "synonyms": [
+      "environment",
+      "home",
+      "domain"
+    ],
+    "wordFamily": [
+      "habitats",
+      "habitable",
+      "habitation"
+    ],
+    "day": 92
+  },
+  {
+    "id": "reforestation-noun",
+    "word": "reforestation",
+    "baseWord": "forest",
+    "type": "noun",
+    "meaning": "sự trồng rừng lại, tái trồng rừng",
+    "pronunciation": "/ˌriːˌfɔːrɪˈsteɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The corporate social responsibility initiative funded a massive reforestation project.",
+    "exampleVi": "Sáng kiến trách nhiệm xã hội của doanh nghiệp đã tài trợ cho một dự án tái trồng rừng quy mô lớn.",
+    "collocations": [
+      "reforestation project",
+      "promote reforestation",
+      "active reforestation"
+    ],
+    "synonyms": [
+      "replanting",
+      "afforestation"
+    ],
+    "wordFamily": [
+      "reforest",
+      "reforested",
+      "reforesting"
+    ],
+    "day": 92
+  },
+  {
+    "id": "soil erosion-phrase",
+    "word": "soil erosion",
+    "baseWord": "soil erosion",
+    "type": "phrase",
+    "meaning": "sự xói mòn đất",
+    "pronunciation": "/sɔɪl ɪˈroʊʒən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Planting trees prevents soil erosion by anchoring the ground with roots.",
+    "exampleVi": "Trồng cây giúp ngăn ngừa xói mòn đất bằng cách bám giữ mặt đất bằng rễ cây.",
+    "collocations": [
+      "prevent soil erosion",
+      "severe soil erosion",
+      "soil erosion control"
+    ],
+    "synonyms": [
+      "soil degradation"
+    ],
+    "wordFamily": [
+      "soil",
+      "erode",
+      "erosion"
+    ],
+    "day": 92
+  },
+  {
+    "id": "sustainability-noun",
+    "word": "sustainability",
+    "baseWord": "sustain",
+    "type": "noun",
+    "meaning": "sự bền vững",
+    "pronunciation": "/səˌsteɪnəˈbɪləti/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our company appointed a director of sustainability to oversee green initiatives.",
+    "exampleVi": "Công ty chúng tôi đã bổ nhiệm một giám đốc phụ trách sự bền vững để giám sát các sáng kiến xanh.",
+    "collocations": [
+      "environmental sustainability",
+      "long-term sustainability",
+      "sustainability report"
+    ],
+    "synonyms": [
+      "viability",
+      "durability"
+    ],
+    "wordFamily": [
+      "sustainable",
+      "sustain",
+      "sustainably"
+    ],
+    "day": 92
+  },
+  {
+    "id": "sustainable-adjective",
+    "word": "sustainable",
+    "baseWord": "sustain",
+    "type": "adjective",
+    "meaning": "bền vững",
+    "pronunciation": "/səˈsteɪnəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to find sustainable ways to meet our growing energy demands.",
+    "exampleVi": "Chúng ta cần tìm ra những cách bền vững để đáp ứng nhu cầu năng lượng ngày càng tăng.",
+    "collocations": [
+      "sustainable development",
+      "sustainable practices",
+      "environmentally sustainable"
+    ],
+    "synonyms": [
+      "renewable",
+      "viable",
+      "defensible"
+    ],
+    "wordFamily": [
+      "sustain",
+      "sustainability",
+      "sustainably"
+    ],
+    "day": 92
+  },
+  {
+    "id": "uninhabitable-adjective",
+    "word": "uninhabitable",
+    "baseWord": "habitat",
+    "type": "adjective",
+    "meaning": "không thể sinh sống được, không ở được",
+    "pronunciation": "/ˌʌnɪnˈhæbɪtəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Extreme drought rendered the farming region virtually uninhabitable.",
+    "exampleVi": "Hạn hán cực đoan đã khiến vùng làm nông gần như không thể sinh sống được.",
+    "collocations": [
+      "render uninhabitable",
+      "uninhabitable conditions",
+      "virtually uninhabitable"
+    ],
+    "synonyms": [
+      "unlivable",
+      "unfit"
+    ],
+    "wordFamily": [
+      "habitat",
+      "habitable",
+      "habitation"
+    ],
+    "day": 92
+  },
+  {
+    "id": "acid rain-phrase",
+    "word": "acid rain",
+    "baseWord": "acid rain",
+    "type": "phrase",
+    "meaning": "mưa axit",
+    "pronunciation": "/ˈæsɪd reɪn/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Acid rain has damaged forests and acidified lakes in industrial regions.",
+    "exampleVi": "Mưa axit đã làm hư hại các khu rừng và axit hóa các hồ nước ở các vùng công nghiệp.",
+    "collocations": [
+      "cause acid rain",
+      "effects of acid rain",
+      "acid rain damage"
+    ],
+    "synonyms": [
+      "acid precipitation"
+    ],
+    "wordFamily": [
+      "acid",
+      "rain",
+      "rains"
+    ],
+    "day": 93
+  },
+  {
+    "id": "disposable-adjective",
+    "word": "disposable",
+    "baseWord": "dispose",
+    "type": "adjective",
+    "meaning": "dùng một lần rồi vứt bỏ, dùng một lần",
+    "pronunciation": "/dɪˈspoʊzəbl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company decided to replace disposable plastic cups with reusable glasses.",
+    "exampleVi": "Công ty quyết định thay thế cốc nhựa dùng một lần bằng ly thủy tinh tái sử dụng.",
+    "collocations": [
+      "disposable cup",
+      "disposable income",
+      "disposable camera"
+    ],
+    "synonyms": [
+      "throwaway",
+      "non-reusable"
+    ],
+    "wordFamily": [
+      "dispose",
+      "disposal",
+      "disposables"
+    ],
+    "day": 93
+  },
+  {
+    "id": "dispose-verb",
+    "word": "dispose",
+    "baseWord": "dispose",
+    "type": "verb",
+    "meaning": "vứt bỏ, loại bỏ (thường dùng kèm 'of')",
+    "pronunciation": "/dɪˈspoʊz/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "You must dispose of hazardous batteries at designated collection centers.",
+    "exampleVi": "Bạn phải vứt bỏ pin độc hại tại các trung tâm thu gom được chỉ định.",
+    "collocations": [
+      "dispose of waste",
+      "properly dispose",
+      "dispose of assets"
+    ],
+    "synonyms": [
+      "discard",
+      "throw away",
+      "eliminate"
+    ],
+    "wordFamily": [
+      "disposal",
+      "disposable",
+      "disposed"
+    ],
+    "day": 93
+  },
+  {
+    "id": "energy-efficient-adjective",
+    "word": "energy-efficient",
+    "baseWord": "energy-efficient",
+    "type": "adjective",
+    "meaning": "tiết kiệm năng lượng, hiệu quả năng lượng",
+    "pronunciation": "/ˈenərdʒi ɪˈfɪʃənt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Investing in energy-efficient lighting will lower our long-term operating costs.",
+    "exampleVi": "Đầu tư vào chiếu sáng tiết kiệm năng lượng sẽ làm giảm chi phí vận hành lâu dài của chúng tôi.",
+    "collocations": [
+      "energy-efficient appliances",
+      "energy-efficient building",
+      "highly energy-efficient"
+    ],
+    "synonyms": [
+      "power-saving",
+      "economical"
+    ],
+    "wordFamily": [
+      "energy",
+      "efficient",
+      "efficiency"
+    ],
+    "day": 93
+  },
+  {
+    "id": "exhaust fumes-phrase",
+    "word": "exhaust fumes",
+    "baseWord": "exhaust fumes",
+    "type": "phrase",
+    "meaning": "khí thải độc hại từ động cơ",
+    "pronunciation": "/ɪɡˈzɔːst fjuːmz/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Exhaust fumes from heavy traffic contribute significantly to urban smog.",
+    "exampleVi": "Khí thải từ các phương tiện giao thông đông đúc đóng góp đáng kể vào khói bụi đô thị.",
+    "collocations": [
+      "car exhaust fumes",
+      "breathe in exhaust fumes",
+      "heavy exhaust fumes"
+    ],
+    "synonyms": [
+      "emissions",
+      "exhaust gases"
+    ],
+    "wordFamily": [
+      "exhaust",
+      "fume",
+      "fumes"
+    ],
+    "day": 93
+  },
+  {
+    "id": "fossil fuel-phrase",
+    "word": "fossil fuel",
+    "baseWord": "fossil fuel",
+    "type": "phrase",
+    "meaning": "nhiên liệu hóa thạch (như than, dầu, khí)",
+    "pronunciation": "/ˈfɑːsl ˈfjuːəl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Burning fossil fuels releases carbon dioxide into the atmosphere.",
+    "exampleVi": "Đốt nhiên liệu hóa thạch giải phóng khí carbon dioxide vào khí quyển.",
+    "collocations": [
+      "burn fossil fuels",
+      "dependency on fossil fuels",
+      "fossil fuel industry"
+    ],
+    "synonyms": [
+      "non-renewable energy"
+    ],
+    "wordFamily": [
+      "fossil",
+      "fuel",
+      "fuels"
+    ],
+    "day": 93
+  },
+  {
+    "id": "hybrid vehicle-phrase",
+    "word": "hybrid vehicle",
+    "baseWord": "hybrid vehicle",
+    "type": "phrase",
+    "meaning": "xe lai, xe hybrid sử dụng cả xăng và điện",
+    "pronunciation": "/ˈhaɪbrɪd ˈviːəkəl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Sales of hybrid vehicles rose as gasoline prices fluctuated.",
+    "exampleVi": "Doanh số bán xe hybrid tăng lên khi giá xăng biến động.",
+    "collocations": [
+      "drive a hybrid vehicle",
+      "hybrid vehicle technology",
+      "electric and hybrid vehicles"
+    ],
+    "synonyms": [
+      "dual-energy car"
+    ],
+    "wordFamily": [
+      "hybrid",
+      "vehicle",
+      "vehicles"
+    ],
+    "day": 93
+  },
+  {
+    "id": "natural resource-phrase",
+    "word": "natural resource",
+    "baseWord": "natural resource",
+    "type": "phrase",
+    "meaning": "tài nguyên thiên nhiên",
+    "pronunciation": "/ˈnætʃrəl ˈriːsɔːrs/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The country is rich in natural resources such as timber and iron ore.",
+    "exampleVi": "Đất nước này giàu tài nguyên thiên nhiên như gỗ và quặng sắt.",
+    "collocations": [
+      "deplete natural resources",
+      "protect natural resources",
+      "natural resource management"
+    ],
+    "synonyms": [
+      "raw materials",
+      "earthly wealth"
+    ],
+    "wordFamily": [
+      "natural",
+      "resource",
+      "resources"
+    ],
+    "day": 93
+  },
+  {
+    "id": "preservation-noun",
+    "word": "preservation",
+    "baseWord": "preserve",
+    "type": "noun",
+    "meaning": "sự bảo tồn, sự giữ gìn nguyên trạng",
+    "pronunciation": "/ˌprezərˈveɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The chemical company operates under strict laws for nature preservation.",
+    "exampleVi": "Công ty hóa chất hoạt động theo luật pháp nghiêm ngặt về bảo tồn thiên nhiên.",
+    "collocations": [
+      "historic preservation",
+      "nature preservation",
+      "food preservation"
+    ],
+    "synonyms": [
+      "conservation",
+      "protection",
+      "maintenance"
+    ],
+    "wordFamily": [
+      "preserve",
+      "preservative",
+      "preserved"
+    ],
+    "day": 93
+  },
+  {
+    "id": "preservative-noun",
+    "word": "preservative",
+    "baseWord": "preserve",
+    "type": "noun",
+    "meaning": "chất bảo quản",
+    "pronunciation": "/prɪˈzɜːrvətɪv/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Consumers are demanding foods that do not contain artificial preservatives.",
+    "exampleVi": "Người tiêu dùng đang yêu cầu các loại thực phẩm không chứa chất bảo quản nhân tạo.",
+    "collocations": [
+      "artificial preservative",
+      "contain preservatives",
+      "no added preservatives"
+    ],
+    "synonyms": [
+      "stabilizer",
+      "additive"
+    ],
+    "wordFamily": [
+      "preserve",
+      "preservation",
+      "preservatives"
+    ],
+    "day": 93
+  },
+  {
+    "id": "preserve-verb",
+    "word": "preserve",
+    "baseWord": "preserve",
+    "type": "verb",
+    "meaning": "bảo tồn, giữ gìn nguyên vẹn",
+    "pronunciation": "/prɪˈzɜːrv/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We must take action to preserve historic buildings in the city center.",
+    "exampleVi": "Chúng ta phải hành động để giữ gìn các tòa nhà lịch sử ở trung tâm thành phố.",
+    "collocations": [
+      "preserve nature",
+      "preserve history",
+      "strive to preserve"
+    ],
+    "synonyms": [
+      "protect",
+      "maintain",
+      "save"
+    ],
+    "wordFamily": [
+      "preservation",
+      "preservative",
+      "preserved"
+    ],
+    "day": 93
+  },
+  {
+    "id": "purification-noun",
+    "word": "purification",
+    "baseWord": "pure",
+    "type": "noun",
+    "meaning": "sự lọc sạch, sự thanh lọc",
+    "pronunciation": "/ˌpjʊrɪfɪˈkeɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The plant specializes in the purification of wastewater.",
+    "exampleVi": "Nhà máy chuyên về việc xử lý thanh lọc nước thải.",
+    "collocations": [
+      "water purification",
+      "air purification system",
+      "purification process"
+    ],
+    "synonyms": [
+      "filtration",
+      "refining",
+      "cleansing"
+    ],
+    "wordFamily": [
+      "purify",
+      "purifier",
+      "purified"
+    ],
+    "day": 93
+  },
+  {
+    "id": "purifier-noun",
+    "word": "purifier",
+    "baseWord": "pure",
+    "type": "noun",
+    "meaning": "máy lọc, thiết bị lọc sạch",
+    "pronunciation": "/ˈpjʊrɪfaɪər/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "He bought a high-efficiency air purifier to alleviate his pollen allergies.",
+    "exampleVi": "Anh ấy đã mua một máy lọc không khí hiệu suất cao để giảm bớt dị ứng phấn hoa của mình.",
+    "collocations": [
+      "air purifier",
+      "water purifier",
+      "install a purifier"
+    ],
+    "synonyms": [
+      "filter",
+      "strainer"
+    ],
+    "wordFamily": [
+      "purify",
+      "purification",
+      "purifiers"
+    ],
+    "day": 93
+  },
+  {
+    "id": "purify-verb",
+    "word": "purify",
+    "baseWord": "pure",
+    "type": "verb",
+    "meaning": "lọc sạch, thanh lọc",
+    "pronunciation": "/ˈpjʊrɪfaɪ/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "This advanced system uses charcoal filters to purify contaminated water.",
+    "exampleVi": "Hệ thống tiên tiến này sử dụng bộ lọc than hoạt tính để lọc sạch nước bị ô nhiễm.",
+    "collocations": [
+      "purify air",
+      "purify water",
+      "purify chemicals"
+    ],
+    "synonyms": [
+      "filter",
+      "cleanse",
+      "refine"
+    ],
+    "wordFamily": [
+      "purification",
+      "purifier",
+      "purified"
+    ],
+    "day": 93
+  },
+  {
+    "id": "recycle bin-phrase",
+    "word": "recycle bin",
+    "baseWord": "recycle bin",
+    "type": "phrase",
+    "meaning": "thùng rác tái chế",
+    "pronunciation": "/ˌriːˈsaɪkl bɪn/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please place empty plastic bottles in the blue recycle bin.",
+    "exampleVi": "Vui lòng đặt các chai nhựa rỗng vào thùng rác tái chế màu xanh.",
+    "collocations": [
+      "office recycle bin",
+      "put in the recycle bin",
+      "empty the recycle bin"
+    ],
+    "synonyms": [
+      "recycling bin",
+      "waste bin"
+    ],
+    "wordFamily": [
+      "recycle",
+      "bin",
+      "bins"
+    ],
+    "day": 93
+  },
+  {
+    "id": "toxic-adjective",
+    "word": "toxic",
+    "baseWord": "toxin",
+    "type": "adjective",
+    "meaning": "độc hại, có hại cho sức khỏe",
+    "pronunciation": "/ˈtɑːksɪk/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory was fined for discharging toxic waste into the harbor.",
+    "exampleVi": "Nhà máy đã bị phạt vì xả rác thải độc hại vào bến cảng.",
+    "collocations": [
+      "toxic waste",
+      "toxic chemicals",
+      "highly toxic"
+    ],
+    "synonyms": [
+      "poisonous",
+      "harmful",
+      "lethal"
+    ],
+    "wordFamily": [
+      "toxin",
+      "toxicity",
+      "toxically"
+    ],
+    "day": 93
+  },
+  {
+    "id": "toxicity-noun",
+    "word": "toxicity",
+    "baseWord": "toxin",
+    "type": "noun",
+    "meaning": "độ độc, tính độc hại",
+    "pronunciation": "/tɑːkˈsɪsəti/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Tests were conducted to determine the level of toxicity in the soil samples.",
+    "exampleVi": "Các thử nghiệm đã được tiến hành để xác định mức độ độc hại trong các mẫu đất.",
+    "collocations": [
+      "test toxicity",
+      "level of toxicity",
+      "chemical toxicity"
+    ],
+    "synonyms": [
+      "poisonousness",
+      "lethalness"
+    ],
+    "wordFamily": [
+      "toxin",
+      "toxic",
+      "toxically"
+    ],
+    "day": 93
+  },
+  {
+    "id": "toxin-noun",
+    "word": "toxin",
+    "baseWord": "toxin",
+    "type": "noun",
+    "meaning": "độc tố, chất độc hại",
+    "pronunciation": "/ˈtɑːksɪn/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Plants absorb toxins from the soil, helping to clean the site naturally.",
+    "exampleVi": "Cây cối hấp thụ độc tố từ đất, giúp làm sạch mặt bằng một cách tự nhiên.",
+    "collocations": [
+      "release toxins",
+      "harmful toxin",
+      "eliminate toxins"
+    ],
+    "synonyms": [
+      "poison",
+      "toxic substance",
+      "venom"
+    ],
+    "wordFamily": [
+      "toxic",
+      "toxicity",
+      "toxically"
+    ],
+    "day": 93
+  },
+  {
+    "id": "waste disposal-phrase",
+    "word": "waste disposal",
+    "baseWord": "waste disposal",
+    "type": "phrase",
+    "meaning": "sự xử lý rác thải",
+    "pronunciation": "/weɪst dɪˈspoʊzl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The municipal authority handles waste disposal for the entire region.",
+    "exampleVi": "Chính quyền thành phố xử lý rác thải cho toàn bộ khu vực.",
+    "collocations": [
+      "waste disposal system",
+      "safe waste disposal",
+      "industrial waste disposal"
+    ],
+    "synonyms": [
+      "waste management",
+      "refuse disposal"
+    ],
+    "wordFamily": [
+      "waste",
+      "dispose",
+      "disposal"
+    ],
+    "day": 93
+  },
+  {
+    "id": "water conservation-phrase",
+    "word": "water conservation",
+    "baseWord": "water conservation",
+    "type": "phrase",
+    "meaning": "sự bảo tồn nguồn nước, tiết kiệm nước",
+    "pronunciation": "/ˈwɔːtər ˌkɑːnsərˈveɪʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The farming cooperative introduced drip irrigation to promote water conservation.",
+    "exampleVi": "Hợp tác xã nông nghiệp đã giới thiệu hệ thống tưới nhỏ giọt để thúc đẩy tiết kiệm nước.",
+    "collocations": [
+      "promote water conservation",
+      "water conservation program",
+      "efficient water conservation"
+    ],
+    "synonyms": [
+      "water saving",
+      "water preservation"
+    ],
+    "wordFamily": [
+      "water",
+      "conserve",
+      "conservation"
+    ],
+    "day": 93
+  },
+  {
+    "id": "clean energy-phrase",
+    "word": "clean energy",
+    "baseWord": "clean energy",
+    "type": "phrase",
+    "meaning": "năng lượng sạch",
+    "pronunciation": "/kliːn ˈenərdʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Using clean energy is vital to cutting down carbon emissions globally.",
+    "exampleVi": "Sử dụng năng lượng sạch là rất quan trọng để cắt giảm lượng phát thải carbon trên toàn cầu.",
+    "collocations": [
+      "clean energy technology",
+      "invest in clean energy",
+      "advocate for clean energy"
+    ],
+    "synonyms": [
+      "green energy",
+      "sustainable power"
+    ],
+    "wordFamily": [
+      "clean",
+      "energy",
+      "energies"
+    ],
+    "day": 94
+  },
+  {
+    "id": "climate action-phrase",
+    "word": "climate action",
+    "baseWord": "climate action",
+    "type": "phrase",
+    "meaning": "hành động vì khí hậu, ứng phó biến đổi khí hậu",
+    "pronunciation": "/ˈklaɪmət ˈækʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company's new policy represents a significant step toward climate action.",
+    "exampleVi": "Chính sách mới của công ty thể hiện một bước tiến đáng kể đối với hành động vì khí hậu.",
+    "collocations": [
+      "demand climate action",
+      "take climate action",
+      "corporate climate action"
+    ],
+    "synonyms": [
+      "environmental initiatives"
+    ],
+    "wordFamily": [
+      "climate",
+      "action",
+      "actions"
+    ],
+    "day": 94
+  },
+  {
+    "id": "climate crisis-phrase",
+    "word": "climate crisis",
+    "baseWord": "climate crisis",
+    "type": "phrase",
+    "meaning": "khủng hoảng khí hậu",
+    "pronunciation": "/ˈklaɪmət ˈkraɪsɪs/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Governments must cooperate to solve the global climate crisis.",
+    "exampleVi": "Các chính phủ phải hợp tác để giải quyết cuộc khủng hoảng khí hậu toàn cầu.",
+    "collocations": [
+      "tackle the climate crisis",
+      "solve the climate crisis",
+      "facing a climate crisis"
+    ],
+    "synonyms": [
+      "climate emergency"
+    ],
+    "wordFamily": [
+      "climate",
+      "crisis",
+      "crises"
+    ],
+    "day": 94
+  },
+  {
+    "id": "conservation area-phrase",
+    "word": "conservation area",
+    "baseWord": "conservation area",
+    "type": "phrase",
+    "meaning": "khu vực bảo tồn thiên nhiên",
+    "pronunciation": "/ˌkɑːnsərˈveɪʃən ˈeriə/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Constructing new buildings is prohibited within the conservation area.",
+    "exampleVi": "Việc xây dựng các tòa nhà mới bị cấm trong khu vực bảo tồn.",
+    "collocations": [
+      "designated conservation area",
+      "local conservation area"
+    ],
+    "synonyms": [
+      "nature reserve",
+      "protected zone"
+    ],
+    "wordFamily": [
+      "conserve",
+      "conservation",
+      "area"
+    ],
+    "day": 94
+  },
+  {
+    "id": "deplete-verb",
+    "word": "deplete",
+    "baseWord": "deplete",
+    "type": "verb",
+    "meaning": "làm cạn kiệt nguồn tài nguyên",
+    "pronunciation": "/dɪˈpliːt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Deforestation threatens to deplete the soil of essential nutrients.",
+    "exampleVi": "Nạn phá rừng đe dọa làm cạn kiệt các chất dinh dưỡng thiết yếu của đất.",
+    "collocations": [
+      "deplete resources",
+      "deplete stock",
+      "quickly deplete"
+    ],
+    "synonyms": [
+      "exhaust",
+      "drain",
+      "empty"
+    ],
+    "wordFamily": [
+      "depleted",
+      "depleting",
+      "depletion"
+    ],
+    "day": 94
+  },
+  {
+    "id": "endanger-verb",
+    "word": "endanger",
+    "baseWord": "danger",
+    "type": "verb",
+    "meaning": "gây nguy hiểm, đe dọa sự tồn tại",
+    "pronunciation": "/ɪnˈdeɪndʒər/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Oil spills can seriously endanger sea bird populations.",
+    "exampleVi": "Sự cố tràn dầu có thể đe dọa nghiêm trọng các quần thể chim biển.",
+    "collocations": [
+      "endanger species",
+      "endanger lives",
+      "seriously endanger"
+    ],
+    "synonyms": [
+      "jeopardize",
+      "threaten",
+      "risk"
+    ],
+    "wordFamily": [
+      "endangered",
+      "danger",
+      "dangerous"
+    ],
+    "day": 94
+  },
+  {
+    "id": "endangered-adjective",
+    "word": "endangered",
+    "baseWord": "danger",
+    "type": "adjective",
+    "meaning": "có nguy cơ tuyệt chủng, bị đe dọa",
+    "pronunciation": "/ɪnˈdeɪndʒərd/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Siberian tigers are currently classified as a highly endangered species.",
+    "exampleVi": "Hổ Siberia hiện được phân loại là một loài có nguy cơ tuyệt chủng cao.",
+    "collocations": [
+      "endangered species",
+      "critically endangered",
+      "protect endangered animals"
+    ],
+    "synonyms": [
+      "threatened",
+      "at risk",
+      "imperiled"
+    ],
+    "wordFamily": [
+      "endanger",
+      "danger",
+      "dangerous"
+    ],
+    "day": 94
+  },
+  {
+    "id": "environmental impact-phrase",
+    "word": "environmental impact",
+    "baseWord": "environmental impact",
+    "type": "phrase",
+    "meaning": "tác động môi trường",
+    "pronunciation": "/ɪnˌvaɪrənˈmentl ˈɪmpækt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "A study was commissioned to assess the environmental impact of the new highway.",
+    "exampleVi": "Một nghiên cứu đã được ủy nhiệm để đánh giá tác động môi trường của đường cao tốc mới.",
+    "collocations": [
+      "assess environmental impact",
+      "environmental impact study",
+      "minimize environmental impact"
+    ],
+    "synonyms": [
+      "ecological impact",
+      "carbon effect"
+    ],
+    "wordFamily": [
+      "environment",
+      "impact",
+      "impacts"
+    ],
+    "day": 94
+  },
+  {
+    "id": "extinct-adjective",
+    "word": "extinct",
+    "baseWord": "extinct",
+    "type": "adjective",
+    "meaning": "tuyệt chủng, đã tắt",
+    "pronunciation": "/ɪkˈstɪŋkt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The dodo bird became extinct in the late 17th century.",
+    "exampleVi": "Chim dodo đã trở nên tuyệt chủng vào cuối thế kỷ 17.",
+    "collocations": [
+      "go extinct",
+      "extinct volcano",
+      "now extinct"
+    ],
+    "synonyms": [
+      "dead",
+      "vanished",
+      "gone"
+    ],
+    "wordFamily": [
+      "extinction",
+      "extinctive",
+      "extinguish"
+    ],
+    "day": 94
+  },
+  {
+    "id": "extinction-noun",
+    "word": "extinction",
+    "baseWord": "extinct",
+    "type": "noun",
+    "meaning": "sự tuyệt chủng",
+    "pronunciation": "/ɪkˈstɪŋkʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many bird species are facing extinction due to deforestation.",
+    "exampleVi": "Nhiều loài chim đang đối mặt với sự tuyệt chủng do nạn phá rừng.",
+    "collocations": [
+      "face extinction",
+      "prevent extinction",
+      "mass extinction"
+    ],
+    "synonyms": [
+      "dying out",
+      "annihilation"
+    ],
+    "wordFamily": [
+      "extinct",
+      "extinguish",
+      "extinctive"
+    ],
+    "day": 94
+  },
+  {
+    "id": "green energy-phrase",
+    "word": "green energy",
+    "baseWord": "green energy",
+    "type": "phrase",
+    "meaning": "năng lượng xanh",
+    "pronunciation": "/ɡriːn ˈenərdʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The government offers tax credits to businesses that invest in green energy.",
+    "exampleVi": "Chính phủ cung cấp các khoản tín dụng thuế cho các doanh nghiệp đầu tư vào năng lượng xanh.",
+    "collocations": [
+      "green energy sources",
+      "transition to green energy",
+      "green energy project"
+    ],
+    "synonyms": [
+      "clean energy",
+      "renewable energy"
+    ],
+    "wordFamily": [
+      "green",
+      "energy",
+      "energies"
+    ],
+    "day": 94
+  },
+  {
+    "id": "hydro power-phrase",
+    "word": "hydro power",
+    "baseWord": "hydro power",
+    "type": "phrase",
+    "meaning": "thủy điện, năng lượng nước",
+    "pronunciation": "/ˈhaɪdroʊ ˈpaʊər/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Hydro power plants generate electricity using flowing water from dams.",
+    "exampleVi": "Các nhà máy thủy điện sản xuất điện bằng cách sử dụng nước chảy từ các con đập.",
+    "collocations": [
+      "hydro power project",
+      "hydro power generation",
+      "rely on hydro power"
+    ],
+    "synonyms": [
+      "hydroelectricity",
+      "water power"
+    ],
+    "wordFamily": [
+      "hydro",
+      "power",
+      "powers"
+    ],
+    "day": 94
+  },
+  {
+    "id": "municipal waste-phrase",
+    "word": "municipal waste",
+    "baseWord": "municipal waste",
+    "type": "phrase",
+    "meaning": "rác thải đô thị, rác thải sinh hoạt",
+    "pronunciation": "/mjuːˈnɪsɪpl weɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The city has updated its facilities to process municipal waste more efficiently.",
+    "exampleVi": "Thành phố đã cập nhật cơ sở vật chất để xử lý rác thải sinh hoạt hiệu quả hơn.",
+    "collocations": [
+      "municipal waste management",
+      "municipal waste recycling",
+      "dispose of municipal waste"
+    ],
+    "synonyms": [
+      "household waste",
+      "garbage"
+    ],
+    "wordFamily": [
+      "municipal",
+      "waste",
+      "wastes"
+    ],
+    "day": 94
+  },
+  {
+    "id": "ozone layer-phrase",
+    "word": "ozone layer",
+    "baseWord": "ozone layer",
+    "type": "phrase",
+    "meaning": "tầng ozon",
+    "pronunciation": "/ˈoʊzoʊn ˈleɪər/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The ozone layer protects the Earth from harmful ultraviolet radiation.",
+    "exampleVi": "Tầng ozon bảo vệ Trái đất khỏi bức xạ tia cực tím có hại.",
+    "collocations": [
+      "deplete the ozone layer",
+      "ozone layer protection",
+      "damage to the ozone layer"
+    ],
+    "synonyms": [
+      "ozone shield"
+    ],
+    "wordFamily": [
+      "ozone",
+      "layer",
+      "layers"
+    ],
+    "day": 94
+  },
+  {
+    "id": "resource depletion-phrase",
+    "word": "resource depletion",
+    "baseWord": "resource depletion",
+    "type": "phrase",
+    "meaning": "sự cạn kiệt tài nguyên",
+    "pronunciation": "/ˈriːsɔːrs dɪˈpliːʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Overconsumption leads to rapid resource depletion and environmental damage.",
+    "exampleVi": "Tiêu dùng quá mức dẫn đến sự cạn kiệt tài nguyên nhanh chóng và thiệt hại môi trường.",
+    "collocations": [
+      "natural resource depletion",
+      "prevent resource depletion",
+      "rate of resource depletion"
+    ],
+    "synonyms": [
+      "resource exhaustion"
+    ],
+    "wordFamily": [
+      "resource",
+      "deplete",
+      "depletion"
+    ],
+    "day": 94
+  },
+  {
+    "id": "run-off-noun",
+    "word": "run-off",
+    "baseWord": "run-off",
+    "type": "noun",
+    "meaning": "nước chảy tràn, dòng chảy bề mặt",
+    "pronunciation": "/ˈrʌnɔːf/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Agricultural run-off containing fertilizers can cause algae blooms in lakes.",
+    "exampleVi": "Dòng chảy bề mặt nông nghiệp chứa phân bón có thể gây ra hiện tượng tảo nở hoa trong các hồ.",
+    "collocations": [
+      "agricultural run-off",
+      "chemical run-off",
+      "prevent run-off"
+    ],
+    "synonyms": [
+      "drainage",
+      "overflow"
+    ],
+    "wordFamily": [
+      "run",
+      "off",
+      "runoff"
+    ],
+    "day": 94
+  },
+  {
+    "id": "sewage-noun",
+    "word": "sewage",
+    "baseWord": "sewage",
+    "type": "noun",
+    "meaning": "nước thải, chất thải lỏng",
+    "pronunciation": "/ˈsuːɪdʒ/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Raw sewage should never be dumped directly into public waterways.",
+    "exampleVi": "Nước thải chưa qua xử lý tuyệt đối không được xả trực tiếp vào các đường thủy công cộng.",
+    "collocations": [
+      "treat sewage",
+      "sewage system",
+      "raw sewage"
+    ],
+    "synonyms": [
+      "wastewater",
+      "effluent"
+    ],
+    "wordFamily": [
+      "sewages",
+      "sewer",
+      "sewerage"
+    ],
+    "day": 94
+  },
+  {
+    "id": "solar energy-phrase",
+    "word": "solar energy",
+    "baseWord": "solar energy",
+    "type": "phrase",
+    "meaning": "năng lượng mặt trời",
+    "pronunciation": "/ˈsoʊlər ˈenərdʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Solar energy is becoming increasingly cost-competitive with traditional power.",
+    "exampleVi": "Năng lượng mặt trời ngày càng có khả năng cạnh tranh về chi phí với năng lượng truyền thống.",
+    "collocations": [
+      "generate solar energy",
+      "solar energy storage",
+      "harness solar energy"
+    ],
+    "synonyms": [
+      "sunlight power"
+    ],
+    "wordFamily": [
+      "solar",
+      "energy",
+      "energies"
+    ],
+    "day": 94
+  },
+  {
+    "id": "wildlife sanctuary-phrase",
+    "word": "wildlife sanctuary",
+    "baseWord": "wildlife sanctuary",
+    "type": "phrase",
+    "meaning": "khu bảo tồn động vật hoang dã",
+    "pronunciation": "/ˈwaɪldlaɪf ˈsæŋktʃueri/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The safari park functions as a wildlife sanctuary for endangered species.",
+    "exampleVi": "Công viên safari hoạt động như một khu bảo tồn động vật hoang dã cho các loài có nguy cơ tuyệt chủng.",
+    "collocations": [
+      "visit a wildlife sanctuary",
+      "protect a wildlife sanctuary"
+    ],
+    "synonyms": [
+      "nature reserve",
+      "wildlife refuge"
+    ],
+    "wordFamily": [
+      "wildlife",
+      "sanctuary",
+      "sanctuaries"
+    ],
+    "day": 94
+  },
+  {
+    "id": "wind energy-phrase",
+    "word": "wind energy",
+    "baseWord": "wind energy",
+    "type": "phrase",
+    "meaning": "năng lượng gió",
+    "pronunciation": "/wɪnd ˈenərdʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Wind energy provides a clean and limitless supply of electricity.",
+    "exampleVi": "Năng lượng gió cung cấp một nguồn cung cấp điện sạch và vô tận.",
+    "collocations": [
+      "wind energy potential",
+      "invest in wind energy",
+      "wind energy generation"
+    ],
+    "synonyms": [
+      "wind power"
+    ],
+    "wordFamily": [
+      "wind",
+      "energy",
+      "energies"
+    ],
+    "day": 94
+  },
+  {
+    "id": "biomass-noun",
+    "word": "biomass",
+    "baseWord": "biomass",
+    "type": "noun",
+    "meaning": "sinh khối (vật liệu sinh học để làm năng lượng)",
+    "pronunciation": "/ˈbaɪoʊmæs/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Wood pellets are a common form of biomass used for eco-friendly heating.",
+    "exampleVi": "Viên nén gỗ là một dạng sinh khối phổ biến được sử dụng để sưởi ấm thân thiện với môi trường.",
+    "collocations": [
+      "biomass energy",
+      "biomass fuel",
+      "agricultural biomass"
+    ],
+    "synonyms": [
+      "organic matter"
+    ],
+    "wordFamily": [
+      "biomasses",
+      "biophysical",
+      "biochemistry"
+    ],
+    "day": 95
+  },
+  {
+    "id": "carbon neutral-adjective",
+    "word": "carbon neutral",
+    "baseWord": "carbon neutral",
+    "type": "adjective",
+    "meaning": "trung hòa carbon (không tăng phát thải carbon ròng)",
+    "pronunciation": "/ˈkɑːrbən ˈnuːtrəl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The technology company aims to make all its offices carbon neutral by 2028.",
+    "exampleVi": "Công ty công nghệ đặt mục tiêu làm cho tất cả các văn phòng của mình trung hòa carbon trước năm 2028.",
+    "collocations": [
+      "carbon neutral status",
+      "become carbon neutral",
+      "carbon neutral company"
+    ],
+    "synonyms": [
+      "net-zero carbon emissions"
+    ],
+    "wordFamily": [
+      "carbon",
+      "neutrality",
+      "neutralize"
+    ],
+    "day": 95
+  },
+  {
+    "id": "carbon neutrality-noun",
+    "word": "carbon neutrality",
+    "baseWord": "carbon neutrality",
+    "type": "noun",
+    "meaning": "sự trung hòa carbon, trạng thái phát thải ròng bằng không",
+    "pronunciation": "/ˈkɑːrbən nuːˈtræləti/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Achieving carbon neutrality requires reducing emissions and planting trees.",
+    "exampleVi": "Đạt được sự trung hòa carbon đòi hỏi phải giảm phát thải và trồng cây xanh.",
+    "collocations": [
+      "achieve carbon neutrality",
+      "pledge carbon neutrality",
+      "road to carbon neutrality"
+    ],
+    "synonyms": [
+      "net-zero state"
+    ],
+    "wordFamily": [
+      "carbon",
+      "neutral",
+      "neutralize"
+    ],
+    "day": 95
+  },
+  {
+    "id": "circular economy-phrase",
+    "word": "circular economy",
+    "baseWord": "circular economy",
+    "type": "phrase",
+    "meaning": "nền kinh tế tuần hoàn",
+    "pronunciation": "/ˈsɜːrkjələr ɪˈkɑːnəmi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "A circular economy aims to eliminate waste through continual recycling and reuse.",
+    "exampleVi": "Nền kinh tế tuần hoàn hướng tới việc loại bỏ rác thải thông qua tái chế và tái sử dụng liên tục.",
+    "collocations": [
+      "transition to a circular economy",
+      "principles of circular economy"
+    ],
+    "synonyms": [
+      "closed-loop system"
+    ],
+    "wordFamily": [
+      "circular",
+      "economy",
+      "economies"
+    ],
+    "day": 95
+  },
+  {
+    "id": "conservation effort-phrase",
+    "word": "conservation effort",
+    "baseWord": "conservation effort",
+    "type": "phrase",
+    "meaning": "nỗ lực bảo tồn",
+    "pronunciation": "/ˌkɑːnsərˈveɪʃən ˈefərt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The community launched a new conservation effort to clean up the wetlands.",
+    "exampleVi": "Cộng đồng đã phát động một nỗ lực bảo tồn mới để làm sạch các vùng đất ngập nước.",
+    "collocations": [
+      "support conservation efforts",
+      "local conservation efforts",
+      "global conservation efforts"
+    ],
+    "synonyms": [
+      "preservation drive"
+    ],
+    "wordFamily": [
+      "conserve",
+      "conservation",
+      "effort"
+    ],
+    "day": 95
+  },
+  {
+    "id": "contaminate-verb",
+    "word": "contaminate",
+    "baseWord": "contaminate",
+    "type": "verb",
+    "meaning": "làm ô nhiễm, làm nhiễm độc",
+    "pronunciation": "/kənˈtæmɪneɪt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Industrial runoff could contaminate the local drinking water supply.",
+    "exampleVi": "Nước thải công nghiệp có thể làm ô nhiễm nguồn cung cấp nước uống của địa phương.",
+    "collocations": [
+      "contaminate water",
+      "contaminate soil",
+      "easily contaminate"
+    ],
+    "synonyms": [
+      "pollute",
+      "dirty",
+      "poison"
+    ],
+    "wordFamily": [
+      "contaminant",
+      "contaminated",
+      "contaminating"
+    ],
+    "day": 95
+  },
+  {
+    "id": "depletion-noun",
+    "word": "depletion",
+    "baseWord": "deplete",
+    "type": "noun",
+    "meaning": "sự cạn kiệt",
+    "pronunciation": "/dɪˈpliːʃən/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The depletion of the ozone layer was addressed in the Montreal Protocol.",
+    "exampleVi": "Sự cạn kiệt của tầng ozon đã được giải quyết trong Nghị định thư Montreal.",
+    "collocations": [
+      "ozone depletion",
+      "resource depletion",
+      "prevent depletion"
+    ],
+    "synonyms": [
+      "exhaustion",
+      "drain",
+      "reduction"
+    ],
+    "wordFamily": [
+      "deplete",
+      "depleted",
+      "depleting"
+    ],
+    "day": 95
+  },
+  {
+    "id": "eco-friendly product-phrase",
+    "word": "eco-friendly product",
+    "baseWord": "eco-friendly product",
+    "type": "phrase",
+    "meaning": "sản phẩm thân thiện với môi trường",
+    "pronunciation": "/ˌiːkoʊˈfrendli ˈprɑːdʌkt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Our online store sells a wide range of eco-friendly products for the home.",
+    "exampleVi": "Cửa hàng trực tuyến của chúng tôi bán một loạt các sản phẩm thân thiện với môi trường cho gia đình.",
+    "collocations": [
+      "purchase eco-friendly products",
+      "manufacture eco-friendly products"
+    ],
+    "synonyms": [
+      "green product",
+      "sustainable product"
+    ],
+    "wordFamily": [
+      "eco",
+      "friendly",
+      "product"
+    ],
+    "day": 95
+  },
+  {
+    "id": "eco-tax-noun",
+    "word": "eco-tax",
+    "baseWord": "eco-tax",
+    "type": "noun",
+    "meaning": "thuế sinh thái, thuế môi trường",
+    "pronunciation": "/ˈiːkoʊ-tæks/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The government introduced an eco-tax on heavy carbon-emitting industries.",
+    "exampleVi": "Chính phủ đã áp dụng thuế sinh thái đối với các ngành phát thải carbon nặng.",
+    "collocations": [
+      "pay an eco-tax",
+      "eco-tax rate",
+      "impose an eco-tax"
+    ],
+    "synonyms": [
+      "carbon tax",
+      "environmental tax"
+    ],
+    "wordFamily": [
+      "eco",
+      "tax",
+      "taxes"
+    ],
+    "day": 95
+  },
+  {
+    "id": "ecosystem services-phrase",
+    "word": "ecosystem services",
+    "baseWord": "ecosystem services",
+    "type": "phrase",
+    "meaning": "các lợi ích từ hệ sinh thái, dịch vụ hệ sinh thái",
+    "pronunciation": "/ˈiːkoʊsɪstəm ˈsɜːrvɪsɪz/",
+    "topic": "Environment & Sustainability",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Forests provide essential ecosystem services, including carbon storage and water filtration.",
+    "exampleVi": "Rừng cung cấp các dịch vụ hệ sinh thái thiết yếu, bao gồm lưu trữ carbon và lọc nước.",
+    "collocations": [
+      "value ecosystem services",
+      "provide ecosystem services"
+    ],
+    "synonyms": [
+      "ecological benefits"
+    ],
+    "wordFamily": [
+      "ecosystem",
+      "service",
+      "services"
+    ],
+    "day": 95
+  },
+  {
+    "id": "environmental policy-phrase",
+    "word": "environmental policy",
+    "baseWord": "environmental policy",
+    "type": "phrase",
+    "meaning": "chính sách môi trường",
+    "pronunciation": "/ɪnˌvaɪrənˈmentl ˈpɑːləsi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our company environmental policy outlines guidelines for recycling and emission reduction.",
+    "exampleVi": "Chính sách môi trường của công ty chúng tôi phác thảo các hướng dẫn về tái chế và giảm phát thải.",
+    "collocations": [
+      "strict environmental policy",
+      "adopt an environmental policy",
+      "update environmental policy"
+    ],
+    "synonyms": [
+      "green guidelines",
+      "eco policy"
+    ],
+    "wordFamily": [
+      "environment",
+      "policy",
+      "policies"
+    ],
+    "day": 95
+  },
+  {
+    "id": "geothermal energy-phrase",
+    "word": "geothermal energy",
+    "baseWord": "geothermal energy",
+    "type": "phrase",
+    "meaning": "năng lượng địa nhiệt",
+    "pronunciation": "/ˌdʒiːoʊˈθɜːrml ˈenərdʒi/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Geothermal energy utilizes heat from beneath the earth's crust to generate electricity.",
+    "exampleVi": "Năng lượng địa nhiệt sử dụng nhiệt từ bên dưới vỏ trái đất để sản xuất điện.",
+    "collocations": [
+      "harness geothermal energy",
+      "geothermal energy extraction"
+    ],
+    "synonyms": [
+      "subterranean heat power"
+    ],
+    "wordFamily": [
+      "geothermal",
+      "energy",
+      "energies"
+    ],
+    "day": 95
+  },
+  {
+    "id": "global footprint-phrase",
+    "word": "global footprint",
+    "baseWord": "global footprint",
+    "type": "phrase",
+    "meaning": "dấu chân toàn cầu, tác động trên toàn cầu",
+    "pronunciation": "/ˈɡloʊbl ˈfʊtprɪnt/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The retail giant is trying to reduce its global footprint by sourcing locally.",
+    "exampleVi": "Gã khổng lồ bán lẻ đang cố gắng giảm tác động toàn cầu bằng cách lấy nguồn cung ứng địa phương.",
+    "collocations": [
+      "reduce global footprint",
+      "assess global footprint"
+    ],
+    "synonyms": [
+      "global impact"
+    ],
+    "wordFamily": [
+      "global",
+      "footprint",
+      "footprints"
+    ],
+    "day": 95
+  },
+  {
+    "id": "green initiative-phrase",
+    "word": "green initiative",
+    "baseWord": "green initiative",
+    "type": "phrase",
+    "meaning": "sáng kiến xanh, chương trình bảo vệ môi trường",
+    "pronunciation": "/ɡriːn ɪˈnɪʃətɪv/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The university's green initiative includes reducing electricity consumption by 20%.",
+    "exampleVi": "Sáng kiến xanh của trường đại học bao gồm việc giảm tiêu thụ điện năng 20%.",
+    "collocations": [
+      "launch a green initiative",
+      "support green initiatives",
+      "corporate green initiative"
+    ],
+    "synonyms": [
+      "eco initiative",
+      "sustainability program"
+    ],
+    "wordFamily": [
+      "green",
+      "initiative",
+      "initiatives"
+    ],
+    "day": 95
+  },
+  {
+    "id": "plastic waste-phrase",
+    "word": "plastic waste",
+    "baseWord": "plastic waste",
+    "type": "phrase",
+    "meaning": "rác thải nhựa",
+    "pronunciation": "/ˈplæstɪk weɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Banning single-use bags helped decrease plastic waste in the ocean.",
+    "exampleVi": "Cấm túi sử dụng một lần đã giúp giảm thiểu rác thải nhựa trong đại dương.",
+    "collocations": [
+      "reduce plastic waste",
+      "accumulate plastic waste",
+      "recycle plastic waste"
+    ],
+    "synonyms": [
+      "plastic pollution",
+      "synthetic refuse"
+    ],
+    "wordFamily": [
+      "plastic",
+      "waste",
+      "wastes"
+    ],
+    "day": 95
+  },
+  {
+    "id": "pollutant level-phrase",
+    "word": "pollutant level",
+    "baseWord": "pollutant level",
+    "type": "phrase",
+    "meaning": "mức độ chất gây ô nhiễm",
+    "pronunciation": "/pəˈluːtənt ˈlevl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Daily testing was introduced to monitor the pollutant level in the bay.",
+    "exampleVi": "Việc kiểm tra hàng ngày đã được áp dụng để theo dõi mức độ chất gây ô nhiễm ở vùng vịnh.",
+    "collocations": [
+      "monitor pollutant levels",
+      "high pollutant level",
+      "reducing pollutant levels"
+    ],
+    "synonyms": [
+      "contamination level",
+      "pollution index"
+    ],
+    "wordFamily": [
+      "pollute",
+      "pollutant",
+      "levels"
+    ],
+    "day": 95
+  },
+  {
+    "id": "single-use-adjective",
+    "word": "single-use",
+    "baseWord": "single-use",
+    "type": "adjective",
+    "meaning": "sử dụng một lần",
+    "pronunciation": "/ˈsɪŋɡl-juːs/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Supermarkets are phasing out single-use plastic bags in favor of paper ones.",
+    "exampleVi": "Các siêu thị đang loại bỏ dần túi nhựa sử dụng một lần để ủng hộ túi giấy.",
+    "collocations": [
+      "single-use plastic",
+      "single-use packaging",
+      "ban single-use items"
+    ],
+    "synonyms": [
+      "disposable",
+      "throwaway"
+    ],
+    "wordFamily": [
+      "single",
+      "use",
+      "uses"
+    ],
+    "day": 95
+  },
+  {
+    "id": "spill-noun",
+    "word": "spill",
+    "baseWord": "spill",
+    "type": "noun",
+    "meaning": "sự tràn ra, dầu loang, lượng tràn",
+    "pronunciation": "/spɪl/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The environmental agency quickly responded to the oil spill near the coast.",
+    "exampleVi": "Cơ quan môi trường đã nhanh chóng ứng phó với sự cố tràn dầu gần bờ biển.",
+    "collocations": [
+      "oil spill",
+      "chemical spill",
+      "clean up a spill"
+    ],
+    "synonyms": [
+      "leak",
+      "spillage",
+      "overflow"
+    ],
+    "wordFamily": [
+      "spill (v.)",
+      "spilled",
+      "spillage"
+    ],
+    "day": 95
+  },
+  {
+    "id": "spillage-noun",
+    "word": "spillage",
+    "baseWord": "spill",
+    "type": "noun",
+    "meaning": "lượng tràn ra ngoài, sự chảy tràn",
+    "pronunciation": "/ˈspɪlɪdʒ/",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company developed procedures to prevent the spillage of toxic fluids.",
+    "exampleVi": "Công ty đã xây dựng các quy trình nhằm ngăn chặn việc tràn các chất lỏng độc hại.",
+    "collocations": [
+      "prevent spillage",
+      "accidental spillage",
+      "chemical spillage"
+    ],
+    "synonyms": [
+      "spill",
+      "leakage",
+      "overflow"
+    ],
+    "wordFamily": [
+      "spill",
+      "spilled",
+      "spillages"
+    ],
+    "day": 95
+  },
+  {
+    "id": "zero waste-phrase",
+    "word": "zero waste",
+    "baseWord": "zero waste",
+    "type": "phrase",
+    "meaning": "không chất thải, lối sống không rác thải",
+    "pronunciation": "/ˈzɪroʊ weɪst/",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The cafe adopted a zero waste policy by composting all organic scraps.",
+    "exampleVi": "Quán cà phê đã áp dụng chính sách không rác thải bằng cách ủ tất cả rác hữu cơ.",
+    "collocations": [
+      "zero waste lifestyle",
+      "achieve zero waste",
+      "zero waste initiative"
+    ],
+    "synonyms": [
+      "waste-free"
+    ],
+    "wordFamily": [
+      "zero",
+      "waste",
+      "wastes"
+    ],
+    "day": 95
+  }
+]

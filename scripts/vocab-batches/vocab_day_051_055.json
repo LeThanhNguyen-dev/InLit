@@ -2,37 +2,95 @@
   {
     "id": "assembly-noun",
     "word": "assembly",
-    "baseWord": "assembly",
+    "baseWord": "assemble",
     "type": "noun",
-    "meaning": "sự lắp ráp; dây chuyền lắp ráp",
-    "pronunciation": "/əˈsɛmbli/",
+    "meaning": "sự lắp ráp linh kiện, hội đồng, buổi tập trung",
+    "pronunciation": "/əˈsembli/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The assembly of the new engine model begins next Monday.",
-    "exampleVi": "Việc lắp ráp mẫu động cơ mới sẽ bắt đầu vào thứ Hai tới.",
-    "collocations": ["assembly line", "assembly plant", "assembly process", "final assembly"],
-    "synonyms": ["construction", "fitting"],
-    "wordFamily": ["assemble", "assembler", "assembled"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The final assembly of the product is done manually.",
+    "exampleVi": "Việc lắp ráp cuối cùng của sản phẩm được thực hiện thủ công.",
+    "collocations": [
+      "final assembly",
+      "assembly plant",
+      "assembly line"
+    ],
+    "synonyms": [
+      "setup",
+      "gathering",
+      "construction"
+    ],
+    "wordFamily": [
+      "assemble",
+      "assembler"
+    ],
     "day": 51
   },
   {
-    "id": "manufacture-verb",
-    "word": "manufacture",
-    "baseWord": "manufacture",
-    "type": "verb",
-    "meaning": "sản xuất, chế tạo",
-    "pronunciation": "/ˌmænjʊˈfæktʃər/",
+    "id": "assembly line-phrase",
+    "word": "assembly line",
+    "baseWord": "assemble",
+    "type": "phrase",
+    "meaning": "dây chuyền lắp ráp",
+    "pronunciation": "/əˈsembli laɪn/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company manufactures electronic components for the automotive industry.",
-    "exampleVi": "Công ty sản xuất linh kiện điện tử cho ngành công nghiệp ô tô.",
-    "collocations": ["manufacture goods", "manufacture products", "manufacture parts"],
-    "synonyms": ["produce", "fabricate"],
-    "wordFamily": ["manufacturer", "manufacturing", "manufactured"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory installed a new automated assembly line to speed up production.",
+    "exampleVi": "Nhà máy đã lắp đặt một dây chuyền lắp ráp tự động mới để tăng tốc độ sản xuất.",
+    "collocations": [
+      "automated assembly line",
+      "assembly line worker",
+      "on the assembly line"
+    ],
+    "synonyms": [
+      "production line"
+    ],
+    "wordFamily": [
+      "assemble",
+      "assembly"
+    ],
+    "day": 51
+  },
+  {
+    "id": "blueprint-noun",
+    "word": "blueprint",
+    "baseWord": "print",
+    "type": "noun",
+    "meaning": "bản thiết kế chi tiết, bản vẽ xanh",
+    "pronunciation": "/ˈbluːprɪnt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The engineers studied the blueprints before constructing the prototype.",
+    "exampleVi": "Các kỹ sư đã nghiên cứu các bản thiết kế trước khi chế tạo nguyên mẫu.",
+    "collocations": [
+      "architectural blueprint",
+      "engine blueprint",
+      "study the blueprint"
+    ],
+    "synonyms": [
+      "plan",
+      "design",
+      "layout"
+    ],
+    "wordFamily": [
+      "print"
+    ],
     "day": 51
   },
   {
@@ -40,179 +98,97 @@
     "word": "defect",
     "baseWord": "defect",
     "type": "noun",
-    "meaning": "lỗi, khuyết điểm",
-    "pronunciation": "/ˈdiːfɛkt/",
+    "meaning": "lỗi sản phẩm, khiếm khuyết sản xuất",
+    "pronunciation": "/ˈdiːfekt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Inspectors found a defect in the circuit board during testing.",
-    "exampleVi": "Thanh tra viên phát hiện một lỗi trên bảng mạch trong quá trình kiểm tra.",
-    "collocations": ["product defect", "manufacturing defect", "defect rate", "zero defect"],
-    "synonyms": ["flaw", "fault", "imperfection"],
-    "wordFamily": ["defective", "defectively"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The recall was issued due to a minor defect in the heating element.",
+    "exampleVi": "Việc thu hồi được ban hành do một lỗi nhỏ trong bộ phận làm nóng.",
+    "collocations": [
+      "manufacturing defect",
+      "zero defects",
+      "report a defect"
+    ],
+    "synonyms": [
+      "flaw",
+      "fault",
+      "blemish"
+    ],
+    "wordFamily": [
+      "defective",
+      "defection"
+    ],
     "day": 51
   },
   {
-    "id": "warehouse-noun",
-    "word": "warehouse",
-    "baseWord": "warehouse",
+    "id": "efficiency-noun",
+    "word": "efficiency",
+    "baseWord": "effect",
     "type": "noun",
-    "meaning": "nhà kho, kho hàng",
-    "pronunciation": "/ˈwɛrhaʊs/",
+    "meaning": "hiệu suất, tính hiệu quả",
+    "pronunciation": "/ɪˈfɪʃnsi/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We are trying to improve the energy efficiency of our machines.",
+    "exampleVi": "Chúng tôi đang cố gắng cải thiện hiệu quả năng lượng của máy móc.",
+    "collocations": [
+      "energy efficiency",
+      "improve efficiency",
+      "production efficiency"
+    ],
+    "synonyms": [
+      "productivity",
+      "competence",
+      "capability"
+    ],
+    "wordFamily": [
+      "efficient",
+      "efficiently",
+      "effect"
+    ],
+    "day": 51
+  },
+  {
+    "id": "exact-adjective",
+    "word": "exact",
+    "baseWord": "exact",
+    "type": "adjective",
+    "meaning": "chính xác, chuẩn xác",
+    "pronunciation": "/ɪɡˈzækt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 1", "Part 3", "Part 7"],
-    "example": "All finished products are stored in the warehouse before shipping.",
-    "exampleVi": "Tất cả sản phẩm hoàn thiện được lưu trữ trong nhà kho trước khi vận chuyển.",
-    "collocations": ["warehouse facility", "warehouse storage", "warehouse manager", "distribution warehouse"],
-    "synonyms": ["storehouse", "depot", "stockroom"],
-    "wordFamily": ["warehousing", "warehoused"],
-    "day": 51
-  },
-  {
-    "id": "conveyor-noun",
-    "word": "conveyor",
-    "baseWord": "conveyor",
-    "type": "noun",
-    "meaning": "băng chuyền, băng tải",
-    "pronunciation": "/kənˈveɪər/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 1", "Part 4", "Part 7"],
-    "example": "The conveyor belt transports packages from the assembly area to the loading dock.",
-    "exampleVi": "Băng chuyền vận chuyển các kiện hàng từ khu vực lắp ráp đến bến bốc hàng.",
-    "collocations": ["conveyor belt", "conveyor system", "conveyor line"],
-    "synonyms": ["belt", "transporter"],
-    "wordFamily": ["convey", "conveyance"],
-    "day": 51
-  },
-  {
-    "id": "output-noun",
-    "word": "output",
-    "baseWord": "output",
-    "type": "noun",
-    "meaning": "sản lượng, đầu ra",
-    "pronunciation": "/ˈaʊtpʊt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Factory output has increased by 15% since the new equipment was installed.",
-    "exampleVi": "Sản lượng nhà máy đã tăng 15% kể từ khi thiết bị mới được lắp đặt.",
-    "collocations": ["total output", "daily output", "production output", "increase output"],
-    "synonyms": ["production", "yield"],
-    "wordFamily": ["outputting"],
-    "day": 51
-  },
-  {
-    "id": "machinery-noun",
-    "word": "machinery",
-    "baseWord": "machinery",
-    "type": "noun",
-    "meaning": "máy móc, thiết bị",
-    "pronunciation": "/məˈʃiːnəri/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The factory invested heavily in new machinery to improve efficiency.",
-    "exampleVi": "Nhà máy đã đầu tư mạnh vào máy móc mới để cải thiện hiệu suất.",
-    "collocations": ["heavy machinery", "industrial machinery", "operate machinery", "install machinery"],
-    "synonyms": ["equipment", "apparatus"],
-    "wordFamily": ["machine", "machinist", "mechanize"],
-    "day": 51
-  },
-  {
-    "id": "blueprint-noun",
-    "word": "blueprint",
-    "baseWord": "blueprint",
-    "type": "noun",
-    "meaning": "bản thiết kế, bản vẽ kỹ thuật",
-    "pronunciation": "/ˈbluːprɪnt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The engineer reviewed the blueprint before production began.",
-    "exampleVi": "Kỹ sư đã xem xét bản thiết kế trước khi sản xuất bắt đầu.",
-    "collocations": ["detailed blueprint", "follow a blueprint", "design blueprint", "blueprint approval"],
-    "synonyms": ["plan", "schematic", "design"],
-    "wordFamily": ["blueprinted"],
-    "day": 51
-  },
-  {
-    "id": "forklift-noun",
-    "word": "forklift",
-    "baseWord": "forklift",
-    "type": "noun",
-    "meaning": "xe nâng",
-    "pronunciation": "/ˈfɔːrklɪft/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 4"],
-    "example": "Only certified operators are allowed to drive a forklift in the warehouse.",
-    "exampleVi": "Chỉ những người vận hành có chứng chỉ mới được phép lái xe nâng trong nhà kho.",
-    "collocations": ["forklift operator", "forklift truck", "operate a forklift", "forklift safety"],
-    "synonyms": ["lift truck"],
-    "wordFamily": [],
-    "day": 51
-  },
-  {
-    "id": "malfunction-noun",
-    "word": "malfunction",
-    "baseWord": "malfunction",
-    "type": "noun",
-    "meaning": "sự trục trặc, sự hỏng hóc",
-    "pronunciation": "/mælˈfʌŋkʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "A malfunction in the cooling system caused the production line to stop.",
-    "exampleVi": "Sự trục trặc trong hệ thống làm mát đã khiến dây chuyền sản xuất phải dừng lại.",
-    "collocations": ["equipment malfunction", "system malfunction", "technical malfunction", "report a malfunction"],
-    "synonyms": ["breakdown", "failure", "glitch"],
-    "wordFamily": ["malfunctioning", "malfunctioned"],
-    "day": 51
-  },
-  {
-    "id": "prototype-noun",
-    "word": "prototype",
-    "baseWord": "prototype",
-    "type": "noun",
-    "meaning": "nguyên mẫu, mẫu thử nghiệm",
-    "pronunciation": "/ˈproʊtətaɪp/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The engineering team presented the prototype to the board of directors.",
-    "exampleVi": "Đội kỹ sư đã trình bày nguyên mẫu cho hội đồng quản trị.",
-    "collocations": ["build a prototype", "test a prototype", "prototype design", "working prototype"],
-    "synonyms": ["model", "sample"],
-    "wordFamily": ["prototyping", "prototypical"],
-    "day": 51
-  },
-  {
-    "id": "overhaul-verb",
-    "word": "overhaul",
-    "baseWord": "overhaul",
-    "type": "verb",
-    "meaning": "đại tu, kiểm tra và sửa chữa toàn diện",
-    "pronunciation": "/ˌoʊvərˈhɔːl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The plant manager decided to overhaul the outdated production system.",
-    "exampleVi": "Giám đốc nhà máy quyết định đại tu hệ thống sản xuất đã lỗi thời.",
-    "collocations": ["overhaul a system", "overhaul equipment", "complete overhaul", "major overhaul"],
-    "synonyms": ["revamp", "renovate", "rebuild"],
-    "wordFamily": ["overhaul"],
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We need to know the exact dimensions of the engine block.",
+    "exampleVi": "Chúng tôi cần biết kích thước chính xác của khối động cơ.",
+    "collocations": [
+      "exact measurements",
+      "exact location",
+      "exact replica"
+    ],
+    "synonyms": [
+      "precise",
+      "accurate",
+      "correct"
+    ],
+    "wordFamily": [
+      "exactly",
+      "exactness"
+    ],
     "day": 51
   },
   {
@@ -220,179 +196,482 @@
     "word": "fabricate",
     "baseWord": "fabricate",
     "type": "verb",
-    "meaning": "chế tạo, gia công",
+    "meaning": "chế tạo, bịa đặt (tin tức/bằng chứng)",
     "pronunciation": "/ˈfæbrɪkeɪt/",
     "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The factory fabricates steel frames for commercial buildings.",
-    "exampleVi": "Nhà máy chế tạo khung thép cho các tòa nhà thương mại.",
-    "collocations": ["fabricate parts", "fabricate components", "custom-fabricated"],
-    "synonyms": ["construct", "manufacture", "build"],
-    "wordFamily": ["fabrication", "fabricator", "fabricated"],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The metal sheets are fabricated into car body parts at this facility.",
+    "exampleVi": "Các tấm kim loại được chế tạo thành các bộ phận thân xe ô tô tại cơ sở này.",
+    "collocations": [
+      "fabricate metal",
+      "fabricate parts",
+      "fabricate evidence"
+    ],
+    "synonyms": [
+      "manufacture",
+      "assemble",
+      "invent"
+    ],
+    "wordFamily": [
+      "fabrication",
+      "fabricator"
+    ],
     "day": 51
   },
   {
-    "id": "streamline-verb",
-    "word": "streamline",
-    "baseWord": "streamline",
-    "type": "verb",
-    "meaning": "hợp lý hóa, tinh giản",
-    "pronunciation": "/ˈstriːmlaɪn/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "The company streamlined its production process to reduce costs.",
-    "exampleVi": "Công ty đã hợp lý hóa quy trình sản xuất để giảm chi phí.",
-    "collocations": ["streamline operations", "streamline the process", "streamline production"],
-    "synonyms": ["simplify", "optimize"],
-    "wordFamily": ["streamlined", "streamlining"],
-    "day": 51
-  },
-  {
-    "id": "assemble-verb",
-    "word": "assemble",
-    "baseWord": "assemble",
-    "type": "verb",
-    "meaning": "lắp ráp, ráp nối",
-    "pronunciation": "/əˈsɛmbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Workers assemble approximately 200 units per shift.",
-    "exampleVi": "Công nhân lắp ráp khoảng 200 đơn vị mỗi ca.",
-    "collocations": ["assemble parts", "assemble products", "assemble components", "fully assembled"],
-    "synonyms": ["put together", "construct"],
-    "wordFamily": ["assembly", "assembler", "assembled"],
-    "day": 51
-  },
-  {
-    "id": "inspector-noun",
-    "word": "inspector",
-    "baseWord": "inspector",
+    "id": "fabrication-noun",
+    "word": "fabrication",
+    "baseWord": "fabricate",
     "type": "noun",
-    "meaning": "thanh tra viên, kiểm tra viên",
-    "pronunciation": "/ɪnˈspɛktər/",
+    "meaning": "sự chế tạo, sự ngụy tạo",
+    "pronunciation": "/ˌfæbrɪˈkeɪʃn/",
     "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The quality inspector rejected several items that did not meet standards.",
-    "exampleVi": "Kiểm tra viên chất lượng đã loại bỏ một số sản phẩm không đạt tiêu chuẩn.",
-    "collocations": ["quality inspector", "safety inspector", "factory inspector", "building inspector"],
-    "synonyms": ["examiner", "auditor"],
-    "wordFamily": ["inspect", "inspection", "inspected"],
-    "day": 51
-  },
-  {
-    "id": "durable-adjective",
-    "word": "durable",
-    "baseWord": "durable",
-    "type": "adjective",
-    "meaning": "bền, lâu bền",
-    "pronunciation": "/ˈdʊrəbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The new packaging material is more durable and resistant to moisture.",
-    "exampleVi": "Vật liệu đóng gói mới bền hơn và chống ẩm tốt hơn.",
-    "collocations": ["durable goods", "durable material", "highly durable", "durable construction"],
-    "synonyms": ["sturdy", "long-lasting", "resilient"],
-    "wordFamily": ["durability", "durably"],
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The fabrication of the steel bridge sections took six months.",
+    "exampleVi": "Việc chế tạo các phần cầu thép mất sáu tháng.",
+    "collocations": [
+      "metal fabrication",
+      "fabrication process",
+      "fabrication shop"
+    ],
+    "synonyms": [
+      "manufacture",
+      "construction",
+      "creation"
+    ],
+    "wordFamily": [
+      "fabricate",
+      "fabricator"
+    ],
     "day": 51
   },
   {
     "id": "faulty-adjective",
     "word": "faulty",
-    "baseWord": "faulty",
+    "baseWord": "fault",
     "type": "adjective",
-    "meaning": "bị lỗi, có khuyết điểm",
+    "meaning": "bị lỗi, bị hỏng, có khuyết tật",
     "pronunciation": "/ˈfɔːlti/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Customers can return faulty goods for a full refund within thirty days.",
+    "exampleVi": "Khách hàng có thể trả lại hàng hóa bị lỗi để được hoàn tiền đầy đủ trong vòng ba mươi ngày.",
+    "collocations": [
+      "faulty wiring",
+      "faulty equipment",
+      "replace faulty items"
+    ],
+    "synonyms": [
+      "defective",
+      "broken",
+      "imperfect"
+    ],
+    "wordFamily": [
+      "fault",
+      "faultless"
+    ],
+    "day": 51
+  },
+  {
+    "id": "inactivity-noun",
+    "word": "inactivity",
+    "baseWord": "active",
+    "type": "noun",
+    "meaning": "tình trạng không hoạt động, sự ngưng hoạt động của máy",
+    "pronunciation": "/ˌɪnækˈtɪvəti/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Periods of machinery inactivity cost the company thousands of dollars.",
+    "exampleVi": "Thời gian ngừng hoạt động của máy móc khiến công ty tốn hàng ngàn đô la.",
+    "collocations": [
+      "periods of inactivity",
+      "forced inactivity",
+      "physical inactivity"
+    ],
+    "synonyms": [
+      "idleness",
+      "stagnation",
+      "downtime"
+    ],
+    "wordFamily": [
+      "active",
+      "action",
+      "activity"
+    ],
+    "day": 51
+  },
+  {
+    "id": "manufacturing plant-phrase",
+    "word": "manufacturing plant",
+    "baseWord": "manufacture",
+    "type": "phrase",
+    "meaning": "nhà máy sản xuất, xí nghiệp chế tạo",
+    "pronunciation": "/ˌmænjuˈfæktʃərɪŋ plænt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The firm operates a major manufacturing plant in Ohio.",
+    "exampleVi": "Công ty vận hành một nhà máy sản xuất lớn ở Ohio.",
+    "collocations": [
+      "operate a manufacturing plant",
+      "manufacturing plant manager",
+      "modern manufacturing plant"
+    ],
+    "synonyms": [
+      "factory",
+      "works",
+      "mill"
+    ],
+    "wordFamily": [
+      "manufacture",
+      "manufacturer",
+      "plant"
+    ],
+    "day": 51
+  },
+  {
+    "id": "mass-produce-verb",
+    "word": "mass-produce",
+    "baseWord": "produce",
+    "type": "verb",
+    "meaning": "sản xuất hàng loạt, sản xuất quy mô lớn",
+    "pronunciation": "/ˌmæs prəˈduːs/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "All faulty units were recalled and replaced free of charge.",
-    "exampleVi": "Tất cả các đơn vị bị lỗi đã được thu hồi và thay thế miễn phí.",
-    "collocations": ["faulty equipment", "faulty product", "faulty wiring", "faulty component"],
-    "synonyms": ["defective", "flawed", "malfunctioning"],
-    "wordFamily": ["fault", "faultily"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The company began to mass-produce the new gadget last month.",
+    "exampleVi": "Công ty đã bắt đầu sản xuất hàng loạt thiết bị mới vào tháng trước.",
+    "collocations": [
+      "mass-produce items",
+      "mass-produced goods",
+      "cheap to mass-produce"
+    ],
+    "synonyms": [
+      "manufacture in bulk",
+      "industrialize"
+    ],
+    "wordFamily": [
+      "produce",
+      "product",
+      "production"
+    ],
+    "day": 51
+  },
+  {
+    "id": "operational-adjective",
+    "word": "operational",
+    "baseWord": "operate",
+    "type": "adjective",
+    "meaning": "thuộc về hoạt động, sẵn sàng hoạt động",
+    "pronunciation": "/ˌɑːpəˈreɪʃənl/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The new equipment will become fully operational by next Monday.",
+    "exampleVi": "Thiết bị mới sẽ hoạt động hoàn toàn trước thứ Hai tới.",
+    "collocations": [
+      "fully operational",
+      "operational costs",
+      "operational guidelines"
+    ],
+    "synonyms": [
+      "working",
+      "functional",
+      "running"
+    ],
+    "wordFamily": [
+      "operate",
+      "operation",
+      "operator"
+    ],
+    "day": 51
+  },
+  {
+    "id": "outsourcing partner-phrase",
+    "word": "outsourcing partner",
+    "baseWord": "source",
+    "type": "phrase",
+    "meaning": "đối tác gia công ngoài, đối tác thuê ngoài",
+    "pronunciation": "/ˈaʊtsɔːrsɪŋ ˈpɑːrtnər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We rely on our outsourcing partner in Asia for circuit board assembly.",
+    "exampleVi": "Chúng tôi dựa vào đối tác gia công ngoài ở châu Á để lắp ráp bảng mạch.",
+    "collocations": [
+      "find an outsourcing partner",
+      "reliable outsourcing partner",
+      "outsourcing partner agreement"
+    ],
+    "synonyms": [
+      "external contractor",
+      "subcontractor"
+    ],
+    "wordFamily": [
+      "source",
+      "outsource",
+      "partner"
+    ],
+    "day": 51
+  },
+  {
+    "id": "precision-noun",
+    "word": "precision",
+    "baseWord": "precise",
+    "type": "noun",
+    "meaning": "độ chính xác, sự tỉ mỉ chính xác",
+    "pronunciation": "/prɪˈsɪʒn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The robotic arm operates with absolute precision.",
+    "exampleVi": "Cánh tay robot hoạt động với độ chính xác tuyệt đối.",
+    "collocations": [
+      "absolute precision",
+      "precision engineering",
+      "precision instruments"
+    ],
+    "synonyms": [
+      "accuracy",
+      "exactness",
+      "correctness"
+    ],
+    "wordFamily": [
+      "precise",
+      "precisely"
+    ],
+    "day": 51
+  },
+  {
+    "id": "productivity-noun",
+    "word": "productivity",
+    "baseWord": "produce",
+    "type": "noun",
+    "meaning": "năng suất lao động/sản xuất",
+    "pronunciation": "/ˌproʊdʌkˈtɪvəti/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The introduction of modern software boosted workplace productivity.",
+    "exampleVi": "Việc giới thiệu phần mềm hiện đại đã nâng cao năng suất nơi làm việc.",
+    "collocations": [
+      "labor productivity",
+      "increase productivity",
+      "productivity growth"
+    ],
+    "synonyms": [
+      "output",
+      "efficiency",
+      "fecundity"
+    ],
+    "wordFamily": [
+      "produce",
+      "product",
+      "productive"
+    ],
+    "day": 51
+  },
+  {
+    "id": "prototype-noun",
+    "word": "prototype",
+    "baseWord": "type",
+    "type": "noun",
+    "meaning": "nguyên mẫu, sản phẩm thử nghiệm đầu tiên",
+    "pronunciation": "/ˈproʊtətaɪp/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We are currently testing a prototype of the new electric vehicle.",
+    "exampleVi": "Chúng tôi hiện đang thử nghiệm một nguyên mẫu của chiếc xe điện mới.",
+    "collocations": [
+      "build a prototype",
+      "working prototype",
+      "test a prototype"
+    ],
+    "synonyms": [
+      "mock-up",
+      "model",
+      "sample"
+    ],
+    "wordFamily": [
+      "typical",
+      "type"
+    ],
+    "day": 51
+  },
+  {
+    "id": "quality check-phrase",
+    "word": "quality check",
+    "baseWord": "quality",
+    "type": "phrase",
+    "meaning": "sự kiểm tra chất lượng sản phẩm",
+    "pronunciation": "/ˈkwɑːləti tʃek/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Every single unit undergoes a strict quality check before packaging.",
+    "exampleVi": "Mỗi thiết bị đều trải qua một cuộc kiểm tra chất lượng nghiêm ngặt trước khi đóng gói.",
+    "collocations": [
+      "perform a quality check",
+      "final quality check",
+      "quality check procedure"
+    ],
+    "synonyms": [
+      "quality inspection",
+      "quality audit"
+    ],
+    "wordFamily": [
+      "quality",
+      "check"
+    ],
     "day": 51
   },
   {
     "id": "raw material-phrase",
     "word": "raw material",
-    "baseWord": "raw material",
+    "baseWord": "material",
     "type": "phrase",
     "meaning": "nguyên liệu thô",
-    "pronunciation": "/rɔː məˈtɪəriəl/",
+    "pronunciation": "/rɔː məˈtɪriəl/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The cost of raw materials has risen sharply this quarter.",
-    "exampleVi": "Chi phí nguyên liệu thô đã tăng mạnh trong quý này.",
-    "collocations": ["raw material cost", "raw material supply", "source raw materials"],
-    "synonyms": ["basic material", "unprocessed material"],
-    "wordFamily": ["material", "raw"],
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Rising raw material costs have affected our profit margins.",
+    "exampleVi": "Chi phí nguyên liệu thô tăng cao đã ảnh hưởng đến biên lợi nhuận của chúng tôi.",
+    "collocations": [
+      "import raw materials",
+      "raw material costs",
+      "sources of raw materials"
+    ],
+    "synonyms": [
+      "basic material",
+      "unprocessed material"
+    ],
+    "wordFamily": [
+      "material"
+    ],
     "day": 51
   },
   {
-    "id": "inventory-noun",
-    "word": "inventory",
-    "baseWord": "inventory",
-    "type": "noun",
-    "meaning": "hàng tồn kho, bản kiểm kê",
-    "pronunciation": "/ˈɪnvəntɔːri/",
+    "id": "shift work-phrase",
+    "word": "shift work",
+    "baseWord": "shift",
+    "type": "phrase",
+    "meaning": "chế độ làm việc theo ca",
+    "pronunciation": "/ˈʃɪft wɜːrk/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "We conduct a full inventory check at the end of each month.",
-    "exampleVi": "Chúng tôi tiến hành kiểm kê toàn bộ hàng tồn kho vào cuối mỗi tháng.",
-    "collocations": ["inventory management", "inventory control", "take inventory", "inventory level"],
-    "synonyms": ["stock", "supply"],
-    "wordFamily": ["inventoried", "inventorying"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Many factory employees are used to night shift work.",
+    "exampleVi": "Nhiều nhân viên nhà máy đã quen với công việc làm ca đêm.",
+    "collocations": [
+      "do shift work",
+      "shift work schedule",
+      "health effects of shift work"
+    ],
+    "synonyms": [
+      "rotational work"
+    ],
+    "wordFamily": [
+      "shift",
+      "worker"
+    ],
     "day": 51
   },
   {
-    "id": "batch-noun",
-    "word": "batch",
-    "baseWord": "batch",
+    "id": "apparatus-noun",
+    "word": "apparatus",
+    "baseWord": "apparatus",
     "type": "noun",
-    "meaning": "lô hàng, mẻ sản xuất",
-    "pronunciation": "/bætʃ/",
+    "meaning": "thiết bị chuyên dụng, bộ máy tổ chức",
+    "pronunciation": "/ˌæpəˈrætəs/",
     "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "The first batch of the new product will be shipped next week.",
-    "exampleVi": "Lô hàng đầu tiên của sản phẩm mới sẽ được giao vào tuần tới.",
-    "collocations": ["production batch", "batch number", "batch processing", "first batch"],
-    "synonyms": ["lot", "shipment", "consignment"],
-    "wordFamily": ["batched", "batching"],
-    "day": 52
-  },
-  {
-    "id": "specification-noun",
-    "word": "specification",
-    "baseWord": "specification",
-    "type": "noun",
-    "meaning": "thông số kỹ thuật, quy cách",
-    "pronunciation": "/ˌspɛsɪfɪˈkeɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 6", "Part 7"],
-    "example": "All products must meet the client's exact specifications.",
-    "exampleVi": "Tất cả sản phẩm phải đáp ứng đúng thông số kỹ thuật của khách hàng.",
-    "collocations": ["product specification", "technical specification", "meet specifications", "design specification"],
-    "synonyms": ["requirement", "standard", "guideline"],
-    "wordFamily": ["specify", "specific", "specified"],
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The laboratory is equipped with state-of-the-art testing apparatus.",
+    "exampleVi": "Phòng thí nghiệm được trang bị thiết bị thử nghiệm hiện đại nhất.",
+    "collocations": [
+      "testing apparatus",
+      "safety apparatus",
+      "laboratory apparatus"
+    ],
+    "synonyms": [
+      "device",
+      "equipment",
+      "gadget"
+    ],
+    "wordFamily": [
+      "apparatus"
+    ],
     "day": 52
   },
   {
@@ -400,1259 +679,2530 @@
     "word": "calibrate",
     "baseWord": "calibrate",
     "type": "verb",
-    "meaning": "hiệu chuẩn, hiệu chỉnh",
+    "meaning": "hiệu chuẩn, chỉnh thang đo dụng cụ đo lường",
     "pronunciation": "/ˈkælɪbreɪt/",
     "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Technicians calibrate the measuring instruments every six months.",
-    "exampleVi": "Kỹ thuật viên hiệu chuẩn các thiết bị đo mỗi sáu tháng.",
-    "collocations": ["calibrate equipment", "calibrate instruments", "calibrate sensors"],
-    "synonyms": ["adjust", "fine-tune"],
-    "wordFamily": ["calibration", "calibrated", "recalibrate"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Technicians must calibrate the scale every morning before work.",
+    "exampleVi": "Các kỹ thuật viên phải hiệu chuẩn cân mỗi sáng trước khi làm việc.",
+    "collocations": [
+      "calibrate equipment",
+      "calibrate sensors",
+      "annually calibrate"
+    ],
+    "synonyms": [
+      "standardize",
+      "tune",
+      "adjust"
+    ],
+    "wordFamily": [
+      "calibration",
+      "calibrator"
+    ],
     "day": 52
   },
   {
-    "id": "shutdown-noun",
-    "word": "shutdown",
-    "baseWord": "shutdown",
-    "type": "noun",
-    "meaning": "sự ngừng hoạt động, sự đóng cửa",
-    "pronunciation": "/ˈʃʌtdaʊn/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The factory will undergo a temporary shutdown for equipment upgrades.",
-    "exampleVi": "Nhà máy sẽ tạm ngừng hoạt động để nâng cấp thiết bị.",
-    "collocations": ["temporary shutdown", "plant shutdown", "emergency shutdown", "scheduled shutdown"],
-    "synonyms": ["closure", "stoppage", "halt"],
-    "wordFamily": ["shut down"],
-    "day": 52
-  },
-  {
-    "id": "workstation-noun",
-    "word": "workstation",
-    "baseWord": "workstation",
-    "type": "noun",
-    "meaning": "trạm làm việc, nơi làm việc",
-    "pronunciation": "/ˈwɜːrksteɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 3", "Part 7"],
-    "example": "Each workstation on the production floor is equipped with safety gear.",
-    "exampleVi": "Mỗi trạm làm việc trên sàn sản xuất đều được trang bị đồ bảo hộ.",
-    "collocations": ["individual workstation", "assembly workstation", "workstation setup"],
-    "synonyms": ["work area", "station"],
-    "wordFamily": ["work", "station"],
-    "day": 52
-  },
-  {
-    "id": "precision-noun",
-    "word": "precision",
-    "baseWord": "precision",
-    "type": "noun",
-    "meaning": "độ chính xác, sự chính xác",
-    "pronunciation": "/prɪˈsɪʒən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "This type of work requires a high degree of precision.",
-    "exampleVi": "Loại công việc này đòi hỏi độ chính xác cao.",
-    "collocations": ["high precision", "precision engineering", "precision manufacturing", "precision tools"],
-    "synonyms": ["accuracy", "exactness"],
-    "wordFamily": ["precise", "precisely"],
-    "day": 52
-  },
-  {
-    "id": "technician-noun",
-    "word": "technician",
-    "baseWord": "technician",
-    "type": "noun",
-    "meaning": "kỹ thuật viên",
-    "pronunciation": "/tɛkˈnɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "A technician will be sent to repair the conveyor system tomorrow.",
-    "exampleVi": "Một kỹ thuật viên sẽ được cử đến sửa chữa hệ thống băng chuyền vào ngày mai.",
-    "collocations": ["maintenance technician", "skilled technician", "field technician", "lab technician"],
-    "synonyms": ["specialist", "engineer"],
-    "wordFamily": ["technical", "technically", "technique"],
-    "day": 52
-  },
-  {
-    "id": "tolerance-noun",
-    "word": "tolerance",
-    "baseWord": "tolerance",
-    "type": "noun",
-    "meaning": "dung sai, mức sai lệch cho phép",
-    "pronunciation": "/ˈtɒlərəns/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The parts must be manufactured within strict tolerances.",
-    "exampleVi": "Các bộ phận phải được sản xuất trong phạm vi dung sai nghiêm ngặt.",
-    "collocations": ["within tolerance", "tight tolerance", "tolerance level", "tolerance range"],
-    "synonyms": ["margin", "allowance"],
-    "wordFamily": ["tolerant", "tolerate", "tolerable"],
-    "day": 52
-  },
-  {
-    "id": "automate-verb",
-    "word": "automate",
-    "baseWord": "automate",
+    "id": "cast-verb",
+    "word": "cast",
+    "baseWord": "cast",
     "type": "verb",
-    "meaning": "tự động hóa",
-    "pronunciation": "/ˈɔːtəmeɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company plans to automate several stages of the packaging process.",
-    "exampleVi": "Công ty dự kiến tự động hóa một số giai đoạn của quy trình đóng gói.",
-    "collocations": ["automate a process", "automate production", "fully automate"],
-    "synonyms": ["mechanize", "computerize"],
-    "wordFamily": ["automation", "automated", "automatic"],
-    "day": 52
-  },
-  {
-    "id": "downtime-noun",
-    "word": "downtime",
-    "baseWord": "downtime",
-    "type": "noun",
-    "meaning": "thời gian ngừng hoạt động",
-    "pronunciation": "/ˈdaʊntaɪm/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "Regular maintenance helps minimize downtime on the production floor.",
-    "exampleVi": "Bảo trì thường xuyên giúp giảm thiểu thời gian ngừng hoạt động trên sàn sản xuất.",
-    "collocations": ["minimize downtime", "reduce downtime", "scheduled downtime", "unplanned downtime"],
-    "synonyms": ["idle time", "stoppage"],
-    "wordFamily": [],
-    "day": 52
-  },
-  {
-    "id": "gauge-noun",
-    "word": "gauge",
-    "baseWord": "gauge",
-    "type": "noun",
-    "meaning": "đồng hồ đo, thiết bị đo",
-    "pronunciation": "/ɡeɪdʒ/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 1", "Part 7"],
-    "example": "The pressure gauge showed that the levels were within the safe range.",
-    "exampleVi": "Đồng hồ đo áp suất cho thấy mức áp suất nằm trong phạm vi an toàn.",
-    "collocations": ["pressure gauge", "temperature gauge", "fuel gauge", "gauge reading"],
-    "synonyms": ["meter", "indicator", "dial"],
-    "wordFamily": ["gauging", "gauged"],
-    "day": 52
-  },
-  {
-    "id": "throughput-noun",
-    "word": "throughput",
-    "baseWord": "throughput",
-    "type": "noun",
-    "meaning": "năng suất, công suất xử lý",
-    "pronunciation": "/ˈθruːpʊt/",
+    "meaning": "đúc kim loại/nhựa, quăng, ném",
+    "pronunciation": "/kæst/",
     "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The new machinery increased the plant's throughput by 30 percent.",
-    "exampleVi": "Máy móc mới đã tăng năng suất của nhà máy lên 30 phần trăm.",
-    "collocations": ["increase throughput", "manufacturing throughput", "throughput rate", "high throughput"],
-    "synonyms": ["output", "production rate"],
-    "wordFamily": [],
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Molten iron is cast into molds to produce engine blocks.",
+    "exampleVi": "Sắt nóng chảy được đúc vào khuôn để sản xuất các khối động cơ.",
+    "collocations": [
+      "cast iron",
+      "cast in a mold",
+      "cast components"
+    ],
+    "synonyms": [
+      "mold",
+      "shape",
+      "form"
+    ],
+    "wordFamily": [
+      "casting",
+      "caster"
+    ],
     "day": 52
   },
   {
-    "id": "outsource-verb",
-    "word": "outsource",
-    "baseWord": "outsource",
+    "id": "coat-verb",
+    "word": "coat",
+    "baseWord": "coat",
     "type": "verb",
-    "meaning": "thuê ngoài, gia công bên ngoài",
-    "pronunciation": "/ˈaʊtsɔːrs/",
+    "meaning": "phủ lớp bảo vệ, sơn phủ lên bề mặt",
+    "pronunciation": "/koʊt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The firm decided to outsource the packaging work to a local supplier.",
-    "exampleVi": "Công ty quyết định thuê ngoài công việc đóng gói cho nhà cung cấp địa phương.",
-    "collocations": ["outsource production", "outsource work", "outsource manufacturing", "outsource services"],
-    "synonyms": ["subcontract", "delegate"],
-    "wordFamily": ["outsourcing", "outsourced"],
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We coat the steel pipes with zinc to prevent rust.",
+    "exampleVi": "Chúng tôi phủ kẽm lên các ống thép để chống gỉ.",
+    "collocations": [
+      "coat with paint",
+      "thinly coat",
+      "protective coat"
+    ],
+    "synonyms": [
+      "cover",
+      "layer",
+      "paint"
+    ],
+    "wordFamily": [
+      "coating",
+      "coat"
+    ],
     "day": 52
   },
   {
-    "id": "yield-noun",
-    "word": "yield",
-    "baseWord": "yield",
-    "type": "noun",
-    "meaning": "sản lượng, hiệu suất thu được",
-    "pronunciation": "/jiːld/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The yield from the latest production run exceeded expectations.",
-    "exampleVi": "Sản lượng từ đợt sản xuất mới nhất đã vượt quá kỳ vọng.",
-    "collocations": ["production yield", "high yield", "crop yield", "yield rate"],
-    "synonyms": ["output", "return", "harvest"],
-    "wordFamily": ["yield", "yielding"],
-    "day": 52
-  },
-  {
-    "id": "hazardous-adjective",
-    "word": "hazardous",
-    "baseWord": "hazardous",
-    "type": "adjective",
-    "meaning": "nguy hiểm, có hại",
-    "pronunciation": "/ˈhæzərdəs/",
+    "id": "construct-verb",
+    "word": "construct",
+    "baseWord": "struct",
+    "type": "verb",
+    "meaning": "xây dựng, chế tạo công trình/máy móc",
+    "pronunciation": "/kənˈstrʌkt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Workers must wear protective clothing when handling hazardous materials.",
-    "exampleVi": "Công nhân phải mặc quần áo bảo hộ khi xử lý vật liệu nguy hiểm.",
-    "collocations": ["hazardous materials", "hazardous waste", "hazardous conditions", "hazardous substance"],
-    "synonyms": ["dangerous", "risky", "harmful"],
-    "wordFamily": ["hazard", "hazardously"],
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "They plan to construct a new assembly facility next year.",
+    "exampleVi": "Họ có kế hoạch xây dựng một cơ sở lắp ráp mới vào năm tới.",
+    "collocations": [
+      "construct a building",
+      "construct a prototype",
+      "construct facilities"
+    ],
+    "synonyms": [
+      "build",
+      "erect",
+      "create"
+    ],
+    "wordFamily": [
+      "construction",
+      "constructive",
+      "reconstruct"
+    ],
     "day": 52
   },
   {
-    "id": "operational-adjective",
-    "word": "operational",
-    "baseWord": "operational",
-    "type": "adjective",
-    "meaning": "đang hoạt động, thuộc vận hành",
-    "pronunciation": "/ˌɒpəˈreɪʃənəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The new assembly line is now fully operational.",
-    "exampleVi": "Dây chuyền lắp ráp mới hiện đã hoạt động đầy đủ.",
-    "collocations": ["fully operational", "operational costs", "operational efficiency", "operational procedures"],
-    "synonyms": ["functional", "working", "active"],
-    "wordFamily": ["operate", "operation", "operator"],
-    "day": 52
-  },
-  {
-    "id": "in bulk-phrase",
-    "word": "in bulk",
-    "baseWord": "in bulk",
+    "id": "contract out-phrase",
+    "word": "contract out",
+    "baseWord": "contract",
     "type": "phrase",
-    "meaning": "với số lượng lớn, mua sỉ",
-    "pronunciation": "/ɪn bʌlk/",
+    "meaning": "giao thầu ra ngoài, thuê gia công ngoài",
+    "pronunciation": "/ˈkɑːntrækt aʊt/",
     "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5", "Part 7"],
-    "example": "Ordering raw materials in bulk helps reduce unit costs.",
-    "exampleVi": "Đặt hàng nguyên liệu thô với số lượng lớn giúp giảm chi phí đơn vị.",
-    "collocations": ["buy in bulk", "order in bulk", "sell in bulk", "ship in bulk"],
-    "synonyms": ["in large quantities", "wholesale"],
-    "wordFamily": ["bulk", "bulky"],
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The manufacturer decided to contract out the packaging of the products.",
+    "exampleVi": "Nhà sản xuất đã quyết định giao thầu ra ngoài việc đóng gói các sản phẩm.",
+    "collocations": [
+      "contract out work",
+      "contract out services",
+      "decision to contract out"
+    ],
+    "synonyms": [
+      "outsource",
+      "subcontract"
+    ],
+    "wordFamily": [
+      "contract",
+      "contractor"
+    ],
     "day": 52
   },
   {
-    "id": "assembly line-phrase",
-    "word": "assembly line",
-    "baseWord": "assembly line",
+    "id": "conveyor belt-phrase",
+    "word": "conveyor belt",
+    "baseWord": "convey",
     "type": "phrase",
-    "meaning": "dây chuyền lắp ráp",
-    "pronunciation": "/əˈsɛmbli laɪn/",
+    "meaning": "băng tải truyền hàng trong nhà máy",
+    "pronunciation": "/kənˈveɪər belt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 1", "Part 4", "Part 7"],
-    "example": "The vehicles are built on a fully automated assembly line.",
-    "exampleVi": "Các phương tiện được sản xuất trên dây chuyền lắp ráp hoàn toàn tự động.",
-    "collocations": ["assembly line worker", "assembly line production", "run an assembly line"],
-    "synonyms": ["production line", "manufacturing line"],
-    "wordFamily": ["assembly", "assemble"],
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Finished items move along the conveyor belt to the packaging station.",
+    "exampleVi": "Các sản phẩm đã hoàn thành di chuyển dọc theo băng tải đến trạm đóng gói.",
+    "collocations": [
+      "luggage conveyor belt",
+      "factory conveyor belt",
+      "on the conveyor belt"
+    ],
+    "synonyms": [
+      "conveyor line",
+      "assembly belt"
+    ],
+    "wordFamily": [
+      "convey",
+      "belt"
+    ],
     "day": 52
   },
   {
-    "id": "component-noun",
-    "word": "component",
-    "baseWord": "component",
-    "type": "noun",
-    "meaning": "linh kiện, bộ phận",
-    "pronunciation": "/kəmˈpoʊnənt/",
+    "id": "forge-verb",
+    "word": "forge",
+    "baseWord": "forge",
+    "type": "verb",
+    "meaning": "rèn kim loại, giả mạo chữ ký",
+    "pronunciation": "/fɔːrdʒ/",
     "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Several electronic components are imported from overseas suppliers.",
-    "exampleVi": "Một số linh kiện điện tử được nhập khẩu từ nhà cung cấp nước ngoài.",
-    "collocations": ["key component", "electronic component", "component parts", "component supplier"],
-    "synonyms": ["part", "element", "piece"],
-    "wordFamily": [],
-    "day": 53
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The blacksmith forged the iron bar into a sturdy tool.",
+    "exampleVi": "Người thợ rèn đã rèn thanh sắt thành một công cụ chắc chắn.",
+    "collocations": [
+      "forge signature",
+      "forge steel",
+      "forge a path"
+    ],
+    "synonyms": [
+      "hammer out",
+      "falsify",
+      "fabricate"
+    ],
+    "wordFamily": [
+      "forgery",
+      "forger"
+    ],
+    "day": 52
   },
   {
-    "id": "shipment-noun",
-    "word": "shipment",
-    "baseWord": "shipment",
+    "id": "forklift-noun",
+    "word": "forklift",
+    "baseWord": "forklift",
     "type": "noun",
-    "meaning": "lô hàng, sự vận chuyển hàng",
-    "pronunciation": "/ˈʃɪpmənt/",
+    "meaning": "xe nâng hàng hóa trong kho",
+    "pronunciation": "/ˈfɔːrklɪft/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The shipment of finished goods will arrive at the port on Thursday.",
-    "exampleVi": "Lô hàng thành phẩm sẽ đến cảng vào thứ Năm.",
-    "collocations": ["shipment delay", "incoming shipment", "track a shipment", "shipment date"],
-    "synonyms": ["delivery", "consignment", "cargo"],
-    "wordFamily": ["ship", "shipped", "shipping"],
-    "day": 53
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Only certified operators are permitted to drive the forklift.",
+    "exampleVi": "Chỉ những người vận hành được chứng nhận mới được phép lái xe nâng.",
+    "collocations": [
+      "drive a forklift",
+      "forklift operator",
+      "electric forklift"
+    ],
+    "synonyms": [
+      "lift truck",
+      "fork truck"
+    ],
+    "wordFamily": [
+      "lift"
+    ],
+    "day": 52
   },
   {
-    "id": "procurement-noun",
-    "word": "procurement",
-    "baseWord": "procurement",
+    "id": "machinery-noun",
+    "word": "machinery",
+    "baseWord": "machine",
     "type": "noun",
-    "meaning": "sự mua sắm, sự thu mua",
-    "pronunciation": "/prəˈkjʊərmənt/",
+    "meaning": "máy móc, thiết bị cơ giới",
+    "pronunciation": "/məˈʃiːnəri/",
     "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The procurement department is negotiating with a new steel supplier.",
-    "exampleVi": "Phòng thu mua đang đàm phán với nhà cung cấp thép mới.",
-    "collocations": ["procurement process", "procurement department", "procurement officer", "public procurement"],
-    "synonyms": ["purchasing", "acquisition"],
-    "wordFamily": ["procure", "procured"],
-    "day": 53
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Workers should not operate the heavy machinery without safety glasses.",
+    "exampleVi": "Công nhân không nên vận hành máy móc hạng nặng khi không có kính bảo hộ.",
+    "collocations": [
+      "heavy machinery",
+      "agricultural machinery",
+      "machinery maintenance"
+    ],
+    "synonyms": [
+      "equipment",
+      "gear",
+      "mechanisms"
+    ],
+    "wordFamily": [
+      "machine",
+      "machinist",
+      "mechanic"
+    ],
+    "day": 52
   },
   {
-    "id": "defective-adjective",
-    "word": "defective",
-    "baseWord": "defective",
-    "type": "adjective",
-    "meaning": "bị lỗi, có khiếm khuyết",
-    "pronunciation": "/dɪˈfɛktɪv/",
+    "id": "maintenance-noun",
+    "word": "maintenance",
+    "baseWord": "maintain",
+    "type": "noun",
+    "meaning": "sự bảo trì, bảo dưỡng máy móc/nhà cửa",
+    "pronunciation": "/ˈmeɪntənəns/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Defective items are removed before the products reach the packaging stage.",
-    "exampleVi": "Các sản phẩm bị lỗi được loại bỏ trước khi đến giai đoạn đóng gói.",
-    "collocations": ["defective product", "defective part", "defective unit", "defective merchandise"],
-    "synonyms": ["faulty", "flawed", "imperfect"],
-    "wordFamily": ["defect", "defectively"],
-    "day": 53
-  },
-  {
-    "id": "refurbish-verb",
-    "word": "refurbish",
-    "baseWord": "refurbish",
-    "type": "verb",
-    "meaning": "tân trang, sửa sang lại",
-    "pronunciation": "/riːˈfɜːrbɪʃ/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company refurbishes used equipment and sells it at a discount.",
-    "exampleVi": "Công ty tân trang thiết bị đã qua sử dụng và bán với giá chiết khấu.",
-    "collocations": ["refurbish equipment", "refurbish a facility", "refurbished product"],
-    "synonyms": ["renovate", "restore", "recondition"],
-    "wordFamily": ["refurbishment", "refurbished"],
-    "day": 53
-  },
-  {
-    "id": "stockpile-noun",
-    "word": "stockpile",
-    "baseWord": "stockpile",
-    "type": "noun",
-    "meaning": "kho dự trữ, lượng dự trữ lớn",
-    "pronunciation": "/ˈstɒkpaɪl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The plant maintains a stockpile of essential parts in case of supply disruptions.",
-    "exampleVi": "Nhà máy duy trì kho dự trữ các bộ phận thiết yếu phòng trường hợp gián đoạn nguồn cung.",
-    "collocations": ["build a stockpile", "emergency stockpile", "stockpile of materials"],
-    "synonyms": ["reserve", "cache", "hoard"],
-    "wordFamily": ["stockpile", "stockpiled", "stockpiling"],
-    "day": 53
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Regular maintenance of the boilers prevents unexpected shutdowns.",
+    "exampleVi": "Việc bảo dưỡng định kỳ các lò hơi giúp ngăn ngừa tình trạng ngừng hoạt động bất ngờ.",
+    "collocations": [
+      "regular maintenance",
+      "preventive maintenance",
+      "maintenance costs"
+    ],
+    "synonyms": [
+      "upkeep",
+      "servicing",
+      "care"
+    ],
+    "wordFamily": [
+      "maintain",
+      "maintainable"
+    ],
+    "day": 52
   },
   {
     "id": "mold-noun",
     "word": "mold",
     "baseWord": "mold",
     "type": "noun",
-    "meaning": "khuôn đúc, khuôn mẫu",
+    "meaning": "khuôn đúc, nấm mốc",
     "pronunciation": "/moʊld/",
     "topic": "Manufacturing & Production",
-    "frequency": "medium",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "A new mold was designed for the latest line of plastic containers.",
-    "exampleVi": "Một khuôn đúc mới đã được thiết kế cho dòng hộp nhựa mới nhất.",
-    "collocations": ["injection mold", "casting mold", "mold design", "custom mold"],
-    "synonyms": ["cast", "die", "form"],
-    "wordFamily": ["molding", "molded"],
-    "day": 53
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Plastic is injected into the steel mold to create the toy parts.",
+    "exampleVi": "Nhựa được tiêm vào khuôn thép để tạo ra các bộ phận đồ chơi.",
+    "collocations": [
+      "steel mold",
+      "injection mold",
+      "pour into a mold"
+    ],
+    "synonyms": [
+      "cast",
+      "frame",
+      "matrix"
+    ],
+    "wordFamily": [
+      "mold",
+      "molding"
+    ],
+    "day": 52
   },
   {
-    "id": "foreman-noun",
-    "word": "foreman",
-    "baseWord": "foreman",
-    "type": "noun",
-    "meaning": "quản đốc, đốc công",
-    "pronunciation": "/ˈfɔːrmən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The foreman oversees the daily operations on the production floor.",
-    "exampleVi": "Quản đốc giám sát các hoạt động hàng ngày trên sàn sản xuất.",
-    "collocations": ["factory foreman", "shift foreman", "construction foreman"],
-    "synonyms": ["supervisor", "overseer"],
-    "wordFamily": ["forewoman"],
-    "day": 53
-  },
-  {
-    "id": "subcontractor-noun",
-    "word": "subcontractor",
-    "baseWord": "subcontractor",
-    "type": "noun",
-    "meaning": "nhà thầu phụ",
-    "pronunciation": "/ˈsʌbkɒntræktər/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The company hired a subcontractor to handle the electrical wiring.",
-    "exampleVi": "Công ty đã thuê nhà thầu phụ để xử lý hệ thống dây điện.",
-    "collocations": ["hire a subcontractor", "subcontractor agreement", "local subcontractor"],
-    "synonyms": ["outsourced contractor", "sub-supplier"],
-    "wordFamily": ["subcontract", "subcontracting"],
-    "day": 53
-  },
-  {
-    "id": "bottleneck-noun",
-    "word": "bottleneck",
-    "baseWord": "bottleneck",
-    "type": "noun",
-    "meaning": "điểm nghẽn, nút thắt cổ chai",
-    "pronunciation": "/ˈbɒtlnɛk/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The quality inspection stage has become a bottleneck in the production process.",
-    "exampleVi": "Giai đoạn kiểm tra chất lượng đã trở thành điểm nghẽn trong quy trình sản xuất.",
-    "collocations": ["production bottleneck", "identify a bottleneck", "eliminate a bottleneck", "bottleneck in the process"],
-    "synonyms": ["obstruction", "holdup", "constraint"],
-    "wordFamily": [],
-    "day": 53
-  },
-  {
-    "id": "surplus-noun",
-    "word": "surplus",
-    "baseWord": "surplus",
-    "type": "noun",
-    "meaning": "hàng thừa, số dư",
-    "pronunciation": "/ˈsɜːrpləs/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The surplus inventory was sold at a discounted price.",
-    "exampleVi": "Hàng tồn kho dư thừa đã được bán với giá chiết khấu.",
-    "collocations": ["surplus stock", "surplus inventory", "budget surplus", "trade surplus"],
-    "synonyms": ["excess", "remainder", "overflow"],
-    "wordFamily": [],
-    "day": 53
-  },
-  {
-    "id": "discard-verb",
-    "word": "discard",
-    "baseWord": "discard",
+    "id": "polish-verb",
+    "word": "polish",
+    "baseWord": "polish",
     "type": "verb",
-    "meaning": "loại bỏ, vứt bỏ",
-    "pronunciation": "/dɪsˈkɑːrd/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Damaged materials should be discarded according to safety regulations.",
-    "exampleVi": "Vật liệu bị hỏng phải được loại bỏ theo quy định an toàn.",
-    "collocations": ["discard waste", "discard defective items", "discard packaging"],
-    "synonyms": ["dispose of", "throw away", "reject"],
-    "wordFamily": ["discarded", "discarding"],
-    "day": 53
-  },
-  {
-    "id": "inspect-verb",
-    "word": "inspect",
-    "baseWord": "inspect",
-    "type": "verb",
-    "meaning": "kiểm tra, thanh tra",
-    "pronunciation": "/ɪnˈspɛkt/",
+    "meaning": "đánh bóng (bề mặt), làm cho mịn màng",
+    "pronunciation": "/ˈpɑːlɪʃ/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Supervisors inspect all finished products before they leave the factory.",
-    "exampleVi": "Giám sát viên kiểm tra tất cả sản phẩm hoàn thiện trước khi rời nhà máy.",
-    "collocations": ["inspect goods", "inspect equipment", "inspect a facility", "closely inspect"],
-    "synonyms": ["examine", "check", "review"],
-    "wordFamily": ["inspector", "inspection", "inspected"],
-    "day": 53
+    "partTags": [
+      "Part 1",
+      "Part 5"
+    ],
+    "example": "After fabrication, the metal parts are polished to a high shine.",
+    "exampleVi": "Sau khi chế tạo, các bộ phận kim loại được đánh bóng cho sáng bóng.",
+    "collocations": [
+      "polish wood",
+      "polish shoes",
+      "polish skills"
+    ],
+    "synonyms": [
+      "shine",
+      "buff",
+      "smooth"
+    ],
+    "wordFamily": [
+      "polisher",
+      "polished"
+    ],
+    "day": 52
   },
   {
-    "id": "leak-noun",
-    "word": "leak",
-    "baseWord": "leak",
-    "type": "noun",
-    "meaning": "sự rò rỉ, chỗ rò",
-    "pronunciation": "/liːk/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "A leak in the cooling pipe was detected during the routine inspection.",
-    "exampleVi": "Một chỗ rò rỉ trên ống làm mát đã được phát hiện trong đợt kiểm tra định kỳ.",
-    "collocations": ["gas leak", "oil leak", "water leak", "fix a leak"],
-    "synonyms": ["seepage", "drip"],
-    "wordFamily": ["leaky", "leaked", "leaking"],
-    "day": 53
-  },
-  {
-    "id": "overhead-noun",
-    "word": "overhead",
-    "baseWord": "overhead",
-    "type": "noun",
-    "meaning": "chi phí chung, chi phí gián tiếp",
-    "pronunciation": "/ˈoʊvərhɛd/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Reducing overhead is essential to maintaining competitive pricing.",
-    "exampleVi": "Giảm chi phí chung là điều cần thiết để duy trì giá cạnh tranh.",
-    "collocations": ["overhead costs", "reduce overhead", "manufacturing overhead", "overhead expenses"],
-    "synonyms": ["operating costs", "indirect costs"],
-    "wordFamily": [],
-    "day": 53
-  },
-  {
-    "id": "manually-adverb",
-    "word": "manually",
-    "baseWord": "manually",
-    "type": "adverb",
-    "meaning": "bằng tay, thủ công",
-    "pronunciation": "/ˈmænjuəli/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Some delicate parts still need to be assembled manually.",
-    "exampleVi": "Một số bộ phận tinh vi vẫn cần được lắp ráp bằng tay.",
-    "collocations": ["manually operated", "manually adjust", "manually enter data"],
-    "synonyms": ["by hand", "physically"],
-    "wordFamily": ["manual"],
-    "day": 53
-  },
-  {
-    "id": "dispatch-verb",
-    "word": "dispatch",
-    "baseWord": "dispatch",
+    "id": "press-verb",
+    "word": "press",
+    "baseWord": "press",
     "type": "verb",
-    "meaning": "gửi đi, phái đi",
-    "pronunciation": "/dɪˈspætʃ/",
+    "meaning": "ép, ấn, ép khuôn kim loại",
+    "pronunciation": "/pres/",
     "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Orders are dispatched within 48 hours of payment confirmation.",
-    "exampleVi": "Đơn hàng được gửi đi trong vòng 48 giờ sau khi xác nhận thanh toán.",
-    "collocations": ["dispatch goods", "dispatch an order", "dispatch a team", "dispatch immediately"],
-    "synonyms": ["send", "ship", "forward"],
-    "wordFamily": ["dispatcher", "dispatched", "dispatching"],
-    "day": 53
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Press the green button to start the conveyor belt.",
+    "exampleVi": "Nhấn nút màu xanh lá cây để khởi động băng tải.",
+    "collocations": [
+      "press a button",
+      "press metal sheets",
+      "press for info"
+    ],
+    "synonyms": [
+      "push",
+      "squeeze",
+      "mold"
+    ],
+    "wordFamily": [
+      "pressure",
+      "pressing"
+    ],
+    "day": 52
   },
   {
-    "id": "in compliance with-phrase",
-    "word": "in compliance with",
-    "baseWord": "in compliance with",
+    "id": "stock level-phrase",
+    "word": "stock level",
+    "baseWord": "stock",
     "type": "phrase",
-    "meaning": "tuân theo, phù hợp với",
-    "pronunciation": "/ɪn kəmˈplaɪəns wɪð/",
+    "meaning": "mức hàng tồn kho",
+    "pronunciation": "/stɑːk ˈlevl/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to monitor our stock levels to avoid running out of popular items.",
+    "exampleVi": "Chúng ta cần giám sát mức tồn kho để tránh hết các mặt hàng phổ biến.",
+    "collocations": [
+      "minimum stock level",
+      "check stock levels",
+      "maintain stock levels"
+    ],
+    "synonyms": [
+      "inventory level",
+      "stock status"
+    ],
+    "wordFamily": [
+      "stock",
+      "level"
+    ],
+    "day": 52
+  },
+  {
+    "id": "storage facility-phrase",
+    "word": "storage facility",
+    "baseWord": "store",
+    "type": "phrase",
+    "meaning": "kho bãi lưu trữ, nhà kho",
+    "pronunciation": "/ˈstɔːrɪdʒ fəˈsɪləti/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We rent an extra storage facility to keep our surplus goods.",
+    "exampleVi": "Chúng tôi thuê thêm một kho bãi lưu trữ để giữ hàng hóa dư thừa của mình.",
+    "collocations": [
+      "secure storage facility",
+      "local storage facility",
+      "storage facility manager"
+    ],
+    "synonyms": [
+      "warehouse",
+      "depot",
+      "storehouse"
+    ],
+    "wordFamily": [
+      "store",
+      "storage",
+      "facility"
+    ],
+    "day": 52
+  },
+  {
+    "id": "total output-phrase",
+    "word": "total output",
+    "baseWord": "output",
+    "type": "phrase",
+    "meaning": "tổng sản lượng sản xuất",
+    "pronunciation": "/ˈtoʊtl ˈaʊtpʊt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory's total output has increased by fifteen percent this year.",
+    "exampleVi": "Tổng sản lượng của nhà máy đã tăng mười lăm phần trăm trong năm nay.",
+    "collocations": [
+      "annual total output",
+      "maximize total output",
+      "calculate total output"
+    ],
+    "synonyms": [
+      "total yield",
+      "total production"
+    ],
+    "wordFamily": [
+      "output",
+      "total"
+    ],
+    "day": 52
+  },
+  {
+    "id": "tuning-noun",
+    "word": "tuning",
+    "baseWord": "tune",
+    "type": "noun",
+    "meaning": "sự căn chỉnh, sự điều chỉnh máy móc cho đúng chuẩn",
+    "pronunciation": "/ˈtuːnɪŋ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Fine tuning of the engine calibration improved fuel efficiency.",
+    "exampleVi": "Việc căn chỉnh tinh vi thông số động cơ đã cải thiện hiệu quả tiết kiệm nhiên liệu.",
+    "collocations": [
+      "fine tuning",
+      "engine tuning",
+      "tuning process"
+    ],
+    "synonyms": [
+      "adjustment",
+      "alignment"
+    ],
+    "wordFamily": [
+      "tune",
+      "tunable"
+    ],
+    "day": 52
+  },
+  {
+    "id": "weld-verb",
+    "word": "weld",
+    "baseWord": "weld",
+    "type": "verb",
+    "meaning": "hàn kim loại, gắn chặt",
+    "pronunciation": "/weld/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "All products are manufactured in compliance with international safety standards.",
-    "exampleVi": "Tất cả sản phẩm được sản xuất tuân theo các tiêu chuẩn an toàn quốc tế.",
-    "collocations": ["in compliance with regulations", "in compliance with standards", "in compliance with the law"],
-    "synonyms": ["in accordance with", "in conformity with"],
-    "wordFamily": ["comply", "compliance", "compliant"],
+    "partTags": [
+      "Part 1",
+      "Part 5"
+    ],
+    "example": "The robotic arm is designed to weld car frames together quickly.",
+    "exampleVi": "Cánh tay robot được thiết kế để hàn các khung xe ô tô lại với nhau một cách nhanh chóng.",
+    "collocations": [
+      "weld metal",
+      "weld parts",
+      "weld together"
+    ],
+    "synonyms": [
+      "fuse",
+      "join",
+      "bond"
+    ],
+    "wordFamily": [
+      "welder",
+      "welding"
+    ],
+    "day": 52
+  },
+  {
+    "id": "workflow-noun",
+    "word": "workflow",
+    "baseWord": "flow",
+    "type": "noun",
+    "meaning": "luồng công việc, quy trình làm việc",
+    "pronunciation": "/ˈwɜːrkfloʊ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Automating invoice processing improved our accounting workflow.",
+    "exampleVi": "Tự động hóa xử lý hóa đơn đã cải thiện quy trình làm việc kế toán của chúng tôi.",
+    "collocations": [
+      "optimize workflow",
+      "efficient workflow",
+      "workflow automation"
+    ],
+    "synonyms": [
+      "procedure",
+      "routine",
+      "process"
+    ],
+    "wordFamily": [
+      "work",
+      "flow"
+    ],
+    "day": 52
+  },
+  {
+    "id": "barcode-noun",
+    "word": "barcode",
+    "baseWord": "code",
+    "type": "noun",
+    "meaning": "mã vạch",
+    "pronunciation": "/ˈbɑːrkoʊd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The inventory system updates automatically when the barcode is scanned.",
+    "exampleVi": "Hệ thống kiểm kho tự động cập nhật khi mã vạch được quét.",
+    "collocations": [
+      "scan a barcode",
+      "print barcodes",
+      "barcode reader"
+    ],
+    "synonyms": [
+      "universal product code"
+    ],
+    "wordFamily": [
+      "code",
+      "codify"
+    ],
     "day": 53
   },
   {
-    "id": "emission-noun",
-    "word": "emission",
-    "baseWord": "emission",
-    "type": "noun",
-    "meaning": "khí thải, sự phát thải",
-    "pronunciation": "/ɪˈmɪʃən/",
+    "id": "batch number-phrase",
+    "word": "batch number",
+    "baseWord": "number",
+    "type": "phrase",
+    "meaning": "số lô hàng sản xuất",
+    "pronunciation": "/bætʃ ˈnʌmbər/",
     "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The factory has installed new filters to reduce carbon emissions.",
-    "exampleVi": "Nhà máy đã lắp đặt bộ lọc mới để giảm khí thải carbon.",
-    "collocations": ["carbon emission", "emission reduction", "emission standards", "harmful emissions"],
-    "synonyms": ["discharge", "output"],
-    "wordFamily": ["emit", "emitted", "emitting"],
-    "day": 54
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "You can find the batch number printed on the back of the package.",
+    "exampleVi": "Bạn có thể tìm thấy số lô được in trên mặt sau của bao bì.",
+    "collocations": [
+      "record batch number",
+      "check batch number",
+      "matching batch number"
+    ],
+    "synonyms": [
+      "lot number"
+    ],
+    "wordFamily": [
+      "batch",
+      "number"
+    ],
+    "day": 53
   },
   {
-    "id": "durability-noun",
-    "word": "durability",
-    "baseWord": "durability",
+    "id": "byproduct-noun",
+    "word": "byproduct",
+    "baseWord": "product",
     "type": "noun",
-    "meaning": "độ bền, tính lâu bền",
-    "pronunciation": "/ˌdjʊərəˈbɪləti/",
+    "meaning": "phụ phẩm, tác dụng phụ ngoài ý muốn",
+    "pronunciation": "/ˈbaɪprɑːdʌkt/",
     "topic": "Manufacturing & Production",
     "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The chemical process creates sulfur as a byproduct.",
+    "exampleVi": "Quá trình hóa học tạo ra lưu huỳnh như một phụ phẩm.",
+    "collocations": [
+      "useful byproduct",
+      "harmful byproduct",
+      "agricultural byproduct"
+    ],
+    "synonyms": [
+      "spin-off",
+      "fallout",
+      "side product"
+    ],
+    "wordFamily": [
+      "product",
+      "production"
+    ],
+    "day": 53
+  },
+  {
+    "id": "custom-made-adjective",
+    "word": "custom-made",
+    "baseWord": "make",
+    "type": "adjective",
+    "meaning": "được làm theo yêu cầu riêng, may đo riêng",
+    "pronunciation": "/ˌkʌstəm ˈmeɪd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The durability of this material makes it ideal for outdoor use.",
-    "exampleVi": "Độ bền của vật liệu này khiến nó lý tưởng cho việc sử dụng ngoài trời.",
-    "collocations": ["product durability", "test for durability", "long-term durability", "durability test"],
-    "synonyms": ["resilience", "sturdiness", "longevity"],
-    "wordFamily": ["durable", "durably"],
-    "day": 54
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The firm manufactures custom-made furniture for high-end hotels.",
+    "exampleVi": "Công ty sản xuất đồ nội thất đặt làm theo yêu cầu riêng cho các khách sạn cao cấp.",
+    "collocations": [
+      "custom-made furniture",
+      "custom-made dress",
+      "order custom-made"
+    ],
+    "synonyms": [
+      "tailored",
+      "bespoke",
+      "customized"
+    ],
+    "wordFamily": [
+      "custom",
+      "make"
+    ],
+    "day": 53
+  },
+  {
+    "id": "mass production-phrase",
+    "word": "mass production",
+    "baseWord": "produce",
+    "type": "phrase",
+    "meaning": "sự sản xuất hàng loạt",
+    "pronunciation": "/ˌmæs prəˈduːʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The model went into mass production after successful prototype testing.",
+    "exampleVi": "Mẫu xe đã đi vào sản xuất hàng loạt sau khi thử nghiệm nguyên mẫu thành công.",
+    "collocations": [
+      "start mass production",
+      "mass production methods",
+      "cost of mass production"
+    ],
+    "synonyms": [
+      "bulk manufacturing",
+      "large-scale production"
+    ],
+    "wordFamily": [
+      "produce",
+      "product",
+      "production"
+    ],
+    "day": 53
+  },
+  {
+    "id": "mechanization-noun",
+    "word": "mechanization",
+    "baseWord": "machine",
+    "type": "noun",
+    "meaning": "sự cơ giới hóa, việc dùng máy móc thay lao động thủ công",
+    "pronunciation": "/ˌmekənaɪˈzeɪʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The mechanization of farming reduced the demand for agricultural laborers.",
+    "exampleVi": "Cơ giới hóa nông nghiệp đã giảm nhu cầu về lao động nông nghiệp.",
+    "collocations": [
+      "farm mechanization",
+      "industrial mechanization",
+      "level of mechanization"
+    ],
+    "synonyms": [
+      "automation",
+      "industrialization"
+    ],
+    "wordFamily": [
+      "machine",
+      "mechanic",
+      "mechanical"
+    ],
+    "day": 53
+  },
+  {
+    "id": "plant manager-phrase",
+    "word": "plant manager",
+    "baseWord": "manage",
+    "type": "phrase",
+    "meaning": "quản lý nhà máy, giám đốc xưởng",
+    "pronunciation": "/plænt ˈmænɪdʒər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The plant manager introduced new safety protocols this morning.",
+    "exampleVi": "Quản lý nhà máy đã giới thiệu các quy trình an toàn mới vào sáng nay.",
+    "collocations": [
+      "contact the plant manager",
+      "plant manager duties",
+      "assistant plant manager"
+    ],
+    "synonyms": [
+      "factory manager",
+      "works manager"
+    ],
+    "wordFamily": [
+      "plant",
+      "manage",
+      "manager"
+    ],
+    "day": 53
+  },
+  {
+    "id": "product testing-phrase",
+    "word": "product testing",
+    "baseWord": "test",
+    "type": "phrase",
+    "meaning": "việc thử nghiệm sản phẩm mới",
+    "pronunciation": "/ˈprɑːdʌkt ˈtestɪŋ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Product testing is crucial before releasing the toy to the public.",
+    "exampleVi": "Thử nghiệm sản phẩm là rất quan trọng trước khi phát hành đồ chơi ra công chúng.",
+    "collocations": [
+      "rigorous product testing",
+      "product testing phase",
+      "conduct product testing"
+    ],
+    "synonyms": [
+      "quality assurance testing",
+      "product evaluation"
+    ],
+    "wordFamily": [
+      "product",
+      "test"
+    ],
+    "day": 53
+  },
+  {
+    "id": "production cost-phrase",
+    "word": "production cost",
+    "baseWord": "cost",
+    "type": "phrase",
+    "meaning": "chi phí sản xuất",
+    "pronunciation": "/prəˈdʌkʃn kɔːst/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "We need to reduce our production costs to remain competitive in the market.",
+    "exampleVi": "Chúng ta cần giảm chi phí sản xuất để duy trì tính cạnh tranh trên thị trường.",
+    "collocations": [
+      "reduce production costs",
+      "total production cost",
+      "calculate production cost"
+    ],
+    "synonyms": [
+      "manufacturing cost",
+      "operating cost"
+    ],
+    "wordFamily": [
+      "produce",
+      "production",
+      "cost"
+    ],
+    "day": 53
+  },
+  {
+    "id": "quality inspection-phrase",
+    "word": "quality inspection",
+    "baseWord": "inspect",
+    "type": "phrase",
+    "meaning": "sự thanh tra kiểm tra chất lượng",
+    "pronunciation": "/ˈkwɑːləti ɪnˈspekʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The shipment failed the quality inspection due to packaging issues.",
+    "exampleVi": "Lô hàng đã không qua được đợt thanh tra chất lượng do vấn đề bao bì đóng gói.",
+    "collocations": [
+      "conduct a quality inspection",
+      "fail the quality inspection",
+      "annual quality inspection"
+    ],
+    "synonyms": [
+      "quality check",
+      "quality control check"
+    ],
+    "wordFamily": [
+      "quality",
+      "inspect",
+      "inspector"
+    ],
+    "day": 53
   },
   {
     "id": "regulate-verb",
     "word": "regulate",
     "baseWord": "regulate",
     "type": "verb",
-    "meaning": "điều chỉnh, quản lý",
-    "pronunciation": "/ˈrɛɡjʊleɪt/",
+    "meaning": "điều chỉnh, quy định bằng luật pháp",
+    "pronunciation": "/ˈreɡjuleɪt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The government regulates the disposal of industrial waste.",
-    "exampleVi": "Chính phủ quản lý việc xử lý chất thải công nghiệp.",
-    "collocations": ["regulate industry", "regulate emissions", "strictly regulate", "regulate temperature"],
-    "synonyms": ["control", "govern", "oversee"],
-    "wordFamily": ["regulation", "regulatory", "regulator"],
-    "day": 54
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "Safety standards in the chemical plant are heavily regulated.",
+    "exampleVi": "Tiêu chuẩn an toàn tại nhà máy hóa chất được quy định rất nghiêm ngặt.",
+    "collocations": [
+      "regulate standards",
+      "regulate temperatures",
+      "legally regulate"
+    ],
+    "synonyms": [
+      "control",
+      "govern",
+      "direct"
+    ],
+    "wordFamily": [
+      "regulation",
+      "regulatory",
+      "regulator"
+    ],
+    "day": 53
   },
   {
-    "id": "dismantle-verb",
-    "word": "dismantle",
-    "baseWord": "dismantle",
-    "type": "verb",
-    "meaning": "tháo dỡ, tháo rời",
-    "pronunciation": "/dɪsˈmæntəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Workers dismantled the old conveyor system to make room for new equipment.",
-    "exampleVi": "Công nhân đã tháo dỡ hệ thống băng chuyền cũ để nhường chỗ cho thiết bị mới.",
-    "collocations": ["dismantle equipment", "dismantle a machine", "dismantle a structure"],
-    "synonyms": ["disassemble", "take apart", "demolish"],
-    "wordFamily": ["dismantled", "dismantling"],
-    "day": 54
-  },
-  {
-    "id": "laminate-verb",
-    "word": "laminate",
-    "baseWord": "laminate",
-    "type": "verb",
-    "meaning": "ép lớp, phủ lớp bảo vệ",
-    "pronunciation": "/ˈlæmɪneɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The ID badges are laminated to protect them from water damage.",
-    "exampleVi": "Thẻ nhân viên được ép lớp để bảo vệ khỏi hư hỏng do nước.",
-    "collocations": ["laminate flooring", "laminate a document", "laminate material"],
-    "synonyms": ["coat", "cover", "seal"],
-    "wordFamily": ["laminated", "lamination", "laminating"],
-    "day": 54
-  },
-  {
-    "id": "restock-verb",
-    "word": "restock",
-    "baseWord": "restock",
-    "type": "verb",
-    "meaning": "bổ sung hàng, nhập thêm hàng",
-    "pronunciation": "/riːˈstɒk/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 5"],
-    "example": "The supply room needs to be restocked with safety equipment.",
-    "exampleVi": "Phòng vật tư cần được bổ sung thêm thiết bị an toàn.",
-    "collocations": ["restock shelves", "restock supplies", "restock inventory"],
-    "synonyms": ["replenish", "refill"],
-    "wordFamily": ["restocked", "restocking"],
-    "day": 54
-  },
-  {
-    "id": "deficiency-noun",
-    "word": "deficiency",
-    "baseWord": "deficiency",
-    "type": "noun",
-    "meaning": "sự thiếu hụt, khiếm khuyết",
-    "pronunciation": "/dɪˈfɪʃənsi/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The audit revealed several deficiencies in the safety procedures.",
-    "exampleVi": "Cuộc kiểm toán đã phát hiện một số thiếu sót trong quy trình an toàn.",
-    "collocations": ["address a deficiency", "identify deficiencies", "nutritional deficiency", "safety deficiency"],
-    "synonyms": ["shortage", "inadequacy", "weakness"],
-    "wordFamily": ["deficient", "deficiently"],
-    "day": 54
-  },
-  {
-    "id": "combustible-adjective",
-    "word": "combustible",
-    "baseWord": "combustible",
-    "type": "adjective",
-    "meaning": "dễ cháy, dễ bắt lửa",
-    "pronunciation": "/kəmˈbʌstɪbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Combustible materials must be stored in a separate, ventilated area.",
-    "exampleVi": "Vật liệu dễ cháy phải được lưu trữ ở khu vực riêng biệt, thông thoáng.",
-    "collocations": ["combustible materials", "combustible liquids", "combustible gases", "highly combustible"],
-    "synonyms": ["flammable", "inflammable", "ignitable"],
-    "wordFamily": ["combustion", "combust"],
-    "day": 54
-  },
-  {
-    "id": "recyclable-adjective",
-    "word": "recyclable",
-    "baseWord": "recyclable",
-    "type": "adjective",
-    "meaning": "có thể tái chế",
-    "pronunciation": "/riːˈsaɪkləbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company uses recyclable packaging for all its products.",
-    "exampleVi": "Công ty sử dụng bao bì có thể tái chế cho tất cả sản phẩm.",
-    "collocations": ["recyclable materials", "recyclable packaging", "recyclable waste", "fully recyclable"],
-    "synonyms": ["reusable", "reclaimable"],
-    "wordFamily": ["recycle", "recycled", "recycling"],
-    "day": 54
-  },
-  {
-    "id": "cutting-edge-adjective",
-    "word": "cutting-edge",
-    "baseWord": "cutting-edge",
-    "type": "adjective",
-    "meaning": "tiên tiến nhất, hiện đại nhất",
-    "pronunciation": "/ˈkʌtɪŋ ɛdʒ/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company uses cutting-edge technology to improve product quality.",
-    "exampleVi": "Công ty sử dụng công nghệ tiên tiến nhất để cải thiện chất lượng sản phẩm.",
-    "collocations": ["cutting-edge technology", "cutting-edge research", "cutting-edge design"],
-    "synonyms": ["state-of-the-art", "advanced", "innovative"],
-    "wordFamily": [],
-    "day": 54
-  },
-  {
-    "id": "label-verb",
-    "word": "label",
-    "baseWord": "label",
-    "type": "verb",
-    "meaning": "dán nhãn, ghi nhãn",
-    "pronunciation": "/ˈleɪbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 5", "Part 7"],
-    "example": "All containers must be clearly labeled with the contents and expiration date.",
-    "exampleVi": "Tất cả thùng chứa phải được dán nhãn rõ ràng với nội dung và ngày hết hạn.",
-    "collocations": ["label a product", "clearly labeled", "label packaging", "properly labeled"],
-    "synonyms": ["tag", "mark", "identify"],
-    "wordFamily": ["label", "labeled", "labeling"],
-    "day": 54
-  },
-  {
-    "id": "crate-noun",
-    "word": "crate",
-    "baseWord": "crate",
-    "type": "noun",
-    "meaning": "thùng gỗ, kiện hàng",
-    "pronunciation": "/kreɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 7"],
-    "example": "The fragile equipment was packed securely in wooden crates.",
-    "exampleVi": "Thiết bị dễ vỡ được đóng gói chắc chắn trong các thùng gỗ.",
-    "collocations": ["wooden crate", "shipping crate", "packing crate"],
-    "synonyms": ["box", "container", "case"],
-    "wordFamily": ["crated", "crating"],
-    "day": 54
-  },
-  {
-    "id": "ventilation-noun",
-    "word": "ventilation",
-    "baseWord": "ventilation",
-    "type": "noun",
-    "meaning": "sự thông gió, hệ thống thông gió",
-    "pronunciation": "/ˌvɛntɪˈleɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Proper ventilation is required in areas where chemicals are stored.",
-    "exampleVi": "Hệ thống thông gió phù hợp là cần thiết ở những khu vực lưu trữ hóa chất.",
-    "collocations": ["ventilation system", "proper ventilation", "adequate ventilation", "ventilation duct"],
-    "synonyms": ["airflow", "air circulation"],
-    "wordFamily": ["ventilate", "ventilated", "ventilator"],
-    "day": 54
-  },
-  {
-    "id": "diagnostic-noun",
-    "word": "diagnostic",
-    "baseWord": "diagnostic",
-    "type": "noun",
-    "meaning": "phép chẩn đoán, kiểm tra chẩn đoán",
-    "pronunciation": "/ˌdaɪəɡˈnɒstɪk/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "The technician ran a diagnostic to identify the cause of the system failure.",
-    "exampleVi": "Kỹ thuật viên đã chạy kiểm tra chẩn đoán để xác định nguyên nhân lỗi hệ thống.",
-    "collocations": ["run a diagnostic", "diagnostic test", "diagnostic tool", "diagnostic report"],
-    "synonyms": ["assessment", "analysis"],
-    "wordFamily": ["diagnose", "diagnosis", "diagnosed"],
-    "day": 54
-  },
-  {
-    "id": "contamination-noun",
-    "word": "contamination",
-    "baseWord": "contamination",
-    "type": "noun",
-    "meaning": "sự nhiễm bẩn, sự ô nhiễm",
-    "pronunciation": "/kənˌtæmɪˈneɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 7"],
-    "example": "Strict hygiene protocols prevent contamination of food products.",
-    "exampleVi": "Các quy trình vệ sinh nghiêm ngặt ngăn ngừa sự nhiễm bẩn sản phẩm thực phẩm.",
-    "collocations": ["prevent contamination", "risk of contamination", "cross-contamination", "water contamination"],
-    "synonyms": ["pollution", "impurity"],
-    "wordFamily": ["contaminate", "contaminated", "contaminant"],
-    "day": 54
-  },
-  {
-    "id": "on-site-adjective",
-    "word": "on-site",
-    "baseWord": "on-site",
-    "type": "adjective",
-    "meaning": "tại chỗ, tại hiện trường",
-    "pronunciation": "/ˈɒn saɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "An on-site engineer is available to handle technical problems immediately.",
-    "exampleVi": "Một kỹ sư tại chỗ sẵn sàng xử lý các vấn đề kỹ thuật ngay lập tức.",
-    "collocations": ["on-site inspection", "on-site training", "on-site support", "on-site manager"],
-    "synonyms": ["in-house", "local"],
-    "wordFamily": ["site", "off-site"],
-    "day": 54
-  },
-  {
-    "id": "in accordance with-phrase",
-    "word": "in accordance with",
-    "baseWord": "in accordance with",
+    "id": "safety directive-phrase",
+    "word": "safety directive",
+    "baseWord": "direct",
     "type": "phrase",
-    "meaning": "phù hợp với, theo đúng",
-    "pronunciation": "/ɪn əˈkɔːrdəns wɪð/",
+    "meaning": "chỉ thị an toàn, hướng dẫn quy định an toàn",
+    "pronunciation": "/ˈseɪfti dəˈrektɪv/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All factory workers must abide by the new safety directive regarding masks.",
+    "exampleVi": "Tất cả công nhân nhà máy phải tuân theo chỉ thị an toàn mới về khẩu trang.",
+    "collocations": [
+      "issue a safety directive",
+      "comply with a safety directive",
+      "new safety directive"
+    ],
+    "synonyms": [
+      "safety regulation",
+      "safety code"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "direct",
+      "directive"
+    ],
+    "day": 53
+  },
+  {
+    "id": "sensor-noun",
+    "word": "sensor",
+    "baseWord": "sense",
+    "type": "noun",
+    "meaning": "cảm biến, thiết bị dò tìm",
+    "pronunciation": "/ˈsensər/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 6", "Part 7"],
-    "example": "All procedures must be carried out in accordance with safety guidelines.",
-    "exampleVi": "Tất cả quy trình phải được thực hiện phù hợp với hướng dẫn an toàn.",
-    "collocations": ["in accordance with regulations", "in accordance with policy", "in accordance with the terms"],
-    "synonyms": ["in line with", "pursuant to"],
-    "wordFamily": ["accord", "accordance", "accordingly"],
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The automated machine has sensors that detect defective items.",
+    "exampleVi": "Máy tự động có các cảm biến phát hiện các mặt hàng bị lỗi.",
+    "collocations": [
+      "temperature sensor",
+      "motion sensor",
+      "install a sensor"
+    ],
+    "synonyms": [
+      "detector",
+      "receiver"
+    ],
+    "wordFamily": [
+      "sense",
+      "sensitive",
+      "sensory"
+    ],
+    "day": 53
+  },
+  {
+    "id": "serial number-phrase",
+    "word": "serial number",
+    "baseWord": "number",
+    "type": "phrase",
+    "meaning": "số sê-ri, mã số định danh sản phẩm",
+    "pronunciation": "/ˈsɪriəl ˈnʌmbər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please provide the machine's serial number when requesting parts.",
+    "exampleVi": "Vui lòng cung cấp số sê-ri của máy khi yêu cầu các bộ phận thay thế.",
+    "collocations": [
+      "product serial number",
+      "check the serial number",
+      "unique serial number"
+    ],
+    "synonyms": [
+      "identification number"
+    ],
+    "wordFamily": [
+      "serial",
+      "number"
+    ],
+    "day": 53
+  },
+  {
+    "id": "supply room-phrase",
+    "word": "supply room",
+    "baseWord": "supply",
+    "type": "phrase",
+    "meaning": "phòng lưu trữ vật tư, phòng kho",
+    "pronunciation": "/səˈplaɪ ruːm/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Spare parts are kept in the supply room near the maintenance office.",
+    "exampleVi": "Các bộ phận dự phòng được giữ trong phòng vật tư gần văn phòng bảo trì.",
+    "collocations": [
+      "office supply room",
+      "keep in the supply room",
+      "supply room inventory"
+    ],
+    "synonyms": [
+      "store room",
+      "pantry"
+    ],
+    "wordFamily": [
+      "supply",
+      "supplier"
+    ],
+    "day": 53
+  },
+  {
+    "id": "test run-phrase",
+    "word": "test run",
+    "baseWord": "test",
+    "type": "phrase",
+    "meaning": "sự chạy thử máy móc, đợt chạy thử",
+    "pronunciation": "/ˈtest rʌn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "We will conduct a test run of the production line tomorrow afternoon.",
+    "exampleVi": "Chúng tôi sẽ tiến hành chạy thử dây chuyền sản xuất vào chiều mai.",
+    "collocations": [
+      "conduct a test run",
+      "successful test run",
+      "initial test run"
+    ],
+    "synonyms": [
+      "trial run",
+      "pilot test"
+    ],
+    "wordFamily": [
+      "test",
+      "run"
+    ],
+    "day": 53
+  },
+  {
+    "id": "tool cabinet-phrase",
+    "word": "tool cabinet",
+    "baseWord": "tool",
+    "type": "phrase",
+    "meaning": "tủ đựng dụng cụ, tủ đồ nghề",
+    "pronunciation": "/tuːl ˈkæbɪnət/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3"
+    ],
+    "example": "Please return the wrench to the tool cabinet when you are finished.",
+    "exampleVi": "Vui lòng trả cờ lê về tủ đựng dụng cụ khi bạn làm xong.",
+    "collocations": [
+      "metal tool cabinet",
+      "lock the tool cabinet",
+      "tool cabinet shelf"
+    ],
+    "synonyms": [
+      "toolbox",
+      "chest of tools"
+    ],
+    "wordFamily": [
+      "tool",
+      "cabinet"
+    ],
+    "day": 53
+  },
+  {
+    "id": "trial run-phrase",
+    "word": "trial run",
+    "baseWord": "trial",
+    "type": "phrase",
+    "meaning": "cuộc thử nghiệm, đợt dùng thử/vận hành thử",
+    "pronunciation": "/ˈtraɪəl rʌn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The trial run of the packaging machine was completed successfully.",
+    "exampleVi": "Đợt vận hành thử của máy đóng gói đã được hoàn thành thành công.",
+    "collocations": [
+      "complete a trial run",
+      "schedule a trial run",
+      "trial run results"
+    ],
+    "synonyms": [
+      "test run",
+      "practice run"
+    ],
+    "wordFamily": [
+      "trial",
+      "run"
+    ],
+    "day": 53
+  },
+  {
+    "id": "unit cost-phrase",
+    "word": "unit cost",
+    "baseWord": "cost",
+    "type": "phrase",
+    "meaning": "giá thành một đơn vị sản phẩm",
+    "pronunciation": "/ˈjuːnɪt kɔːst/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Bulk purchasing of raw materials helped us lower the unit cost.",
+    "exampleVi": "Mua số lượng lớn nguyên liệu thô đã giúp chúng tôi giảm giá thành đơn vị.",
+    "collocations": [
+      "calculate unit cost",
+      "average unit cost",
+      "lower the unit cost"
+    ],
+    "synonyms": [
+      "cost per unit"
+    ],
+    "wordFamily": [
+      "unit",
+      "cost"
+    ],
+    "day": 53
+  },
+  {
+    "id": "waste reduction-phrase",
+    "word": "waste reduction",
+    "baseWord": "waste",
+    "type": "phrase",
+    "meaning": "sự cắt giảm chất thải/hao hụt trong sản xuất",
+    "pronunciation": "/weɪst rɪˈdʌkʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Lean manufacturing principles focus heavily on waste reduction.",
+    "exampleVi": "Các nguyên tắc sản xuất tinh gọn tập trung mạnh mẽ vào việc cắt giảm hao hụt.",
+    "collocations": [
+      "waste reduction program",
+      "aim for waste reduction",
+      "waste reduction strategies"
+    ],
+    "synonyms": [
+      "minimization of waste"
+    ],
+    "wordFamily": [
+      "waste",
+      "reduce",
+      "reduction"
+    ],
+    "day": 53
+  },
+  {
+    "id": "abide by-phrase",
+    "word": "abide by",
+    "baseWord": "abide",
+    "type": "phrase",
+    "meaning": "tuân theo, tôn trọng (luật lệ/thỏa thuận)",
+    "pronunciation": "/əˈbaɪd baɪ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "All factory contractors must abide by local environmental regulations.",
+    "exampleVi": "Tất cả các nhà thầu nhà máy phải tuân theo các quy định môi trường địa phương.",
+    "collocations": [
+      "abide by rules",
+      "abide by a decision",
+      "willing to abide by"
+    ],
+    "synonyms": [
+      "comply with",
+      "adhere to",
+      "conform to"
+    ],
+    "wordFamily": [
+      "abide"
+    ],
     "day": 54
   },
   {
-    "id": "productivity-noun",
-    "word": "productivity",
-    "baseWord": "productivity",
-    "type": "noun",
-    "meaning": "năng suất, hiệu suất làm việc",
-    "pronunciation": "/ˌprɒdʌkˈtɪvɪti/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Employee productivity has improved since the new software was introduced.",
-    "exampleVi": "Năng suất của nhân viên đã cải thiện kể từ khi phần mềm mới được áp dụng.",
-    "collocations": ["increase productivity", "boost productivity", "productivity gains", "worker productivity"],
-    "synonyms": ["efficiency", "output"],
-    "wordFamily": ["productive", "produce", "productively"],
-    "day": 55
-  },
-  {
-    "id": "workload-noun",
-    "word": "workload",
-    "baseWord": "workload",
-    "type": "noun",
-    "meaning": "khối lượng công việc",
-    "pronunciation": "/ˈwɜːrkloʊd/",
+    "id": "assembly plant-phrase",
+    "word": "assembly plant",
+    "baseWord": "assemble",
+    "type": "phrase",
+    "meaning": "nhà máy lắp ráp linh kiện",
+    "pronunciation": "/əˈsembli plænt/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
-    "partTags": ["Part 3", "Part 7"],
-    "example": "The workload on the night shift has doubled since the new orders came in.",
-    "exampleVi": "Khối lượng công việc của ca đêm đã tăng gấp đôi kể từ khi có đơn hàng mới.",
-    "collocations": ["heavy workload", "manage workload", "reduce workload", "share the workload"],
-    "synonyms": ["work volume", "task load"],
-    "wordFamily": ["work", "load", "overloaded"],
-    "day": 55
-  },
-  {
-    "id": "capacity-noun",
-    "word": "capacity",
-    "baseWord": "capacity",
-    "type": "noun",
-    "meaning": "công suất, sức chứa",
-    "pronunciation": "/kəˈpæsɪti/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The plant is currently operating at full capacity.",
-    "exampleVi": "Nhà máy hiện đang hoạt động hết công suất.",
-    "collocations": ["full capacity", "production capacity", "seating capacity", "storage capacity"],
-    "synonyms": ["capability", "volume"],
-    "wordFamily": ["capacitate", "incapacity"],
-    "day": 55
-  },
-  {
-    "id": "corrosion-noun",
-    "word": "corrosion",
-    "baseWord": "corrosion",
-    "type": "noun",
-    "meaning": "sự ăn mòn, sự gỉ sét",
-    "pronunciation": "/kəˈroʊʒən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The metal pipes showed signs of corrosion after years of exposure to moisture.",
-    "exampleVi": "Các ống kim loại cho thấy dấu hiệu ăn mòn sau nhiều năm tiếp xúc với độ ẩm.",
-    "collocations": ["corrosion resistance", "prevent corrosion", "corrosion damage", "metal corrosion"],
-    "synonyms": ["rust", "erosion", "deterioration"],
-    "wordFamily": ["corrode", "corroded", "corrosive"],
-    "day": 55
-  },
-  {
-    "id": "scaffold-noun",
-    "word": "scaffold",
-    "baseWord": "scaffold",
-    "type": "noun",
-    "meaning": "giàn giáo",
-    "pronunciation": "/ˈskæfəld/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 1", "Part 7"],
-    "example": "Workers erected scaffolds around the building for exterior repairs.",
-    "exampleVi": "Công nhân đã dựng giàn giáo quanh tòa nhà để sửa chữa bên ngoài.",
-    "collocations": ["erect a scaffold", "scaffold safety", "scaffold platform"],
-    "synonyms": ["framework", "staging"],
-    "wordFamily": ["scaffolding"],
-    "day": 55
-  },
-  {
-    "id": "crane-noun",
-    "word": "crane",
-    "baseWord": "crane",
-    "type": "noun",
-    "meaning": "cần cẩu",
-    "pronunciation": "/kreɪn/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 1", "Part 4"],
-    "example": "A crane was used to lift the heavy steel beams into position.",
-    "exampleVi": "Một cần cẩu đã được sử dụng để nâng các dầm thép nặng vào vị trí.",
-    "collocations": ["operate a crane", "crane operator", "tower crane", "overhead crane"],
-    "synonyms": ["hoist", "derrick"],
-    "wordFamily": [],
-    "day": 55
-  },
-  {
-    "id": "pallet-noun",
-    "word": "pallet",
-    "baseWord": "pallet",
-    "type": "noun",
-    "meaning": "tấm kê hàng, pa-lét",
-    "pronunciation": "/ˈpælɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 1", "Part 4", "Part 7"],
-    "example": "The goods were stacked on pallets and loaded onto the truck.",
-    "exampleVi": "Hàng hóa được xếp trên pa-lét và chất lên xe tải.",
-    "collocations": ["wooden pallet", "pallet jack", "pallet load", "stack on pallets"],
-    "synonyms": ["skid", "platform"],
-    "wordFamily": ["palletize", "palletized"],
-    "day": 55
-  },
-  {
-    "id": "detector-noun",
-    "word": "detector",
-    "baseWord": "detector",
-    "type": "noun",
-    "meaning": "máy dò, thiết bị phát hiện",
-    "pronunciation": "/dɪˈtɛktər/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Smoke detectors must be installed in every section of the warehouse.",
-    "exampleVi": "Máy dò khói phải được lắp đặt ở mọi khu vực của nhà kho.",
-    "collocations": ["smoke detector", "metal detector", "motion detector", "gas detector"],
-    "synonyms": ["sensor", "scanner"],
-    "wordFamily": ["detect", "detection", "detected"],
-    "day": 55
-  },
-  {
-    "id": "compliance-noun",
-    "word": "compliance",
-    "baseWord": "compliance",
-    "type": "noun",
-    "meaning": "sự tuân thủ, sự chấp hành",
-    "pronunciation": "/kəmˈplaɪəns/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The factory passed its annual compliance review without any issues.",
-    "exampleVi": "Nhà máy đã vượt qua đợt đánh giá tuân thủ hàng năm mà không gặp vấn đề gì.",
-    "collocations": ["regulatory compliance", "compliance officer", "compliance standards", "ensure compliance"],
-    "synonyms": ["adherence", "conformity", "observance"],
-    "wordFamily": ["comply", "compliant", "noncompliance"],
-    "day": 55
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The automotive company operates a large assembly plant near Detroit.",
+    "exampleVi": "Công ty ô tô vận hành một nhà máy lắp ráp lớn gần Detroit.",
+    "collocations": [
+      "automotive assembly plant",
+      "work in an assembly plant",
+      "assembly plant manager"
+    ],
+    "synonyms": [
+      "assembly factory"
+    ],
+    "wordFamily": [
+      "assemble",
+      "assembly",
+      "plant"
+    ],
+    "day": 54
   },
   {
     "id": "certify-verb",
     "word": "certify",
     "baseWord": "certify",
     "type": "verb",
-    "meaning": "chứng nhận, cấp chứng chỉ",
+    "meaning": "chứng nhận, xác nhận chính thức",
     "pronunciation": "/ˈsɜːrtɪfaɪ/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "An independent laboratory certified that the product meets all safety standards.",
-    "exampleVi": "Một phòng thí nghiệm độc lập đã chứng nhận rằng sản phẩm đáp ứng mọi tiêu chuẩn an toàn.",
-    "collocations": ["certify a product", "certified professional", "certify compliance"],
-    "synonyms": ["verify", "validate", "accredit"],
-    "wordFamily": ["certification", "certified", "certificate"],
-    "day": 55
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The inspector certified that the plant met all environmental laws.",
+    "exampleVi": "Thanh tra viên đã chứng nhận rằng nhà máy đáp ứng tất cả các luật môi trường.",
+    "collocations": [
+      "certify document",
+      "certified technician",
+      "officially certify"
+    ],
+    "synonyms": [
+      "verify",
+      "validate",
+      "confirm"
+    ],
+    "wordFamily": [
+      "certification",
+      "certificate",
+      "certifiable"
+    ],
+    "day": 54
   },
   {
-    "id": "decommission-verb",
-    "word": "decommission",
-    "baseWord": "decommission",
-    "type": "verb",
-    "meaning": "ngừng sử dụng, cho ngừng hoạt động",
-    "pronunciation": "/ˌdiːkəˈmɪʃən/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "The old generators will be decommissioned and replaced next quarter.",
-    "exampleVi": "Các máy phát điện cũ sẽ được ngừng sử dụng và thay thế vào quý tới.",
-    "collocations": ["decommission equipment", "decommission a plant", "decommission a facility"],
-    "synonyms": ["retire", "shut down", "phase out"],
-    "wordFamily": ["decommissioned", "decommissioning"],
-    "day": 55
-  },
-  {
-    "id": "lubricate-verb",
-    "word": "lubricate",
-    "baseWord": "lubricate",
-    "type": "verb",
-    "meaning": "bôi trơn, tra dầu mỡ",
-    "pronunciation": "/ˈluːbrɪkeɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": ["Part 7"],
-    "example": "Machine parts should be lubricated regularly to prevent excessive wear.",
-    "exampleVi": "Các bộ phận máy cần được bôi trơn thường xuyên để ngăn hao mòn quá mức.",
-    "collocations": ["lubricate parts", "lubricate machinery", "lubricate joints"],
-    "synonyms": ["oil", "grease"],
-    "wordFamily": ["lubricant", "lubricated", "lubrication"],
-    "day": 55
-  },
-  {
-    "id": "insulate-verb",
-    "word": "insulate",
-    "baseWord": "insulate",
-    "type": "verb",
-    "meaning": "cách nhiệt, cách điện",
-    "pronunciation": "/ˈɪnsjʊleɪt/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The pipes were insulated to prevent heat loss during the winter months.",
-    "exampleVi": "Các ống dẫn đã được cách nhiệt để ngăn mất nhiệt trong những tháng mùa đông.",
-    "collocations": ["insulate a building", "insulate wires", "thermally insulate", "insulate pipes"],
-    "synonyms": ["protect", "shield", "wrap"],
-    "wordFamily": ["insulation", "insulated", "insulator"],
-    "day": 55
-  },
-  {
-    "id": "flammable-adjective",
-    "word": "flammable",
-    "baseWord": "flammable",
-    "type": "adjective",
-    "meaning": "dễ bắt lửa, dễ cháy",
-    "pronunciation": "/ˈflæməbəl/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": ["Part 4", "Part 7"],
-    "example": "Flammable liquids should never be stored near heat sources.",
-    "exampleVi": "Chất lỏng dễ cháy không bao giờ được lưu trữ gần nguồn nhiệt.",
-    "collocations": ["flammable materials", "highly flammable", "flammable liquids", "flammable gases"],
-    "synonyms": ["combustible", "ignitable"],
-    "wordFamily": ["flame", "inflammable"],
-    "day": 55
-  },
-  {
-    "id": "automated-adjective",
-    "word": "automated",
-    "baseWord": "automated",
-    "type": "adjective",
-    "meaning": "tự động, được tự động hóa",
-    "pronunciation": "/ˈɔːtəmeɪtɪd/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "The company switched to a fully automated quality control process.",
-    "exampleVi": "Công ty đã chuyển sang quy trình kiểm soát chất lượng hoàn toàn tự động.",
-    "collocations": ["automated system", "automated process", "fully automated", "automated production"],
-    "synonyms": ["mechanized", "computerized"],
-    "wordFamily": ["automate", "automation", "automatic"],
-    "day": 55
-  },
-  {
-    "id": "around the clock-phrase",
-    "word": "around the clock",
-    "baseWord": "around the clock",
+    "id": "conform to-phrase",
+    "word": "conform to",
+    "baseWord": "form",
     "type": "phrase",
-    "meaning": "suốt ngày đêm, 24/7",
-    "pronunciation": "/əˈraʊnd ðə klɒk/",
+    "meaning": "tuân thủ theo tiêu chuẩn/thói quen",
+    "pronunciation": "/kənˈfɔːrm tuː/",
     "topic": "Manufacturing & Production",
     "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 3", "Part 4", "Part 7"],
-    "example": "The factory operates around the clock to meet the holiday demand.",
-    "exampleVi": "Nhà máy hoạt động suốt ngày đêm để đáp ứng nhu cầu dịp lễ.",
-    "collocations": ["work around the clock", "operate around the clock", "monitor around the clock"],
-    "synonyms": ["24/7", "nonstop", "continuously"],
-    "wordFamily": [],
-    "day": 55
-  },
-  {
-    "id": "up to standard-phrase",
-    "word": "up to standard",
-    "baseWord": "up to standard",
-    "type": "phrase",
-    "meaning": "đạt tiêu chuẩn",
-    "pronunciation": "/ʌp tuː ˈstændərd/",
-    "topic": "Manufacturing & Production",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Products that are not up to standard will be returned to the supplier.",
-    "exampleVi": "Sản phẩm không đạt tiêu chuẩn sẽ được trả lại cho nhà cung cấp.",
-    "collocations": ["bring up to standard", "not up to standard", "meet the standard"],
-    "synonyms": ["satisfactory", "acceptable"],
-    "wordFamily": ["standard", "standardize"],
-    "day": 55
-  },
-  {
-    "id": "systematically-adverb",
-    "word": "systematically",
-    "baseWord": "systematically",
-    "type": "adverb",
-    "meaning": "một cách có hệ thống",
-    "pronunciation": "/ˌsɪstəˈmætɪkli/",
-    "topic": "Manufacturing & Production",
-    "frequency": "medium",
     "level": "medium",
-    "partTags": ["Part 5", "Part 7"],
-    "example": "Each component is systematically tested before final assembly.",
-    "exampleVi": "Mỗi linh kiện được kiểm tra một cách có hệ thống trước khi lắp ráp cuối cùng.",
-    "collocations": ["systematically review", "systematically test", "systematically organize"],
-    "synonyms": ["methodically", "orderly"],
-    "wordFamily": ["systematic", "system", "systemize"],
-    "day": 55
+    "partTags": [
+      "Part 5",
+      "Part 6"
+    ],
+    "example": "The manufactured parts must conform to international standard specs.",
+    "exampleVi": "Các bộ phận được sản xuất phải tuân thủ thông số kỹ thuật tiêu chuẩn quốc tế.",
+    "collocations": [
+      "conform to standards",
+      "conform to regulations",
+      "conform to expectations"
+    ],
+    "synonyms": [
+      "comply with",
+      "abide by",
+      "fit in with"
+    ],
+    "wordFamily": [
+      "conformity",
+      "conformance"
+    ],
+    "day": 54
   },
   {
-    "id": "glitch-noun",
-    "word": "glitch",
-    "baseWord": "glitch",
+    "id": "depot-noun",
+    "word": "depot",
+    "baseWord": "depot",
     "type": "noun",
-    "meaning": "trục trặc nhỏ, lỗi kỹ thuật nhỏ",
-    "pronunciation": "/ɡlɪtʃ/",
+    "meaning": "kho chứa hàng, trạm xe buýt/tàu hỏa",
+    "pronunciation": "/ˈdiːpoʊ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "All finished machinery is moved to the central distribution depot.",
+    "exampleVi": "Tất cả máy móc đã hoàn thành được chuyển đến kho phân phối trung tâm.",
+    "collocations": [
+      "bus depot",
+      "supply depot",
+      "central depot"
+    ],
+    "synonyms": [
+      "warehouse",
+      "storage",
+      "terminal"
+    ],
+    "wordFamily": [
+      "depot"
+    ],
+    "day": 54
+  },
+  {
+    "id": "foundry-noun",
+    "word": "foundry",
+    "baseWord": "found",
+    "type": "noun",
+    "meaning": "xưởng đúc kim loại",
+    "pronunciation": "/ˈfaʊndri/",
+    "topic": "Manufacturing & Production",
+    "frequency": "low",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Iron blocks are melted and cast inside the foundry.",
+    "exampleVi": "Các khối sắt được nấu chảy và đúc bên trong xưởng đúc.",
+    "collocations": [
+      "iron foundry",
+      "foundry worker",
+      "local foundry"
+    ],
+    "synonyms": [
+      "metalworks",
+      "smithy"
+    ],
+    "wordFamily": [
+      "found",
+      "founder"
+    ],
+    "day": 54
+  },
+  {
+    "id": "helmet-noun",
+    "word": "helmet",
+    "baseWord": "helmet",
+    "type": "noun",
+    "meaning": "mũ bảo hiểm, mũ bảo hộ",
+    "pronunciation": "/ˈhelmɪt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The construction worker adjusted his helmet before entering the site.",
+    "exampleVi": "Công nhân xây dựng đã chỉnh lại mũ bảo hộ của mình trước khi vào công trường.",
+    "collocations": [
+      "safety helmet",
+      "motorcycle helmet",
+      "wear a helmet"
+    ],
+    "synonyms": [
+      "hard hat",
+      "headgear"
+    ],
+    "wordFamily": [
+      "helmeted"
+    ],
+    "day": 54
+  },
+  {
+    "id": "industry standard-phrase",
+    "word": "industry standard",
+    "baseWord": "standard",
+    "type": "phrase",
+    "meaning": "tiêu chuẩn chung của ngành công nghiệp",
+    "pronunciation": "/ˈɪndəstri ˈstændərd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our manufacturing process sets the new industry standard for quality.",
+    "exampleVi": "Quy trình sản xuất của chúng tôi đặt ra tiêu chuẩn ngành mới về chất lượng.",
+    "collocations": [
+      "meet industry standards",
+      "become the industry standard",
+      "above industry standards"
+    ],
+    "synonyms": [
+      "general benchmark",
+      "industry norm"
+    ],
+    "wordFamily": [
+      "industry",
+      "standard"
+    ],
+    "day": 54
+  },
+  {
+    "id": "mill-noun",
+    "word": "mill",
+    "baseWord": "mill",
+    "type": "noun",
+    "meaning": "nhà máy (xay xát, dệt, giấy), cối xay",
+    "pronunciation": "/mɪl/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "He worked at a paper mill for over fifteen years.",
+    "exampleVi": "Anh ấy đã làm việc tại một nhà máy giấy hơn mười lăm năm.",
+    "collocations": [
+      "paper mill",
+      "cotton mill",
+      "steel mill"
+    ],
+    "synonyms": [
+      "factory",
+      "plant",
+      "grinder"
+    ],
+    "wordFamily": [
+      "miller",
+      "milling"
+    ],
+    "day": 54
+  },
+  {
+    "id": "overnight shift-phrase",
+    "word": "overnight shift",
+    "baseWord": "shift",
+    "type": "phrase",
+    "meaning": "ca làm việc qua đêm, ca đêm",
+    "pronunciation": "/ˌoʊvərˈnaɪt ʃɪft/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Working the overnight shift pays a slightly higher hourly wage.",
+    "exampleVi": "Làm ca qua đêm được trả lương giờ cao hơn một chút.",
+    "collocations": [
+      "work the overnight shift",
+      "overnight shift employees",
+      "overnight shift supervisor"
+    ],
+    "synonyms": [
+      "night shift",
+      "grave shift"
+    ],
+    "wordFamily": [
+      "shift",
+      "night"
+    ],
+    "day": 54
+  },
+  {
+    "id": "protective gear-phrase",
+    "word": "protective gear",
+    "baseWord": "protect",
+    "type": "phrase",
+    "meaning": "đồ bảo hộ lao động, trang bị bảo hộ",
+    "pronunciation": "/prəˈtektɪv ɡɪr/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Visitors must wear protective gear including hard hats and vests.",
+    "exampleVi": "Khách tham quan phải đeo đồ bảo hộ bao gồm mũ bảo hiểm cứng và áo khoác.",
+    "collocations": [
+      "wear protective gear",
+      "required protective gear",
+      "personal protective gear"
+    ],
+    "synonyms": [
+      "safety equipment",
+      "PPE"
+    ],
+    "wordFamily": [
+      "protect",
+      "protection",
+      "protective",
+      "gear"
+    ],
+    "day": 54
+  },
+  {
+    "id": "refinery-noun",
+    "word": "refinery",
+    "baseWord": "refine",
+    "type": "noun",
+    "meaning": "nhà máy lọc dầu/lọc đường",
+    "pronunciation": "/rɪˈfaɪnəri/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The oil refinery processes thousands of barrels of crude oil daily.",
+    "exampleVi": "Nhà máy lọc dầu xử lý hàng ngàn thùng dầu thô hàng ngày.",
+    "collocations": [
+      "oil refinery",
+      "sugar refinery",
+      "refinery workers"
+    ],
+    "synonyms": [
+      "purification plant"
+    ],
+    "wordFamily": [
+      "refine",
+      "refined",
+      "refinement"
+    ],
+    "day": 54
+  },
+  {
+    "id": "safety goggles-phrase",
+    "word": "safety goggles",
+    "baseWord": "safety",
+    "type": "phrase",
+    "meaning": "kính bảo hộ mắt",
+    "pronunciation": "/ˈseɪfti ˈɡɑːɡlz/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "You must wear safety goggles when operating the drilling machine.",
+    "exampleVi": "Bạn phải đeo kính bảo hộ khi vận hành máy khoan.",
+    "collocations": [
+      "wear safety goggles",
+      "pair of safety goggles",
+      "safety goggles required"
+    ],
+    "synonyms": [
+      "safety glasses",
+      "protective eyewear"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "goggles"
+    ],
+    "day": 54
+  },
+  {
+    "id": "safety hazard-phrase",
+    "word": "safety hazard",
+    "baseWord": "hazard",
+    "type": "phrase",
+    "meaning": "mối nguy hiểm mất an toàn lao động",
+    "pronunciation": "/ˈseɪfti ˈhæzərd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The loose wires on the floor pose a serious safety hazard.",
+    "exampleVi": "Những sợi dây lỏng lẻo trên sàn nhà gây ra mối nguy hiểm an toàn nghiêm trọng.",
+    "collocations": [
+      "identify safety hazards",
+      "eliminate safety hazards",
+      "potential safety hazard"
+    ],
+    "synonyms": [
+      "danger",
+      "safety risk"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "hazard",
+      "hazardous"
+    ],
+    "day": 54
+  },
+  {
+    "id": "safety standard-phrase",
+    "word": "safety standard",
+    "baseWord": "standard",
+    "type": "phrase",
+    "meaning": "tiêu chuẩn an toàn",
+    "pronunciation": "/ˈseɪfti ˈstændərd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The machinery complies with all current government safety standards.",
+    "exampleVi": "Máy móc tuân thủ tất cả các tiêu chuẩn an toàn hiện hành của chính phủ.",
+    "collocations": [
+      "comply with safety standards",
+      "meet safety standards",
+      "strict safety standards"
+    ],
+    "synonyms": [
+      "safety code",
+      "safety regulation"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "standard"
+    ],
+    "day": 54
+  },
+  {
+    "id": "shift-noun",
+    "word": "shift",
+    "baseWord": "shift",
+    "type": "noun",
+    "meaning": "ca làm việc, sự dịch chuyển",
+    "pronunciation": "/ʃɪft/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "She decided to transfer to the morning shift to spend time with family.",
+    "exampleVi": "Cô ấy đã quyết định chuyển sang ca sáng để dành thời gian cho gia đình.",
+    "collocations": [
+      "morning shift",
+      "night shift",
+      "shift supervisor"
+    ],
+    "synonyms": [
+      "work period",
+      "movement",
+      "transfer"
+    ],
+    "wordFamily": [
+      "shift",
+      "shifty"
+    ],
+    "day": 54
+  },
+  {
+    "id": "shipyard-noun",
+    "word": "shipyard",
+    "baseWord": "yard",
+    "type": "noun",
+    "meaning": "xưởng đóng tàu, cảng đóng tàu",
+    "pronunciation": "/ˈʃɪpjɑːrd/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The navy submarine is undergoing repairs at the naval shipyard.",
+    "exampleVi": "Tàu ngầm hải quân đang được sửa chữa tại xưởng đóng tàu hải quân.",
+    "collocations": [
+      "naval shipyard",
+      "shipyard worker",
+      "operate a shipyard"
+    ],
+    "synonyms": [
+      "dockyard",
+      "ship building yard"
+    ],
+    "wordFamily": [
+      "ship",
+      "yard"
+    ],
+    "day": 54
+  },
+  {
+    "id": "shop floor-phrase",
+    "word": "shop floor",
+    "baseWord": "floor",
+    "type": "phrase",
+    "meaning": "phân xưởng sản xuất, khu vực công nhân trực tiếp làm việc",
+    "pronunciation": "/ʃɑːp flɔːr/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager spends several hours on the shop floor inspecting the work.",
+    "exampleVi": "Người quản lý dành vài giờ ở phân xưởng sản xuất để kiểm tra công việc.",
+    "collocations": [
+      "on the shop floor",
+      "shop floor supervisor",
+      "shop floor efficiency"
+    ],
+    "synonyms": [
+      "production floor",
+      "factory floor"
+    ],
+    "wordFamily": [
+      "shop",
+      "floor"
+    ],
+    "day": 54
+  },
+  {
+    "id": "verification-noun",
+    "word": "verification",
+    "baseWord": "verify",
+    "type": "noun",
+    "meaning": "sự kiểm chứng, sự xác thực tài liệu/dữ liệu",
+    "pronunciation": "/ˌverɪfɪˈkeɪʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Verification of the test results was carried out by an independent laboratory.",
+    "exampleVi": "Việc kiểm chứng kết quả kiểm nghiệm được thực hiện bởi một phòng thí nghiệm độc lập.",
+    "collocations": [
+      "require verification",
+      "verification code",
+      "identity verification"
+    ],
+    "synonyms": [
+      "confirmation",
+      "validation",
+      "proof"
+    ],
+    "wordFamily": [
+      "verify",
+      "verifiable"
+    ],
+    "day": 54
+  },
+  {
+    "id": "worker-noun",
+    "word": "worker",
+    "baseWord": "work",
+    "type": "noun",
+    "meaning": "công nhân, người lao động",
+    "pronunciation": "/ˈwɜːrkər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The factory manager commended the workers for their diligence.",
+    "exampleVi": "Quản lý nhà máy đã khen ngợi các công nhân vì sự siêng năng của họ.",
+    "collocations": [
+      "factory worker",
+      "skilled worker",
+      "social worker"
+    ],
+    "synonyms": [
+      "employee",
+      "laborer",
+      "hand"
+    ],
+    "wordFamily": [
+      "work",
+      "workforce",
+      "workable"
+    ],
+    "day": 54
+  },
+  {
+    "id": "assembly process-phrase",
+    "word": "assembly process",
+    "baseWord": "assemble",
+    "type": "phrase",
+    "meaning": "quy trình lắp ráp sản phẩm",
+    "pronunciation": "/əˈsembli ˈprɑːses/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The final assembly process is completely automated in this plant.",
+    "exampleVi": "Quy trình lắp ráp cuối cùng hoàn toàn tự động trong nhà máy này.",
+    "collocations": [
+      "streamline the assembly process",
+      "detailed assembly process",
+      "assembly process efficiency"
+    ],
+    "synonyms": [
+      "manufacturing process",
+      "production process"
+    ],
+    "wordFamily": [
+      "assemble",
+      "assembly",
+      "process"
+    ],
+    "day": 55
+  },
+  {
+    "id": "earplugs-noun",
+    "word": "earplugs",
+    "baseWord": "plug",
+    "type": "noun",
+    "meaning": "nút bịt tai chống ồn",
+    "pronunciation": "/ˈɪrplʌɡz/",
     "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "easy",
-    "partTags": ["Part 3", "Part 4"],
-    "example": "A minor glitch in the system caused a brief delay in production.",
-    "exampleVi": "Một trục trặc nhỏ trong hệ thống đã gây ra sự chậm trễ ngắn trong sản xuất.",
-    "collocations": ["technical glitch", "software glitch", "minor glitch", "fix a glitch"],
-    "synonyms": ["bug", "hiccup", "snag"],
-    "wordFamily": ["glitchy"],
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The factory floor is very noisy, so earplugs are provided to all workers.",
+    "exampleVi": "Phân xưởng sản xuất rất ồn ào, vì vậy nút bịt tai được cung cấp cho tất cả công nhân.",
+    "collocations": [
+      "wear earplugs",
+      "pair of earplugs",
+      "foam earplugs"
+    ],
+    "synonyms": [
+      "ear protectors"
+    ],
+    "wordFamily": [
+      "plug"
+    ],
+    "day": 55
+  },
+  {
+    "id": "emergency exit-phrase",
+    "word": "emergency exit",
+    "baseWord": "exit",
+    "type": "phrase",
+    "meaning": "lối thoát hiểm khẩn cấp",
+    "pronunciation": "/ɪˈmɜːrdʒənsi ˈeksɪt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Never block the emergency exit with boxes or pallets.",
+    "exampleVi": "Không bao giờ được chặn lối thoát hiểm khẩn cấp bằng các thùng hộp hoặc pallet.",
+    "collocations": [
+      "designated emergency exit",
+      "emergency exit path",
+      "locate emergency exits"
+    ],
+    "synonyms": [
+      "fire escape",
+      "emergency door"
+    ],
+    "wordFamily": [
+      "emergency",
+      "exit"
+    ],
+    "day": 55
+  },
+  {
+    "id": "equipment failure-phrase",
+    "word": "equipment failure",
+    "baseWord": "fail",
+    "type": "phrase",
+    "meaning": "sự hỏng hóc thiết bị, sự cố máy móc",
+    "pronunciation": "/ɪˈkwɪpmənt ˈfeɪljər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The factory suffered an shutdown yesterday due to a major equipment failure.",
+    "exampleVi": "Nhà máy đã bị ngừng hoạt động vào ngày hôm qua do sự cố thiết bị lớn.",
+    "collocations": [
+      "cause equipment failure",
+      "prevent equipment failure",
+      "report equipment failure"
+    ],
+    "synonyms": [
+      "machine breakdown",
+      "machinery malfunction"
+    ],
+    "wordFamily": [
+      "equip",
+      "equipment",
+      "fail",
+      "failure"
+    ],
+    "day": 55
+  },
+  {
+    "id": "error rate-phrase",
+    "word": "error rate",
+    "baseWord": "error",
+    "type": "phrase",
+    "meaning": "tỷ lệ lỗi (trong sản xuất hoặc truyền dữ liệu)",
+    "pronunciation": "/ˈerər reɪt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The main goal of the project was to reduce the error rate below one percent.",
+    "exampleVi": "Mục tiêu chính của dự án là giảm tỷ lệ lỗi xuống dưới một phần trăm.",
+    "collocations": [
+      "reduce error rate",
+      "average error rate",
+      "acceptable error rate"
+    ],
+    "synonyms": [
+      "defect rate",
+      "failure rate"
+    ],
+    "wordFamily": [
+      "error",
+      "erroneous"
+    ],
+    "day": 55
+  },
+  {
+    "id": "fire extinguisher-phrase",
+    "word": "fire extinguisher",
+    "baseWord": "extinguish",
+    "type": "phrase",
+    "meaning": "bình chữa cháy, bình cứu hỏa",
+    "pronunciation": "/ˈfaɪər ɪkˈstɪŋɡwɪʃər/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "He quickly grabbed a fire extinguisher to put out the small electrical fire.",
+    "exampleVi": "Anh ấy đã nhanh chóng lấy một bình chữa cháy để dập tắt ngọn lửa điện nhỏ.",
+    "collocations": [
+      "locate the fire extinguisher",
+      "portable fire extinguisher",
+      "use a fire extinguisher"
+    ],
+    "synonyms": [
+      "fire control cylinder"
+    ],
+    "wordFamily": [
+      "extinguish",
+      "extinguisher"
+    ],
+    "day": 55
+  },
+  {
+    "id": "first aid kit-phrase",
+    "word": "first aid kit",
+    "baseWord": "kit",
+    "type": "phrase",
+    "meaning": "hộp sơ cứu y tế",
+    "pronunciation": "/ˌfɜːrst ˈeɪd kɪt/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Make sure you know the location of the nearest first aid kit on your floor.",
+    "exampleVi": "Đảm bảo bạn biết vị trí của hộp sơ cứu gần nhất trên tầng của mình.",
+    "collocations": [
+      "emergency first aid kit",
+      "wall-mounted first aid kit",
+      "stock the first aid kit"
+    ],
+    "synonyms": [
+      "medical kit",
+      "emergency kit"
+    ],
+    "wordFamily": [
+      "first",
+      "aid",
+      "kit"
+    ],
+    "day": 55
+  },
+  {
+    "id": "goggles-noun",
+    "word": "goggles",
+    "baseWord": "goggles",
+    "type": "noun",
+    "meaning": "kính bảo hộ chống bụi/hóa chất",
+    "pronunciation": "/ˈɡɑːɡlz/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please put on your goggles before entering the chemical mixing room.",
+    "exampleVi": "Vui lòng đeo kính bảo hộ vào trước khi vào phòng pha trộn hóa chất.",
+    "collocations": [
+      "protective goggles",
+      "wear goggles",
+      "swimming goggles"
+    ],
+    "synonyms": [
+      "safety glasses",
+      "eyewear"
+    ],
+    "wordFamily": [
+      "goggles"
+    ],
+    "day": 55
+  },
+  {
+    "id": "hazard sign-phrase",
+    "word": "hazard sign",
+    "baseWord": "hazard",
+    "type": "phrase",
+    "meaning": "biển cảnh báo nguy hiểm",
+    "pronunciation": "/ˈhæzərd saɪn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "A bright yellow hazard sign warned workers of the wet and slippery floor.",
+    "exampleVi": "Một biển báo nguy hiểm màu vàng sáng đã cảnh báo các công nhân về sàn nhà ướt và trơn trượt.",
+    "collocations": [
+      "post a hazard sign",
+      "yellow hazard sign",
+      "danger hazard sign"
+    ],
+    "synonyms": [
+      "warning sign",
+      "caution signboard"
+    ],
+    "wordFamily": [
+      "hazard",
+      "hazardous",
+      "sign"
+    ],
+    "day": 55
+  },
+  {
+    "id": "manufacturing process-phrase",
+    "word": "manufacturing process",
+    "baseWord": "manufacture",
+    "type": "phrase",
+    "meaning": "quy trình sản xuất, công nghệ chế tạo",
+    "pronunciation": "/ˌmænjuˈfæktʃərɪŋ ˈprɑːses/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Our unique manufacturing process makes the metal alloy stronger.",
+    "exampleVi": "Quy trình sản xuất độc đáo của chúng tôi làm cho hợp kim kim loại trở nên mạnh mẽ hơn.",
+    "collocations": [
+      "improve the manufacturing process",
+      "standard manufacturing process",
+      "innovative manufacturing process"
+    ],
+    "synonyms": [
+      "fabrication process",
+      "production method"
+    ],
+    "wordFamily": [
+      "manufacture",
+      "manufacturer",
+      "process"
+    ],
+    "day": 55
+  },
+  {
+    "id": "operational efficiency-phrase",
+    "word": "operational efficiency",
+    "baseWord": "operate",
+    "type": "phrase",
+    "meaning": "hiệu quả vận hành, hiệu suất hoạt động",
+    "pronunciation": "/ˌɑːpəˈreɪʃənl ɪˈfɪʃnsi/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The merger aims to improve the company's operational efficiency.",
+    "exampleVi": "Cuộc sáp nhập nhằm cải thiện hiệu quả hoạt động của công ty.",
+    "collocations": [
+      "achieve operational efficiency",
+      "measure operational efficiency",
+      "operational efficiency metrics"
+    ],
+    "synonyms": [
+      "operating performance",
+      "production efficiency"
+    ],
+    "wordFamily": [
+      "operate",
+      "operation",
+      "efficient",
+      "efficiency"
+    ],
+    "day": 55
+  },
+  {
+    "id": "outsource-verb",
+    "word": "outsource",
+    "baseWord": "source",
+    "type": "verb",
+    "meaning": "thuê gia công ngoài, thuê ngoài dịch vụ",
+    "pronunciation": "/ˈaʊtsɔːrs/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Many Western firms outsource customer service to English-speaking regions.",
+    "exampleVi": "Nhiều công ty phương Tây thuê ngoài dịch vụ chăm sóc khách hàng sang các khu vực nói tiếng Anh.",
+    "collocations": [
+      "outsource production",
+      "decide to outsource",
+      "outsource customer support"
+    ],
+    "synonyms": [
+      "subcontract",
+      "contract out"
+    ],
+    "wordFamily": [
+      "outsourcing",
+      "source"
+    ],
+    "day": 55
+  },
+  {
+    "id": "packaging line-phrase",
+    "word": "packaging line",
+    "baseWord": "pack",
+    "type": "phrase",
+    "meaning": "dây chuyền đóng gói sản phẩm",
+    "pronunciation": "/ˈpækɪdʒɪŋ laɪn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Bottles are packed into cartons automatically at the packaging line.",
+    "exampleVi": "Các chai được đóng gói vào thùng các-tông tự động tại dây chuyền đóng gói.",
+    "collocations": [
+      "automated packaging line",
+      "packaging line supervisor",
+      "packaging line speed"
+    ],
+    "synonyms": [
+      "packing station",
+      "wrapping line"
+    ],
+    "wordFamily": [
+      "pack",
+      "package",
+      "packaging"
+    ],
+    "day": 55
+  },
+  {
+    "id": "preventive maintenance-phrase",
+    "word": "preventive maintenance",
+    "baseWord": "maintain",
+    "type": "phrase",
+    "meaning": "bảo trì phòng ngừa, bảo dưỡng dự phòng",
+    "pronunciation": "/prɪˈventɪv ˈmeɪntənəns/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Preventive maintenance reduces the likelihood of catastrophic machine failure.",
+    "exampleVi": "Bảo trì phòng ngừa làm giảm khả năng xảy ra hỏng hóc máy móc nghiêm trọng.",
+    "collocations": [
+      "schedule preventive maintenance",
+      "preventive maintenance program",
+      "routine preventive maintenance"
+    ],
+    "synonyms": [
+      "planned maintenance",
+      "routine servicing"
+    ],
+    "wordFamily": [
+      "prevent",
+      "preventive",
+      "maintain",
+      "maintenance"
+    ],
+    "day": 55
+  },
+  {
+    "id": "production line-phrase",
+    "word": "production line",
+    "baseWord": "produce",
+    "type": "phrase",
+    "meaning": "dây chuyền sản xuất",
+    "pronunciation": "/prəˈdʌkʃn laɪn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "An error in the software halted the entire production line.",
+    "exampleVi": "Một lỗi trong phần mềm đã làm ngưng toàn bộ dây chuyền sản xuất.",
+    "collocations": [
+      "automated production line",
+      "work on a production line",
+      "production line bottleneck"
+    ],
+    "synonyms": [
+      "assembly line",
+      "manufacturing line"
+    ],
+    "wordFamily": [
+      "produce",
+      "production",
+      "line"
+    ],
+    "day": 55
+  },
+  {
+    "id": "protective clothing-phrase",
+    "word": "protective clothing",
+    "baseWord": "protect",
+    "type": "phrase",
+    "meaning": "quần áo bảo hộ lao động",
+    "pronunciation": "/prəˈtektɪv ˈkloʊðɪŋ/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "All workers handling hot metals must wear heat-resistant protective clothing.",
+    "exampleVi": "Tất cả công nhân xử lý kim loại nóng phải mặc quần áo bảo hộ chống nhiệt.",
+    "collocations": [
+      "wear protective clothing",
+      "required protective clothing",
+      "heavy protective clothing"
+    ],
+    "synonyms": [
+      "safety clothing",
+      "PPE apparel"
+    ],
+    "wordFamily": [
+      "protect",
+      "protective",
+      "clothing"
+    ],
+    "day": 55
+  },
+  {
+    "id": "quality benchmark-phrase",
+    "word": "quality benchmark",
+    "baseWord": "quality",
+    "type": "phrase",
+    "meaning": "tiêu chuẩn chất lượng đối sánh, chuẩn chất lượng",
+    "pronunciation": "/ˈkwɑːləti ˈbentʃmɑːrk/",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "hard",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The newly designed engine block meets our highest quality benchmarks.",
+    "exampleVi": "Khối động cơ mới được thiết kế đáp ứng các tiêu chuẩn chất lượng cao nhất của chúng tôi.",
+    "collocations": [
+      "meet quality benchmarks",
+      "establish quality benchmarks",
+      "industry quality benchmark"
+    ],
+    "synonyms": [
+      "quality standard",
+      "quality index"
+    ],
+    "wordFamily": [
+      "quality",
+      "benchmark"
+    ],
+    "day": 55
+  },
+  {
+    "id": "routine inspection-phrase",
+    "word": "routine inspection",
+    "baseWord": "inspect",
+    "type": "phrase",
+    "meaning": "cuộc kiểm tra định kỳ, thanh tra thường lệ",
+    "pronunciation": "/ruːˈtiːn ɪnˈspekʃn/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "During a routine inspection, the inspector found a tiny crack in the pipe.",
+    "exampleVi": "Trong một cuộc kiểm tra định kỳ, thanh tra viên đã phát hiện một vết nứt nhỏ trong ống dẫn.",
+    "collocations": [
+      "conduct a routine inspection",
+      "undergo routine inspection",
+      "monthly routine inspection"
+    ],
+    "synonyms": [
+      "regular checkup",
+      "routine check"
+    ],
+    "wordFamily": [
+      "routine",
+      "inspect",
+      "inspection"
+    ],
+    "day": 55
+  },
+  {
+    "id": "safety vest-phrase",
+    "word": "safety vest",
+    "baseWord": "safe",
+    "type": "phrase",
+    "meaning": "áo khoác phản quang bảo hộ",
+    "pronunciation": "/ˈseɪfti vest/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The airport ground crew wore bright orange safety vests on the tarmac.",
+    "exampleVi": "Phi hành đoàn mặt đất của sân bay mặc áo phản quang màu cam sáng trên đường băng.",
+    "collocations": [
+      "reflective safety vest",
+      "wear a safety vest",
+      "orange safety vest"
+    ],
+    "synonyms": [
+      "high-visibility vest",
+      "reflective vest"
+    ],
+    "wordFamily": [
+      "safe",
+      "safety",
+      "vest"
+    ],
+    "day": 55
+  },
+  {
+    "id": "workplace safety-phrase",
+    "word": "workplace safety",
+    "baseWord": "safe",
+    "type": "phrase",
+    "meaning": "an toàn lao động tại nơi làm việc",
+    "pronunciation": "/ˈwɜːrkpleɪs ˈseɪfti/",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The union demanded better measures regarding workplace safety.",
+    "exampleVi": "Công đoàn đã yêu cầu các biện pháp tốt hơn liên quan đến an toàn nơi làm việc.",
+    "collocations": [
+      "workplace safety regulations",
+      "improve workplace safety",
+      "workplace safety audit"
+    ],
+    "synonyms": [
+      "occupational safety",
+      "job safety"
+    ],
+    "wordFamily": [
+      "work",
+      "safe",
+      "safety"
+    ],
     "day": 55
   }
 ]
