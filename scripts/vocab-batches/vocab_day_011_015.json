@@ -6,7 +6,7 @@
     "type": "adverb",
     "meaning": "một cách ngắn gọn, vắn tắt",
     "pronunciation": "/ˈbriːfli/",
-    "topic": "Business Communication",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -28,7 +28,11 @@
       "brief",
       "briefing"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "broadcast-verb",
@@ -37,7 +41,7 @@
     "type": "verb",
     "meaning": "phát sóng, phát thanh",
     "pronunciation": "/ˈbrɔːdkæst/",
-    "topic": "Business Communication",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -59,7 +63,11 @@
       "broadcaster",
       "broadcasting"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "clarity-noun",
@@ -90,7 +98,11 @@
       "clarify",
       "clarified"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "convey-verb",
@@ -99,7 +111,7 @@
     "type": "verb",
     "meaning": "truyền đạt, chuyển tải",
     "pronunciation": "/kənˈveɪ/",
-    "topic": "Business Communication",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -123,7 +135,11 @@
       "conveyance",
       "conveyor"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "distort-verb",
@@ -132,7 +148,7 @@
     "type": "verb",
     "meaning": "bóp méo, xuyên tạc",
     "pronunciation": "/dɪˈstɔːrt/",
-    "topic": "Business Communication",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -155,7 +171,11 @@
       "distortion",
       "distorted"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "elaborate-verb",
@@ -164,7 +184,7 @@
     "type": "verb",
     "meaning": "giải thích chi tiết, nói thêm",
     "pronunciation": "/ɪˈlæbəreɪt/",
-    "topic": "Business Communication",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -187,7 +207,11 @@
       "elaboration",
       "elaborately"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "emphasize-verb",
@@ -196,7 +220,7 @@
     "type": "verb",
     "meaning": "nhấn mạnh",
     "pronunciation": "/ˈɛmfəsaɪz/",
-    "topic": "Business Communication",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -221,7 +245,11 @@
       "emphatic",
       "emphatically"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "express-verb",
@@ -230,7 +258,7 @@
     "type": "verb",
     "meaning": "bày tỏ, biểu lộ",
     "pronunciation": "/ɪkˈsprɛs/",
-    "topic": "Business Communication",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -254,7 +282,11 @@
       "expressive",
       "expressively"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "input-noun",
@@ -263,7 +295,7 @@
     "type": "noun",
     "meaning": "ý kiến đóng góp, đầu vào",
     "pronunciation": "/ˈɪnpʊt/",
-    "topic": "Business Communication",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -285,7 +317,11 @@
     "wordFamily": [
       "input-verb"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "interact-verb",
@@ -294,7 +330,7 @@
     "type": "verb",
     "meaning": "tương tác, tiếp xúc",
     "pronunciation": "/ˌɪntərˈækt/",
-    "topic": "Business Communication",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -317,7 +353,11 @@
       "interactive",
       "interactively"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "jargon-noun",
@@ -326,7 +366,7 @@
     "type": "noun",
     "meaning": "thuật ngữ chuyên môn, biệt ngữ",
     "pronunciation": "/ˈdʒɑːrɡən/",
-    "topic": "Business Communication",
+    "topic": "Marketing & Advertising",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -344,7 +384,11 @@
       "slang"
     ],
     "wordFamily": [],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "misunderstand-verb",
@@ -353,7 +397,7 @@
     "type": "verb",
     "meaning": "hiểu lầm, hiểu sai",
     "pronunciation": "/ˌmɪsʌndərˈstænd/",
-    "topic": "Business Communication",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -375,7 +419,11 @@
       "misunderstanding",
       "misunderstood"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "negotiator-noun",
@@ -384,7 +432,7 @@
     "type": "noun",
     "meaning": "nhà đàm phán",
     "pronunciation": "/nɪˈɡoʊʃieɪtər/",
-    "topic": "Business Communication",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -407,7 +455,11 @@
       "negotiation",
       "negotiable"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "persuade-verb",
@@ -416,7 +468,7 @@
     "type": "verb",
     "meaning": "thuyết phục",
     "pronunciation": "/pərˈsweɪd/",
-    "topic": "Business Communication",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -439,7 +491,11 @@
       "persuasive",
       "persuasively"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "precise-adjective",
@@ -448,7 +504,7 @@
     "type": "adjective",
     "meaning": "chính xác, rõ ràng",
     "pronunciation": "/prɪˈsaɪs/",
-    "topic": "Business Communication",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -471,7 +527,11 @@
       "precisely",
       "precision"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "receptive-adjective",
@@ -480,7 +540,7 @@
     "type": "adjective",
     "meaning": "dễ tiếp thu, sẵn sàng lắng nghe",
     "pronunciation": "/rɪˈsɛptɪv/",
-    "topic": "Business Communication",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -503,7 +563,11 @@
       "reception",
       "receptivity"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "respondent-noun",
@@ -512,7 +576,7 @@
     "type": "noun",
     "meaning": "người trả lời, người phản hồi",
     "pronunciation": "/rɪˈspɑːndənt/",
-    "topic": "Business Communication",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -535,7 +599,11 @@
       "response",
       "responsive"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "transmit-verb",
@@ -544,7 +612,7 @@
     "type": "verb",
     "meaning": "truyền, phát tín hiệu",
     "pronunciation": "/trænzˈmɪt/",
-    "topic": "Business Communication",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -567,7 +635,11 @@
       "transmission",
       "transmitter"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "utter-verb",
@@ -576,7 +648,7 @@
     "type": "verb",
     "meaning": "thốt ra, nói ra",
     "pronunciation": "/ˈʌtər/",
-    "topic": "Business Communication",
+    "topic": "Technology & IT",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -596,7 +668,11 @@
     "wordFamily": [
       "utterance"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "verbal-adjective",
@@ -605,7 +681,7 @@
     "type": "adjective",
     "meaning": "bằng lời nói",
     "pronunciation": "/ˈvɜːrbl/",
-    "topic": "Business Communication",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -626,7 +702,11 @@
     "wordFamily": [
       "verbally"
     ],
-    "day": 11
+    "day": 11,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accessible-adjective",
@@ -635,7 +715,7 @@
     "type": "adjective",
     "meaning": "dễ hiểu, có thể tiếp cận",
     "pronunciation": "/əkˈsɛsəbl/",
-    "topic": "Business Communication",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -658,7 +738,11 @@
       "access",
       "accessibility"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "articulate-verb",
@@ -667,7 +751,7 @@
     "type": "verb",
     "meaning": "phát biểu rõ ràng, bày tỏ",
     "pronunciation": "/ɑːrˈtɪkjuleɪt/",
-    "topic": "Business Communication",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -690,7 +774,11 @@
       "articulate-adjective",
       "articulation"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "assertive-adjective",
@@ -699,7 +787,7 @@
     "type": "adjective",
     "meaning": "quả quyết, quyết đoán",
     "pronunciation": "/əˈsɜːrtɪv/",
-    "topic": "Business Communication",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -723,7 +811,11 @@
       "assertion",
       "assertively"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "attentively-adverb",
@@ -732,7 +824,7 @@
     "type": "adverb",
     "meaning": "một cách chăm chú",
     "pronunciation": "/əˈtɛntɪvli/",
-    "topic": "Business Communication",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -755,7 +847,11 @@
       "attendance",
       "attentive"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "briefing-noun",
@@ -764,7 +860,7 @@
     "type": "noun",
     "meaning": "cuộc họp ngắn, chỉ thị",
     "pronunciation": "/ˈbriːfɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -788,7 +884,11 @@
       "brief",
       "briefly"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "channel-noun",
@@ -797,7 +897,7 @@
     "type": "noun",
     "meaning": "kênh truyền thông, kênh dẫn",
     "pronunciation": "/ˈtʃænl/",
-    "topic": "Business Communication",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -819,7 +919,11 @@
     "wordFamily": [
       "channel-verb"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "circular-noun",
@@ -828,7 +932,7 @@
     "type": "noun",
     "meaning": "thông báo gửi rộng rãi, thông tri",
     "pronunciation": "/ˈsɜːrkjələr/",
-    "topic": "Business Communication",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -851,7 +955,11 @@
       "circular-adjective",
       "circularize"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "comprehensible-adjective",
@@ -860,7 +968,7 @@
     "type": "adjective",
     "meaning": "có thể hiểu được",
     "pronunciation": "/ˌkɑːmprɪˈhensəbl/",
-    "topic": "Business Communication",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -884,7 +992,11 @@
       "comprehension",
       "comprehensibly"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "confidential-adjective",
@@ -893,7 +1005,7 @@
     "type": "adjective",
     "meaning": "bảo mật, bí mật",
     "pronunciation": "/ˌkɑːnfɪˈdenʃl/",
-    "topic": "Business Communication",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -918,7 +1030,11 @@
       "confidentiality",
       "confidentially"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "diplomatic-adjective",
@@ -927,7 +1043,7 @@
     "type": "adjective",
     "meaning": "khéo léo, mang tính ngoại giao",
     "pronunciation": "/ˌdɪpləˈmætɪk/",
-    "topic": "Business Communication",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -951,7 +1067,11 @@
       "diplomacy",
       "diplomatically"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "disclose-verb",
@@ -960,7 +1080,7 @@
     "type": "verb",
     "meaning": "tiết lộ, công bố",
     "pronunciation": "/dɪsˈkloʊz/",
-    "topic": "Business Communication",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -983,7 +1103,11 @@
       "disclosure",
       "disclosed"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "discrepancy-noun",
@@ -992,7 +1116,7 @@
     "type": "noun",
     "meaning": "sự khác biệt, sự không nhất quán",
     "pronunciation": "/dɪˈskrɛpənsi/",
-    "topic": "Business Communication",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1015,7 +1139,11 @@
     "wordFamily": [
       "discrepant"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "draft-noun",
@@ -1024,7 +1152,7 @@
     "type": "noun",
     "meaning": "bản phác thảo, bản nháp",
     "pronunciation": "/dræft/",
-    "topic": "Business Communication",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1048,7 +1176,11 @@
       "draft-verb",
       "drafted"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "editorial-noun",
@@ -1057,7 +1189,7 @@
     "type": "noun",
     "meaning": "bài xã luận",
     "pronunciation": "/ˌɛdɪˈtɔːriəl/",
-    "topic": "Business Communication",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1079,7 +1211,11 @@
       "editor",
       "editorialist"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "enclosure-noun",
@@ -1088,7 +1224,7 @@
     "type": "noun",
     "meaning": "tài liệu đính kèm (trong thư)",
     "pronunciation": "/ɪnˈkloʊʒər/",
-    "topic": "Business Communication",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1109,7 +1245,11 @@
       "enclose",
       "enclosed"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "inquiring-adjective",
@@ -1118,7 +1258,7 @@
     "type": "adjective",
     "meaning": "tò mò, tìm tòi học hỏi",
     "pronunciation": "/ɪnˈkwaɪərɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1141,7 +1281,11 @@
       "inquiry",
       "inquiringly"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "interactive-adjective",
@@ -1150,7 +1294,7 @@
     "type": "adjective",
     "meaning": "mang tính tương tác",
     "pronunciation": "/ˌɪntərˈæktɪv/",
-    "topic": "Business Communication",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1173,7 +1317,11 @@
       "interaction",
       "interactively"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "interpreting-noun",
@@ -1182,7 +1330,7 @@
     "type": "noun",
     "meaning": "việc phiên dịch (nói)",
     "pronunciation": "/ɪnˈtɜːrprɪtɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1205,7 +1353,11 @@
       "interpreter",
       "interpretation"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "misinterpretation-noun",
@@ -1214,7 +1366,7 @@
     "type": "noun",
     "meaning": "sự hiểu sai, diễn giải sai",
     "pronunciation": "/ˌmɪsɪnˌtɜːrprɪˈteɪʃn/",
-    "topic": "Business Communication",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1237,7 +1389,11 @@
       "misinterpret",
       "interpretative"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "notification-noun",
@@ -1246,7 +1402,7 @@
     "type": "noun",
     "meaning": "thông báo, sự thông báo",
     "pronunciation": "/ˌnoʊtɪfɪˈkeɪʃn/",
-    "topic": "Business Communication",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1271,7 +1427,11 @@
       "notified",
       "notifying"
     ],
-    "day": 12
+    "day": 12,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "assert-verb",
@@ -1280,7 +1440,7 @@
     "type": "verb",
     "meaning": "khẳng định, quả quyết",
     "pronunciation": "/əˈsɜːrt/",
-    "topic": "Business Communication",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1304,7 +1464,11 @@
       "assertive",
       "assertively"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "brevity-noun",
@@ -1313,7 +1477,7 @@
     "type": "noun",
     "meaning": "sự ngắn gọn, cô đọng",
     "pronunciation": "/ˈbrevəti/",
-    "topic": "Business Communication",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1334,7 +1498,11 @@
       "brief",
       "briefly"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "conveyance-noun",
@@ -1364,7 +1532,11 @@
       "convey",
       "conveyor"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "newsletter-noun",
@@ -1373,7 +1545,7 @@
     "type": "noun",
     "meaning": "bản tin nội bộ, thư tin tức",
     "pronunciation": "/ˈnuːzletər/",
-    "topic": "Business Communication",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1392,7 +1564,11 @@
       "update"
     ],
     "wordFamily": [],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "oral-adjective",
@@ -1401,7 +1577,7 @@
     "type": "adjective",
     "meaning": "bằng lời nói, bằng miệng",
     "pronunciation": "/ˈɔːrəl/",
-    "topic": "Business Communication",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1422,7 +1598,11 @@
     "wordFamily": [
       "orally"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "persuasion-noun",
@@ -1431,7 +1611,7 @@
     "type": "noun",
     "meaning": "sự thuyết phục",
     "pronunciation": "/pərˈsweɪʒn/",
-    "topic": "Business Communication",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1454,7 +1634,11 @@
       "persuasive",
       "persuasively"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "postage-noun",
@@ -1463,7 +1647,7 @@
     "type": "noun",
     "meaning": "cước phí bưu điện, phí gửi thư",
     "pronunciation": "/ˈpoʊstɪdʒ/",
-    "topic": "Business Communication",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1482,7 +1666,11 @@
       "post",
       "postal"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "publicity-noun",
@@ -1491,7 +1679,7 @@
     "type": "noun",
     "meaning": "sự công khai, sự quảng cáo",
     "pronunciation": "/pʌbˈlɪsəti/",
-    "topic": "Business Communication",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1515,7 +1703,11 @@
       "publicize",
       "publicly"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "query-noun",
@@ -1524,7 +1716,7 @@
     "type": "noun",
     "meaning": "thắc mắc, câu hỏi",
     "pronunciation": "/ˈkwɪri/",
-    "topic": "Business Communication",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1547,7 +1739,11 @@
     "wordFamily": [
       "query-verb"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "recipient-noun",
@@ -1556,7 +1752,7 @@
     "type": "noun",
     "meaning": "người nhận",
     "pronunciation": "/rɪˈsɪpiənt/",
-    "topic": "Business Communication",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1579,7 +1775,11 @@
       "receptive",
       "receipt"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "retrieve-verb",
@@ -1588,7 +1788,7 @@
     "type": "verb",
     "meaning": "truy xuất, lấy lại (dữ liệu)",
     "pronunciation": "/rɪˈtriːv/",
-    "topic": "Business Communication",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1611,7 +1811,11 @@
       "retrieval",
       "retriever"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "rumor-noun",
@@ -1620,7 +1824,7 @@
     "type": "noun",
     "meaning": "tin đồn",
     "pronunciation": "/ˈruːmər/",
-    "topic": "Business Communication",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1641,7 +1845,11 @@
     "wordFamily": [
       "rumor-verb"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "sensory-adjective",
@@ -1650,7 +1858,7 @@
     "type": "adjective",
     "meaning": "thuộc giác quan, cảm giác",
     "pronunciation": "/ˈsensəri/",
-    "topic": "Business Communication",
+    "topic": "Accounting & Auditing",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1669,7 +1877,11 @@
       "sensitive",
       "sensation"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "telephony-noun",
@@ -1678,7 +1890,7 @@
     "type": "noun",
     "meaning": "hệ thống điện thoại, công nghệ điện thoại",
     "pronunciation": "/təˈlɛfəni/",
-    "topic": "Business Communication",
+    "topic": "Contracts & Legal",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1695,7 +1907,11 @@
     "wordFamily": [
       "telephone"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "transmittal-noun",
@@ -1704,7 +1920,7 @@
     "type": "noun",
     "meaning": "sự truyền gửi, sự chuyển giao",
     "pronunciation": "/trænzˈmɪtl/",
-    "topic": "Business Communication",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1725,7 +1941,11 @@
       "transmit",
       "transmission"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "unsolicited-adjective",
@@ -1734,7 +1954,7 @@
     "type": "adjective",
     "meaning": "không yêu cầu, tự gửi đến",
     "pronunciation": "/ˌʌnsəˈlɪsɪtɪd/",
-    "topic": "Business Communication",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1757,7 +1977,11 @@
       "solicit",
       "solicitation"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "utterance-noun",
@@ -1766,7 +1990,7 @@
     "type": "noun",
     "meaning": "lời phát biểu, lời nói",
     "pronunciation": "/ˈʌtərəns/",
-    "topic": "Business Communication",
+    "topic": "Manufacturing & Production",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1788,7 +2012,11 @@
       "utter",
       "utterly"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "vocal-adjective",
@@ -1797,7 +2025,7 @@
     "type": "adjective",
     "meaning": "thuộc giọng nói, phát biểu mạnh mẽ",
     "pronunciation": "/ˈvoʊkl/",
-    "topic": "Business Communication",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1820,7 +2048,11 @@
       "vocalize",
       "vocally"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "voicemail-noun",
@@ -1829,7 +2061,7 @@
     "type": "noun",
     "meaning": "thư thoại",
     "pronunciation": "/ˈvɔɪsmeɪl/",
-    "topic": "Business Communication",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1845,7 +2077,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "written-adjective",
@@ -1854,7 +2090,7 @@
     "type": "adjective",
     "meaning": "bằng văn bản, dưới dạng viết",
     "pronunciation": "/ˈrɪtn/",
-    "topic": "Business Communication",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1878,7 +2114,11 @@
       "writer",
       "writing"
     ],
-    "day": 13
+    "day": 13,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "announcement-noun",
@@ -1887,7 +2127,7 @@
     "type": "noun",
     "meaning": "sự thông báo, thông điệp thông báo",
     "pronunciation": "/əˈnaʊnsmənt/",
-    "topic": "Business Communication",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1911,7 +2151,11 @@
       "announce",
       "announcer"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "circularize-verb",
@@ -1920,7 +2164,7 @@
     "type": "verb",
     "meaning": "gửi thông báo rộng rãi, phát tờ rơi",
     "pronunciation": "/ˈsɜːrkjələraɪz/",
-    "topic": "Business Communication",
+    "topic": "Health & Safety",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1941,7 +2185,11 @@
       "circular",
       "circularization"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "communique-noun",
@@ -1950,7 +2198,7 @@
     "type": "noun",
     "meaning": "thông cáo chính thức",
     "pronunciation": "/kəˈmjuːnɪkeɪ/",
-    "topic": "Business Communication",
+    "topic": "Training & Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1969,7 +2217,11 @@
       "release"
     ],
     "wordFamily": [],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "correspond-verb",
@@ -1978,7 +2230,7 @@
     "type": "verb",
     "meaning": "trao đổi thư từ, tương thích",
     "pronunciation": "/ˌcɔːrəˈspɑːnd/",
-    "topic": "Business Communication",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2002,7 +2254,11 @@
       "correspondent",
       "correspondingly"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "dispatch-verb",
@@ -2011,7 +2267,7 @@
     "type": "verb",
     "meaning": "gửi đi, phái đi",
     "pronunciation": "/dɪˈspætʃ/",
-    "topic": "Business Communication",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2035,7 +2291,11 @@
       "dispatch-noun",
       "dispatcher"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "expressive-adjective",
@@ -2044,7 +2304,7 @@
     "type": "adjective",
     "meaning": "có sức diễn cảm, biểu cảm",
     "pronunciation": "/ɪkˈsprɛsɪv/",
-    "topic": "Business Communication",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2068,7 +2328,11 @@
       "expression",
       "expressively"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "informant-noun",
@@ -2077,7 +2341,7 @@
     "type": "noun",
     "meaning": "người cung cấp thông tin",
     "pronunciation": "/inˈfɔːrmənt/",
-    "topic": "Business Communication",
+    "topic": "Environment & Sustainability",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2099,7 +2363,11 @@
       "information",
       "informative"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "intimacy-noun",
@@ -2108,7 +2376,7 @@
     "type": "noun",
     "meaning": "sự thân mật, sự gần gũi",
     "pronunciation": "/ˈɪntɪməsi/",
-    "topic": "Business Communication",
+    "topic": "Negotiations & Deals",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2128,7 +2396,11 @@
       "intimate",
       "intimately"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "linkage-noun",
@@ -2137,7 +2409,7 @@
     "type": "noun",
     "meaning": "sự liên kết, mối liên hệ",
     "pronunciation": "/ˈlɪŋkɪdʒ/",
-    "topic": "Business Communication",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2160,7 +2432,11 @@
       "link",
       "linked"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "memorandum-noun",
@@ -2169,7 +2445,7 @@
     "type": "noun",
     "meaning": "bản ghi nhớ, thông báo nội bộ",
     "pronunciation": "/ˌmɛməˈrændəm/",
-    "topic": "Business Communication",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2191,7 +2467,11 @@
     "wordFamily": [
       "memo"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "misleading-adjective",
@@ -2200,7 +2480,7 @@
     "type": "adjective",
     "meaning": "gây hiểu lầm, sai lệch",
     "pronunciation": "/ˌmɪsˈliːdɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2224,7 +2504,11 @@
       "mislead",
       "misleadingly"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "notifying-adjective",
@@ -2233,7 +2517,7 @@
     "type": "adjective",
     "meaning": "mang tính thông báo, báo tin",
     "pronunciation": "/ˈnoʊtɪfaɪɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2254,7 +2538,11 @@
       "notification",
       "notified"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "outspoken-adjective",
@@ -2263,7 +2551,7 @@
     "type": "adjective",
     "meaning": "thẳng thắn, trực tính",
     "pronunciation": "/aʊtˈspoʊkən/",
-    "topic": "Business Communication",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2286,7 +2574,11 @@
       "speak",
       "outspokenness"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "publicize-verb",
@@ -2295,7 +2587,7 @@
     "type": "verb",
     "meaning": "công bố, quảng bá",
     "pronunciation": "/ˈpʌblɪsaɪz/",
-    "topic": "Business Communication",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2319,7 +2611,11 @@
       "publicity",
       "publicly"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "readable-adjective",
@@ -2328,7 +2624,7 @@
     "type": "adjective",
     "meaning": "dễ đọc, đáng đọc",
     "pronunciation": "/ˈriːdəbl/",
-    "topic": "Business Communication",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2350,7 +2646,11 @@
       "read",
       "readability"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "retrieval-noun",
@@ -2359,7 +2659,7 @@
     "type": "noun",
     "meaning": "sự truy xuất, sự lấy lại (dữ liệu)",
     "pronunciation": "/rɪˈtriːvl/",
-    "topic": "Business Communication",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2381,7 +2681,11 @@
       "retrieve",
       "retriever"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "signify-verb",
@@ -2390,7 +2694,7 @@
     "type": "verb",
     "meaning": "biểu thị, báo hiệu, có nghĩa là",
     "pronunciation": "/ˈsɪɡnɪfaɪ/",
-    "topic": "Business Communication",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2414,7 +2718,11 @@
       "significant",
       "significance"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "unambiguous-adjective",
@@ -2423,7 +2731,7 @@
     "type": "adjective",
     "meaning": "rõ ràng, không mơ hồ",
     "pronunciation": "/ˌʌnæmˈbɪɡjuəs/",
-    "topic": "Business Communication",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2448,7 +2756,11 @@
       "ambiguity",
       "unambiguously"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "verbally-adverb",
@@ -2457,7 +2769,7 @@
     "type": "adverb",
     "meaning": "bằng lời nói, bằng miệng",
     "pronunciation": "/ˈvɜːrbəli/",
-    "topic": "Business Communication",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2478,7 +2790,11 @@
       "verbal",
       "verbalize"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "whisper-verb",
@@ -2487,7 +2803,7 @@
     "type": "verb",
     "meaning": "thì thầm, nói nhỏ",
     "pronunciation": "/ˈwɪspər/",
-    "topic": "Business Communication",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "low",
     "level": "easy",
     "partTags": [
@@ -2508,7 +2824,11 @@
       "whisper-noun",
       "whispering"
     ],
-    "day": 14
+    "day": 14,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "acknowledgment-noun",
@@ -2517,7 +2837,7 @@
     "type": "noun",
     "meaning": "sự xác nhận, sự công nhận",
     "pronunciation": "/əkˈnɑːlɪdʒmənt/",
-    "topic": "Business Communication",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2540,7 +2860,11 @@
       "acknowledge",
       "acknowledged"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "advocate-verb",
@@ -2549,7 +2873,7 @@
     "type": "verb",
     "meaning": "ủng hộ, tán thành",
     "pronunciation": "/ˈædvəkeɪt/",
-    "topic": "Business Communication",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2573,7 +2897,11 @@
       "advocate-noun",
       "advocacy"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "clarification-noun",
@@ -2605,7 +2933,11 @@
       "clarify",
       "clarity"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "confidentiality-noun",
@@ -2614,7 +2946,7 @@
     "type": "noun",
     "meaning": "sự bảo mật, tính bảo mật",
     "pronunciation": "/ˌkɑːnfɪˌdenʃiˈæləti/",
-    "topic": "Business Communication",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2637,7 +2969,11 @@
       "confidential",
       "confidentially"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "conversational-adjective",
@@ -2646,7 +2982,7 @@
     "type": "adjective",
     "meaning": "thuộc đàm thoại, thân mật",
     "pronunciation": "/ˌkɑːnvərˈseɪʃənl/",
-    "topic": "Business Communication",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2669,7 +3005,11 @@
       "conversation",
       "conversationally"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "disclaimer-noun",
@@ -2678,7 +3018,7 @@
     "type": "noun",
     "meaning": "sự khước từ trách nhiệm, điều khoản miễn trừ",
     "pronunciation": "/dɪsˈkleɪmər/",
-    "topic": "Business Communication",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2701,7 +3041,11 @@
       "claim",
       "disclaim"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "editorialist-noun",
@@ -2710,7 +3054,7 @@
     "type": "noun",
     "meaning": "người viết bài xã luận",
     "pronunciation": "/ˌɛdɪˈtɔːriəlɪst/",
-    "topic": "Business Communication",
+    "topic": "Hotels & Accommodation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2731,7 +3075,11 @@
       "editor",
       "editorial"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "exaggerate-verb",
@@ -2740,7 +3088,7 @@
     "type": "verb",
     "meaning": "phóng đại, cường điệu",
     "pronunciation": "/ɪɡˈzædʒəreɪt/",
-    "topic": "Business Communication",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2763,7 +3111,11 @@
       "exaggeration",
       "exaggerated"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "informative-adjective",
@@ -2772,7 +3124,7 @@
     "type": "adjective",
     "meaning": "cung cấp nhiều thông tin bổ ích",
     "pronunciation": "/ɪnˈfɔːrmətɪv/",
-    "topic": "Business Communication",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2797,7 +3149,11 @@
       "information",
       "informant"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "interpersonal-adjective",
@@ -2806,7 +3162,7 @@
     "type": "adjective",
     "meaning": "giữa các cá nhân với nhau",
     "pronunciation": "/ˌɪntərˈpɜːrsənl/",
-    "topic": "Business Communication",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2829,7 +3185,11 @@
       "personality",
       "personally"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "liaison-noun",
@@ -2838,7 +3198,7 @@
     "type": "noun",
     "meaning": "sự liên lạc, người giữ mối liên hệ",
     "pronunciation": "/liˈeɪzɑːn/",
-    "topic": "Business Communication",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2860,7 +3220,11 @@
     "wordFamily": [
       "liaise"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "misunderstanding-noun",
@@ -2869,7 +3233,7 @@
     "type": "noun",
     "meaning": "sự hiểu lầm",
     "pronunciation": "/ˌmɪsʌndərˈstændɪŋ/",
-    "topic": "Business Communication",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2891,7 +3255,11 @@
       "misunderstand",
       "misunderstood"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "official-adjective",
@@ -2900,7 +3268,7 @@
     "type": "adjective",
     "meaning": "chính thức",
     "pronunciation": "/əˈfɪʃl/",
-    "topic": "Business Communication",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2925,7 +3293,11 @@
       "officially",
       "officer"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "persuasive-adjective",
@@ -2934,7 +3306,7 @@
     "type": "adjective",
     "meaning": "mang tính thuyết phục, dễ thuyết phục",
     "pronunciation": "/pərˈsweɪsɪv/",
-    "topic": "Business Communication",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2959,7 +3331,11 @@
       "persuasion",
       "persuasively"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "rapport-noun",
@@ -2968,7 +3344,7 @@
     "type": "noun",
     "meaning": "mối quan hệ tốt đẹp, sự hòa hợp",
     "pronunciation": "/ræˈpɔːr/",
-    "topic": "Business Communication",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2989,7 +3365,11 @@
       "affinity"
     ],
     "wordFamily": [],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "remark-noun",
@@ -2998,7 +3378,7 @@
     "type": "noun",
     "meaning": "lời nhận xét, lời phát biểu",
     "pronunciation": "/rɪˈmɑːrk/",
-    "topic": "Business Communication",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3023,7 +3403,11 @@
       "remarkable",
       "remarkably"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "secretary-noun",
@@ -3032,7 +3416,7 @@
     "type": "noun",
     "meaning": "thư ký",
     "pronunciation": "/ˈsɛkrəteri/",
-    "topic": "Business Communication",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3053,7 +3437,11 @@
     "wordFamily": [
       "secretarial"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "speculate-verb",
@@ -3062,7 +3450,7 @@
     "type": "verb",
     "meaning": "suy đoán, đầu cơ",
     "pronunciation": "/ˈspɛkjuleɪt/",
-    "topic": "Business Communication",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -3087,7 +3475,11 @@
       "speculative",
       "speculator"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "unclear-adjective",
@@ -3096,7 +3488,7 @@
     "type": "adjective",
     "meaning": "không rõ ràng",
     "pronunciation": "/ʌnˈklɪr/",
-    "topic": "Business Communication",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3119,7 +3511,11 @@
       "clear",
       "clearly"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "vocally-adverb",
@@ -3128,7 +3524,7 @@
     "type": "adverb",
     "meaning": "bằng lời nói, bằng tiếng nói lớn",
     "pronunciation": "/ˈvoʊkəli/",
-    "topic": "Business Communication",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3150,6 +3546,10 @@
       "vocal",
       "vocalize"
     ],
-    "day": 15
+    "day": 15,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

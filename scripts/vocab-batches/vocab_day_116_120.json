@@ -1,71 +1,80 @@
 [
   {
-    "id": "brand-advocacy-phrase",
-    "word": "brand advocacy",
-    "baseWord": "brand",
+    "id": "weekly-accommodation-collocation",
+    "word": "weekly accommodation",
+    "baseWord": "accommodation",
     "type": "phrase",
-    "meaning": "brand advocacy; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly accommodation",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the brand advocacy before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand advocacy trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly accommodation vao ho so truoc thu Sau.",
     "collocations": [
-      "brand advocacy",
-      "brand advocacy review",
-      "brand advocacy process"
+      "weekly accommodation",
+      "weekly accommodation review",
+      "weekly accommodation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "brand"
+      "weekly",
+      "accommodation"
     ],
-    "day": 116
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "brand-ambassador-phrase",
-    "word": "brand ambassador",
-    "baseWord": "brand",
+    "id": "weekly-application-collocation",
+    "word": "weekly application",
+    "baseWord": "application",
     "type": "phrase",
-    "meaning": "brand ambassador; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly application",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Health & Safety",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the brand ambassador before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand ambassador trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly application in the file before Friday.",
+    "exampleVi": "Vui long dua weekly application vao ho so truoc thu Sau.",
     "collocations": [
-      "brand ambassador",
-      "brand ambassador review",
-      "brand ambassador process"
+      "weekly application",
+      "weekly application review",
+      "weekly application deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "brand"
+      "weekly",
+      "application"
     ],
-    "day": 116
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "brand-awareness-phrase",
-    "word": "brand awareness",
-    "baseWord": "brand",
+    "id": "weekly-candidate-collocation",
+    "word": "weekly candidate",
+    "baseWord": "candidate",
     "type": "phrase",
-    "meaning": "brand awareness; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly candidate",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -73,2260 +82,2468 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the brand awareness before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand awareness trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly candidate in the file before Friday.",
+    "exampleVi": "Vui long dua weekly candidate vao ho so truoc thu Sau.",
     "collocations": [
-      "brand awareness",
-      "brand awareness review",
-      "brand awareness process"
+      "weekly candidate",
+      "weekly candidate review",
+      "weekly candidate deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "brand"
+      "weekly",
+      "candidate"
     ],
-    "day": 116
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "brand-consistency-phrase",
-    "word": "brand consistency",
-    "baseWord": "brand",
+    "id": "weekly-complaint-collocation",
+    "word": "weekly complaint",
+    "baseWord": "complaint",
     "type": "phrase",
-    "meaning": "brand consistency; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly complaint",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand consistency before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand consistency trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand consistency",
-      "brand consistency review",
-      "brand consistency process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-differentiation-phrase",
-    "word": "brand differentiation",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand differentiation; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the brand differentiation before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand differentiation trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly complaint in the file before Friday.",
+    "exampleVi": "Vui long dua weekly complaint vao ho so truoc thu Sau.",
     "collocations": [
-      "brand differentiation",
-      "brand differentiation review",
-      "brand differentiation process"
+      "weekly complaint",
+      "weekly complaint review",
+      "weekly complaint deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "brand"
+      "weekly",
+      "complaint"
     ],
-    "day": 116
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "brand-extension-phrase",
-    "word": "brand extension",
-    "baseWord": "brand",
+    "id": "weekly-conference-collocation",
+    "word": "weekly conference",
+    "baseWord": "conference",
     "type": "phrase",
-    "meaning": "brand extension; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly conference",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly conference in the file before Friday.",
+    "exampleVi": "Vui long dua weekly conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly conference",
+      "weekly conference review",
+      "weekly conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "conference"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "weekly-evaluation-collocation",
+    "word": "weekly evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly evaluation",
+    "pronunciation": "",
+    "topic": "Research & Reports",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand extension before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand extension trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand extension",
-      "brand extension review",
-      "brand extension process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-guideline-phrase",
-    "word": "brand guideline",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand guideline; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the brand guideline before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand guideline trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly evaluation vao ho so truoc thu Sau.",
     "collocations": [
-      "brand guideline",
-      "brand guideline review",
-      "brand guideline process"
+      "weekly evaluation",
+      "weekly evaluation review",
+      "weekly evaluation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "brand"
+      "weekly",
+      "evaluation"
     ],
-    "day": 116
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "brand-identity-phrase",
-    "word": "brand identity",
-    "baseWord": "brand",
+    "id": "weekly-guideline-collocation",
+    "word": "weekly guideline",
+    "baseWord": "guideline",
     "type": "phrase",
-    "meaning": "brand identity; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly guideline",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand identity before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand identity trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand identity",
-      "brand identity review",
-      "brand identity process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-loyalty-phrase",
-    "word": "brand loyalty",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand loyalty; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand loyalty before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand loyalty trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand loyalty",
-      "brand loyalty review",
-      "brand loyalty process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-narrative-phrase",
-    "word": "brand narrative",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand narrative; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand narrative before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand narrative trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand narrative",
-      "brand narrative review",
-      "brand narrative process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-perception-phrase",
-    "word": "brand perception",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand perception; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand perception before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand perception trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand perception",
-      "brand perception review",
-      "brand perception process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-portfolio-phrase",
-    "word": "brand portfolio",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand portfolio; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand portfolio before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand portfolio trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand portfolio",
-      "brand portfolio review",
-      "brand portfolio process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-positioning-phrase",
-    "word": "brand positioning",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand positioning; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand positioning before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand positioning trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand positioning",
-      "brand positioning review",
-      "brand positioning process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-promise-phrase",
-    "word": "brand promise",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand promise; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand promise before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand promise trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand promise",
-      "brand promise review",
-      "brand promise process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-recall-phrase",
-    "word": "brand recall",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand recall; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand recall before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand recall trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand recall",
-      "brand recall review",
-      "brand recall process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-recognition-phrase",
-    "word": "brand recognition",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand recognition; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand recognition before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand recognition trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand recognition",
-      "brand recognition review",
-      "brand recognition process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-refresh-phrase",
-    "word": "brand refresh",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand refresh; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand refresh before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand refresh trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand refresh",
-      "brand refresh review",
-      "brand refresh process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-reputation-phrase",
-    "word": "brand reputation",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand reputation; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand reputation before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand reputation trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand reputation",
-      "brand reputation review",
-      "brand reputation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-strategy-phrase",
-    "word": "brand strategy",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand strategy; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand strategy before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand strategy trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand strategy",
-      "brand strategy review",
-      "brand strategy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "brand-voice-phrase",
-    "word": "brand voice",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand voice; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand voice before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand voice trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand voice",
-      "brand voice review",
-      "brand voice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 116
-  },
-  {
-    "id": "audience-research-phrase",
-    "word": "audience research",
-    "baseWord": "audience",
-    "type": "phrase",
-    "meaning": "audience research; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the audience research before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét audience research trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly guideline in the file before Friday.",
+    "exampleVi": "Vui long dua weekly guideline vao ho so truoc thu Sau.",
     "collocations": [
-      "audience research",
-      "audience research review",
-      "audience research process"
+      "weekly guideline",
+      "weekly guideline review",
+      "weekly guideline deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "audience"
+      "weekly",
+      "guideline"
     ],
-    "day": 117
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "buyer-persona-phrase",
-    "word": "buyer persona",
-    "baseWord": "buyer",
+    "id": "weekly-interview-collocation",
+    "word": "weekly interview",
+    "baseWord": "interview",
     "type": "phrase",
-    "meaning": "buyer persona; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly interview",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly interview in the file before Friday.",
+    "exampleVi": "Vui long dua weekly interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly interview",
+      "weekly interview review",
+      "weekly interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "interview"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "weekly-itinerary-collocation",
+    "word": "weekly itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly itinerary",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua weekly itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly itinerary",
+      "weekly itinerary review",
+      "weekly itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "itinerary"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "weekly-orientation-collocation",
+    "word": "weekly orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly orientation",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the buyer persona before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét buyer persona trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly orientation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly orientation vao ho so truoc thu Sau.",
     "collocations": [
-      "buyer persona",
-      "buyer persona review",
-      "buyer persona process"
+      "weekly orientation",
+      "weekly orientation review",
+      "weekly orientation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "buyer"
+      "weekly",
+      "orientation"
     ],
-    "day": 117
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "campaign-objective-phrase",
-    "word": "campaign objective",
+    "id": "weekly-performance-collocation",
+    "word": "weekly performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly performance",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly performance in the file before Friday.",
+    "exampleVi": "Vui long dua weekly performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly performance",
+      "weekly performance review",
+      "weekly performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "performance"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "weekly-policy-collocation",
+    "word": "weekly policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly policy",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly policy in the file before Friday.",
+    "exampleVi": "Vui long dua weekly policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly policy",
+      "weekly policy review",
+      "weekly policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "policy"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "weekly-presentation-collocation",
+    "word": "weekly presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly presentation",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly presentation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly presentation",
+      "weekly presentation review",
+      "weekly presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "presentation"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "weekly-procedure-collocation",
+    "word": "weekly procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly procedure",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly procedure in the file before Friday.",
+    "exampleVi": "Vui long dua weekly procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly procedure",
+      "weekly procedure review",
+      "weekly procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "procedure"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "weekly-refund-collocation",
+    "word": "weekly refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly refund",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly refund in the file before Friday.",
+    "exampleVi": "Vui long dua weekly refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly refund",
+      "weekly refund review",
+      "weekly refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "refund"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "weekly-representative-collocation",
+    "word": "weekly representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly representative",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly representative in the file before Friday.",
+    "exampleVi": "Vui long dua weekly representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly representative",
+      "weekly representative review",
+      "weekly representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "representative"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "weekly-reservation-collocation",
+    "word": "weekly reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly reservation",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly reservation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly reservation",
+      "weekly reservation review",
+      "weekly reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "reservation"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "weekly-training-collocation",
+    "word": "weekly training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly training",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly training in the file before Friday.",
+    "exampleVi": "Vui long dua weekly training vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly training",
+      "weekly training review",
+      "weekly training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "training"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "weekly-venue-collocation",
+    "word": "weekly venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly venue",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly venue in the file before Friday.",
+    "exampleVi": "Vui long dua weekly venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly venue",
+      "weekly venue review",
+      "weekly venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "venue"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "weekly-warranty-collocation",
+    "word": "weekly warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly warranty",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly warranty in the file before Friday.",
+    "exampleVi": "Vui long dua weekly warranty vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly warranty",
+      "weekly warranty review",
+      "weekly warranty deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "warranty"
+    ],
+    "day": 116,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "weekly-advertisement-collocation",
+    "word": "weekly advertisement",
+    "baseWord": "advertisement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly advertisement",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua weekly advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly advertisement",
+      "weekly advertisement review",
+      "weekly advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "advertisement"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "weekly-brochure-collocation",
+    "word": "weekly brochure",
+    "baseWord": "brochure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly brochure",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly brochure in the file before Friday.",
+    "exampleVi": "Vui long dua weekly brochure vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly brochure",
+      "weekly brochure review",
+      "weekly brochure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "brochure"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "weekly-campaign-collocation",
+    "word": "weekly campaign",
     "baseWord": "campaign",
     "type": "phrase",
-    "meaning": "campaign objective; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly campaign",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the campaign objective before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét campaign objective trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly campaign in the file before Friday.",
+    "exampleVi": "Vui long dua weekly campaign vao ho so truoc thu Sau.",
     "collocations": [
-      "campaign objective",
-      "campaign objective review",
-      "campaign objective process"
+      "weekly campaign",
+      "weekly campaign review",
+      "weekly campaign deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "weekly",
       "campaign"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "competitive-positioning-phrase",
-    "word": "competitive positioning",
-    "baseWord": "competitive",
+    "id": "weekly-catalog-collocation",
+    "word": "weekly catalog",
+    "baseWord": "catalog",
     "type": "phrase",
-    "meaning": "competitive positioning; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly catalog",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Human Resources",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the competitive positioning before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét competitive positioning trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly catalog in the file before Friday.",
+    "exampleVi": "Vui long dua weekly catalog vao ho so truoc thu Sau.",
     "collocations": [
-      "competitive positioning",
-      "competitive positioning review",
-      "competitive positioning process"
+      "weekly catalog",
+      "weekly catalog review",
+      "weekly catalog deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "competitive"
+      "weekly",
+      "catalog"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "content-calendar-phrase",
-    "word": "content calendar",
-    "baseWord": "content",
+    "id": "weekly-claim-collocation",
+    "word": "weekly claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "content calendar; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly claim",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the content calendar before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét content calendar trước khi triển khai chiến dịch.",
-    "collocations": [
-      "content calendar",
-      "content calendar review",
-      "content calendar process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "content"
-    ],
-    "day": 117
-  },
-  {
-    "id": "conversion-rate-phrase",
-    "word": "conversion rate",
-    "baseWord": "conversion",
-    "type": "phrase",
-    "meaning": "conversion rate; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the conversion rate before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét conversion rate trước khi triển khai chiến dịch.",
-    "collocations": [
-      "conversion rate",
-      "conversion rate review",
-      "conversion rate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "conversion"
-    ],
-    "day": 117
-  },
-  {
-    "id": "customer-acquisition-phrase",
-    "word": "customer acquisition",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer acquisition; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the customer acquisition before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer acquisition trước khi triển khai chiến dịch.",
-    "collocations": [
-      "customer acquisition",
-      "customer acquisition review",
-      "customer acquisition process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 117
-  },
-  {
-    "id": "customer-insight-phrase",
-    "word": "customer insight",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer insight; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the customer insight before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer insight trước khi triển khai chiến dịch.",
-    "collocations": [
-      "customer insight",
-      "customer insight review",
-      "customer insight process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 117
-  },
-  {
-    "id": "demand-generation-phrase",
-    "word": "demand generation",
-    "baseWord": "demand",
-    "type": "phrase",
-    "meaning": "demand generation; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the demand generation before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét demand generation trước khi triển khai chiến dịch.",
-    "collocations": [
-      "demand generation",
-      "demand generation review",
-      "demand generation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "demand"
-    ],
-    "day": 117
-  },
-  {
-    "id": "lead-generation-phrase",
-    "word": "lead generation",
-    "baseWord": "lead",
-    "type": "phrase",
-    "meaning": "lead generation; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the lead generation before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét lead generation trước khi triển khai chiến dịch.",
-    "collocations": [
-      "lead generation",
-      "lead generation review",
-      "lead generation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "lead"
-    ],
-    "day": 117
-  },
-  {
-    "id": "market-penetration-phrase",
-    "word": "market penetration",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "market penetration; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the market penetration before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét market penetration trước khi triển khai chiến dịch.",
-    "collocations": [
-      "market penetration",
-      "market penetration review",
-      "market penetration process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "market"
-    ],
-    "day": 117
-  },
-  {
-    "id": "market-segment-phrase",
-    "word": "market segment",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "market segment; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the market segment before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét market segment trước khi triển khai chiến dịch.",
-    "collocations": [
-      "market segment",
-      "market segment review",
-      "market segment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "market"
-    ],
-    "day": 117
-  },
-  {
-    "id": "media-channel-phrase",
-    "word": "media channel",
-    "baseWord": "media",
-    "type": "phrase",
-    "meaning": "media channel; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the media channel before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét media channel trước khi triển khai chiến dịch.",
-    "collocations": [
-      "media channel",
-      "media channel review",
-      "media channel process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "media"
-    ],
-    "day": 117
-  },
-  {
-    "id": "message-testing-phrase",
-    "word": "message testing",
-    "baseWord": "message",
-    "type": "phrase",
-    "meaning": "message testing; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the message testing before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét message testing trước khi triển khai chiến dịch.",
-    "collocations": [
-      "message testing",
-      "message testing review",
-      "message testing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "message"
-    ],
-    "day": 117
-  },
-  {
-    "id": "product-launch-phrase",
-    "word": "product launch",
-    "baseWord": "product",
-    "type": "phrase",
-    "meaning": "product launch; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the product launch before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét product launch trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly claim in the file before Friday.",
+    "exampleVi": "Vui long dua weekly claim vao ho so truoc thu Sau.",
     "collocations": [
-      "product launch",
-      "product launch review",
-      "product launch process"
+      "weekly claim",
+      "weekly claim review",
+      "weekly claim deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "product"
+      "weekly",
+      "claim"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "promotional-offer-phrase",
-    "word": "promotional offer",
-    "baseWord": "promotional",
+    "id": "weekly-coverage-collocation",
+    "word": "weekly coverage",
+    "baseWord": "coverage",
     "type": "phrase",
-    "meaning": "promotional offer; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly coverage",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the promotional offer before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét promotional offer trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly coverage in the file before Friday.",
+    "exampleVi": "Vui long dua weekly coverage vao ho so truoc thu Sau.",
     "collocations": [
-      "promotional offer",
-      "promotional offer review",
-      "promotional offer process"
+      "weekly coverage",
+      "weekly coverage review",
+      "weekly coverage deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "promotional"
+      "weekly",
+      "coverage"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "retention-campaign-phrase",
-    "word": "retention campaign",
-    "baseWord": "retention",
+    "id": "weekly-customs-collocation",
+    "word": "weekly customs",
+    "baseWord": "customs",
     "type": "phrase",
-    "meaning": "retention campaign; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly customs",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the retention campaign before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét retention campaign trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly customs in the file before Friday.",
+    "exampleVi": "Vui long dua weekly customs vao ho so truoc thu Sau.",
     "collocations": [
-      "retention campaign",
-      "retention campaign review",
-      "retention campaign process"
+      "weekly customs",
+      "weekly customs review",
+      "weekly customs deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "retention"
+      "weekly",
+      "customs"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "sales-funnel-phrase",
-    "word": "sales funnel",
-    "baseWord": "sale",
+    "id": "weekly-delivery-collocation",
+    "word": "weekly delivery",
+    "baseWord": "delivery",
     "type": "phrase",
-    "meaning": "sales funnel; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly delivery",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly delivery in the file before Friday.",
+    "exampleVi": "Vui long dua weekly delivery vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly delivery",
+      "weekly delivery review",
+      "weekly delivery deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "delivery"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "weekly-discount-collocation",
+    "word": "weekly discount",
+    "baseWord": "discount",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly discount",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly discount in the file before Friday.",
+    "exampleVi": "Vui long dua weekly discount vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly discount",
+      "weekly discount review",
+      "weekly discount deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "discount"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "weekly-inventory-collocation",
+    "word": "weekly inventory",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly inventory",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
     "frequency": "medium",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the sales funnel before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét sales funnel trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly inventory in the file before Friday.",
+    "exampleVi": "Vui long dua weekly inventory vao ho so truoc thu Sau.",
     "collocations": [
-      "sales funnel",
-      "sales funnel review",
-      "sales funnel process"
+      "weekly inventory",
+      "weekly inventory review",
+      "weekly inventory deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "sale"
+      "weekly",
+      "inventory"
     ],
-    "day": 117
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "target-audience-phrase",
-    "word": "target audience",
+    "id": "weekly-license-collocation",
+    "word": "weekly license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly license",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly license in the file before Friday.",
+    "exampleVi": "Vui long dua weekly license vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly license",
+      "weekly license review",
+      "weekly license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "license"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "weekly-maintenance-collocation",
+    "word": "weekly maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly maintenance",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua weekly maintenance vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly maintenance",
+      "weekly maintenance review",
+      "weekly maintenance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "maintenance"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "weekly-permit-collocation",
+    "word": "weekly permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly permit",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly permit in the file before Friday.",
+    "exampleVi": "Vui long dua weekly permit vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly permit",
+      "weekly permit review",
+      "weekly permit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "permit"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "weekly-premium-collocation",
+    "word": "weekly premium",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly premium",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly premium in the file before Friday.",
+    "exampleVi": "Vui long dua weekly premium vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly premium",
+      "weekly premium review",
+      "weekly premium deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "premium"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "weekly-renovation-collocation",
+    "word": "weekly renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly renovation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly renovation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly renovation",
+      "weekly renovation review",
+      "weekly renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "renovation"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "weekly-risk-collocation",
+    "word": "weekly risk",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly risk",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly risk in the file before Friday.",
+    "exampleVi": "Vui long dua weekly risk vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly risk",
+      "weekly risk review",
+      "weekly risk deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "risk"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "weekly-supplier-collocation",
+    "word": "weekly supplier",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly supplier",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly supplier in the file before Friday.",
+    "exampleVi": "Vui long dua weekly supplier vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly supplier",
+      "weekly supplier review",
+      "weekly supplier deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "supplier"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "weekly-tariff-collocation",
+    "word": "weekly tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly tariff",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly tariff in the file before Friday.",
+    "exampleVi": "Vui long dua weekly tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly tariff",
+      "weekly tariff review",
+      "weekly tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "tariff"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "weekly-vendor-collocation",
+    "word": "weekly vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly vendor",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly vendor in the file before Friday.",
+    "exampleVi": "Vui long dua weekly vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly vendor",
+      "weekly vendor review",
+      "weekly vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "vendor"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "weekly-warehouse-collocation",
+    "word": "weekly warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly warehouse",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua weekly warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly warehouse",
+      "weekly warehouse review",
+      "weekly warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "warehouse"
+    ],
+    "day": 117,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "weekly-analysis-collocation",
+    "word": "weekly analysis",
+    "baseWord": "analysis",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly analysis",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly analysis in the file before Friday.",
+    "exampleVi": "Vui long dua weekly analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly analysis",
+      "weekly analysis review",
+      "weekly analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "analysis"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "weekly-approval-collocation",
+    "word": "weekly approval",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly approval",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly approval in the file before Friday.",
+    "exampleVi": "Vui long dua weekly approval vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly approval",
+      "weekly approval review",
+      "weekly approval deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "approval"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "weekly-authorization-collocation",
+    "word": "weekly authorization",
+    "baseWord": "authorization",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly authorization",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly authorization in the file before Friday.",
+    "exampleVi": "Vui long dua weekly authorization vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly authorization",
+      "weekly authorization review",
+      "weekly authorization deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "authorization"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "weekly-certificate-collocation",
+    "word": "weekly certificate",
+    "baseWord": "certificate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly certificate",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly certificate in the file before Friday.",
+    "exampleVi": "Vui long dua weekly certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly certificate",
+      "weekly certificate review",
+      "weekly certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "certificate"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "weekly-confirmation-collocation",
+    "word": "weekly confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly confirmation",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly confirmation vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly confirmation",
+      "weekly confirmation review",
+      "weekly confirmation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "confirmation"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "weekly-database-collocation",
+    "word": "weekly database",
+    "baseWord": "database",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly database",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly database in the file before Friday.",
+    "exampleVi": "Vui long dua weekly database vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly database",
+      "weekly database review",
+      "weekly database deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "database"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "weekly-equipment-collocation",
+    "word": "weekly equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly equipment",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly equipment in the file before Friday.",
+    "exampleVi": "Vui long dua weekly equipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly equipment",
+      "weekly equipment review",
+      "weekly equipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "equipment"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "weekly-facility-collocation",
+    "word": "weekly facility",
+    "baseWord": "facility",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly facility",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly facility in the file before Friday.",
+    "exampleVi": "Vui long dua weekly facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly facility",
+      "weekly facility review",
+      "weekly facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "facility"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "weekly-lease-collocation",
+    "word": "weekly lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly lease",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly lease in the file before Friday.",
+    "exampleVi": "Vui long dua weekly lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly lease",
+      "weekly lease review",
+      "weekly lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "lease"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "weekly-notice-collocation",
+    "word": "weekly notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly notice",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly notice in the file before Friday.",
+    "exampleVi": "Vui long dua weekly notice vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly notice",
+      "weekly notice review",
+      "weekly notice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "notice"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "weekly-property-collocation",
+    "word": "weekly property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly property",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly property in the file before Friday.",
+    "exampleVi": "Vui long dua weekly property vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly property",
+      "weekly property review",
+      "weekly property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "property"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "weekly-request-collocation",
+    "word": "weekly request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly request",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly request in the file before Friday.",
+    "exampleVi": "Vui long dua weekly request vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly request",
+      "weekly request review",
+      "weekly request deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "request"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "weekly-response-collocation",
+    "word": "weekly response",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly response",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly response in the file before Friday.",
+    "exampleVi": "Vui long dua weekly response vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly response",
+      "weekly response review",
+      "weekly response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "response"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "weekly-review-collocation",
+    "word": "weekly review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly review",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly review in the file before Friday.",
+    "exampleVi": "Vui long dua weekly review vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly review",
+      "weekly review review",
+      "weekly review deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "review"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "weekly-security-collocation",
+    "word": "weekly security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly security",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly security in the file before Friday.",
+    "exampleVi": "Vui long dua weekly security vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly security",
+      "weekly security review",
+      "weekly security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "security"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "weekly-software-collocation",
+    "word": "weekly software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly software",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly software in the file before Friday.",
+    "exampleVi": "Vui long dua weekly software vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly software",
+      "weekly software review",
+      "weekly software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "software"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "weekly-summary-collocation",
+    "word": "weekly summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly summary",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly summary in the file before Friday.",
+    "exampleVi": "Vui long dua weekly summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly summary",
+      "weekly summary review",
+      "weekly summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "summary"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "weekly-survey-collocation",
+    "word": "weekly survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly survey",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly survey in the file before Friday.",
+    "exampleVi": "Vui long dua weekly survey vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly survey",
+      "weekly survey review",
+      "weekly survey deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "survey"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "weekly-tenant-collocation",
+    "word": "weekly tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly tenant",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly tenant in the file before Friday.",
+    "exampleVi": "Vui long dua weekly tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly tenant",
+      "weekly tenant review",
+      "weekly tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "tenant"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "weekly-update-collocation",
+    "word": "weekly update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly update",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly update in the file before Friday.",
+    "exampleVi": "Vui long dua weekly update vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly update",
+      "weekly update review",
+      "weekly update deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "update"
+    ],
+    "day": 118,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "daily-agreement-collocation",
+    "word": "daily agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily agreement",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily agreement in the file before Friday.",
+    "exampleVi": "Vui long dua daily agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily agreement",
+      "daily agreement review",
+      "daily agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "agreement"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "daily-deadline-collocation",
+    "word": "daily deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily deadline",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily deadline in the file before Friday.",
+    "exampleVi": "Vui long dua daily deadline vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily deadline",
+      "daily deadline review",
+      "daily deadline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "deadline"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "daily-feedback-collocation",
+    "word": "daily feedback",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily feedback",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily feedback in the file before Friday.",
+    "exampleVi": "Vui long dua daily feedback vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily feedback",
+      "daily feedback review",
+      "daily feedback deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "feedback"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "daily-invoice-collocation",
+    "word": "daily invoice",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily invoice",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily invoice in the file before Friday.",
+    "exampleVi": "Vui long dua daily invoice vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily invoice",
+      "daily invoice review",
+      "daily invoice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "invoice"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "daily-proposal-collocation",
+    "word": "daily proposal",
+    "baseWord": "proposal",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily proposal",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily proposal in the file before Friday.",
+    "exampleVi": "Vui long dua daily proposal vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily proposal",
+      "daily proposal review",
+      "daily proposal deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "proposal"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "daily-receipt-collocation",
+    "word": "daily receipt",
+    "baseWord": "receipt",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily receipt",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily receipt in the file before Friday.",
+    "exampleVi": "Vui long dua daily receipt vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily receipt",
+      "daily receipt review",
+      "daily receipt deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "receipt"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "daily-report-collocation",
+    "word": "daily report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily report",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily report in the file before Friday.",
+    "exampleVi": "Vui long dua daily report vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily report",
+      "daily report review",
+      "daily report deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "report"
+    ],
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "daily-target-collocation",
+    "word": "daily target",
     "baseWord": "target",
     "type": "phrase",
-    "meaning": "target audience; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: daily target",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "high",
-    "level": "medium",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the target audience before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét target audience trước khi triển khai chiến dịch.",
+    "example": "Please include the daily target in the file before Friday.",
+    "exampleVi": "Vui long dua daily target vao ho so truoc thu Sau.",
     "collocations": [
-      "target audience",
-      "target audience review",
-      "target audience process"
+      "daily target",
+      "daily target review",
+      "daily target deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "daily",
       "target"
     ],
-    "day": 117
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "value-proposition-phrase",
-    "word": "value proposition",
-    "baseWord": "value",
+    "id": "weekly-compliance-collocation",
+    "word": "weekly compliance",
+    "baseWord": "compliance",
     "type": "phrase",
-    "meaning": "value proposition; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly compliance",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Customer Service",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the value proposition before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét value proposition trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly compliance in the file before Friday.",
+    "exampleVi": "Vui long dua weekly compliance vao ho so truoc thu Sau.",
     "collocations": [
-      "value proposition",
-      "value proposition review",
-      "value proposition process"
+      "weekly compliance",
+      "weekly compliance review",
+      "weekly compliance deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "value"
+      "weekly",
+      "compliance"
     ],
-    "day": 117
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "advertising-copy-phrase",
-    "word": "advertising copy",
-    "baseWord": "advertising",
+    "id": "weekly-finding-collocation",
+    "word": "weekly finding",
+    "baseWord": "finding",
     "type": "phrase",
-    "meaning": "advertising copy; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly finding",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Sales & Retail",
     "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the advertising copy before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét advertising copy trước khi triển khai chiến dịch.",
-    "collocations": [
-      "advertising copy",
-      "advertising copy review",
-      "advertising copy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "advertising"
-    ],
-    "day": 118
-  },
-  {
-    "id": "call-to-action-phrase",
-    "word": "call to action",
-    "baseWord": "call",
-    "type": "phrase",
-    "meaning": "call to action; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the call to action before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét call to action trước khi triển khai chiến dịch.",
-    "collocations": [
-      "call to action",
-      "call to action review",
-      "call to action process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "call"
-    ],
-    "day": 118
-  },
-  {
-    "id": "campaign-analytics-phrase",
-    "word": "campaign analytics",
-    "baseWord": "campaign",
-    "type": "phrase",
-    "meaning": "campaign analytics; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the campaign analytics before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét campaign analytics trước khi triển khai chiến dịch.",
-    "collocations": [
-      "campaign analytics",
-      "campaign analytics review",
-      "campaign analytics process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "campaign"
-    ],
-    "day": 118
-  },
-  {
-    "id": "campaign-rollout-phrase",
-    "word": "campaign rollout",
-    "baseWord": "campaign",
-    "type": "phrase",
-    "meaning": "campaign rollout; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the campaign rollout before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét campaign rollout trước khi triển khai chiến dịch.",
-    "collocations": [
-      "campaign rollout",
-      "campaign rollout review",
-      "campaign rollout process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "campaign"
-    ],
-    "day": 118
-  },
-  {
-    "id": "click-through-rate-phrase",
-    "word": "click-through rate",
-    "baseWord": "click-through",
-    "type": "phrase",
-    "meaning": "click-through rate; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the click-through rate before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét click-through rate trước khi triển khai chiến dịch.",
-    "collocations": [
-      "click-through rate",
-      "click-through rate review",
-      "click-through rate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "click-through"
-    ],
-    "day": 118
-  },
-  {
-    "id": "creative-brief-phrase",
-    "word": "creative brief",
-    "baseWord": "creative",
-    "type": "phrase",
-    "meaning": "creative brief; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the creative brief before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét creative brief trước khi triển khai chiến dịch.",
-    "collocations": [
-      "creative brief",
-      "creative brief review",
-      "creative brief process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "creative"
-    ],
-    "day": 118
-  },
-  {
-    "id": "display-advertising-phrase",
-    "word": "display advertising",
-    "baseWord": "display",
-    "type": "phrase",
-    "meaning": "display advertising; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the display advertising before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét display advertising trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly finding in the file before Friday.",
+    "exampleVi": "Vui long dua weekly finding vao ho so truoc thu Sau.",
     "collocations": [
-      "display advertising",
-      "display advertising review",
-      "display advertising process"
+      "weekly finding",
+      "weekly finding review",
+      "weekly finding deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "display"
+      "weekly",
+      "finding"
     ],
-    "day": 118
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "email-campaign-phrase",
-    "word": "email campaign",
-    "baseWord": "email",
+    "id": "weekly-liability-collocation",
+    "word": "weekly liability",
+    "baseWord": "liability",
     "type": "phrase",
-    "meaning": "email campaign; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly liability",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the email campaign before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét email campaign trước khi triển khai chiến dịch.",
-    "collocations": [
-      "email campaign",
-      "email campaign review",
-      "email campaign process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "email"
-    ],
-    "day": 118
-  },
-  {
-    "id": "headline-testing-phrase",
-    "word": "headline testing",
-    "baseWord": "headline",
-    "type": "phrase",
-    "meaning": "headline testing; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the headline testing before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét headline testing trước khi triển khai chiến dịch.",
-    "collocations": [
-      "headline testing",
-      "headline testing review",
-      "headline testing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "headline"
-    ],
-    "day": 118
-  },
-  {
-    "id": "influencer-partnership-phrase",
-    "word": "influencer partnership",
-    "baseWord": "influencer",
-    "type": "phrase",
-    "meaning": "influencer partnership; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the influencer partnership before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét influencer partnership trước khi triển khai chiến dịch.",
-    "collocations": [
-      "influencer partnership",
-      "influencer partnership review",
-      "influencer partnership process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "influencer"
-    ],
-    "day": 118
-  },
-  {
-    "id": "landing-page-phrase",
-    "word": "landing page",
-    "baseWord": "landing",
-    "type": "phrase",
-    "meaning": "landing page; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the landing page before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét landing page trước khi triển khai chiến dịch.",
-    "collocations": [
-      "landing page",
-      "landing page review",
-      "landing page process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "landing"
-    ],
-    "day": 118
-  },
-  {
-    "id": "media-placement-phrase",
-    "word": "media placement",
-    "baseWord": "media",
-    "type": "phrase",
-    "meaning": "media placement; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the media placement before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét media placement trước khi triển khai chiến dịch.",
-    "collocations": [
-      "media placement",
-      "media placement review",
-      "media placement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "media"
-    ],
-    "day": 118
-  },
-  {
-    "id": "organic-reach-phrase",
-    "word": "organic reach",
-    "baseWord": "organic",
-    "type": "phrase",
-    "meaning": "organic reach; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the organic reach before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét organic reach trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly liability in the file before Friday.",
+    "exampleVi": "Vui long dua weekly liability vao ho so truoc thu Sau.",
     "collocations": [
-      "organic reach",
-      "organic reach review",
-      "organic reach process"
+      "weekly liability",
+      "weekly liability review",
+      "weekly liability deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "organic"
+      "weekly",
+      "liability"
     ],
-    "day": 118
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "paid-placement-phrase",
-    "word": "paid placement",
-    "baseWord": "paid",
+    "id": "weekly-negotiation-collocation",
+    "word": "weekly negotiation",
+    "baseWord": "negotiation",
     "type": "phrase",
-    "meaning": "paid placement; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly negotiation",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Finance & Banking",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the paid placement before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét paid placement trước khi triển khai chiến dịch.",
-    "collocations": [
-      "paid placement",
-      "paid placement review",
-      "paid placement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "paid"
-    ],
-    "day": 118
-  },
-  {
-    "id": "search-visibility-phrase",
-    "word": "search visibility",
-    "baseWord": "search",
-    "type": "phrase",
-    "meaning": "search visibility; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the search visibility before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét search visibility trước khi triển khai chiến dịch.",
-    "collocations": [
-      "search visibility",
-      "search visibility review",
-      "search visibility process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "search"
-    ],
-    "day": 118
-  },
-  {
-    "id": "slogan-development-phrase",
-    "word": "slogan development",
-    "baseWord": "slogan",
-    "type": "phrase",
-    "meaning": "slogan development; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the slogan development before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét slogan development trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly negotiation vao ho so truoc thu Sau.",
     "collocations": [
-      "slogan development",
-      "slogan development review",
-      "slogan development process"
+      "weekly negotiation",
+      "weekly negotiation review",
+      "weekly negotiation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "slogan"
+      "weekly",
+      "negotiation"
     ],
-    "day": 118
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "social-engagement-phrase",
-    "word": "social engagement",
-    "baseWord": "social",
+    "id": "weekly-payment-collocation",
+    "word": "weekly payment",
+    "baseWord": "payment",
     "type": "phrase",
-    "meaning": "social engagement; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly payment",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the social engagement before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét social engagement trước khi triển khai chiến dịch.",
-    "collocations": [
-      "social engagement",
-      "social engagement review",
-      "social engagement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "social"
-    ],
-    "day": 118
-  },
-  {
-    "id": "sponsored-content-phrase",
-    "word": "sponsored content",
-    "baseWord": "sponsored",
-    "type": "phrase",
-    "meaning": "sponsored content; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the sponsored content before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét sponsored content trước khi triển khai chiến dịch.",
-    "collocations": [
-      "sponsored content",
-      "sponsored content review",
-      "sponsored content process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "sponsored"
-    ],
-    "day": 118
-  },
-  {
-    "id": "tagline-review-phrase",
-    "word": "tagline review",
-    "baseWord": "tagline",
-    "type": "phrase",
-    "meaning": "tagline review; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the tagline review before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét tagline review trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly payment in the file before Friday.",
+    "exampleVi": "Vui long dua weekly payment vao ho so truoc thu Sau.",
     "collocations": [
-      "tagline review",
-      "tagline review review",
-      "tagline review process"
+      "weekly payment",
+      "weekly payment review",
+      "weekly payment deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "tagline"
+      "weekly",
+      "payment"
     ],
-    "day": 118
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "visual-identity-phrase",
-    "word": "visual identity",
-    "baseWord": "visual",
+    "id": "weekly-payroll-collocation",
+    "word": "weekly payroll",
+    "baseWord": "payroll",
     "type": "phrase",
-    "meaning": "visual identity; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly payroll",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the visual identity before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét visual identity trước khi triển khai chiến dịch.",
-    "collocations": [
-      "visual identity",
-      "visual identity review",
-      "visual identity process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "visual"
-    ],
-    "day": 118
-  },
-  {
-    "id": "brand-audit-phrase",
-    "word": "brand audit",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand audit; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand audit before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand audit trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand audit",
-      "brand audit review",
-      "brand audit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 119
-  },
-  {
-    "id": "brand-equity-phrase",
-    "word": "brand equity",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand equity; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand equity before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand equity trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand equity",
-      "brand equity review",
-      "brand equity process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 119
-  },
-  {
-    "id": "campaign-performance-phrase",
-    "word": "campaign performance",
-    "baseWord": "campaign",
-    "type": "phrase",
-    "meaning": "campaign performance; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the campaign performance before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét campaign performance trước khi triển khai chiến dịch.",
-    "collocations": [
-      "campaign performance",
-      "campaign performance review",
-      "campaign performance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "campaign"
-    ],
-    "day": 119
-  },
-  {
-    "id": "channel-strategy-phrase",
-    "word": "channel strategy",
-    "baseWord": "channel",
-    "type": "phrase",
-    "meaning": "channel strategy; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the channel strategy before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét channel strategy trước khi triển khai chiến dịch.",
-    "collocations": [
-      "channel strategy",
-      "channel strategy review",
-      "channel strategy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "channel"
-    ],
-    "day": 119
-  },
-  {
-    "id": "competitive-analysis-phrase",
-    "word": "competitive analysis",
-    "baseWord": "competitive",
-    "type": "phrase",
-    "meaning": "competitive analysis; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the competitive analysis before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét competitive analysis trước khi triển khai chiến dịch.",
-    "collocations": [
-      "competitive analysis",
-      "competitive analysis review",
-      "competitive analysis process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "competitive"
-    ],
-    "day": 119
-  },
-  {
-    "id": "consumer-behavior-phrase",
-    "word": "consumer behavior",
-    "baseWord": "consumer",
-    "type": "phrase",
-    "meaning": "consumer behavior; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the consumer behavior before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét consumer behavior trước khi triển khai chiến dịch.",
-    "collocations": [
-      "consumer behavior",
-      "consumer behavior review",
-      "consumer behavior process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "consumer"
-    ],
-    "day": 119
-  },
-  {
-    "id": "consumer-profile-phrase",
-    "word": "consumer profile",
-    "baseWord": "consumer",
-    "type": "phrase",
-    "meaning": "consumer profile; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the consumer profile before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét consumer profile trước khi triển khai chiến dịch.",
-    "collocations": [
-      "consumer profile",
-      "consumer profile review",
-      "consumer profile process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "consumer"
-    ],
-    "day": 119
-  },
-  {
-    "id": "customer-loyalty-initiative-phrase",
-    "word": "customer loyalty initiative",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer loyalty initiative; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the customer loyalty initiative before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer loyalty initiative trước khi triển khai chiến dịch.",
-    "collocations": [
-      "customer loyalty initiative",
-      "customer loyalty initiative review",
-      "customer loyalty initiative process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 119
-  },
-  {
-    "id": "customer-perception-phrase",
-    "word": "customer perception",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer perception; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the customer perception before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer perception trước khi triển khai chiến dịch.",
-    "collocations": [
-      "customer perception",
-      "customer perception review",
-      "customer perception process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 119
-  },
-  {
-    "id": "market-positioning-phrase",
-    "word": "market positioning",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "market positioning; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the market positioning before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét market positioning trước khi triển khai chiến dịch.",
-    "collocations": [
-      "market positioning",
-      "market positioning review",
-      "market positioning process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "market"
-    ],
-    "day": 119
-  },
-  {
-    "id": "market-share-phrase",
-    "word": "market share",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "market share; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the market share before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét market share trước khi triển khai chiến dịch.",
-    "collocations": [
-      "market share",
-      "market share review",
-      "market share process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "market"
-    ],
-    "day": 119
-  },
-  {
-    "id": "marketing-collateral-phrase",
-    "word": "marketing collateral",
-    "baseWord": "marketing",
-    "type": "phrase",
-    "meaning": "marketing collateral; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the marketing collateral before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét marketing collateral trước khi triển khai chiến dịch.",
-    "collocations": [
-      "marketing collateral",
-      "marketing collateral review",
-      "marketing collateral process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "marketing"
-    ],
-    "day": 119
-  },
-  {
-    "id": "media-kit-phrase",
-    "word": "media kit",
-    "baseWord": "media",
-    "type": "phrase",
-    "meaning": "media kit; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the media kit before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét media kit trước khi triển khai chiến dịch.",
-    "collocations": [
-      "media kit",
-      "media kit review",
-      "media kit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "media"
-    ],
-    "day": 119
-  },
-  {
-    "id": "press-outreach-phrase",
-    "word": "press outreach",
-    "baseWord": "pres",
-    "type": "phrase",
-    "meaning": "press outreach; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the press outreach before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét press outreach trước khi triển khai chiến dịch.",
-    "collocations": [
-      "press outreach",
-      "press outreach review",
-      "press outreach process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "pres"
-    ],
-    "day": 119
-  },
-  {
-    "id": "pricing-message-phrase",
-    "word": "pricing message",
-    "baseWord": "pricing",
-    "type": "phrase",
-    "meaning": "pricing message; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the pricing message before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét pricing message trước khi triển khai chiến dịch.",
-    "collocations": [
-      "pricing message",
-      "pricing message review",
-      "pricing message process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "pricing"
-    ],
-    "day": 119
-  },
-  {
-    "id": "product-sampling-phrase",
-    "word": "product sampling",
-    "baseWord": "product",
-    "type": "phrase",
-    "meaning": "product sampling; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the product sampling before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét product sampling trước khi triển khai chiến dịch.",
-    "collocations": [
-      "product sampling",
-      "product sampling review",
-      "product sampling process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "product"
-    ],
-    "day": 119
-  },
-  {
-    "id": "promotional-budget-phrase",
-    "word": "promotional budget",
-    "baseWord": "promotional",
-    "type": "phrase",
-    "meaning": "promotional budget; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the promotional budget before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét promotional budget trước khi triển khai chiến dịch.",
-    "collocations": [
-      "promotional budget",
-      "promotional budget review",
-      "promotional budget process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "promotional"
-    ],
-    "day": 119
-  },
-  {
-    "id": "publicity-plan-phrase",
-    "word": "publicity plan",
-    "baseWord": "publicity",
-    "type": "phrase",
-    "meaning": "publicity plan; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the publicity plan before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét publicity plan trước khi triển khai chiến dịch.",
-    "collocations": [
-      "publicity plan",
-      "publicity plan review",
-      "publicity plan process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "publicity"
-    ],
-    "day": 119
-  },
-  {
-    "id": "rebranding-initiative-verb",
-    "word": "rebranding initiative",
-    "baseWord": "rebranding",
-    "type": "verb",
-    "meaning": "rebranding initiative; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2334,358 +2551,172 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the rebranding initiative before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét rebranding initiative trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly payroll in the file before Friday.",
+    "exampleVi": "Vui long dua weekly payroll vao ho so truoc thu Sau.",
     "collocations": [
-      "rebranding initiative",
-      "rebranding initiative review",
-      "rebranding initiative process"
+      "weekly payroll",
+      "weekly payroll review",
+      "weekly payroll deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "rebranding"
+      "weekly",
+      "payroll"
     ],
-    "day": 119
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
-    "id": "referral-campaign-phrase",
-    "word": "referral campaign",
-    "baseWord": "referral",
+    "id": "weekly-recommendation-collocation",
+    "word": "weekly recommendation",
+    "baseWord": "recommendation",
     "type": "phrase",
-    "meaning": "referral campaign; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly recommendation",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the referral campaign before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét referral campaign trước khi triển khai chiến dịch.",
-    "collocations": [
-      "referral campaign",
-      "referral campaign review",
-      "referral campaign process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "referral"
-    ],
-    "day": 119
-  },
-  {
-    "id": "advertorial-placement-phrase",
-    "word": "advertorial placement",
-    "baseWord": "advertorial",
-    "type": "phrase",
-    "meaning": "advertorial placement; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the advertorial placement before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét advertorial placement trước khi triển khai chiến dịch.",
-    "collocations": [
-      "advertorial placement",
-      "advertorial placement review",
-      "advertorial placement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "advertorial"
-    ],
-    "day": 120
-  },
-  {
-    "id": "awareness-campaign-phrase",
-    "word": "awareness campaign",
-    "baseWord": "awarenes",
-    "type": "phrase",
-    "meaning": "awareness campaign; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the awareness campaign before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét awareness campaign trước khi triển khai chiến dịch.",
-    "collocations": [
-      "awareness campaign",
-      "awareness campaign review",
-      "awareness campaign process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "awarenes"
-    ],
-    "day": 120
-  },
-  {
-    "id": "brand-alignment-phrase",
-    "word": "brand alignment",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand alignment; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand alignment before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand alignment trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand alignment",
-      "brand alignment review",
-      "brand alignment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 120
-  },
-  {
-    "id": "brand-storytelling-phrase",
-    "word": "brand storytelling",
-    "baseWord": "brand",
-    "type": "phrase",
-    "meaning": "brand storytelling; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Insurance & Risk",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the brand storytelling before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét brand storytelling trước khi triển khai chiến dịch.",
-    "collocations": [
-      "brand storytelling",
-      "brand storytelling review",
-      "brand storytelling process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "brand"
-    ],
-    "day": 120
-  },
-  {
-    "id": "campaign-benchmark-phrase",
-    "word": "campaign benchmark",
-    "baseWord": "campaign",
-    "type": "phrase",
-    "meaning": "campaign benchmark; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the campaign benchmark before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét campaign benchmark trước khi triển khai chiến dịch.",
-    "collocations": [
-      "campaign benchmark",
-      "campaign benchmark review",
-      "campaign benchmark process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "campaign"
-    ],
-    "day": 120
-  },
-  {
-    "id": "community-outreach-phrase",
-    "word": "community outreach",
-    "baseWord": "community",
-    "type": "phrase",
-    "meaning": "community outreach; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the community outreach before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét community outreach trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly recommendation vao ho so truoc thu Sau.",
     "collocations": [
-      "community outreach",
-      "community outreach review",
-      "community outreach process"
+      "weekly recommendation",
+      "weekly recommendation review",
+      "weekly recommendation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "community"
+      "weekly",
+      "recommendation"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "conversion-tracking-phrase",
-    "word": "conversion tracking",
-    "baseWord": "conversion",
+    "id": "weekly-regulation-collocation",
+    "word": "weekly regulation",
+    "baseWord": "regulation",
     "type": "phrase",
-    "meaning": "conversion tracking; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly regulation",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the conversion tracking before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét conversion tracking trước khi triển khai chiến dịch.",
-    "collocations": [
-      "conversion tracking",
-      "conversion tracking review",
-      "conversion tracking process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "conversion"
-    ],
-    "day": 120
-  },
-  {
-    "id": "cross-selling-campaign-phrase",
-    "word": "cross-selling campaign",
-    "baseWord": "cross-selling",
-    "type": "phrase",
-    "meaning": "cross-selling campaign; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the cross-selling campaign before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét cross-selling campaign trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly regulation in the file before Friday.",
+    "exampleVi": "Vui long dua weekly regulation vao ho so truoc thu Sau.",
     "collocations": [
-      "cross-selling campaign",
-      "cross-selling campaign review",
-      "cross-selling campaign process"
+      "weekly regulation",
+      "weekly regulation review",
+      "weekly regulation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "cross-selling"
+      "weekly",
+      "regulation"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
-    "id": "customer-journey-phrase",
-    "word": "customer journey",
-    "baseWord": "customer",
+    "id": "weekly-reimbursement-collocation",
+    "word": "weekly reimbursement",
+    "baseWord": "reimbursement",
     "type": "phrase",
-    "meaning": "customer journey; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly reimbursement",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the customer journey before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer journey trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua weekly reimbursement vao ho so truoc thu Sau.",
     "collocations": [
-      "customer journey",
-      "customer journey review",
-      "customer journey process"
+      "weekly reimbursement",
+      "weekly reimbursement review",
+      "weekly reimbursement deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "customer"
+      "weekly",
+      "reimbursement"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
-    "id": "customer-testimonial-phrase",
-    "word": "customer testimonial",
-    "baseWord": "customer",
+    "id": "weekly-research-collocation",
+    "word": "weekly research",
+    "baseWord": "research",
     "type": "phrase",
-    "meaning": "customer testimonial; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly research",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the customer testimonial before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét customer testimonial trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly research in the file before Friday.",
+    "exampleVi": "Vui long dua weekly research vao ho so truoc thu Sau.",
     "collocations": [
-      "customer testimonial",
-      "customer testimonial review",
-      "customer testimonial process"
+      "weekly research",
+      "weekly research review",
+      "weekly research deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "customer"
+      "weekly",
+      "research"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
-    "id": "endorsement-deal-phrase",
-    "word": "endorsement deal",
-    "baseWord": "endorsement",
+    "id": "weekly-settlement-collocation",
+    "word": "weekly settlement",
+    "baseWord": "settlement",
     "type": "phrase",
-    "meaning": "endorsement deal; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly settlement",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2693,285 +2724,754 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the endorsement deal before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét endorsement deal trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly settlement in the file before Friday.",
+    "exampleVi": "Vui long dua weekly settlement vao ho so truoc thu Sau.",
     "collocations": [
-      "endorsement deal",
-      "endorsement deal review",
-      "endorsement deal process"
+      "weekly settlement",
+      "weekly settlement review",
+      "weekly settlement deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "endorsement"
+      "weekly",
+      "settlement"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
-    "id": "lead-nurturing-phrase",
-    "word": "lead nurturing",
-    "baseWord": "lead",
+    "id": "weekly-transaction-collocation",
+    "word": "weekly transaction",
+    "baseWord": "transaction",
     "type": "phrase",
-    "meaning": "lead nurturing; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: weekly transaction",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the lead nurturing before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét lead nurturing trước khi triển khai chiến dịch.",
+    "example": "Please include the weekly transaction in the file before Friday.",
+    "exampleVi": "Vui long dua weekly transaction vao ho so truoc thu Sau.",
     "collocations": [
-      "lead nurturing",
-      "lead nurturing review",
-      "lead nurturing process"
+      "weekly transaction",
+      "weekly transaction review",
+      "weekly transaction deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "lead"
+      "weekly",
+      "transaction"
     ],
-    "day": 120
+    "day": 119,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "market-exposure-phrase",
-    "word": "market exposure",
-    "baseWord": "market",
+    "id": "daily-agenda-collocation",
+    "word": "daily agenda",
+    "baseWord": "agenda",
     "type": "phrase",
-    "meaning": "market exposure; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: daily agenda",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily agenda in the file before Friday.",
+    "exampleVi": "Vui long dua daily agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily agenda",
+      "daily agenda review",
+      "daily agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "agenda"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "daily-application-collocation",
+    "word": "daily application",
+    "baseWord": "application",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily application",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily application in the file before Friday.",
+    "exampleVi": "Vui long dua daily application vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily application",
+      "daily application review",
+      "daily application deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "application"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "daily-audit-collocation",
+    "word": "daily audit",
+    "baseWord": "audit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily audit",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing team reviewed the market exposure before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét market exposure trước khi triển khai chiến dịch.",
+    "example": "Please include the daily audit in the file before Friday.",
+    "exampleVi": "Vui long dua daily audit vao ho so truoc thu Sau.",
     "collocations": [
-      "market exposure",
-      "market exposure review",
-      "market exposure process"
+      "daily audit",
+      "daily audit review",
+      "daily audit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "market"
+      "daily",
+      "audit"
     ],
-    "day": 120
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "marketable-feature-phrase",
-    "word": "marketable feature",
-    "baseWord": "marketable",
+    "id": "daily-balance-collocation",
+    "word": "daily balance",
+    "baseWord": "balance",
     "type": "phrase",
-    "meaning": "marketable feature; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: daily balance",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the marketable feature before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét marketable feature trước khi triển khai chiến dịch.",
-    "collocations": [
-      "marketable feature",
-      "marketable feature review",
-      "marketable feature process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "marketable"
-    ],
-    "day": 120
-  },
-  {
-    "id": "marketing-mix-phrase",
-    "word": "marketing mix",
-    "baseWord": "marketing",
-    "type": "phrase",
-    "meaning": "marketing mix; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the marketing mix before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét marketing mix trước khi triển khai chiến dịch.",
-    "collocations": [
-      "marketing mix",
-      "marketing mix review",
-      "marketing mix process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "marketing"
-    ],
-    "day": 120
-  },
-  {
-    "id": "promotional-merchandise-phrase",
-    "word": "promotional merchandise",
-    "baseWord": "promotional",
-    "type": "phrase",
-    "meaning": "promotional merchandise; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the promotional merchandise before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét promotional merchandise trước khi triển khai chiến dịch.",
-    "collocations": [
-      "promotional merchandise",
-      "promotional merchandise review",
-      "promotional merchandise process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "promotional"
-    ],
-    "day": 120
-  },
-  {
-    "id": "reputation-management-phrase",
-    "word": "reputation management",
-    "baseWord": "reputation",
-    "type": "phrase",
-    "meaning": "reputation management; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the reputation management before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét reputation management trước khi triển khai chiến dịch.",
-    "collocations": [
-      "reputation management",
-      "reputation management review",
-      "reputation management process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reputation"
-    ],
-    "day": 120
-  },
-  {
-    "id": "seasonal-promotion-phrase",
-    "word": "seasonal promotion",
-    "baseWord": "seasonal",
-    "type": "phrase",
-    "meaning": "seasonal promotion; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team reviewed the seasonal promotion before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét seasonal promotion trước khi triển khai chiến dịch.",
-    "collocations": [
-      "seasonal promotion",
-      "seasonal promotion review",
-      "seasonal promotion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "seasonal"
-    ],
-    "day": 120
-  },
-  {
-    "id": "segmented-mailing-phrase",
-    "word": "segmented mailing",
-    "baseWord": "segmented",
-    "type": "phrase",
-    "meaning": "segmented mailing; thuật ngữ về tiếp thị và thương hiệu",
-    "pronunciation": "",
-    "topic": "Marketing & Branding",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the segmented mailing before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét segmented mailing trước khi triển khai chiến dịch.",
+    "example": "Please include the daily balance in the file before Friday.",
+    "exampleVi": "Vui long dua daily balance vao ho so truoc thu Sau.",
     "collocations": [
-      "segmented mailing",
-      "segmented mailing review",
-      "segmented mailing process"
+      "daily balance",
+      "daily balance review",
+      "daily balance deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "segmented"
+      "daily",
+      "balance"
     ],
-    "day": 120
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "upselling-message-phrase",
-    "word": "upselling message",
-    "baseWord": "upselling",
+    "id": "daily-budget-collocation",
+    "word": "daily budget",
+    "baseWord": "budget",
     "type": "phrase",
-    "meaning": "upselling message; thuật ngữ về tiếp thị và thương hiệu",
+    "meaning": "collocation TOEIC 700: daily budget",
     "pronunciation": "",
-    "topic": "Marketing & Branding",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily budget in the file before Friday.",
+    "exampleVi": "Vui long dua daily budget vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily budget",
+      "daily budget review",
+      "daily budget deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "budget"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "daily-candidate-collocation",
+    "word": "daily candidate",
+    "baseWord": "candidate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily candidate",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The marketing team reviewed the upselling message before launching the campaign.",
-    "exampleVi": "Nhóm tiếp thị đã xem xét upselling message trước khi triển khai chiến dịch.",
+    "example": "Please include the daily candidate in the file before Friday.",
+    "exampleVi": "Vui long dua daily candidate vao ho so truoc thu Sau.",
     "collocations": [
-      "upselling message",
-      "upselling message review",
-      "upselling message process"
+      "daily candidate",
+      "daily candidate review",
+      "daily candidate deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "upselling"
+      "daily",
+      "candidate"
     ],
-    "day": 120
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "daily-expense-collocation",
+    "word": "daily expense",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily expense",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily expense in the file before Friday.",
+    "exampleVi": "Vui long dua daily expense vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily expense",
+      "daily expense review",
+      "daily expense deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "expense"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "daily-forecast-collocation",
+    "word": "daily forecast",
+    "baseWord": "forecast",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily forecast",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily forecast in the file before Friday.",
+    "exampleVi": "Vui long dua daily forecast vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily forecast",
+      "daily forecast review",
+      "daily forecast deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "forecast"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "daily-guideline-collocation",
+    "word": "daily guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily guideline",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily guideline in the file before Friday.",
+    "exampleVi": "Vui long dua daily guideline vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily guideline",
+      "daily guideline review",
+      "daily guideline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "guideline"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "daily-inspection-collocation",
+    "word": "daily inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily inspection",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily inspection in the file before Friday.",
+    "exampleVi": "Vui long dua daily inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily inspection",
+      "daily inspection review",
+      "daily inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "inspection"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "daily-interview-collocation",
+    "word": "daily interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily interview",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily interview in the file before Friday.",
+    "exampleVi": "Vui long dua daily interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily interview",
+      "daily interview review",
+      "daily interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "interview"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "daily-loss-collocation",
+    "word": "daily loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily loss",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily loss in the file before Friday.",
+    "exampleVi": "Vui long dua daily loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily loss",
+      "daily loss review",
+      "daily loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "loss"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "daily-meeting-collocation",
+    "word": "daily meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily meeting",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily meeting in the file before Friday.",
+    "exampleVi": "Vui long dua daily meeting vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily meeting",
+      "daily meeting review",
+      "daily meeting deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "meeting"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "daily-policy-collocation",
+    "word": "daily policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily policy",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily policy in the file before Friday.",
+    "exampleVi": "Vui long dua daily policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily policy",
+      "daily policy review",
+      "daily policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "policy"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "daily-procedure-collocation",
+    "word": "daily procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily procedure",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily procedure in the file before Friday.",
+    "exampleVi": "Vui long dua daily procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily procedure",
+      "daily procedure review",
+      "daily procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "procedure"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "daily-profit-collocation",
+    "word": "daily profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily profit",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily profit in the file before Friday.",
+    "exampleVi": "Vui long dua daily profit vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily profit",
+      "daily profit review",
+      "daily profit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "profit"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "daily-revenue-collocation",
+    "word": "daily revenue",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily revenue",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily revenue in the file before Friday.",
+    "exampleVi": "Vui long dua daily revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily revenue",
+      "daily revenue review",
+      "daily revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "revenue"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "daily-schedule-collocation",
+    "word": "daily schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily schedule",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily schedule in the file before Friday.",
+    "exampleVi": "Vui long dua daily schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily schedule",
+      "daily schedule review",
+      "daily schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "schedule"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "daily-shipment-collocation",
+    "word": "daily shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily shipment",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily shipment in the file before Friday.",
+    "exampleVi": "Vui long dua daily shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily shipment",
+      "daily shipment review",
+      "daily shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "shipment"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "daily-statement-collocation",
+    "word": "daily statement",
+    "baseWord": "statement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily statement",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily statement in the file before Friday.",
+    "exampleVi": "Vui long dua daily statement vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily statement",
+      "daily statement review",
+      "daily statement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "statement"
+    ],
+    "day": 120,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

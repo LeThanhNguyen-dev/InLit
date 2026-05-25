@@ -1,44 +1,12 @@
 [
   {
-    "id": "at stake-phrase",
-    "word": "at stake",
-    "baseWord": "stake",
-    "type": "phrase",
-    "meaning": "đang bị đe dọa, có liên quan",
-    "pronunciation": "/æt steɪk/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Millions of dollars are at stake in this deal.",
-    "exampleVi": "Hàng triệu đô la đang bị đe dọa trong thỏa thuận này.",
-    "collocations": [
-      "what's at stake",
-      "lives at stake",
-      "jobs at stake"
-    ],
-    "synonyms": [
-      "at risk",
-      "in jeopardy",
-      "on the line"
-    ],
-    "wordFamily": [
-      "stake",
-      "stakeholder"
-    ],
-    "day": 106
-  },
-  {
     "id": "broker-verb",
     "word": "broker",
     "baseWord": "broker",
     "type": "verb",
     "meaning": "môi giới, dàn xếp",
     "pronunciation": "/ˈbroʊkər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -61,7 +29,11 @@
       "brokerage",
       "brokered"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "compromise-noun",
@@ -70,7 +42,7 @@
     "type": "noun",
     "meaning": "sự thỏa hiệp",
     "pronunciation": "/ˈkɑːmprəmaɪz/",
-    "topic": "Negotiations & Deals",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -95,7 +67,11 @@
       "compromised",
       "compromising"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "concession-noun",
@@ -104,7 +80,7 @@
     "type": "noun",
     "meaning": "sự nhượng bộ",
     "pronunciation": "/kənˈseʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -126,7 +102,11 @@
       "concede",
       "conceded"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "cooperate-verb",
@@ -135,7 +115,7 @@
     "type": "verb",
     "meaning": "hợp tác, cộng tác",
     "pronunciation": "/koʊˈɑːpəreɪt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -160,7 +140,11 @@
       "cooperative",
       "cooperatively"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "counteroffer-noun",
@@ -169,7 +153,7 @@
     "type": "noun",
     "meaning": "lời đề nghị đối lại",
     "pronunciation": "/ˈkaʊntərˌɔːfər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -191,7 +175,11 @@
       "offer",
       "counter"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "covenant-noun",
@@ -200,7 +188,7 @@
     "type": "noun",
     "meaning": "điều khoản ràng buộc, cam kết pháp lý",
     "pronunciation": "/ˈkʌvənənt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Research & Reports",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -223,7 +211,11 @@
       "covenanted",
       "covenanting"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "dealbreaker-noun",
@@ -232,7 +224,7 @@
     "type": "noun",
     "meaning": "yếu tố phá vỡ thỏa thuận",
     "pronunciation": "/ˈdiːlˌbreɪkər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -254,7 +246,11 @@
       "deal",
       "break"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "favorable-adjective",
@@ -287,38 +283,11 @@
       "favorably",
       "unfavorable"
     ],
-    "day": 106
-  },
-  {
-    "id": "formal-appointment-phrase",
-    "word": "formal appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: formal appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the formal appointment before the next business day.",
-    "exampleVi": "Vui long xem lai formal appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "formal appointment",
-      "formal appointment process",
-      "formal appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "leverage-noun",
@@ -327,7 +296,7 @@
     "type": "noun",
     "meaning": "đòn bẩy, thế mạnh",
     "pronunciation": "/ˈlevərɪdʒ/",
-    "topic": "Negotiations & Deals",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -349,7 +318,226 @@
       "leverage",
       "leveraged"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-accommodation-collocation",
+    "word": "monthly accommodation",
+    "baseWord": "accommodation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly accommodation",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly accommodation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly accommodation",
+      "monthly accommodation review",
+      "monthly accommodation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "accommodation"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "monthly-itinerary-collocation",
+    "word": "monthly itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly itinerary",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua monthly itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly itinerary",
+      "monthly itinerary review",
+      "monthly itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "itinerary"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "monthly-refund-collocation",
+    "word": "monthly refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly refund",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly refund in the file before Friday.",
+    "exampleVi": "Vui long dua monthly refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly refund",
+      "monthly refund review",
+      "monthly refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "refund"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "monthly-representative-collocation",
+    "word": "monthly representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly representative",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly representative in the file before Friday.",
+    "exampleVi": "Vui long dua monthly representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly representative",
+      "monthly representative review",
+      "monthly representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "representative"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "monthly-reservation-collocation",
+    "word": "monthly reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly reservation",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly reservation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly reservation",
+      "monthly reservation review",
+      "monthly reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "reservation"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "monthly-warranty-collocation",
+    "word": "monthly warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly warranty",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly warranty in the file before Friday.",
+    "exampleVi": "Vui long dua monthly warranty vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly warranty",
+      "monthly warranty review",
+      "monthly warranty deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "warranty"
+    ],
+    "day": 106,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "mutually-adverb",
@@ -358,7 +546,7 @@
     "type": "adverb",
     "meaning": "lẫn nhau, song phương",
     "pronunciation": "/ˈmjuːtʃuəli/",
-    "topic": "Negotiations & Deals",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -381,7 +569,11 @@
       "mutuality",
       "mutually"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "negotiable-adjective",
@@ -390,7 +582,7 @@
     "type": "adjective",
     "meaning": "có thể thương lượng",
     "pronunciation": "/nɪˈɡoʊʃəbl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -414,7 +606,11 @@
       "negotiation",
       "negotiator"
     ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "negotiation-noun",
@@ -423,7 +619,7 @@
     "type": "noun",
     "meaning": "cuộc đàm phán",
     "pronunciation": "/nɪˌɡoʊʃiˈeɪʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -448,38 +644,11 @@
       "negotiator",
       "negotiable"
     ],
-    "day": 106
-  },
-  {
-    "id": "official-appointment-phrase",
-    "word": "official appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: official appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the official appointment before the next business day.",
-    "exampleVi": "Vui long xem lai official appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "official appointment",
-      "official appointment process",
-      "official appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "prospect-noun",
@@ -488,7 +657,7 @@
     "type": "noun",
     "meaning": "triển vọng, khách hàng tiềm năng",
     "pronunciation": "/ˈprɑːspekt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -511,38 +680,11 @@
       "prospective",
       "prospecting"
     ],
-    "day": 106
-  },
-  {
-    "id": "revised-appointment-phrase",
-    "word": "revised appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: revised appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the revised appointment before the next business day.",
-    "exampleVi": "Vui long xem lai revised appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "revised appointment",
-      "revised appointment process",
-      "revised appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "tentatively-adverb",
@@ -551,7 +693,7 @@
     "type": "adverb",
     "meaning": "một cách tạm thời, dè dặt",
     "pronunciation": "/ˈtentətɪvli/",
-    "topic": "Negotiations & Deals",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -574,69 +716,11 @@
       "tentatively",
       "tentativeness"
     ],
-    "day": 106
-  },
-  {
-    "id": "updated-appointment-phrase",
-    "word": "updated appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: updated appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the updated appointment before the next business day.",
-    "exampleVi": "Vui long xem lai updated appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "updated appointment",
-      "updated appointment process",
-      "updated appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 106
-  },
-  {
-    "id": "written-appointment-phrase",
-    "word": "written appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: written appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the written appointment before the next business day.",
-    "exampleVi": "Vui long xem lai written appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "written appointment",
-      "written appointment process",
-      "written appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 106
+    "day": 106,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "acquisition-noun",
@@ -645,7 +729,7 @@
     "type": "noun",
     "meaning": "sự mua lại, sự thâu tóm",
     "pronunciation": "/ˌækwɪˈzɪʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -669,7 +753,11 @@
       "acquired",
       "acquiring"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "alliance-noun",
@@ -678,7 +766,7 @@
     "type": "noun",
     "meaning": "liên minh, đồng minh",
     "pronunciation": "/əˈlaɪəns/",
-    "topic": "Negotiations & Deals",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -701,7 +789,11 @@
       "allied",
       "allies"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "amend-verb",
@@ -710,7 +802,7 @@
     "type": "verb",
     "meaning": "sửa đổi, bổ sung",
     "pronunciation": "/əˈmend/",
-    "topic": "Negotiations & Deals",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -733,7 +825,11 @@
       "amendment",
       "amended"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "bargain-verb",
@@ -742,7 +838,7 @@
     "type": "verb",
     "meaning": "thương lượng, mặc cả",
     "pronunciation": "/ˈbɑːrɡən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -766,7 +862,11 @@
       "bargains",
       "bargained"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "bargaining-noun",
@@ -775,7 +875,7 @@
     "type": "noun",
     "meaning": "việc thương lượng, mặc cả",
     "pronunciation": "/ˈbɑːrɡənɪŋ/",
-    "topic": "Negotiations & Deals",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -799,7 +899,11 @@
       "bargains",
       "bargained"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "concede-verb",
@@ -808,7 +912,7 @@
     "type": "verb",
     "meaning": "nhượng bộ, thừa nhận",
     "pronunciation": "/kənˈsiːd/",
-    "topic": "Negotiations & Deals",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -831,7 +935,11 @@
       "concession",
       "conceded"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "cooperation-noun",
@@ -840,7 +948,7 @@
     "type": "noun",
     "meaning": "sự hợp tác, sự cộng tác",
     "pronunciation": "/koʊˌɑːpəˈreɪʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -865,38 +973,11 @@
       "cooperative",
       "cooperatively"
     ],
-    "day": 107
-  },
-  {
-    "id": "corporate-appointment-phrase",
-    "word": "corporate appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: corporate appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the corporate appointment before the next business day.",
-    "exampleVi": "Vui long xem lai corporate appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "corporate appointment",
-      "corporate appointment process",
-      "corporate appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "deadlock-noun",
@@ -905,7 +986,7 @@
     "type": "noun",
     "meaning": "sự bế tắc, thế bí",
     "pronunciation": "/ˈdedlɑːk/",
-    "topic": "Negotiations & Deals",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -929,100 +1010,11 @@
       "deadlocks",
       "deadlocking"
     ],
-    "day": 107
-  },
-  {
-    "id": "external-appointment-phrase",
-    "word": "external appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: external appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the external appointment before the next business day.",
-    "exampleVi": "Vui long xem lai external appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "external appointment",
-      "external appointment process",
-      "external appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 107
-  },
-  {
-    "id": "internal-appointment-phrase",
-    "word": "internal appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: internal appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the internal appointment before the next business day.",
-    "exampleVi": "Vui long xem lai internal appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "internal appointment",
-      "internal appointment process",
-      "internal appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 107
-  },
-  {
-    "id": "local-appointment-phrase",
-    "word": "local appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: local appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the local appointment before the next business day.",
-    "exampleVi": "Vui long xem lai local appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "local appointment",
-      "local appointment process",
-      "local appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "merger-noun",
@@ -1031,7 +1023,7 @@
     "type": "noun",
     "meaning": "sự sáp nhập",
     "pronunciation": "/ˈmɜːrdʒər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1055,69 +1047,262 @@
       "merged",
       "merging"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "on the table-phrase",
-    "word": "on the table",
-    "baseWord": "table",
+    "id": "monthly-advertisement-collocation",
+    "word": "monthly advertisement",
+    "baseWord": "advertisement",
     "type": "phrase",
-    "meaning": "được đưa ra thảo luận",
-    "pronunciation": "/ɑːn ðə ˈteɪbl/",
-    "topic": "Negotiations & Deals",
+    "meaning": "collocation TOEIC 700: monthly advertisement",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Several options are currently on the table.",
-    "exampleVi": "Một số phương án hiện đang được đưa ra thảo luận.",
+    "example": "Please include the monthly advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua monthly advertisement vao ho so truoc thu Sau.",
     "collocations": [
-      "put on the table",
-      "options on the table",
-      "offer on the table"
+      "monthly advertisement",
+      "monthly advertisement review",
+      "monthly advertisement deadline"
     ],
     "synonyms": [
-      "under consideration",
-      "being discussed"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "table",
-      "tabled"
+      "monthly",
+      "advertisement"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "overseas-appointment-phrase",
-    "word": "overseas appointment",
-    "baseWord": "appointment",
+    "id": "monthly-brochure-collocation",
+    "word": "monthly brochure",
+    "baseWord": "brochure",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: overseas appointment",
+    "meaning": "collocation TOEIC 700: monthly brochure",
     "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the overseas appointment before the next business day.",
-    "exampleVi": "Vui long xem lai overseas appointment truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly brochure in the file before Friday.",
+    "exampleVi": "Vui long dua monthly brochure vao ho so truoc thu Sau.",
     "collocations": [
-      "overseas appointment",
-      "overseas appointment process",
-      "overseas appointment deadline"
+      "monthly brochure",
+      "monthly brochure review",
+      "monthly brochure deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "appointment"
+      "monthly",
+      "brochure"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "monthly-campaign-collocation",
+    "word": "monthly campaign",
+    "baseWord": "campaign",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly campaign",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly campaign in the file before Friday.",
+    "exampleVi": "Vui long dua monthly campaign vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly campaign",
+      "monthly campaign review",
+      "monthly campaign deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "campaign"
+    ],
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "monthly-catalog-collocation",
+    "word": "monthly catalog",
+    "baseWord": "catalog",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly catalog",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly catalog in the file before Friday.",
+    "exampleVi": "Vui long dua monthly catalog vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly catalog",
+      "monthly catalog review",
+      "monthly catalog deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "catalog"
+    ],
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "monthly-conference-collocation",
+    "word": "monthly conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly conference",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly conference in the file before Friday.",
+    "exampleVi": "Vui long dua monthly conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly conference",
+      "monthly conference review",
+      "monthly conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "conference"
+    ],
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "monthly-presentation-collocation",
+    "word": "monthly presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly presentation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly presentation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly presentation",
+      "monthly presentation review",
+      "monthly presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "presentation"
+    ],
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "monthly-venue-collocation",
+    "word": "monthly venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly venue",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly venue in the file before Friday.",
+    "exampleVi": "Vui long dua monthly venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly venue",
+      "monthly venue review",
+      "monthly venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "venue"
+    ],
+    "day": 107,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "partnership-noun",
@@ -1126,7 +1311,7 @@
     "type": "noun",
     "meaning": "sự hợp tác, quan hệ đối tác",
     "pronunciation": "/ˈpɑːrtnərʃɪp/",
-    "topic": "Negotiations & Deals",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1150,7 +1335,11 @@
       "partner",
       "partnered"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "reciprocal-adjective",
@@ -1159,7 +1348,7 @@
     "type": "adjective",
     "meaning": "có đi có lại, qua lại",
     "pronunciation": "/rɪˈsɪprəkəl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1183,38 +1372,11 @@
       "reciprocity",
       "reciprocally"
     ],
-    "day": 107
-  },
-  {
-    "id": "regional-appointment-phrase",
-    "word": "regional appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: regional appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the regional appointment before the next business day.",
-    "exampleVi": "Vui long xem lai regional appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "regional appointment",
-      "regional appointment process",
-      "regional appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "renegotiate-verb",
@@ -1223,7 +1385,7 @@
     "type": "verb",
     "meaning": "thương lượng lại, đàm phán lại",
     "pronunciation": "/ˌriːnɪˈɡoʊʃieɪt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1246,7 +1408,11 @@
       "negotiation",
       "negotiator"
     ],
-    "day": 107
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "stalemate-noun",
@@ -1255,7 +1421,7 @@
     "type": "noun",
     "meaning": "tình trạng bế tắc",
     "pronunciation": "/ˈsteɪlmeɪt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1278,69 +1444,11 @@
       "stalemated",
       "stalemating"
     ],
-    "day": 107
-  },
-  {
-    "id": "commercial-appointment-phrase",
-    "word": "commercial appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: commercial appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the commercial appointment before the next business day.",
-    "exampleVi": "Vui long xem lai commercial appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "commercial appointment",
-      "commercial appointment process",
-      "commercial appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
-  },
-  {
-    "id": "comprehensive-appointment-phrase",
-    "word": "comprehensive appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: comprehensive appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the comprehensive appointment before the next business day.",
-    "exampleVi": "Vui long xem lai comprehensive appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "comprehensive appointment",
-      "comprehensive appointment process",
-      "comprehensive appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 107,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "counterpart-noun",
@@ -1349,7 +1457,7 @@
     "type": "noun",
     "meaning": "người đồng cấp, bản tương đương",
     "pronunciation": "/ˈkaʊntərpɑːrt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1372,38 +1480,11 @@
       "counterparts",
       "partner"
     ],
-    "day": 108
-  },
-  {
-    "id": "detailed-appointment-phrase",
-    "word": "detailed appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: detailed appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the detailed appointment before the next business day.",
-    "exampleVi": "Vui long xem lai detailed appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "detailed appointment",
-      "detailed appointment process",
-      "detailed appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "entitlement-noun",
@@ -1412,7 +1493,7 @@
     "type": "noun",
     "meaning": "quyền lợi, quyền hưởng",
     "pronunciation": "/ɪnˈtaɪtlmənt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1434,38 +1515,11 @@
       "entitle",
       "entitled"
     ],
-    "day": 108
-  },
-  {
-    "id": "final-appointment-phrase",
-    "word": "final appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: final appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the final appointment before the next business day.",
-    "exampleVi": "Vui long xem lai final appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "final appointment",
-      "final appointment process",
-      "final appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "guarantor-noun",
@@ -1474,7 +1528,7 @@
     "type": "noun",
     "meaning": "người bảo lãnh, bên bảo lãnh",
     "pronunciation": "/ˌɡærənˈtɔːr/",
-    "topic": "Negotiations & Deals",
+    "topic": "Training & Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1497,47 +1551,56 @@
       "guaranteed",
       "guarantors"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "in good faith-phrase",
-    "word": "in good faith",
-    "baseWord": "faith",
+    "id": "monthly-customs-collocation",
+    "word": "monthly customs",
+    "baseWord": "customs",
     "type": "phrase",
-    "meaning": "với thiện ý, trung thực",
-    "pronunciation": "/ɪn ɡʊd feɪθ/",
-    "topic": "Negotiations & Deals",
+    "meaning": "collocation TOEIC 700: monthly customs",
+    "pronunciation": "",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 6",
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "Both companies entered the negotiation in good faith.",
-    "exampleVi": "Cả hai công ty đã tham gia đàm phán với thiện ý.",
+    "example": "Please include the monthly customs in the file before Friday.",
+    "exampleVi": "Vui long dua monthly customs vao ho so truoc thu Sau.",
     "collocations": [
-      "negotiate in good faith",
-      "act in good faith",
-      "in good faith effort"
+      "monthly customs",
+      "monthly customs review",
+      "monthly customs deadline"
     ],
     "synonyms": [
-      "honestly",
-      "sincerely"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "faith",
-      "faithful"
+      "monthly",
+      "customs"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "mandatory-appointment-phrase",
-    "word": "mandatory appointment",
-    "baseWord": "appointment",
+    "id": "monthly-delivery-collocation",
+    "word": "monthly delivery",
+    "baseWord": "delivery",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: mandatory appointment",
+    "meaning": "collocation TOEIC 700: monthly delivery",
     "pronunciation": "",
-    "topic": "Negotiations & Deals",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1545,21 +1608,313 @@
       "Part 3",
       "Part 5"
     ],
-    "example": "Please review the mandatory appointment before the next business day.",
-    "exampleVi": "Vui long xem lai mandatory appointment truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly delivery in the file before Friday.",
+    "exampleVi": "Vui long dua monthly delivery vao ho so truoc thu Sau.",
     "collocations": [
-      "mandatory appointment",
-      "mandatory appointment process",
-      "mandatory appointment deadline"
+      "monthly delivery",
+      "monthly delivery review",
+      "monthly delivery deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "appointment"
+      "monthly",
+      "delivery"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "monthly-discount-collocation",
+    "word": "monthly discount",
+    "baseWord": "discount",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly discount",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly discount in the file before Friday.",
+    "exampleVi": "Vui long dua monthly discount vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly discount",
+      "monthly discount review",
+      "monthly discount deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "discount"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "monthly-inventory-collocation",
+    "word": "monthly inventory",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly inventory",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly inventory in the file before Friday.",
+    "exampleVi": "Vui long dua monthly inventory vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly inventory",
+      "monthly inventory review",
+      "monthly inventory deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "inventory"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "monthly-license-collocation",
+    "word": "monthly license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly license",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly license in the file before Friday.",
+    "exampleVi": "Vui long dua monthly license vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly license",
+      "monthly license review",
+      "monthly license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "license"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "monthly-permit-collocation",
+    "word": "monthly permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly permit",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly permit in the file before Friday.",
+    "exampleVi": "Vui long dua monthly permit vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly permit",
+      "monthly permit review",
+      "monthly permit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "permit"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-supplier-collocation",
+    "word": "monthly supplier",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly supplier",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly supplier in the file before Friday.",
+    "exampleVi": "Vui long dua monthly supplier vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly supplier",
+      "monthly supplier review",
+      "monthly supplier deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "supplier"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "monthly-tariff-collocation",
+    "word": "monthly tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly tariff",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly tariff in the file before Friday.",
+    "exampleVi": "Vui long dua monthly tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly tariff",
+      "monthly tariff review",
+      "monthly tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "tariff"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "monthly-vendor-collocation",
+    "word": "monthly vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly vendor",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly vendor in the file before Friday.",
+    "exampleVi": "Vui long dua monthly vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly vendor",
+      "monthly vendor review",
+      "monthly vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "vendor"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "monthly-warehouse-collocation",
+    "word": "monthly warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly warehouse",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua monthly warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly warehouse",
+      "monthly warehouse review",
+      "monthly warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "warehouse"
+    ],
+    "day": 108,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "nondisclosure-noun",
@@ -1568,7 +1923,7 @@
     "type": "noun",
     "meaning": "sự không tiết lộ, bảo mật",
     "pronunciation": "/ˌnɑːndɪsˈkloʊʒər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1590,7 +1945,11 @@
       "disclosure",
       "nondisclosure"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "obligate-verb",
@@ -1599,7 +1958,7 @@
     "type": "verb",
     "meaning": "bắt buộc, ràng buộc",
     "pronunciation": "/ˈɑːblɪɡeɪt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1623,7 +1982,11 @@
       "obligated",
       "obligatory"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "obligation-noun",
@@ -1632,7 +1995,7 @@
     "type": "noun",
     "meaning": "nghĩa vụ, bổn phận",
     "pronunciation": "/ˌɑːblɪˈɡeɪʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1656,69 +2019,11 @@
       "obligated",
       "obligatory"
     ],
-    "day": 108
-  },
-  {
-    "id": "preliminary-appointment-phrase",
-    "word": "preliminary appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: preliminary appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the preliminary appointment before the next business day.",
-    "exampleVi": "Vui long xem lai preliminary appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "preliminary appointment",
-      "preliminary appointment process",
-      "preliminary appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
-  },
-  {
-    "id": "priority-appointment-phrase",
-    "word": "priority appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: priority appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the priority appointment before the next business day.",
-    "exampleVi": "Vui long xem lai priority appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "priority appointment",
-      "priority appointment process",
-      "priority appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "provisional-adjective",
@@ -1727,7 +2032,7 @@
     "type": "adjective",
     "meaning": "tạm thời, có thể thay đổi",
     "pronunciation": "/prəˈvɪʒənəl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1750,38 +2055,11 @@
       "provision",
       "provisionally"
     ],
-    "day": 108
-  },
-  {
-    "id": "routine-appointment-phrase",
-    "word": "routine appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: routine appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the routine appointment before the next business day.",
-    "exampleVi": "Vui long xem lai routine appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "routine appointment",
-      "routine appointment process",
-      "routine appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "trustee-noun",
@@ -1790,7 +2068,7 @@
     "type": "noun",
     "meaning": "người ủy thác, thành viên ban quản trị",
     "pronunciation": "/ˌtrʌsˈtiː/",
-    "topic": "Negotiations & Deals",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1814,7 +2092,11 @@
       "trusteeship",
       "trustees"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "underway-adverb",
@@ -1823,7 +2105,7 @@
     "type": "adverb",
     "meaning": "đang tiến hành",
     "pronunciation": "/ˌʌndərˈweɪ/",
-    "topic": "Negotiations & Deals",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1847,38 +2129,11 @@
       "ways",
       "way"
     ],
-    "day": 108
-  },
-  {
-    "id": "urgent-appointment-phrase",
-    "word": "urgent appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: urgent appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the urgent appointment before the next business day.",
-    "exampleVi": "Vui long xem lai urgent appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "urgent appointment",
-      "urgent appointment process",
-      "urgent appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "waive-verb",
@@ -1887,7 +2142,7 @@
     "type": "verb",
     "meaning": "từ bỏ, miễn",
     "pronunciation": "/weɪv/",
-    "topic": "Negotiations & Deals",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1910,7 +2165,11 @@
       "waiver",
       "waived"
     ],
-    "day": 108
+    "day": 108,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "bilateral-adjective",
@@ -1919,7 +2178,7 @@
     "type": "adjective",
     "meaning": "song phương, hai bên",
     "pronunciation": "/ˌbaɪˈlætərəl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1942,103 +2201,11 @@
       "unilateral",
       "multilateral"
     ],
-    "day": 109
-  },
-  {
-    "id": "confidential-appointment-phrase",
-    "word": "confidential appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: confidential appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the confidential appointment before the next business day.",
-    "exampleVi": "Vui long xem lai confidential appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "confidential appointment",
-      "confidential appointment process",
-      "confidential appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
-  },
-  {
-    "id": "draw up-phrase",
-    "word": "draw up",
-    "baseWord": "draw",
-    "type": "phrase",
-    "meaning": "soạn thảo, lập ra",
-    "pronunciation": "/drɔː ʌp/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The lawyers will draw up a new contract by Friday.",
-    "exampleVi": "Các luật sư sẽ soạn thảo hợp đồng mới trước thứ Sáu.",
-    "collocations": [
-      "draw up a contract",
-      "draw up a plan",
-      "draw up an agreement"
-    ],
-    "synonyms": [
-      "draft",
-      "compose",
-      "prepare"
-    ],
-    "wordFamily": [
-      "draw",
-      "up",
-      "draws"
-    ],
-    "day": 109
-  },
-  {
-    "id": "electronic-appointment-phrase",
-    "word": "electronic appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: electronic appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the electronic appointment before the next business day.",
-    "exampleVi": "Vui long xem lai electronic appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "electronic appointment",
-      "electronic appointment process",
-      "electronic appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "impasse-noun",
@@ -2047,7 +2214,7 @@
     "type": "noun",
     "meaning": "tình trạng bế tắc",
     "pronunciation": "/ˈɪmpæs/",
-    "topic": "Negotiations & Deals",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2070,72 +2237,333 @@
       "impasses",
       "pass"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "iron out-phrase",
-    "word": "iron out",
-    "baseWord": "iron",
+    "id": "monthly-claim-collocation",
+    "word": "monthly claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "giải quyết, làm rõ",
-    "pronunciation": "/ˈaɪərn aʊt/",
-    "topic": "Negotiations & Deals",
+    "meaning": "collocation TOEIC 700: monthly claim",
+    "pronunciation": "",
+    "topic": "Business Communication",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 3",
+      "Part 5",
+      "Part 6",
       "Part 7"
     ],
-    "example": "We still need to iron out a few details before signing.",
-    "exampleVi": "Chúng tôi vẫn cần giải quyết một vài chi tiết trước khi ký.",
+    "example": "Please include the monthly claim in the file before Friday.",
+    "exampleVi": "Vui long dua monthly claim vao ho so truoc thu Sau.",
     "collocations": [
-      "iron out the details",
-      "iron out differences",
-      "iron out problems"
+      "monthly claim",
+      "monthly claim review",
+      "monthly claim deadline"
     ],
     "synonyms": [
-      "resolve",
-      "sort out",
-      "settle"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "iron",
-      "out",
-      "irons"
+      "monthly",
+      "claim"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "joint venture-noun",
-    "word": "joint venture",
-    "baseWord": "venture",
-    "type": "noun",
-    "meaning": "liên doanh",
-    "pronunciation": "/dʒɔɪnt ˈventʃər/",
-    "topic": "Negotiations & Deals",
+    "id": "monthly-coverage-collocation",
+    "word": "monthly coverage",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly coverage",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly coverage in the file before Friday.",
+    "exampleVi": "Vui long dua monthly coverage vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly coverage",
+      "monthly coverage review",
+      "monthly coverage deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "coverage"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "monthly-facility-collocation",
+    "word": "monthly facility",
+    "baseWord": "facility",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly facility",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly facility in the file before Friday.",
+    "exampleVi": "Vui long dua monthly facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly facility",
+      "monthly facility review",
+      "monthly facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "facility"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "monthly-lease-collocation",
+    "word": "monthly lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly lease",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly lease in the file before Friday.",
+    "exampleVi": "Vui long dua monthly lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly lease",
+      "monthly lease review",
+      "monthly lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "lease"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "monthly-maintenance-collocation",
+    "word": "monthly maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly maintenance",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 4",
       "Part 7"
     ],
-    "example": "The two firms launched a joint venture to develop new technology.",
-    "exampleVi": "Hai công ty đã thành lập liên doanh để phát triển công nghệ mới.",
+    "example": "Please include the monthly maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua monthly maintenance vao ho so truoc thu Sau.",
     "collocations": [
-      "form a joint venture",
-      "joint venture agreement",
-      "joint venture partner"
+      "monthly maintenance",
+      "monthly maintenance review",
+      "monthly maintenance deadline"
     ],
     "synonyms": [
-      "partnership",
-      "collaboration",
-      "co-enterprise"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "venture",
-      "venturing"
+      "monthly",
+      "maintenance"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "monthly-premium-collocation",
+    "word": "monthly premium",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly premium",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly premium in the file before Friday.",
+    "exampleVi": "Vui long dua monthly premium vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly premium",
+      "monthly premium review",
+      "monthly premium deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "premium"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "monthly-renovation-collocation",
+    "word": "monthly renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly renovation",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly renovation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly renovation",
+      "monthly renovation review",
+      "monthly renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "renovation"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "monthly-risk-collocation",
+    "word": "monthly risk",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly risk",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly risk in the file before Friday.",
+    "exampleVi": "Vui long dua monthly risk vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly risk",
+      "monthly risk review",
+      "monthly risk deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "risk"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "monthly-tenant-collocation",
+    "word": "monthly tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly tenant",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly tenant in the file before Friday.",
+    "exampleVi": "Vui long dua monthly tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly tenant",
+      "monthly tenant review",
+      "monthly tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "tenant"
+    ],
+    "day": 109,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "multilateral-adjective",
@@ -2144,7 +2572,7 @@
     "type": "adjective",
     "meaning": "đa phương, nhiều bên",
     "pronunciation": "/ˌmʌltiˈlætərəl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2167,7 +2595,11 @@
       "unilateral",
       "bilateral"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "non-binding-adjective",
@@ -2176,7 +2608,7 @@
     "type": "adjective",
     "meaning": "không ràng buộc (pháp lý)",
     "pronunciation": "/ˌnɑːnˈbaɪndɪŋ/",
-    "topic": "Negotiations & Deals",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2199,69 +2631,11 @@
       "binding",
       "bound"
     ],
-    "day": 109
-  },
-  {
-    "id": "optional-appointment-phrase",
-    "word": "optional appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: optional appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the optional appointment before the next business day.",
-    "exampleVi": "Vui long xem lai optional appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "optional appointment",
-      "optional appointment process",
-      "optional appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
-  },
-  {
-    "id": "printed-appointment-phrase",
-    "word": "printed appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: printed appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the printed appointment before the next business day.",
-    "exampleVi": "Vui long xem lai printed appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "printed appointment",
-      "printed appointment process",
-      "printed appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "proprietor-noun",
@@ -2270,7 +2644,7 @@
     "type": "noun",
     "meaning": "chủ sở hữu",
     "pronunciation": "/prəˈpraɪətər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2292,7 +2666,11 @@
       "proprietary",
       "proprietorship"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "prospective-adjective",
@@ -2301,7 +2679,7 @@
     "type": "adjective",
     "meaning": "tiềm năng, tương lai",
     "pronunciation": "/prəˈspektɪv/",
-    "topic": "Negotiations & Deals",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2324,38 +2702,11 @@
       "prospect",
       "prospecting"
     ],
-    "day": 109
-  },
-  {
-    "id": "scheduled-appointment-phrase",
-    "word": "scheduled appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: scheduled appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the scheduled appointment before the next business day.",
-    "exampleVi": "Vui long xem lai scheduled appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "scheduled appointment",
-      "scheduled appointment process",
-      "scheduled appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "signatory-noun",
@@ -2364,7 +2715,7 @@
     "type": "noun",
     "meaning": "người ký kết, quốc gia ký kết",
     "pronunciation": "/ˈsɪɡnətɔːri/",
-    "topic": "Negotiations & Deals",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2386,38 +2737,11 @@
       "signature",
       "signatories"
     ],
-    "day": 109
-  },
-  {
-    "id": "temporary-appointment-phrase",
-    "word": "temporary appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: temporary appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the temporary appointment before the next business day.",
-    "exampleVi": "Vui long xem lai temporary appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "temporary appointment",
-      "temporary appointment process",
-      "temporary appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "terminate-verb",
@@ -2426,7 +2750,7 @@
     "type": "verb",
     "meaning": "chấm dứt, kết thúc",
     "pronunciation": "/ˈtɜːrmɪneɪt/",
-    "topic": "Negotiations & Deals",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2449,7 +2773,11 @@
       "termination",
       "terminated"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "unilateral-adjective",
@@ -2458,7 +2786,7 @@
     "type": "adjective",
     "meaning": "đơn phương, một chiều",
     "pronunciation": "/ˌjuːnɪˈlætərəl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2481,7 +2809,11 @@
       "bilateral",
       "multilateral"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "viable-adjective",
@@ -2490,7 +2822,7 @@
     "type": "adjective",
     "meaning": "khả thi, có thể thực hiện",
     "pronunciation": "/ˈvaɪəbl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2513,7 +2845,11 @@
       "viability",
       "viably"
     ],
-    "day": 109
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "win-win-adjective",
@@ -2522,7 +2858,7 @@
     "type": "adjective",
     "meaning": "đôi bên cùng có lợi, cả hai đều thắng",
     "pronunciation": "/ˈwɪn wɪn/",
-    "topic": "Negotiations & Deals",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2545,195 +2881,11 @@
       "winning",
       "winner"
     ],
-    "day": 109
-  },
-  {
-    "id": "additional-appointment-phrase",
-    "word": "additional appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: additional appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the additional appointment before the next business day.",
-    "exampleVi": "Vui long xem lai additional appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "additional appointment",
-      "additional appointment process",
-      "additional appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
-  },
-  {
-    "id": "advance-appointment-phrase",
-    "word": "advance appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: advance appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the advance appointment before the next business day.",
-    "exampleVi": "Vui long xem lai advance appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "advance appointment",
-      "advance appointment process",
-      "advance appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
-  },
-  {
-    "id": "available-appointment-phrase",
-    "word": "available appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: available appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the available appointment before the next business day.",
-    "exampleVi": "Vui long xem lai available appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "available appointment",
-      "available appointment process",
-      "available appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
-  },
-  {
-    "id": "come to terms-phrase",
-    "word": "come to terms",
-    "baseWord": "terms",
-    "type": "phrase",
-    "meaning": "đạt được thỏa thuận",
-    "pronunciation": "/kʌm tuː tɜːrmz/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "After lengthy talks, both sides finally came to terms.",
-    "exampleVi": "Sau các cuộc đàm phán kéo dài, cả hai bên cuối cùng đã đạt được thỏa thuận.",
-    "collocations": [
-      "come to terms with",
-      "come to terms on pricing",
-      "come to agreeable terms"
-    ],
-    "synonyms": [
-      "reach an agreement",
-      "settle",
-      "agree"
-    ],
-    "wordFamily": [
-      "come",
-      "terms",
-      "term"
-    ],
-    "day": 110
-  },
-  {
-    "id": "complimentary-appointment-phrase",
-    "word": "complimentary appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: complimentary appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the complimentary appointment before the next business day.",
-    "exampleVi": "Vui long xem lai complimentary appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "complimentary appointment",
-      "complimentary appointment process",
-      "complimentary appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
-  },
-  {
-    "id": "customized-appointment-phrase",
-    "word": "customized appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: customized appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the customized appointment before the next business day.",
-    "exampleVi": "Vui long xem lai customized appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "customized appointment",
-      "customized appointment process",
-      "customized appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
+    "day": 109,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "discretion-noun",
@@ -2742,7 +2894,7 @@
     "type": "noun",
     "meaning": "sự thận trọng, quyền tự quyết định",
     "pronunciation": "/dɪˈskreʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2766,7 +2918,11 @@
       "discreetly",
       "discretionary"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "dissolution-noun",
@@ -2775,7 +2931,7 @@
     "type": "noun",
     "meaning": "sự giải thể, chấm dứt",
     "pronunciation": "/ˌdɪsəˈluːʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Health & Safety",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2797,39 +2953,11 @@
       "dissolve",
       "dissolved"
     ],
-    "day": 110
-  },
-  {
-    "id": "due diligence-noun",
-    "word": "due diligence",
-    "baseWord": "diligence",
-    "type": "noun",
-    "meaning": "sự thẩm định, xem xét kỹ lưỡng",
-    "pronunciation": "/duː ˈdɪlɪdʒəns/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The buyer conducted due diligence before completing the acquisition.",
-    "exampleVi": "Người mua đã thực hiện thẩm định trước khi hoàn tất việc mua lại.",
-    "collocations": [
-      "conduct due diligence",
-      "due diligence process",
-      "due diligence report"
-    ],
-    "synonyms": [
-      "investigation",
-      "assessment",
-      "examination"
-    ],
-    "wordFamily": [
-      "diligence",
-      "diligent",
-      "diligently"
-    ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "exclusive-adjective",
@@ -2838,7 +2966,7 @@
     "type": "adjective",
     "meaning": "độc quyền, dành riêng",
     "pronunciation": "/ɪkˈskluːsɪv/",
-    "topic": "Negotiations & Deals",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2862,7 +2990,11 @@
       "exclusively",
       "exclusivity"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "exclusivity-noun",
@@ -2871,7 +3003,7 @@
     "type": "noun",
     "meaning": "sự độc quyền",
     "pronunciation": "/ˌekskluːˈsɪvəti/",
-    "topic": "Negotiations & Deals",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2893,7 +3025,11 @@
       "exclusive",
       "exclusively"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "finalize-verb",
@@ -2902,7 +3038,7 @@
     "type": "verb",
     "meaning": "hoàn tất, chốt lại",
     "pronunciation": "/ˈfaɪnəlaɪz/",
-    "topic": "Negotiations & Deals",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2927,71 +3063,437 @@
       "finalization",
       "finalized"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "fine print-phrase",
-    "word": "fine print",
-    "baseWord": "fine print",
+    "id": "monthly-approval-collocation",
+    "word": "monthly approval",
+    "baseWord": "approval",
     "type": "phrase",
-    "meaning": "chữ in nhỏ (chứa các điều khoản quan trọng trong hợp đồng)",
-    "pronunciation": "/faɪn prɪnt/",
-    "topic": "Negotiations & Deals",
+    "meaning": "collocation TOEIC 700: monthly approval",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the monthly approval in the file before Friday.",
+    "exampleVi": "Vui long dua monthly approval vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly approval",
+      "monthly approval review",
+      "monthly approval deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "approval"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "monthly-authorization-collocation",
+    "word": "monthly authorization",
+    "baseWord": "authorization",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly authorization",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Make sure to read the fine print before signing the lease agreement.",
-    "exampleVi": "Hãy chắc chắn đọc phần chữ in nhỏ trước khi ký hợp đồng thuê nhà.",
+    "example": "Please include the monthly authorization in the file before Friday.",
+    "exampleVi": "Vui long dua monthly authorization vao ho so truoc thu Sau.",
     "collocations": [
-      "read the fine print",
-      "hidden in the fine print",
-      "understand the fine print"
+      "monthly authorization",
+      "monthly authorization review",
+      "monthly authorization deadline"
     ],
     "synonyms": [
-      "small print",
-      "detailed terms"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "fine",
-      "print",
-      "printed"
+      "monthly",
+      "authorization"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "letter of intent-phrase",
-    "word": "letter of intent",
-    "baseWord": "letter of intent",
+    "id": "monthly-certificate-collocation",
+    "word": "monthly certificate",
+    "baseWord": "certificate",
     "type": "phrase",
-    "meaning": "thư bày tỏ ý định, thư ngỏ hợp tác",
-    "pronunciation": "/ˈletər əv ɪnˈtent/",
+    "meaning": "collocation TOEIC 700: monthly certificate",
+    "pronunciation": "",
     "topic": "Negotiations & Deals",
-    "frequency": "medium",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly certificate in the file before Friday.",
+    "exampleVi": "Vui long dua monthly certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly certificate",
+      "monthly certificate review",
+      "monthly certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "certificate"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "monthly-confirmation-collocation",
+    "word": "monthly confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly confirmation",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly confirmation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly confirmation",
+      "monthly confirmation review",
+      "monthly confirmation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "confirmation"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-database-collocation",
+    "word": "monthly database",
+    "baseWord": "database",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly database",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly database in the file before Friday.",
+    "exampleVi": "Vui long dua monthly database vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly database",
+      "monthly database review",
+      "monthly database deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "database"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "monthly-equipment-collocation",
+    "word": "monthly equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly equipment",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly equipment in the file before Friday.",
+    "exampleVi": "Vui long dua monthly equipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly equipment",
+      "monthly equipment review",
+      "monthly equipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "equipment"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "monthly-notice-collocation",
+    "word": "monthly notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly notice",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "Signing the letter of intent is the first step toward building the partnership.",
-    "exampleVi": "Ký thư bày tỏ ý định là bước đầu tiên để xây dựng mối quan hệ đối tác.",
+    "example": "Please include the monthly notice in the file before Friday.",
+    "exampleVi": "Vui long dua monthly notice vao ho so truoc thu Sau.",
     "collocations": [
-      "submit a letter of intent",
-      "sign a letter of intent",
-      "non-binding letter of intent"
+      "monthly notice",
+      "monthly notice review",
+      "monthly notice deadline"
     ],
     "synonyms": [
-      "memorandum of understanding",
-      "preliminary agreement"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "letter",
-      "intent",
-      "intention"
+      "monthly",
+      "notice"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "monthly-property-collocation",
+    "word": "monthly property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly property",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly property in the file before Friday.",
+    "exampleVi": "Vui long dua monthly property vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly property",
+      "monthly property review",
+      "monthly property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "property"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "monthly-request-collocation",
+    "word": "monthly request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly request",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly request in the file before Friday.",
+    "exampleVi": "Vui long dua monthly request vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly request",
+      "monthly request review",
+      "monthly request deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "request"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "monthly-response-collocation",
+    "word": "monthly response",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly response",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly response in the file before Friday.",
+    "exampleVi": "Vui long dua monthly response vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly response",
+      "monthly response review",
+      "monthly response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "response"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "monthly-security-collocation",
+    "word": "monthly security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly security",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly security in the file before Friday.",
+    "exampleVi": "Vui long dua monthly security vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly security",
+      "monthly security review",
+      "monthly security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "security"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "monthly-software-collocation",
+    "word": "monthly software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly software",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly software in the file before Friday.",
+    "exampleVi": "Vui long dua monthly software vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly software",
+      "monthly software review",
+      "monthly software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "software"
+    ],
+    "day": 110,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "non-negotiable-adjective",
@@ -3000,7 +3502,7 @@
     "type": "adjective",
     "meaning": "không thể thương lượng",
     "pronunciation": "/nɑːn nɪˈɡoʊʃəbl/",
-    "topic": "Negotiations & Deals",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3024,38 +3526,11 @@
       "negotiable",
       "negotiation"
     ],
-    "day": 110
-  },
-  {
-    "id": "permanent-appointment-phrase",
-    "word": "permanent appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: permanent appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the permanent appointment before the next business day.",
-    "exampleVi": "Vui long xem lai permanent appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "permanent appointment",
-      "permanent appointment process",
-      "permanent appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "ratification-noun",
@@ -3064,7 +3539,7 @@
     "type": "noun",
     "meaning": "sự phê chuẩn",
     "pronunciation": "/ˌrætɪfɪˈkeɪʃən/",
-    "topic": "Negotiations & Deals",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3086,7 +3561,11 @@
       "ratify",
       "ratified"
     ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "render-verb",
@@ -3095,7 +3574,7 @@
     "type": "verb",
     "meaning": "khiến cho, cung cấp (dịch vụ)",
     "pronunciation": "/ˈrendər/",
-    "topic": "Negotiations & Deals",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3118,69 +3597,10 @@
       "rendered",
       "rendering"
     ],
-    "day": 110
-  },
-  {
-    "id": "seal the deal-phrase",
-    "word": "seal the deal",
-    "baseWord": "seal the deal",
-    "type": "phrase",
-    "meaning": "chốt thỏa thuận, hoàn tất giao dịch",
-    "pronunciation": "/siːl ðə diːl/",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The executive offered a discount to seal the deal with the client.",
-    "exampleVi": "Giám đốc điều hành đã đề xuất giảm giá để chốt thỏa thuận với khách hàng.",
-    "collocations": [
-      "negotiate to seal the deal",
-      "help seal the deal",
-      "ready to seal the deal"
-    ],
-    "synonyms": [
-      "close the deal",
-      "finalize the agreement"
-    ],
-    "wordFamily": [
-      "seal",
-      "deal",
-      "deals"
-    ],
-    "day": 110
-  },
-  {
-    "id": "standard-appointment-phrase",
-    "word": "standard appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve negotiations & deals: standard appointment",
-    "pronunciation": "",
-    "topic": "Negotiations & Deals",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the standard appointment before the next business day.",
-    "exampleVi": "Vui long xem lai standard appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "standard appointment",
-      "standard appointment process",
-      "standard appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 110
+    "day": 110,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

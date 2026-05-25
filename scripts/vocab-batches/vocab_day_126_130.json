@@ -1,2977 +1,3477 @@
 [
   {
-    "id": "adjusting-entry-phrase",
-    "word": "adjusting entry",
-    "baseWord": "adjusting",
+    "id": "financial-accommodation-collocation",
+    "word": "financial accommodation",
+    "baseWord": "accommodation",
     "type": "phrase",
-    "meaning": "adjusting entry; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial accommodation",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua financial accommodation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial accommodation",
+      "financial accommodation review",
+      "financial accommodation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "accommodation"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "financial-advertisement-collocation",
+    "word": "financial advertisement",
+    "baseWord": "advertisement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial advertisement",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua financial advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial advertisement",
+      "financial advertisement review",
+      "financial advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "advertisement"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "financial-brochure-collocation",
+    "word": "financial brochure",
+    "baseWord": "brochure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial brochure",
+    "pronunciation": "",
+    "topic": "Training & Development",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the adjusting entry during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra adjusting entry trong đợt rà soát hàng quý.",
-    "collocations": [
-      "adjusting entry",
-      "adjusting entry review",
-      "adjusting entry process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "adjusting"
-    ],
-    "day": 126
-  },
-  {
-    "id": "balance-sheet-phrase",
-    "word": "balance sheet",
-    "baseWord": "balance",
-    "type": "phrase",
-    "meaning": "balance sheet; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the balance sheet during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra balance sheet trong đợt rà soát hàng quý.",
+    "example": "Please include the financial brochure in the file before Friday.",
+    "exampleVi": "Vui long dua financial brochure vao ho so truoc thu Sau.",
     "collocations": [
-      "balance sheet",
-      "balance sheet review",
-      "balance sheet process"
+      "financial brochure",
+      "financial brochure review",
+      "financial brochure deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "balance"
+      "financial",
+      "brochure"
     ],
-    "day": 126
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "bank-reconciliation-phrase",
-    "word": "bank reconciliation",
-    "baseWord": "bank",
+    "id": "financial-campaign-collocation",
+    "word": "financial campaign",
+    "baseWord": "campaign",
     "type": "phrase",
-    "meaning": "bank reconciliation; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial campaign",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the bank reconciliation during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra bank reconciliation trong đợt rà soát hàng quý.",
-    "collocations": [
-      "bank reconciliation",
-      "bank reconciliation review",
-      "bank reconciliation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "bank"
-    ],
-    "day": 126
-  },
-  {
-    "id": "bookkeeping-record-phrase",
-    "word": "bookkeeping record",
-    "baseWord": "bookkeeping",
-    "type": "phrase",
-    "meaning": "bookkeeping record; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the bookkeeping record during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra bookkeeping record trong đợt rà soát hàng quý.",
-    "collocations": [
-      "bookkeeping record",
-      "bookkeeping record review",
-      "bookkeeping record process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "bookkeeping"
-    ],
-    "day": 126
-  },
-  {
-    "id": "cash-disbursement-phrase",
-    "word": "cash disbursement",
-    "baseWord": "cash",
-    "type": "phrase",
-    "meaning": "cash disbursement; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the cash disbursement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra cash disbursement trong đợt rà soát hàng quý.",
-    "collocations": [
-      "cash disbursement",
-      "cash disbursement review",
-      "cash disbursement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cash"
-    ],
-    "day": 126
-  },
-  {
-    "id": "cash-receipt-phrase",
-    "word": "cash receipt",
-    "baseWord": "cash",
-    "type": "phrase",
-    "meaning": "cash receipt; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the cash receipt during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra cash receipt trong đợt rà soát hàng quý.",
-    "collocations": [
-      "cash receipt",
-      "cash receipt review",
-      "cash receipt process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cash"
-    ],
-    "day": 126
-  },
-  {
-    "id": "chart-of-accounts-phrase",
-    "word": "chart of accounts",
-    "baseWord": "chart",
-    "type": "phrase",
-    "meaning": "chart of accounts; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the chart of accounts during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra chart of accounts trong đợt rà soát hàng quý.",
-    "collocations": [
-      "chart of accounts",
-      "chart of accounts review",
-      "chart of accounts process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "chart"
-    ],
-    "day": 126
-  },
-  {
-    "id": "closing-entry-phrase",
-    "word": "closing entry",
-    "baseWord": "closing",
-    "type": "phrase",
-    "meaning": "closing entry; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the closing entry during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra closing entry trong đợt rà soát hàng quý.",
+    "example": "Please include the financial campaign in the file before Friday.",
+    "exampleVi": "Vui long dua financial campaign vao ho so truoc thu Sau.",
     "collocations": [
-      "closing entry",
-      "closing entry review",
-      "closing entry process"
+      "financial campaign",
+      "financial campaign review",
+      "financial campaign deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "closing"
+      "financial",
+      "campaign"
     ],
-    "day": 126
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "credit-memo-phrase",
-    "word": "credit memo",
-    "baseWord": "credit",
+    "id": "financial-catalog-collocation",
+    "word": "financial catalog",
+    "baseWord": "catalog",
     "type": "phrase",
-    "meaning": "credit memo; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial catalog",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the credit memo during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra credit memo trong đợt rà soát hàng quý.",
-    "collocations": [
-      "credit memo",
-      "credit memo review",
-      "credit memo process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "credit"
-    ],
-    "day": 126
-  },
-  {
-    "id": "debit-memo-phrase",
-    "word": "debit memo",
-    "baseWord": "debit",
-    "type": "phrase",
-    "meaning": "debit memo; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the debit memo during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra debit memo trong đợt rà soát hàng quý.",
-    "collocations": [
-      "debit memo",
-      "debit memo review",
-      "debit memo process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "debit"
-    ],
-    "day": 126
-  },
-  {
-    "id": "financial-statement-phrase",
-    "word": "financial statement",
-    "baseWord": "financial",
-    "type": "phrase",
-    "meaning": "financial statement; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the financial statement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra financial statement trong đợt rà soát hàng quý.",
-    "collocations": [
-      "financial statement",
-      "financial statement review",
-      "financial statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "financial"
-    ],
-    "day": 126
-  },
-  {
-    "id": "general-ledger-phrase",
-    "word": "general ledger",
-    "baseWord": "general",
-    "type": "phrase",
-    "meaning": "general ledger; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the general ledger during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra general ledger trong đợt rà soát hàng quý.",
-    "collocations": [
-      "general ledger",
-      "general ledger review",
-      "general ledger process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "general"
-    ],
-    "day": 126
-  },
-  {
-    "id": "income-statement-phrase",
-    "word": "income statement",
-    "baseWord": "income",
-    "type": "phrase",
-    "meaning": "income statement; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the income statement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra income statement trong đợt rà soát hàng quý.",
-    "collocations": [
-      "income statement",
-      "income statement review",
-      "income statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "income"
-    ],
-    "day": 126
-  },
-  {
-    "id": "journal-entry-phrase",
-    "word": "journal entry",
-    "baseWord": "journal",
-    "type": "phrase",
-    "meaning": "journal entry; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the journal entry during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra journal entry trong đợt rà soát hàng quý.",
-    "collocations": [
-      "journal entry",
-      "journal entry review",
-      "journal entry process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "journal"
-    ],
-    "day": 126
-  },
-  {
-    "id": "ledger-balance-review-phrase",
-    "word": "ledger balance review",
-    "baseWord": "ledger",
-    "type": "phrase",
-    "meaning": "ledger balance review; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the ledger balance review during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra ledger balance review trong đợt rà soát hàng quý.",
-    "collocations": [
-      "ledger balance review",
-      "ledger balance review review",
-      "ledger balance review process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "ledger"
-    ],
-    "day": 126
-  },
-  {
-    "id": "petty-cash-phrase",
-    "word": "petty cash",
-    "baseWord": "petty",
-    "type": "phrase",
-    "meaning": "petty cash; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the petty cash during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra petty cash trong đợt rà soát hàng quý.",
-    "collocations": [
-      "petty cash",
-      "petty cash review",
-      "petty cash process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "petty"
-    ],
-    "day": 126
-  },
-  {
-    "id": "posting-error-phrase",
-    "word": "posting error",
-    "baseWord": "posting",
-    "type": "phrase",
-    "meaning": "posting error; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Quality & Standards",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the posting error during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra posting error trong đợt rà soát hàng quý.",
+    "example": "Please include the financial catalog in the file before Friday.",
+    "exampleVi": "Vui long dua financial catalog vao ho so truoc thu Sau.",
     "collocations": [
-      "posting error",
-      "posting error review",
-      "posting error process"
+      "financial catalog",
+      "financial catalog review",
+      "financial catalog deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "posting"
+      "financial",
+      "catalog"
     ],
-    "day": 126
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "reconciliation-statement-phrase",
-    "word": "reconciliation statement",
-    "baseWord": "reconciliation",
+    "id": "financial-conference-collocation",
+    "word": "financial conference",
+    "baseWord": "conference",
     "type": "phrase",
-    "meaning": "reconciliation statement; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial conference",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the reconciliation statement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra reconciliation statement trong đợt rà soát hàng quý.",
-    "collocations": [
-      "reconciliation statement",
-      "reconciliation statement review",
-      "reconciliation statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reconciliation"
-    ],
-    "day": 126
-  },
-  {
-    "id": "subsidiary-ledger-phrase",
-    "word": "subsidiary ledger",
-    "baseWord": "subsidiary",
-    "type": "phrase",
-    "meaning": "subsidiary ledger; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the subsidiary ledger during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra subsidiary ledger trong đợt rà soát hàng quý.",
-    "collocations": [
-      "subsidiary ledger",
-      "subsidiary ledger review",
-      "subsidiary ledger process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "subsidiary"
-    ],
-    "day": 126
-  },
-  {
-    "id": "trial-balance-phrase",
-    "word": "trial balance",
-    "baseWord": "trial",
-    "type": "phrase",
-    "meaning": "trial balance; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Research & Reports",
     "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the trial balance during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra trial balance trong đợt rà soát hàng quý.",
-    "collocations": [
-      "trial balance",
-      "trial balance review",
-      "trial balance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trial"
-    ],
-    "day": 126
-  },
-  {
-    "id": "audit-checklist-verb",
-    "word": "audit checklist",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit checklist; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the audit checklist during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit checklist trong đợt rà soát hàng quý.",
+    "example": "Please include the financial conference in the file before Friday.",
+    "exampleVi": "Vui long dua financial conference vao ho so truoc thu Sau.",
     "collocations": [
-      "audit checklist",
-      "audit checklist review",
-      "audit checklist process"
+      "financial conference",
+      "financial conference review",
+      "financial conference deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "audit"
+      "financial",
+      "conference"
     ],
-    "day": 127
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "audit-evidence-verb",
-    "word": "audit evidence",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit evidence; thuật ngữ về kế toán và kiểm toán",
+    "id": "financial-customs-collocation",
+    "word": "financial customs",
+    "baseWord": "customs",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial customs",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit evidence during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit evidence trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit evidence",
-      "audit evidence review",
-      "audit evidence process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-finding-verb",
-    "word": "audit finding",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit finding; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit finding during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit finding trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit finding",
-      "audit finding review",
-      "audit finding process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-opinion-verb",
-    "word": "audit opinion",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit opinion; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit opinion during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit opinion trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit opinion",
-      "audit opinion review",
-      "audit opinion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-procedure-verb",
-    "word": "audit procedure",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit procedure; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the audit procedure during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit procedure trong đợt rà soát hàng quý.",
+    "example": "Please include the financial customs in the file before Friday.",
+    "exampleVi": "Vui long dua financial customs vao ho so truoc thu Sau.",
     "collocations": [
-      "audit procedure",
-      "audit procedure review",
-      "audit procedure process"
+      "financial customs",
+      "financial customs review",
+      "financial customs deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "audit"
+      "financial",
+      "customs"
     ],
-    "day": 127
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "audit-report-verb",
-    "word": "audit report",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit report; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit report during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit report trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit report",
-      "audit report review",
-      "audit report process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-risk-evaluation-phrase",
-    "word": "audit risk evaluation",
-    "baseWord": "audit",
+    "id": "financial-delivery-collocation",
+    "word": "financial delivery",
+    "baseWord": "delivery",
     "type": "phrase",
-    "meaning": "audit risk evaluation; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial delivery",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit risk evaluation during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit risk evaluation trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit risk evaluation",
-      "audit risk evaluation review",
-      "audit risk evaluation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-scope-verb",
-    "word": "audit scope",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit scope; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit scope during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit scope trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit scope",
-      "audit scope review",
-      "audit scope process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "audit-trail-verb",
-    "word": "audit trail",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit trail; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit trail during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit trail trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit trail",
-      "audit trail review",
-      "audit trail process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 127
-  },
-  {
-    "id": "compliance-audit-phrase",
-    "word": "compliance audit",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance audit; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the compliance audit during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra compliance audit trong đợt rà soát hàng quý.",
-    "collocations": [
-      "compliance audit",
-      "compliance audit review",
-      "compliance audit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 127
-  },
-  {
-    "id": "control-weakness-phrase",
-    "word": "control weakness",
-    "baseWord": "control",
-    "type": "phrase",
-    "meaning": "control weakness; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the control weakness during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra control weakness trong đợt rà soát hàng quý.",
+    "example": "Please include the financial delivery in the file before Friday.",
+    "exampleVi": "Vui long dua financial delivery vao ho so truoc thu Sau.",
     "collocations": [
-      "control weakness",
-      "control weakness review",
-      "control weakness process"
+      "financial delivery",
+      "financial delivery review",
+      "financial delivery deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "control"
+      "financial",
+      "delivery"
     ],
-    "day": 127
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "external-audit-phrase",
-    "word": "external audit",
-    "baseWord": "external",
+    "id": "financial-discount-collocation",
+    "word": "financial discount",
+    "baseWord": "discount",
     "type": "phrase",
-    "meaning": "external audit; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial discount",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the external audit during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra external audit trong đợt rà soát hàng quý.",
-    "collocations": [
-      "external audit",
-      "external audit review",
-      "external audit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "external"
-    ],
-    "day": 127
-  },
-  {
-    "id": "internal-audit-phrase",
-    "word": "internal audit",
-    "baseWord": "internal",
-    "type": "phrase",
-    "meaning": "internal audit; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the internal audit during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra internal audit trong đợt rà soát hàng quý.",
-    "collocations": [
-      "internal audit",
-      "internal audit review",
-      "internal audit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "internal"
-    ],
-    "day": 127
-  },
-  {
-    "id": "management-letter-phrase",
-    "word": "management letter",
-    "baseWord": "management",
-    "type": "phrase",
-    "meaning": "management letter; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the management letter during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra management letter trong đợt rà soát hàng quý.",
-    "collocations": [
-      "management letter",
-      "management letter review",
-      "management letter process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "management"
-    ],
-    "day": 127
-  },
-  {
-    "id": "material-misstatement-phrase",
-    "word": "material misstatement",
-    "baseWord": "material",
-    "type": "phrase",
-    "meaning": "material misstatement; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Global Trade",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the material misstatement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra material misstatement trong đợt rà soát hàng quý.",
-    "collocations": [
-      "material misstatement",
-      "material misstatement review",
-      "material misstatement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "material"
-    ],
-    "day": 127
-  },
-  {
-    "id": "qualified-opinion-phrase",
-    "word": "qualified opinion",
-    "baseWord": "qualified",
-    "type": "phrase",
-    "meaning": "qualified opinion; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the qualified opinion during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra qualified opinion trong đợt rà soát hàng quý.",
-    "collocations": [
-      "qualified opinion",
-      "qualified opinion review",
-      "qualified opinion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "qualified"
-    ],
-    "day": 127
-  },
-  {
-    "id": "sampling-method-phrase",
-    "word": "sampling method",
-    "baseWord": "sampling",
-    "type": "phrase",
-    "meaning": "sampling method; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the sampling method during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra sampling method trong đợt rà soát hàng quý.",
+    "example": "Please include the financial discount in the file before Friday.",
+    "exampleVi": "Vui long dua financial discount vao ho so truoc thu Sau.",
     "collocations": [
-      "sampling method",
-      "sampling method review",
-      "sampling method process"
+      "financial discount",
+      "financial discount review",
+      "financial discount deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "sampling"
+      "financial",
+      "discount"
     ],
-    "day": 127
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "substantive-testing-phrase",
-    "word": "substantive testing",
-    "baseWord": "substantive",
-    "type": "phrase",
-    "meaning": "substantive testing; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the substantive testing during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra substantive testing trong đợt rà soát hàng quý.",
-    "collocations": [
-      "substantive testing",
-      "substantive testing review",
-      "substantive testing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "substantive"
-    ],
-    "day": 127
-  },
-  {
-    "id": "unqualified-opinion-phrase",
-    "word": "unqualified opinion",
-    "baseWord": "unqualified",
-    "type": "phrase",
-    "meaning": "unqualified opinion; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the unqualified opinion during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra unqualified opinion trong đợt rà soát hàng quý.",
-    "collocations": [
-      "unqualified opinion",
-      "unqualified opinion review",
-      "unqualified opinion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "unqualified"
-    ],
-    "day": 127
-  },
-  {
-    "id": "working-paper-phrase",
-    "word": "working paper",
-    "baseWord": "working",
-    "type": "phrase",
-    "meaning": "working paper; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the working paper during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra working paper trong đợt rà soát hàng quý.",
-    "collocations": [
-      "working paper",
-      "working paper review",
-      "working paper process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "working"
-    ],
-    "day": 127
-  },
-  {
-    "id": "accounts-payable-phrase",
-    "word": "accounts payable",
-    "baseWord": "account",
-    "type": "phrase",
-    "meaning": "accounts payable; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the accounts payable during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accounts payable trong đợt rà soát hàng quý.",
-    "collocations": [
-      "accounts payable",
-      "accounts payable review",
-      "accounts payable process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "account"
-    ],
-    "day": 128
-  },
-  {
-    "id": "accounts-receivable-phrase",
-    "word": "accounts receivable",
-    "baseWord": "account",
-    "type": "phrase",
-    "meaning": "accounts receivable; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the accounts receivable during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accounts receivable trong đợt rà soát hàng quý.",
-    "collocations": [
-      "accounts receivable",
-      "accounts receivable review",
-      "accounts receivable process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "account"
-    ],
-    "day": 128
-  },
-  {
-    "id": "accrual-basis-phrase",
-    "word": "accrual basis",
-    "baseWord": "accrual",
-    "type": "phrase",
-    "meaning": "accrual basis; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the accrual basis during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accrual basis trong đợt rà soát hàng quý.",
-    "collocations": [
-      "accrual basis",
-      "accrual basis review",
-      "accrual basis process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "accrual"
-    ],
-    "day": 128
-  },
-  {
-    "id": "accrued-expense-phrase",
-    "word": "accrued expense",
-    "baseWord": "accrued",
-    "type": "phrase",
-    "meaning": "accrued expense; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the accrued expense during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accrued expense trong đợt rà soát hàng quý.",
-    "collocations": [
-      "accrued expense",
-      "accrued expense review",
-      "accrued expense process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "accrued"
-    ],
-    "day": 128
-  },
-  {
-    "id": "allowance-account-phrase",
-    "word": "allowance account",
-    "baseWord": "allowance",
-    "type": "phrase",
-    "meaning": "allowance account; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the allowance account during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra allowance account trong đợt rà soát hàng quý.",
-    "collocations": [
-      "allowance account",
-      "allowance account review",
-      "allowance account process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "allowance"
-    ],
-    "day": 128
-  },
-  {
-    "id": "amortization-expense-phrase",
-    "word": "amortization expense",
-    "baseWord": "amortization",
-    "type": "phrase",
-    "meaning": "amortization expense; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the amortization expense during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra amortization expense trong đợt rà soát hàng quý.",
-    "collocations": [
-      "amortization expense",
-      "amortization expense review",
-      "amortization expense process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "amortization"
-    ],
-    "day": 128
-  },
-  {
-    "id": "asset-impairment-phrase",
-    "word": "asset impairment",
-    "baseWord": "asset",
-    "type": "phrase",
-    "meaning": "asset impairment; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the asset impairment during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra asset impairment trong đợt rà soát hàng quý.",
-    "collocations": [
-      "asset impairment",
-      "asset impairment review",
-      "asset impairment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "asset"
-    ],
-    "day": 128
-  },
-  {
-    "id": "bad-debt-phrase",
-    "word": "bad debt",
-    "baseWord": "bad",
-    "type": "phrase",
-    "meaning": "bad debt; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the bad debt during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra bad debt trong đợt rà soát hàng quý.",
-    "collocations": [
-      "bad debt",
-      "bad debt review",
-      "bad debt process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "bad"
-    ],
-    "day": 128
-  },
-  {
-    "id": "cash-basis-phrase",
-    "word": "cash basis",
-    "baseWord": "cash",
-    "type": "phrase",
-    "meaning": "cash basis; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the cash basis during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra cash basis trong đợt rà soát hàng quý.",
-    "collocations": [
-      "cash basis",
-      "cash basis review",
-      "cash basis process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cash"
-    ],
-    "day": 128
-  },
-  {
-    "id": "cost-of-goods-sold-phrase",
-    "word": "cost of goods sold",
-    "baseWord": "cost",
-    "type": "phrase",
-    "meaning": "cost of goods sold; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the cost of goods sold during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra cost of goods sold trong đợt rà soát hàng quý.",
-    "collocations": [
-      "cost of goods sold",
-      "cost of goods sold review",
-      "cost of goods sold process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cost"
-    ],
-    "day": 128
-  },
-  {
-    "id": "deferred-revenue-phrase",
-    "word": "deferred revenue",
-    "baseWord": "deferred",
-    "type": "phrase",
-    "meaning": "deferred revenue; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the deferred revenue during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra deferred revenue trong đợt rà soát hàng quý.",
-    "collocations": [
-      "deferred revenue",
-      "deferred revenue review",
-      "deferred revenue process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "deferred"
-    ],
-    "day": 128
-  },
-  {
-    "id": "depreciation-schedule-phrase",
-    "word": "depreciation schedule",
-    "baseWord": "depreciation",
-    "type": "phrase",
-    "meaning": "depreciation schedule; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the depreciation schedule during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra depreciation schedule trong đợt rà soát hàng quý.",
-    "collocations": [
-      "depreciation schedule",
-      "depreciation schedule review",
-      "depreciation schedule process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "depreciation"
-    ],
-    "day": 128
-  },
-  {
-    "id": "fixed-asset-phrase",
-    "word": "fixed asset",
-    "baseWord": "fixed",
-    "type": "phrase",
-    "meaning": "fixed asset; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the fixed asset during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra fixed asset trong đợt rà soát hàng quý.",
-    "collocations": [
-      "fixed asset",
-      "fixed asset review",
-      "fixed asset process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "fixed"
-    ],
-    "day": 128
-  },
-  {
-    "id": "gross-margin-phrase",
-    "word": "gross margin",
-    "baseWord": "gros",
-    "type": "phrase",
-    "meaning": "gross margin; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the gross margin during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra gross margin trong đợt rà soát hàng quý.",
-    "collocations": [
-      "gross margin",
-      "gross margin review",
-      "gross margin process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "gros"
-    ],
-    "day": 128
-  },
-  {
-    "id": "intangible-asset-phrase",
-    "word": "intangible asset",
-    "baseWord": "intangible",
-    "type": "phrase",
-    "meaning": "intangible asset; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the intangible asset during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra intangible asset trong đợt rà soát hàng quý.",
-    "collocations": [
-      "intangible asset",
-      "intangible asset review",
-      "intangible asset process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "intangible"
-    ],
-    "day": 128
-  },
-  {
-    "id": "inventory-valuation-phrase",
-    "word": "inventory valuation",
+    "id": "financial-inventory-collocation",
+    "word": "financial inventory",
     "baseWord": "inventory",
     "type": "phrase",
-    "meaning": "inventory valuation; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial inventory",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Business Events",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the inventory valuation during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra inventory valuation trong đợt rà soát hàng quý.",
+    "example": "Please include the financial inventory in the file before Friday.",
+    "exampleVi": "Vui long dua financial inventory vao ho so truoc thu Sau.",
     "collocations": [
-      "inventory valuation",
-      "inventory valuation review",
-      "inventory valuation process"
+      "financial inventory",
+      "financial inventory review",
+      "financial inventory deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "financial",
       "inventory"
     ],
-    "day": 128
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "net-income-phrase",
-    "word": "net income",
-    "baseWord": "net",
+    "id": "financial-itinerary-collocation",
+    "word": "financial itinerary",
+    "baseWord": "itinerary",
     "type": "phrase",
-    "meaning": "net income; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial itinerary",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the net income during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra net income trong đợt rà soát hàng quý.",
-    "collocations": [
-      "net income",
-      "net income review",
-      "net income process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "net"
-    ],
-    "day": 128
-  },
-  {
-    "id": "operating-expense-phrase",
-    "word": "operating expense",
-    "baseWord": "operating",
-    "type": "phrase",
-    "meaning": "operating expense; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the operating expense during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra operating expense trong đợt rà soát hàng quý.",
-    "collocations": [
-      "operating expense",
-      "operating expense review",
-      "operating expense process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "operating"
-    ],
-    "day": 128
-  },
-  {
-    "id": "prepaid-expense-phrase",
-    "word": "prepaid expense",
-    "baseWord": "prepaid",
-    "type": "phrase",
-    "meaning": "prepaid expense; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the prepaid expense during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra prepaid expense trong đợt rà soát hàng quý.",
-    "collocations": [
-      "prepaid expense",
-      "prepaid expense review",
-      "prepaid expense process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "prepaid"
-    ],
-    "day": 128
-  },
-  {
-    "id": "unearned-revenue-phrase",
-    "word": "unearned revenue",
-    "baseWord": "unearned",
-    "type": "phrase",
-    "meaning": "unearned revenue; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
+    "topic": "Presentations",
+    "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua financial itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial itinerary",
+      "financial itinerary review",
+      "financial itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "itinerary"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "financial-permit-collocation",
+    "word": "financial permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial permit",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the unearned revenue during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra unearned revenue trong đợt rà soát hàng quý.",
+    "example": "Please include the financial permit in the file before Friday.",
+    "exampleVi": "Vui long dua financial permit vao ho so truoc thu Sau.",
     "collocations": [
-      "unearned revenue",
-      "unearned revenue review",
-      "unearned revenue process"
+      "financial permit",
+      "financial permit review",
+      "financial permit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "unearned"
+      "financial",
+      "permit"
     ],
-    "day": 128
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "approval-threshold-phrase",
-    "word": "approval threshold",
+    "id": "financial-presentation-collocation",
+    "word": "financial presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial presentation",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial presentation in the file before Friday.",
+    "exampleVi": "Vui long dua financial presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial presentation",
+      "financial presentation review",
+      "financial presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "presentation"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "financial-representative-collocation",
+    "word": "financial representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial representative",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial representative in the file before Friday.",
+    "exampleVi": "Vui long dua financial representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial representative",
+      "financial representative review",
+      "financial representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "representative"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "financial-reservation-collocation",
+    "word": "financial reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial reservation",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial reservation in the file before Friday.",
+    "exampleVi": "Vui long dua financial reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial reservation",
+      "financial reservation review",
+      "financial reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "reservation"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "financial-supplier-collocation",
+    "word": "financial supplier",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial supplier",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial supplier in the file before Friday.",
+    "exampleVi": "Vui long dua financial supplier vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial supplier",
+      "financial supplier review",
+      "financial supplier deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "supplier"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "financial-tariff-collocation",
+    "word": "financial tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial tariff",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial tariff in the file before Friday.",
+    "exampleVi": "Vui long dua financial tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial tariff",
+      "financial tariff review",
+      "financial tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "tariff"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "financial-vendor-collocation",
+    "word": "financial vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial vendor",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial vendor in the file before Friday.",
+    "exampleVi": "Vui long dua financial vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial vendor",
+      "financial vendor review",
+      "financial vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "vendor"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "financial-venue-collocation",
+    "word": "financial venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial venue",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial venue in the file before Friday.",
+    "exampleVi": "Vui long dua financial venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial venue",
+      "financial venue review",
+      "financial venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "venue"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "financial-warehouse-collocation",
+    "word": "financial warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial warehouse",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua financial warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial warehouse",
+      "financial warehouse review",
+      "financial warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "warehouse"
+    ],
+    "day": 126,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "financial-approval-collocation",
+    "word": "financial approval",
     "baseWord": "approval",
     "type": "phrase",
-    "meaning": "approval threshold; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial approval",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the approval threshold during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra approval threshold trong đợt rà soát hàng quý.",
+    "example": "Please include the financial approval in the file before Friday.",
+    "exampleVi": "Vui long dua financial approval vao ho so truoc thu Sau.",
     "collocations": [
-      "approval threshold",
-      "approval threshold review",
-      "approval threshold process"
+      "financial approval",
+      "financial approval review",
+      "financial approval deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "financial",
       "approval"
     ],
-    "day": 129
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "audit-adjustment-verb",
-    "word": "audit adjustment",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit adjustment; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit adjustment during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit adjustment trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit adjustment",
-      "audit adjustment review",
-      "audit adjustment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 129
-  },
-  {
-    "id": "budget-variance-phrase",
-    "word": "budget variance",
-    "baseWord": "budget",
+    "id": "financial-authorization-collocation",
+    "word": "financial authorization",
+    "baseWord": "authorization",
     "type": "phrase",
-    "meaning": "budget variance; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial authorization",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the budget variance during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra budget variance trong đợt rà soát hàng quý.",
-    "collocations": [
-      "budget variance",
-      "budget variance review",
-      "budget variance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "budget"
-    ],
-    "day": 129
-  },
-  {
-    "id": "deductible-expense-phrase",
-    "word": "deductible expense",
-    "baseWord": "deductible",
-    "type": "phrase",
-    "meaning": "deductible expense; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the deductible expense during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra deductible expense trong đợt rà soát hàng quý.",
-    "collocations": [
-      "deductible expense",
-      "deductible expense review",
-      "deductible expense process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "deductible"
-    ],
-    "day": 129
-  },
-  {
-    "id": "expense-report-phrase",
-    "word": "expense report",
-    "baseWord": "expense",
-    "type": "phrase",
-    "meaning": "expense report; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the expense report during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra expense report trong đợt rà soát hàng quý.",
-    "collocations": [
-      "expense report",
-      "expense report review",
-      "expense report process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "expense"
-    ],
-    "day": 129
-  },
-  {
-    "id": "expense-voucher-phrase",
-    "word": "expense voucher",
-    "baseWord": "expense",
-    "type": "phrase",
-    "meaning": "expense voucher; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the expense voucher during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra expense voucher trong đợt rà soát hàng quý.",
-    "collocations": [
-      "expense voucher",
-      "expense voucher review",
-      "expense voucher process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "expense"
-    ],
-    "day": 129
-  },
-  {
-    "id": "financial-control-phrase",
-    "word": "financial control",
-    "baseWord": "financial",
-    "type": "phrase",
-    "meaning": "financial control; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial authorization in the file before Friday.",
+    "exampleVi": "Vui long dua financial authorization vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial authorization",
+      "financial authorization review",
+      "financial authorization deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "authorization"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "financial-certificate-collocation",
+    "word": "financial certificate",
+    "baseWord": "certificate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial certificate",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the financial control during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra financial control trong đợt rà soát hàng quý.",
+    "example": "Please include the financial certificate in the file before Friday.",
+    "exampleVi": "Vui long dua financial certificate vao ho so truoc thu Sau.",
     "collocations": [
-      "financial control",
-      "financial control review",
-      "financial control process"
+      "financial certificate",
+      "financial certificate review",
+      "financial certificate deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "financial"
+      "financial",
+      "certificate"
     ],
-    "day": 129
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "invoice-matching-phrase",
-    "word": "invoice matching",
-    "baseWord": "invoice",
+    "id": "financial-claim-collocation",
+    "word": "financial claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "invoice matching; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial claim",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial claim in the file before Friday.",
+    "exampleVi": "Vui long dua financial claim vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial claim",
+      "financial claim review",
+      "financial claim deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "claim"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "financial-coverage-collocation",
+    "word": "financial coverage",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial coverage",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial coverage in the file before Friday.",
+    "exampleVi": "Vui long dua financial coverage vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial coverage",
+      "financial coverage review",
+      "financial coverage deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "coverage"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "financial-database-collocation",
+    "word": "financial database",
+    "baseWord": "database",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial database",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial database in the file before Friday.",
+    "exampleVi": "Vui long dua financial database vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial database",
+      "financial database review",
+      "financial database deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "database"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "financial-equipment-collocation",
+    "word": "financial equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial equipment",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial equipment in the file before Friday.",
+    "exampleVi": "Vui long dua financial equipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial equipment",
+      "financial equipment review",
+      "financial equipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "equipment"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "financial-facility-collocation",
+    "word": "financial facility",
+    "baseWord": "facility",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial facility",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial facility in the file before Friday.",
+    "exampleVi": "Vui long dua financial facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial facility",
+      "financial facility review",
+      "financial facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "facility"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "financial-lease-collocation",
+    "word": "financial lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial lease",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial lease in the file before Friday.",
+    "exampleVi": "Vui long dua financial lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial lease",
+      "financial lease review",
+      "financial lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "lease"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "financial-license-collocation",
+    "word": "financial license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial license",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial license in the file before Friday.",
+    "exampleVi": "Vui long dua financial license vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial license",
+      "financial license review",
+      "financial license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "license"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "financial-maintenance-collocation",
+    "word": "financial maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial maintenance",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua financial maintenance vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial maintenance",
+      "financial maintenance review",
+      "financial maintenance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "maintenance"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "financial-notice-collocation",
+    "word": "financial notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial notice",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial notice in the file before Friday.",
+    "exampleVi": "Vui long dua financial notice vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial notice",
+      "financial notice review",
+      "financial notice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "notice"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "financial-premium-collocation",
+    "word": "financial premium",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial premium",
     "pronunciation": "",
     "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the invoice matching during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra invoice matching trong đợt rà soát hàng quý.",
+    "example": "Please include the financial premium in the file before Friday.",
+    "exampleVi": "Vui long dua financial premium vao ho so truoc thu Sau.",
     "collocations": [
-      "invoice matching",
-      "invoice matching review",
-      "invoice matching process"
+      "financial premium",
+      "financial premium review",
+      "financial premium deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "invoice"
+      "financial",
+      "premium"
     ],
-    "day": 129
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "payment-authorization-phrase",
-    "word": "payment authorization",
+    "id": "financial-property-collocation",
+    "word": "financial property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial property",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial property in the file before Friday.",
+    "exampleVi": "Vui long dua financial property vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial property",
+      "financial property review",
+      "financial property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "property"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "financial-renovation-collocation",
+    "word": "financial renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial renovation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial renovation in the file before Friday.",
+    "exampleVi": "Vui long dua financial renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial renovation",
+      "financial renovation review",
+      "financial renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "renovation"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "financial-request-collocation",
+    "word": "financial request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial request",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial request in the file before Friday.",
+    "exampleVi": "Vui long dua financial request vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial request",
+      "financial request review",
+      "financial request deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "request"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "financial-response-collocation",
+    "word": "financial response",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial response",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial response in the file before Friday.",
+    "exampleVi": "Vui long dua financial response vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial response",
+      "financial response review",
+      "financial response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "response"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "financial-security-collocation",
+    "word": "financial security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial security",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial security in the file before Friday.",
+    "exampleVi": "Vui long dua financial security vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial security",
+      "financial security review",
+      "financial security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "security"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "financial-software-collocation",
+    "word": "financial software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial software",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial software in the file before Friday.",
+    "exampleVi": "Vui long dua financial software vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial software",
+      "financial software review",
+      "financial software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "software"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "financial-tenant-collocation",
+    "word": "financial tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial tenant",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial tenant in the file before Friday.",
+    "exampleVi": "Vui long dua financial tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial tenant",
+      "financial tenant review",
+      "financial tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "tenant"
+    ],
+    "day": 127,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "financial-analysis-collocation",
+    "word": "financial analysis",
+    "baseWord": "analysis",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial analysis",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial analysis in the file before Friday.",
+    "exampleVi": "Vui long dua financial analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial analysis",
+      "financial analysis review",
+      "financial analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "analysis"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "financial-compliance-collocation",
+    "word": "financial compliance",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial compliance",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial compliance in the file before Friday.",
+    "exampleVi": "Vui long dua financial compliance vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial compliance",
+      "financial compliance review",
+      "financial compliance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "compliance"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "financial-confirmation-collocation",
+    "word": "financial confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial confirmation",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua financial confirmation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial confirmation",
+      "financial confirmation review",
+      "financial confirmation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "confirmation"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "financial-finding-collocation",
+    "word": "financial finding",
+    "baseWord": "finding",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial finding",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial finding in the file before Friday.",
+    "exampleVi": "Vui long dua financial finding vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial finding",
+      "financial finding review",
+      "financial finding deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "finding"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "financial-liability-collocation",
+    "word": "financial liability",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial liability",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial liability in the file before Friday.",
+    "exampleVi": "Vui long dua financial liability vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial liability",
+      "financial liability review",
+      "financial liability deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "liability"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "financial-negotiation-collocation",
+    "word": "financial negotiation",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial negotiation",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua financial negotiation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial negotiation",
+      "financial negotiation review",
+      "financial negotiation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "negotiation"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "financial-payment-collocation",
+    "word": "financial payment",
     "baseWord": "payment",
     "type": "phrase",
-    "meaning": "payment authorization; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial payment",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the payment authorization during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra payment authorization trong đợt rà soát hàng quý.",
+    "example": "Please include the financial payment in the file before Friday.",
+    "exampleVi": "Vui long dua financial payment vao ho so truoc thu Sau.",
     "collocations": [
-      "payment authorization",
-      "payment authorization review",
-      "payment authorization process"
+      "financial payment",
+      "financial payment review",
+      "financial payment deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "financial",
       "payment"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "payroll-tax-phrase",
-    "word": "payroll tax",
+    "id": "financial-payroll-collocation",
+    "word": "financial payroll",
     "baseWord": "payroll",
     "type": "phrase",
-    "meaning": "payroll tax; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial payroll",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the payroll tax during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra payroll tax trong đợt rà soát hàng quý.",
+    "example": "Please include the financial payroll in the file before Friday.",
+    "exampleVi": "Vui long dua financial payroll vao ho so truoc thu Sau.",
     "collocations": [
-      "payroll tax",
-      "payroll tax review",
-      "payroll tax process"
+      "financial payroll",
+      "financial payroll review",
+      "financial payroll deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "financial",
       "payroll"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "procurement-order-form-phrase",
-    "word": "procurement order form",
-    "baseWord": "procurement",
+    "id": "financial-recommendation-collocation",
+    "word": "financial recommendation",
+    "baseWord": "recommendation",
     "type": "phrase",
-    "meaning": "procurement order form; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial recommendation",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "high",
-    "level": "hard",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the procurement order form during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra procurement order form trong đợt rà soát hàng quý.",
+    "example": "Please include the financial recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua financial recommendation vao ho so truoc thu Sau.",
     "collocations": [
-      "procurement order form",
-      "procurement order form review",
-      "procurement order form process"
+      "financial recommendation",
+      "financial recommendation review",
+      "financial recommendation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "procurement"
+      "financial",
+      "recommendation"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "reimbursement-claim-phrase",
-    "word": "reimbursement claim",
+    "id": "financial-regulation-collocation",
+    "word": "financial regulation",
+    "baseWord": "regulation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial regulation",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial regulation in the file before Friday.",
+    "exampleVi": "Vui long dua financial regulation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial regulation",
+      "financial regulation review",
+      "financial regulation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "regulation"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "financial-reimbursement-collocation",
+    "word": "financial reimbursement",
     "baseWord": "reimbursement",
     "type": "phrase",
-    "meaning": "reimbursement claim; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial reimbursement",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the reimbursement claim during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra reimbursement claim trong đợt rà soát hàng quý.",
+    "example": "Please include the financial reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua financial reimbursement vao ho so truoc thu Sau.",
     "collocations": [
-      "reimbursement claim",
-      "reimbursement claim review",
-      "reimbursement claim process"
+      "financial reimbursement",
+      "financial reimbursement review",
+      "financial reimbursement deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "financial",
       "reimbursement"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "sales-tax-phrase",
-    "word": "sales tax",
-    "baseWord": "sale",
+    "id": "financial-research-collocation",
+    "word": "financial research",
+    "baseWord": "research",
     "type": "phrase",
-    "meaning": "sales tax; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial research",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial research in the file before Friday.",
+    "exampleVi": "Vui long dua financial research vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial research",
+      "financial research review",
+      "financial research deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "research"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "financial-review-collocation",
+    "word": "financial review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial review",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the sales tax during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra sales tax trong đợt rà soát hàng quý.",
-    "collocations": [
-      "sales tax",
-      "sales tax review",
-      "sales tax process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "sale"
-    ],
-    "day": 129
-  },
-  {
-    "id": "segregation-of-duties-phrase",
-    "word": "segregation of duties",
-    "baseWord": "segregation",
-    "type": "phrase",
-    "meaning": "segregation of duties; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the segregation of duties during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra segregation of duties trong đợt rà soát hàng quý.",
-    "collocations": [
-      "segregation of duties",
-      "segregation of duties review",
-      "segregation of duties process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "segregation"
-    ],
-    "day": 129
-  },
-  {
-    "id": "supporting-document-phrase",
-    "word": "supporting document",
-    "baseWord": "supporting",
-    "type": "phrase",
-    "meaning": "supporting document; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the supporting document during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra supporting document trong đợt rà soát hàng quý.",
-    "collocations": [
-      "supporting document",
-      "supporting document review",
-      "supporting document process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "supporting"
-    ],
-    "day": 129
-  },
-  {
-    "id": "tax-filing-package-phrase",
-    "word": "tax filing package",
-    "baseWord": "tax",
-    "type": "phrase",
-    "meaning": "tax filing package; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the tax filing package during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra tax filing package trong đợt rà soát hàng quý.",
+    "example": "Please include the financial review in the file before Friday.",
+    "exampleVi": "Vui long dua financial review vao ho so truoc thu Sau.",
     "collocations": [
-      "tax filing package",
-      "tax filing package review",
-      "tax filing package process"
+      "financial review",
+      "financial review review",
+      "financial review deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "tax"
+      "financial",
+      "review"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
-    "id": "tax-liability-phrase",
-    "word": "tax liability",
-    "baseWord": "tax",
+    "id": "financial-settlement-collocation",
+    "word": "financial settlement",
+    "baseWord": "settlement",
     "type": "phrase",
-    "meaning": "tax liability; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial settlement",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the tax liability during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra tax liability trong đợt rà soát hàng quý.",
-    "collocations": [
-      "tax liability",
-      "tax liability review",
-      "tax liability process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "tax"
-    ],
-    "day": 129
-  },
-  {
-    "id": "tax-provision-phrase",
-    "word": "tax provision",
-    "baseWord": "tax",
-    "type": "phrase",
-    "meaning": "tax provision; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial settlement in the file before Friday.",
+    "exampleVi": "Vui long dua financial settlement vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial settlement",
+      "financial settlement review",
+      "financial settlement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "settlement"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "financial-summary-collocation",
+    "word": "financial summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial summary",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the tax provision during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra tax provision trong đợt rà soát hàng quý.",
+    "example": "Please include the financial summary in the file before Friday.",
+    "exampleVi": "Vui long dua financial summary vao ho so truoc thu Sau.",
     "collocations": [
-      "tax provision",
-      "tax provision review",
-      "tax provision process"
+      "financial summary",
+      "financial summary review",
+      "financial summary deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "tax"
+      "financial",
+      "summary"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
-    "id": "variance-analysis-phrase",
-    "word": "variance analysis",
-    "baseWord": "variance",
+    "id": "financial-survey-collocation",
+    "word": "financial survey",
+    "baseWord": "survey",
     "type": "phrase",
-    "meaning": "variance analysis; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: financial survey",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
+    "topic": "Corporate Policy",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the variance analysis during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra variance analysis trong đợt rà soát hàng quý.",
+    "example": "Please include the financial survey in the file before Friday.",
+    "exampleVi": "Vui long dua financial survey vao ho so truoc thu Sau.",
     "collocations": [
-      "variance analysis",
-      "variance analysis review",
-      "variance analysis process"
+      "financial survey",
+      "financial survey review",
+      "financial survey deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "variance"
+      "financial",
+      "survey"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
-    "id": "withholding-tax-verb",
-    "word": "withholding tax",
-    "baseWord": "withholding",
-    "type": "verb",
-    "meaning": "withholding tax; thuật ngữ về kế toán và kiểm toán",
+    "id": "financial-transaction-collocation",
+    "word": "financial transaction",
+    "baseWord": "transaction",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial transaction",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial transaction in the file before Friday.",
+    "exampleVi": "Vui long dua financial transaction vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial transaction",
+      "financial transaction review",
+      "financial transaction deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "transaction"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "financial-update-collocation",
+    "word": "financial update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial update",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the withholding tax during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra withholding tax trong đợt rà soát hàng quý.",
+    "example": "Please include the financial update in the file before Friday.",
+    "exampleVi": "Vui long dua financial update vao ho so truoc thu Sau.",
     "collocations": [
-      "withholding tax",
-      "withholding tax review",
-      "withholding tax process"
+      "financial update",
+      "financial update review",
+      "financial update deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "withholding"
+      "financial",
+      "update"
     ],
-    "day": 129
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
-    "id": "account-reconciliation-phrase",
-    "word": "account reconciliation",
-    "baseWord": "account",
+    "id": "sales-report-collocation",
+    "word": "sales report",
+    "baseWord": "report",
     "type": "phrase",
-    "meaning": "account reconciliation; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales report",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the account reconciliation during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra account reconciliation trong đợt rà soát hàng quý.",
-    "collocations": [
-      "account reconciliation",
-      "account reconciliation review",
-      "account reconciliation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "account"
-    ],
-    "day": 130
-  },
-  {
-    "id": "accounting-estimate-phrase",
-    "word": "accounting estimate",
-    "baseWord": "accounting",
-    "type": "phrase",
-    "meaning": "accounting estimate; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the accounting estimate during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accounting estimate trong đợt rà soát hàng quý.",
-    "collocations": [
-      "accounting estimate",
-      "accounting estimate review",
-      "accounting estimate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "accounting"
-    ],
-    "day": 130
-  },
-  {
-    "id": "accounting-policy-phrase",
-    "word": "accounting policy",
-    "baseWord": "accounting",
-    "type": "phrase",
-    "meaning": "accounting policy; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Workplace Issues",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales report in the file before Friday.",
+    "exampleVi": "Vui long dua sales report vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales report",
+      "sales report review",
+      "sales report deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "report"
+    ],
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "sales-target-collocation",
+    "word": "sales target",
+    "baseWord": "target",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales target",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the accounting policy during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra accounting policy trong đợt rà soát hàng quý.",
+    "example": "Please include the sales target in the file before Friday.",
+    "exampleVi": "Vui long dua sales target vao ho so truoc thu Sau.",
     "collocations": [
-      "accounting policy",
-      "accounting policy review",
-      "accounting policy process"
+      "sales target",
+      "sales target review",
+      "sales target deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "accounting"
+      "sales",
+      "target"
     ],
-    "day": 130
+    "day": 128,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "audit-committee-verb",
-    "word": "audit committee",
+    "id": "sales-agenda-collocation",
+    "word": "sales agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales agenda",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales agenda in the file before Friday.",
+    "exampleVi": "Vui long dua sales agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales agenda",
+      "sales agenda review",
+      "sales agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "agenda"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "sales-agreement-collocation",
+    "word": "sales agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales agreement",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales agreement in the file before Friday.",
+    "exampleVi": "Vui long dua sales agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales agreement",
+      "sales agreement review",
+      "sales agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "agreement"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "sales-audit-collocation",
+    "word": "sales audit",
     "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit committee; thuật ngữ về kế toán và kiểm toán",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales audit",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the audit committee during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit committee trong đợt rà soát hàng quý.",
+    "example": "Please include the sales audit in the file before Friday.",
+    "exampleVi": "Vui long dua sales audit vao ho so truoc thu Sau.",
     "collocations": [
-      "audit committee",
-      "audit committee review",
-      "audit committee process"
+      "sales audit",
+      "sales audit review",
+      "sales audit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "audit"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "audit-readiness-verb",
-    "word": "audit readiness",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit readiness; thuật ngữ về kế toán và kiểm toán",
+    "id": "sales-balance-collocation",
+    "word": "sales balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales balance",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Human Resources",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the audit readiness during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra audit readiness trong đợt rà soát hàng quý.",
-    "collocations": [
-      "audit readiness",
-      "audit readiness review",
-      "audit readiness process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 130
-  },
-  {
-    "id": "capital-expenditure-phrase",
-    "word": "capital expenditure",
-    "baseWord": "capital",
-    "type": "phrase",
-    "meaning": "capital expenditure; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the capital expenditure during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra capital expenditure trong đợt rà soát hàng quý.",
-    "collocations": [
-      "capital expenditure",
-      "capital expenditure review",
-      "capital expenditure process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "capital"
-    ],
-    "day": 130
-  },
-  {
-    "id": "cash-flow-statement-phrase",
-    "word": "cash flow statement",
-    "baseWord": "cash",
-    "type": "phrase",
-    "meaning": "cash flow statement; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the cash flow statement during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra cash flow statement trong đợt rà soát hàng quý.",
+    "example": "Please include the sales balance in the file before Friday.",
+    "exampleVi": "Vui long dua sales balance vao ho so truoc thu Sau.",
     "collocations": [
-      "cash flow statement",
-      "cash flow statement review",
-      "cash flow statement process"
+      "sales balance",
+      "sales balance review",
+      "sales balance deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "cash"
+      "sales",
+      "balance"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "control-environment-phrase",
-    "word": "control environment",
-    "baseWord": "control",
+    "id": "sales-budget-collocation",
+    "word": "sales budget",
+    "baseWord": "budget",
     "type": "phrase",
-    "meaning": "control environment; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales budget",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the control environment during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra control environment trong đợt rà soát hàng quý.",
+    "example": "Please include the sales budget in the file before Friday.",
+    "exampleVi": "Vui long dua sales budget vao ho so truoc thu Sau.",
     "collocations": [
-      "control environment",
-      "control environment review",
-      "control environment process"
+      "sales budget",
+      "sales budget review",
+      "sales budget deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "control"
+      "sales",
+      "budget"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "expense-recognition-phrase",
-    "word": "expense recognition",
+    "id": "sales-contract-collocation",
+    "word": "sales contract",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales contract",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales contract in the file before Friday.",
+    "exampleVi": "Vui long dua sales contract vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales contract",
+      "sales contract review",
+      "sales contract deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "contract"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "sales-deadline-collocation",
+    "word": "sales deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales deadline",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales deadline in the file before Friday.",
+    "exampleVi": "Vui long dua sales deadline vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales deadline",
+      "sales deadline review",
+      "sales deadline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "deadline"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "sales-expense-collocation",
+    "word": "sales expense",
     "baseWord": "expense",
     "type": "phrase",
-    "meaning": "expense recognition; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales expense",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the expense recognition during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra expense recognition trong đợt rà soát hàng quý.",
+    "example": "Please include the sales expense in the file before Friday.",
+    "exampleVi": "Vui long dua sales expense vao ho so truoc thu Sau.",
     "collocations": [
-      "expense recognition",
-      "expense recognition review",
-      "expense recognition process"
+      "sales expense",
+      "sales expense review",
+      "sales expense deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "expense"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "financial-accuracy-phrase",
-    "word": "financial accuracy",
-    "baseWord": "financial",
+    "id": "sales-feedback-collocation",
+    "word": "sales feedback",
+    "baseWord": "feedback",
     "type": "phrase",
-    "meaning": "financial accuracy; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales feedback",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the financial accuracy during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra financial accuracy trong đợt rà soát hàng quý.",
-    "collocations": [
-      "financial accuracy",
-      "financial accuracy review",
-      "financial accuracy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "financial"
-    ],
-    "day": 130
-  },
-  {
-    "id": "financial-disclosure-phrase",
-    "word": "financial disclosure",
-    "baseWord": "financial",
-    "type": "phrase",
-    "meaning": "financial disclosure; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the financial disclosure during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra financial disclosure trong đợt rà soát hàng quý.",
-    "collocations": [
-      "financial disclosure",
-      "financial disclosure review",
-      "financial disclosure process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "financial"
-    ],
-    "day": 130
-  },
-  {
-    "id": "fiscal-period-phrase",
-    "word": "fiscal period",
-    "baseWord": "fiscal",
-    "type": "phrase",
-    "meaning": "fiscal period; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Customer Service",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the fiscal period during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra fiscal period trong đợt rà soát hàng quý.",
+    "example": "Please include the sales feedback in the file before Friday.",
+    "exampleVi": "Vui long dua sales feedback vao ho so truoc thu Sau.",
     "collocations": [
-      "fiscal period",
-      "fiscal period review",
-      "fiscal period process"
+      "sales feedback",
+      "sales feedback review",
+      "sales feedback deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "fiscal"
+      "sales",
+      "feedback"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "fraud-detection-phrase",
-    "word": "fraud detection",
-    "baseWord": "fraud",
+    "id": "sales-forecast-collocation",
+    "word": "sales forecast",
+    "baseWord": "forecast",
     "type": "phrase",
-    "meaning": "fraud detection; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales forecast",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales forecast in the file before Friday.",
+    "exampleVi": "Vui long dua sales forecast vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales forecast",
+      "sales forecast review",
+      "sales forecast deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "forecast"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "sales-invoice-collocation",
+    "word": "sales invoice",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales invoice",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales invoice in the file before Friday.",
+    "exampleVi": "Vui long dua sales invoice vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales invoice",
+      "sales invoice review",
+      "sales invoice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "invoice"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "sales-loss-collocation",
+    "word": "sales loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales loss",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales loss in the file before Friday.",
+    "exampleVi": "Vui long dua sales loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales loss",
+      "sales loss review",
+      "sales loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "loss"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "sales-meeting-collocation",
+    "word": "sales meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales meeting",
     "pronunciation": "",
     "topic": "Accounting & Auditing",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 7"
-    ],
-    "example": "The accountant checked the fraud detection during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra fraud detection trong đợt rà soát hàng quý.",
-    "collocations": [
-      "fraud detection",
-      "fraud detection review",
-      "fraud detection process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "fraud"
-    ],
-    "day": 130
-  },
-  {
-    "id": "ledger-review-phrase",
-    "word": "ledger review",
-    "baseWord": "ledger",
-    "type": "phrase",
-    "meaning": "ledger review; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the ledger review during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra ledger review trong đợt rà soát hàng quý.",
+    "example": "Please include the sales meeting in the file before Friday.",
+    "exampleVi": "Vui long dua sales meeting vao ho so truoc thu Sau.",
     "collocations": [
-      "ledger review",
-      "ledger review review",
-      "ledger review process"
+      "sales meeting",
+      "sales meeting review",
+      "sales meeting deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "ledger"
+      "sales",
+      "meeting"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "operating-cash-flow-phrase",
-    "word": "operating cash flow",
-    "baseWord": "operating",
+    "id": "sales-profit-collocation",
+    "word": "sales profit",
+    "baseWord": "profit",
     "type": "phrase",
-    "meaning": "operating cash flow; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales profit",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the operating cash flow during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra operating cash flow trong đợt rà soát hàng quý.",
-    "collocations": [
-      "operating cash flow",
-      "operating cash flow review",
-      "operating cash flow process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "operating"
-    ],
-    "day": 130
-  },
-  {
-    "id": "owner-equity-phrase",
-    "word": "owner equity",
-    "baseWord": "owner",
-    "type": "phrase",
-    "meaning": "owner equity; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Contracts & Legal",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the owner equity during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra owner equity trong đợt rà soát hàng quý.",
+    "example": "Please include the sales profit in the file before Friday.",
+    "exampleVi": "Vui long dua sales profit vao ho so truoc thu Sau.",
     "collocations": [
-      "owner equity",
-      "owner equity review",
-      "owner equity process"
+      "sales profit",
+      "sales profit review",
+      "sales profit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "owner"
+      "sales",
+      "profit"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
-    "id": "quarterly-close-phrase",
-    "word": "quarterly close",
-    "baseWord": "quarterly",
+    "id": "sales-proposal-collocation",
+    "word": "sales proposal",
+    "baseWord": "proposal",
     "type": "phrase",
-    "meaning": "quarterly close; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales proposal",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales proposal in the file before Friday.",
+    "exampleVi": "Vui long dua sales proposal vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales proposal",
+      "sales proposal review",
+      "sales proposal deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "proposal"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "sales-receipt-collocation",
+    "word": "sales receipt",
+    "baseWord": "receipt",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales receipt",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the quarterly close during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra quarterly close trong đợt rà soát hàng quý.",
+    "example": "Please include the sales receipt in the file before Friday.",
+    "exampleVi": "Vui long dua sales receipt vao ho so truoc thu Sau.",
     "collocations": [
-      "quarterly close",
-      "quarterly close review",
-      "quarterly close process"
+      "sales receipt",
+      "sales receipt review",
+      "sales receipt deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "quarterly"
+      "sales",
+      "receipt"
     ],
-    "day": 130
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
-    "id": "retained-earnings-phrase",
-    "word": "retained earnings",
-    "baseWord": "retained",
-    "type": "phrase",
-    "meaning": "retained earnings; thuật ngữ về kế toán và kiểm toán",
-    "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The accountant checked the retained earnings during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra retained earnings trong đợt rà soát hàng quý.",
-    "collocations": [
-      "retained earnings",
-      "retained earnings review",
-      "retained earnings process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "retained"
-    ],
-    "day": 130
-  },
-  {
-    "id": "revenue-recognition-phrase",
-    "word": "revenue recognition",
+    "id": "sales-revenue-collocation",
+    "word": "sales revenue",
     "baseWord": "revenue",
     "type": "phrase",
-    "meaning": "revenue recognition; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales revenue",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales revenue in the file before Friday.",
+    "exampleVi": "Vui long dua sales revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales revenue",
+      "sales revenue review",
+      "sales revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "revenue"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "sales-schedule-collocation",
+    "word": "sales schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales schedule",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales schedule in the file before Friday.",
+    "exampleVi": "Vui long dua sales schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales schedule",
+      "sales schedule review",
+      "sales schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "schedule"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "sales-shipment-collocation",
+    "word": "sales shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales shipment",
+    "pronunciation": "",
+    "topic": "Technology & IT",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales shipment in the file before Friday.",
+    "exampleVi": "Vui long dua sales shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales shipment",
+      "sales shipment review",
+      "sales shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "shipment"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "sales-statement-collocation",
+    "word": "sales statement",
+    "baseWord": "statement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales statement",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales statement in the file before Friday.",
+    "exampleVi": "Vui long dua sales statement vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales statement",
+      "sales statement review",
+      "sales statement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "statement"
+    ],
+    "day": 129,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "sales-accommodation-collocation",
+    "word": "sales accommodation",
+    "baseWord": "accommodation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales accommodation",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The accountant checked the revenue recognition during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra revenue recognition trong đợt rà soát hàng quý.",
+    "example": "Please include the sales accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua sales accommodation vao ho so truoc thu Sau.",
     "collocations": [
-      "revenue recognition",
-      "revenue recognition review",
-      "revenue recognition process"
+      "sales accommodation",
+      "sales accommodation review",
+      "sales accommodation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "revenue"
+      "sales",
+      "accommodation"
     ],
-    "day": 130
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "year-end-close-phrase",
-    "word": "year-end close",
-    "baseWord": "year-end",
+    "id": "sales-application-collocation",
+    "word": "sales application",
+    "baseWord": "application",
     "type": "phrase",
-    "meaning": "year-end close; thuật ngữ về kế toán và kiểm toán",
+    "meaning": "collocation TOEIC 700: sales application",
     "pronunciation": "",
-    "topic": "Accounting & Auditing",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The accountant checked the year-end close during the quarterly review.",
-    "exampleVi": "Kế toán viên đã kiểm tra year-end close trong đợt rà soát hàng quý.",
+    "example": "Please include the sales application in the file before Friday.",
+    "exampleVi": "Vui long dua sales application vao ho so truoc thu Sau.",
     "collocations": [
-      "year-end close",
-      "year-end close review",
-      "year-end close process"
+      "sales application",
+      "sales application review",
+      "sales application deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "year-end"
+      "sales",
+      "application"
     ],
-    "day": 130
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "sales-candidate-collocation",
+    "word": "sales candidate",
+    "baseWord": "candidate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales candidate",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales candidate in the file before Friday.",
+    "exampleVi": "Vui long dua sales candidate vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales candidate",
+      "sales candidate review",
+      "sales candidate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "candidate"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "sales-complaint-collocation",
+    "word": "sales complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales complaint",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales complaint in the file before Friday.",
+    "exampleVi": "Vui long dua sales complaint vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales complaint",
+      "sales complaint review",
+      "sales complaint deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "complaint"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "sales-conference-collocation",
+    "word": "sales conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales conference",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales conference in the file before Friday.",
+    "exampleVi": "Vui long dua sales conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales conference",
+      "sales conference review",
+      "sales conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "conference"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "sales-evaluation-collocation",
+    "word": "sales evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales evaluation",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua sales evaluation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales evaluation",
+      "sales evaluation review",
+      "sales evaluation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "evaluation"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "sales-guideline-collocation",
+    "word": "sales guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales guideline",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales guideline in the file before Friday.",
+    "exampleVi": "Vui long dua sales guideline vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales guideline",
+      "sales guideline review",
+      "sales guideline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "guideline"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "sales-inspection-collocation",
+    "word": "sales inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales inspection",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales inspection in the file before Friday.",
+    "exampleVi": "Vui long dua sales inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales inspection",
+      "sales inspection review",
+      "sales inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "inspection"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "sales-interview-collocation",
+    "word": "sales interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales interview",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales interview in the file before Friday.",
+    "exampleVi": "Vui long dua sales interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales interview",
+      "sales interview review",
+      "sales interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "interview"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "sales-itinerary-collocation",
+    "word": "sales itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales itinerary",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua sales itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales itinerary",
+      "sales itinerary review",
+      "sales itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "itinerary"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "sales-orientation-collocation",
+    "word": "sales orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales orientation",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales orientation in the file before Friday.",
+    "exampleVi": "Vui long dua sales orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales orientation",
+      "sales orientation review",
+      "sales orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "orientation"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "sales-performance-collocation",
+    "word": "sales performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales performance",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales performance in the file before Friday.",
+    "exampleVi": "Vui long dua sales performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales performance",
+      "sales performance review",
+      "sales performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "performance"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "sales-policy-collocation",
+    "word": "sales policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales policy",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales policy in the file before Friday.",
+    "exampleVi": "Vui long dua sales policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales policy",
+      "sales policy review",
+      "sales policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "policy"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "sales-procedure-collocation",
+    "word": "sales procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales procedure",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales procedure in the file before Friday.",
+    "exampleVi": "Vui long dua sales procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales procedure",
+      "sales procedure review",
+      "sales procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "procedure"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "sales-refund-collocation",
+    "word": "sales refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales refund",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales refund in the file before Friday.",
+    "exampleVi": "Vui long dua sales refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales refund",
+      "sales refund review",
+      "sales refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "refund"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "sales-representative-collocation",
+    "word": "sales representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales representative",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales representative in the file before Friday.",
+    "exampleVi": "Vui long dua sales representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales representative",
+      "sales representative review",
+      "sales representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "representative"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "sales-reservation-collocation",
+    "word": "sales reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales reservation",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales reservation in the file before Friday.",
+    "exampleVi": "Vui long dua sales reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales reservation",
+      "sales reservation review",
+      "sales reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "reservation"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "sales-training-collocation",
+    "word": "sales training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales training",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales training in the file before Friday.",
+    "exampleVi": "Vui long dua sales training vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales training",
+      "sales training review",
+      "sales training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "training"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "sales-venue-collocation",
+    "word": "sales venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales venue",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales venue in the file before Friday.",
+    "exampleVi": "Vui long dua sales venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales venue",
+      "sales venue review",
+      "sales venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "venue"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "sales-warranty-collocation",
+    "word": "sales warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales warranty",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales warranty in the file before Friday.",
+    "exampleVi": "Vui long dua sales warranty vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales warranty",
+      "sales warranty review",
+      "sales warranty deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "warranty"
+    ],
+    "day": 130,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

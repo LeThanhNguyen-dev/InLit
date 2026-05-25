@@ -8,6 +8,7 @@ export default function VocabularyCard({ word, learned, difficult, onLearned, on
           <div className="flex items-center gap-2">
             <h3 className="text-lg font-bold text-vault-ink">{word.word}</h3>
             <span className="rounded-full bg-slate-100 px-2 py-1 text-xs font-semibold text-vault-muted">{word.type}</span>
+            {word.learningGroup && <span className="rounded-full bg-emerald-50 px-2 py-1 text-xs font-semibold text-emerald-700">{word.learningGroup}</span>}
           </div>
           <p className="text-sm text-vault-muted">{word.pronunciation}</p>
         </div>

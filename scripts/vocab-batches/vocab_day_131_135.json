@@ -1,368 +1,116 @@
 [
   {
-    "id": "binding-agreement-phrase",
-    "word": "binding agreement",
-    "baseWord": "binding",
+    "id": "sales-advertisement-collocation",
+    "word": "sales advertisement",
+    "baseWord": "advertisement",
     "type": "phrase",
-    "meaning": "binding agreement; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales advertisement",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Office & Administration",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the binding agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét binding agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua sales advertisement vao ho so truoc thu Sau.",
     "collocations": [
-      "binding agreement",
-      "binding agreement review",
-      "binding agreement process"
+      "sales advertisement",
+      "sales advertisement review",
+      "sales advertisement deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "binding"
+      "sales",
+      "advertisement"
     ],
-    "day": 131
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "code-of-conduct-phrase",
-    "word": "code of conduct",
-    "baseWord": "code",
+    "id": "sales-brochure-collocation",
+    "word": "sales brochure",
+    "baseWord": "brochure",
     "type": "phrase",
-    "meaning": "code of conduct; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales brochure",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the code of conduct before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét code of conduct trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "code of conduct",
-      "code of conduct review",
-      "code of conduct process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "code"
-    ],
-    "day": 131
-  },
-  {
-    "id": "compliance-policy-phrase",
-    "word": "compliance policy",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance policy; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the compliance policy before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance policy trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "compliance policy",
-      "compliance policy review",
-      "compliance policy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 131
-  },
-  {
-    "id": "confidentiality-clause-phrase",
-    "word": "confidentiality clause",
-    "baseWord": "confidentiality",
-    "type": "phrase",
-    "meaning": "confidentiality clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the confidentiality clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét confidentiality clause trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales brochure in the file before Friday.",
+    "exampleVi": "Vui long dua sales brochure vao ho so truoc thu Sau.",
     "collocations": [
-      "confidentiality clause",
-      "confidentiality clause review",
-      "confidentiality clause process"
+      "sales brochure",
+      "sales brochure review",
+      "sales brochure deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "confidentiality"
+      "sales",
+      "brochure"
     ],
-    "day": 131
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "contract-clause-phrase",
-    "word": "contract clause",
-    "baseWord": "contract",
+    "id": "sales-campaign-collocation",
+    "word": "sales campaign",
+    "baseWord": "campaign",
     "type": "phrase",
-    "meaning": "contract clause; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales campaign",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the contract clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét contract clause trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "contract clause",
-      "contract clause review",
-      "contract clause process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 131
-  },
-  {
-    "id": "contract-term-phrase",
-    "word": "contract term",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "contract term; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the contract term before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét contract term trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "contract term",
-      "contract term review",
-      "contract term process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 131
-  },
-  {
-    "id": "corporate-policy-phrase",
-    "word": "corporate policy",
-    "baseWord": "corporate",
-    "type": "phrase",
-    "meaning": "corporate policy; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the corporate policy before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét corporate policy trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "corporate policy",
-      "corporate policy review",
-      "corporate policy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "corporate"
-    ],
-    "day": 131
-  },
-  {
-    "id": "external-regulation-phrase",
-    "word": "external regulation",
-    "baseWord": "external",
-    "type": "phrase",
-    "meaning": "external regulation; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the external regulation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét external regulation trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "external regulation",
-      "external regulation review",
-      "external regulation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "external"
-    ],
-    "day": 131
-  },
-  {
-    "id": "governing-law-phrase",
-    "word": "governing law",
-    "baseWord": "governing",
-    "type": "phrase",
-    "meaning": "governing law; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the governing law before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét governing law trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "governing law",
-      "governing law review",
-      "governing law process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "governing"
-    ],
-    "day": 131
-  },
-  {
-    "id": "indemnity-clause-phrase",
-    "word": "indemnity clause",
-    "baseWord": "indemnity",
-    "type": "phrase",
-    "meaning": "indemnity clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Business Communication",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the indemnity clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét indemnity clause trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales campaign in the file before Friday.",
+    "exampleVi": "Vui long dua sales campaign vao ho so truoc thu Sau.",
     "collocations": [
-      "indemnity clause",
-      "indemnity clause review",
-      "indemnity clause process"
+      "sales campaign",
+      "sales campaign review",
+      "sales campaign deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "indemnity"
+      "sales",
+      "campaign"
     ],
-    "day": 131
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "internal-regulation-phrase",
-    "word": "internal regulation",
-    "baseWord": "internal",
+    "id": "sales-catalog-collocation",
+    "word": "sales catalog",
+    "baseWord": "catalog",
     "type": "phrase",
-    "meaning": "internal regulation; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales catalog",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the internal regulation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét internal regulation trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "internal regulation",
-      "internal regulation review",
-      "internal regulation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "internal"
-    ],
-    "day": 131
-  },
-  {
-    "id": "jurisdiction-clause-phrase",
-    "word": "jurisdiction clause",
-    "baseWord": "jurisdiction",
-    "type": "phrase",
-    "meaning": "jurisdiction clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the jurisdiction clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét jurisdiction clause trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "jurisdiction clause",
-      "jurisdiction clause review",
-      "jurisdiction clause process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "jurisdiction"
-    ],
-    "day": 131
-  },
-  {
-    "id": "legal-obligation-phrase",
-    "word": "legal obligation",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal obligation; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -370,2379 +118,1630 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the legal obligation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal obligation trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales catalog in the file before Friday.",
+    "exampleVi": "Vui long dua sales catalog vao ho so truoc thu Sau.",
     "collocations": [
-      "legal obligation",
-      "legal obligation review",
-      "legal obligation process"
+      "sales catalog",
+      "sales catalog review",
+      "sales catalog deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "catalog"
     ],
-    "day": 131
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "legal-review-phrase",
-    "word": "legal review",
-    "baseWord": "legal",
+    "id": "sales-claim-collocation",
+    "word": "sales claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "legal review; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales claim",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the legal review before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal review trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales claim in the file before Friday.",
+    "exampleVi": "Vui long dua sales claim vao ho so truoc thu Sau.",
     "collocations": [
-      "legal review",
-      "legal review review",
-      "legal review process"
+      "sales claim",
+      "sales claim review",
+      "sales claim deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "claim"
     ],
-    "day": 131
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "liability-limit-phrase",
-    "word": "liability limit",
-    "baseWord": "liability",
+    "id": "sales-coverage-collocation",
+    "word": "sales coverage",
+    "baseWord": "coverage",
     "type": "phrase",
-    "meaning": "liability limit; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales coverage",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the liability limit before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét liability limit trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "liability limit",
-      "liability limit review",
-      "liability limit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "liability"
-    ],
-    "day": 131
-  },
-  {
-    "id": "nonbinding-agreement-phrase",
-    "word": "nonbinding agreement",
-    "baseWord": "nonbinding",
-    "type": "phrase",
-    "meaning": "nonbinding agreement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the nonbinding agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét nonbinding agreement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "nonbinding agreement",
-      "nonbinding agreement review",
-      "nonbinding agreement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "nonbinding"
-    ],
-    "day": 131
-  },
-  {
-    "id": "nondisclosure-agreement-phrase",
-    "word": "nondisclosure agreement",
-    "baseWord": "nondisclosure",
-    "type": "phrase",
-    "meaning": "nondisclosure agreement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the nondisclosure agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét nondisclosure agreement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "nondisclosure agreement",
-      "nondisclosure agreement review",
-      "nondisclosure agreement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "nondisclosure"
-    ],
-    "day": 131
-  },
-  {
-    "id": "regulatory-requirement-phrase",
-    "word": "regulatory requirement",
-    "baseWord": "regulatory",
-    "type": "phrase",
-    "meaning": "regulatory requirement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the regulatory requirement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét regulatory requirement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "regulatory requirement",
-      "regulatory requirement review",
-      "regulatory requirement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "regulatory"
-    ],
-    "day": 131
-  },
-  {
-    "id": "renewal-clause-phrase",
-    "word": "renewal clause",
-    "baseWord": "renewal",
-    "type": "phrase",
-    "meaning": "renewal clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the renewal clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét renewal clause trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "renewal clause",
-      "renewal clause review",
-      "renewal clause process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "renewal"
-    ],
-    "day": 131
-  },
-  {
-    "id": "termination-clause-phrase",
-    "word": "termination clause",
-    "baseWord": "termination",
-    "type": "phrase",
-    "meaning": "termination clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the termination clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét termination clause trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "termination clause",
-      "termination clause review",
-      "termination clause process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "termination"
-    ],
-    "day": 131
-  },
-  {
-    "id": "anti-bribery-policy-phrase",
-    "word": "anti-bribery policy",
-    "baseWord": "anti-bribery",
-    "type": "phrase",
-    "meaning": "anti-bribery policy; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the anti-bribery policy before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét anti-bribery policy trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "anti-bribery policy",
-      "anti-bribery policy review",
-      "anti-bribery policy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "anti-bribery"
-    ],
-    "day": 132
-  },
-  {
-    "id": "anti-corruption-rule-phrase",
-    "word": "anti-corruption rule",
-    "baseWord": "anti-corruption",
-    "type": "phrase",
-    "meaning": "anti-corruption rule; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the anti-corruption rule before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét anti-corruption rule trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "anti-corruption rule",
-      "anti-corruption rule review",
-      "anti-corruption rule process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "anti-corruption"
-    ],
-    "day": 132
-  },
-  {
-    "id": "audit-requirement-verb",
-    "word": "audit requirement",
-    "baseWord": "audit",
-    "type": "verb",
-    "meaning": "audit requirement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the audit requirement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét audit requirement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "audit requirement",
-      "audit requirement review",
-      "audit requirement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "audit"
-    ],
-    "day": 132
-  },
-  {
-    "id": "compliance-officer-phrase",
-    "word": "compliance officer",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance officer; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the compliance officer before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance officer trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales coverage in the file before Friday.",
+    "exampleVi": "Vui long dua sales coverage vao ho so truoc thu Sau.",
     "collocations": [
-      "compliance officer",
-      "compliance officer review",
-      "compliance officer process"
+      "sales coverage",
+      "sales coverage review",
+      "sales coverage deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "compliance"
+      "sales",
+      "coverage"
     ],
-    "day": 132
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "compliance-training-phrase",
-    "word": "compliance training",
-    "baseWord": "compliance",
+    "id": "sales-customs-collocation",
+    "word": "sales customs",
+    "baseWord": "customs",
     "type": "phrase",
-    "meaning": "compliance training; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales customs",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the compliance training before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance training trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "compliance training",
-      "compliance training review",
-      "compliance training process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 132
-  },
-  {
-    "id": "conflict-of-interest-phrase",
-    "word": "conflict of interest",
-    "baseWord": "conflict",
-    "type": "phrase",
-    "meaning": "conflict of interest; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the conflict of interest before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét conflict of interest trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales customs in the file before Friday.",
+    "exampleVi": "Vui long dua sales customs vao ho so truoc thu Sau.",
     "collocations": [
-      "conflict of interest",
-      "conflict of interest review",
-      "conflict of interest process"
+      "sales customs",
+      "sales customs review",
+      "sales customs deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "conflict"
+      "sales",
+      "customs"
     ],
-    "day": 132
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "consent-form-phrase",
-    "word": "consent form",
-    "baseWord": "consent",
+    "id": "sales-delivery-collocation",
+    "word": "sales delivery",
+    "baseWord": "delivery",
     "type": "phrase",
-    "meaning": "consent form; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales delivery",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the consent form before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét consent form trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "consent form",
-      "consent form review",
-      "consent form process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "consent"
-    ],
-    "day": 132
-  },
-  {
-    "id": "corporate-counsel-phrase",
-    "word": "corporate counsel",
-    "baseWord": "corporate",
-    "type": "phrase",
-    "meaning": "corporate counsel; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the corporate counsel before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét corporate counsel trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "corporate counsel",
-      "corporate counsel review",
-      "corporate counsel process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "corporate"
-    ],
-    "day": 132
-  },
-  {
-    "id": "data-privacy-phrase",
-    "word": "data privacy",
-    "baseWord": "data",
-    "type": "phrase",
-    "meaning": "data privacy; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the data privacy before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét data privacy trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "data privacy",
-      "data privacy review",
-      "data privacy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "data"
-    ],
-    "day": 132
-  },
-  {
-    "id": "document-retention-phrase",
-    "word": "document retention",
-    "baseWord": "document",
-    "type": "phrase",
-    "meaning": "document retention; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the document retention before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét document retention trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "document retention",
-      "document retention review",
-      "document retention process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "document"
-    ],
-    "day": 132
-  },
-  {
-    "id": "ethics-hotline-phrase",
-    "word": "ethics hotline",
-    "baseWord": "ethic",
-    "type": "phrase",
-    "meaning": "ethics hotline; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the ethics hotline before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét ethics hotline trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "ethics hotline",
-      "ethics hotline review",
-      "ethics hotline process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "ethic"
-    ],
-    "day": 132
-  },
-  {
-    "id": "legal-counsel-phrase",
-    "word": "legal counsel",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal counsel; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the legal counsel before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal counsel trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "legal counsel",
-      "legal counsel review",
-      "legal counsel process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "legal"
-    ],
-    "day": 132
-  },
-  {
-    "id": "legal-department-phrase",
-    "word": "legal department",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal department; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the legal department before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal department trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "legal department",
-      "legal department review",
-      "legal department process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "legal"
-    ],
-    "day": 132
-  },
-  {
-    "id": "mandatory-disclosure-phrase",
-    "word": "mandatory disclosure",
-    "baseWord": "mandatory",
-    "type": "phrase",
-    "meaning": "mandatory disclosure; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the mandatory disclosure before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét mandatory disclosure trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "mandatory disclosure",
-      "mandatory disclosure review",
-      "mandatory disclosure process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "mandatory"
-    ],
-    "day": 132
-  },
-  {
-    "id": "outside-counsel-phrase",
-    "word": "outside counsel",
-    "baseWord": "outside",
-    "type": "phrase",
-    "meaning": "outside counsel; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the outside counsel before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét outside counsel trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "outside counsel",
-      "outside counsel review",
-      "outside counsel process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "outside"
-    ],
-    "day": 132
-  },
-  {
-    "id": "policy-acknowledgement-phrase",
-    "word": "policy acknowledgement",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "policy acknowledgement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the policy acknowledgement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét policy acknowledgement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "policy acknowledgement",
-      "policy acknowledgement review",
-      "policy acknowledgement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 132
-  },
-  {
-    "id": "privacy-notice-phrase",
-    "word": "privacy notice",
-    "baseWord": "privacy",
-    "type": "phrase",
-    "meaning": "privacy notice; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the privacy notice before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét privacy notice trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "privacy notice",
-      "privacy notice review",
-      "privacy notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "privacy"
-    ],
-    "day": 132
-  },
-  {
-    "id": "record-retention-phrase",
-    "word": "record retention",
-    "baseWord": "record",
-    "type": "phrase",
-    "meaning": "record retention; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the record retention before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét record retention trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "record retention",
-      "record retention review",
-      "record retention process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "record"
-    ],
-    "day": 132
-  },
-  {
-    "id": "reporting-obligation-phrase",
-    "word": "reporting obligation",
-    "baseWord": "reporting",
-    "type": "phrase",
-    "meaning": "reporting obligation; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the reporting obligation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét reporting obligation trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "reporting obligation",
-      "reporting obligation review",
-      "reporting obligation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reporting"
-    ],
-    "day": 132
-  },
-  {
-    "id": "whistleblower-report-phrase",
-    "word": "whistleblower report",
-    "baseWord": "whistleblower",
-    "type": "phrase",
-    "meaning": "whistleblower report; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the whistleblower report before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét whistleblower report trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "whistleblower report",
-      "whistleblower report review",
-      "whistleblower report process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "whistleblower"
-    ],
-    "day": 132
-  },
-  {
-    "id": "affidavit-form-phrase",
-    "word": "affidavit form",
-    "baseWord": "affidavit",
-    "type": "phrase",
-    "meaning": "affidavit form; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the affidavit form before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét affidavit form trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "affidavit form",
-      "affidavit form review",
-      "affidavit form process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "affidavit"
-    ],
-    "day": 133
-  },
-  {
-    "id": "appeal-process-phrase",
-    "word": "appeal process",
-    "baseWord": "appeal",
-    "type": "phrase",
-    "meaning": "appeal process; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the appeal process before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét appeal process trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "appeal process",
-      "appeal process review",
-      "appeal process process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "appeal"
-    ],
-    "day": 133
-  },
-  {
-    "id": "arbitration-clause-phrase",
-    "word": "arbitration clause",
-    "baseWord": "arbitration",
-    "type": "phrase",
-    "meaning": "arbitration clause; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the arbitration clause before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét arbitration clause trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "arbitration clause",
-      "arbitration clause review",
-      "arbitration clause process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "arbitration"
-    ],
-    "day": 133
-  },
-  {
-    "id": "breach-of-contract-phrase",
-    "word": "breach of contract",
-    "baseWord": "breach",
-    "type": "phrase",
-    "meaning": "breach of contract; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the breach of contract before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét breach of contract trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "breach of contract",
-      "breach of contract review",
-      "breach of contract process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "breach"
-    ],
-    "day": 133
-  },
-  {
-    "id": "case-dismissal-phrase",
-    "word": "case dismissal",
-    "baseWord": "case",
-    "type": "phrase",
-    "meaning": "case dismissal; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the case dismissal before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét case dismissal trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "case dismissal",
-      "case dismissal review",
-      "case dismissal process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "case"
-    ],
-    "day": 133
-  },
-  {
-    "id": "cease-and-desist-notice-phrase",
-    "word": "cease-and-desist notice",
-    "baseWord": "cease-and-desist",
-    "type": "phrase",
-    "meaning": "cease-and-desist notice; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the cease-and-desist notice before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét cease-and-desist notice trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "cease-and-desist notice",
-      "cease-and-desist notice review",
-      "cease-and-desist notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cease-and-desist"
-    ],
-    "day": 133
-  },
-  {
-    "id": "civil-claim-phrase",
-    "word": "civil claim",
-    "baseWord": "civil",
-    "type": "phrase",
-    "meaning": "civil claim; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the civil claim before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét civil claim trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "civil claim",
-      "civil claim review",
-      "civil claim process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "civil"
-    ],
-    "day": 133
-  },
-  {
-    "id": "contractual-breach-phrase",
-    "word": "contractual breach",
-    "baseWord": "contractual",
-    "type": "phrase",
-    "meaning": "contractual breach; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the contractual breach before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét contractual breach trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "contractual breach",
-      "contractual breach review",
-      "contractual breach process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "contractual"
-    ],
-    "day": 133
-  },
-  {
-    "id": "court-filing-phrase",
-    "word": "court filing",
-    "baseWord": "court",
-    "type": "phrase",
-    "meaning": "court filing; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the court filing before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét court filing trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "court filing",
-      "court filing review",
-      "court filing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "court"
-    ],
-    "day": 133
-  },
-  {
-    "id": "damages-claim-phrase",
-    "word": "damages claim",
-    "baseWord": "damage",
-    "type": "phrase",
-    "meaning": "damages claim; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the damages claim before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét damages claim trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "damages claim",
-      "damages claim review",
-      "damages claim process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "damage"
-    ],
-    "day": 133
-  },
-  {
-    "id": "injunction-request-phrase",
-    "word": "injunction request",
-    "baseWord": "injunction",
-    "type": "phrase",
-    "meaning": "injunction request; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the injunction request before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét injunction request trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "injunction request",
-      "injunction request review",
-      "injunction request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "injunction"
-    ],
-    "day": 133
-  },
-  {
-    "id": "legal-dispute-phrase",
-    "word": "legal dispute",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal dispute; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the legal dispute before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal dispute trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales delivery in the file before Friday.",
+    "exampleVi": "Vui long dua sales delivery vao ho so truoc thu Sau.",
     "collocations": [
-      "legal dispute",
-      "legal dispute review",
-      "legal dispute process"
+      "sales delivery",
+      "sales delivery review",
+      "sales delivery deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "delivery"
     ],
-    "day": 133
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "legal-proceeding-phrase",
-    "word": "legal proceeding",
-    "baseWord": "legal",
+    "id": "sales-discount-collocation",
+    "word": "sales discount",
+    "baseWord": "discount",
     "type": "phrase",
-    "meaning": "legal proceeding; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales discount",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the legal proceeding before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal proceeding trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "legal proceeding",
-      "legal proceeding review",
-      "legal proceeding process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "legal"
-    ],
-    "day": 133
-  },
-  {
-    "id": "legal-remedy-phrase",
-    "word": "legal remedy",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal remedy; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Customer Service",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the legal remedy before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal remedy trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "legal remedy",
-      "legal remedy review",
-      "legal remedy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "legal"
-    ],
-    "day": 133
-  },
-  {
-    "id": "legal-settlement-phrase",
-    "word": "legal settlement",
-    "baseWord": "legal",
-    "type": "phrase",
-    "meaning": "legal settlement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the legal settlement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal settlement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "legal settlement",
-      "legal settlement review",
-      "legal settlement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "legal"
-    ],
-    "day": 133
-  },
-  {
-    "id": "mediation-session-phrase",
-    "word": "mediation session",
-    "baseWord": "mediation",
-    "type": "phrase",
-    "meaning": "mediation session; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the mediation session before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét mediation session trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "mediation session",
-      "mediation session review",
-      "mediation session process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "mediation"
-    ],
-    "day": 133
-  },
-  {
-    "id": "notary-seal-phrase",
-    "word": "notary seal",
-    "baseWord": "notary",
-    "type": "phrase",
-    "meaning": "notary seal; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the notary seal before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét notary seal trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "notary seal",
-      "notary seal review",
-      "notary seal process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "notary"
-    ],
-    "day": 133
-  },
-  {
-    "id": "settlement-agreement-verb",
-    "word": "settlement agreement",
-    "baseWord": "settlement",
-    "type": "verb",
-    "meaning": "settlement agreement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the settlement agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét settlement agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales discount in the file before Friday.",
+    "exampleVi": "Vui long dua sales discount vao ho so truoc thu Sau.",
     "collocations": [
-      "settlement agreement",
-      "settlement agreement review",
-      "settlement agreement process"
+      "sales discount",
+      "sales discount review",
+      "sales discount deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "settlement"
+      "sales",
+      "discount"
     ],
-    "day": 133
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "settlement-offer-verb",
-    "word": "settlement offer",
-    "baseWord": "settlement",
-    "type": "verb",
-    "meaning": "settlement offer; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the settlement offer before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét settlement offer trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "settlement offer",
-      "settlement offer review",
-      "settlement offer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "settlement"
-    ],
-    "day": 133
-  },
-  {
-    "id": "witness-statement-phrase",
-    "word": "witness statement",
-    "baseWord": "witnes",
+    "id": "sales-inventory-collocation",
+    "word": "sales inventory",
+    "baseWord": "inventory",
     "type": "phrase",
-    "meaning": "witness statement; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales inventory",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the witness statement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét witness statement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "witness statement",
-      "witness statement review",
-      "witness statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "witnes"
-    ],
-    "day": 133
-  },
-  {
-    "id": "compliance-gap-phrase",
-    "word": "compliance gap",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance gap; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the compliance gap before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance gap trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "compliance gap",
-      "compliance gap review",
-      "compliance gap process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 134
-  },
-  {
-    "id": "compliance-review-phrase",
-    "word": "compliance review",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance review; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the compliance review before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance review trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "compliance review",
-      "compliance review review",
-      "compliance review process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 134
-  },
-  {
-    "id": "consumer-protection-phrase",
-    "word": "consumer protection",
-    "baseWord": "consumer",
-    "type": "phrase",
-    "meaning": "consumer protection; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the consumer protection before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét consumer protection trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "consumer protection",
-      "consumer protection review",
-      "consumer protection process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "consumer"
-    ],
-    "day": 134
-  },
-  {
-    "id": "corrective-action-phrase",
-    "word": "corrective action",
-    "baseWord": "corrective",
-    "type": "phrase",
-    "meaning": "corrective action; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Sales & Retail",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the corrective action before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét corrective action trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales inventory in the file before Friday.",
+    "exampleVi": "Vui long dua sales inventory vao ho so truoc thu Sau.",
     "collocations": [
-      "corrective action",
-      "corrective action review",
-      "corrective action process"
+      "sales inventory",
+      "sales inventory review",
+      "sales inventory deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "corrective"
+      "sales",
+      "inventory"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "disciplinary-action-phrase",
-    "word": "disciplinary action",
-    "baseWord": "disciplinary",
-    "type": "phrase",
-    "meaning": "disciplinary action; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the disciplinary action before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét disciplinary action trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "disciplinary action",
-      "disciplinary action review",
-      "disciplinary action process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "disciplinary"
-    ],
-    "day": 134
-  },
-  {
-    "id": "due-diligence-review-phrase",
-    "word": "due diligence review",
-    "baseWord": "due",
-    "type": "phrase",
-    "meaning": "due diligence review; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the due diligence review before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét due diligence review trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "due diligence review",
-      "due diligence review review",
-      "due diligence review process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "due"
-    ],
-    "day": 134
-  },
-  {
-    "id": "enforcement-action-phrase",
-    "word": "enforcement action",
-    "baseWord": "enforcement",
-    "type": "phrase",
-    "meaning": "enforcement action; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the enforcement action before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét enforcement action trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "enforcement action",
-      "enforcement action review",
-      "enforcement action process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "enforcement"
-    ],
-    "day": 134
-  },
-  {
-    "id": "export-restriction-verb",
-    "word": "export restriction",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export restriction; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the export restriction before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét export restriction trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "export restriction",
-      "export restriction review",
-      "export restriction process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 134
-  },
-  {
-    "id": "filing-deadline-phrase",
-    "word": "filing deadline",
-    "baseWord": "filing",
-    "type": "phrase",
-    "meaning": "filing deadline; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the filing deadline before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét filing deadline trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "filing deadline",
-      "filing deadline review",
-      "filing deadline process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "filing"
-    ],
-    "day": 134
-  },
-  {
-    "id": "inspection-notice-phrase",
-    "word": "inspection notice",
-    "baseWord": "inspection",
-    "type": "phrase",
-    "meaning": "inspection notice; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the inspection notice before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét inspection notice trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "inspection notice",
-      "inspection notice review",
-      "inspection notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "inspection"
-    ],
-    "day": 134
-  },
-  {
-    "id": "labor-regulation-phrase",
-    "word": "labor regulation",
-    "baseWord": "labor",
-    "type": "phrase",
-    "meaning": "labor regulation; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the labor regulation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét labor regulation trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "labor regulation",
-      "labor regulation review",
-      "labor regulation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "labor"
-    ],
-    "day": 134
-  },
-  {
-    "id": "license-renewal-phrase",
-    "word": "license renewal",
+    "id": "sales-license-collocation",
+    "word": "sales license",
     "baseWord": "license",
     "type": "phrase",
-    "meaning": "license renewal; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales license",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the license renewal before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét license renewal trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales license in the file before Friday.",
+    "exampleVi": "Vui long dua sales license vao ho so truoc thu Sau.",
     "collocations": [
-      "license renewal",
-      "license renewal review",
-      "license renewal process"
+      "sales license",
+      "sales license review",
+      "sales license deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "license"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "occupational-compliance-rule-phrase",
-    "word": "occupational compliance rule",
-    "baseWord": "occupational",
+    "id": "sales-maintenance-collocation",
+    "word": "sales maintenance",
+    "baseWord": "maintenance",
     "type": "phrase",
-    "meaning": "occupational compliance rule; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales maintenance",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the occupational compliance rule before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét occupational compliance rule trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua sales maintenance vao ho so truoc thu Sau.",
     "collocations": [
-      "occupational compliance rule",
-      "occupational compliance rule review",
-      "occupational compliance rule process"
+      "sales maintenance",
+      "sales maintenance review",
+      "sales maintenance deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "occupational"
+      "sales",
+      "maintenance"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "permit-application-phrase",
-    "word": "permit application",
+    "id": "sales-permit-collocation",
+    "word": "sales permit",
     "baseWord": "permit",
     "type": "phrase",
-    "meaning": "permit application; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales permit",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the permit application before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét permit application trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales permit in the file before Friday.",
+    "exampleVi": "Vui long dua sales permit vao ho so truoc thu Sau.",
     "collocations": [
-      "permit application",
-      "permit application review",
-      "permit application process"
+      "sales permit",
+      "sales permit review",
+      "sales permit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "permit"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "policy-violation-phrase",
-    "word": "policy violation",
-    "baseWord": "policy",
+    "id": "sales-premium-collocation",
+    "word": "sales premium",
+    "baseWord": "premium",
     "type": "phrase",
-    "meaning": "policy violation; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales premium",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the policy violation before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét policy violation trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "policy violation",
-      "policy violation review",
-      "policy violation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 134
-  },
-  {
-    "id": "regulatory-filing-phrase",
-    "word": "regulatory filing",
-    "baseWord": "regulatory",
-    "type": "phrase",
-    "meaning": "regulatory filing; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the regulatory filing before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét regulatory filing trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales premium in the file before Friday.",
+    "exampleVi": "Vui long dua sales premium vao ho so truoc thu Sau.",
     "collocations": [
-      "regulatory filing",
-      "regulatory filing review",
-      "regulatory filing process"
+      "sales premium",
+      "sales premium review",
+      "sales premium deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "regulatory"
+      "sales",
+      "premium"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
-    "id": "risk-control-phrase",
-    "word": "risk control",
+    "id": "sales-presentation-collocation",
+    "word": "sales presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales presentation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales presentation in the file before Friday.",
+    "exampleVi": "Vui long dua sales presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales presentation",
+      "sales presentation review",
+      "sales presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "presentation"
+    ],
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "sales-risk-collocation",
+    "word": "sales risk",
     "baseWord": "risk",
     "type": "phrase",
-    "meaning": "risk control; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales risk",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the risk control before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét risk control trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales risk in the file before Friday.",
+    "exampleVi": "Vui long dua sales risk vao ho so truoc thu Sau.",
     "collocations": [
-      "risk control",
-      "risk control review",
-      "risk control process"
+      "sales risk",
+      "sales risk review",
+      "sales risk deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "risk"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
-    "id": "sanctions-screening-phrase",
-    "word": "sanctions screening",
-    "baseWord": "sanction",
+    "id": "sales-supplier-collocation",
+    "word": "sales supplier",
+    "baseWord": "supplier",
     "type": "phrase",
-    "meaning": "sanctions screening; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales supplier",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the sanctions screening before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét sanctions screening trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "sanctions screening",
-      "sanctions screening review",
-      "sanctions screening process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "sanction"
-    ],
-    "day": 134
-  },
-  {
-    "id": "statutory-deadline-phrase",
-    "word": "statutory deadline",
-    "baseWord": "statutory",
-    "type": "phrase",
-    "meaning": "statutory deadline; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the statutory deadline before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét statutory deadline trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales supplier in the file before Friday.",
+    "exampleVi": "Vui long dua sales supplier vao ho so truoc thu Sau.",
     "collocations": [
-      "statutory deadline",
-      "statutory deadline review",
-      "statutory deadline process"
+      "sales supplier",
+      "sales supplier review",
+      "sales supplier deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "statutory"
+      "sales",
+      "supplier"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
-    "id": "vendor-screening-phrase",
-    "word": "vendor screening",
+    "id": "sales-tariff-collocation",
+    "word": "sales tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales tariff",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales tariff in the file before Friday.",
+    "exampleVi": "Vui long dua sales tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales tariff",
+      "sales tariff review",
+      "sales tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "tariff"
+    ],
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "sales-vendor-collocation",
+    "word": "sales vendor",
     "baseWord": "vendor",
     "type": "phrase",
-    "meaning": "vendor screening; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales vendor",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the vendor screening before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét vendor screening trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales vendor in the file before Friday.",
+    "exampleVi": "Vui long dua sales vendor vao ho so truoc thu Sau.",
     "collocations": [
-      "vendor screening",
-      "vendor screening review",
-      "vendor screening process"
+      "sales vendor",
+      "sales vendor review",
+      "sales vendor deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "vendor"
     ],
-    "day": 134
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
-    "id": "attestation-form-phrase",
-    "word": "attestation form",
-    "baseWord": "attestation",
+    "id": "sales-warehouse-collocation",
+    "word": "sales warehouse",
+    "baseWord": "warehouse",
     "type": "phrase",
-    "meaning": "attestation form; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales warehouse",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua sales warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales warehouse",
+      "sales warehouse review",
+      "sales warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "warehouse"
+    ],
+    "day": 131,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "sales-approval-collocation",
+    "word": "sales approval",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales approval",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the attestation form before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét attestation form trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales approval in the file before Friday.",
+    "exampleVi": "Vui long dua sales approval vao ho so truoc thu Sau.",
     "collocations": [
-      "attestation form",
-      "attestation form review",
-      "attestation form process"
+      "sales approval",
+      "sales approval review",
+      "sales approval deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "attestation"
+      "sales",
+      "approval"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "breach-notification-phrase",
-    "word": "breach notification",
-    "baseWord": "breach",
+    "id": "sales-authorization-collocation",
+    "word": "sales authorization",
+    "baseWord": "authorization",
     "type": "phrase",
-    "meaning": "breach notification; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales authorization",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the breach notification before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét breach notification trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales authorization in the file before Friday.",
+    "exampleVi": "Vui long dua sales authorization vao ho so truoc thu Sau.",
     "collocations": [
-      "breach notification",
-      "breach notification review",
-      "breach notification process"
+      "sales authorization",
+      "sales authorization review",
+      "sales authorization deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "breach"
+      "sales",
+      "authorization"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "compliance-certification-phrase",
-    "word": "compliance certification",
-    "baseWord": "compliance",
+    "id": "sales-certificate-collocation",
+    "word": "sales certificate",
+    "baseWord": "certificate",
     "type": "phrase",
-    "meaning": "compliance certification; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales certificate",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales certificate in the file before Friday.",
+    "exampleVi": "Vui long dua sales certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales certificate",
+      "sales certificate review",
+      "sales certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "certificate"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "sales-confirmation-collocation",
+    "word": "sales confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales confirmation",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the compliance certification before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét compliance certification trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua sales confirmation vao ho so truoc thu Sau.",
     "collocations": [
-      "compliance certification",
-      "compliance certification review",
-      "compliance certification process"
+      "sales confirmation",
+      "sales confirmation review",
+      "sales confirmation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "compliance"
+      "sales",
+      "confirmation"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "contract-template-phrase",
-    "word": "contract template",
-    "baseWord": "contract",
+    "id": "sales-database-collocation",
+    "word": "sales database",
+    "baseWord": "database",
     "type": "phrase",
-    "meaning": "contract template; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales database",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The legal team examined the contract template before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét contract template trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "contract template",
-      "contract template review",
-      "contract template process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 135
-  },
-  {
-    "id": "copyright-notice-phrase",
-    "word": "copyright notice",
-    "baseWord": "copyright",
-    "type": "phrase",
-    "meaning": "copyright notice; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Quality & Standards",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the copyright notice before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét copyright notice trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales database in the file before Friday.",
+    "exampleVi": "Vui long dua sales database vao ho so truoc thu Sau.",
     "collocations": [
-      "copyright notice",
-      "copyright notice review",
-      "copyright notice process"
+      "sales database",
+      "sales database review",
+      "sales database deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "copyright"
+      "sales",
+      "database"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "data-breach-phrase",
-    "word": "data breach",
-    "baseWord": "data",
+    "id": "sales-equipment-collocation",
+    "word": "sales equipment",
+    "baseWord": "equipment",
     "type": "phrase",
-    "meaning": "data breach; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales equipment",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the data breach before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét data breach trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "data breach",
-      "data breach review",
-      "data breach process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "data"
-    ],
-    "day": 135
-  },
-  {
-    "id": "employment-agreement-phrase",
-    "word": "employment agreement",
-    "baseWord": "employment",
-    "type": "phrase",
-    "meaning": "employment agreement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Research & Reports",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the employment agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét employment agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales equipment in the file before Friday.",
+    "exampleVi": "Vui long dua sales equipment vao ho so truoc thu Sau.",
     "collocations": [
-      "employment agreement",
-      "employment agreement review",
-      "employment agreement process"
+      "sales equipment",
+      "sales equipment review",
+      "sales equipment deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "employment"
+      "sales",
+      "equipment"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "exclusive-right-phrase",
-    "word": "exclusive right",
-    "baseWord": "exclusive",
+    "id": "sales-facility-collocation",
+    "word": "sales facility",
+    "baseWord": "facility",
     "type": "phrase",
-    "meaning": "exclusive right; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales facility",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the exclusive right before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét exclusive right trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales facility in the file before Friday.",
+    "exampleVi": "Vui long dua sales facility vao ho so truoc thu Sau.",
     "collocations": [
-      "exclusive right",
-      "exclusive right review",
-      "exclusive right process"
+      "sales facility",
+      "sales facility review",
+      "sales facility deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "exclusive"
+      "sales",
+      "facility"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "intellectual-property-phrase",
-    "word": "intellectual property",
-    "baseWord": "intellectual",
-    "type": "phrase",
-    "meaning": "intellectual property; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the intellectual property before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét intellectual property trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "intellectual property",
-      "intellectual property review",
-      "intellectual property process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "intellectual"
-    ],
-    "day": 135
-  },
-  {
-    "id": "lease-agreement-phrase",
-    "word": "lease agreement",
+    "id": "sales-lease-collocation",
+    "word": "sales lease",
     "baseWord": "lease",
     "type": "phrase",
-    "meaning": "lease agreement; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales lease",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the lease agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét lease agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales lease in the file before Friday.",
+    "exampleVi": "Vui long dua sales lease vao ho so truoc thu Sau.",
     "collocations": [
-      "lease agreement",
-      "lease agreement review",
-      "lease agreement process"
+      "sales lease",
+      "sales lease review",
+      "sales lease deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "sales",
       "lease"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "legal-exposure-phrase",
-    "word": "legal exposure",
-    "baseWord": "legal",
+    "id": "sales-notice-collocation",
+    "word": "sales notice",
+    "baseWord": "notice",
     "type": "phrase",
-    "meaning": "legal exposure; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales notice",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales notice in the file before Friday.",
+    "exampleVi": "Vui long dua sales notice vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales notice",
+      "sales notice review",
+      "sales notice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "notice"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "sales-property-collocation",
+    "word": "sales property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales property",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the legal exposure before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal exposure trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales property in the file before Friday.",
+    "exampleVi": "Vui long dua sales property vao ho so truoc thu Sau.",
     "collocations": [
-      "legal exposure",
-      "legal exposure review",
-      "legal exposure process"
+      "sales property",
+      "sales property review",
+      "sales property deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "property"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "legal-ownership-phrase",
-    "word": "legal ownership",
-    "baseWord": "legal",
+    "id": "sales-renovation-collocation",
+    "word": "sales renovation",
+    "baseWord": "renovation",
     "type": "phrase",
-    "meaning": "legal ownership; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales renovation",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales renovation in the file before Friday.",
+    "exampleVi": "Vui long dua sales renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales renovation",
+      "sales renovation review",
+      "sales renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "renovation"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "sales-request-collocation",
+    "word": "sales request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales request",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the legal ownership before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal ownership trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales request in the file before Friday.",
+    "exampleVi": "Vui long dua sales request vao ho so truoc thu Sau.",
     "collocations": [
-      "legal ownership",
-      "legal ownership review",
-      "legal ownership process"
+      "sales request",
+      "sales request review",
+      "sales request deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "request"
     ],
-    "day": 135
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "legal-precedent-phrase",
-    "word": "legal precedent",
-    "baseWord": "legal",
+    "id": "sales-response-collocation",
+    "word": "sales response",
+    "baseWord": "response",
     "type": "phrase",
-    "meaning": "legal precedent; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales response",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales response in the file before Friday.",
+    "exampleVi": "Vui long dua sales response vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales response",
+      "sales response review",
+      "sales response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "response"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "sales-review-collocation",
+    "word": "sales review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales review",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales review in the file before Friday.",
+    "exampleVi": "Vui long dua sales review vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales review",
+      "sales review review",
+      "sales review deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "review"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "sales-security-collocation",
+    "word": "sales security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales security",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales security in the file before Friday.",
+    "exampleVi": "Vui long dua sales security vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales security",
+      "sales security review",
+      "sales security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "security"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "sales-software-collocation",
+    "word": "sales software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales software",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales software in the file before Friday.",
+    "exampleVi": "Vui long dua sales software vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales software",
+      "sales software review",
+      "sales software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "software"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "sales-summary-collocation",
+    "word": "sales summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales summary",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales summary in the file before Friday.",
+    "exampleVi": "Vui long dua sales summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales summary",
+      "sales summary review",
+      "sales summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "summary"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "sales-survey-collocation",
+    "word": "sales survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales survey",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales survey in the file before Friday.",
+    "exampleVi": "Vui long dua sales survey vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales survey",
+      "sales survey review",
+      "sales survey deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "survey"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "sales-tenant-collocation",
+    "word": "sales tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales tenant",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales tenant in the file before Friday.",
+    "exampleVi": "Vui long dua sales tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales tenant",
+      "sales tenant review",
+      "sales tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "tenant"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "sales-update-collocation",
+    "word": "sales update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales update",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales update in the file before Friday.",
+    "exampleVi": "Vui long dua sales update vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales update",
+      "sales update review",
+      "sales update deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "update"
+    ],
+    "day": 132,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "customer-deadline-collocation",
+    "word": "customer deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer deadline",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer deadline in the file before Friday.",
+    "exampleVi": "Vui long dua customer deadline vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer deadline",
+      "customer deadline review",
+      "customer deadline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "deadline"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "customer-feedback-collocation",
+    "word": "customer feedback",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer feedback",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer feedback in the file before Friday.",
+    "exampleVi": "Vui long dua customer feedback vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer feedback",
+      "customer feedback review",
+      "customer feedback deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "feedback"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "customer-invoice-collocation",
+    "word": "customer invoice",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer invoice",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer invoice in the file before Friday.",
+    "exampleVi": "Vui long dua customer invoice vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer invoice",
+      "customer invoice review",
+      "customer invoice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "invoice"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "customer-proposal-collocation",
+    "word": "customer proposal",
+    "baseWord": "proposal",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer proposal",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer proposal in the file before Friday.",
+    "exampleVi": "Vui long dua customer proposal vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer proposal",
+      "customer proposal review",
+      "customer proposal deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "proposal"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "customer-receipt-collocation",
+    "word": "customer receipt",
+    "baseWord": "receipt",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer receipt",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer receipt in the file before Friday.",
+    "exampleVi": "Vui long dua customer receipt vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer receipt",
+      "customer receipt review",
+      "customer receipt deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "receipt"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "customer-report-collocation",
+    "word": "customer report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer report",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer report in the file before Friday.",
+    "exampleVi": "Vui long dua customer report vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer report",
+      "customer report review",
+      "customer report deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "report"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "customer-target-collocation",
+    "word": "customer target",
+    "baseWord": "target",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer target",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer target in the file before Friday.",
+    "exampleVi": "Vui long dua customer target vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer target",
+      "customer target review",
+      "customer target deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "target"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "sales-analysis-collocation",
+    "word": "sales analysis",
+    "baseWord": "analysis",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales analysis",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales analysis in the file before Friday.",
+    "exampleVi": "Vui long dua sales analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales analysis",
+      "sales analysis review",
+      "sales analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "analysis"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "sales-compliance-collocation",
+    "word": "sales compliance",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales compliance",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales compliance in the file before Friday.",
+    "exampleVi": "Vui long dua sales compliance vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales compliance",
+      "sales compliance review",
+      "sales compliance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "compliance"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "sales-finding-collocation",
+    "word": "sales finding",
+    "baseWord": "finding",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales finding",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales finding in the file before Friday.",
+    "exampleVi": "Vui long dua sales finding vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales finding",
+      "sales finding review",
+      "sales finding deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "finding"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "sales-liability-collocation",
+    "word": "sales liability",
+    "baseWord": "liability",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales liability",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2750,228 +1749,1729 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the legal precedent before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét legal precedent trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales liability in the file before Friday.",
+    "exampleVi": "Vui long dua sales liability vao ho so truoc thu Sau.",
     "collocations": [
-      "legal precedent",
-      "legal precedent review",
-      "legal precedent process"
+      "sales liability",
+      "sales liability review",
+      "sales liability deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "legal"
+      "sales",
+      "liability"
     ],
-    "day": 135
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "licensing-agreement-phrase",
-    "word": "licensing agreement",
-    "baseWord": "licensing",
+    "id": "sales-negotiation-collocation",
+    "word": "sales negotiation",
+    "baseWord": "negotiation",
     "type": "phrase",
-    "meaning": "licensing agreement; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales negotiation",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The legal team examined the licensing agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét licensing agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua sales negotiation vao ho so truoc thu Sau.",
     "collocations": [
-      "licensing agreement",
-      "licensing agreement review",
-      "licensing agreement process"
+      "sales negotiation",
+      "sales negotiation review",
+      "sales negotiation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "licensing"
+      "sales",
+      "negotiation"
     ],
-    "day": 135
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "patent-application-phrase",
-    "word": "patent application",
-    "baseWord": "patent",
+    "id": "sales-payment-collocation",
+    "word": "sales payment",
+    "baseWord": "payment",
     "type": "phrase",
-    "meaning": "patent application; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales payment",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales payment in the file before Friday.",
+    "exampleVi": "Vui long dua sales payment vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales payment",
+      "sales payment review",
+      "sales payment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "payment"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "sales-payroll-collocation",
+    "word": "sales payroll",
+    "baseWord": "payroll",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales payroll",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales payroll in the file before Friday.",
+    "exampleVi": "Vui long dua sales payroll vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales payroll",
+      "sales payroll review",
+      "sales payroll deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "payroll"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "sales-recommendation-collocation",
+    "word": "sales recommendation",
+    "baseWord": "recommendation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales recommendation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the patent application before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét patent application trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the sales recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua sales recommendation vao ho so truoc thu Sau.",
     "collocations": [
-      "patent application",
-      "patent application review",
-      "patent application process"
+      "sales recommendation",
+      "sales recommendation review",
+      "sales recommendation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "patent"
+      "sales",
+      "recommendation"
     ],
-    "day": 135
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "purchase-agreement-phrase",
-    "word": "purchase agreement",
-    "baseWord": "purchase",
+    "id": "sales-regulation-collocation",
+    "word": "sales regulation",
+    "baseWord": "regulation",
     "type": "phrase",
-    "meaning": "purchase agreement; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "collocation TOEIC 700: sales regulation",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales regulation in the file before Friday.",
+    "exampleVi": "Vui long dua sales regulation vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales regulation",
+      "sales regulation review",
+      "sales regulation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "regulation"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "sales-reimbursement-collocation",
+    "word": "sales reimbursement",
+    "baseWord": "reimbursement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales reimbursement",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua sales reimbursement vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales reimbursement",
+      "sales reimbursement review",
+      "sales reimbursement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "reimbursement"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "sales-research-collocation",
+    "word": "sales research",
+    "baseWord": "research",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales research",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales research in the file before Friday.",
+    "exampleVi": "Vui long dua sales research vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales research",
+      "sales research review",
+      "sales research deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "research"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "sales-settlement-collocation",
+    "word": "sales settlement",
+    "baseWord": "settlement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales settlement",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the sales settlement in the file before Friday.",
+    "exampleVi": "Vui long dua sales settlement vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales settlement",
+      "sales settlement review",
+      "sales settlement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "settlement"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "sales-transaction-collocation",
+    "word": "sales transaction",
+    "baseWord": "transaction",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: sales transaction",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the sales transaction in the file before Friday.",
+    "exampleVi": "Vui long dua sales transaction vao ho so truoc thu Sau.",
+    "collocations": [
+      "sales transaction",
+      "sales transaction review",
+      "sales transaction deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "sales",
+      "transaction"
+    ],
+    "day": 133,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "customer-agenda-collocation",
+    "word": "customer agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer agenda",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer agenda in the file before Friday.",
+    "exampleVi": "Vui long dua customer agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer agenda",
+      "customer agenda review",
+      "customer agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "agenda"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "customer-agreement-collocation",
+    "word": "customer agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer agreement",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer agreement in the file before Friday.",
+    "exampleVi": "Vui long dua customer agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer agreement",
+      "customer agreement review",
+      "customer agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "agreement"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "customer-application-collocation",
+    "word": "customer application",
+    "baseWord": "application",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer application",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer application in the file before Friday.",
+    "exampleVi": "Vui long dua customer application vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer application",
+      "customer application review",
+      "customer application deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "application"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "customer-audit-collocation",
+    "word": "customer audit",
+    "baseWord": "audit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer audit",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer audit in the file before Friday.",
+    "exampleVi": "Vui long dua customer audit vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer audit",
+      "customer audit review",
+      "customer audit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "audit"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "customer-balance-collocation",
+    "word": "customer balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer balance",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer balance in the file before Friday.",
+    "exampleVi": "Vui long dua customer balance vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer balance",
+      "customer balance review",
+      "customer balance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "balance"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "customer-budget-collocation",
+    "word": "customer budget",
+    "baseWord": "budget",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer budget",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer budget in the file before Friday.",
+    "exampleVi": "Vui long dua customer budget vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer budget",
+      "customer budget review",
+      "customer budget deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "budget"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "customer-contract-collocation",
+    "word": "customer contract",
+    "baseWord": "contract",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer contract",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer contract in the file before Friday.",
+    "exampleVi": "Vui long dua customer contract vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer contract",
+      "customer contract review",
+      "customer contract deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "contract"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "customer-expense-collocation",
+    "word": "customer expense",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer expense",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer expense in the file before Friday.",
+    "exampleVi": "Vui long dua customer expense vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer expense",
+      "customer expense review",
+      "customer expense deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "expense"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "customer-forecast-collocation",
+    "word": "customer forecast",
+    "baseWord": "forecast",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer forecast",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer forecast in the file before Friday.",
+    "exampleVi": "Vui long dua customer forecast vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer forecast",
+      "customer forecast review",
+      "customer forecast deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "forecast"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "customer-guideline-collocation",
+    "word": "customer guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer guideline",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer guideline in the file before Friday.",
+    "exampleVi": "Vui long dua customer guideline vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer guideline",
+      "customer guideline review",
+      "customer guideline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "guideline"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "customer-inspection-collocation",
+    "word": "customer inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer inspection",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer inspection in the file before Friday.",
+    "exampleVi": "Vui long dua customer inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer inspection",
+      "customer inspection review",
+      "customer inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "inspection"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "customer-loss-collocation",
+    "word": "customer loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer loss",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer loss in the file before Friday.",
+    "exampleVi": "Vui long dua customer loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer loss",
+      "customer loss review",
+      "customer loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "loss"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "customer-meeting-collocation",
+    "word": "customer meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer meeting",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer meeting in the file before Friday.",
+    "exampleVi": "Vui long dua customer meeting vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer meeting",
+      "customer meeting review",
+      "customer meeting deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "meeting"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "customer-policy-collocation",
+    "word": "customer policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer policy",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer policy in the file before Friday.",
+    "exampleVi": "Vui long dua customer policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer policy",
+      "customer policy review",
+      "customer policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "policy"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "customer-procedure-collocation",
+    "word": "customer procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer procedure",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer procedure in the file before Friday.",
+    "exampleVi": "Vui long dua customer procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer procedure",
+      "customer procedure review",
+      "customer procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "procedure"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "customer-profit-collocation",
+    "word": "customer profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer profit",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer profit in the file before Friday.",
+    "exampleVi": "Vui long dua customer profit vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer profit",
+      "customer profit review",
+      "customer profit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "profit"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "customer-revenue-collocation",
+    "word": "customer revenue",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer revenue",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer revenue in the file before Friday.",
+    "exampleVi": "Vui long dua customer revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer revenue",
+      "customer revenue review",
+      "customer revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "revenue"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "customer-schedule-collocation",
+    "word": "customer schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer schedule",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer schedule in the file before Friday.",
+    "exampleVi": "Vui long dua customer schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer schedule",
+      "customer schedule review",
+      "customer schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "schedule"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "customer-shipment-collocation",
+    "word": "customer shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer shipment",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer shipment in the file before Friday.",
+    "exampleVi": "Vui long dua customer shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer shipment",
+      "customer shipment review",
+      "customer shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "shipment"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "customer-statement-collocation",
+    "word": "customer statement",
+    "baseWord": "statement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer statement",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer statement in the file before Friday.",
+    "exampleVi": "Vui long dua customer statement vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer statement",
+      "customer statement review",
+      "customer statement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "statement"
+    ],
+    "day": 134,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "customer-accommodation-collocation",
+    "word": "customer accommodation",
+    "baseWord": "accommodation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer accommodation",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua customer accommodation vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer accommodation",
+      "customer accommodation review",
+      "customer accommodation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "accommodation"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "customer-advertisement-collocation",
+    "word": "customer advertisement",
+    "baseWord": "advertisement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer advertisement",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua customer advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer advertisement",
+      "customer advertisement review",
+      "customer advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "advertisement"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "customer-campaign-collocation",
+    "word": "customer campaign",
+    "baseWord": "campaign",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer campaign",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer campaign in the file before Friday.",
+    "exampleVi": "Vui long dua customer campaign vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer campaign",
+      "customer campaign review",
+      "customer campaign deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "campaign"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "customer-candidate-collocation",
+    "word": "customer candidate",
+    "baseWord": "candidate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer candidate",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer candidate in the file before Friday.",
+    "exampleVi": "Vui long dua customer candidate vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer candidate",
+      "customer candidate review",
+      "customer candidate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "candidate"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "customer-complaint-collocation",
+    "word": "customer complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer complaint",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer complaint in the file before Friday.",
+    "exampleVi": "Vui long dua customer complaint vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer complaint",
+      "customer complaint review",
+      "customer complaint deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "complaint"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "customer-conference-collocation",
+    "word": "customer conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer conference",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer conference in the file before Friday.",
+    "exampleVi": "Vui long dua customer conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer conference",
+      "customer conference review",
+      "customer conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "conference"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "customer-evaluation-collocation",
+    "word": "customer evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer evaluation",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua customer evaluation vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer evaluation",
+      "customer evaluation review",
+      "customer evaluation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "evaluation"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "customer-interview-collocation",
+    "word": "customer interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer interview",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer interview in the file before Friday.",
+    "exampleVi": "Vui long dua customer interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer interview",
+      "customer interview review",
+      "customer interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "interview"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "customer-itinerary-collocation",
+    "word": "customer itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer itinerary",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua customer itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer itinerary",
+      "customer itinerary review",
+      "customer itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "itinerary"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "customer-orientation-collocation",
+    "word": "customer orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer orientation",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer orientation in the file before Friday.",
+    "exampleVi": "Vui long dua customer orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer orientation",
+      "customer orientation review",
+      "customer orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "orientation"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "customer-performance-collocation",
+    "word": "customer performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer performance",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer performance in the file before Friday.",
+    "exampleVi": "Vui long dua customer performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer performance",
+      "customer performance review",
+      "customer performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "performance"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "customer-presentation-collocation",
+    "word": "customer presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer presentation",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer presentation in the file before Friday.",
+    "exampleVi": "Vui long dua customer presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer presentation",
+      "customer presentation review",
+      "customer presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "presentation"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "customer-refund-collocation",
+    "word": "customer refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer refund",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer refund in the file before Friday.",
+    "exampleVi": "Vui long dua customer refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer refund",
+      "customer refund review",
+      "customer refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "refund"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "customer-representative-collocation",
+    "word": "customer representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer representative",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer representative in the file before Friday.",
+    "exampleVi": "Vui long dua customer representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer representative",
+      "customer representative review",
+      "customer representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "representative"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "customer-reservation-collocation",
+    "word": "customer reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer reservation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer reservation in the file before Friday.",
+    "exampleVi": "Vui long dua customer reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer reservation",
+      "customer reservation review",
+      "customer reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "reservation"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "customer-training-collocation",
+    "word": "customer training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer training",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the customer training in the file before Friday.",
+    "exampleVi": "Vui long dua customer training vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer training",
+      "customer training review",
+      "customer training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "training"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "customer-venue-collocation",
+    "word": "customer venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer venue",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the customer venue in the file before Friday.",
+    "exampleVi": "Vui long dua customer venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "customer venue",
+      "customer venue review",
+      "customer venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "customer",
+      "venue"
+    ],
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "customer-warranty-collocation",
+    "word": "customer warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: customer warranty",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the purchase agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét purchase agreement trước khi phê duyệt thỏa thuận.",
+    "example": "Please include the customer warranty in the file before Friday.",
+    "exampleVi": "Vui long dua customer warranty vao ho so truoc thu Sau.",
     "collocations": [
-      "purchase agreement",
-      "purchase agreement review",
-      "purchase agreement process"
+      "customer warranty",
+      "customer warranty review",
+      "customer warranty deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "purchase"
+      "customer",
+      "warranty"
     ],
-    "day": 135
+    "day": 135,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
-    "id": "regulatory-approval-phrase",
-    "word": "regulatory approval",
-    "baseWord": "regulatory",
+    "id": "follow-up-phrasal",
+    "word": "follow up",
+    "baseWord": "follow",
     "type": "phrase",
-    "meaning": "regulatory approval; thuật ngữ về pháp lý và tuân thủ",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the regulatory approval before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét regulatory approval trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "regulatory approval",
-      "regulatory approval review",
-      "regulatory approval process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "regulatory"
-    ],
-    "day": 135
-  },
-  {
-    "id": "service-agreement-phrase",
-    "word": "service agreement",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service agreement; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the service agreement before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét service agreement trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "service agreement",
-      "service agreement review",
-      "service agreement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 135
-  },
-  {
-    "id": "standard-terms-phrase",
-    "word": "standard terms",
-    "baseWord": "standard",
-    "type": "phrase",
-    "meaning": "standard terms; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The legal team examined the standard terms before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét standard terms trước khi phê duyệt thỏa thuận.",
-    "collocations": [
-      "standard terms",
-      "standard terms review",
-      "standard terms process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "standard"
-    ],
-    "day": 135
-  },
-  {
-    "id": "trademark-filing-phrase",
-    "word": "trademark filing",
-    "baseWord": "trademark",
-    "type": "phrase",
-    "meaning": "trademark filing; thuật ngữ về pháp lý và tuân thủ",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "low",
+    "topic": "Technology & IT",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up before the end of the day.",
+    "exampleVi": "Nhom can follow up truoc cuoi ngay.",
+    "collocations": [
+      "follow up",
+      "follow up today",
+      "follow up carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 135,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "follow-up-the-report-phrasal",
+    "word": "follow up the report",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the report",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The legal team examined the trademark filing before approving the agreement.",
-    "exampleVi": "Nhóm pháp lý đã xem xét trademark filing trước khi phê duyệt thỏa thuận.",
+    "example": "The team needs to follow up the report before the end of the day.",
+    "exampleVi": "Nhom can follow up the report truoc cuoi ngay.",
     "collocations": [
-      "trademark filing",
-      "trademark filing review",
-      "trademark filing process"
+      "follow up the report",
+      "follow up the report today",
+      "follow up the report carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "trademark"
+      "follow",
+      "up"
     ],
-    "day": 135
+    "day": 135,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

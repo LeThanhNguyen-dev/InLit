@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "sự đánh giá, sự nhận xét chuyên môn",
     "pronunciation": "/əˈpreɪzl/",
-    "topic": "HR & Employment",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -30,7 +30,11 @@
       "appraise",
       "appraiser"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "blacklist-verb",
@@ -39,7 +43,7 @@
     "type": "verb",
     "meaning": "đưa vào danh sách đen",
     "pronunciation": "/ˈblæklɪst/",
-    "topic": "HR & Employment",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -58,7 +62,11 @@
     "wordFamily": [
       "blacklist-noun"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "competent-adjective",
@@ -67,7 +75,7 @@
     "type": "adjective",
     "meaning": "có năng lực, thành thạo",
     "pronunciation": "/ˈkɑːmpɪtənt/",
-    "topic": "HR & Employment",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -91,7 +99,11 @@
       "competently",
       "compete"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "credentials-noun",
@@ -100,7 +112,7 @@
     "type": "noun",
     "meaning": "bằng cấp, chứng chỉ, thông tin xác thực",
     "pronunciation": "/krəˈdenʃlz/",
-    "topic": "HR & Employment",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -120,7 +132,11 @@
       "references"
     ],
     "wordFamily": [],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "endorse-verb",
@@ -129,7 +145,7 @@
     "type": "verb",
     "meaning": "ủng hộ, xác nhận, chứng thực",
     "pronunciation": "/inˈdɔːrs/",
-    "topic": "HR & Employment",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -153,7 +169,11 @@
       "endorsement",
       "endorser"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "headhunter-noun",
@@ -162,7 +182,7 @@
     "type": "noun",
     "meaning": "chuyên viên săn đầu người, nhà tuyển dụng",
     "pronunciation": "/ˈhedhʌntər/",
-    "topic": "HR & Employment",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -180,7 +200,11 @@
     "wordFamily": [
       "headhunt"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "overtime-noun",
@@ -189,7 +213,7 @@
     "type": "noun",
     "meaning": "giờ làm thêm, tiền làm thêm giờ",
     "pronunciation": "/ˈoʊvərtaɪm/",
-    "topic": "HR & Employment",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -206,7 +230,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "payroll-noun",
@@ -215,7 +243,7 @@
     "type": "noun",
     "meaning": "bảng lương, danh sách phát lương",
     "pronunciation": "/ˈpeɪroʊl/",
-    "topic": "HR & Employment",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -232,7 +260,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "pension-noun",
@@ -241,7 +273,7 @@
     "type": "noun",
     "meaning": "lương hưu, tiền trợ cấp hưu trí",
     "pronunciation": "/ˈpenʃn/",
-    "topic": "HR & Employment",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -261,7 +293,11 @@
     "wordFamily": [
       "pensioner"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "personnel-noun",
@@ -270,7 +306,7 @@
     "type": "noun",
     "meaning": "nhân sự, toàn bộ nhân viên",
     "pronunciation": "/ˌpɜːrsəˈnel/",
-    "topic": "HR & Employment",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -294,7 +330,11 @@
       "person",
       "personal"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "probationary-adjective",
@@ -303,7 +343,7 @@
     "type": "adjective",
     "meaning": "tập sự, thử việc",
     "pronunciation": "/proʊˈbeɪʃəneri/",
-    "topic": "HR & Employment",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -324,7 +364,11 @@
     "wordFamily": [
       "probation"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "recruitment-noun",
@@ -333,7 +377,7 @@
     "type": "noun",
     "meaning": "sự tuyển dụng",
     "pronunciation": "/rɪˈkruːtmənt/",
-    "topic": "HR & Employment",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -355,7 +399,11 @@
       "recruit",
       "recruiter"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "remuneration-noun",
@@ -364,7 +412,7 @@
     "type": "noun",
     "meaning": "tiền thù lao, tiền công",
     "pronunciation": "/rɪˌmjuːnəˈreɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -387,7 +435,11 @@
       "remunerate",
       "remunerative"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "resignation-noun",
@@ -396,7 +448,7 @@
     "type": "noun",
     "meaning": "sự từ chức, đơn xin thôi việc",
     "pronunciation": "/ˌrezɪɡˈneɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -419,7 +471,11 @@
       "resign",
       "resigned"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "retrenchment-noun",
@@ -428,7 +484,7 @@
     "type": "noun",
     "meaning": "sự cắt giảm nhân sự, sự giảm chi tiêu",
     "pronunciation": "/rɪˈtrentʃmənt/",
-    "topic": "HR & Employment",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -448,7 +504,11 @@
     "wordFamily": [
       "retrench"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "severance-noun",
@@ -457,7 +517,7 @@
     "type": "noun",
     "meaning": "sự thôi việc, trợ cấp thôi việc",
     "pronunciation": "/ˈsevərəns/",
-    "topic": "HR & Employment",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -475,7 +535,11 @@
     "wordFamily": [
       "sever"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "shortlist-verb",
@@ -484,7 +548,7 @@
     "type": "verb",
     "meaning": "đưa vào danh sách rút gọn",
     "pronunciation": "/ˈʃɔːrtlɪst/",
-    "topic": "HR & Employment",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -502,7 +566,11 @@
     "wordFamily": [
       "shortlist-noun"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "turnover-noun",
@@ -511,7 +579,7 @@
     "type": "noun",
     "meaning": "tỷ lệ nghỉ việc, doanh thu",
     "pronunciation": "/ˈtɜːrnoʊvər/",
-    "topic": "HR & Employment",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -527,7 +595,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "vacate-verb",
@@ -536,7 +608,7 @@
     "type": "verb",
     "meaning": "bỏ trống, rời khỏi (vị trí/văn phòng)",
     "pronunciation": "/vəˈkeɪt/",
-    "topic": "HR & Employment",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -559,7 +631,11 @@
       "vacancy",
       "vacant"
     ],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "workplace-noun",
@@ -568,7 +644,7 @@
     "type": "noun",
     "meaning": "nơi làm việc",
     "pronunciation": "/ˈwɜːrkpleɪs/",
-    "topic": "HR & Employment",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -585,7 +661,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 16
+    "day": 16,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "allowance-noun",
@@ -594,7 +674,7 @@
     "type": "noun",
     "meaning": "tiền trợ cấp, phụ cấp",
     "pronunciation": "/əˈlaʊəns/",
-    "topic": "HR & Employment",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -617,7 +697,11 @@
       "allow",
       "allowable"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "bonus-noun",
@@ -626,7 +710,7 @@
     "type": "noun",
     "meaning": "tiền thưởng",
     "pronunciation": "/ˈboʊnəs/",
-    "topic": "HR & Employment",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -646,7 +730,11 @@
       "reward"
     ],
     "wordFamily": [],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "employee-noun",
@@ -655,7 +743,7 @@
     "type": "noun",
     "meaning": "nhân viên, người lao động",
     "pronunciation": "/ɪmˈplɔɪiː/",
-    "topic": "HR & Employment",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -679,7 +767,11 @@
       "employer",
       "employment"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "employer-noun",
@@ -688,7 +780,7 @@
     "type": "noun",
     "meaning": "chủ lao động, người sử dụng lao động",
     "pronunciation": "/ɪmˈplɔɪər/",
-    "topic": "HR & Employment",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -712,7 +804,11 @@
       "employee",
       "employment"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "freelancer-noun",
@@ -721,7 +817,7 @@
     "type": "noun",
     "meaning": "người làm tự do",
     "pronunciation": "/ˈfriːlænsər/",
-    "topic": "HR & Employment",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -741,7 +837,11 @@
       "freelance-verb",
       "freelance-adjective"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "incentive-noun",
@@ -750,7 +850,7 @@
     "type": "noun",
     "meaning": "sự khuyến khích, động lực (kinh tế)",
     "pronunciation": "/ɪnˈsentɪv/",
-    "topic": "HR & Employment",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -773,7 +873,11 @@
     "wordFamily": [
       "incentivize"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "internship-noun",
@@ -782,7 +886,7 @@
     "type": "noun",
     "meaning": "kỳ thực tập, công việc thực tập",
     "pronunciation": "/ˈɪntɜːrnʃɪp/",
-    "topic": "HR & Employment",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -803,7 +907,11 @@
     "wordFamily": [
       "intern"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "interviewee-noun",
@@ -812,7 +920,7 @@
     "type": "noun",
     "meaning": "người được phỏng vấn, ứng viên",
     "pronunciation": "/ˌɪntərvjuˈiː/",
-    "topic": "HR & Employment",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -833,7 +941,11 @@
       "interview",
       "interviewer"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "interviewer-noun",
@@ -842,7 +954,7 @@
     "type": "noun",
     "meaning": "người phỏng vấn",
     "pronunciation": "/ˈɪntərvjuːər/",
-    "topic": "HR & Employment",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -861,7 +973,11 @@
       "interview",
       "interviewee"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "mentor-noun",
@@ -870,7 +986,7 @@
     "type": "noun",
     "meaning": "người hướng dẫn, người cố vấn",
     "pronunciation": "/ˈmentɔːr/",
-    "topic": "HR & Employment",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -893,7 +1009,11 @@
       "mentorship",
       "mentor-verb"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "mentorship-noun",
@@ -902,7 +1022,7 @@
     "type": "noun",
     "meaning": "mối quan hệ hướng dẫn, sự cố vấn",
     "pronunciation": "/ˈmentɔːrʃɪp/",
-    "topic": "HR & Employment",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -923,7 +1043,11 @@
       "mentor",
       "mentor-verb"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "perk-noun",
@@ -932,7 +1056,7 @@
     "type": "noun",
     "meaning": "đặc quyền, bổng lộc thêm",
     "pronunciation": "/pɜːrk/",
-    "topic": "HR & Employment",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -952,7 +1076,11 @@
       "privilege"
     ],
     "wordFamily": [],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "qualified-adjective",
@@ -961,7 +1089,7 @@
     "type": "adjective",
     "meaning": "có trình độ, đủ năng lực",
     "pronunciation": "/ˈkwɑːlɪfaɪd/",
-    "topic": "HR & Employment",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -985,7 +1113,11 @@
       "qualify",
       "qualification"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "qualify-verb",
@@ -994,7 +1126,7 @@
     "type": "verb",
     "meaning": "đủ điều kiện, đủ trình độ",
     "pronunciation": "/ˈkwɑːlɪfaɪ/",
-    "topic": "HR & Employment",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1019,7 +1151,11 @@
       "qualified",
       "qualifier"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "recruiter-noun",
@@ -1028,7 +1164,7 @@
     "type": "noun",
     "meaning": "nhà tuyển dụng, người tuyển mộ",
     "pronunciation": "/rɪˈkruːtər/",
-    "topic": "HR & Employment",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1050,7 +1186,11 @@
       "recruit",
       "recruitment"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "stipend-noun",
@@ -1059,7 +1199,7 @@
     "type": "noun",
     "meaning": "lương học bổng, phụ cấp sinh hoạt",
     "pronunciation": "/ˈstaɪpend/",
-    "topic": "HR & Employment",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1078,7 +1218,11 @@
       "grant"
     ],
     "wordFamily": [],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "trainee-noun",
@@ -1087,7 +1231,7 @@
     "type": "noun",
     "meaning": "người được đào tạo, thực tập sinh",
     "pronunciation": "/ˌtreɪˈniː/",
-    "topic": "HR & Employment",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1110,7 +1254,11 @@
       "trainer",
       "training"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "trainer-noun",
@@ -1119,7 +1267,7 @@
     "type": "noun",
     "meaning": "người đào tạo, huấn luyện viên",
     "pronunciation": "/ˈtreɪnər/",
-    "topic": "HR & Employment",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1142,7 +1290,11 @@
       "trainee",
       "training"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "vacant-adjective",
@@ -1151,7 +1303,7 @@
     "type": "adjective",
     "meaning": "trống, bỏ trống (vị trí/phòng)",
     "pronunciation": "/ˈveɪkənt/",
-    "topic": "HR & Employment",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1175,7 +1327,11 @@
       "vacate",
       "vacancy"
     ],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "welfare-noun",
@@ -1184,7 +1340,7 @@
     "type": "noun",
     "meaning": "phúc lợi, sự an sinh",
     "pronunciation": "/ˈwelfer/",
-    "topic": "HR & Employment",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1203,7 +1359,11 @@
       "benefit"
     ],
     "wordFamily": [],
-    "day": 17
+    "day": 17,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "absenteeism-noun",
@@ -1212,7 +1372,7 @@
     "type": "noun",
     "meaning": "nạn vắng mặt không lý do, trốn việc",
     "pronunciation": "/ˌæbsənˈtiːɪzəm/",
-    "topic": "HR & Employment",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1232,7 +1392,150 @@
       "absence",
       "absentee"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "advantage-noun",
+    "word": "advantage",
+    "baseWord": "advantage",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: advantage",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word advantage in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu advantage trong email cong viec.",
+    "collocations": [
+      "advantage review",
+      "advantage process",
+      "advantage update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "advantage"
+    ],
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "advantageous-adjective",
+    "word": "advantageous",
+    "baseWord": "advantage",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: advantageous",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word advantageous in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu advantageous trong email cong viec.",
+    "collocations": [
+      "advantageous review",
+      "advantageous process",
+      "advantageous update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "advantageous"
+    ],
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "advise-verb",
+    "word": "advise",
+    "baseWord": "adv",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: advise",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word advise in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu advise trong email cong viec.",
+    "collocations": [
+      "advise review",
+      "advise process",
+      "advise update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "advise"
+    ],
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "adviser-noun",
+    "word": "adviser",
+    "baseWord": "advis",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: adviser",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word adviser in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adviser trong email cong viec.",
+    "collocations": [
+      "adviser review",
+      "adviser process",
+      "adviser update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adviser"
+    ],
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "arbitration-noun",
@@ -1241,7 +1544,7 @@
     "type": "noun",
     "meaning": "sự phân xử, sự giải quyết bằng trọng tài",
     "pronunciation": "/ˌɑːrbɪˈtreɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1264,7 +1567,11 @@
       "arbitrary",
       "arbitrator"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "dismissal-noun",
@@ -1273,7 +1580,7 @@
     "type": "noun",
     "meaning": "sự sa thải, sự đuổi việc",
     "pronunciation": "/dɪsˈmɪsl/",
-    "topic": "HR & Employment",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1298,7 +1605,11 @@
       "dismissed",
       "dismissive"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "downsizing-noun",
@@ -1307,7 +1618,7 @@
     "type": "noun",
     "meaning": "sự cắt giảm quy mô nhân sự",
     "pronunciation": "/ˈdaʊnsaɪzɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1328,37 +1639,11 @@
       "downsize",
       "downsized"
     ],
-    "day": 18
-  },
-  {
-    "id": "fringe benefit-phrase",
-    "word": "fringe benefit",
-    "baseWord": "benefit",
-    "type": "phrase",
-    "meaning": "phúc lợi bổ sung, phúc lợi phụ",
-    "pronunciation": "/frɪndʒ ˈbenɪfɪt/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Company cars and private health insurance are common fringe benefits.",
-    "exampleVi": "Xe hơi của công ty và bảo hiểm y tế tư nhân là những phúc lợi bổ sung phổ biến.",
-    "collocations": [
-      "fringe benefits package",
-      "provide fringe benefits",
-      "common fringe benefits"
-    ],
-    "synonyms": [
-      "perks",
-      "extra benefits"
-    ],
-    "wordFamily": [
-      "benefit"
-    ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "grievance-noun",
@@ -1367,7 +1652,7 @@
     "type": "noun",
     "meaning": "lời phàn nàn, khiếu nại của công nhân",
     "pronunciation": "/ˈɡriːvəns/",
-    "topic": "HR & Employment",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1389,7 +1674,11 @@
       "grieve",
       "grievous"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "labor-noun",
@@ -1398,7 +1687,7 @@
     "type": "noun",
     "meaning": "lao động, công nhân",
     "pronunciation": "/ˈleɪbər/",
-    "topic": "HR & Employment",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1422,7 +1711,11 @@
       "laborer",
       "laborious"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "layoff-noun",
@@ -1431,7 +1724,7 @@
     "type": "noun",
     "meaning": "sự sa thải nhân công",
     "pronunciation": "/ˈleɪɔːf/",
-    "topic": "HR & Employment",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1452,7 +1745,11 @@
     "wordFamily": [
       "lay off"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "manpower-noun",
@@ -1461,7 +1758,7 @@
     "type": "noun",
     "meaning": "nguồn nhân lực, nhân công",
     "pronunciation": "/ˈmænpaʊər/",
-    "topic": "HR & Employment",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1481,33 +1778,11 @@
       "staff"
     ],
     "wordFamily": [],
-    "day": 18
-  },
-  {
-    "id": "maternity leave-phrase",
-    "word": "maternity leave",
-    "baseWord": "maternity leave",
-    "type": "phrase",
-    "meaning": "nghỉ thai sản (cho mẹ)",
-    "pronunciation": "/məˈtɜːrnəti liːv/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "She will go on maternity leave starting next month.",
-    "exampleVi": "Cô ấy sẽ nghỉ thai sản bắt đầu từ tháng tới.",
-    "collocations": [
-      "go on maternity leave",
-      "paid maternity leave",
-      "maternity leave benefit"
-    ],
-    "synonyms": [],
-    "wordFamily": [],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "mediation-noun",
@@ -1516,7 +1791,7 @@
     "type": "noun",
     "meaning": "sự hòa giải, sự làm trung gian",
     "pronunciation": "/ˌmiːdiˈeɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1539,32 +1814,11 @@
       "mediator",
       "mediatory"
     ],
-    "day": 18
-  },
-  {
-    "id": "paternity leave-phrase",
-    "word": "paternity leave",
-    "baseWord": "paternity leave",
-    "type": "phrase",
-    "meaning": "nghỉ thai sản (cho bố)",
-    "pronunciation": "/pəˈtɜːrnəti liːv/",
-    "topic": "HR & Employment",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The company offers two weeks of paid paternity leave to new fathers.",
-    "exampleVi": "Công ty cung cấp hai tuần nghỉ thai sản có lương cho các ông bố mới.",
-    "collocations": [
-      "take paternity leave",
-      "paid paternity leave"
-    ],
-    "synonyms": [],
-    "wordFamily": [],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "redundancy-noun",
@@ -1573,7 +1827,7 @@
     "type": "noun",
     "meaning": "sự sa thải do dư thừa nhân viên",
     "pronunciation": "/rɪˈdʌndənsi/",
-    "topic": "HR & Employment",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1594,7 +1848,11 @@
     "wordFamily": [
       "redundant"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "sabbatical-noun",
@@ -1603,7 +1861,7 @@
     "type": "noun",
     "meaning": "kỳ nghỉ phép dài hạn (để học tập/nghiên cứu)",
     "pronunciation": "/səˈbætɪkl/",
-    "topic": "HR & Employment",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1622,33 +1880,11 @@
       "rest"
     ],
     "wordFamily": [],
-    "day": 18
-  },
-  {
-    "id": "sick leave-phrase",
-    "word": "sick leave",
-    "baseWord": "sick leave",
-    "type": "phrase",
-    "meaning": "nghỉ ốm",
-    "pronunciation": "/sɪk liːv/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "He had to take sick leave after catching the flu.",
-    "exampleVi": "Anh ấy đã phải nghỉ ốm sau khi bị cúm.",
-    "collocations": [
-      "take sick leave",
-      "paid sick leave",
-      "on sick leave"
-    ],
-    "synonyms": [],
-    "wordFamily": [],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "strike-noun",
@@ -1657,7 +1893,7 @@
     "type": "noun",
     "meaning": "cuộc đình công",
     "pronunciation": "/straɪk/",
-    "topic": "HR & Employment",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1678,7 +1914,11 @@
     "wordFamily": [
       "strike-verb"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "superannuation-noun",
@@ -1687,7 +1927,7 @@
     "type": "noun",
     "meaning": "quỹ hưu trí, tiền hưu trí",
     "pronunciation": "/ˌsuːpərˌænjuˈeɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Public Relations",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1707,7 +1947,11 @@
     "wordFamily": [
       "superannuated"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "termination-noun",
@@ -1716,7 +1960,7 @@
     "type": "noun",
     "meaning": "sự chấm dứt hợp đồng, sự thôi việc",
     "pronunciation": "/ˌtɜːrmɪˈneɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1741,7 +1985,11 @@
       "terminated",
       "terminator"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "union-noun",
@@ -1750,7 +1998,7 @@
     "type": "noun",
     "meaning": "công đoàn, liên đoàn lao động",
     "pronunciation": "/ˈjuːniən/",
-    "topic": "HR & Employment",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1775,7 +2023,11 @@
       "unity",
       "unionist"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "workload-noun",
@@ -1784,7 +2036,7 @@
     "type": "noun",
     "meaning": "khối lượng công việc",
     "pronunciation": "/ˈwɜːrkloʊd/",
-    "topic": "HR & Employment",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1806,7 +2058,147 @@
     "wordFamily": [
       "work"
     ],
-    "day": 18
+    "day": 18,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "advisory-adjective",
+    "word": "advisory",
+    "baseWord": "advis",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: advisory",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word advisory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu advisory trong email cong viec.",
+    "collocations": [
+      "advisory review",
+      "advisory process",
+      "advisory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "advisory"
+    ],
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "allocation-noun",
+    "word": "allocation",
+    "baseWord": "alloca",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: allocation",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word allocation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu allocation trong email cong viec.",
+    "collocations": [
+      "allocation review",
+      "allocation process",
+      "allocation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "allocation"
+    ],
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "alternative-adjective",
+    "word": "alternative",
+    "baseWord": "alternat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: alternative",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word alternative in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu alternative trong email cong viec.",
+    "collocations": [
+      "alternative review",
+      "alternative process",
+      "alternative update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "alternative"
+    ],
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "anticipate-verb",
+    "word": "anticipate",
+    "baseWord": "anticip",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: anticipate",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word anticipate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu anticipate trong email cong viec.",
+    "collocations": [
+      "anticipate review",
+      "anticipate process",
+      "anticipate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "anticipate"
+    ],
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "appraise-verb",
@@ -1815,7 +2207,7 @@
     "type": "verb",
     "meaning": "đánh giá, định giá",
     "pronunciation": "/əˈpreɪz/",
-    "topic": "HR & Employment",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1838,7 +2230,11 @@
       "appraisal",
       "appraiser"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "assess-verb",
@@ -1847,7 +2243,7 @@
     "type": "verb",
     "meaning": "đánh giá, ước tính",
     "pronunciation": "/əˈsɛs/",
-    "topic": "HR & Employment",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1870,7 +2266,11 @@
       "assessment",
       "assessor"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "assessment-noun",
@@ -1879,7 +2279,7 @@
     "type": "noun",
     "meaning": "sự đánh giá, sự ước định",
     "pronunciation": "/əˈsɛsmənt/",
-    "topic": "HR & Employment",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1902,7 +2302,11 @@
       "assess",
       "assessor"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "demote-verb",
@@ -1911,7 +2315,7 @@
     "type": "verb",
     "meaning": "giáng chức, hạ bậc",
     "pronunciation": "/ˌdiːˈmoʊt/",
-    "topic": "HR & Employment",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1930,7 +2334,11 @@
     "wordFamily": [
       "demotion"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "demotion-noun",
@@ -1939,7 +2347,7 @@
     "type": "noun",
     "meaning": "sự giáng chức",
     "pronunciation": "/ˌdiːˈmoʊʃn/",
-    "topic": "HR & Employment",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1959,7 +2367,11 @@
     "wordFamily": [
       "demote"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "evaluation-noun",
@@ -1968,7 +2380,7 @@
     "type": "noun",
     "meaning": "sự đánh giá, sự nhận xét",
     "pronunciation": "/ɪˌvæljuˈeɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1990,7 +2402,11 @@
       "evaluate",
       "evaluative"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "headhunt-verb",
@@ -1999,7 +2415,7 @@
     "type": "verb",
     "meaning": "săn đầu người, tuyển dụng nhân sự cấp cao",
     "pronunciation": "/ˈhedhʌnt/",
-    "topic": "HR & Employment",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2018,7 +2434,11 @@
     "wordFamily": [
       "headhunter"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "headquarters-noun",
@@ -2027,7 +2447,7 @@
     "type": "noun",
     "meaning": "trụ sở chính",
     "pronunciation": "/ˈhedkwɔːrtərz/",
-    "topic": "HR & Employment",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2047,64 +2467,11 @@
       "main office"
     ],
     "wordFamily": [],
-    "day": 19
-  },
-  {
-    "id": "job description-phrase",
-    "word": "job description",
-    "baseWord": "description",
-    "type": "phrase",
-    "meaning": "bản mô tả công việc",
-    "pronunciation": "/dʒɑːb dɪˈskrɪpʃn/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Read the job description carefully before submitting your application.",
-    "exampleVi": "Đọc kỹ bản mô tả công việc trước khi nộp đơn đăng ký của bạn.",
-    "collocations": [
-      "detailed job description",
-      "write a job description",
-      "match the job description"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "describe",
-      "description"
-    ],
-    "day": 19
-  },
-  {
-    "id": "labor union-phrase",
-    "word": "labor union",
-    "baseWord": "union",
-    "type": "phrase",
-    "meaning": "công đoàn lao động",
-    "pronunciation": "/ˈleɪbər ˈjuːniən/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The labor union organized a meeting to discuss safety demands.",
-    "exampleVi": "Công đoàn lao động đã tổ chức một cuộc họp để thảo luận về các yêu cầu an toàn.",
-    "collocations": [
-      "join a labor union",
-      "labor union representative",
-      "labor union contract"
-    ],
-    "synonyms": [
-      "trade union"
-    ],
-    "wordFamily": [
-      "union"
-    ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "laborer-noun",
@@ -2113,7 +2480,7 @@
     "type": "noun",
     "meaning": "người lao động chân tay",
     "pronunciation": "/ˈleɪbərər/",
-    "topic": "HR & Employment",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2135,33 +2502,11 @@
       "labor",
       "laborious"
     ],
-    "day": 19
-  },
-  {
-    "id": "payroll list-phrase",
-    "word": "payroll list",
-    "baseWord": "payroll list",
-    "type": "phrase",
-    "meaning": "danh sách bảng lương",
-    "pronunciation": "/ˈpeɪroʊl lɪst/",
-    "topic": "HR & Employment",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please update the payroll list with the names of the new hires.",
-    "exampleVi": "Vui lòng cập nhật danh sách bảng lương với tên của các nhân viên mới tuyển dụng.",
-    "collocations": [
-      "update payroll list",
-      "on the payroll list"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "payroll"
-    ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "promote-verb",
@@ -2170,7 +2515,7 @@
     "type": "verb",
     "meaning": "thăng chức, quảng bá",
     "pronunciation": "/prəˈmoʊt/",
-    "topic": "HR & Employment",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2195,7 +2540,11 @@
       "promoter",
       "promotional"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "recommend-verb",
@@ -2204,7 +2553,7 @@
     "type": "verb",
     "meaning": "khuyên, giới thiệu, đề xuất",
     "pronunciation": "/ˌrekəˈmend/",
-    "topic": "HR & Employment",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2228,7 +2577,11 @@
       "recommendation",
       "recommended"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "referee-noun",
@@ -2237,7 +2590,7 @@
     "type": "noun",
     "meaning": "người tham chiếu, người giới thiệu",
     "pronunciation": "/ˌrefəˈriː/",
-    "topic": "HR & Employment",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2258,36 +2611,11 @@
     "wordFamily": [
       "referee-verb"
     ],
-    "day": 19
-  },
-  {
-    "id": "reference letter-phrase",
-    "word": "reference letter",
-    "baseWord": "letter",
-    "type": "phrase",
-    "meaning": "thư giới thiệu",
-    "pronunciation": "/ˈrefərəns ˈletər/",
-    "topic": "HR & Employment",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "You need to submit a reference letter from your previous employer.",
-    "exampleVi": "Bạn cần nộp thư giới thiệu từ chủ lao động trước đây của bạn.",
-    "collocations": [
-      "submit a reference letter",
-      "provide a reference letter",
-      "request a reference letter"
-    ],
-    "synonyms": [
-      "recommendation letter"
-    ],
-    "wordFamily": [
-      "reference"
-    ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "relocate-verb",
@@ -2296,7 +2624,7 @@
     "type": "verb",
     "meaning": "chuyển địa điểm, di dời (văn phòng/nhà cửa)",
     "pronunciation": "/ˌriːˈloʊkeɪt/",
-    "topic": "HR & Employment",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2318,7 +2646,11 @@
     "wordFamily": [
       "relocation"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "relocation-noun",
@@ -2327,7 +2659,7 @@
     "type": "noun",
     "meaning": "sự chuyển địa điểm, di dời",
     "pronunciation": "/ˌriːloʊˈkeɪʃn/",
-    "topic": "HR & Employment",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2348,7 +2680,11 @@
     "wordFamily": [
       "relocate"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "retiree-noun",
@@ -2357,7 +2693,7 @@
     "type": "noun",
     "meaning": "người nghỉ hưu",
     "pronunciation": "/rɪˌtaɪəˈriː/",
-    "topic": "HR & Employment",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2377,7 +2713,11 @@
       "retire",
       "retirement"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "retirement-noun",
@@ -2386,7 +2726,7 @@
     "type": "noun",
     "meaning": "sự nghỉ hưu",
     "pronunciation": "/rɪˈtaɪərmənt/",
-    "topic": "HR & Employment",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2406,7 +2746,11 @@
       "retire",
       "retiree"
     ],
-    "day": 19
+    "day": 19,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accomplish-verb",
@@ -2415,7 +2759,7 @@
     "type": "verb",
     "meaning": "hoàn thành, đạt được",
     "pronunciation": "/əˈkɑːmplɪʃ/",
-    "topic": "HR & Employment",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2438,7 +2782,11 @@
       "accomplishment",
       "accomplished"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "accomplishment-noun",
@@ -2447,7 +2795,7 @@
     "type": "noun",
     "meaning": "thành tựu, sự hoàn thành",
     "pronunciation": "/əˈkɑːmplɪʃmənt/",
-    "topic": "HR & Employment",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2470,7 +2818,45 @@
       "accomplish",
       "accomplished"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "anticipation-noun",
+    "word": "anticipation",
+    "baseWord": "anticipa",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: anticipation",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word anticipation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu anticipation trong email cong viec.",
+    "collocations": [
+      "anticipation review",
+      "anticipation process",
+      "anticipation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "anticipation"
+    ],
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "competence-noun",
@@ -2479,7 +2865,7 @@
     "type": "noun",
     "meaning": "năng lực, khả năng",
     "pronunciation": "/ˈkɑːmpɪtəns/",
-    "topic": "HR & Employment",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2503,7 +2889,11 @@
       "competently",
       "competition"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "credentialing-noun",
@@ -2512,7 +2902,7 @@
     "type": "noun",
     "meaning": "sự thẩm định và cấp chứng chỉ hành nghề",
     "pronunciation": "/krəˈdenʃəlɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Quality & Standards",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2532,7 +2922,11 @@
     "wordFamily": [
       "credentials"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "expertise-noun",
@@ -2541,7 +2935,7 @@
     "type": "noun",
     "meaning": "sự chuyên môn, kiến thức chuyên sâu",
     "pronunciation": "/ˌekspɜːrˈtiːz/",
-    "topic": "HR & Employment",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2565,7 +2959,11 @@
       "expert",
       "expertly"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "flextime-noun",
@@ -2574,7 +2972,7 @@
     "type": "noun",
     "meaning": "thời gian làm việc linh hoạt",
     "pronunciation": "/ˈflekstaɪm/",
-    "topic": "HR & Employment",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2593,33 +2991,11 @@
       "flexible hours"
     ],
     "wordFamily": [],
-    "day": 20
-  },
-  {
-    "id": "job sharing-phrase",
-    "word": "job sharing",
-    "baseWord": "share",
-    "type": "phrase",
-    "meaning": "việc chia sẻ công việc (hai người làm một vị trí)",
-    "pronunciation": "/dʒɑːb ˈʃerɪŋ/",
-    "topic": "HR & Employment",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Job sharing allows two part-time employees to split one full-time position.",
-    "exampleVi": "Chia sẻ công việc cho phép hai nhân viên bán thời gian chia nhỏ một vị trí toàn thời gian.",
-    "collocations": [
-      "job sharing scheme",
-      "job sharing arrangement"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "share"
-    ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "onboarding-noun",
@@ -2628,7 +3004,7 @@
     "type": "noun",
     "meaning": "quá trình hội nhập, làm quen cho nhân viên mới",
     "pronunciation": "/ˈɑːnbɔːrdɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2650,7 +3026,11 @@
     "wordFamily": [
       "board"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "outsourcing-noun",
@@ -2659,7 +3039,7 @@
     "type": "noun",
     "meaning": "sự thuê ngoài, dịch vụ thuê ngoài",
     "pronunciation": "/ˈaʊtsɔːrsɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2679,7 +3059,11 @@
     "wordFamily": [
       "outsource"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "overstaffed-adjective",
@@ -2688,7 +3072,7 @@
     "type": "adjective",
     "meaning": "thừa nhân viên, quá nhiều nhân viên",
     "pronunciation": "/ˌoʊvərˈstæft/",
-    "topic": "HR & Employment",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2705,7 +3089,11 @@
     "wordFamily": [
       "staff"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "probationer-noun",
@@ -2714,7 +3102,7 @@
     "type": "noun",
     "meaning": "người đang trong thời gian thử việc",
     "pronunciation": "/proʊˈbeɪʃənər/",
-    "topic": "HR & Employment",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2735,7 +3123,11 @@
       "probation",
       "probationary"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "proficiency-noun",
@@ -2744,7 +3136,7 @@
     "type": "noun",
     "meaning": "sự thành thạo, trình độ",
     "pronunciation": "/prəˈfɪʃnsi/",
-    "topic": "HR & Employment",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2767,7 +3159,11 @@
       "proficient",
       "proficiently"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "proficient-adjective",
@@ -2776,7 +3172,7 @@
     "type": "adjective",
     "meaning": "thành thạo, giỏi",
     "pronunciation": "/prəˈfɪʃnt/",
-    "topic": "HR & Employment",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2799,7 +3195,11 @@
       "proficiency",
       "proficiently"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "reskilling-noun",
@@ -2808,7 +3208,7 @@
     "type": "noun",
     "meaning": "việc đào tạo lại kỹ năng mới",
     "pronunciation": "/ˌriːˈskɪlɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2829,7 +3229,11 @@
       "skill",
       "skilled"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "subcontract-verb",
@@ -2838,7 +3242,7 @@
     "type": "verb",
     "meaning": "ký hợp đồng phụ, thầu lại",
     "pronunciation": "/ˌsʌbˈkɑːntrækt/",
-    "topic": "HR & Employment",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2860,7 +3264,11 @@
       "subcontractor",
       "subcontracted"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "subcontractor-noun",
@@ -2869,7 +3277,7 @@
     "type": "noun",
     "meaning": "nhà thầu phụ",
     "pronunciation": "/ˌsʌbˈkɑːntræktər/",
-    "topic": "HR & Employment",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2889,7 +3297,11 @@
       "subcontract",
       "subcontracted"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "telecommuting-noun",
@@ -2898,7 +3310,7 @@
     "type": "noun",
     "meaning": "việc làm việc từ xa, làm việc tại nhà qua mạng",
     "pronunciation": "/ˌtelikəˈmjuːtɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2922,7 +3334,11 @@
       "telecommute",
       "telecommuter"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "understaffed-adjective",
@@ -2931,7 +3347,7 @@
     "type": "adjective",
     "meaning": "thiếu nhân viên",
     "pronunciation": "/ˌʌndərˈstæft/",
-    "topic": "HR & Employment",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2953,7 +3369,11 @@
     "wordFamily": [
       "staff"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "upskilling-noun",
@@ -2962,7 +3382,7 @@
     "type": "noun",
     "meaning": "việc nâng cao kỹ năng, bồi dưỡng tay nghề",
     "pronunciation": "/ˌʌpˈskɪlɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2983,7 +3403,11 @@
       "skill",
       "skilled"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "vetting-noun",
@@ -2992,7 +3416,7 @@
     "type": "noun",
     "meaning": "sự thẩm định, kiểm tra lý lịch",
     "pronunciation": "/ˈvetɪŋ/",
-    "topic": "HR & Employment",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3014,6 +3438,10 @@
     "wordFamily": [
       "vet"
     ],
-    "day": 20
+    "day": 20,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

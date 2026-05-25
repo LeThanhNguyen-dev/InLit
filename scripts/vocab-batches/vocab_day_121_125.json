@@ -1,934 +1,255 @@
 [
   {
-    "id": "callback-request-phrase",
-    "word": "callback request",
-    "baseWord": "callback",
+    "id": "daily-accommodation-collocation",
+    "word": "daily accommodation",
+    "baseWord": "accommodation",
     "type": "phrase",
-    "meaning": "callback request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily accommodation",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the callback request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật callback request sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "callback request",
-      "callback request review",
-      "callback request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "callback"
-    ],
-    "day": 121
-  },
-  {
-    "id": "case-number-phrase",
-    "word": "case number",
-    "baseWord": "case",
-    "type": "phrase",
-    "meaning": "case number; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the case number after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật case number sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "case number",
-      "case number review",
-      "case number process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "case"
-    ],
-    "day": 121
-  },
-  {
-    "id": "customer-inquiry-phrase",
-    "word": "customer inquiry",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer inquiry; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer inquiry after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer inquiry sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer inquiry",
-      "customer inquiry review",
-      "customer inquiry process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 121
-  },
-  {
-    "id": "customer-portal-phrase",
-    "word": "customer portal",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer portal; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer portal after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer portal sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer portal",
-      "customer portal review",
-      "customer portal process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 121
-  },
-  {
-    "id": "escalation-path-phrase",
-    "word": "escalation path",
-    "baseWord": "escalation",
-    "type": "phrase",
-    "meaning": "escalation path; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the escalation path after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật escalation path sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "escalation path",
-      "escalation path review",
-      "escalation path process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "escalation"
-    ],
-    "day": 121
-  },
-  {
-    "id": "first-response-phrase",
-    "word": "first response",
-    "baseWord": "first",
-    "type": "phrase",
-    "meaning": "first response; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the first response after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật first response sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "first response",
-      "first response review",
-      "first response process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "first"
-    ],
-    "day": 121
-  },
-  {
-    "id": "help-desk-phrase",
-    "word": "help desk",
-    "baseWord": "help",
-    "type": "phrase",
-    "meaning": "help desk; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the help desk after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật help desk sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "help desk",
-      "help desk review",
-      "help desk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "help"
-    ],
-    "day": 121
-  },
-  {
-    "id": "knowledge-base-phrase",
-    "word": "knowledge base",
-    "baseWord": "knowledge",
-    "type": "phrase",
-    "meaning": "knowledge base; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Office & Administration",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the knowledge base after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật knowledge base sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua daily accommodation vao ho so truoc thu Sau.",
     "collocations": [
-      "knowledge base",
-      "knowledge base review",
-      "knowledge base process"
+      "daily accommodation",
+      "daily accommodation review",
+      "daily accommodation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "knowledge"
+      "daily",
+      "accommodation"
     ],
-    "day": 121
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "live-chat-phrase",
-    "word": "live chat",
-    "baseWord": "live",
+    "id": "daily-advertisement-collocation",
+    "word": "daily advertisement",
+    "baseWord": "advertisement",
     "type": "phrase",
-    "meaning": "live chat; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily advertisement",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua daily advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily advertisement",
+      "daily advertisement review",
+      "daily advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "advertisement"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "daily-brochure-collocation",
+    "word": "daily brochure",
+    "baseWord": "brochure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily brochure",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily brochure in the file before Friday.",
+    "exampleVi": "Vui long dua daily brochure vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily brochure",
+      "daily brochure review",
+      "daily brochure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "brochure"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "daily-campaign-collocation",
+    "word": "daily campaign",
+    "baseWord": "campaign",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily campaign",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the live chat after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật live chat sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily campaign in the file before Friday.",
+    "exampleVi": "Vui long dua daily campaign vao ho so truoc thu Sau.",
     "collocations": [
-      "live chat",
-      "live chat review",
-      "live chat process"
+      "daily campaign",
+      "daily campaign review",
+      "daily campaign deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "live"
+      "daily",
+      "campaign"
     ],
-    "day": 121
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "resolution-time-phrase",
-    "word": "resolution time",
-    "baseWord": "resolution",
+    "id": "daily-catalog-collocation",
+    "word": "daily catalog",
+    "baseWord": "catalog",
     "type": "phrase",
-    "meaning": "resolution time; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily catalog",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the resolution time after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật resolution time sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "resolution time",
-      "resolution time review",
-      "resolution time process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "resolution"
-    ],
-    "day": 121
-  },
-  {
-    "id": "response-time-phrase",
-    "word": "response time",
-    "baseWord": "response",
-    "type": "phrase",
-    "meaning": "response time; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the response time after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật response time sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "response time",
-      "response time review",
-      "response time process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "response"
-    ],
-    "day": 121
-  },
-  {
-    "id": "self-service-option-phrase",
-    "word": "self-service option",
-    "baseWord": "self-service",
-    "type": "phrase",
-    "meaning": "self-service option; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the self-service option after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật self-service option sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily catalog in the file before Friday.",
+    "exampleVi": "Vui long dua daily catalog vao ho so truoc thu Sau.",
     "collocations": [
-      "self-service option",
-      "self-service option review",
-      "self-service option process"
+      "daily catalog",
+      "daily catalog review",
+      "daily catalog deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "self-service"
+      "daily",
+      "catalog"
     ],
-    "day": 121
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "service-queue-phrase",
-    "word": "service queue",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service queue; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the service queue after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service queue sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service queue",
-      "service queue review",
-      "service queue process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 121
-  },
-  {
-    "id": "service-representative-phrase",
-    "word": "service representative",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service representative; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service representative after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service representative sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service representative",
-      "service representative review",
-      "service representative process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 121
-  },
-  {
-    "id": "service-request-phrase",
-    "word": "service request",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the service request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service request sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service request",
-      "service request review",
-      "service request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 121
-  },
-  {
-    "id": "support-agent-phrase",
-    "word": "support agent",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "support agent; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the support agent after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support agent sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "support agent",
-      "support agent review",
-      "support agent process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "support"
-    ],
-    "day": 121
-  },
-  {
-    "id": "support-hours-phrase",
-    "word": "support hours",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "support hours; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the support hours after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support hours sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "support hours",
-      "support hours review",
-      "support hours process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "support"
-    ],
-    "day": 121
-  },
-  {
-    "id": "support-ticket-phrase",
-    "word": "support ticket",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "support ticket; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the support ticket after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support ticket sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "support ticket",
-      "support ticket review",
-      "support ticket process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "support"
-    ],
-    "day": 121
-  },
-  {
-    "id": "technical-assistance-phrase",
-    "word": "technical assistance",
-    "baseWord": "technical",
-    "type": "phrase",
-    "meaning": "technical assistance; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the technical assistance after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật technical assistance sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "technical assistance",
-      "technical assistance review",
-      "technical assistance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "technical"
-    ],
-    "day": 121
-  },
-  {
-    "id": "troubleshooting-step-phrase",
-    "word": "troubleshooting step",
-    "baseWord": "troubleshooting",
-    "type": "phrase",
-    "meaning": "troubleshooting step; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the troubleshooting step after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật troubleshooting step sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "troubleshooting step",
-      "troubleshooting step review",
-      "troubleshooting step process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "troubleshooting"
-    ],
-    "day": 121
-  },
-  {
-    "id": "account-verification-phrase",
-    "word": "account verification",
-    "baseWord": "account",
-    "type": "phrase",
-    "meaning": "account verification; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the account verification after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật account verification sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "account verification",
-      "account verification review",
-      "account verification process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "account"
-    ],
-    "day": 122
-  },
-  {
-    "id": "billing-inquiry-phrase",
-    "word": "billing inquiry",
-    "baseWord": "billing",
-    "type": "phrase",
-    "meaning": "billing inquiry; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the billing inquiry after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật billing inquiry sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "billing inquiry",
-      "billing inquiry review",
-      "billing inquiry process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "billing"
-    ],
-    "day": 122
-  },
-  {
-    "id": "client-concern-phrase",
-    "word": "client concern",
-    "baseWord": "client",
-    "type": "phrase",
-    "meaning": "client concern; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the client concern after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật client concern sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "client concern",
-      "client concern review",
-      "client concern process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "client"
-    ],
-    "day": 122
-  },
-  {
-    "id": "complaint-handling-phrase",
-    "word": "complaint handling",
+    "id": "daily-complaint-collocation",
+    "word": "daily complaint",
     "baseWord": "complaint",
     "type": "phrase",
-    "meaning": "complaint handling; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily complaint",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Travel & Transportation",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the complaint handling after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật complaint handling sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily complaint in the file before Friday.",
+    "exampleVi": "Vui long dua daily complaint vao ho so truoc thu Sau.",
     "collocations": [
-      "complaint handling",
-      "complaint handling review",
-      "complaint handling process"
+      "daily complaint",
+      "daily complaint review",
+      "daily complaint deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "daily",
       "complaint"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "customer-care-phrase",
-    "word": "customer care",
-    "baseWord": "customer",
+    "id": "daily-conference-collocation",
+    "word": "daily conference",
+    "baseWord": "conference",
     "type": "phrase",
-    "meaning": "customer care; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily conference",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer care after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer care sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer care",
-      "customer care review",
-      "customer care process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 122
-  },
-  {
-    "id": "customer-retention-phrase",
-    "word": "customer retention",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer retention; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer retention after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer retention sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer retention",
-      "customer retention review",
-      "customer retention process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 122
-  },
-  {
-    "id": "customer-satisfaction-phrase",
-    "word": "customer satisfaction",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer satisfaction; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer satisfaction after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer satisfaction sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer satisfaction",
-      "customer satisfaction review",
-      "customer satisfaction process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 122
-  },
-  {
-    "id": "feedback-form-phrase",
-    "word": "feedback form",
-    "baseWord": "feedback",
-    "type": "phrase",
-    "meaning": "feedback form; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the feedback form after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật feedback form sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "feedback form",
-      "feedback form review",
-      "feedback form process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "feedback"
-    ],
-    "day": 122
-  },
-  {
-    "id": "follow-up-call-phrase",
-    "word": "follow-up call",
-    "baseWord": "follow-up",
-    "type": "phrase",
-    "meaning": "follow-up call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the follow-up call after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật follow-up call sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "follow-up call",
-      "follow-up call review",
-      "follow-up call process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "follow-up"
-    ],
-    "day": 122
-  },
-  {
-    "id": "issue-resolution-phrase",
-    "word": "issue resolution",
-    "baseWord": "issue",
-    "type": "phrase",
-    "meaning": "issue resolution; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the issue resolution after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật issue resolution sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "issue resolution",
-      "issue resolution review",
-      "issue resolution process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "issue"
-    ],
-    "day": 122
-  },
-  {
-    "id": "outage-notice-phrase",
-    "word": "outage notice",
-    "baseWord": "outage",
-    "type": "phrase",
-    "meaning": "outage notice; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the outage notice after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật outage notice sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily conference in the file before Friday.",
+    "exampleVi": "Vui long dua daily conference vao ho so truoc thu Sau.",
     "collocations": [
-      "outage notice",
-      "outage notice review",
-      "outage notice process"
+      "daily conference",
+      "daily conference review",
+      "daily conference deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "outage"
+      "daily",
+      "conference"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "priority-case-phrase",
-    "word": "priority case",
-    "baseWord": "priority",
+    "id": "daily-discount-collocation",
+    "word": "daily discount",
+    "baseWord": "discount",
     "type": "phrase",
-    "meaning": "priority case; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily discount",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -936,1189 +257,1283 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the priority case after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật priority case sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily discount in the file before Friday.",
+    "exampleVi": "Vui long dua daily discount vao ho so truoc thu Sau.",
     "collocations": [
-      "priority case",
-      "priority case review",
-      "priority case process"
+      "daily discount",
+      "daily discount review",
+      "daily discount deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "priority"
+      "daily",
+      "discount"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "refund-request-phrase",
-    "word": "refund request",
+    "id": "daily-evaluation-collocation",
+    "word": "daily evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily evaluation",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua daily evaluation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily evaluation",
+      "daily evaluation review",
+      "daily evaluation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "evaluation"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "daily-itinerary-collocation",
+    "word": "daily itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily itinerary",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua daily itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily itinerary",
+      "daily itinerary review",
+      "daily itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "itinerary"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "daily-orientation-collocation",
+    "word": "daily orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily orientation",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily orientation in the file before Friday.",
+    "exampleVi": "Vui long dua daily orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily orientation",
+      "daily orientation review",
+      "daily orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "orientation"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "daily-performance-collocation",
+    "word": "daily performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily performance",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily performance in the file before Friday.",
+    "exampleVi": "Vui long dua daily performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily performance",
+      "daily performance review",
+      "daily performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "performance"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "daily-presentation-collocation",
+    "word": "daily presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily presentation",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily presentation in the file before Friday.",
+    "exampleVi": "Vui long dua daily presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily presentation",
+      "daily presentation review",
+      "daily presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "presentation"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "daily-refund-collocation",
+    "word": "daily refund",
     "baseWord": "refund",
     "type": "phrase",
-    "meaning": "refund request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily refund",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the refund request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật refund request sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily refund in the file before Friday.",
+    "exampleVi": "Vui long dua daily refund vao ho so truoc thu Sau.",
     "collocations": [
-      "refund request",
-      "refund request review",
-      "refund request process"
+      "daily refund",
+      "daily refund review",
+      "daily refund deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "daily",
       "refund"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
-    "id": "replacement-order-phrase",
-    "word": "replacement order",
-    "baseWord": "replacement",
+    "id": "daily-representative-collocation",
+    "word": "daily representative",
+    "baseWord": "representative",
     "type": "phrase",
-    "meaning": "replacement order; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily representative",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Insurance & Risk",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the replacement order after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật replacement order sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "replacement order",
-      "replacement order review",
-      "replacement order process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "replacement"
-    ],
-    "day": 122
-  },
-  {
-    "id": "return-authorization-phrase",
-    "word": "return authorization",
-    "baseWord": "return",
-    "type": "phrase",
-    "meaning": "return authorization; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the return authorization after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật return authorization sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily representative in the file before Friday.",
+    "exampleVi": "Vui long dua daily representative vao ho so truoc thu Sau.",
     "collocations": [
-      "return authorization",
-      "return authorization review",
-      "return authorization process"
+      "daily representative",
+      "daily representative review",
+      "daily representative deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "return"
+      "daily",
+      "representative"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "service-interruption-phrase",
-    "word": "service interruption",
-    "baseWord": "service",
+    "id": "daily-reservation-collocation",
+    "word": "daily reservation",
+    "baseWord": "reservation",
     "type": "phrase",
-    "meaning": "service interruption; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily reservation",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service interruption after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service interruption sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service interruption",
-      "service interruption review",
-      "service interruption process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 122
-  },
-  {
-    "id": "service-rating-phrase",
-    "word": "service rating",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service rating; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service rating after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service rating sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service rating",
-      "service rating review",
-      "service rating process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 122
-  },
-  {
-    "id": "service-recovery-phrase",
-    "word": "service recovery",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service recovery; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the service recovery after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service recovery sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily reservation in the file before Friday.",
+    "exampleVi": "Vui long dua daily reservation vao ho so truoc thu Sau.",
     "collocations": [
-      "service recovery",
-      "service recovery review",
-      "service recovery process"
+      "daily reservation",
+      "daily reservation review",
+      "daily reservation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "service"
+      "daily",
+      "reservation"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
-    "id": "urgent-request-phrase",
-    "word": "urgent request",
-    "baseWord": "urgent",
+    "id": "daily-supplier-collocation",
+    "word": "daily supplier",
+    "baseWord": "supplier",
     "type": "phrase",
-    "meaning": "urgent request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily supplier",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the urgent request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật urgent request sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily supplier in the file before Friday.",
+    "exampleVi": "Vui long dua daily supplier vao ho so truoc thu Sau.",
     "collocations": [
-      "urgent request",
-      "urgent request review",
-      "urgent request process"
+      "daily supplier",
+      "daily supplier review",
+      "daily supplier deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "urgent"
+      "daily",
+      "supplier"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
-    "id": "warranty-claim-phrase",
-    "word": "warranty claim",
+    "id": "daily-training-collocation",
+    "word": "daily training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily training",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily training in the file before Friday.",
+    "exampleVi": "Vui long dua daily training vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily training",
+      "daily training review",
+      "daily training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "training"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "daily-venue-collocation",
+    "word": "daily venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily venue",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily venue in the file before Friday.",
+    "exampleVi": "Vui long dua daily venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily venue",
+      "daily venue review",
+      "daily venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "venue"
+    ],
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "daily-warranty-collocation",
+    "word": "daily warranty",
     "baseWord": "warranty",
     "type": "phrase",
-    "meaning": "warranty claim; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily warranty",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
+    "topic": "Office Equipment",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the warranty claim after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật warranty claim sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily warranty in the file before Friday.",
+    "exampleVi": "Vui long dua daily warranty vao ho so truoc thu Sau.",
     "collocations": [
-      "warranty claim",
-      "warranty claim review",
-      "warranty claim process"
+      "daily warranty",
+      "daily warranty review",
+      "daily warranty deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "daily",
       "warranty"
     ],
-    "day": 122
+    "day": 121,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "call-log-phrase",
-    "word": "call log",
-    "baseWord": "call",
+    "id": "daily-claim-collocation",
+    "word": "daily claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "call log; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily claim",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the call log after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật call log sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "call log",
-      "call log review",
-      "call log process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "call"
-    ],
-    "day": 123
-  },
-  {
-    "id": "case-history-phrase",
-    "word": "case history",
-    "baseWord": "case",
-    "type": "phrase",
-    "meaning": "case history; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the case history after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật case history sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "case history",
-      "case history review",
-      "case history process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "case"
-    ],
-    "day": 123
-  },
-  {
-    "id": "chat-transcript-phrase",
-    "word": "chat transcript",
-    "baseWord": "chat",
-    "type": "phrase",
-    "meaning": "chat transcript; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the chat transcript after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật chat transcript sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "chat transcript",
-      "chat transcript review",
-      "chat transcript process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "chat"
-    ],
-    "day": 123
-  },
-  {
-    "id": "common-issue-phrase",
-    "word": "common issue",
-    "baseWord": "common",
-    "type": "phrase",
-    "meaning": "common issue; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the common issue after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật common issue sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "common issue",
-      "common issue review",
-      "common issue process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "common"
-    ],
-    "day": 123
-  },
-  {
-    "id": "contact-center-phrase",
-    "word": "contact center",
-    "baseWord": "contact",
-    "type": "phrase",
-    "meaning": "contact center; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the contact center after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật contact center sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "contact center",
-      "contact center review",
-      "contact center process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "contact"
-    ],
-    "day": 123
-  },
-  {
-    "id": "customer-record-phrase",
-    "word": "customer record",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer record; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer record after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer record sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer record",
-      "customer record review",
-      "customer record process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 123
-  },
-  {
-    "id": "email-support-phrase",
-    "word": "email support",
-    "baseWord": "email",
-    "type": "phrase",
-    "meaning": "email support; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the email support after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật email support sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "email support",
-      "email support review",
-      "email support process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "email"
-    ],
-    "day": 123
-  },
-  {
-    "id": "inbound-call-phrase",
-    "word": "inbound call",
-    "baseWord": "inbound",
-    "type": "phrase",
-    "meaning": "inbound call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the inbound call after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật inbound call sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "inbound call",
-      "inbound call review",
-      "inbound call process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "inbound"
-    ],
-    "day": 123
-  },
-  {
-    "id": "outbound-call-phrase",
-    "word": "outbound call",
-    "baseWord": "outbound",
-    "type": "phrase",
-    "meaning": "outbound call; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the outbound call after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật outbound call sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily claim in the file before Friday.",
+    "exampleVi": "Vui long dua daily claim vao ho so truoc thu Sau.",
     "collocations": [
-      "outbound call",
-      "outbound call review",
-      "outbound call process"
+      "daily claim",
+      "daily claim review",
+      "daily claim deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "outbound"
+      "daily",
+      "claim"
     ],
-    "day": 123
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "phone-support-phrase",
-    "word": "phone support",
-    "baseWord": "phone",
+    "id": "daily-coverage-collocation",
+    "word": "daily coverage",
+    "baseWord": "coverage",
     "type": "phrase",
-    "meaning": "phone support; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily coverage",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the phone support after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật phone support sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "phone support",
-      "phone support review",
-      "phone support process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "phone"
-    ],
-    "day": 123
-  },
-  {
-    "id": "remote-assistance-phrase",
-    "word": "remote assistance",
-    "baseWord": "remote",
-    "type": "phrase",
-    "meaning": "remote assistance; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the remote assistance after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật remote assistance sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "remote assistance",
-      "remote assistance review",
-      "remote assistance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "remote"
-    ],
-    "day": 123
-  },
-  {
-    "id": "resolution-note-phrase",
-    "word": "resolution note",
-    "baseWord": "resolution",
-    "type": "phrase",
-    "meaning": "resolution note; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the resolution note after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật resolution note sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily coverage in the file before Friday.",
+    "exampleVi": "Vui long dua daily coverage vao ho so truoc thu Sau.",
     "collocations": [
-      "resolution note",
-      "resolution note review",
-      "resolution note process"
+      "daily coverage",
+      "daily coverage review",
+      "daily coverage deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "resolution"
+      "daily",
+      "coverage"
     ],
-    "day": 123
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "response-template-phrase",
-    "word": "response template",
-    "baseWord": "response",
+    "id": "daily-customs-collocation",
+    "word": "daily customs",
+    "baseWord": "customs",
     "type": "phrase",
-    "meaning": "response template; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily customs",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the response template after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật response template sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "response template",
-      "response template review",
-      "response template process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "response"
-    ],
-    "day": 123
-  },
-  {
-    "id": "service-level-phrase",
-    "word": "service level",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service level; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service level after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service level sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service level",
-      "service level review",
-      "service level process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 123
-  },
-  {
-    "id": "service-script-phrase",
-    "word": "service script",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service script; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the service script after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service script sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily customs in the file before Friday.",
+    "exampleVi": "Vui long dua daily customs vao ho so truoc thu Sau.",
     "collocations": [
-      "service script",
-      "service script review",
-      "service script process"
+      "daily customs",
+      "daily customs review",
+      "daily customs deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "service"
+      "daily",
+      "customs"
     ],
-    "day": 123
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "support-metric-phrase",
-    "word": "support metric",
-    "baseWord": "support",
+    "id": "daily-database-collocation",
+    "word": "daily database",
+    "baseWord": "database",
     "type": "phrase",
-    "meaning": "support metric; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily database",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Project Management",
     "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the support metric after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support metric sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "support metric",
-      "support metric review",
-      "support metric process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "support"
-    ],
-    "day": 123
-  },
-  {
-    "id": "support-workflow-phrase",
-    "word": "support workflow",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "support workflow; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the support workflow after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support workflow sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily database in the file before Friday.",
+    "exampleVi": "Vui long dua daily database vao ho so truoc thu Sau.",
     "collocations": [
-      "support workflow",
-      "support workflow review",
-      "support workflow process"
+      "daily database",
+      "daily database review",
+      "daily database deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "support"
+      "daily",
+      "database"
     ],
-    "day": 123
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "ticket-status-phrase",
-    "word": "ticket status",
-    "baseWord": "ticket",
-    "type": "phrase",
-    "meaning": "ticket status; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the ticket status after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật ticket status sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "ticket status",
-      "ticket status review",
-      "ticket status process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "ticket"
-    ],
-    "day": 123
-  },
-  {
-    "id": "user-manual-phrase",
-    "word": "user manual",
-    "baseWord": "user",
-    "type": "phrase",
-    "meaning": "user manual; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the user manual after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật user manual sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "user manual",
-      "user manual review",
-      "user manual process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "user"
-    ],
-    "day": 123
-  },
-  {
-    "id": "walkthrough-guide-phrase",
-    "word": "walkthrough guide",
-    "baseWord": "walkthrough",
-    "type": "phrase",
-    "meaning": "walkthrough guide; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the walkthrough guide after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật walkthrough guide sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "walkthrough guide",
-      "walkthrough guide review",
-      "walkthrough guide process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "walkthrough"
-    ],
-    "day": 123
-  },
-  {
-    "id": "account-access-phrase",
-    "word": "account access",
-    "baseWord": "account",
-    "type": "phrase",
-    "meaning": "account access; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the account access after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật account access sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "account access",
-      "account access review",
-      "account access process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "account"
-    ],
-    "day": 124
-  },
-  {
-    "id": "cancellation-request-phrase",
-    "word": "cancellation request",
-    "baseWord": "cancellation",
-    "type": "phrase",
-    "meaning": "cancellation request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the cancellation request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật cancellation request sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "cancellation request",
-      "cancellation request review",
-      "cancellation request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cancellation"
-    ],
-    "day": 124
-  },
-  {
-    "id": "compensation-offer-phrase",
-    "word": "compensation offer",
-    "baseWord": "compensation",
-    "type": "phrase",
-    "meaning": "compensation offer; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the compensation offer after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật compensation offer sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "compensation offer",
-      "compensation offer review",
-      "compensation offer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compensation"
-    ],
-    "day": 124
-  },
-  {
-    "id": "customer-dispute-phrase",
-    "word": "customer dispute",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer dispute; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer dispute after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer dispute sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer dispute",
-      "customer dispute review",
-      "customer dispute process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 124
-  },
-  {
-    "id": "customer-escalation-phrase",
-    "word": "customer escalation",
-    "baseWord": "customer",
-    "type": "phrase",
-    "meaning": "customer escalation; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the customer escalation after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer escalation sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "customer escalation",
-      "customer escalation review",
-      "customer escalation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customer"
-    ],
-    "day": 124
-  },
-  {
-    "id": "damaged-product-phrase",
-    "word": "damaged product",
-    "baseWord": "damaged",
-    "type": "phrase",
-    "meaning": "damaged product; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the damaged product after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật damaged product sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "damaged product",
-      "damaged product review",
-      "damaged product process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "damaged"
-    ],
-    "day": 124
-  },
-  {
-    "id": "delayed-shipment-phrase",
-    "word": "delayed shipment",
-    "baseWord": "delayed",
-    "type": "phrase",
-    "meaning": "delayed shipment; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the delayed shipment after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật delayed shipment sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "delayed shipment",
-      "delayed shipment review",
-      "delayed shipment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "delayed"
-    ],
-    "day": 124
-  },
-  {
-    "id": "delivery-update-phrase",
-    "word": "delivery update",
+    "id": "daily-delivery-collocation",
+    "word": "daily delivery",
     "baseWord": "delivery",
     "type": "phrase",
-    "meaning": "delivery update; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily delivery",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
+      "Part 3",
+      "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the delivery update after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật delivery update sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily delivery in the file before Friday.",
+    "exampleVi": "Vui long dua daily delivery vao ho so truoc thu Sau.",
     "collocations": [
-      "delivery update",
-      "delivery update review",
-      "delivery update process"
+      "daily delivery",
+      "daily delivery review",
+      "daily delivery deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
+      "daily",
       "delivery"
     ],
-    "day": 124
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "goodwill-credit-phrase",
-    "word": "goodwill credit",
-    "baseWord": "goodwill",
+    "id": "daily-facility-collocation",
+    "word": "daily facility",
+    "baseWord": "facility",
     "type": "phrase",
-    "meaning": "goodwill credit; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily facility",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the goodwill credit after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật goodwill credit sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "goodwill credit",
-      "goodwill credit review",
-      "goodwill credit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "goodwill"
-    ],
-    "day": 124
-  },
-  {
-    "id": "incorrect-charge-phrase",
-    "word": "incorrect charge",
-    "baseWord": "incorrect",
-    "type": "phrase",
-    "meaning": "incorrect charge; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the incorrect charge after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật incorrect charge sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "incorrect charge",
-      "incorrect charge review",
-      "incorrect charge process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "incorrect"
-    ],
-    "day": 124
-  },
-  {
-    "id": "missing-item-phrase",
-    "word": "missing item",
-    "baseWord": "missing",
-    "type": "phrase",
-    "meaning": "missing item; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Research & Reports",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily facility in the file before Friday.",
+    "exampleVi": "Vui long dua daily facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily facility",
+      "daily facility review",
+      "daily facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "facility"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "daily-inventory-collocation",
+    "word": "daily inventory",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily inventory",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily inventory in the file before Friday.",
+    "exampleVi": "Vui long dua daily inventory vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily inventory",
+      "daily inventory review",
+      "daily inventory deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "inventory"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "daily-lease-collocation",
+    "word": "daily lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily lease",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily lease in the file before Friday.",
+    "exampleVi": "Vui long dua daily lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily lease",
+      "daily lease review",
+      "daily lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "lease"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "daily-license-collocation",
+    "word": "daily license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily license",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily license in the file before Friday.",
+    "exampleVi": "Vui long dua daily license vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily license",
+      "daily license review",
+      "daily license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "license"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "daily-maintenance-collocation",
+    "word": "daily maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily maintenance",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua daily maintenance vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily maintenance",
+      "daily maintenance review",
+      "daily maintenance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "maintenance"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "daily-permit-collocation",
+    "word": "daily permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily permit",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the missing item after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật missing item sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily permit in the file before Friday.",
+    "exampleVi": "Vui long dua daily permit vao ho so truoc thu Sau.",
     "collocations": [
-      "missing item",
-      "missing item review",
-      "missing item process"
+      "daily permit",
+      "daily permit review",
+      "daily permit deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "missing"
+      "daily",
+      "permit"
     ],
-    "day": 124
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "order-tracking-phrase",
-    "word": "order tracking",
-    "baseWord": "order",
+    "id": "daily-premium-collocation",
+    "word": "daily premium",
+    "baseWord": "premium",
     "type": "phrase",
-    "meaning": "order tracking; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily premium",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily premium in the file before Friday.",
+    "exampleVi": "Vui long dua daily premium vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily premium",
+      "daily premium review",
+      "daily premium deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "premium"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "daily-property-collocation",
+    "word": "daily property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily property",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily property in the file before Friday.",
+    "exampleVi": "Vui long dua daily property vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily property",
+      "daily property review",
+      "daily property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "property"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "daily-renovation-collocation",
+    "word": "daily renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily renovation",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily renovation in the file before Friday.",
+    "exampleVi": "Vui long dua daily renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily renovation",
+      "daily renovation review",
+      "daily renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "renovation"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "daily-risk-collocation",
+    "word": "daily risk",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily risk",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily risk in the file before Friday.",
+    "exampleVi": "Vui long dua daily risk vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily risk",
+      "daily risk review",
+      "daily risk deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "risk"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "daily-software-collocation",
+    "word": "daily software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily software",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily software in the file before Friday.",
+    "exampleVi": "Vui long dua daily software vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily software",
+      "daily software review",
+      "daily software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "software"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "daily-tariff-collocation",
+    "word": "daily tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily tariff",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily tariff in the file before Friday.",
+    "exampleVi": "Vui long dua daily tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily tariff",
+      "daily tariff review",
+      "daily tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "tariff"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "daily-tenant-collocation",
+    "word": "daily tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily tenant",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily tenant in the file before Friday.",
+    "exampleVi": "Vui long dua daily tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily tenant",
+      "daily tenant review",
+      "daily tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "tenant"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "daily-vendor-collocation",
+    "word": "daily vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily vendor",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily vendor in the file before Friday.",
+    "exampleVi": "Vui long dua daily vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily vendor",
+      "daily vendor review",
+      "daily vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "vendor"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "daily-warehouse-collocation",
+    "word": "daily warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily warehouse",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua daily warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily warehouse",
+      "daily warehouse review",
+      "daily warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "warehouse"
+    ],
+    "day": 122,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "daily-analysis-collocation",
+    "word": "daily analysis",
+    "baseWord": "analysis",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily analysis",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily analysis in the file before Friday.",
+    "exampleVi": "Vui long dua daily analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily analysis",
+      "daily analysis review",
+      "daily analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "analysis"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "daily-approval-collocation",
+    "word": "daily approval",
+    "baseWord": "approval",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily approval",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily approval in the file before Friday.",
+    "exampleVi": "Vui long dua daily approval vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily approval",
+      "daily approval review",
+      "daily approval deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "approval"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "daily-authorization-collocation",
+    "word": "daily authorization",
+    "baseWord": "authorization",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily authorization",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily authorization in the file before Friday.",
+    "exampleVi": "Vui long dua daily authorization vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily authorization",
+      "daily authorization review",
+      "daily authorization deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "authorization"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "daily-certificate-collocation",
+    "word": "daily certificate",
+    "baseWord": "certificate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily certificate",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily certificate in the file before Friday.",
+    "exampleVi": "Vui long dua daily certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily certificate",
+      "daily certificate review",
+      "daily certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "certificate"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "daily-confirmation-collocation",
+    "word": "daily confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily confirmation",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2126,327 +1541,280 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the order tracking after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật order tracking sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua daily confirmation vao ho so truoc thu Sau.",
     "collocations": [
-      "order tracking",
-      "order tracking review",
-      "order tracking process"
+      "daily confirmation",
+      "daily confirmation review",
+      "daily confirmation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "order"
+      "daily",
+      "confirmation"
     ],
-    "day": 124
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "password-reset-phrase",
-    "word": "password reset",
-    "baseWord": "password",
+    "id": "daily-equipment-collocation",
+    "word": "daily equipment",
+    "baseWord": "equipment",
     "type": "phrase",
-    "meaning": "password reset; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily equipment",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Travel & Transportation",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the password reset after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật password reset sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "password reset",
-      "password reset review",
-      "password reset process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "password"
-    ],
-    "day": 124
-  },
-  {
-    "id": "quality-concern-phrase",
-    "word": "quality concern",
-    "baseWord": "quality",
-    "type": "phrase",
-    "meaning": "quality concern; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the quality concern after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật quality concern sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily equipment in the file before Friday.",
+    "exampleVi": "Vui long dua daily equipment vao ho so truoc thu Sau.",
     "collocations": [
-      "quality concern",
-      "quality concern review",
-      "quality concern process"
+      "daily equipment",
+      "daily equipment review",
+      "daily equipment deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "quality"
+      "daily",
+      "equipment"
     ],
-    "day": 124
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "repair-request-phrase",
-    "word": "repair request",
-    "baseWord": "repair",
+    "id": "daily-finding-collocation",
+    "word": "daily finding",
+    "baseWord": "finding",
     "type": "phrase",
-    "meaning": "repair request; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily finding",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the repair request after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật repair request sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "repair request",
-      "repair request review",
-      "repair request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "repair"
-    ],
-    "day": 124
-  },
-  {
-    "id": "service-apology-phrase",
-    "word": "service apology",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service apology; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the service apology after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service apology sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service apology",
-      "service apology review",
-      "service apology process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 124
-  },
-  {
-    "id": "service-complaint-phrase",
-    "word": "service complaint",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service complaint; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service complaint after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service complaint sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service complaint",
-      "service complaint review",
-      "service complaint process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 124
-  },
-  {
-    "id": "service-guarantee-phrase",
-    "word": "service guarantee",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service guarantee; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service guarantee after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service guarantee sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service guarantee",
-      "service guarantee review",
-      "service guarantee process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 124
-  },
-  {
-    "id": "service-outage-phrase",
-    "word": "service outage",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service outage; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the service outage after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service outage sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily finding in the file before Friday.",
+    "exampleVi": "Vui long dua daily finding vao ho so truoc thu Sau.",
     "collocations": [
-      "service outage",
-      "service outage review",
-      "service outage process"
+      "daily finding",
+      "daily finding review",
+      "daily finding deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "service"
+      "daily",
+      "finding"
     ],
-    "day": 124
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "subscription-renewal-phrase",
-    "word": "subscription renewal",
-    "baseWord": "subscription",
+    "id": "daily-liability-collocation",
+    "word": "daily liability",
+    "baseWord": "liability",
     "type": "phrase",
-    "meaning": "subscription renewal; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily liability",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the subscription renewal after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật subscription renewal sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily liability in the file before Friday.",
+    "exampleVi": "Vui long dua daily liability vao ho so truoc thu Sau.",
     "collocations": [
-      "subscription renewal",
-      "subscription renewal review",
-      "subscription renewal process"
+      "daily liability",
+      "daily liability review",
+      "daily liability deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "subscription"
+      "daily",
+      "liability"
     ],
-    "day": 124
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "active-listening-phrase",
-    "word": "active listening",
-    "baseWord": "active",
+    "id": "daily-negotiation-collocation",
+    "word": "daily negotiation",
+    "baseWord": "negotiation",
     "type": "phrase",
-    "meaning": "active listening; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily negotiation",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua daily negotiation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily negotiation",
+      "daily negotiation review",
+      "daily negotiation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "negotiation"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "daily-notice-collocation",
+    "word": "daily notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily notice",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the active listening after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật active listening sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily notice in the file before Friday.",
+    "exampleVi": "Vui long dua daily notice vao ho so truoc thu Sau.",
     "collocations": [
-      "active listening",
-      "active listening review",
-      "active listening process"
+      "daily notice",
+      "daily notice review",
+      "daily notice deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "active"
+      "daily",
+      "notice"
     ],
-    "day": 125
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "after-sales-service-phrase",
-    "word": "after-sales service",
-    "baseWord": "after-sale",
+    "id": "daily-recommendation-collocation",
+    "word": "daily recommendation",
+    "baseWord": "recommendation",
     "type": "phrase",
-    "meaning": "after-sales service; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily recommendation",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua daily recommendation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily recommendation",
+      "daily recommendation review",
+      "daily recommendation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "recommendation"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "daily-request-collocation",
+    "word": "daily request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily request",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the after-sales service after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật after-sales service sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily request in the file before Friday.",
+    "exampleVi": "Vui long dua daily request vao ho so truoc thu Sau.",
     "collocations": [
-      "after-sales service",
-      "after-sales service review",
-      "after-sales service process"
+      "daily request",
+      "daily request review",
+      "daily request deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "after-sale"
+      "daily",
+      "request"
     ],
-    "day": 125
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "agent-training-phrase",
-    "word": "agent training",
-    "baseWord": "agent",
+    "id": "daily-research-collocation",
+    "word": "daily research",
+    "baseWord": "research",
     "type": "phrase",
-    "meaning": "agent training; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily research",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2454,524 +1822,1656 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the agent training after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật agent training sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily research in the file before Friday.",
+    "exampleVi": "Vui long dua daily research vao ho so truoc thu Sau.",
     "collocations": [
-      "agent training",
-      "agent training review",
-      "agent training process"
+      "daily research",
+      "daily research review",
+      "daily research deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "agent"
+      "daily",
+      "research"
     ],
-    "day": 125
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "calm-response-phrase",
-    "word": "calm response",
-    "baseWord": "calm",
+    "id": "daily-response-collocation",
+    "word": "daily response",
+    "baseWord": "response",
     "type": "phrase",
-    "meaning": "calm response; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily response",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Contracts & Legal",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily response in the file before Friday.",
+    "exampleVi": "Vui long dua daily response vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily response",
+      "daily response review",
+      "daily response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "response"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "daily-review-collocation",
+    "word": "daily review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily review",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the calm response after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật calm response sau khi trao đổi với khách hàng.",
+    "example": "Please include the daily review in the file before Friday.",
+    "exampleVi": "Vui long dua daily review vao ho so truoc thu Sau.",
     "collocations": [
-      "calm response",
-      "calm response review",
-      "calm response process"
+      "daily review",
+      "daily review review",
+      "daily review deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "calm"
+      "daily",
+      "review"
     ],
-    "day": 125
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "case-reassignment-phrase",
-    "word": "case reassignment",
-    "baseWord": "case",
+    "id": "daily-security-collocation",
+    "word": "daily security",
+    "baseWord": "security",
     "type": "phrase",
-    "meaning": "case reassignment; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: daily security",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily security in the file before Friday.",
+    "exampleVi": "Vui long dua daily security vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily security",
+      "daily security review",
+      "daily security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "security"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "daily-settlement-collocation",
+    "word": "daily settlement",
+    "baseWord": "settlement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily settlement",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily settlement in the file before Friday.",
+    "exampleVi": "Vui long dua daily settlement vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily settlement",
+      "daily settlement review",
+      "daily settlement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "settlement"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "daily-summary-collocation",
+    "word": "daily summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily summary",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily summary in the file before Friday.",
+    "exampleVi": "Vui long dua daily summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily summary",
+      "daily summary review",
+      "daily summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "summary"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "daily-survey-collocation",
+    "word": "daily survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily survey",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily survey in the file before Friday.",
+    "exampleVi": "Vui long dua daily survey vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily survey",
+      "daily survey review",
+      "daily survey deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "survey"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "daily-update-collocation",
+    "word": "daily update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily update",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily update in the file before Friday.",
+    "exampleVi": "Vui long dua daily update vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily update",
+      "daily update review",
+      "daily update deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "update"
+    ],
+    "day": 123,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "daily-compliance-collocation",
+    "word": "daily compliance",
+    "baseWord": "compliance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily compliance",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily compliance in the file before Friday.",
+    "exampleVi": "Vui long dua daily compliance vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily compliance",
+      "daily compliance review",
+      "daily compliance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "compliance"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "daily-payment-collocation",
+    "word": "daily payment",
+    "baseWord": "payment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily payment",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily payment in the file before Friday.",
+    "exampleVi": "Vui long dua daily payment vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily payment",
+      "daily payment review",
+      "daily payment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "payment"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "daily-payroll-collocation",
+    "word": "daily payroll",
+    "baseWord": "payroll",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily payroll",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the daily payroll in the file before Friday.",
+    "exampleVi": "Vui long dua daily payroll vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily payroll",
+      "daily payroll review",
+      "daily payroll deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "payroll"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "daily-regulation-collocation",
+    "word": "daily regulation",
+    "baseWord": "regulation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily regulation",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily regulation in the file before Friday.",
+    "exampleVi": "Vui long dua daily regulation vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily regulation",
+      "daily regulation review",
+      "daily regulation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "regulation"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "daily-reimbursement-collocation",
+    "word": "daily reimbursement",
+    "baseWord": "reimbursement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily reimbursement",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua daily reimbursement vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily reimbursement",
+      "daily reimbursement review",
+      "daily reimbursement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "reimbursement"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "daily-transaction-collocation",
+    "word": "daily transaction",
+    "baseWord": "transaction",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: daily transaction",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the daily transaction in the file before Friday.",
+    "exampleVi": "Vui long dua daily transaction vao ho so truoc thu Sau.",
+    "collocations": [
+      "daily transaction",
+      "daily transaction review",
+      "daily transaction deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "daily",
+      "transaction"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "financial-agenda-collocation",
+    "word": "financial agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial agenda",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial agenda in the file before Friday.",
+    "exampleVi": "Vui long dua financial agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial agenda",
+      "financial agenda review",
+      "financial agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "agenda"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "financial-agreement-collocation",
+    "word": "financial agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial agreement",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial agreement in the file before Friday.",
+    "exampleVi": "Vui long dua financial agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial agreement",
+      "financial agreement review",
+      "financial agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "agreement"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "financial-budget-collocation",
+    "word": "financial budget",
+    "baseWord": "budget",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial budget",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the case reassignment after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật case reassignment sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial budget in the file before Friday.",
+    "exampleVi": "Vui long dua financial budget vao ho so truoc thu Sau.",
     "collocations": [
-      "case reassignment",
-      "case reassignment review",
-      "case reassignment process"
+      "financial budget",
+      "financial budget review",
+      "financial budget deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "case"
+      "financial",
+      "budget"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "conflict-resolution-phrase",
-    "word": "conflict resolution",
-    "baseWord": "conflict",
+    "id": "financial-contract-collocation",
+    "word": "financial contract",
+    "baseWord": "contract",
     "type": "phrase",
-    "meaning": "conflict resolution; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial contract",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the conflict resolution after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật conflict resolution sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial contract in the file before Friday.",
+    "exampleVi": "Vui long dua financial contract vao ho so truoc thu Sau.",
     "collocations": [
-      "conflict resolution",
-      "conflict resolution review",
-      "conflict resolution process"
+      "financial contract",
+      "financial contract review",
+      "financial contract deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "conflict"
+      "financial",
+      "contract"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "courtesy-phrase-phrase",
-    "word": "courtesy phrase",
-    "baseWord": "courtesy",
+    "id": "financial-deadline-collocation",
+    "word": "financial deadline",
+    "baseWord": "deadline",
     "type": "phrase",
-    "meaning": "courtesy phrase; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial deadline",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the courtesy phrase after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật courtesy phrase sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial deadline in the file before Friday.",
+    "exampleVi": "Vui long dua financial deadline vao ho so truoc thu Sau.",
     "collocations": [
-      "courtesy phrase",
-      "courtesy phrase review",
-      "courtesy phrase process"
+      "financial deadline",
+      "financial deadline review",
+      "financial deadline deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "courtesy"
+      "financial",
+      "deadline"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "customer-callback-phrase",
-    "word": "customer callback",
-    "baseWord": "customer",
+    "id": "financial-feedback-collocation",
+    "word": "financial feedback",
+    "baseWord": "feedback",
     "type": "phrase",
-    "meaning": "customer callback; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial feedback",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial feedback in the file before Friday.",
+    "exampleVi": "Vui long dua financial feedback vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial feedback",
+      "financial feedback review",
+      "financial feedback deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "feedback"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "financial-forecast-collocation",
+    "word": "financial forecast",
+    "baseWord": "forecast",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial forecast",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the customer callback after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer callback sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial forecast in the file before Friday.",
+    "exampleVi": "Vui long dua financial forecast vao ho so truoc thu Sau.",
     "collocations": [
-      "customer callback",
-      "customer callback review",
-      "customer callback process"
+      "financial forecast",
+      "financial forecast review",
+      "financial forecast deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "customer"
+      "financial",
+      "forecast"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
-    "id": "customer-empathy-phrase",
-    "word": "customer empathy",
-    "baseWord": "customer",
+    "id": "financial-invoice-collocation",
+    "word": "financial invoice",
+    "baseWord": "invoice",
     "type": "phrase",
-    "meaning": "customer empathy; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial invoice",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the customer empathy after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer empathy sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial invoice in the file before Friday.",
+    "exampleVi": "Vui long dua financial invoice vao ho so truoc thu Sau.",
     "collocations": [
-      "customer empathy",
-      "customer empathy review",
-      "customer empathy process"
+      "financial invoice",
+      "financial invoice review",
+      "financial invoice deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "customer"
+      "financial",
+      "invoice"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
-    "id": "customer-facing-team-phrase",
-    "word": "customer-facing team",
-    "baseWord": "customer-facing",
+    "id": "financial-meeting-collocation",
+    "word": "financial meeting",
+    "baseWord": "meeting",
     "type": "phrase",
-    "meaning": "customer-facing team; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial meeting",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial meeting in the file before Friday.",
+    "exampleVi": "Vui long dua financial meeting vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial meeting",
+      "financial meeting review",
+      "financial meeting deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "meeting"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "financial-proposal-collocation",
+    "word": "financial proposal",
+    "baseWord": "proposal",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial proposal",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial proposal in the file before Friday.",
+    "exampleVi": "Vui long dua financial proposal vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial proposal",
+      "financial proposal review",
+      "financial proposal deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "proposal"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "financial-receipt-collocation",
+    "word": "financial receipt",
+    "baseWord": "receipt",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial receipt",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the customer-facing team after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật customer-facing team sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial receipt in the file before Friday.",
+    "exampleVi": "Vui long dua financial receipt vao ho so truoc thu Sau.",
     "collocations": [
-      "customer-facing team",
-      "customer-facing team review",
-      "customer-facing team process"
+      "financial receipt",
+      "financial receipt review",
+      "financial receipt deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "customer-facing"
+      "financial",
+      "receipt"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
-    "id": "difficult-caller-phrase",
-    "word": "difficult caller",
-    "baseWord": "difficult",
+    "id": "financial-schedule-collocation",
+    "word": "financial schedule",
+    "baseWord": "schedule",
     "type": "phrase",
-    "meaning": "difficult caller; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial schedule",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial schedule in the file before Friday.",
+    "exampleVi": "Vui long dua financial schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial schedule",
+      "financial schedule review",
+      "financial schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "schedule"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "financial-shipment-collocation",
+    "word": "financial shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial shipment",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial shipment in the file before Friday.",
+    "exampleVi": "Vui long dua financial shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial shipment",
+      "financial shipment review",
+      "financial shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "shipment"
+    ],
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "financial-target-collocation",
+    "word": "financial target",
+    "baseWord": "target",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial target",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the difficult caller after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật difficult caller sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial target in the file before Friday.",
+    "exampleVi": "Vui long dua financial target vao ho so truoc thu Sau.",
     "collocations": [
-      "difficult caller",
-      "difficult caller review",
-      "difficult caller process"
+      "financial target",
+      "financial target review",
+      "financial target deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "difficult"
+      "financial",
+      "target"
     ],
-    "day": 125
+    "day": 124,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "retention-specialist-phrase",
-    "word": "retention specialist",
-    "baseWord": "retention",
+    "id": "financial-application-collocation",
+    "word": "financial application",
+    "baseWord": "application",
     "type": "phrase",
-    "meaning": "retention specialist; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial application",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the retention specialist after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật retention specialist sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "retention specialist",
-      "retention specialist review",
-      "retention specialist process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "retention"
-    ],
-    "day": 125
-  },
-  {
-    "id": "satisfaction-survey-phrase",
-    "word": "satisfaction survey",
-    "baseWord": "satisfaction",
-    "type": "phrase",
-    "meaning": "satisfaction survey; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the satisfaction survey after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật satisfaction survey sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "satisfaction survey",
-      "satisfaction survey review",
-      "satisfaction survey process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "satisfaction"
-    ],
-    "day": 125
-  },
-  {
-    "id": "service-backlog-phrase",
-    "word": "service backlog",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service backlog; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
+    "topic": "Office & Administration",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service backlog after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service backlog sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service backlog",
-      "service backlog review",
-      "service backlog process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 125
-  },
-  {
-    "id": "service-etiquette-phrase",
-    "word": "service etiquette",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service etiquette; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service etiquette after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service etiquette sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service etiquette",
-      "service etiquette review",
-      "service etiquette process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 125
-  },
-  {
-    "id": "service-improvement-phrase",
-    "word": "service improvement",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service improvement; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The support manager updated the service improvement after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service improvement sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service improvement",
-      "service improvement review",
-      "service improvement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 125
-  },
-  {
-    "id": "service-protocol-phrase",
-    "word": "service protocol",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "service protocol; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The support manager updated the service protocol after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật service protocol sau khi trao đổi với khách hàng.",
-    "collocations": [
-      "service protocol",
-      "service protocol review",
-      "service protocol process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "service"
-    ],
-    "day": 125
-  },
-  {
-    "id": "support-dashboard-phrase",
-    "word": "support dashboard",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "support dashboard; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
-    "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the support dashboard after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support dashboard sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial application in the file before Friday.",
+    "exampleVi": "Vui long dua financial application vao ho so truoc thu Sau.",
     "collocations": [
-      "support dashboard",
-      "support dashboard review",
-      "support dashboard process"
+      "financial application",
+      "financial application review",
+      "financial application deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "support"
+      "financial",
+      "application"
     ],
-    "day": 125
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "support-supervisor-phrase",
-    "word": "support supervisor",
-    "baseWord": "support",
+    "id": "financial-audit-collocation",
+    "word": "financial audit",
+    "baseWord": "audit",
     "type": "phrase",
-    "meaning": "support supervisor; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial audit",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial audit in the file before Friday.",
+    "exampleVi": "Vui long dua financial audit vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial audit",
+      "financial audit review",
+      "financial audit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "audit"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "financial-balance-collocation",
+    "word": "financial balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial balance",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial balance in the file before Friday.",
+    "exampleVi": "Vui long dua financial balance vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial balance",
+      "financial balance review",
+      "financial balance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "balance"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "financial-candidate-collocation",
+    "word": "financial candidate",
+    "baseWord": "candidate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial candidate",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial candidate in the file before Friday.",
+    "exampleVi": "Vui long dua financial candidate vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial candidate",
+      "financial candidate review",
+      "financial candidate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "candidate"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "financial-complaint-collocation",
+    "word": "financial complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial complaint",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial complaint in the file before Friday.",
+    "exampleVi": "Vui long dua financial complaint vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial complaint",
+      "financial complaint review",
+      "financial complaint deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "complaint"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "financial-evaluation-collocation",
+    "word": "financial evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial evaluation",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The support manager updated the support supervisor after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật support supervisor sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua financial evaluation vao ho so truoc thu Sau.",
     "collocations": [
-      "support supervisor",
-      "support supervisor review",
-      "support supervisor process"
+      "financial evaluation",
+      "financial evaluation review",
+      "financial evaluation deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "support"
+      "financial",
+      "evaluation"
     ],
-    "day": 125
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "ticket-closure-phrase",
-    "word": "ticket closure",
-    "baseWord": "ticket",
+    "id": "financial-expense-collocation",
+    "word": "financial expense",
+    "baseWord": "expense",
     "type": "phrase",
-    "meaning": "ticket closure; thuật ngữ về hỗ trợ và dịch vụ khách hàng",
+    "meaning": "collocation TOEIC 700: financial expense",
     "pronunciation": "",
-    "topic": "Customer Support & Service",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The support manager updated the ticket closure after speaking with the customer.",
-    "exampleVi": "Quản lý hỗ trợ đã cập nhật ticket closure sau khi trao đổi với khách hàng.",
+    "example": "Please include the financial expense in the file before Friday.",
+    "exampleVi": "Vui long dua financial expense vao ho so truoc thu Sau.",
     "collocations": [
-      "ticket closure",
-      "ticket closure review",
-      "ticket closure process"
+      "financial expense",
+      "financial expense review",
+      "financial expense deadline"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "ticket"
+      "financial",
+      "expense"
     ],
-    "day": 125
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "financial-guideline-collocation",
+    "word": "financial guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial guideline",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial guideline in the file before Friday.",
+    "exampleVi": "Vui long dua financial guideline vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial guideline",
+      "financial guideline review",
+      "financial guideline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "guideline"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "financial-inspection-collocation",
+    "word": "financial inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial inspection",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial inspection in the file before Friday.",
+    "exampleVi": "Vui long dua financial inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial inspection",
+      "financial inspection review",
+      "financial inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "inspection"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "financial-interview-collocation",
+    "word": "financial interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial interview",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial interview in the file before Friday.",
+    "exampleVi": "Vui long dua financial interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial interview",
+      "financial interview review",
+      "financial interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "interview"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "financial-loss-collocation",
+    "word": "financial loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial loss",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial loss in the file before Friday.",
+    "exampleVi": "Vui long dua financial loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial loss",
+      "financial loss review",
+      "financial loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "loss"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "financial-orientation-collocation",
+    "word": "financial orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial orientation",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial orientation in the file before Friday.",
+    "exampleVi": "Vui long dua financial orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial orientation",
+      "financial orientation review",
+      "financial orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "orientation"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "financial-performance-collocation",
+    "word": "financial performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial performance",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial performance in the file before Friday.",
+    "exampleVi": "Vui long dua financial performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial performance",
+      "financial performance review",
+      "financial performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "performance"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "financial-policy-collocation",
+    "word": "financial policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial policy",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial policy in the file before Friday.",
+    "exampleVi": "Vui long dua financial policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial policy",
+      "financial policy review",
+      "financial policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "policy"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "financial-procedure-collocation",
+    "word": "financial procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial procedure",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial procedure in the file before Friday.",
+    "exampleVi": "Vui long dua financial procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial procedure",
+      "financial procedure review",
+      "financial procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "procedure"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "financial-profit-collocation",
+    "word": "financial profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial profit",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial profit in the file before Friday.",
+    "exampleVi": "Vui long dua financial profit vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial profit",
+      "financial profit review",
+      "financial profit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "profit"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "financial-refund-collocation",
+    "word": "financial refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial refund",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial refund in the file before Friday.",
+    "exampleVi": "Vui long dua financial refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial refund",
+      "financial refund review",
+      "financial refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "refund"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "financial-revenue-collocation",
+    "word": "financial revenue",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial revenue",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the financial revenue in the file before Friday.",
+    "exampleVi": "Vui long dua financial revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial revenue",
+      "financial revenue review",
+      "financial revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "revenue"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "financial-training-collocation",
+    "word": "financial training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial training",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial training in the file before Friday.",
+    "exampleVi": "Vui long dua financial training vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial training",
+      "financial training review",
+      "financial training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "training"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "financial-warranty-collocation",
+    "word": "financial warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: financial warranty",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the financial warranty in the file before Friday.",
+    "exampleVi": "Vui long dua financial warranty vao ho so truoc thu Sau.",
+    "collocations": [
+      "financial warranty",
+      "financial warranty review",
+      "financial warranty deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "financial",
+      "warranty"
+    ],
+    "day": 125,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

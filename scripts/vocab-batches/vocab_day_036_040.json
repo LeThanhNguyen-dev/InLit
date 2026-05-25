@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "sự kiểm toán, cuộc kiểm tra sổ sách tài chính",
     "pronunciation": "/ˈɔːdɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -30,7 +30,11 @@
       "auditor",
       "auditing"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "auditor-noun",
@@ -39,7 +43,7 @@
     "type": "noun",
     "meaning": "kiểm toán viên",
     "pronunciation": "/ˈɔːdɪtər/",
-    "topic": "Finance & Banking",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -61,7 +65,11 @@
       "audit",
       "auditing"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "balance-noun",
@@ -70,7 +78,7 @@
     "type": "noun",
     "meaning": "số dư tài khoản, sự cân bằng",
     "pronunciation": "/ˈbæləns/",
-    "topic": "Finance & Banking",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -93,7 +101,11 @@
       "balance",
       "balanced"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "bankrupt-adjective",
@@ -102,7 +114,7 @@
     "type": "adjective",
     "meaning": "bị phá sản, vỡ nợ",
     "pronunciation": "/ˈbæŋkrʌpt/",
-    "topic": "Finance & Banking",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -123,7 +135,11 @@
     "wordFamily": [
       "bankruptcy"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "bankruptcy-noun",
@@ -132,7 +148,7 @@
     "type": "noun",
     "meaning": "sự phá sản, tình trạng vỡ nợ",
     "pronunciation": "/ˈbæŋkrʌptsi/",
-    "topic": "Finance & Banking",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -153,7 +169,11 @@
     "wordFamily": [
       "bankrupt"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "bond-noun",
@@ -162,7 +182,7 @@
     "type": "noun",
     "meaning": "trái phiếu, mối ràng buộc",
     "pronunciation": "/bɑːnd/",
-    "topic": "Finance & Banking",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -183,7 +203,11 @@
     "wordFamily": [
       "bondage"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "borrow-verb",
@@ -192,7 +216,7 @@
     "type": "verb",
     "meaning": "vay, mượn",
     "pronunciation": "/ˈbɑːroʊ/",
-    "topic": "Finance & Banking",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -213,7 +237,11 @@
       "borrower",
       "borrowing"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "borrower-noun",
@@ -222,7 +250,7 @@
     "type": "noun",
     "meaning": "người đi vay, con nợ",
     "pronunciation": "/ˈbɑːroʊər/",
-    "topic": "Finance & Banking",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -243,7 +271,11 @@
       "borrow",
       "borrowing"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "budget-noun",
@@ -252,7 +284,7 @@
     "type": "noun",
     "meaning": "ngân sách, quỹ tài chính giới hạn",
     "pronunciation": "/ˈbʌdʒɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -276,7 +308,11 @@
       "budgetary",
       "budgeting"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "capital-noun",
@@ -285,7 +321,7 @@
     "type": "noun",
     "meaning": "vốn đầu tư, thủ đô, chữ hoa",
     "pronunciation": "/ˈkæpɪtl/",
-    "topic": "Finance & Banking",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -310,7 +346,11 @@
       "capitalize",
       "capitalism"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "cash-noun",
@@ -319,7 +359,7 @@
     "type": "noun",
     "meaning": "tiền mặt",
     "pronunciation": "/kæʃ/",
-    "topic": "Finance & Banking",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -341,7 +381,11 @@
       "cashier",
       "cashless"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "collateral-noun",
@@ -350,7 +394,7 @@
     "type": "noun",
     "meaning": "tài sản thế chấp (để đảm bảo khoản vay)",
     "pronunciation": "/kəˈlætərəl/",
-    "topic": "Finance & Banking",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -370,7 +414,11 @@
       "guarantee"
     ],
     "wordFamily": [],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "credit-noun",
@@ -379,7 +427,7 @@
     "type": "noun",
     "meaning": "tín dụng, lòng tin, danh tiếng, khoản tiền cộng vào tài khoản",
     "pronunciation": "/ˈkredɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -402,7 +450,11 @@
       "creditable",
       "creditor"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "debt-noun",
@@ -411,7 +463,7 @@
     "type": "noun",
     "meaning": "khoản nợ, tình trạng nợ nần",
     "pronunciation": "/det/",
-    "topic": "Finance & Banking",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -434,7 +486,11 @@
     "wordFamily": [
       "debtor"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "debtor-noun",
@@ -443,7 +499,7 @@
     "type": "noun",
     "meaning": "con nợ, người mắc nợ",
     "pronunciation": "/ˈdetər/",
-    "topic": "Finance & Banking",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -463,7 +519,11 @@
     "wordFamily": [
       "debt"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "deficit-noun",
@@ -472,7 +532,7 @@
     "type": "noun",
     "meaning": "số tiền thâm hụt, thâm hụt tài chính",
     "pronunciation": "/ˈdefɪsɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -494,7 +554,11 @@
     "wordFamily": [
       "deficient"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "deposit-noun",
@@ -503,7 +567,7 @@
     "type": "noun",
     "meaning": "tiền gửi ngân hàng, tiền đặt cọc",
     "pronunciation": "/dɪˈpɑːzɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -526,7 +590,11 @@
       "deposit",
       "depositor"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "depreciate-verb",
@@ -535,7 +603,7 @@
     "type": "verb",
     "meaning": "giảm giá trị, sụt giá theo thời gian",
     "pronunciation": "/dɪˈpriːʃieɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -558,7 +626,11 @@
       "depreciation",
       "depreciable"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "depreciation-noun",
@@ -567,7 +639,7 @@
     "type": "noun",
     "meaning": "sự giảm giá trị, sự khấu hao tài sản",
     "pronunciation": "/dɪˌpriːʃiˈeɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -589,7 +661,11 @@
       "depreciate",
       "depreciable"
     ],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "dividend-noun",
@@ -598,7 +674,7 @@
     "type": "noun",
     "meaning": "cổ tức (lợi nhuận được chia cho cổ đông)",
     "pronunciation": "/ˈdɪvɪdend/",
-    "topic": "Finance & Banking",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -617,7 +693,46 @@
       "payout"
     ],
     "wordFamily": [],
-    "day": 36
+    "day": 36,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "consult-noun",
+    "word": "consult",
+    "baseWord": "consult",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: consult",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word consult in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu consult trong email cong viec.",
+    "collocations": [
+      "consult review",
+      "consult process",
+      "consult update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "consult"
+    ],
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "expenditure-noun",
@@ -626,7 +741,7 @@
     "type": "noun",
     "meaning": "khoản chi tiêu, lượng tiền tiêu dùng",
     "pronunciation": "/ɪkˈspendɪtʃər/",
-    "topic": "Finance & Banking",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -651,7 +766,11 @@
       "expense",
       "expensive"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "expense-noun",
@@ -660,7 +779,7 @@
     "type": "noun",
     "meaning": "chi phí phát sinh, khoản chi tiêu",
     "pronunciation": "/ɪkˈspens/",
-    "topic": "Finance & Banking",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -684,7 +803,11 @@
       "expensive",
       "expenditure"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "finance-noun",
@@ -693,7 +816,7 @@
     "type": "noun",
     "meaning": "tài chính, việc quản lý tiền bạc",
     "pronunciation": "/ˈfaɪnæns/",
-    "topic": "Finance & Banking",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -717,7 +840,11 @@
       "financier",
       "finance"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "financial-adjective",
@@ -726,7 +853,7 @@
     "type": "adjective",
     "meaning": "thuộc về tài chính",
     "pronunciation": "/faɪˈnænʃl/",
-    "topic": "Finance & Banking",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -751,7 +878,11 @@
       "financially",
       "financier"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "fiscal-adjective",
@@ -760,7 +891,7 @@
     "type": "adjective",
     "meaning": "thuộc tài chính công, tài khóa quốc gia",
     "pronunciation": "/ˈfɪskl/",
-    "topic": "Finance & Banking",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -782,7 +913,11 @@
     "wordFamily": [
       "fiscally"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "forecast-noun",
@@ -791,7 +926,7 @@
     "type": "noun",
     "meaning": "sự dự báo, dự báo thời tiết/tài chính",
     "pronunciation": "/ˈfɔːrkæst/",
-    "topic": "Finance & Banking",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -815,7 +950,11 @@
       "forecast",
       "forecaster"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "fund-noun",
@@ -824,7 +963,7 @@
     "type": "noun",
     "meaning": "quỹ tiền tệ, nguồn tiền tài trợ",
     "pronunciation": "/fʌnd/",
-    "topic": "Finance & Banking",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -849,7 +988,11 @@
       "funded",
       "fundraiser"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "funding-noun",
@@ -858,7 +1001,7 @@
     "type": "noun",
     "meaning": "sự cấp vốn, sự tài trợ tài chính",
     "pronunciation": "/ˈfʌndɪŋ/",
-    "topic": "Finance & Banking",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -882,7 +1025,11 @@
       "fund",
       "funded"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "inflation-noun",
@@ -891,7 +1038,7 @@
     "type": "noun",
     "meaning": "sự lạm phát, sự tăng giá tiền tệ",
     "pronunciation": "/ɪnˈfleɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -911,7 +1058,11 @@
       "inflationary",
       "inflatable"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "interest-noun",
@@ -920,7 +1071,7 @@
     "type": "noun",
     "meaning": "lãi suất ngân hàng, sự quan tâm, quyền lợi",
     "pronunciation": "/ˈɪntrəst/",
-    "topic": "Finance & Banking",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -943,37 +1094,11 @@
       "interested",
       "interesting"
     ],
-    "day": 37
-  },
-  {
-    "id": "interest-rate-phrase",
-    "word": "interest rate",
-    "baseWord": "interest",
-    "type": "phrase",
-    "meaning": "lãi suất phần trăm hàng năm hoặc hàng tháng",
-    "pronunciation": "/ˈɪntrəst reɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The central bank decided to lower the benchmark interest rate.",
-    "exampleVi": "Ngân hàng trung ương đã quyết định giảm lãi suất chuẩn.",
-    "collocations": [
-      "low interest rate",
-      "high interest rate",
-      "fixed interest rate"
-    ],
-    "synonyms": [
-      "rate of interest"
-    ],
-    "wordFamily": [
-      "interest"
-    ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "invest-verb",
@@ -1004,7 +1129,11 @@
       "investment",
       "investor"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "investment-noun",
@@ -1013,7 +1142,7 @@
     "type": "noun",
     "meaning": "khoản đầu tư, sự đầu tư",
     "pronunciation": "/ɪnˈvestmənt/",
-    "topic": "Finance & Banking",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1036,7 +1165,11 @@
       "invest",
       "investor"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "investor-noun",
@@ -1045,7 +1178,7 @@
     "type": "noun",
     "meaning": "nhà đầu tư",
     "pronunciation": "/ɪnˈvestər/",
-    "topic": "Finance & Banking",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1068,7 +1201,11 @@
       "invest",
       "investment"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "ledger-noun",
@@ -1077,7 +1214,7 @@
     "type": "noun",
     "meaning": "sổ cái kế toán, sổ ghi chép giao dịch tài chính",
     "pronunciation": "/ˈledʒər/",
-    "topic": "Finance & Banking",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1097,7 +1234,11 @@
       "record book"
     ],
     "wordFamily": [],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "lend-verb",
@@ -1106,7 +1247,7 @@
     "type": "verb",
     "meaning": "cho vay, cho mượn",
     "pronunciation": "/lend/",
-    "topic": "Finance & Banking",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1128,7 +1269,11 @@
       "lender",
       "lending"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "lender-noun",
@@ -1137,7 +1282,7 @@
     "type": "noun",
     "meaning": "người cho vay, tổ chức cho vay",
     "pronunciation": "/ˈlendər/",
-    "topic": "Finance & Banking",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1158,7 +1303,11 @@
       "lend",
       "lending"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "loan-noun",
@@ -1167,7 +1316,7 @@
     "type": "noun",
     "meaning": "khoản vay, khoản nợ được cấp",
     "pronunciation": "/loʊn/",
-    "topic": "Finance & Banking",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1189,7 +1338,11 @@
     "wordFamily": [
       "loan"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "lucrative-adjective",
@@ -1198,7 +1351,7 @@
     "type": "adjective",
     "meaning": "sinh lợi cao, béo bở",
     "pronunciation": "/ˈluːkrətɪv/",
-    "topic": "Finance & Banking",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1221,7 +1374,11 @@
     "wordFamily": [
       "lucre"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "mortgage-noun",
@@ -1230,7 +1387,7 @@
     "type": "noun",
     "meaning": "thế chấp bất động sản, khoản vay mua nhà thế chấp",
     "pronunciation": "/ˈmɔːrɡɪdʒ/",
-    "topic": "Finance & Banking",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1252,7 +1409,45 @@
       "mortgagee",
       "mortgagor"
     ],
-    "day": 37
+    "day": 37,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "consultant-adjective",
+    "word": "consultant",
+    "baseWord": "consult",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: consultant",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word consultant in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu consultant trong email cong viec.",
+    "collocations": [
+      "consultant review",
+      "consultant process",
+      "consultant update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "consultant"
+    ],
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "earnings-noun",
@@ -1261,7 +1456,7 @@
     "type": "noun",
     "meaning": "lợi nhuận kiếm được, thu nhập doanh nghiệp/cá nhân",
     "pronunciation": "/ˈɜːrnɪŋz/",
-    "topic": "Finance & Banking",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1284,7 +1479,11 @@
       "earn",
       "earner"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "portfolio-noun",
@@ -1293,7 +1492,7 @@
     "type": "noun",
     "meaning": "danh mục đầu tư, hồ sơ năng lực dự án",
     "pronunciation": "/pɔːrtˈfoʊlioʊ/",
-    "topic": "Finance & Banking",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1313,7 +1512,11 @@
       "assets"
     ],
     "wordFamily": [],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "premium-noun",
@@ -1322,7 +1525,7 @@
     "type": "noun",
     "meaning": "phí bảo hiểm định kỳ, tiền thưởng thêm",
     "pronunciation": "/ˈpriːmiəm/",
-    "topic": "Finance & Banking",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1344,39 +1547,11 @@
     "wordFamily": [
       "premium"
     ],
-    "day": 38
-  },
-  {
-    "id": "price-evaluation-phrase",
-    "word": "price evaluation",
-    "baseWord": "value",
-    "type": "phrase",
-    "meaning": "sự xem xét đánh giá giá cả, thẩm định giá",
-    "pronunciation": "/praɪs ɪˌvæljuˈeɪʃn/",
-    "topic": "Finance & Banking",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We carried out a detailed price evaluation of the competing products.",
-    "exampleVi": "Chúng tôi đã tiến hành đánh giá giá cả chi tiết đối với các sản phẩm cạnh tranh.",
-    "collocations": [
-      "conduct a price evaluation",
-      "price evaluation process",
-      "price evaluation criteria"
-    ],
-    "synonyms": [
-      "price appraisal",
-      "pricing assessment"
-    ],
-    "wordFamily": [
-      "price",
-      "evaluate",
-      "evaluation"
-    ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "principal-noun",
@@ -1385,7 +1560,7 @@
     "type": "noun",
     "meaning": "tiền gốc (khoản vay), hiệu trưởng trường học",
     "pronunciation": "/ˈprɪnsəpl/",
-    "topic": "Finance & Banking",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1406,7 +1581,11 @@
     "wordFamily": [
       "principally"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "reconcile-verb",
@@ -1415,7 +1594,7 @@
     "type": "verb",
     "meaning": "đối chiếu sổ sách kế toán, hòa giải sự bất hòa",
     "pronunciation": "/ˈrekənsaɪl/",
-    "topic": "Finance & Banking",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1439,7 +1618,11 @@
       "reconciliation",
       "reconcilable"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "reconciliation-noun",
@@ -1448,7 +1631,7 @@
     "type": "noun",
     "meaning": "sự đối chiếu tài khoản, sự hòa giải",
     "pronunciation": "/ˌrekənsɪliˈeɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1471,7 +1654,11 @@
       "reconcile",
       "reconcilable"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "remit-verb",
@@ -1480,7 +1667,7 @@
     "type": "verb",
     "meaning": "chuyển tiền (để trả nợ/mua hàng), miễn giảm nợ",
     "pronunciation": "/rɪˈmɪt/",
-    "topic": "Finance & Banking",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1501,7 +1688,11 @@
     "wordFamily": [
       "remittance"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "remittance-noun",
@@ -1510,7 +1701,7 @@
     "type": "noun",
     "meaning": "sự chuyển tiền từ xa, khoản tiền được chuyển",
     "pronunciation": "/rɪˈmɪtəns/",
-    "topic": "Finance & Banking",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1531,7 +1722,11 @@
     "wordFamily": [
       "remit"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "solvency-noun",
@@ -1540,7 +1735,7 @@
     "type": "noun",
     "meaning": "khả năng thanh toán nợ nần dài hạn",
     "pronunciation": "/ˈsɑːlvənsi/",
-    "topic": "Finance & Banking",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1561,7 +1756,11 @@
     "wordFamily": [
       "solvent"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "solvent-adjective",
@@ -1570,7 +1769,7 @@
     "type": "adjective",
     "meaning": "có khả năng thanh toán các khoản nợ",
     "pronunciation": "/ˈsɑːlvənt/",
-    "topic": "Finance & Banking",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1590,7 +1789,11 @@
     "wordFamily": [
       "solvency"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "stockbroker-noun",
@@ -1599,7 +1802,7 @@
     "type": "noun",
     "meaning": "người môi giới chứng khoán",
     "pronunciation": "/ˈstɑːkbroʊkər/",
-    "topic": "Finance & Banking",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1622,7 +1825,11 @@
       "broker",
       "brokerage"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "stockholder-noun",
@@ -1631,7 +1838,7 @@
     "type": "noun",
     "meaning": "cổ đông sở hữu cổ phần công ty",
     "pronunciation": "/ˈstɑːkhoʊldər/",
-    "topic": "Finance & Banking",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1653,7 +1860,11 @@
       "hold",
       "holder"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "stocks-noun",
@@ -1662,7 +1873,7 @@
     "type": "noun",
     "meaning": "cổ phiếu, chứng khoán đại diện sở hữu công ty",
     "pronunciation": "/stɑːks/",
-    "topic": "Finance & Banking",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1685,7 +1896,11 @@
       "stockbroker",
       "stockholder"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "tax-noun",
@@ -1694,7 +1909,7 @@
     "type": "noun",
     "meaning": "thuế phải nộp cho nhà nước",
     "pronunciation": "/tæks/",
-    "topic": "Finance & Banking",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1718,7 +1933,11 @@
       "taxable",
       "taxpayer"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "taxation-noun",
@@ -1727,7 +1946,7 @@
     "type": "noun",
     "meaning": "hệ thống thuế, sự đánh thuế",
     "pronunciation": "/tækˈseɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1747,7 +1966,11 @@
       "taxable",
       "taxpayer"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "treasury-noun",
@@ -1756,7 +1979,7 @@
     "type": "noun",
     "meaning": "kho bạc, bộ tài chính, quỹ dự trữ quốc gia",
     "pronunciation": "/ˈtreʒəri/",
-    "topic": "Finance & Banking",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1778,7 +2001,11 @@
       "treasure",
       "treasurer"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "valuation-noun",
@@ -1787,7 +2014,7 @@
     "type": "noun",
     "meaning": "sự định giá, sự đánh giá giá trị tài sản",
     "pronunciation": "/ˌvæljuˈeɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1811,7 +2038,11 @@
       "evaluate",
       "evaluator"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "venture-noun",
@@ -1820,7 +2051,7 @@
     "type": "noun",
     "meaning": "dự án kinh doanh mạo hiểm đầy rủi ro",
     "pronunciation": "/ˈventʃər/",
-    "topic": "Finance & Banking",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1843,7 +2074,11 @@
     "wordFamily": [
       "venturesome"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "yield-noun",
@@ -1852,7 +2087,7 @@
     "type": "noun",
     "meaning": "lợi suất, lợi nhuận thực tế thu được (từ đầu tư)",
     "pronunciation": "/jiːld/",
-    "topic": "Finance & Banking",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1874,173 +2109,193 @@
     "wordFamily": [
       "yield"
     ],
-    "day": 38
+    "day": 38,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "account-balance-phrase",
-    "word": "account balance",
-    "baseWord": "balance",
-    "type": "phrase",
-    "meaning": "số dư tài khoản ngân hàng hiện tại",
-    "pronunciation": "/əˈkaʊnt ˈbæləns/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The online app displays your account balance in real time.",
-    "exampleVi": "Ứng dụng trực tuyến hiển thị số dư tài khoản của bạn trong thời gian thực.",
-    "collocations": [
-      "check account balance",
-      "current account balance",
-      "low account balance"
-    ],
-    "synonyms": [
-      "balance"
-    ],
-    "wordFamily": [
-      "account",
-      "balance"
-    ],
-    "day": 39
-  },
-  {
-    "id": "bank-statement-phrase",
-    "word": "bank statement",
-    "baseWord": "state",
-    "type": "phrase",
-    "meaning": "bản sao kê tài khoản ngân hàng hàng tháng",
-    "pronunciation": "/bæŋk ˈsteɪtmənt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please check your bank statement to make sure all transactions are correct.",
-    "exampleVi": "Vui lòng kiểm tra sao kê ngân hàng của bạn để đảm bảo tất cả giao dịch đều chính xác.",
-    "collocations": [
-      "monthly bank statement",
-      "view a bank statement",
-      "request a bank statement"
-    ],
-    "synonyms": [
-      "account statement"
-    ],
-    "wordFamily": [
-      "bank",
-      "state",
-      "statement"
-    ],
-    "day": 39
-  },
-  {
-    "id": "bounced-check-phrase",
-    "word": "bounced check",
-    "baseWord": "check",
-    "type": "phrase",
-    "meaning": "tờ séc bị trả lại (do tài khoản người viết không đủ số dư)",
-    "pronunciation": "/baʊnst tʃek/",
-    "topic": "Finance & Banking",
+    "id": "contribute-noun",
+    "word": "contribute",
+    "baseWord": "contribute",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: contribute",
+    "pronunciation": "",
+    "topic": "Office & Administration",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The supplier charged us a penalty fee for the bounced check.",
-    "exampleVi": "Nhà cung cấp đã tính một khoản phí phạt đối với chúng tôi vì tờ séc bị trả lại.",
+    "example": "The manager used the word contribute in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu contribute trong email cong viec.",
     "collocations": [
-      "receive a bounced check",
-      "bounced check fee",
-      "penalty for bounced check"
+      "contribute review",
+      "contribute process",
+      "contribute update"
     ],
     "synonyms": [
-      "bad check",
-      "returned check"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "bounce",
-      "check"
+      "contribute"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "cash-flow-phrase",
-    "word": "cash flow",
-    "baseWord": "flow",
-    "type": "phrase",
-    "meaning": "dòng tiền thu chi trong doanh nghiệp",
-    "pronunciation": "/kæʃ floʊ/",
-    "topic": "Finance & Banking",
+    "id": "contribution-noun",
+    "word": "contribution",
+    "baseWord": "contribu",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: contribution",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word contribution in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu contribution trong email cong viec.",
+    "collocations": [
+      "contribution review",
+      "contribution process",
+      "contribution update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "contribution"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "convenience-noun",
+    "word": "convenience",
+    "baseWord": "convenience",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: convenience",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "A healthy cash flow is essential for startup survival.",
-    "exampleVi": "Một dòng tiền lành mạnh là điều tối quan trọng cho sự sống sót của các công ty khởi nghiệp.",
+    "example": "The manager used the word convenience in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu convenience trong email cong viec.",
     "collocations": [
-      "positive cash flow",
-      "manage cash flow",
-      "cash flow statement"
+      "convenience review",
+      "convenience process",
+      "convenience update"
     ],
     "synonyms": [
-      "monetary flow",
-      "working capital flow"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "cash",
-      "flow"
+      "convenience"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "checking-account-phrase",
-    "word": "checking account",
-    "baseWord": "check",
-    "type": "phrase",
-    "meaning": "tài khoản thanh toán, tài khoản vãng lai",
-    "pronunciation": "/ˈtʃekɪŋ əˈkaʊnt/",
-    "topic": "Finance & Banking",
+    "id": "convenient-adjective",
+    "word": "convenient",
+    "baseWord": "conveni",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: convenient",
+    "pronunciation": "",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word convenient in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu convenient trong email cong viec.",
+    "collocations": [
+      "convenient review",
+      "convenient process",
+      "convenient update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "convenient"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "coordination-noun",
+    "word": "coordination",
+    "baseWord": "coordina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: coordination",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5"
     ],
-    "example": "Most of my monthly bills are paid directly from my checking account.",
-    "exampleVi": "Hầu hết các hóa đơn hàng tháng của tôi được thanh toán trực tiếp từ tài khoản thanh toán của tôi.",
+    "example": "The manager used the word coordination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu coordination trong email cong viec.",
     "collocations": [
-      "open a checking account",
-      "checking account fee",
-      "link a checking account"
+      "coordination review",
+      "coordination process",
+      "coordination update"
     ],
     "synonyms": [
-      "current account"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "check",
-      "checking",
-      "account"
+      "coordination"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "cost-of-living-phrase",
-    "word": "cost of living",
-    "baseWord": "live",
-    "type": "phrase",
-    "meaning": "chi phí sinh hoạt hàng ngày (nhà ở, ăn uống, đi lại)",
-    "pronunciation": "/kɔːst əv ˈlɪvɪŋ/",
-    "topic": "Finance & Banking",
+    "id": "correspond-noun",
+    "word": "correspond",
+    "baseWord": "correspond",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: correspond",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2048,31 +2303,34 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The cost of living in New York is much higher than in Houston.",
-    "exampleVi": "Chi phí sinh hoạt ở New York cao hơn nhiều so với ở Houston.",
+    "example": "The manager used the word correspond in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu correspond trong email cong viec.",
     "collocations": [
-      "high cost of living",
-      "cost of living index",
-      "cost of living adjustment"
+      "correspond review",
+      "correspond process",
+      "correspond update"
     ],
     "synonyms": [
-      "living expenses"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "cost",
-      "live",
-      "living"
+      "correspond"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "credit-limit-phrase",
-    "word": "credit limit",
-    "baseWord": "limit",
-    "type": "phrase",
-    "meaning": "hạn mức tín dụng tối đa của thẻ tín dụng",
-    "pronunciation": "/ˈkredɪt ˈlɪmɪt/",
-    "topic": "Finance & Banking",
+    "id": "credibility-noun",
+    "word": "credibility",
+    "baseWord": "credibil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: credibility",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2080,30 +2338,103 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The bank agreed to increase the credit limit on my card.",
-    "exampleVi": "Ngân hàng đã đồng ý tăng hạn mức tín dụng trên thẻ của tôi.",
+    "example": "The manager used the word credibility in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu credibility trong email cong viec.",
     "collocations": [
-      "exceed credit limit",
-      "request credit limit increase",
-      "maximum credit limit"
+      "credibility review",
+      "credibility process",
+      "credibility update"
     ],
     "synonyms": [
-      "credit line"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "credit",
-      "limit"
+      "credibility"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "credit-score-phrase",
-    "word": "credit score",
-    "baseWord": "score",
-    "type": "phrase",
-    "meaning": "điểm tín dụng cá nhân (đánh giá độ tin cậy khi vay nợ)",
-    "pronunciation": "/ˈkredɪt skɔːr/",
-    "topic": "Finance & Banking",
+    "id": "credible-adjective",
+    "word": "credible",
+    "baseWord": "cred",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: credible",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word credible in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu credible trong email cong viec.",
+    "collocations": [
+      "credible review",
+      "credible process",
+      "credible update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "credible"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "crucial-adjective",
+    "word": "crucial",
+    "baseWord": "cruci",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: crucial",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word crucial in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu crucial trong email cong viec.",
+    "collocations": [
+      "crucial review",
+      "crucial process",
+      "crucial update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "crucial"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "deduct-noun",
+    "word": "deduct",
+    "baseWord": "deduct",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: deduct",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2111,52 +2442,60 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "A high credit score helps you qualify for low interest rate loans.",
-    "exampleVi": "Một điểm tín dụng cao giúp bạn đủ điều kiện vay các khoản vay lãi suất thấp.",
+    "example": "The manager used the word deduct in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deduct trong email cong viec.",
     "collocations": [
-      "improve credit score",
-      "check credit score",
-      "excellent credit score"
+      "deduct review",
+      "deduct process",
+      "deduct update"
     ],
     "synonyms": [
-      "credit rating"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "credit",
-      "score"
+      "deduct"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "debt-consolidation-phrase",
-    "word": "debt consolidation",
-    "baseWord": "solid",
-    "type": "phrase",
-    "meaning": "sự hợp nhất các khoản nợ (gộp nhiều nợ thành một khoản vay duy nhất)",
-    "pronunciation": "/det kənˌsɑːlɪˈdeɪʃn/",
-    "topic": "Finance & Banking",
-    "frequency": "medium",
-    "level": "hard",
+    "id": "deduction-noun",
+    "word": "deduction",
+    "baseWord": "deduc",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: deduction",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "He applied for a debt consolidation loan to lower his monthly payments.",
-    "exampleVi": "Anh ấy đã nộp đơn xin một khoản vay hợp nhất nợ để giảm các khoản thanh toán hàng tháng của mình.",
+    "example": "The manager used the word deduction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deduction trong email cong viec.",
     "collocations": [
-      "debt consolidation loan",
-      "apply for debt consolidation",
-      "debt consolidation program"
+      "deduction review",
+      "deduction process",
+      "deduction update"
     ],
     "synonyms": [
-      "loan consolidation"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "debt",
-      "consolidate",
-      "consolidation"
+      "deduction"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "default-verb",
@@ -2186,16 +2525,88 @@
     "wordFamily": [
       "defaulter"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "direct-deposit-phrase",
-    "word": "direct deposit",
-    "baseWord": "deposit",
-    "type": "phrase",
-    "meaning": "hình thức gửi tiền trực tiếp (chuyển khoản lương trực tiếp)",
-    "pronunciation": "/dəˈrekt dɪˈpɑːzɪt/",
-    "topic": "Finance & Banking",
+    "id": "delegation-noun",
+    "word": "delegation",
+    "baseWord": "delega",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: delegation",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word delegation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu delegation trong email cong viec.",
+    "collocations": [
+      "delegation review",
+      "delegation process",
+      "delegation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "delegation"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "deliberate-verb",
+    "word": "deliberate",
+    "baseWord": "deliber",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: deliberate",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word deliberate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deliberate trong email cong viec.",
+    "collocations": [
+      "deliberate review",
+      "deliberate process",
+      "deliberate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "deliberate"
+    ],
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "deliberately-adverb",
+    "word": "deliberately",
+    "baseWord": "deliberate",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: deliberately",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2203,21 +2614,25 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "Employees prefer direct deposit because it is faster than a paper check.",
-    "exampleVi": "Nhân viên thích hình thức chuyển khoản trực tiếp hơn vì nó nhanh hơn séc bằng giấy.",
+    "example": "The manager used the word deliberately in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deliberately trong email cong viec.",
     "collocations": [
-      "receive via direct deposit",
-      "set up direct deposit",
-      "direct deposit authorization"
+      "deliberately review",
+      "deliberately process",
+      "deliberately update"
     ],
     "synonyms": [
-      "electronic transfer"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "direct",
-      "deposit"
+      "deliberately"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "foreclosure-noun",
@@ -2226,7 +2641,7 @@
     "type": "noun",
     "meaning": "sự tịch thu tài sản thế chấp do con nợ không trả được nợ",
     "pronunciation": "/fɔːrˈkloʊʒər/",
-    "topic": "Finance & Banking",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2247,39 +2662,11 @@
     "wordFamily": [
       "foreclose"
     ],
-    "day": 39
-  },
-  {
-    "id": "insufficient-funds-phrase",
-    "word": "insufficient funds",
-    "baseWord": "fund",
-    "type": "phrase",
-    "meaning": "không đủ tiền trong tài khoản để thanh toán",
-    "pronunciation": "/ˌɪnsəˈfɪʃnt fʌndz/",
-    "topic": "Finance & Banking",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The transaction was declined because of insufficient funds.",
-    "exampleVi": "Giao dịch đã bị từ chối vì không đủ tiền trong tài khoản.",
-    "collocations": [
-      "due to insufficient funds",
-      "insufficient funds fee",
-      "notice of insufficient funds"
-    ],
-    "synonyms": [
-      "non-sufficient funds",
-      "lack of money"
-    ],
-    "wordFamily": [
-      "sufficient",
-      "funds"
-    ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "overdraft-noun",
@@ -2288,7 +2675,7 @@
     "type": "noun",
     "meaning": "sự thấu chi (rút quá số tiền có trong tài khoản)",
     "pronunciation": "/ˈoʊvərdræft/",
-    "topic": "Finance & Banking",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2308,7 +2695,11 @@
     "wordFamily": [
       "overdraw"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "overdraw-verb",
@@ -2317,7 +2708,7 @@
     "type": "verb",
     "meaning": "thấu chi, rút quá số tiền ký gửi tài khoản",
     "pronunciation": "/ˌoʊvərˈdrɔː/",
-    "topic": "Finance & Banking",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2336,101 +2727,11 @@
     "wordFamily": [
       "overdraft"
     ],
-    "day": 39
-  },
-  {
-    "id": "savings-account-phrase",
-    "word": "savings account",
-    "baseWord": "save",
-    "type": "phrase",
-    "meaning": "tài khoản tiết kiệm tích lũy nhận lãi suất",
-    "pronunciation": "/ˈseɪvɪŋz əˈkaʊnt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "I set up a savings account to prepare for emergency expenses.",
-    "exampleVi": "Tôi đã mở một tài khoản tiết kiệm để chuẩn bị cho các chi phí khẩn cấp.",
-    "collocations": [
-      "open a savings account",
-      "savings account interest rate",
-      "deposit into a savings account"
-    ],
-    "synonyms": [
-      "deposit account"
-    ],
-    "wordFamily": [
-      "save",
-      "savings",
-      "account"
-    ],
-    "day": 39
-  },
-  {
-    "id": "transaction-fee-phrase",
-    "word": "transaction fee",
-    "baseWord": "fee",
-    "type": "phrase",
-    "meaning": "phí giao dịch chuyển khoản/thanh toán",
-    "pronunciation": "/trænˈzækʃn fiː/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Some credit cards do not charge a transaction fee for overseas purchases.",
-    "exampleVi": "Một số thẻ tín dụng không tính phí giao dịch cho các giao dịch mua hàng ở nước ngoài.",
-    "collocations": [
-      "no transaction fee",
-      "international transaction fee",
-      "impose a transaction fee"
-    ],
-    "synonyms": [
-      "service fee",
-      "handling charge"
-    ],
-    "wordFamily": [
-      "transaction",
-      "fee"
-    ],
-    "day": 39
-  },
-  {
-    "id": "wire-transfer-phrase",
-    "word": "wire transfer",
-    "baseWord": "transfer",
-    "type": "phrase",
-    "meaning": "chuyển tiền điện tử trực tiếp giữa các ngân hàng",
-    "pronunciation": "/ˈwaɪər ˈtrænsfɜːr/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "I will send the payment via wire transfer this afternoon.",
-    "exampleVi": "Tôi sẽ gửi khoản thanh toán qua hình thức chuyển khoản ngân hàng điện tử chiều nay.",
-    "collocations": [
-      "bank wire transfer",
-      "international wire transfer",
-      "send a wire transfer"
-    ],
-    "synonyms": [
-      "telegraphic transfer",
-      "electronic fund transfer"
-    ],
-    "wordFamily": [
-      "wire",
-      "transfer"
-    ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "withdraw-verb",
@@ -2439,7 +2740,7 @@
     "type": "verb",
     "meaning": "rút tiền mặt, rút lui khỏi dự án/cuộc thi",
     "pronunciation": "/wɪθˈdrɔː/",
-    "topic": "Finance & Banking",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2461,7 +2762,11 @@
     "wordFamily": [
       "withdrawal"
     ],
-    "day": 39
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "withdrawal-noun",
@@ -2470,7 +2775,7 @@
     "type": "noun",
     "meaning": "sự rút tiền mặt ra khỏi tài khoản, sự thu hồi",
     "pronunciation": "/wɪθˈdrɔːəl/",
-    "topic": "Finance & Banking",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2492,39 +2797,11 @@
     "wordFamily": [
       "withdraw"
     ],
-    "day": 39
-  },
-  {
-    "id": "annual-percentage-rate-phrase",
-    "word": "annual percentage rate",
-    "baseWord": "rate",
-    "type": "phrase",
-    "meaning": "lãi suất phần trăm hàng năm (APR, bao gồm phí dịch vụ phát sinh)",
-    "pronunciation": "/ˈænjuəl pərˈsentɪdʒ reɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "It is important to check the annual percentage rate before signing the contract.",
-    "exampleVi": "Việc kiểm tra lãi suất phần trăm hàng năm trước khi ký hợp đồng là rất quan trọng.",
-    "collocations": [
-      "low annual percentage rate",
-      "calculate annual percentage rate",
-      "annual percentage rate of interest"
-    ],
-    "synonyms": [
-      "yearly interest rate"
-    ],
-    "wordFamily": [
-      "annual",
-      "percent",
-      "percentage",
-      "rate"
-    ],
-    "day": 40
+    "day": 39,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "asset-noun",
@@ -2533,7 +2810,7 @@
     "type": "noun",
     "meaning": "tài sản, của cải có ích",
     "pronunciation": "/ˈæset/",
-    "topic": "Finance & Banking",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2554,38 +2831,11 @@
       "capital"
     ],
     "wordFamily": [],
-    "day": 40
-  },
-  {
-    "id": "capital-gain-phrase",
-    "word": "capital gain",
-    "baseWord": "gain",
-    "type": "phrase",
-    "meaning": "lợi nhuận chênh lệch vốn đầu tư (khi bán tài sản giá cao hơn lúc mua)",
-    "pronunciation": "/ˈkæpɪtl ɡeɪn/",
-    "topic": "Finance & Banking",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "You may have to pay tax on your capital gains from stock sales.",
-    "exampleVi": "Bạn có thể phải nộp thuế đối với các khoản lợi nhuận chênh lệch vốn từ việc bán cổ phiếu.",
-    "collocations": [
-      "tax on capital gains",
-      "realize a capital gain",
-      "substantial capital gain"
-    ],
-    "synonyms": [
-      "investment return",
-      "capital profit"
-    ],
-    "wordFamily": [
-      "capital",
-      "gain"
-    ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "currency-noun",
@@ -2594,7 +2844,7 @@
     "type": "noun",
     "meaning": "tiền tệ quốc gia, sự lưu hành",
     "pronunciation": "/ˈkɜːrənsi/",
-    "topic": "Finance & Banking",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2616,7 +2866,457 @@
     "wordFamily": [
       "current"
     ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "demonstrate-verb",
+    "word": "demonstrate",
+    "baseWord": "demonstr",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: demonstrate",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word demonstrate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu demonstrate trong email cong viec.",
+    "collocations": [
+      "demonstrate review",
+      "demonstrate process",
+      "demonstrate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "demonstrate"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "demonstration-noun",
+    "word": "demonstration",
+    "baseWord": "demonstra",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: demonstration",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word demonstration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu demonstration trong email cong viec.",
+    "collocations": [
+      "demonstration review",
+      "demonstration process",
+      "demonstration update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "demonstration"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "dependability-noun",
+    "word": "dependability",
+    "baseWord": "dependabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: dependability",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word dependability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu dependability trong email cong viec.",
+    "collocations": [
+      "dependability review",
+      "dependability process",
+      "dependability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "dependability"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "dependable-adjective",
+    "word": "dependable",
+    "baseWord": "depend",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: dependable",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word dependable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu dependable trong email cong viec.",
+    "collocations": [
+      "dependable review",
+      "dependable process",
+      "dependable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "dependable"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "designate-verb",
+    "word": "designate",
+    "baseWord": "design",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: designate",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word designate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu designate trong email cong viec.",
+    "collocations": [
+      "designate review",
+      "designate process",
+      "designate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "designate"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "designation-noun",
+    "word": "designation",
+    "baseWord": "designa",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: designation",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word designation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu designation trong email cong viec.",
+    "collocations": [
+      "designation review",
+      "designation process",
+      "designation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "designation"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "detect-noun",
+    "word": "detect",
+    "baseWord": "detect",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: detect",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word detect in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu detect trong email cong viec.",
+    "collocations": [
+      "detect review",
+      "detect process",
+      "detect update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "detect"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "detection-noun",
+    "word": "detection",
+    "baseWord": "detec",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: detection",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word detection in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu detection trong email cong viec.",
+    "collocations": [
+      "detection review",
+      "detection process",
+      "detection update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "detection"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "deteriorate-verb",
+    "word": "deteriorate",
+    "baseWord": "deterior",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: deteriorate",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word deteriorate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deteriorate trong email cong viec.",
+    "collocations": [
+      "deteriorate review",
+      "deteriorate process",
+      "deteriorate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "deteriorate"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "deterioration-noun",
+    "word": "deterioration",
+    "baseWord": "deteriora",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: deterioration",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word deterioration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu deterioration trong email cong viec.",
+    "collocations": [
+      "deterioration review",
+      "deterioration process",
+      "deterioration update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "deterioration"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "determination-noun",
+    "word": "determination",
+    "baseWord": "determina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: determination",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word determination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu determination trong email cong viec.",
+    "collocations": [
+      "determination review",
+      "determination process",
+      "determination update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "determination"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "determine-noun",
+    "word": "determine",
+    "baseWord": "determine",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: determine",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word determine in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu determine trong email cong viec.",
+    "collocations": [
+      "determine review",
+      "determine process",
+      "determine update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "determine"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "diagnose-noun",
+    "word": "diagnose",
+    "baseWord": "diagnose",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: diagnose",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word diagnose in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu diagnose trong email cong viec.",
+    "collocations": [
+      "diagnose review",
+      "diagnose process",
+      "diagnose update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "diagnose"
+    ],
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "diversification-noun",
@@ -2625,7 +3325,7 @@
     "type": "noun",
     "meaning": "sự đa dạng hóa đầu tư/sản xuất",
     "pronunciation": "/daɪˌvɜːrsɪfɪˈkeɪʃn/",
-    "topic": "Finance & Banking",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2648,7 +3348,11 @@
       "diversify",
       "diversity"
     ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "diversify-verb",
@@ -2657,7 +3361,7 @@
     "type": "verb",
     "meaning": "đa dạng hóa danh mục/sản phẩm",
     "pronunciation": "/daɪˈvɜːrsɪfaɪ/",
-    "topic": "Finance & Banking",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2682,7 +3386,11 @@
       "diversification",
       "diversity"
     ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "equity-noun",
@@ -2691,7 +3399,7 @@
     "type": "noun",
     "meaning": "vốn chủ sở hữu, tính công bằng, giá trị thực tế tài sản sau khi trừ nợ",
     "pronunciation": "/ˈekwəti/",
-    "topic": "Finance & Banking",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2714,127 +3422,11 @@
       "equitable",
       "equitably"
     ],
-    "day": 40
-  },
-  {
-    "id": "exchange-rate-phrase",
-    "word": "exchange rate",
-    "baseWord": "rate",
-    "type": "phrase",
-    "meaning": "tỷ giá hối đoái tiền tệ",
-    "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Check the exchange rate before exchanging your currency at the airport.",
-    "exampleVi": "Hãy kiểm tra tỷ giá hối đoái trước khi đổi tiền tệ của bạn tại sân bay.",
-    "collocations": [
-      "foreign exchange rate",
-      "favorable exchange rate",
-      "fluctuating exchange rate"
-    ],
-    "synonyms": [
-      "currency rate"
-    ],
-    "wordFamily": [
-      "exchange",
-      "rate"
-    ],
-    "day": 40
-  },
-  {
-    "id": "fiscal-year-phrase",
-    "word": "fiscal year",
-    "baseWord": "fiscal",
-    "type": "phrase",
-    "meaning": "năm tài chính, năm tài khóa",
-    "pronunciation": "/ˈfɪskl jɪər/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our profits doubled in the last fiscal year.",
-    "exampleVi": "Lợi nhuận của chúng tôi đã tăng gấp đôi trong năm tài chính vừa qua.",
-    "collocations": [
-      "current fiscal year",
-      "previous fiscal year",
-      "fiscal year end"
-    ],
-    "synonyms": [
-      "financial year"
-    ],
-    "wordFamily": [
-      "fiscal"
-    ],
-    "day": 40
-  },
-  {
-    "id": "gross-profit-phrase",
-    "word": "gross profit",
-    "baseWord": "profit",
-    "type": "phrase",
-    "meaning": "lợi nhuận gộp (lợi nhuận trước khi trừ chi phí vận hành và thuế)",
-    "pronunciation": "/ɡroʊs ˈprɑːfɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The store's gross profit was high, but high overhead reduced the net profit.",
-    "exampleVi": "Lợi nhuận gộp của cửa hàng cao, nhưng chi phí gián tiếp cao đã làm giảm lợi nhuận ròng.",
-    "collocations": [
-      "calculate gross profit",
-      "quarterly gross profit",
-      "gross profit margin"
-    ],
-    "synonyms": [
-      "pre-tax profit"
-    ],
-    "wordFamily": [
-      "gross",
-      "profit"
-    ],
-    "day": 40
-  },
-  {
-    "id": "liquid-asset-phrase",
-    "word": "liquid asset",
-    "baseWord": "liquid",
-    "type": "phrase",
-    "meaning": "tài sản thanh khoản (như tiền mặt, tài khoản thanh toán)",
-    "pronunciation": "/ˈlɪkwɪd ˈæset/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "It is important to keep some liquid assets to meet emergency expenses.",
-    "exampleVi": "Việc giữ một số tài sản thanh khoản để đáp ứng các chi phí khẩn cấp là rất quan trọng.",
-    "collocations": [
-      "hold liquid assets",
-      "cash and other liquid assets",
-      "convert into liquid assets"
-    ],
-    "synonyms": [
-      "cash assets"
-    ],
-    "wordFamily": [
-      "liquid",
-      "asset"
-    ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "liquidity-noun",
@@ -2843,7 +3435,7 @@
     "type": "noun",
     "meaning": "tính thanh khoản, khả năng chuyển đổi tài sản thành tiền mặt",
     "pronunciation": "/lɪˈkwɪdəti/",
-    "topic": "Finance & Banking",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2865,227 +3457,11 @@
       "liquidate",
       "liquidation"
     ],
-    "day": 40
-  },
-  {
-    "id": "mutual-fund-phrase",
-    "word": "mutual fund",
-    "baseWord": "fund",
-    "type": "phrase",
-    "meaning": "quỹ đầu tư tương hỗ (gộp tiền từ nhiều nhà đầu tư để mua chứng khoán)",
-    "pronunciation": "/ˈmjuːtʃuəl fʌnd/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "He decided to buy shares in a mutual fund to diversify his investments.",
-    "exampleVi": "Anh ấy đã quyết định mua cổ phần trong một quỹ đầu tư tương hỗ để đa dạng hóa các khoản đầu tư của mình.",
-    "collocations": [
-      "invest in a mutual fund",
-      "mutual fund portfolio",
-      "mutual fund manager"
-    ],
-    "synonyms": [
-      "investment fund"
-    ],
-    "wordFamily": [
-      "mutual",
-      "fund"
-    ],
-    "day": 40
-  },
-  {
-    "id": "net-profit-phrase",
-    "word": "net profit",
-    "baseWord": "profit",
-    "type": "phrase",
-    "meaning": "lợi nhuận ròng, lãi thuần (lợi nhuận thực tế sau khi trừ tất cả chi phí)",
-    "pronunciation": "/net ˈprɑːfɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The company's net profit increased by ten percent this fiscal year.",
-    "exampleVi": "Lợi nhuận ròng của công ty đã tăng mười phần trăm trong năm tài chính này.",
-    "collocations": [
-      "net profit margin",
-      "increase net profit",
-      "annual net profit"
-    ],
-    "synonyms": [
-      "net income",
-      "clean profit"
-    ],
-    "wordFamily": [
-      "net",
-      "profit"
-    ],
-    "day": 40
-  },
-  {
-    "id": "net-worth-phrase",
-    "word": "net worth",
-    "baseWord": "worth",
-    "type": "phrase",
-    "meaning": "giá trị tài sản ròng (tổng tài sản trừ đi tổng nợ)",
-    "pronunciation": "/net wɜːrθ/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The business tycoon has an estimated net worth of five billion dollars.",
-    "exampleVi": "Trùm kinh doanh có giá trị tài sản ròng ước tính khoảng năm tỷ đô la.",
-    "collocations": [
-      "estimate net worth",
-      "personal net worth",
-      "total net worth"
-    ],
-    "synonyms": [
-      "net assets"
-    ],
-    "wordFamily": [
-      "net",
-      "worth",
-      "worthy"
-    ],
-    "day": 40
-  },
-  {
-    "id": "return-on-investment-phrase",
-    "word": "return on investment",
-    "baseWord": "invest",
-    "type": "phrase",
-    "meaning": "tỷ suất sinh lời trên vốn đầu tư, hiệu quả đầu tư (ROI)",
-    "pronunciation": "/rɪˈtɜːrn ɑːn ɪnˈvestmənt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The business proposal promises a high return on investment within two years.",
-    "exampleVi": "Đề xuất kinh doanh hứa hẹn tỷ suất sinh lời trên vốn đầu tư cao trong vòng hai năm.",
-    "collocations": [
-      "high return on investment",
-      "calculate return on investment",
-      "expected return on investment"
-    ],
-    "synonyms": [
-      "yield on investment",
-      "ROI"
-    ],
-    "wordFamily": [
-      "return",
-      "invest",
-      "investment"
-    ],
-    "day": 40
-  },
-  {
-    "id": "stock-market-phrase",
-    "word": "stock market",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "thị trường chứng khoán",
-    "pronunciation": "/stɑːk ˈmɑːrkɪt/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The stock market crashed, causing widespread financial concern.",
-    "exampleVi": "Thị trường chứng khoán sụp đổ, gây ra sự lo ngại tài chính trên diện rộng.",
-    "collocations": [
-      "invest in the stock market",
-      "stock market crash",
-      "stock market trends"
-    ],
-    "synonyms": [
-      "share market",
-      "equity market"
-    ],
-    "wordFamily": [
-      "stock",
-      "market"
-    ],
-    "day": 40
-  },
-  {
-    "id": "tax-deduction-phrase",
-    "word": "tax deduction",
-    "baseWord": "deduct",
-    "type": "phrase",
-    "meaning": "khoản giảm trừ gia cảnh, khấu trừ thuế",
-    "pronunciation": "/tæks dɪˈdʌkʃn/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Donations to charities are eligible for a tax deduction.",
-    "exampleVi": "Các khoản quyên góp cho các hội từ thiện đủ điều kiện để được khấu trừ thuế.",
-    "collocations": [
-      "claim a tax deduction",
-      "eligible tax deduction",
-      "maximum tax deduction"
-    ],
-    "synonyms": [
-      "tax write-off",
-      "tax break"
-    ],
-    "wordFamily": [
-      "tax",
-      "deduct",
-      "deduction"
-    ],
-    "day": 40
-  },
-  {
-    "id": "tax-return-phrase",
-    "word": "tax return",
-    "baseWord": "return",
-    "type": "phrase",
-    "meaning": "tờ khai thuế, hồ sơ kê khai hoàn thuế",
-    "pronunciation": "/tæks rɪˈtɜːrn/",
-    "topic": "Finance & Banking",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "He hired an accountant to help him file his annual tax return.",
-    "exampleVi": "Anh ấy đã thuê một kế toán để giúp anh ấy nộp tờ khai thuế hàng năm.",
-    "collocations": [
-      "file a tax return",
-      "annual tax return",
-      "joint tax return"
-    ],
-    "synonyms": [
-      "tax declaration"
-    ],
-    "wordFamily": [
-      "tax",
-      "return"
-    ],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "write-off-noun",
@@ -3094,7 +3470,7 @@
     "type": "noun",
     "meaning": "sự xóa nợ, sự khấu trừ thuế do mất mát tài sản",
     "pronunciation": "/ˈraɪt ɔːf/",
-    "topic": "Finance & Banking",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3113,6 +3489,10 @@
       "deduction"
     ],
     "wordFamily": [],
-    "day": 40
+    "day": 40,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

@@ -1,161 +1,12 @@
 [
   {
-    "id": "beneficiary-name-phrase",
-    "word": "beneficiary name",
-    "baseWord": "beneficiary",
-    "type": "phrase",
-    "meaning": "beneficiary name; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the beneficiary name before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá beneficiary name trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "beneficiary name",
-      "beneficiary name review",
-      "beneficiary name process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "beneficiary"
-    ],
-    "day": 136
-  },
-  {
-    "id": "claim-adjuster-phrase",
-    "word": "claim adjuster",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim adjuster; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim adjuster before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim adjuster trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim adjuster",
-      "claim adjuster review",
-      "claim adjuster process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 136
-  },
-  {
-    "id": "claim-form-phrase",
-    "word": "claim form",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim form; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim form before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim form trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim form",
-      "claim form review",
-      "claim form process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 136
-  },
-  {
-    "id": "claim-number-phrase",
-    "word": "claim number",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim number; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim number before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim number trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim number",
-      "claim number review",
-      "claim number process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 136
-  },
-  {
-    "id": "claim-settlement-phrase",
-    "word": "claim settlement",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim settlement; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim settlement before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim settlement trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim settlement",
-      "claim settlement review",
-      "claim settlement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 136
-  },
-  {
     "id": "co-payment-noun",
     "word": "co-payment",
     "baseWord": "co-payment",
     "type": "noun",
     "meaning": "co-payment; thuật ngữ về bảo hiểm và quản trị rủi ro",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Real Estate & Facilities",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -177,305 +28,635 @@
     "wordFamily": [
       "co-payment"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "coverage-limit-phrase",
-    "word": "coverage limit",
-    "baseWord": "coverage",
+    "id": "follow-up-the-application-phrasal",
+    "word": "follow up the application",
+    "baseWord": "follow",
     "type": "phrase",
-    "meaning": "coverage limit; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the application",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
+    "topic": "Health & Safety",
+    "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the application before the end of the day.",
+    "exampleVi": "Nhom can follow up the application truoc cuoi ngay.",
+    "collocations": [
+      "follow up the application",
+      "follow up the application today",
+      "follow up the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "follow-up-the-client-phrasal",
+    "word": "follow up the client",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the client",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the client before the end of the day.",
+    "exampleVi": "Nhom can follow up the client truoc cuoi ngay.",
+    "collocations": [
+      "follow up the client",
+      "follow up the client today",
+      "follow up the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "follow-up-the-complaint-phrasal",
+    "word": "follow up the complaint",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the complaint",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the coverage limit before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá coverage limit trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to follow up the complaint before the end of the day.",
+    "exampleVi": "Nhom can follow up the complaint truoc cuoi ngay.",
     "collocations": [
-      "coverage limit",
-      "coverage limit review",
-      "coverage limit process"
+      "follow up the complaint",
+      "follow up the complaint today",
+      "follow up the complaint carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "coverage"
+      "follow",
+      "up"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "coverage-period-phrase",
-    "word": "coverage period",
-    "baseWord": "coverage",
+    "id": "follow-up-the-contract-phrasal",
+    "word": "follow up the contract",
+    "baseWord": "follow",
     "type": "phrase",
-    "meaning": "coverage period; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the contract",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the coverage period before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá coverage period trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "coverage period",
-      "coverage period review",
-      "coverage period process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "coverage"
-    ],
-    "day": 136
-  },
-  {
-    "id": "covered-loss-phrase",
-    "word": "covered loss",
-    "baseWord": "covered",
-    "type": "phrase",
-    "meaning": "covered loss; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the covered loss before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá covered loss trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "covered loss",
-      "covered loss review",
-      "covered loss process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "covered"
-    ],
-    "day": 136
-  },
-  {
-    "id": "deductible-amount-phrase",
-    "word": "deductible amount",
-    "baseWord": "deductible",
-    "type": "phrase",
-    "meaning": "deductible amount; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the deductible amount before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá deductible amount trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "deductible amount",
-      "deductible amount review",
-      "deductible amount process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "deductible"
-    ],
-    "day": 136
-  },
-  {
-    "id": "insurance-policy-phrase",
-    "word": "insurance policy",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance policy; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance policy before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance policy trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance policy",
-      "insurance policy review",
-      "insurance policy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 136
-  },
-  {
-    "id": "insurance-premium-phrase",
-    "word": "insurance premium",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance premium; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance premium before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance premium trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance premium",
-      "insurance premium review",
-      "insurance premium process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 136
-  },
-  {
-    "id": "insurance-rider-phrase",
-    "word": "insurance rider",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance rider; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance rider before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance rider trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance rider",
-      "insurance rider review",
-      "insurance rider process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 136
-  },
-  {
-    "id": "insured-party-phrase",
-    "word": "insured party",
-    "baseWord": "insured",
-    "type": "phrase",
-    "meaning": "insured party; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the insured party before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insured party trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to follow up the contract before the end of the day.",
+    "exampleVi": "Nhom can follow up the contract truoc cuoi ngay.",
     "collocations": [
-      "insured party",
-      "insured party review",
-      "insured party process"
+      "follow up the contract",
+      "follow up the contract today",
+      "follow up the contract carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "insured"
+      "follow",
+      "up"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "policy-exclusion-phrase",
-    "word": "policy exclusion",
-    "baseWord": "policy",
+    "id": "follow-up-the-deadline-phrasal",
+    "word": "follow up the deadline",
+    "baseWord": "follow",
     "type": "phrase",
-    "meaning": "policy exclusion; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the deadline",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the policy exclusion before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá policy exclusion trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to follow up the deadline before the end of the day.",
+    "exampleVi": "Nhom can follow up the deadline truoc cuoi ngay.",
     "collocations": [
-      "policy exclusion",
-      "policy exclusion review",
-      "policy exclusion process"
+      "follow up the deadline",
+      "follow up the deadline today",
+      "follow up the deadline carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "policy"
+      "follow",
+      "up"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "policy-renewal-phrase",
-    "word": "policy renewal",
-    "baseWord": "policy",
+    "id": "follow-up-the-figures-phrasal",
+    "word": "follow up the figures",
+    "baseWord": "follow",
     "type": "phrase",
-    "meaning": "policy renewal; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the figures",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the policy renewal before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá policy renewal trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to follow up the figures before the end of the day.",
+    "exampleVi": "Nhom can follow up the figures truoc cuoi ngay.",
     "collocations": [
-      "policy renewal",
-      "policy renewal review",
-      "policy renewal process"
+      "follow up the figures",
+      "follow up the figures today",
+      "follow up the figures carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "policy"
+      "follow",
+      "up"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "follow-up-the-file-phrasal",
+    "word": "follow up the file",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the file",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the file before the end of the day.",
+    "exampleVi": "Nhom can follow up the file truoc cuoi ngay.",
+    "collocations": [
+      "follow up the file",
+      "follow up the file today",
+      "follow up the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "follow-up-the-form-phrasal",
+    "word": "follow up the form",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the form",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the form before the end of the day.",
+    "exampleVi": "Nhom can follow up the form truoc cuoi ngay.",
+    "collocations": [
+      "follow up the form",
+      "follow up the form today",
+      "follow up the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "follow-up-the-invoice-phrasal",
+    "word": "follow up the invoice",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the invoice",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the invoice before the end of the day.",
+    "exampleVi": "Nhom can follow up the invoice truoc cuoi ngay.",
+    "collocations": [
+      "follow up the invoice",
+      "follow up the invoice today",
+      "follow up the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "follow-up-the-issue-phrasal",
+    "word": "follow up the issue",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the issue",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the issue before the end of the day.",
+    "exampleVi": "Nhom can follow up the issue truoc cuoi ngay.",
+    "collocations": [
+      "follow up the issue",
+      "follow up the issue today",
+      "follow up the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "follow-up-the-meeting-phrasal",
+    "word": "follow up the meeting",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the meeting",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the meeting before the end of the day.",
+    "exampleVi": "Nhom can follow up the meeting truoc cuoi ngay.",
+    "collocations": [
+      "follow up the meeting",
+      "follow up the meeting today",
+      "follow up the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "follow-up-the-order-phrasal",
+    "word": "follow up the order",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the order",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the order before the end of the day.",
+    "exampleVi": "Nhom can follow up the order truoc cuoi ngay.",
+    "collocations": [
+      "follow up the order",
+      "follow up the order today",
+      "follow up the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "follow-up-the-plan-phrasal",
+    "word": "follow up the plan",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the plan",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the plan before the end of the day.",
+    "exampleVi": "Nhom can follow up the plan truoc cuoi ngay.",
+    "collocations": [
+      "follow up the plan",
+      "follow up the plan today",
+      "follow up the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "follow-up-the-policy-phrasal",
+    "word": "follow up the policy",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the policy",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the policy before the end of the day.",
+    "exampleVi": "Nhom can follow up the policy truoc cuoi ngay.",
+    "collocations": [
+      "follow up the policy",
+      "follow up the policy today",
+      "follow up the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "follow-up-the-proposal-phrasal",
+    "word": "follow up the proposal",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the proposal",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the proposal before the end of the day.",
+    "exampleVi": "Nhom can follow up the proposal truoc cuoi ngay.",
+    "collocations": [
+      "follow up the proposal",
+      "follow up the proposal today",
+      "follow up the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "follow-up-the-request-phrasal",
+    "word": "follow up the request",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the request",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the request before the end of the day.",
+    "exampleVi": "Nhom can follow up the request truoc cuoi ngay.",
+    "collocations": [
+      "follow up the request",
+      "follow up the request today",
+      "follow up the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "follow-up-the-schedule-phrasal",
+    "word": "follow up the schedule",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the schedule",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the schedule before the end of the day.",
+    "exampleVi": "Nhom can follow up the schedule truoc cuoi ngay.",
+    "collocations": [
+      "follow up the schedule",
+      "follow up the schedule today",
+      "follow up the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "follow-up-the-shipment-phrasal",
+    "word": "follow up the shipment",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the shipment",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the shipment before the end of the day.",
+    "exampleVi": "Nhom can follow up the shipment truoc cuoi ngay.",
+    "collocations": [
+      "follow up the shipment",
+      "follow up the shipment today",
+      "follow up the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 136,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "policyholder-noun",
@@ -484,7 +665,7 @@
     "type": "noun",
     "meaning": "policyholder; thuật ngữ về bảo hiểm và quản trị rủi ro",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -505,193 +686,2035 @@
     "wordFamily": [
       "policyholder"
     ],
-    "day": 136
+    "day": 136,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "premium-payment-phrase",
-    "word": "premium payment",
-    "baseWord": "premium",
+    "id": "carry-out-phrasal",
+    "word": "carry out",
+    "baseWord": "carry",
     "type": "phrase",
-    "meaning": "premium payment; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out before the end of the day.",
+    "exampleVi": "Nhom can carry out truoc cuoi ngay.",
+    "collocations": [
+      "carry out",
+      "carry out today",
+      "carry out carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "carry-out-the-application-phrasal",
+    "word": "carry out the application",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the application",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the application before the end of the day.",
+    "exampleVi": "Nhom can carry out the application truoc cuoi ngay.",
+    "collocations": [
+      "carry out the application",
+      "carry out the application today",
+      "carry out the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "carry-out-the-client-phrasal",
+    "word": "carry out the client",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the client",
+    "pronunciation": "",
+    "topic": "Business Communication",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the premium payment before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá premium payment trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to carry out the client before the end of the day.",
+    "exampleVi": "Nhom can carry out the client truoc cuoi ngay.",
     "collocations": [
-      "premium payment",
-      "premium payment review",
-      "premium payment process"
+      "carry out the client",
+      "carry out the client today",
+      "carry out the client carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "premium"
+      "carry",
+      "out"
     ],
-    "day": 136
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "uncovered-loss-phrase",
-    "word": "uncovered loss",
-    "baseWord": "uncovered",
+    "id": "carry-out-the-complaint-phrasal",
+    "word": "carry out the complaint",
+    "baseWord": "carry",
     "type": "phrase",
-    "meaning": "uncovered loss; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the complaint",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the uncovered loss before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá uncovered loss trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to carry out the complaint before the end of the day.",
+    "exampleVi": "Nhom can carry out the complaint truoc cuoi ngay.",
     "collocations": [
-      "uncovered loss",
-      "uncovered loss review",
-      "uncovered loss process"
+      "carry out the complaint",
+      "carry out the complaint today",
+      "carry out the complaint carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "uncovered"
+      "carry",
+      "out"
     ],
-    "day": 136
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "underwriting-review-phrase",
-    "word": "underwriting review",
-    "baseWord": "underwriting",
+    "id": "carry-out-the-contract-phrasal",
+    "word": "carry out the contract",
+    "baseWord": "carry",
     "type": "phrase",
-    "meaning": "underwriting review; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the contract",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the contract before the end of the day.",
+    "exampleVi": "Nhom can carry out the contract truoc cuoi ngay.",
+    "collocations": [
+      "carry out the contract",
+      "carry out the contract today",
+      "carry out the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "carry-out-the-deadline-phrasal",
+    "word": "carry out the deadline",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the deadline",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the deadline before the end of the day.",
+    "exampleVi": "Nhom can carry out the deadline truoc cuoi ngay.",
+    "collocations": [
+      "carry out the deadline",
+      "carry out the deadline today",
+      "carry out the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "carry-out-the-figures-phrasal",
+    "word": "carry out the figures",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the figures",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the underwriting review before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá underwriting review trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to carry out the figures before the end of the day.",
+    "exampleVi": "Nhom can carry out the figures truoc cuoi ngay.",
     "collocations": [
-      "underwriting review",
-      "underwriting review review",
-      "underwriting review process"
+      "carry out the figures",
+      "carry out the figures today",
+      "carry out the figures carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "underwriting"
+      "carry",
+      "out"
     ],
-    "day": 136
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "compliance-risk-phrase",
-    "word": "compliance risk",
-    "baseWord": "compliance",
+    "id": "carry-out-the-form-phrasal",
+    "word": "carry out the form",
+    "baseWord": "carry",
     "type": "phrase",
-    "meaning": "compliance risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the form",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the compliance risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá compliance risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to carry out the form before the end of the day.",
+    "exampleVi": "Nhom can carry out the form truoc cuoi ngay.",
     "collocations": [
-      "compliance risk",
-      "compliance risk review",
-      "compliance risk process"
+      "carry out the form",
+      "carry out the form today",
+      "carry out the form carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "compliance"
+      "carry",
+      "out"
     ],
-    "day": 137
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "credit-risk-phrase",
-    "word": "credit risk",
-    "baseWord": "credit",
+    "id": "carry-out-the-invoice-phrasal",
+    "word": "carry out the invoice",
+    "baseWord": "carry",
     "type": "phrase",
-    "meaning": "credit risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the invoice",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the invoice before the end of the day.",
+    "exampleVi": "Nhom can carry out the invoice truoc cuoi ngay.",
+    "collocations": [
+      "carry out the invoice",
+      "carry out the invoice today",
+      "carry out the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "carry-out-the-issue-phrasal",
+    "word": "carry out the issue",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the issue",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the issue before the end of the day.",
+    "exampleVi": "Nhom can carry out the issue truoc cuoi ngay.",
+    "collocations": [
+      "carry out the issue",
+      "carry out the issue today",
+      "carry out the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "carry-out-the-meeting-phrasal",
+    "word": "carry out the meeting",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the meeting",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the meeting before the end of the day.",
+    "exampleVi": "Nhom can carry out the meeting truoc cuoi ngay.",
+    "collocations": [
+      "carry out the meeting",
+      "carry out the meeting today",
+      "carry out the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "carry-out-the-order-phrasal",
+    "word": "carry out the order",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the order",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the order before the end of the day.",
+    "exampleVi": "Nhom can carry out the order truoc cuoi ngay.",
+    "collocations": [
+      "carry out the order",
+      "carry out the order today",
+      "carry out the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "carry-out-the-plan-phrasal",
+    "word": "carry out the plan",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the plan",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the plan before the end of the day.",
+    "exampleVi": "Nhom can carry out the plan truoc cuoi ngay.",
+    "collocations": [
+      "carry out the plan",
+      "carry out the plan today",
+      "carry out the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "carry-out-the-policy-phrasal",
+    "word": "carry out the policy",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the policy",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the policy before the end of the day.",
+    "exampleVi": "Nhom can carry out the policy truoc cuoi ngay.",
+    "collocations": [
+      "carry out the policy",
+      "carry out the policy today",
+      "carry out the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "carry-out-the-proposal-phrasal",
+    "word": "carry out the proposal",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the proposal",
     "pronunciation": "",
     "topic": "Insurance & Risk",
-    "frequency": "low",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the proposal before the end of the day.",
+    "exampleVi": "Nhom can carry out the proposal truoc cuoi ngay.",
+    "collocations": [
+      "carry out the proposal",
+      "carry out the proposal today",
+      "carry out the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "carry-out-the-report-phrasal",
+    "word": "carry out the report",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the report",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the report before the end of the day.",
+    "exampleVi": "Nhom can carry out the report truoc cuoi ngay.",
+    "collocations": [
+      "carry out the report",
+      "carry out the report today",
+      "carry out the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "carry-out-the-request-phrasal",
+    "word": "carry out the request",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the request",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the request before the end of the day.",
+    "exampleVi": "Nhom can carry out the request truoc cuoi ngay.",
+    "collocations": [
+      "carry out the request",
+      "carry out the request today",
+      "carry out the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "carry-out-the-schedule-phrasal",
+    "word": "carry out the schedule",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the schedule",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the schedule before the end of the day.",
+    "exampleVi": "Nhom can carry out the schedule truoc cuoi ngay.",
+    "collocations": [
+      "carry out the schedule",
+      "carry out the schedule today",
+      "carry out the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "carry-out-the-shipment-phrasal",
+    "word": "carry out the shipment",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the shipment",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the shipment before the end of the day.",
+    "exampleVi": "Nhom can carry out the shipment truoc cuoi ngay.",
+    "collocations": [
+      "carry out the shipment",
+      "carry out the shipment today",
+      "carry out the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "follow-up-the-details-phrasal",
+    "word": "follow up the details",
+    "baseWord": "follow",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: follow up the details",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to follow up the details before the end of the day.",
+    "exampleVi": "Nhom can follow up the details truoc cuoi ngay.",
+    "collocations": [
+      "follow up the details",
+      "follow up the details today",
+      "follow up the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "follow",
+      "up"
+    ],
+    "day": 137,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "carry-out-the-details-phrasal",
+    "word": "carry out the details",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the details",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the details before the end of the day.",
+    "exampleVi": "Nhom can carry out the details truoc cuoi ngay.",
+    "collocations": [
+      "carry out the details",
+      "carry out the details today",
+      "carry out the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "carry-out-the-file-phrasal",
+    "word": "carry out the file",
+    "baseWord": "carry",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: carry out the file",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to carry out the file before the end of the day.",
+    "exampleVi": "Nhom can carry out the file truoc cuoi ngay.",
+    "collocations": [
+      "carry out the file",
+      "carry out the file today",
+      "carry out the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "carry",
+      "out"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "look-into-phrasal",
+    "word": "look into",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into before the end of the day.",
+    "exampleVi": "Nhom can look into truoc cuoi ngay.",
+    "collocations": [
+      "look into",
+      "look into today",
+      "look into carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "look-into-the-application-phrasal",
+    "word": "look into the application",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the application",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the application before the end of the day.",
+    "exampleVi": "Nhom can look into the application truoc cuoi ngay.",
+    "collocations": [
+      "look into the application",
+      "look into the application today",
+      "look into the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "look-into-the-client-phrasal",
+    "word": "look into the client",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the client",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the client before the end of the day.",
+    "exampleVi": "Nhom can look into the client truoc cuoi ngay.",
+    "collocations": [
+      "look into the client",
+      "look into the client today",
+      "look into the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "look-into-the-complaint-phrasal",
+    "word": "look into the complaint",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the complaint",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the complaint before the end of the day.",
+    "exampleVi": "Nhom can look into the complaint truoc cuoi ngay.",
+    "collocations": [
+      "look into the complaint",
+      "look into the complaint today",
+      "look into the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "look-into-the-contract-phrasal",
+    "word": "look into the contract",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the contract",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the contract before the end of the day.",
+    "exampleVi": "Nhom can look into the contract truoc cuoi ngay.",
+    "collocations": [
+      "look into the contract",
+      "look into the contract today",
+      "look into the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "look-into-the-deadline-phrasal",
+    "word": "look into the deadline",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the deadline",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the deadline before the end of the day.",
+    "exampleVi": "Nhom can look into the deadline truoc cuoi ngay.",
+    "collocations": [
+      "look into the deadline",
+      "look into the deadline today",
+      "look into the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "look-into-the-figures-phrasal",
+    "word": "look into the figures",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the figures",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the figures before the end of the day.",
+    "exampleVi": "Nhom can look into the figures truoc cuoi ngay.",
+    "collocations": [
+      "look into the figures",
+      "look into the figures today",
+      "look into the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "look-into-the-form-phrasal",
+    "word": "look into the form",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the form",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the form before the end of the day.",
+    "exampleVi": "Nhom can look into the form truoc cuoi ngay.",
+    "collocations": [
+      "look into the form",
+      "look into the form today",
+      "look into the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "look-into-the-invoice-phrasal",
+    "word": "look into the invoice",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the invoice",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the invoice before the end of the day.",
+    "exampleVi": "Nhom can look into the invoice truoc cuoi ngay.",
+    "collocations": [
+      "look into the invoice",
+      "look into the invoice today",
+      "look into the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "look-into-the-issue-phrasal",
+    "word": "look into the issue",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the issue",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the issue before the end of the day.",
+    "exampleVi": "Nhom can look into the issue truoc cuoi ngay.",
+    "collocations": [
+      "look into the issue",
+      "look into the issue today",
+      "look into the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "look-into-the-meeting-phrasal",
+    "word": "look into the meeting",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the meeting",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the meeting before the end of the day.",
+    "exampleVi": "Nhom can look into the meeting truoc cuoi ngay.",
+    "collocations": [
+      "look into the meeting",
+      "look into the meeting today",
+      "look into the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "look-into-the-order-phrasal",
+    "word": "look into the order",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the order",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the order before the end of the day.",
+    "exampleVi": "Nhom can look into the order truoc cuoi ngay.",
+    "collocations": [
+      "look into the order",
+      "look into the order today",
+      "look into the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "look-into-the-plan-phrasal",
+    "word": "look into the plan",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the plan",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the plan before the end of the day.",
+    "exampleVi": "Nhom can look into the plan truoc cuoi ngay.",
+    "collocations": [
+      "look into the plan",
+      "look into the plan today",
+      "look into the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "look-into-the-proposal-phrasal",
+    "word": "look into the proposal",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the proposal",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the proposal before the end of the day.",
+    "exampleVi": "Nhom can look into the proposal truoc cuoi ngay.",
+    "collocations": [
+      "look into the proposal",
+      "look into the proposal today",
+      "look into the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "look-into-the-report-phrasal",
+    "word": "look into the report",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the report",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the report before the end of the day.",
+    "exampleVi": "Nhom can look into the report truoc cuoi ngay.",
+    "collocations": [
+      "look into the report",
+      "look into the report today",
+      "look into the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "look-into-the-request-phrasal",
+    "word": "look into the request",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the request",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the request before the end of the day.",
+    "exampleVi": "Nhom can look into the request truoc cuoi ngay.",
+    "collocations": [
+      "look into the request",
+      "look into the request today",
+      "look into the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "look-into-the-schedule-phrasal",
+    "word": "look into the schedule",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the schedule",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the schedule before the end of the day.",
+    "exampleVi": "Nhom can look into the schedule truoc cuoi ngay.",
+    "collocations": [
+      "look into the schedule",
+      "look into the schedule today",
+      "look into the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "look-into-the-shipment-phrasal",
+    "word": "look into the shipment",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the shipment",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the shipment before the end of the day.",
+    "exampleVi": "Nhom can look into the shipment truoc cuoi ngay.",
+    "collocations": [
+      "look into the shipment",
+      "look into the shipment today",
+      "look into the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 138,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "look-into-the-details-phrasal",
+    "word": "look into the details",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the details",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to look into the details before the end of the day.",
+    "exampleVi": "Nhom can look into the details truoc cuoi ngay.",
+    "collocations": [
+      "look into the details",
+      "look into the details today",
+      "look into the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "look-into-the-file-phrasal",
+    "word": "look into the file",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the file",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to look into the file before the end of the day.",
+    "exampleVi": "Nhom can look into the file truoc cuoi ngay.",
+    "collocations": [
+      "look into the file",
+      "look into the file today",
+      "look into the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "look",
+      "into"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "look-into-the-policy-phrasal",
+    "word": "look into the policy",
+    "baseWord": "look",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: look into the policy",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the credit risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá credit risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to look into the policy before the end of the day.",
+    "exampleVi": "Nhom can look into the policy truoc cuoi ngay.",
     "collocations": [
-      "credit risk",
-      "credit risk review",
-      "credit risk process"
+      "look into the policy",
+      "look into the policy today",
+      "look into the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "credit"
+      "look",
+      "into"
     ],
-    "day": 137
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "cyber-risk-phrase",
-    "word": "cyber risk",
-    "baseWord": "cyber",
+    "id": "turn-down-phrasal",
+    "word": "turn down",
+    "baseWord": "turn",
     "type": "phrase",
-    "meaning": "cyber risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down before the end of the day.",
+    "exampleVi": "Nhom can turn down truoc cuoi ngay.",
+    "collocations": [
+      "turn down",
+      "turn down today",
+      "turn down carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "turn-down-the-application-phrasal",
+    "word": "turn down the application",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the application",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the cyber risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá cyber risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to turn down the application before the end of the day.",
+    "exampleVi": "Nhom can turn down the application truoc cuoi ngay.",
     "collocations": [
-      "cyber risk",
-      "cyber risk review",
-      "cyber risk process"
+      "turn down the application",
+      "turn down the application today",
+      "turn down the application carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "cyber"
+      "turn",
+      "down"
     ],
-    "day": 137
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "exposure-evaluation-phrase",
-    "word": "exposure evaluation",
-    "baseWord": "exposure",
+    "id": "turn-down-the-client-phrasal",
+    "word": "turn down the client",
+    "baseWord": "turn",
     "type": "phrase",
-    "meaning": "exposure evaluation; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the client",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the client before the end of the day.",
+    "exampleVi": "Nhom can turn down the client truoc cuoi ngay.",
+    "collocations": [
+      "turn down the client",
+      "turn down the client today",
+      "turn down the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "turn-down-the-complaint-phrasal",
+    "word": "turn down the complaint",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the complaint",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the complaint before the end of the day.",
+    "exampleVi": "Nhom can turn down the complaint truoc cuoi ngay.",
+    "collocations": [
+      "turn down the complaint",
+      "turn down the complaint today",
+      "turn down the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "turn-down-the-contract-phrasal",
+    "word": "turn down the contract",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the contract",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the contract before the end of the day.",
+    "exampleVi": "Nhom can turn down the contract truoc cuoi ngay.",
+    "collocations": [
+      "turn down the contract",
+      "turn down the contract today",
+      "turn down the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "turn-down-the-figures-phrasal",
+    "word": "turn down the figures",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the figures",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the figures before the end of the day.",
+    "exampleVi": "Nhom can turn down the figures truoc cuoi ngay.",
+    "collocations": [
+      "turn down the figures",
+      "turn down the figures today",
+      "turn down the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "turn-down-the-form-phrasal",
+    "word": "turn down the form",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the form",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the form before the end of the day.",
+    "exampleVi": "Nhom can turn down the form truoc cuoi ngay.",
+    "collocations": [
+      "turn down the form",
+      "turn down the form today",
+      "turn down the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "turn-down-the-invoice-phrasal",
+    "word": "turn down the invoice",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the invoice",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the invoice before the end of the day.",
+    "exampleVi": "Nhom can turn down the invoice truoc cuoi ngay.",
+    "collocations": [
+      "turn down the invoice",
+      "turn down the invoice today",
+      "turn down the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "turn-down-the-issue-phrasal",
+    "word": "turn down the issue",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the issue",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the issue before the end of the day.",
+    "exampleVi": "Nhom can turn down the issue truoc cuoi ngay.",
+    "collocations": [
+      "turn down the issue",
+      "turn down the issue today",
+      "turn down the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "turn-down-the-meeting-phrasal",
+    "word": "turn down the meeting",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the meeting",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the meeting before the end of the day.",
+    "exampleVi": "Nhom can turn down the meeting truoc cuoi ngay.",
+    "collocations": [
+      "turn down the meeting",
+      "turn down the meeting today",
+      "turn down the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "turn-down-the-order-phrasal",
+    "word": "turn down the order",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the order",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the order before the end of the day.",
+    "exampleVi": "Nhom can turn down the order truoc cuoi ngay.",
+    "collocations": [
+      "turn down the order",
+      "turn down the order today",
+      "turn down the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "turn-down-the-plan-phrasal",
+    "word": "turn down the plan",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the plan",
     "pronunciation": "",
     "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the plan before the end of the day.",
+    "exampleVi": "Nhom can turn down the plan truoc cuoi ngay.",
+    "collocations": [
+      "turn down the plan",
+      "turn down the plan today",
+      "turn down the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "turn-down-the-proposal-phrasal",
+    "word": "turn down the proposal",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the proposal",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the proposal before the end of the day.",
+    "exampleVi": "Nhom can turn down the proposal truoc cuoi ngay.",
+    "collocations": [
+      "turn down the proposal",
+      "turn down the proposal today",
+      "turn down the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "turn-down-the-report-phrasal",
+    "word": "turn down the report",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the report",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the report before the end of the day.",
+    "exampleVi": "Nhom can turn down the report truoc cuoi ngay.",
+    "collocations": [
+      "turn down the report",
+      "turn down the report today",
+      "turn down the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "turn-down-the-request-phrasal",
+    "word": "turn down the request",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the request",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the request before the end of the day.",
+    "exampleVi": "Nhom can turn down the request truoc cuoi ngay.",
+    "collocations": [
+      "turn down the request",
+      "turn down the request today",
+      "turn down the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "turn-down-the-schedule-phrasal",
+    "word": "turn down the schedule",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the schedule",
+    "pronunciation": "",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -699,740 +2722,348 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the exposure evaluation before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá exposure evaluation trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to turn down the schedule before the end of the day.",
+    "exampleVi": "Nhom can turn down the schedule truoc cuoi ngay.",
     "collocations": [
-      "exposure evaluation",
-      "exposure evaluation review",
-      "exposure evaluation process"
+      "turn down the schedule",
+      "turn down the schedule today",
+      "turn down the schedule carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "exposure"
+      "turn",
+      "down"
     ],
-    "day": 137
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
-    "id": "exposure-log-phrase",
-    "word": "exposure log",
-    "baseWord": "exposure",
+    "id": "turn-down-the-shipment-phrasal",
+    "word": "turn down the shipment",
+    "baseWord": "turn",
     "type": "phrase",
-    "meaning": "exposure log; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the shipment",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the exposure log before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá exposure log trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "exposure log",
-      "exposure log review",
-      "exposure log process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "exposure"
-    ],
-    "day": 137
-  },
-  {
-    "id": "financial-risk-phrase",
-    "word": "financial risk",
-    "baseWord": "financial",
-    "type": "phrase",
-    "meaning": "financial risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the financial risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá financial risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "financial risk",
-      "financial risk review",
-      "financial risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "financial"
-    ],
-    "day": 137
-  },
-  {
-    "id": "liquidity-risk-phrase",
-    "word": "liquidity risk",
-    "baseWord": "liquidity",
-    "type": "phrase",
-    "meaning": "liquidity risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the liquidity risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá liquidity risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "liquidity risk",
-      "liquidity risk review",
-      "liquidity risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "liquidity"
-    ],
-    "day": 137
-  },
-  {
-    "id": "loss-reduction-strategy-phrase",
-    "word": "loss reduction strategy",
-    "baseWord": "los",
-    "type": "phrase",
-    "meaning": "loss reduction strategy; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Office Equipment",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the loss reduction strategy before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá loss reduction strategy trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to turn down the shipment before the end of the day.",
+    "exampleVi": "Nhom can turn down the shipment truoc cuoi ngay.",
     "collocations": [
-      "loss reduction strategy",
-      "loss reduction strategy review",
-      "loss reduction strategy process"
+      "turn down the shipment",
+      "turn down the shipment today",
+      "turn down the shipment carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "los"
+      "turn",
+      "down"
     ],
-    "day": 137
+    "day": 139,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "market-risk-phrase",
-    "word": "market risk",
-    "baseWord": "market",
+    "id": "fill-out-phrasal",
+    "word": "fill out",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "market risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the market risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá market risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out before the end of the day.",
+    "exampleVi": "Nhom can fill out truoc cuoi ngay.",
     "collocations": [
-      "market risk",
-      "market risk review",
-      "market risk process"
+      "fill out",
+      "fill out today",
+      "fill out carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "market"
+      "fill",
+      "out"
     ],
-    "day": 137
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "operational-risk-phrase",
-    "word": "operational risk",
-    "baseWord": "operational",
+    "id": "fill-out-the-application-phrasal",
+    "word": "fill out the application",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "operational risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the application",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the operational risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá operational risk trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the application before the end of the day.",
+    "exampleVi": "Nhom can fill out the application truoc cuoi ngay.",
     "collocations": [
-      "operational risk",
-      "operational risk review",
-      "operational risk process"
+      "fill out the application",
+      "fill out the application today",
+      "fill out the application carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "operational"
+      "fill",
+      "out"
     ],
-    "day": 137
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "reputational-risk-phrase",
-    "word": "reputational risk",
-    "baseWord": "reputational",
+    "id": "fill-out-the-client-phrasal",
+    "word": "fill out the client",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "reputational risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the client",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Training & Development",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the reputational risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá reputational risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "reputational risk",
-      "reputational risk review",
-      "reputational risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reputational"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-exposure-phrase",
-    "word": "risk exposure",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk exposure; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the risk exposure before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk exposure trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the client before the end of the day.",
+    "exampleVi": "Nhom can fill out the client truoc cuoi ngay.",
     "collocations": [
-      "risk exposure",
-      "risk exposure review",
-      "risk exposure process"
+      "fill out the client",
+      "fill out the client today",
+      "fill out the client carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "risk"
+      "fill",
+      "out"
     ],
-    "day": 137
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "risk-factor-phrase",
-    "word": "risk factor",
-    "baseWord": "risk",
+    "id": "fill-out-the-complaint-phrasal",
+    "word": "fill out the complaint",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "risk factor; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the complaint",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk factor before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk factor trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk factor",
-      "risk factor review",
-      "risk factor process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-matrix-phrase",
-    "word": "risk matrix",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk matrix; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk matrix before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk matrix trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk matrix",
-      "risk matrix review",
-      "risk matrix process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-profile-phrase",
-    "word": "risk profile",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk profile; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk profile before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk profile trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk profile",
-      "risk profile review",
-      "risk profile process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-rating-phrase",
-    "word": "risk rating",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk rating; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk rating before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk rating trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk rating",
-      "risk rating review",
-      "risk rating process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-tolerance-phrase",
-    "word": "risk tolerance",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk tolerance; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk tolerance before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk tolerance trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk tolerance",
-      "risk tolerance review",
-      "risk tolerance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "risk-transfer-phrase",
-    "word": "risk transfer",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk transfer; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk transfer before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk transfer trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk transfer",
-      "risk transfer review",
-      "risk transfer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 137
-  },
-  {
-    "id": "strategic-risk-phrase",
-    "word": "strategic risk",
-    "baseWord": "strategic",
-    "type": "phrase",
-    "meaning": "strategic risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the strategic risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá strategic risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "strategic risk",
-      "strategic risk review",
-      "strategic risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "strategic"
-    ],
-    "day": 137
-  },
-  {
-    "id": "supply-risk-phrase",
-    "word": "supply risk",
-    "baseWord": "supply",
-    "type": "phrase",
-    "meaning": "supply risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the supply risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá supply risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "supply risk",
-      "supply risk review",
-      "supply risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "supply"
-    ],
-    "day": 137
-  },
-  {
-    "id": "actual-cash-value-phrase",
-    "word": "actual cash value",
-    "baseWord": "actual",
-    "type": "phrase",
-    "meaning": "actual cash value; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the actual cash value before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá actual cash value trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "actual cash value",
-      "actual cash value review",
-      "actual cash value process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "actual"
-    ],
-    "day": 138
-  },
-  {
-    "id": "business-interruption-phrase",
-    "word": "business interruption",
-    "baseWord": "busines",
-    "type": "phrase",
-    "meaning": "business interruption; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the business interruption before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá business interruption trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "business interruption",
-      "business interruption review",
-      "business interruption process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "busines"
-    ],
-    "day": 138
-  },
-  {
-    "id": "casualty-insurance-phrase",
-    "word": "casualty insurance",
-    "baseWord": "casualty",
-    "type": "phrase",
-    "meaning": "casualty insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the casualty insurance before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá casualty insurance trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "casualty insurance",
-      "casualty insurance review",
-      "casualty insurance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "casualty"
-    ],
-    "day": 138
-  },
-  {
-    "id": "errors-and-omissions-phrase",
-    "word": "errors and omissions",
-    "baseWord": "error",
-    "type": "phrase",
-    "meaning": "errors and omissions; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the errors and omissions before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá errors and omissions trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "errors and omissions",
-      "errors and omissions review",
-      "errors and omissions process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "error"
-    ],
-    "day": 138
-  },
-  {
-    "id": "fire-insurance-phrase",
-    "word": "fire insurance",
-    "baseWord": "fire",
-    "type": "phrase",
-    "meaning": "fire insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the fire insurance before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá fire insurance trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "fire insurance",
-      "fire insurance review",
-      "fire insurance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "fire"
-    ],
-    "day": 138
-  },
-  {
-    "id": "general-liability-phrase",
-    "word": "general liability",
-    "baseWord": "general",
-    "type": "phrase",
-    "meaning": "general liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The risk manager evaluated the general liability before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá general liability trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the complaint before the end of the day.",
+    "exampleVi": "Nhom can fill out the complaint truoc cuoi ngay.",
     "collocations": [
-      "general liability",
-      "general liability review",
-      "general liability process"
+      "fill out the complaint",
+      "fill out the complaint today",
+      "fill out the complaint carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "general"
+      "fill",
+      "out"
     ],
-    "day": 138
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "health-insurance-phrase",
-    "word": "health insurance",
-    "baseWord": "health",
+    "id": "fill-out-the-contract-phrasal",
+    "word": "fill out the contract",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "health insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the contract",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the health insurance before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá health insurance trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "health insurance",
-      "health insurance review",
-      "health insurance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "health"
-    ],
-    "day": 138
-  },
-  {
-    "id": "insured-value-phrase",
-    "word": "insured value",
-    "baseWord": "insured",
-    "type": "phrase",
-    "meaning": "insured value; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the insured value before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insured value trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the contract before the end of the day.",
+    "exampleVi": "Nhom can fill out the contract truoc cuoi ngay.",
     "collocations": [
-      "insured value",
-      "insured value review",
-      "insured value process"
+      "fill out the contract",
+      "fill out the contract today",
+      "fill out the contract carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "insured"
+      "fill",
+      "out"
     ],
-    "day": 138
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "liability-coverage-phrase",
-    "word": "liability coverage",
-    "baseWord": "liability",
+    "id": "fill-out-the-form-phrasal",
+    "word": "fill out the form",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "liability coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the form",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the form before the end of the day.",
+    "exampleVi": "Nhom can fill out the form truoc cuoi ngay.",
+    "collocations": [
+      "fill out the form",
+      "fill out the form today",
+      "fill out the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "fill-out-the-invoice-phrasal",
+    "word": "fill out the invoice",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the invoice",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the invoice before the end of the day.",
+    "exampleVi": "Nhom can fill out the invoice truoc cuoi ngay.",
+    "collocations": [
+      "fill out the invoice",
+      "fill out the invoice today",
+      "fill out the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "fill-out-the-issue-phrasal",
+    "word": "fill out the issue",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the issue",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the issue before the end of the day.",
+    "exampleVi": "Nhom can fill out the issue truoc cuoi ngay.",
+    "collocations": [
+      "fill out the issue",
+      "fill out the issue today",
+      "fill out the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "fill-out-the-meeting-phrasal",
+    "word": "fill out the meeting",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the meeting",
+    "pronunciation": "",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1440,1538 +3071,405 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the liability coverage before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá liability coverage trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the meeting before the end of the day.",
+    "exampleVi": "Nhom can fill out the meeting truoc cuoi ngay.",
     "collocations": [
-      "liability coverage",
-      "liability coverage review",
-      "liability coverage process"
+      "fill out the meeting",
+      "fill out the meeting today",
+      "fill out the meeting carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "liability"
+      "fill",
+      "out"
     ],
-    "day": 138
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "loss-control-phrase",
-    "word": "loss control",
-    "baseWord": "los",
+    "id": "fill-out-the-order-phrasal",
+    "word": "fill out the order",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "loss control; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the order",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Business Events",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the loss control before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá loss control trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "loss control",
-      "loss control review",
-      "loss control process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "los"
-    ],
-    "day": 138
-  },
-  {
-    "id": "loss-prevention-phrase",
-    "word": "loss prevention",
-    "baseWord": "los",
-    "type": "phrase",
-    "meaning": "loss prevention; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the loss prevention before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá loss prevention trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "loss prevention",
-      "loss prevention review",
-      "loss prevention process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "los"
-    ],
-    "day": 138
-  },
-  {
-    "id": "loss-ratio-phrase",
-    "word": "loss ratio",
-    "baseWord": "los",
-    "type": "phrase",
-    "meaning": "loss ratio; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the loss ratio before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá loss ratio trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "loss ratio",
-      "loss ratio review",
-      "loss ratio process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "los"
-    ],
-    "day": 138
-  },
-  {
-    "id": "ocean-cargo-coverage-phrase",
-    "word": "ocean cargo coverage",
-    "baseWord": "ocean",
-    "type": "phrase",
-    "meaning": "ocean cargo coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the ocean cargo coverage before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá ocean cargo coverage trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "ocean cargo coverage",
-      "ocean cargo coverage review",
-      "ocean cargo coverage process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "ocean"
-    ],
-    "day": 138
-  },
-  {
-    "id": "policy-lapse-phrase",
-    "word": "policy lapse",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "policy lapse; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the policy lapse before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá policy lapse trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "policy lapse",
-      "policy lapse review",
-      "policy lapse process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 138
-  },
-  {
-    "id": "product-liability-phrase",
-    "word": "product liability",
-    "baseWord": "product",
-    "type": "phrase",
-    "meaning": "product liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the product liability before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá product liability trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "product liability",
-      "product liability review",
-      "product liability process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "product"
-    ],
-    "day": 138
-  },
-  {
-    "id": "professional-liability-phrase",
-    "word": "professional liability",
-    "baseWord": "professional",
-    "type": "phrase",
-    "meaning": "professional liability; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the professional liability before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá professional liability trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "professional liability",
-      "professional liability review",
-      "professional liability process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "professional"
-    ],
-    "day": 138
-  },
-  {
-    "id": "property-coverage-phrase",
-    "word": "property coverage",
-    "baseWord": "property",
-    "type": "phrase",
-    "meaning": "property coverage; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the property coverage before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá property coverage trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "property coverage",
-      "property coverage review",
-      "property coverage process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "property"
-    ],
-    "day": 138
-  },
-  {
-    "id": "replacement-cost-phrase",
-    "word": "replacement cost",
-    "baseWord": "replacement",
-    "type": "phrase",
-    "meaning": "replacement cost; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the replacement cost before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá replacement cost trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "replacement cost",
-      "replacement cost review",
-      "replacement cost process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "replacement"
-    ],
-    "day": 138
-  },
-  {
-    "id": "travel-insurance-phrase",
-    "word": "travel insurance",
-    "baseWord": "travel",
-    "type": "phrase",
-    "meaning": "travel insurance; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the travel insurance before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá travel insurance trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the order before the end of the day.",
+    "exampleVi": "Nhom can fill out the order truoc cuoi ngay.",
     "collocations": [
-      "travel insurance",
-      "travel insurance review",
-      "travel insurance process"
+      "fill out the order",
+      "fill out the order today",
+      "fill out the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "travel"
+      "fill",
+      "out"
     ],
-    "day": 138
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "workers-compensation-phrase",
-    "word": "workers compensation",
-    "baseWord": "worker",
+    "id": "fill-out-the-plan-phrasal",
+    "word": "fill out the plan",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "workers compensation; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the plan",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the workers compensation before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá workers compensation trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the plan before the end of the day.",
+    "exampleVi": "Nhom can fill out the plan truoc cuoi ngay.",
     "collocations": [
-      "workers compensation",
-      "workers compensation review",
-      "workers compensation process"
+      "fill out the plan",
+      "fill out the plan today",
+      "fill out the plan carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "worker"
+      "fill",
+      "out"
     ],
-    "day": 138
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "actuarial-analysis-phrase",
-    "word": "actuarial analysis",
-    "baseWord": "actuarial",
+    "id": "fill-out-the-proposal-phrasal",
+    "word": "fill out the proposal",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "actuarial analysis; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the proposal",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the actuarial analysis before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá actuarial analysis trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to fill out the proposal before the end of the day.",
+    "exampleVi": "Nhom can fill out the proposal truoc cuoi ngay.",
     "collocations": [
-      "actuarial analysis",
-      "actuarial analysis review",
-      "actuarial analysis process"
+      "fill out the proposal",
+      "fill out the proposal today",
+      "fill out the proposal carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "actuarial"
+      "fill",
+      "out"
     ],
-    "day": 139
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "actuarial-table-phrase",
-    "word": "actuarial table",
-    "baseWord": "actuarial",
+    "id": "fill-out-the-report-phrasal",
+    "word": "fill out the report",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "actuarial table; thuật ngữ về bảo hiểm và quản trị rủi ro",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the report",
     "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the actuarial table before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá actuarial table trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "actuarial table",
-      "actuarial table review",
-      "actuarial table process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "actuarial"
-    ],
-    "day": 139
-  },
-  {
-    "id": "catastrophe-risk-phrase",
-    "word": "catastrophe risk",
-    "baseWord": "catastrophe",
-    "type": "phrase",
-    "meaning": "catastrophe risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the catastrophe risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá catastrophe risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "catastrophe risk",
-      "catastrophe risk review",
-      "catastrophe risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "catastrophe"
-    ],
-    "day": 139
-  },
-  {
-    "id": "claim-investigation-phrase",
-    "word": "claim investigation",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim investigation; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim investigation before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim investigation trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim investigation",
-      "claim investigation review",
-      "claim investigation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 139
-  },
-  {
-    "id": "coverage-verification-phrase",
-    "word": "coverage verification",
-    "baseWord": "coverage",
-    "type": "phrase",
-    "meaning": "coverage verification; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the coverage verification before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá coverage verification trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "coverage verification",
-      "coverage verification review",
-      "coverage verification process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "coverage"
-    ],
-    "day": 139
-  },
-  {
-    "id": "emergency-fallback-plan-phrase",
-    "word": "emergency fallback plan",
-    "baseWord": "emergency",
-    "type": "phrase",
-    "meaning": "emergency fallback plan; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the emergency fallback plan before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá emergency fallback plan trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "emergency fallback plan",
-      "emergency fallback plan review",
-      "emergency fallback plan process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "emergency"
-    ],
-    "day": 139
-  },
-  {
-    "id": "emergency-reserve-phrase",
-    "word": "emergency reserve",
-    "baseWord": "emergency",
-    "type": "phrase",
-    "meaning": "emergency reserve; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the emergency reserve before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá emergency reserve trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "emergency reserve",
-      "emergency reserve review",
-      "emergency reserve process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "emergency"
-    ],
-    "day": 139
-  },
-  {
-    "id": "fraudulent-claim-phrase",
-    "word": "fraudulent claim",
-    "baseWord": "fraudulent",
-    "type": "phrase",
-    "meaning": "fraudulent claim; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the fraudulent claim before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá fraudulent claim trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "fraudulent claim",
-      "fraudulent claim review",
-      "fraudulent claim process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "fraudulent"
-    ],
-    "day": 139
-  },
-  {
-    "id": "hazard-identification-phrase",
-    "word": "hazard identification",
-    "baseWord": "hazard",
-    "type": "phrase",
-    "meaning": "hazard identification; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the hazard identification before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá hazard identification trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "hazard identification",
-      "hazard identification review",
-      "hazard identification process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "hazard"
-    ],
-    "day": 139
-  },
-  {
-    "id": "incident-report-phrase",
-    "word": "incident report",
-    "baseWord": "incident",
-    "type": "phrase",
-    "meaning": "incident report; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the incident report before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá incident report trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "incident report",
-      "incident report review",
-      "incident report process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "incident"
-    ],
-    "day": 139
-  },
-  {
-    "id": "insurance-broker-phrase",
-    "word": "insurance broker",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance broker; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance broker before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance broker trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance broker",
-      "insurance broker review",
-      "insurance broker process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 139
-  },
-  {
-    "id": "insurance-carrier-phrase",
-    "word": "insurance carrier",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance carrier; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance carrier before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance carrier trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance carrier",
-      "insurance carrier review",
-      "insurance carrier process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 139
-  },
-  {
-    "id": "insurance-certificate-phrase",
-    "word": "insurance certificate",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance certificate; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance certificate before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance certificate trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance certificate",
-      "insurance certificate review",
-      "insurance certificate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 139
-  },
-  {
-    "id": "mortality-rate-phrase",
-    "word": "mortality rate",
-    "baseWord": "mortality",
-    "type": "phrase",
-    "meaning": "mortality rate; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the mortality rate before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá mortality rate trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "mortality rate",
-      "mortality rate review",
-      "mortality rate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "mortality"
-    ],
-    "day": 139
-  },
-  {
-    "id": "premium-quote-phrase",
-    "word": "premium quote",
-    "baseWord": "premium",
-    "type": "phrase",
-    "meaning": "premium quote; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the premium quote before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá premium quote trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "premium quote",
-      "premium quote review",
-      "premium quote process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "premium"
-    ],
-    "day": 139
-  },
-  {
-    "id": "reinsurance-contract-phrase",
-    "word": "reinsurance contract",
-    "baseWord": "reinsurance",
-    "type": "phrase",
-    "meaning": "reinsurance contract; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the reinsurance contract before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá reinsurance contract trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "reinsurance contract",
-      "reinsurance contract review",
-      "reinsurance contract process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reinsurance"
-    ],
-    "day": 139
-  },
-  {
-    "id": "risk-committee-phrase",
-    "word": "risk committee",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk committee; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk committee before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk committee trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk committee",
-      "risk committee review",
-      "risk committee process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 139
-  },
-  {
-    "id": "risk-pooling-phrase",
-    "word": "risk pooling",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk pooling; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk pooling before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk pooling trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk pooling",
-      "risk pooling review",
-      "risk pooling process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 139
-  },
-  {
-    "id": "safety-inspection-phrase",
-    "word": "safety inspection",
-    "baseWord": "safety",
-    "type": "phrase",
-    "meaning": "safety inspection; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the safety inspection before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá safety inspection trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "safety inspection",
-      "safety inspection review",
-      "safety inspection process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "safety"
-    ],
-    "day": 139
-  },
-  {
-    "id": "underwriting-guideline-phrase",
-    "word": "underwriting guideline",
-    "baseWord": "underwriting",
-    "type": "phrase",
-    "meaning": "underwriting guideline; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the underwriting guideline before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá underwriting guideline trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "underwriting guideline",
-      "underwriting guideline review",
-      "underwriting guideline process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "underwriting"
-    ],
-    "day": 139
-  },
-  {
-    "id": "business-continuity-phrase",
-    "word": "business continuity",
-    "baseWord": "busines",
-    "type": "phrase",
-    "meaning": "business continuity; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the business continuity before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá business continuity trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "business continuity",
-      "business continuity review",
-      "business continuity process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "busines"
-    ],
-    "day": 140
-  },
-  {
-    "id": "claim-denial-phrase",
-    "word": "claim denial",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "claim denial; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the claim denial before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá claim denial trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "claim denial",
-      "claim denial review",
-      "claim denial process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 140
-  },
-  {
-    "id": "control-measure-phrase",
-    "word": "control measure",
-    "baseWord": "control",
-    "type": "phrase",
-    "meaning": "control measure; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the control measure before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá control measure trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "control measure",
-      "control measure review",
-      "control measure process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "control"
-    ],
-    "day": 140
-  },
-  {
-    "id": "coverage-extension-phrase",
-    "word": "coverage extension",
-    "baseWord": "coverage",
-    "type": "phrase",
-    "meaning": "coverage extension; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the coverage extension before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá coverage extension trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "coverage extension",
-      "coverage extension review",
-      "coverage extension process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "coverage"
-    ],
-    "day": 140
-  },
-  {
-    "id": "crisis-response-phrase",
-    "word": "crisis response",
-    "baseWord": "crisi",
-    "type": "phrase",
-    "meaning": "crisis response; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the crisis response before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá crisis response trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "crisis response",
-      "crisis response review",
-      "crisis response process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "crisi"
-    ],
-    "day": 140
-  },
-  {
-    "id": "damage-assessment-phrase",
-    "word": "damage assessment",
-    "baseWord": "damage",
-    "type": "phrase",
-    "meaning": "damage assessment; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the damage assessment before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá damage assessment trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "damage assessment",
-      "damage assessment review",
-      "damage assessment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "damage"
-    ],
-    "day": 140
-  },
-  {
-    "id": "disaster-recovery-phrase",
-    "word": "disaster recovery",
-    "baseWord": "disaster",
-    "type": "phrase",
-    "meaning": "disaster recovery; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the disaster recovery before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá disaster recovery trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "disaster recovery",
-      "disaster recovery review",
-      "disaster recovery process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "disaster"
-    ],
-    "day": 140
-  },
-  {
-    "id": "emergency-response-phrase",
-    "word": "emergency response",
-    "baseWord": "emergency",
-    "type": "phrase",
-    "meaning": "emergency response; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the emergency response before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá emergency response trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "emergency response",
-      "emergency response review",
-      "emergency response process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "emergency"
-    ],
-    "day": 140
-  },
-  {
-    "id": "inherent-risk-phrase",
-    "word": "inherent risk",
-    "baseWord": "inherent",
-    "type": "phrase",
-    "meaning": "inherent risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the inherent risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá inherent risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "inherent risk",
-      "inherent risk review",
-      "inherent risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "inherent"
-    ],
-    "day": 140
-  },
-  {
-    "id": "insurance-audit-phrase",
-    "word": "insurance audit",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "insurance audit; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the insurance audit before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá insurance audit trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "insurance audit",
-      "insurance audit review",
-      "insurance audit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "insurance"
-    ],
-    "day": 140
-  },
-  {
-    "id": "liability-waiver-phrase",
-    "word": "liability waiver",
-    "baseWord": "liability",
-    "type": "phrase",
-    "meaning": "liability waiver; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the liability waiver before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá liability waiver trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "liability waiver",
-      "liability waiver review",
-      "liability waiver process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "liability"
-    ],
-    "day": 140
-  },
-  {
-    "id": "loss-estimate-phrase",
-    "word": "loss estimate",
-    "baseWord": "los",
-    "type": "phrase",
-    "meaning": "loss estimate; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the loss estimate before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá loss estimate trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "loss estimate",
-      "loss estimate review",
-      "loss estimate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "los"
-    ],
-    "day": 140
-  },
-  {
-    "id": "policy-amendment-phrase",
-    "word": "policy amendment",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "policy amendment; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the policy amendment before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá policy amendment trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "policy amendment",
-      "policy amendment review",
-      "policy amendment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 140
-  },
-  {
-    "id": "premium-adjustment-phrase",
-    "word": "premium adjustment",
-    "baseWord": "premium",
-    "type": "phrase",
-    "meaning": "premium adjustment; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the premium adjustment before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá premium adjustment trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "premium adjustment",
-      "premium adjustment review",
-      "premium adjustment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "premium"
-    ],
-    "day": 140
-  },
-  {
-    "id": "residual-risk-phrase",
-    "word": "residual risk",
-    "baseWord": "residual",
-    "type": "phrase",
-    "meaning": "residual risk; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the residual risk before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá residual risk trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "residual risk",
-      "residual risk review",
-      "residual risk process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "residual"
-    ],
-    "day": 140
-  },
-  {
-    "id": "risk-advisory-phrase",
-    "word": "risk advisory",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk advisory; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk advisory before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk advisory trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk advisory",
-      "risk advisory review",
-      "risk advisory process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 140
-  },
-  {
-    "id": "risk-appetite-phrase",
-    "word": "risk appetite",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk appetite; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the report before the end of the day.",
+    "exampleVi": "Nhom can fill out the report truoc cuoi ngay.",
+    "collocations": [
+      "fill out the report",
+      "fill out the report today",
+      "fill out the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "fill-out-the-request-phrasal",
+    "word": "fill out the request",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the request",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the request before the end of the day.",
+    "exampleVi": "Nhom can fill out the request truoc cuoi ngay.",
+    "collocations": [
+      "fill out the request",
+      "fill out the request today",
+      "fill out the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "fill-out-the-schedule-phrasal",
+    "word": "fill out the schedule",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the schedule",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the schedule before the end of the day.",
+    "exampleVi": "Nhom can fill out the schedule truoc cuoi ngay.",
+    "collocations": [
+      "fill out the schedule",
+      "fill out the schedule today",
+      "fill out the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "fill-out-the-shipment-phrasal",
+    "word": "fill out the shipment",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the shipment",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the shipment before the end of the day.",
+    "exampleVi": "Nhom can fill out the shipment truoc cuoi ngay.",
+    "collocations": [
+      "fill out the shipment",
+      "fill out the shipment today",
+      "fill out the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "turn-down-the-deadline-phrasal",
+    "word": "turn down the deadline",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the deadline",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the deadline before the end of the day.",
+    "exampleVi": "Nhom can turn down the deadline truoc cuoi ngay.",
+    "collocations": [
+      "turn down the deadline",
+      "turn down the deadline today",
+      "turn down the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "turn-down-the-details-phrasal",
+    "word": "turn down the details",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the details",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the details before the end of the day.",
+    "exampleVi": "Nhom can turn down the details truoc cuoi ngay.",
+    "collocations": [
+      "turn down the details",
+      "turn down the details today",
+      "turn down the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "turn-down-the-file-phrasal",
+    "word": "turn down the file",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the file",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to turn down the file before the end of the day.",
+    "exampleVi": "Nhom can turn down the file truoc cuoi ngay.",
+    "collocations": [
+      "turn down the file",
+      "turn down the file today",
+      "turn down the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "turn",
+      "down"
+    ],
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "turn-down-the-policy-phrasal",
+    "word": "turn down the policy",
+    "baseWord": "turn",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: turn down the policy",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The risk manager evaluated the risk appetite before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk appetite trước khi gia hạn hợp đồng bảo hiểm.",
+    "example": "The team needs to turn down the policy before the end of the day.",
+    "exampleVi": "Nhom can turn down the policy truoc cuoi ngay.",
     "collocations": [
-      "risk appetite",
-      "risk appetite review",
-      "risk appetite process"
+      "turn down the policy",
+      "turn down the policy today",
+      "turn down the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "risk"
+      "turn",
+      "down"
     ],
-    "day": 140
-  },
-  {
-    "id": "risk-dashboard-phrase",
-    "word": "risk dashboard",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk dashboard; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk dashboard before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk dashboard trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk dashboard",
-      "risk dashboard review",
-      "risk dashboard process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 140
-  },
-  {
-    "id": "risk-owner-phrase",
-    "word": "risk owner",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk owner; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk owner before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk owner trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk owner",
-      "risk owner review",
-      "risk owner process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 140
-  },
-  {
-    "id": "risk-threshold-phrase",
-    "word": "risk threshold",
-    "baseWord": "risk",
-    "type": "phrase",
-    "meaning": "risk threshold; thuật ngữ về bảo hiểm và quản trị rủi ro",
-    "pronunciation": "",
-    "topic": "Insurance & Risk",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The risk manager evaluated the risk threshold before renewing the policy.",
-    "exampleVi": "Quản lý rủi ro đã đánh giá risk threshold trước khi gia hạn hợp đồng bảo hiểm.",
-    "collocations": [
-      "risk threshold",
-      "risk threshold review",
-      "risk threshold process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "risk"
-    ],
-    "day": 140
+    "day": 140,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

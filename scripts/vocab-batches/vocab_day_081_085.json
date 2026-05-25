@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "sự kiểm định chất lượng, sự công nhận",
     "pronunciation": "/əˌkredɪˈteɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -29,7 +29,119 @@
       "accredit",
       "accredited"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "annual-refund-collocation",
+    "word": "annual refund",
+    "baseWord": "refund",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual refund",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual refund in the file before Friday.",
+    "exampleVi": "Vui long dua annual refund vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual refund",
+      "annual refund review",
+      "annual refund deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "refund"
+    ],
+    "day": 81,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "annual-representative-collocation",
+    "word": "annual representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual representative",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual representative in the file before Friday.",
+    "exampleVi": "Vui long dua annual representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual representative",
+      "annual representative review",
+      "annual representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "representative"
+    ],
+    "day": 81,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-warranty-collocation",
+    "word": "annual warranty",
+    "baseWord": "warranty",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual warranty",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual warranty in the file before Friday.",
+    "exampleVi": "Vui long dua annual warranty vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual warranty",
+      "annual warranty review",
+      "annual warranty deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "warranty"
+    ],
+    "day": 81,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "apprentice-noun",
@@ -38,7 +150,7 @@
     "type": "noun",
     "meaning": "người học việc, thực tập sinh",
     "pronunciation": "/əˈprentɪs/",
-    "topic": "Training & Professional Development",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -61,7 +173,11 @@
       "apprentices",
       "apprenticed"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "certification-noun",
@@ -70,7 +186,7 @@
     "type": "noun",
     "meaning": "chứng chỉ, giấy chứng nhận",
     "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -94,38 +210,11 @@
       "certified",
       "certificate"
     ],
-    "day": 81
-  },
-  {
-    "id": "commercial-agenda-phrase",
-    "word": "commercial agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: commercial agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the commercial agenda before the next business day.",
-    "exampleVi": "Vui long xem lai commercial agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "commercial agenda",
-      "commercial agenda process",
-      "commercial agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "credential-noun",
@@ -134,7 +223,7 @@
     "type": "noun",
     "meaning": "bằng cấp, chứng chỉ",
     "pronunciation": "/krɪˈdenʃəl/",
-    "topic": "Training & Professional Development",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -157,7 +246,11 @@
       "credentials",
       "credentialed"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "curriculum-noun",
@@ -166,7 +259,7 @@
     "type": "noun",
     "meaning": "chương trình giảng dạy",
     "pronunciation": "/kəˈrɪkjʊləm/",
-    "topic": "Training & Professional Development",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -189,7 +282,11 @@
       "curricular",
       "extra-curricular"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "developmental-adjective",
@@ -198,7 +295,7 @@
     "type": "adjective",
     "meaning": "thuộc về phát triển",
     "pronunciation": "/dɪˌveləpˈmentl/",
-    "topic": "Training & Professional Development",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -221,7 +318,11 @@
       "development",
       "developer"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "e-learning-noun",
@@ -230,7 +331,7 @@
     "type": "noun",
     "meaning": "học trực tuyến, đào tạo trực tuyến",
     "pronunciation": "/ˈiː lɜːrnɪŋ/",
-    "topic": "Training & Professional Development",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -253,7 +354,11 @@
       "learner",
       "learning"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "educator-noun",
@@ -262,7 +367,7 @@
     "type": "noun",
     "meaning": "nhà giáo dục, người làm công tác giảng dạy",
     "pronunciation": "/ˈedʒukeɪtər/",
-    "topic": "Training & Professional Development",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -285,7 +390,11 @@
       "education",
       "educational"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "enrich-verb",
@@ -294,7 +403,7 @@
     "type": "verb",
     "meaning": "làm phong phú, nâng cao",
     "pronunciation": "/ɪnˈrɪtʃ/",
-    "topic": "Training & Professional Development",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -318,7 +427,11 @@
       "enriched",
       "enriching"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "hands-on-adjective",
@@ -327,7 +440,7 @@
     "type": "adjective",
     "meaning": "thực hành, thực tiễn",
     "pronunciation": "/ˌhændz ˈɒn/",
-    "topic": "Training & Professional Development",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -352,7 +465,11 @@
       "experiential",
       "active learning"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "instruct-verb",
@@ -361,7 +478,7 @@
     "type": "verb",
     "meaning": "hướng dẫn, chỉ dạy",
     "pronunciation": "/ɪnˈstrʌkt/",
-    "topic": "Training & Professional Development",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -385,7 +502,11 @@
       "instructor",
       "instructional"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "instructional-adjective",
@@ -394,7 +515,7 @@
     "type": "adjective",
     "meaning": "thuộc về hướng dẫn, giảng dạy",
     "pronunciation": "/ɪnˈstrʌkʃənl/",
-    "topic": "Training & Professional Development",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -417,7 +538,11 @@
       "instruction",
       "instructor"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "instructive-adjective",
@@ -426,7 +551,7 @@
     "type": "adjective",
     "meaning": "mang tính hướng dẫn, bổ ích",
     "pronunciation": "/ɪnˈstrʌktɪv/",
-    "topic": "Training & Professional Development",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -451,7 +576,11 @@
       "instructor",
       "instructively"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "mentee-noun",
@@ -460,7 +589,7 @@
     "type": "noun",
     "meaning": "người được hướng dẫn, người được cố vấn",
     "pronunciation": "/menˈtiː/",
-    "topic": "Training & Professional Development",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -483,7 +612,11 @@
       "mentorship",
       "mentoring"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "pedagogical-adjective",
@@ -492,7 +625,7 @@
     "type": "adjective",
     "meaning": "thuộc về sư phạm",
     "pronunciation": "/ˌpedəˈɡɑːdʒɪkl/",
-    "topic": "Training & Professional Development",
+    "topic": "Purchasing & Procurement",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -513,38 +646,11 @@
       "pedagogy",
       "pedagogue"
     ],
-    "day": 81
-  },
-  {
-    "id": "priority-agenda-phrase",
-    "word": "priority agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: priority agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the priority agenda before the next business day.",
-    "exampleVi": "Vui long xem lai priority agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "priority agenda",
-      "priority agenda process",
-      "priority agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "retraining-noun",
@@ -553,7 +659,7 @@
     "type": "noun",
     "meaning": "sự đào tạo lại, tái đào tạo",
     "pronunciation": "/ˌriːˈtreɪnɪŋ/",
-    "topic": "Training & Professional Development",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -576,7 +682,11 @@
       "retrained",
       "retraining"
     ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "shadow-verb",
@@ -585,7 +695,7 @@
     "type": "verb",
     "meaning": "đi theo học việc, quan sát thực tế",
     "pronunciation": "/ˈʃædoʊ/",
-    "topic": "Training & Professional Development",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -608,38 +718,11 @@
       "shadowed",
       "shadowy"
     ],
-    "day": 81
-  },
-  {
-    "id": "urgent-agenda-phrase",
-    "word": "urgent agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: urgent agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the urgent agenda before the next business day.",
-    "exampleVi": "Vui long xem lai urgent agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "urgent agenda",
-      "urgent agenda process",
-      "urgent agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 81
+    "day": 81,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accredit-verb",
@@ -648,7 +731,7 @@
     "type": "verb",
     "meaning": "công nhận, cấp chứng nhận",
     "pronunciation": "/əˈkredɪt/",
-    "topic": "Training & Professional Development",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -671,7 +754,119 @@
       "accreditation",
       "accredited"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "annual-accommodation-collocation",
+    "word": "annual accommodation",
+    "baseWord": "accommodation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual accommodation",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the annual accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua annual accommodation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual accommodation",
+      "annual accommodation review",
+      "annual accommodation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "accommodation"
+    ],
+    "day": 82,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "annual-itinerary-collocation",
+    "word": "annual itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual itinerary",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua annual itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual itinerary",
+      "annual itinerary review",
+      "annual itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "itinerary"
+    ],
+    "day": 82,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "annual-reservation-collocation",
+    "word": "annual reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual reservation",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual reservation in the file before Friday.",
+    "exampleVi": "Vui long dua annual reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual reservation",
+      "annual reservation review",
+      "annual reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "reservation"
+    ],
+    "day": 82,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "aptitude-noun",
@@ -680,7 +875,7 @@
     "type": "noun",
     "meaning": "năng khiếu, khả năng",
     "pronunciation": "/ˈæptɪtjuːd/",
-    "topic": "Training & Professional Development",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -704,7 +899,11 @@
       "aptitude testing",
       "aptitudinal"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "certifiable-adjective",
@@ -713,7 +912,7 @@
     "type": "adjective",
     "meaning": "có thể chứng nhận được",
     "pronunciation": "/ˌsɜːrtɪˈfaɪəbl/",
-    "topic": "Training & Professional Development",
+    "topic": "Research & Reports",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -735,7 +934,11 @@
       "certification",
       "certified"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "competency-noun",
@@ -744,7 +947,7 @@
     "type": "noun",
     "meaning": "năng lực, khả năng",
     "pronunciation": "/ˈkɒmpɪtənsi/",
-    "topic": "Training & Professional Development",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -768,7 +971,11 @@
       "competently",
       "incompetent"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "courseware-noun",
@@ -777,7 +984,7 @@
     "type": "noun",
     "meaning": "tài liệu giảng dạy điện tử, phần mềm khóa học",
     "pronunciation": "/ˈkɔːrswer/",
-    "topic": "Training & Professional Development",
+    "topic": "Negotiations & Deals",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -798,38 +1005,11 @@
       "course",
       "courses"
     ],
-    "day": 82
-  },
-  {
-    "id": "detailed-agenda-phrase",
-    "word": "detailed agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: detailed agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the detailed agenda before the next business day.",
-    "exampleVi": "Vui long xem lai detailed agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "detailed agenda",
-      "detailed agenda process",
-      "detailed agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "educate-verb",
@@ -838,7 +1018,7 @@
     "type": "verb",
     "meaning": "giáo dục, đào tạo",
     "pronunciation": "/ˈedʒukeɪt/",
-    "topic": "Training & Professional Development",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -862,7 +1042,11 @@
       "educator",
       "educational"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "enrichment-noun",
@@ -871,7 +1055,7 @@
     "type": "noun",
     "meaning": "sự làm phong phú, sự nâng cao",
     "pronunciation": "/ɪnˈrɪtʃmənt/",
-    "topic": "Training & Professional Development",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -895,7 +1079,11 @@
       "enriching",
       "enriched"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "guidance-noun",
@@ -904,7 +1092,7 @@
     "type": "noun",
     "meaning": "sự chỉ dẫn, sự hướng dẫn",
     "pronunciation": "/ˈɡaɪdns/",
-    "topic": "Training & Professional Development",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -929,7 +1117,11 @@
       "guided",
       "guideline"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "instructively-adverb",
@@ -938,7 +1130,7 @@
     "type": "adverb",
     "meaning": "một cách có tính hướng dẫn, bổ ích",
     "pronunciation": "/ɪnˈstrʌktɪvli/",
-    "topic": "Training & Professional Development",
+    "topic": "Email & Correspondence",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -959,7 +1151,11 @@
       "instruction",
       "instructive"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "intern-noun",
@@ -968,7 +1164,7 @@
     "type": "noun",
     "meaning": "thực tập sinh",
     "pronunciation": "/ˈɪntɜːrn/",
-    "topic": "Training & Professional Development",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -992,7 +1188,11 @@
       "interned",
       "interning"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "novice-noun",
@@ -1001,7 +1201,7 @@
     "type": "noun",
     "meaning": "người mới, người bắt đầu",
     "pronunciation": "/ˈnɑːvɪs/",
-    "topic": "Training & Professional Development",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1025,7 +1225,11 @@
       "noviceing",
       "noviceed"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "practicum-noun",
@@ -1034,7 +1238,7 @@
     "type": "noun",
     "meaning": "khóa thực hành, kỳ thực tập thực tế",
     "pronunciation": "/ˈpræktɪkəm/",
-    "topic": "Training & Professional Development",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1056,69 +1260,11 @@
       "practical",
       "practitioner"
     ],
-    "day": 82
-  },
-  {
-    "id": "preliminary-agenda-phrase",
-    "word": "preliminary agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: preliminary agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the preliminary agenda before the next business day.",
-    "exampleVi": "Vui long xem lai preliminary agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "preliminary agenda",
-      "preliminary agenda process",
-      "preliminary agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 82
-  },
-  {
-    "id": "routine-agenda-phrase",
-    "word": "routine agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: routine agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the routine agenda before the next business day.",
-    "exampleVi": "Vui long xem lai routine agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "routine agenda",
-      "routine agenda process",
-      "routine agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "simulation-noun",
@@ -1127,7 +1273,7 @@
     "type": "noun",
     "meaning": "mô phỏng",
     "pronunciation": "/ˌsɪmjʊˈleɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1151,7 +1297,11 @@
       "simulated",
       "simulator"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "specialize-verb",
@@ -1160,7 +1310,7 @@
     "type": "verb",
     "meaning": "chuyên môn hóa",
     "pronunciation": "/ˈspeʃəlaɪz/",
-    "topic": "Training & Professional Development",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1184,7 +1334,11 @@
       "specialist",
       "specialized"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "tutorial-noun",
@@ -1193,7 +1347,7 @@
     "type": "noun",
     "meaning": "bài hướng dẫn",
     "pronunciation": "/tjuːˈtɔːriəl/",
-    "topic": "Training & Professional Development",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1216,7 +1370,11 @@
       "tutorials",
       "tutor"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "upskill-verb",
@@ -1225,7 +1383,7 @@
     "type": "verb",
     "meaning": "nâng cao kỹ năng",
     "pronunciation": "/ʌpˈskɪl/",
-    "topic": "Training & Professional Development",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1249,7 +1407,11 @@
       "upskilled",
       "upskilling"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "webinar-noun",
@@ -1258,7 +1420,7 @@
     "type": "noun",
     "meaning": "hội thảo trực tuyến",
     "pronunciation": "/ˈwebɪnɑːr/",
-    "topic": "Training & Professional Development",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1283,7 +1445,11 @@
       "webinar-based",
       "webinar host"
     ],
-    "day": 82
+    "day": 82,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "academic-adjective",
@@ -1292,7 +1458,7 @@
     "type": "adjective",
     "meaning": "thuộc học thuật, lý thuyết",
     "pronunciation": "/ˌækəˈdemɪk/",
-    "topic": "Training & Professional Development",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1316,7 +1482,11 @@
       "academically",
       "academics"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "accredited-adjective",
@@ -1325,7 +1495,7 @@
     "type": "adjective",
     "meaning": "được công nhận, được chứng nhận",
     "pronunciation": "/əˈkredɪtɪd/",
-    "topic": "Training & Professional Development",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1348,7 +1518,11 @@
       "accredit",
       "accreditation"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "alumni-noun",
@@ -1357,7 +1531,7 @@
     "type": "noun",
     "meaning": "cựu sinh viên, cựu học viên",
     "pronunciation": "/əˈlʌmnaɪ/",
-    "topic": "Training & Professional Development",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1377,7 +1551,155 @@
       "alumnus",
       "alumna"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-campaign-collocation",
+    "word": "annual campaign",
+    "baseWord": "campaign",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual campaign",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual campaign in the file before Friday.",
+    "exampleVi": "Vui long dua annual campaign vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual campaign",
+      "annual campaign review",
+      "annual campaign deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "campaign"
+    ],
+    "day": 83,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "annual-conference-collocation",
+    "word": "annual conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual conference",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual conference in the file before Friday.",
+    "exampleVi": "Vui long dua annual conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual conference",
+      "annual conference review",
+      "annual conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "conference"
+    ],
+    "day": 83,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "annual-presentation-collocation",
+    "word": "annual presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual presentation",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual presentation in the file before Friday.",
+    "exampleVi": "Vui long dua annual presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual presentation",
+      "annual presentation review",
+      "annual presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "presentation"
+    ],
+    "day": 83,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "annual-venue-collocation",
+    "word": "annual venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual venue",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the annual venue in the file before Friday.",
+    "exampleVi": "Vui long dua annual venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual venue",
+      "annual venue review",
+      "annual venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "venue"
+    ],
+    "day": 83,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "apprenticeship-noun",
@@ -1386,7 +1708,7 @@
     "type": "noun",
     "meaning": "thời gian học việc, chương trình học nghề",
     "pronunciation": "/əˈprentɪsʃɪp/",
-    "topic": "Training & Professional Development",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1408,7 +1730,11 @@
       "apprentice",
       "apprentices"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "attainment-noun",
@@ -1417,7 +1743,7 @@
     "type": "noun",
     "meaning": "sự đạt được, thành tựu",
     "pronunciation": "/əˈteɪnmənt/",
-    "topic": "Training & Professional Development",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1441,38 +1767,11 @@
       "attainable",
       "unattainable"
     ],
-    "day": 83
-  },
-  {
-    "id": "comprehensive-agenda-phrase",
-    "word": "comprehensive agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: comprehensive agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the comprehensive agenda before the next business day.",
-    "exampleVi": "Vui long xem lai comprehensive agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "comprehensive agenda",
-      "comprehensive agenda process",
-      "comprehensive agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "equip-verb",
@@ -1481,7 +1780,7 @@
     "type": "verb",
     "meaning": "trang bị",
     "pronunciation": "/ɪˈkwɪp/",
-    "topic": "Training & Professional Development",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1505,7 +1804,11 @@
       "equipped",
       "equipping"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "fellowship-noun",
@@ -1514,7 +1817,7 @@
     "type": "noun",
     "meaning": "học bổng nghiên cứu, hội học thuật",
     "pronunciation": "/ˈfeloʊʃɪp/",
-    "topic": "Training & Professional Development",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1535,38 +1838,11 @@
       "fellows",
       "fellowship"
     ],
-    "day": 83
-  },
-  {
-    "id": "final-agenda-phrase",
-    "word": "final agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: final agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the final agenda before the next business day.",
-    "exampleVi": "Vui long xem lai final agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "final agenda",
-      "final agenda process",
-      "final agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "instructorship-noun",
@@ -1575,7 +1851,7 @@
     "type": "noun",
     "meaning": "cương vị giảng viên, chức vụ người hướng dẫn",
     "pronunciation": "/ɪnˈstrʌktərʃɪp/",
-    "topic": "Training & Professional Development",
+    "topic": "Finance & Banking",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1596,7 +1872,11 @@
       "instruction",
       "instructor"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "lecture-noun",
@@ -1605,7 +1885,7 @@
     "type": "noun",
     "meaning": "bài thuyết trình, bài giảng",
     "pronunciation": "/ˈlektʃər/",
-    "topic": "Training & Professional Development",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1630,7 +1910,11 @@
       "lectured",
       "lecturing"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "lecturer-noun",
@@ -1639,7 +1923,7 @@
     "type": "noun",
     "meaning": "giảng viên, thuyết trình viên",
     "pronunciation": "/ˈlektʃərər/",
-    "topic": "Training & Professional Development",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1663,69 +1947,11 @@
       "lectured",
       "lecturing"
     ],
-    "day": 83
-  },
-  {
-    "id": "mandatory-agenda-phrase",
-    "word": "mandatory agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: mandatory agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the mandatory agenda before the next business day.",
-    "exampleVi": "Vui long xem lai mandatory agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "mandatory agenda",
-      "mandatory agenda process",
-      "mandatory agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 83
-  },
-  {
-    "id": "optional-agenda-phrase",
-    "word": "optional agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: optional agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the optional agenda before the next business day.",
-    "exampleVi": "Vui long xem lai optional agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "optional agenda",
-      "optional agenda process",
-      "optional agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "practitioner-noun",
@@ -1734,7 +1960,7 @@
     "type": "noun",
     "meaning": "người hành nghề, chuyên gia",
     "pronunciation": "/prækˈtɪʃənər/",
-    "topic": "Training & Professional Development",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1757,7 +1983,11 @@
       "practiced",
       "practices"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "prerequisite-noun",
@@ -1766,7 +1996,7 @@
     "type": "noun",
     "meaning": "điều kiện tiên quyết",
     "pronunciation": "/priːˈrekwɪzɪt/",
-    "topic": "Training & Professional Development",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1790,7 +2020,11 @@
       "pre-requisite",
       "requisite"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "recertify-verb",
@@ -1799,7 +2033,7 @@
     "type": "verb",
     "meaning": "cấp lại chứng chỉ, gia hạn chứng nhận",
     "pronunciation": "/ˌriːˈsɜːrtɪfaɪ/",
-    "topic": "Training & Professional Development",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1822,7 +2056,11 @@
       "certification",
       "recertified"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "refresher-noun",
@@ -1831,7 +2069,7 @@
     "type": "noun",
     "meaning": "khóa bổ túc, bài ôn tập",
     "pronunciation": "/rɪˈfreʃər/",
-    "topic": "Training & Professional Development",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1854,7 +2092,11 @@
       "refresh",
       "refreshed"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "scholarship-noun",
@@ -1863,7 +2105,7 @@
     "type": "noun",
     "meaning": "học bổng",
     "pronunciation": "/ˈskɑːlərʃɪp/",
-    "topic": "Training & Professional Development",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1885,7 +2127,11 @@
       "scholar",
       "scholarly"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "tutor-noun",
@@ -1894,7 +2140,7 @@
     "type": "noun",
     "meaning": "gia sư, người dạy kèm",
     "pronunciation": "/ˈtuːtər/",
-    "topic": "Training & Professional Development",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1917,7 +2163,11 @@
       "tutorials",
       "tutors"
     ],
-    "day": 83
+    "day": 83,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "academy-noun",
@@ -1926,7 +2176,7 @@
     "type": "noun",
     "meaning": "học viện, trung tâm đào tạo chuyên ngành",
     "pronunciation": "/əˈkædəmi/",
-    "topic": "Training & Professional Development",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1950,7 +2200,83 @@
       "academically",
       "academics"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "annual-advertisement-collocation",
+    "word": "annual advertisement",
+    "baseWord": "advertisement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual advertisement",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua annual advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual advertisement",
+      "annual advertisement review",
+      "annual advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "advertisement"
+    ],
+    "day": 84,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "annual-brochure-collocation",
+    "word": "annual brochure",
+    "baseWord": "brochure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual brochure",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the annual brochure in the file before Friday.",
+    "exampleVi": "Vui long dua annual brochure vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual brochure",
+      "annual brochure review",
+      "annual brochure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "brochure"
+    ],
+    "day": 84,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "assessor-noun",
@@ -1959,7 +2285,7 @@
     "type": "noun",
     "meaning": "người đánh giá, giám định viên",
     "pronunciation": "/əˈsesər/",
-    "topic": "Training & Professional Development",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1982,7 +2308,11 @@
       "assessment",
       "assessed"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "capstone-noun",
@@ -1991,7 +2321,7 @@
     "type": "noun",
     "meaning": "đồ án tốt nghiệp, khóa luận cuối khóa",
     "pronunciation": "/ˈkæpstoʊn/",
-    "topic": "Training & Professional Development",
+    "topic": "Quality & Standards",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2013,7 +2343,11 @@
       "capstoneing",
       "capstoneed"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "coaching-noun",
@@ -2022,7 +2356,7 @@
     "type": "noun",
     "meaning": "sự huấn luyện, chỉ dẫn",
     "pronunciation": "/ˈkoʊtʃɪŋ/",
-    "topic": "Training & Professional Development",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2046,7 +2380,11 @@
       "coached",
       "coaches"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "cognition-noun",
@@ -2055,7 +2393,7 @@
     "type": "noun",
     "meaning": "nhận thức, quá trình tư duy",
     "pronunciation": "/kɑːɡˈnɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Environment & Sustainability",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2078,7 +2416,11 @@
       "cognitively",
       "cognizable"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "cognitive-adjective",
@@ -2087,7 +2429,7 @@
     "type": "adjective",
     "meaning": "thuộc về nhận thức, tư duy",
     "pronunciation": "/ˈkɑːɡnətɪv/",
-    "topic": "Training & Professional Development",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2109,38 +2451,11 @@
       "cognition",
       "cognitively"
     ],
-    "day": 84
-  },
-  {
-    "id": "confidential-agenda-phrase",
-    "word": "confidential agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: confidential agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the confidential agenda before the next business day.",
-    "exampleVi": "Vui long xem lai confidential agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "confidential agenda",
-      "confidential agenda process",
-      "confidential agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "credentialed-adjective",
@@ -2149,7 +2464,7 @@
     "type": "adjective",
     "meaning": "có đầy đủ bằng cấp, chứng nhận",
     "pronunciation": "/krɪˈdenʃəld/",
-    "topic": "Training & Professional Development",
+    "topic": "Global Trade",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2172,38 +2487,11 @@
       "credential",
       "credentials"
     ],
-    "day": 84
-  },
-  {
-    "id": "electronic-agenda-phrase",
-    "word": "electronic agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: electronic agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the electronic agenda before the next business day.",
-    "exampleVi": "Vui long xem lai electronic agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "electronic agenda",
-      "electronic agenda process",
-      "electronic agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "enroll-verb",
@@ -2212,7 +2500,7 @@
     "type": "verb",
     "meaning": "đăng ký, ghi danh (học)",
     "pronunciation": "/ɪnˈroʊl/",
-    "topic": "Training & Professional Development",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2237,7 +2525,11 @@
       "enrolled",
       "enrollee"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "enrollment-noun",
@@ -2246,7 +2538,7 @@
     "type": "noun",
     "meaning": "sự đăng ký, ghi danh",
     "pronunciation": "/ɪnˈroʊlmənt/",
-    "topic": "Training & Professional Development",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2270,7 +2562,11 @@
       "enrolled",
       "enrollee"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "matriculate-verb",
@@ -2279,7 +2575,7 @@
     "type": "verb",
     "meaning": "nhập học, ghi tên vào đại học",
     "pronunciation": "/məˈtrɪkjuleɪt/",
-    "topic": "Training & Professional Development",
+    "topic": "Email & Correspondence",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2299,7 +2595,11 @@
       "matriculation",
       "matriculated"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "matriculation-noun",
@@ -2308,7 +2608,7 @@
     "type": "noun",
     "meaning": "sự nhập học, lễ khai giảng",
     "pronunciation": "/məˌtrɪkjuˈleɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Data & Analysis",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2329,7 +2629,11 @@
       "matriculate",
       "matriculated"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "module-noun",
@@ -2338,7 +2642,7 @@
     "type": "noun",
     "meaning": "mô-đun, phần học",
     "pronunciation": "/ˈmɒdjuːl/",
-    "topic": "Training & Professional Development",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2361,7 +2665,11 @@
       "modules",
       "modular"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "pedagogy-noun",
@@ -2370,7 +2678,7 @@
     "type": "noun",
     "meaning": "phương pháp sư phạm",
     "pronunciation": "/ˈpedəɡɒdʒi/",
-    "topic": "Training & Professional Development",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2392,7 +2700,11 @@
       "pedagogical",
       "pedagogue"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "proficiently-adverb",
@@ -2401,7 +2713,7 @@
     "type": "adverb",
     "meaning": "một cách thành thạo",
     "pronunciation": "/prəˈfɪʃəntli/",
-    "topic": "Training & Professional Development",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2423,7 +2735,11 @@
       "proficient",
       "proficiency"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "skillset-noun",
@@ -2432,7 +2748,7 @@
     "type": "noun",
     "meaning": "bộ kỹ năng",
     "pronunciation": "/ˈskɪlset/",
-    "topic": "Training & Professional Development",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2455,7 +2771,11 @@
       "skill",
       "skilled"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "specialization-noun",
@@ -2464,7 +2784,7 @@
     "type": "noun",
     "meaning": "sự chuyên môn hóa, chuyên ngành",
     "pronunciation": "/ˌspeʃəlaɪˈzeɪʃən/",
-    "topic": "Training & Professional Development",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2488,7 +2808,11 @@
       "specialized",
       "specialty"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "specialty-noun",
@@ -2497,7 +2821,7 @@
     "type": "noun",
     "meaning": "chuyên khoa, lĩnh vực chuyên môn",
     "pronunciation": "/ˈspeʃəlti/",
-    "topic": "Training & Professional Development",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2519,7 +2843,11 @@
       "specialize",
       "specialized"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "symposium-noun",
@@ -2528,7 +2856,7 @@
     "type": "noun",
     "meaning": "hội nghị chuyên đề",
     "pronunciation": "/sɪmˈpoʊziəm/",
-    "topic": "Training & Professional Development",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2550,7 +2878,11 @@
       "symposia",
       "symposiums"
     ],
-    "day": 84
+    "day": 84,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "advancement-noun",
@@ -2559,7 +2891,7 @@
     "type": "noun",
     "meaning": "sự tiến bộ, sự thăng tiến",
     "pronunciation": "/ədˈvænsmənt/",
-    "topic": "Training & Professional Development",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2583,39 +2915,222 @@
       "advanced",
       "advancing"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "career path-phrase",
-    "word": "career path",
-    "baseWord": "career path",
+    "id": "annual-catalog-collocation",
+    "word": "annual catalog",
+    "baseWord": "catalog",
     "type": "phrase",
-    "meaning": "con đường sự nghiệp, lộ trình sự nghiệp",
-    "pronunciation": "/kəˈrɪr pæθ/",
-    "topic": "Training & Professional Development",
+    "meaning": "collocation TOEIC 700: annual catalog",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "The HR manager helped him plan a clear career path within the firm.",
-    "exampleVi": "Quản lý nhân sự đã giúp anh ấy vạch ra một lộ trình sự nghiệp rõ ràng trong công ty.",
+    "example": "Please include the annual catalog in the file before Friday.",
+    "exampleVi": "Vui long dua annual catalog vao ho so truoc thu Sau.",
     "collocations": [
-      "clear career path",
-      "choose a career path",
-      "career path options"
+      "annual catalog",
+      "annual catalog review",
+      "annual catalog deadline"
     ],
     "synonyms": [
-      "career track",
-      "career trajectory"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "career paths",
-      "career pathing",
-      "career pathed"
+      "annual",
+      "catalog"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "annual-discount-collocation",
+    "word": "annual discount",
+    "baseWord": "discount",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual discount",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual discount in the file before Friday.",
+    "exampleVi": "Vui long dua annual discount vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual discount",
+      "annual discount review",
+      "annual discount deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "discount"
+    ],
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-inventory-collocation",
+    "word": "annual inventory",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual inventory",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual inventory in the file before Friday.",
+    "exampleVi": "Vui long dua annual inventory vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual inventory",
+      "annual inventory review",
+      "annual inventory deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "inventory"
+    ],
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "annual-supplier-collocation",
+    "word": "annual supplier",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual supplier",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual supplier in the file before Friday.",
+    "exampleVi": "Vui long dua annual supplier vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual supplier",
+      "annual supplier review",
+      "annual supplier deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "supplier"
+    ],
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "annual-vendor-collocation",
+    "word": "annual vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual vendor",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual vendor in the file before Friday.",
+    "exampleVi": "Vui long dua annual vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual vendor",
+      "annual vendor review",
+      "annual vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "vendor"
+    ],
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "annual-warehouse-collocation",
+    "word": "annual warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual warehouse",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua annual warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual warehouse",
+      "annual warehouse review",
+      "annual warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "warehouse"
+    ],
+    "day": 85,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "cultivate-verb",
@@ -2624,7 +3139,7 @@
     "type": "verb",
     "meaning": "trau dồi, phát triển",
     "pronunciation": "/ˈkʌltɪveɪt/",
-    "topic": "Training & Professional Development",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2647,38 +3162,11 @@
       "cultivation",
       "cultivated"
     ],
-    "day": 85
-  },
-  {
-    "id": "distance learning-phrase",
-    "word": "distance learning",
-    "baseWord": "distance learning",
-    "type": "phrase",
-    "meaning": "học từ xa, đào tạo từ xa",
-    "pronunciation": "/ˈdɪstəns ˈlɜːrnɪŋ/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Distance learning programs are ideal for employees who travel frequently.",
-    "exampleVi": "Các chương trình học từ xa là lý tưởng cho các nhân viên phải đi công tác thường xuyên.",
-    "collocations": [
-      "distance learning programs",
-      "online distance learning"
-    ],
-    "synonyms": [
-      "remote learning",
-      "online education"
-    ],
-    "wordFamily": [
-      "distance learnings",
-      "distance learninging",
-      "distance learninged"
-    ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "educative-adjective",
@@ -2687,7 +3175,7 @@
     "type": "adjective",
     "meaning": "có tính giáo dục, mang tính truyền đạt",
     "pronunciation": "/ˈedʒukeɪtɪv/",
-    "topic": "Training & Professional Development",
+    "topic": "Customer Service",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2711,7 +3199,11 @@
       "educational",
       "educator"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "empower-verb",
@@ -2720,7 +3212,7 @@
     "type": "verb",
     "meaning": "trao quyền, tiếp sức",
     "pronunciation": "/ɪmˈpaʊər/",
-    "topic": "Training & Professional Development",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2744,7 +3236,11 @@
       "empowered",
       "empowering"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "empowerment-noun",
@@ -2753,7 +3249,7 @@
     "type": "noun",
     "meaning": "sự trao quyền, sự làm cho tự chủ",
     "pronunciation": "/ɪmˈpaʊərmənt/",
-    "topic": "Training & Professional Development",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2776,7 +3272,11 @@
       "empowered",
       "empowering"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "knowledgeable-adjective",
@@ -2785,7 +3285,7 @@
     "type": "adjective",
     "meaning": "hiểu biết, có kiến thức",
     "pronunciation": "/ˈnɒlɪdʒəbəl/",
-    "topic": "Training & Professional Development",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2808,7 +3308,11 @@
       "knowledge",
       "knowledgeably"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "peer-noun",
@@ -2817,7 +3321,7 @@
     "type": "noun",
     "meaning": "đồng nghiệp cùng cấp, bạn đồng trang lứa",
     "pronunciation": "/pɪr/",
-    "topic": "Training & Professional Development",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2841,69 +3345,11 @@
       "peers",
       "peer (v.)"
     ],
-    "day": 85
-  },
-  {
-    "id": "printed-agenda-phrase",
-    "word": "printed agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve training & professional development: printed agenda",
-    "pronunciation": "",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the printed agenda before the next business day.",
-    "exampleVi": "Vui long xem lai printed agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "printed agenda",
-      "printed agenda process",
-      "printed agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 85
-  },
-  {
-    "id": "professional growth-phrase",
-    "word": "professional growth",
-    "baseWord": "professional growth",
-    "type": "phrase",
-    "meaning": "sự phát triển chuyên môn, phát triển nghề nghiệp",
-    "pronunciation": "/prəˈfeʃənl ɡroʊθ/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Our company supports professional growth through tuition reimbursement.",
-    "exampleVi": "Công ty chúng tôi hỗ trợ sự phát triển chuyên môn thông qua hoàn trả học phí.",
-    "collocations": [
-      "support professional growth",
-      "professional growth opportunities"
-    ],
-    "synonyms": [
-      "career development",
-      "professional development"
-    ],
-    "wordFamily": [
-      "professional growths",
-      "professional growthing",
-      "professional growthed"
-    ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "retrain-verb",
@@ -2912,7 +3358,7 @@
     "type": "verb",
     "meaning": "đào tạo lại",
     "pronunciation": "/riːˈtreɪn/",
-    "topic": "Training & Professional Development",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2936,7 +3382,11 @@
       "retraining",
       "retrained"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "self-paced-adjective",
@@ -2945,7 +3395,7 @@
     "type": "adjective",
     "meaning": "tự học theo tiến độ cá nhân",
     "pronunciation": "/ˌself ˈpeɪst/",
-    "topic": "Training & Professional Development",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2969,38 +3419,11 @@
       "self-paceding",
       "self-paceded"
     ],
-    "day": 85
-  },
-  {
-    "id": "skill development-phrase",
-    "word": "skill development",
-    "baseWord": "skill development",
-    "type": "phrase",
-    "meaning": "sự phát triển kỹ năng",
-    "pronunciation": "/skɪl dɪˈveləpmənt/",
-    "topic": "Training & Professional Development",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The workshop focuses on team building and skill development.",
-    "exampleVi": "Hội thảo tập trung vào xây dựng đội ngũ và phát triển kỹ năng.",
-    "collocations": [
-      "focus on skill development",
-      "skill development workshop"
-    ],
-    "synonyms": [
-      "skill acquisition",
-      "training"
-    ],
-    "wordFamily": [
-      "skill developments",
-      "skill developmenting",
-      "skill developmented"
-    ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "skillful-adjective",
@@ -3009,7 +3432,7 @@
     "type": "adjective",
     "meaning": "khéo léo, tài giỏi, lành nghề",
     "pronunciation": "/ˈskɪlfl/",
-    "topic": "Training & Professional Development",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3033,7 +3456,11 @@
       "skillfully",
       "skillfulness"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "studious-adjective",
@@ -3042,7 +3469,7 @@
     "type": "adjective",
     "meaning": "chăm học, siêng năng nghiên cứu",
     "pronunciation": "/ˈstuːdiəs/",
-    "topic": "Training & Professional Development",
+    "topic": "Manufacturing & Production",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -3065,7 +3492,11 @@
       "studies",
       "studiously"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "syllabus-noun",
@@ -3074,7 +3505,7 @@
     "type": "noun",
     "meaning": "đề cương, chương trình học",
     "pronunciation": "/ˈsɪləbəs/",
-    "topic": "Training & Professional Development",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3097,38 +3528,11 @@
       "syllabuses",
       "syllabus-like"
     ],
-    "day": 85
-  },
-  {
-    "id": "tuition reimbursement-phrase",
-    "word": "tuition reimbursement",
-    "baseWord": "tuition reimbursement",
-    "type": "phrase",
-    "meaning": "sự hỗ trợ học phí, hoàn trả học phí",
-    "pronunciation": "/tuːˈɪʃən ˌriːɪmˈbɜːrsmənt/",
-    "topic": "Training & Professional Development",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The firm offers tuition reimbursement for job-related university courses.",
-    "exampleVi": "Công ty cung cấp hoàn trả học phí cho các khóa học đại học liên quan đến công việc.",
-    "collocations": [
-      "tuition reimbursement policy",
-      "offer tuition reimbursement"
-    ],
-    "synonyms": [
-      "educational assistance",
-      "tuition support"
-    ],
-    "wordFamily": [
-      "tuition reimbursements",
-      "tuition reimbursementing",
-      "tuition reimbursemented"
-    ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "understudy-noun",
@@ -3137,7 +3541,7 @@
     "type": "noun",
     "meaning": "người dự bị, người thay thế",
     "pronunciation": "/ˈʌndərstʌdi/",
-    "topic": "Training & Professional Development",
+    "topic": "Technology & IT",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -3160,7 +3564,11 @@
       "understudying",
       "understudied"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "vocational-adjective",
@@ -3169,7 +3577,7 @@
     "type": "adjective",
     "meaning": "thuộc về hướng nghiệp, dạy nghề",
     "pronunciation": "/voʊˈkeɪʃənl/",
-    "topic": "Training & Professional Development",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3192,6 +3600,10 @@
       "vocation",
       "vocations"
     ],
-    "day": 85
+    "day": 85,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

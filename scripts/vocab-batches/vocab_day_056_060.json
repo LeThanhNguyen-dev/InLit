@@ -1,40 +1,12 @@
 [
   {
-    "id": "available-room-phrase",
-    "word": "available room",
-    "baseWord": "room",
-    "type": "phrase",
-    "meaning": "phòng còn trống",
-    "pronunciation": "/available room/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the available room carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phòng còn trống cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm available room",
-      "available room details",
-      "review available room"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "room"
-    ],
-    "day": 56
-  },
-  {
     "id": "bellhop-noun",
     "word": "bellhop",
     "baseWord": "bellhop",
     "type": "noun",
     "meaning": "nhân viên hành lý",
     "pronunciation": "/bellhop/",
-    "topic": "Hospitality & Dining",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -53,268 +25,55 @@
     "wordFamily": [
       "bellhop"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "check-in-time-phrase",
-    "word": "check-in time",
-    "baseWord": "time",
-    "type": "phrase",
-    "meaning": "giờ nhận phòng",
-    "pronunciation": "/check-in time/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the check-in time carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giờ nhận phòng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm check-in time",
-      "check-in time details",
-      "review check-in time"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "time"
-    ],
-    "day": 56
-  },
-  {
-    "id": "checkout-procedure-phrase",
-    "word": "checkout procedure",
-    "baseWord": "procedure",
-    "type": "phrase",
-    "meaning": "thủ tục trả phòng",
-    "pronunciation": "/checkout procedure/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the checkout procedure carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thủ tục trả phòng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm checkout procedure",
-      "checkout procedure details",
-      "review checkout procedure"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "procedure"
-    ],
-    "day": 56
-  },
-  {
-    "id": "complimentary-breakfast-phrase",
-    "word": "complimentary breakfast",
-    "baseWord": "breakfast",
-    "type": "phrase",
-    "meaning": "bữa sáng miễn phí",
-    "pronunciation": "/complimentary breakfast/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the complimentary breakfast carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bữa sáng miễn phí cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm complimentary breakfast",
-      "complimentary breakfast details",
-      "review complimentary breakfast"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "breakfast"
-    ],
-    "day": 56
-  },
-  {
-    "id": "executive-suite-phrase",
-    "word": "executive suite",
-    "baseWord": "suite",
-    "type": "phrase",
-    "meaning": "phòng hạng thương gia",
-    "pronunciation": "/executive suite/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the executive suite carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phòng hạng thương gia cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm executive suite",
-      "executive suite details",
-      "review executive suite"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "suite"
-    ],
-    "day": 56
-  },
-  {
-    "id": "front-desk-noun",
-    "word": "front desk",
-    "baseWord": "desk",
+    "id": "inclusion-noun",
+    "word": "inclusion",
+    "baseWord": "inclusion",
     "type": "noun",
-    "meaning": "quầy lễ tân",
-    "pronunciation": "/front desk/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
+    "meaning": "tu vung cot loi TOEIC 700: inclusion",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
     "level": "easy",
     "partTags": [
       "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the front desk carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét quầy lễ tân cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm front desk",
-      "front desk details",
-      "review front desk"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "desk"
-    ],
-    "day": 56
-  },
-  {
-    "id": "guest-amenity-phrase",
-    "word": "guest amenity",
-    "baseWord": "amenity",
-    "type": "phrase",
-    "meaning": "tiện nghi cho khách",
-    "pronunciation": "/guest amenity/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the guest amenity carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tiện nghi cho khách cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word inclusion in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inclusion trong email cong viec.",
     "collocations": [
-      "confirm guest amenity",
-      "guest amenity details",
-      "review guest amenity"
+      "inclusion review",
+      "inclusion process",
+      "inclusion update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "amenity"
+      "inclusion"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "guest-policy-phrase",
-    "word": "guest policy",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "chính sách dành cho khách",
-    "pronunciation": "/guest policy/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the guest policy carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chính sách dành cho khách cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm guest policy",
-      "guest policy details",
-      "review guest policy"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 56
-  },
-  {
-    "id": "guest-services-agent-phrase",
-    "word": "guest services agent",
-    "baseWord": "agent",
-    "type": "phrase",
-    "meaning": "nhân viên dịch vụ khách",
-    "pronunciation": "/guest services agent/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the guest services agent carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nhân viên dịch vụ khách cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm guest services agent",
-      "guest services agent details",
-      "review guest services agent"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "agent"
-    ],
-    "day": 56
-  },
-  {
-    "id": "hospitality-staff-phrase",
-    "word": "hospitality staff",
-    "baseWord": "staff",
-    "type": "phrase",
-    "meaning": "nhân viên dịch vụ khách sạn",
-    "pronunciation": "/hospitality staff/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hospitality staff carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nhân viên dịch vụ khách sạn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hospitality staff",
-      "hospitality staff details",
-      "review hospitality staff"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "staff"
-    ],
-    "day": 56
-  },
-  {
-    "id": "in-room-dining-phrase",
-    "word": "in-room dining",
-    "baseWord": "dining",
-    "type": "phrase",
-    "meaning": "dịch vụ ăn uống tại phòng",
-    "pronunciation": "/in-room dining/",
-    "topic": "Hospitality & Dining",
+    "id": "inclusive-adjective",
+    "word": "inclusive",
+    "baseWord": "inclus",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: inclusive",
+    "pronunciation": "",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -322,195 +81,384 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the in-room dining carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dịch vụ ăn uống tại phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word inclusive in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inclusive trong email cong viec.",
     "collocations": [
-      "confirm in-room dining",
-      "in-room dining details",
-      "review in-room dining"
+      "inclusive review",
+      "inclusive process",
+      "inclusive update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "dining"
+      "inclusive"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "late-checkout-phrase",
-    "word": "late checkout",
-    "baseWord": "checkout",
-    "type": "phrase",
-    "meaning": "trả phòng muộn",
-    "pronunciation": "/late checkout/",
-    "topic": "Hospitality & Dining",
+    "id": "incompatible-adjective",
+    "word": "incompatible",
+    "baseWord": "incompat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: incompatible",
+    "pronunciation": "",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the late checkout carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trả phòng muộn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm late checkout",
-      "late checkout details",
-      "review late checkout"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "checkout"
-    ],
-    "day": 56
-  },
-  {
-    "id": "laundry-service-phrase",
-    "word": "laundry service",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "dịch vụ giặt ủi",
-    "pronunciation": "/laundry service/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the laundry service carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dịch vụ giặt ủi cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word incompatible in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu incompatible trong email cong viec.",
     "collocations": [
-      "confirm laundry service",
-      "laundry service details",
-      "review laundry service"
+      "incompatible review",
+      "incompatible process",
+      "incompatible update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "service"
+      "incompatible"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "luggage-cart-noun",
-    "word": "luggage cart",
-    "baseWord": "cart",
+    "id": "inconsistency-noun",
+    "word": "inconsistency",
+    "baseWord": "inconsistency",
     "type": "noun",
-    "meaning": "xe đẩy hành lý",
-    "pronunciation": "/luggage cart/",
-    "topic": "Hospitality & Dining",
+    "meaning": "tu vung cot loi TOEIC 700: inconsistency",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word inconsistency in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inconsistency trong email cong viec.",
+    "collocations": [
+      "inconsistency review",
+      "inconsistency process",
+      "inconsistency update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "inconsistency"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "inconsistent-adjective",
+    "word": "inconsistent",
+    "baseWord": "inconsist",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: inconsistent",
+    "pronunciation": "",
+    "topic": "Research & Reports",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word inconsistent in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inconsistent trong email cong viec.",
+    "collocations": [
+      "inconsistent review",
+      "inconsistent process",
+      "inconsistent update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "inconsistent"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "incur-noun",
+    "word": "incur",
+    "baseWord": "incur",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: incur",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the luggage cart carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét xe đẩy hành lý cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word incur in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu incur trong email cong viec.",
     "collocations": [
-      "confirm luggage cart",
-      "luggage cart details",
-      "review luggage cart"
+      "incur review",
+      "incur process",
+      "incur update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "cart"
+      "incur"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
-    "id": "occupancy-rate-phrase",
-    "word": "occupancy rate",
-    "baseWord": "rate",
-    "type": "phrase",
-    "meaning": "tỷ lệ lấp đầy phòng",
-    "pronunciation": "/occupancy rate/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the occupancy rate carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tỷ lệ lấp đầy phòng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm occupancy rate",
-      "occupancy rate details",
-      "review occupancy rate"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "rate"
-    ],
-    "day": 56
-  },
-  {
-    "id": "reservation-desk-phrase",
-    "word": "reservation desk",
-    "baseWord": "desk",
-    "type": "phrase",
-    "meaning": "bàn đặt phòng",
-    "pronunciation": "/reservation desk/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the reservation desk carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bàn đặt phòng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm reservation desk",
-      "reservation desk details",
-      "review reservation desk"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "desk"
-    ],
-    "day": 56
-  },
-  {
-    "id": "room-cleaning-service-phrase",
-    "word": "room cleaning service",
-    "baseWord": "service",
-    "type": "phrase",
-    "meaning": "dịch vụ dọn phòng",
-    "pronunciation": "/room cleaning service/",
-    "topic": "Hospitality & Dining",
+    "id": "indication-noun",
+    "word": "indication",
+    "baseWord": "indica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: indication",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the room cleaning service carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dịch vụ dọn phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word indication in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu indication trong email cong viec.",
     "collocations": [
-      "confirm room cleaning service",
-      "room cleaning service details",
-      "review room cleaning service"
+      "indication review",
+      "indication process",
+      "indication update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "service"
+      "indication"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "room-upgrade-phrase",
-    "word": "room upgrade",
-    "baseWord": "upgrade",
-    "type": "phrase",
-    "meaning": "nâng hạng phòng",
-    "pronunciation": "/room upgrade/",
-    "topic": "Hospitality & Dining",
+    "id": "indicator-noun",
+    "word": "indicator",
+    "baseWord": "indicat",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: indicator",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word indicator in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu indicator trong email cong viec.",
+    "collocations": [
+      "indicator review",
+      "indicator process",
+      "indicator update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "indicator"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "industrial-adjective",
+    "word": "industrial",
+    "baseWord": "industri",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: industrial",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word industrial in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu industrial trong email cong viec.",
+    "collocations": [
+      "industrial review",
+      "industrial process",
+      "industrial update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "industrial"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "industry-noun",
+    "word": "industry",
+    "baseWord": "industry",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: industry",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word industry in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu industry trong email cong viec.",
+    "collocations": [
+      "industry review",
+      "industry process",
+      "industry update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "industry"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "initiative-adjective",
+    "word": "initiative",
+    "baseWord": "initiat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: initiative",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word initiative in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu initiative trong email cong viec.",
+    "collocations": [
+      "initiative review",
+      "initiative process",
+      "initiative update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "initiative"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "inspect-noun",
+    "word": "inspect",
+    "baseWord": "inspect",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: inspect",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word inspect in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inspect trong email cong viec.",
+    "collocations": [
+      "inspect review",
+      "inspect process",
+      "inspect update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "inspect"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "install-noun",
+    "word": "install",
+    "baseWord": "install",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: install",
+    "pronunciation": "",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -518,74 +466,235 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the room upgrade carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nâng hạng phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word install in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu install trong email cong viec.",
     "collocations": [
-      "confirm room upgrade",
-      "room upgrade details",
-      "review room upgrade"
+      "install review",
+      "install process",
+      "install update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "upgrade"
+      "install"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
-    "id": "wake-up-call-phrase",
-    "word": "wake-up call",
-    "baseWord": "call",
-    "type": "phrase",
-    "meaning": "cuộc gọi báo thức",
-    "pronunciation": "/wake-up call/",
-    "topic": "Hospitality & Dining",
+    "id": "instruct-noun",
+    "word": "instruct",
+    "baseWord": "instruct",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: instruct",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word instruct in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu instruct trong email cong viec.",
+    "collocations": [
+      "instruct review",
+      "instruct process",
+      "instruct update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "instruct"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "instruction-noun",
+    "word": "instruction",
+    "baseWord": "instruc",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: instruction",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word instruction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu instruction trong email cong viec.",
+    "collocations": [
+      "instruction review",
+      "instruction process",
+      "instruction update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "instruction"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "interact-noun",
+    "word": "interact",
+    "baseWord": "interact",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: interact",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word interact in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu interact trong email cong viec.",
+    "collocations": [
+      "interact review",
+      "interact process",
+      "interact update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "interact"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "interim-noun",
+    "word": "interim",
+    "baseWord": "interim",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: interim",
+    "pronunciation": "",
+    "topic": "Supply Chain",
     "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word interim in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu interim trong email cong viec.",
+    "collocations": [
+      "interim review",
+      "interim process",
+      "interim update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "interim"
+    ],
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "interpret-noun",
+    "word": "interpret",
+    "baseWord": "interpret",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: interpret",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the wake-up call carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cuộc gọi báo thức cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word interpret in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu interpret trong email cong viec.",
     "collocations": [
-      "confirm wake-up call",
-      "wake-up call details",
-      "review wake-up call"
+      "interpret review",
+      "interpret process",
+      "interpret update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "call"
+      "interpret"
     ],
-    "day": 56
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
-    "id": "allergen-information-phrase",
-    "word": "allergen information",
-    "baseWord": "information",
-    "type": "phrase",
-    "meaning": "thông tin dị ứng thực phẩm",
-    "pronunciation": "/allergen information/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
+    "id": "interpretation-noun",
+    "word": "interpretation",
+    "baseWord": "interpreta",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: interpretation",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the allergen information carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thông tin dị ứng thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word interpretation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu interpretation trong email cong viec.",
     "collocations": [
-      "confirm allergen information",
-      "allergen information details",
-      "review allergen information"
+      "interpretation review",
+      "interpretation process",
+      "interpretation update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "information"
+      "interpretation"
     ],
-    "day": 57
+    "day": 56,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "appetizer-noun",
@@ -594,7 +703,7 @@
     "type": "noun",
     "meaning": "món khai vị",
     "pronunciation": "/appetizer/",
-    "topic": "Hospitality & Dining",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -613,7 +722,11 @@
     "wordFamily": [
       "appetizer"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "beverage-noun",
@@ -622,7 +735,7 @@
     "type": "noun",
     "meaning": "đồ uống",
     "pronunciation": "/beverage/",
-    "topic": "Hospitality & Dining",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -641,175 +754,11 @@
     "wordFamily": [
       "beverage"
     ],
-    "day": 57
-  },
-  {
-    "id": "buffet-line-phrase",
-    "word": "buffet line",
-    "baseWord": "line",
-    "type": "phrase",
-    "meaning": "quầy buffet",
-    "pronunciation": "/buffet line/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the buffet line carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét quầy buffet cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm buffet line",
-      "buffet line details",
-      "review buffet line"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "line"
-    ],
-    "day": 57
-  },
-  {
-    "id": "catering-order-phrase",
-    "word": "catering order",
-    "baseWord": "order",
-    "type": "phrase",
-    "meaning": "đơn đặt suất ăn",
-    "pronunciation": "/catering order/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the catering order carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đơn đặt suất ăn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm catering order",
-      "catering order details",
-      "review catering order"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "order"
-    ],
-    "day": 57
-  },
-  {
-    "id": "daily-special-phrase",
-    "word": "daily special",
-    "baseWord": "special",
-    "type": "phrase",
-    "meaning": "món đặc biệt trong ngày",
-    "pronunciation": "/daily special/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the daily special carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét món đặc biệt trong ngày cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm daily special",
-      "daily special details",
-      "review daily special"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "special"
-    ],
-    "day": 57
-  },
-  {
-    "id": "dessert-tray-phrase",
-    "word": "dessert tray",
-    "baseWord": "tray",
-    "type": "phrase",
-    "meaning": "khay món tráng miệng",
-    "pronunciation": "/dessert tray/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the dessert tray carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khay món tráng miệng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm dessert tray",
-      "dessert tray details",
-      "review dessert tray"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "tray"
-    ],
-    "day": 57
-  },
-  {
-    "id": "dietary-restriction-phrase",
-    "word": "dietary restriction",
-    "baseWord": "restriction",
-    "type": "phrase",
-    "meaning": "hạn chế ăn uống",
-    "pronunciation": "/dietary restriction/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the dietary restriction carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hạn chế ăn uống cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm dietary restriction",
-      "dietary restriction details",
-      "review dietary restriction"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "restriction"
-    ],
-    "day": 57
-  },
-  {
-    "id": "dining-area-phrase",
-    "word": "dining area",
-    "baseWord": "area",
-    "type": "phrase",
-    "meaning": "khu vực ăn uống",
-    "pronunciation": "/dining area/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the dining area carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khu vực ăn uống cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm dining area",
-      "dining area details",
-      "review dining area"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "area"
-    ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "gratuity-noun",
@@ -818,7 +767,7 @@
     "type": "noun",
     "meaning": "tiền boa",
     "pronunciation": "/gratuity/",
-    "topic": "Hospitality & Dining",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -837,72 +786,20 @@
     "wordFamily": [
       "gratuity"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "host-stand-phrase",
-    "word": "host stand",
-    "baseWord": "stand",
-    "type": "phrase",
-    "meaning": "quầy đón khách nhà hàng",
-    "pronunciation": "/host stand/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the host stand carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét quầy đón khách nhà hàng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm host stand",
-      "host stand details",
-      "review host stand"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "stand"
-    ],
-    "day": 57
-  },
-  {
-    "id": "main-course-phrase",
-    "word": "main course",
-    "baseWord": "course",
-    "type": "phrase",
-    "meaning": "món chính",
-    "pronunciation": "/main course/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the main course carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét món chính cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm main course",
-      "main course details",
-      "review main course"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "course"
-    ],
-    "day": 57
-  },
-  {
-    "id": "place-setting-phrase",
-    "word": "place setting",
-    "baseWord": "setting",
-    "type": "phrase",
-    "meaning": "bộ dụng cụ ăn cho một khách",
-    "pronunciation": "/place setting/",
-    "topic": "Hospitality & Dining",
+    "id": "interruption-noun",
+    "word": "interruption",
+    "baseWord": "interrup",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: interruption",
+    "pronunciation": "",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -910,27 +807,69 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the place setting carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bộ dụng cụ ăn cho một khách cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word interruption in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu interruption trong email cong viec.",
     "collocations": [
-      "confirm place setting",
-      "place setting details",
-      "review place setting"
+      "interruption review",
+      "interruption process",
+      "interruption update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "setting"
+      "interruption"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "reservation-list-phrase",
-    "word": "reservation list",
-    "baseWord": "list",
-    "type": "phrase",
-    "meaning": "danh sách đặt bàn",
-    "pronunciation": "/reservation list/",
-    "topic": "Hospitality & Dining",
+    "id": "inventory-adjective",
+    "word": "inventory",
+    "baseWord": "invent",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: inventory",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word inventory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu inventory trong email cong viec.",
+    "collocations": [
+      "inventory review",
+      "inventory process",
+      "inventory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "inventory"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "investigate-verb",
+    "word": "investigate",
+    "baseWord": "investig",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: investigate",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -938,55 +877,69 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the reservation list carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách đặt bàn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word investigate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu investigate trong email cong viec.",
     "collocations": [
-      "confirm reservation list",
-      "reservation list details",
-      "review reservation list"
+      "investigate review",
+      "investigate process",
+      "investigate update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "list"
+      "investigate"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "serving-station-phrase",
-    "word": "serving station",
-    "baseWord": "station",
-    "type": "phrase",
-    "meaning": "khu phục vụ",
-    "pronunciation": "/serving station/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
+    "id": "investigation-noun",
+    "word": "investigation",
+    "baseWord": "investiga",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: investigation",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the serving station carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khu phục vụ cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word investigation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu investigation trong email cong viec.",
     "collocations": [
-      "confirm serving station",
-      "serving station details",
-      "review serving station"
+      "investigation review",
+      "investigation process",
+      "investigation update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "station"
+      "investigation"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "set-menu-phrase",
-    "word": "set menu",
-    "baseWord": "menu",
-    "type": "phrase",
-    "meaning": "thực đơn cố định",
-    "pronunciation": "/set menu/",
-    "topic": "Hospitality & Dining",
+    "id": "investment-adjective",
+    "word": "investment",
+    "baseWord": "invest",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: investment",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -994,102 +947,410 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the set menu carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thực đơn cố định cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word investment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu investment trong email cong viec.",
     "collocations": [
-      "confirm set menu",
-      "set menu details",
-      "review set menu"
+      "investment review",
+      "investment process",
+      "investment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "menu"
+      "investment"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "side-dish-phrase",
-    "word": "side dish",
-    "baseWord": "dish",
-    "type": "phrase",
-    "meaning": "món ăn kèm",
-    "pronunciation": "/side dish/",
-    "topic": "Hospitality & Dining",
+    "id": "invoicing-noun",
+    "word": "invoicing",
+    "baseWord": "invoic",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: invoicing",
+    "pronunciation": "",
+    "topic": "Customer Service",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the side dish carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét món ăn kèm cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word invoicing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu invoicing trong email cong viec.",
     "collocations": [
-      "confirm side dish",
-      "side dish details",
-      "review side dish"
+      "invoicing review",
+      "invoicing process",
+      "invoicing update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "dish"
+      "invoicing"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "table-setting-phrase",
-    "word": "table setting",
-    "baseWord": "setting",
-    "type": "phrase",
-    "meaning": "cách bày bàn ăn",
-    "pronunciation": "/table setting/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the table setting carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cách bày bàn ăn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm table setting",
-      "table setting details",
-      "review table setting"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "setting"
-    ],
-    "day": 57
-  },
-  {
-    "id": "takeout-counter-phrase",
-    "word": "takeout counter",
-    "baseWord": "counter",
-    "type": "phrase",
-    "meaning": "quầy nhận món mang đi",
-    "pronunciation": "/takeout counter/",
-    "topic": "Hospitality & Dining",
+    "id": "justification-noun",
+    "word": "justification",
+    "baseWord": "justifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: justification",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the takeout counter carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét quầy nhận món mang đi cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word justification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu justification trong email cong viec.",
     "collocations": [
-      "confirm takeout counter",
-      "takeout counter details",
-      "review takeout counter"
+      "justification review",
+      "justification process",
+      "justification update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "counter"
+      "justification"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "justify-verb",
+    "word": "justify",
+    "baseWord": "justi",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: justify",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word justify in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu justify trong email cong viec.",
+    "collocations": [
+      "justify review",
+      "justify process",
+      "justify update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "justify"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "leadership-noun",
+    "word": "leadership",
+    "baseWord": "leadership",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: leadership",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word leadership in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu leadership trong email cong viec.",
+    "collocations": [
+      "leadership review",
+      "leadership process",
+      "leadership update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "leadership"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "licensing-noun",
+    "word": "licensing",
+    "baseWord": "licens",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: licensing",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word licensing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu licensing trong email cong viec.",
+    "collocations": [
+      "licensing review",
+      "licensing process",
+      "licensing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "licensing"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "liquidate-verb",
+    "word": "liquidate",
+    "baseWord": "liquid",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: liquidate",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word liquidate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu liquidate trong email cong viec.",
+    "collocations": [
+      "liquidate review",
+      "liquidate process",
+      "liquidate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "liquidate"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "liquidation-noun",
+    "word": "liquidation",
+    "baseWord": "liquida",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: liquidation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word liquidation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu liquidation trong email cong viec.",
+    "collocations": [
+      "liquidation review",
+      "liquidation process",
+      "liquidation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "liquidation"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "logistical-adjective",
+    "word": "logistical",
+    "baseWord": "logistic",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: logistical",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word logistical in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu logistical trong email cong viec.",
+    "collocations": [
+      "logistical review",
+      "logistical process",
+      "logistical update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "logistical"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "loyalty-noun",
+    "word": "loyalty",
+    "baseWord": "loyalty",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: loyalty",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word loyalty in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu loyalty trong email cong viec.",
+    "collocations": [
+      "loyalty review",
+      "loyalty process",
+      "loyalty update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "loyalty"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "manufacture-noun",
+    "word": "manufacture",
+    "baseWord": "manufacture",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: manufacture",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word manufacture in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu manufacture trong email cong viec.",
+    "collocations": [
+      "manufacture review",
+      "manufacture process",
+      "manufacture update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "manufacture"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "manuscript-noun",
+    "word": "manuscript",
+    "baseWord": "manuscript",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: manuscript",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word manuscript in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu manuscript trong email cong viec.",
+    "collocations": [
+      "manuscript review",
+      "manuscript process",
+      "manuscript update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "manuscript"
+    ],
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "waitstaff-noun",
@@ -1098,7 +1359,7 @@
     "type": "noun",
     "meaning": "nhân viên phục vụ bàn",
     "pronunciation": "/waitstaff/",
-    "topic": "Hospitality & Dining",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1117,7 +1378,11 @@
     "wordFamily": [
       "waitstaff"
     ],
-    "day": 57
+    "day": 57,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "condiment-noun",
@@ -1126,7 +1391,7 @@
     "type": "noun",
     "meaning": "gia vị ăn kèm",
     "pronunciation": "/condiment/",
-    "topic": "Hospitality & Dining",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1145,7 +1410,11 @@
     "wordFamily": [
       "condiment"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "cutlery-noun",
@@ -1154,7 +1423,7 @@
     "type": "noun",
     "meaning": "dao nĩa muỗng",
     "pronunciation": "/cutlery/",
-    "topic": "Hospitality & Dining",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1173,119 +1442,11 @@
     "wordFamily": [
       "cutlery"
     ],
-    "day": 58
-  },
-  {
-    "id": "expiration-date-phrase",
-    "word": "expiration date",
-    "baseWord": "date",
-    "type": "phrase",
-    "meaning": "hạn sử dụng",
-    "pronunciation": "/expiration date/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the expiration date carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hạn sử dụng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm expiration date",
-      "expiration date details",
-      "review expiration date"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "date"
-    ],
-    "day": 58
-  },
-  {
-    "id": "food-handler-phrase",
-    "word": "food handler",
-    "baseWord": "handler",
-    "type": "phrase",
-    "meaning": "người xử lý thực phẩm",
-    "pronunciation": "/food handler/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the food handler carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét người xử lý thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm food handler",
-      "food handler details",
-      "review food handler"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "handler"
-    ],
-    "day": 58
-  },
-  {
-    "id": "food-preparation-phrase",
-    "word": "food preparation",
-    "baseWord": "preparation",
-    "type": "phrase",
-    "meaning": "khâu chuẩn bị thực phẩm",
-    "pronunciation": "/food preparation/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the food preparation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khâu chuẩn bị thực phẩm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm food preparation",
-      "food preparation details",
-      "review food preparation"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "preparation"
-    ],
-    "day": 58
-  },
-  {
-    "id": "fresh-produce-phrase",
-    "word": "fresh produce",
-    "baseWord": "produce",
-    "type": "phrase",
-    "meaning": "nông sản tươi",
-    "pronunciation": "/fresh produce/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the fresh produce carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nông sản tươi cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm fresh produce",
-      "fresh produce details",
-      "review fresh produce"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "produce"
-    ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "glassware-noun",
@@ -1294,7 +1455,7 @@
     "type": "noun",
     "meaning": "đồ thủy tinh",
     "pronunciation": "/glassware/",
-    "topic": "Hospitality & Dining",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1313,35 +1474,11 @@
     "wordFamily": [
       "glassware"
     ],
-    "day": 58
-  },
-  {
-    "id": "ingredient-list-phrase",
-    "word": "ingredient list",
-    "baseWord": "list",
-    "type": "phrase",
-    "meaning": "danh sách nguyên liệu",
-    "pronunciation": "/ingredient list/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the ingredient list carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách nguyên liệu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm ingredient list",
-      "ingredient list details",
-      "review ingredient list"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "list"
-    ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "kitchenware-noun",
@@ -1350,7 +1487,7 @@
     "type": "noun",
     "meaning": "dụng cụ nhà bếp",
     "pronunciation": "/kitchenware/",
-    "topic": "Hospitality & Dining",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1369,7 +1506,361 @@
     "wordFamily": [
       "kitchenware"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "manufacturer-noun",
+    "word": "manufacturer",
+    "baseWord": "manufactur",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: manufacturer",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word manufacturer in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu manufacturer trong email cong viec.",
+    "collocations": [
+      "manufacturer review",
+      "manufacturer process",
+      "manufacturer update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "manufacturer"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "manufacturing-noun",
+    "word": "manufacturing",
+    "baseWord": "manufactur",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: manufacturing",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word manufacturing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu manufacturing trong email cong viec.",
+    "collocations": [
+      "manufacturing review",
+      "manufacturing process",
+      "manufacturing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "manufacturing"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "marginal-adjective",
+    "word": "marginal",
+    "baseWord": "margin",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: marginal",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word marginal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu marginal trong email cong viec.",
+    "collocations": [
+      "marginal review",
+      "marginal process",
+      "marginal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "marginal"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "material-adjective",
+    "word": "material",
+    "baseWord": "materi",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: material",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word material in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu material trong email cong viec.",
+    "collocations": [
+      "material review",
+      "material process",
+      "material update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "material"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "maximize-verb",
+    "word": "maximize",
+    "baseWord": "maxim",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: maximize",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word maximize in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu maximize trong email cong viec.",
+    "collocations": [
+      "maximize review",
+      "maximize process",
+      "maximize update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "maximize"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "measurement-adjective",
+    "word": "measurement",
+    "baseWord": "measure",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: measurement",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word measurement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu measurement trong email cong viec.",
+    "collocations": [
+      "measurement review",
+      "measurement process",
+      "measurement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "measurement"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "merchandise-verb",
+    "word": "merchandise",
+    "baseWord": "merchand",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: merchandise",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word merchandise in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu merchandise trong email cong viec.",
+    "collocations": [
+      "merchandise review",
+      "merchandise process",
+      "merchandise update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "merchandise"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "merchant-adjective",
+    "word": "merchant",
+    "baseWord": "merch",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: merchant",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word merchant in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu merchant trong email cong viec.",
+    "collocations": [
+      "merchant review",
+      "merchant process",
+      "merchant update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "merchant"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "minimize-verb",
+    "word": "minimize",
+    "baseWord": "minim",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: minimize",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word minimize in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu minimize trong email cong viec.",
+    "collocations": [
+      "minimize review",
+      "minimize process",
+      "minimize update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "minimize"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "minimum-noun",
+    "word": "minimum",
+    "baseWord": "minimum",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: minimum",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word minimum in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu minimum trong email cong viec.",
+    "collocations": [
+      "minimum review",
+      "minimum process",
+      "minimum update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "minimum"
+    ],
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "napkin-noun",
@@ -1378,7 +1869,7 @@
     "type": "noun",
     "meaning": "khăn ăn",
     "pronunciation": "/napkin/",
-    "topic": "Hospitality & Dining",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1397,7 +1888,11 @@
     "wordFamily": [
       "napkin"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "pitcher-noun",
@@ -1406,7 +1901,7 @@
     "type": "noun",
     "meaning": "bình rót nước",
     "pronunciation": "/pitcher/",
-    "topic": "Hospitality & Dining",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1425,119 +1920,11 @@
     "wordFamily": [
       "pitcher"
     ],
-    "day": 58
-  },
-  {
-    "id": "portion-size-phrase",
-    "word": "portion size",
-    "baseWord": "size",
-    "type": "phrase",
-    "meaning": "khẩu phần",
-    "pronunciation": "/portion size/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the portion size carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khẩu phần cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm portion size",
-      "portion size details",
-      "review portion size"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "size"
-    ],
-    "day": 58
-  },
-  {
-    "id": "recipe-card-phrase",
-    "word": "recipe card",
-    "baseWord": "card",
-    "type": "phrase",
-    "meaning": "thẻ công thức",
-    "pronunciation": "/recipe card/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the recipe card carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thẻ công thức cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm recipe card",
-      "recipe card details",
-      "review recipe card"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "card"
-    ],
-    "day": 58
-  },
-  {
-    "id": "refrigerated-storage-phrase",
-    "word": "refrigerated storage",
-    "baseWord": "storage",
-    "type": "phrase",
-    "meaning": "kho lạnh",
-    "pronunciation": "/refrigerated storage/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the refrigerated storage carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kho lạnh cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm refrigerated storage",
-      "refrigerated storage details",
-      "review refrigerated storage"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "storage"
-    ],
-    "day": 58
-  },
-  {
-    "id": "sanitation-checklist-phrase",
-    "word": "sanitation checklist",
-    "baseWord": "checklist",
-    "type": "phrase",
-    "meaning": "danh sách kiểm tra vệ sinh",
-    "pronunciation": "/sanitation checklist/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sanitation checklist carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách kiểm tra vệ sinh cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sanitation checklist",
-      "sanitation checklist details",
-      "review sanitation checklist"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "checklist"
-    ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "seasoning-noun",
@@ -1546,7 +1933,7 @@
     "type": "noun",
     "meaning": "gia vị nêm nếm",
     "pronunciation": "/seasoning/",
-    "topic": "Hospitality & Dining",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1565,35 +1952,11 @@
     "wordFamily": [
       "seasoning"
     ],
-    "day": 58
-  },
-  {
-    "id": "serving-platter-phrase",
-    "word": "serving platter",
-    "baseWord": "platter",
-    "type": "phrase",
-    "meaning": "đĩa lớn để phục vụ",
-    "pronunciation": "/serving platter/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the serving platter carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đĩa lớn để phục vụ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm serving platter",
-      "serving platter details",
-      "review serving platter"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "platter"
-    ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "tablecloth-noun",
@@ -1602,7 +1965,7 @@
     "type": "noun",
     "meaning": "khăn trải bàn",
     "pronunciation": "/tablecloth/",
-    "topic": "Hospitality & Dining",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1621,7 +1984,11 @@
     "wordFamily": [
       "tablecloth"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "tray-noun",
@@ -1630,7 +1997,7 @@
     "type": "noun",
     "meaning": "khay",
     "pronunciation": "/tray/",
-    "topic": "Hospitality & Dining",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1649,7 +2016,11 @@
     "wordFamily": [
       "tray"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "utensil-noun",
@@ -1658,7 +2029,7 @@
     "type": "noun",
     "meaning": "dụng cụ ăn uống",
     "pronunciation": "/utensil/",
-    "topic": "Hospitality & Dining",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1677,44 +2048,20 @@
     "wordFamily": [
       "utensil"
     ],
-    "day": 58
+    "day": 58,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "arrival-lounge-phrase",
-    "word": "arrival lounge",
-    "baseWord": "lounge",
-    "type": "phrase",
-    "meaning": "khu chờ đón khách",
-    "pronunciation": "/arrival lounge/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the arrival lounge carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khu chờ đón khách cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm arrival lounge",
-      "arrival lounge details",
-      "review arrival lounge"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "lounge"
-    ],
-    "day": 59
-  },
-  {
-    "id": "banquet-hall-phrase",
-    "word": "banquet hall",
-    "baseWord": "hall",
-    "type": "phrase",
-    "meaning": "sảnh tiệc",
-    "pronunciation": "/banquet hall/",
-    "topic": "Hospitality & Dining",
+    "id": "modification-noun",
+    "word": "modification",
+    "baseWord": "modifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: modification",
+    "pronunciation": "",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1722,111 +2069,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the banquet hall carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sảnh tiệc cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word modification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu modification trong email cong viec.",
     "collocations": [
-      "confirm banquet hall",
-      "banquet hall details",
-      "review banquet hall"
+      "modification review",
+      "modification process",
+      "modification update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "hall"
+      "modification"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "cancellation-policy-phrase",
-    "word": "cancellation policy",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "chính sách hủy đặt chỗ",
-    "pronunciation": "/cancellation policy/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the cancellation policy carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chính sách hủy đặt chỗ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm cancellation policy",
-      "cancellation policy details",
-      "review cancellation policy"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 59
-  },
-  {
-    "id": "chef-recommendation-phrase",
-    "word": "chef recommendation",
-    "baseWord": "recommendation",
-    "type": "phrase",
-    "meaning": "món đầu bếp đề xuất",
-    "pronunciation": "/chef recommendation/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the chef recommendation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét món đầu bếp đề xuất cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm chef recommendation",
-      "chef recommendation details",
-      "review chef recommendation"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "recommendation"
-    ],
-    "day": 59
-  },
-  {
-    "id": "comment-card-phrase",
-    "word": "comment card",
-    "baseWord": "card",
-    "type": "phrase",
-    "meaning": "thẻ góp ý",
-    "pronunciation": "/comment card/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the comment card carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thẻ góp ý cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm comment card",
-      "comment card details",
-      "review comment card"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "card"
-    ],
-    "day": 59
-  },
-  {
-    "id": "corporate-rate-phrase",
-    "word": "corporate rate",
-    "baseWord": "rate",
-    "type": "phrase",
-    "meaning": "mức giá doanh nghiệp",
-    "pronunciation": "/corporate rate/",
-    "topic": "Hospitality & Dining",
+    "id": "modify-verb",
+    "word": "modify",
+    "baseWord": "modi",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: modify",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1834,195 +2104,104 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the corporate rate carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mức giá doanh nghiệp cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word modify in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu modify trong email cong viec.",
     "collocations": [
-      "confirm corporate rate",
-      "corporate rate details",
-      "review corporate rate"
+      "modify review",
+      "modify process",
+      "modify update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "rate"
+      "modify"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "customer-complaint-phrase",
-    "word": "customer complaint",
-    "baseWord": "complaint",
-    "type": "phrase",
-    "meaning": "khiếu nại của khách hàng",
-    "pronunciation": "/customer complaint/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the customer complaint carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khiếu nại của khách hàng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm customer complaint",
-      "customer complaint details",
-      "review customer complaint"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "complaint"
-    ],
-    "day": 59
-  },
-  {
-    "id": "dining-voucher-phrase",
-    "word": "dining voucher",
-    "baseWord": "voucher",
-    "type": "phrase",
-    "meaning": "phiếu ăn uống",
-    "pronunciation": "/dining voucher/",
-    "topic": "Hospitality & Dining",
+    "id": "monitor-noun",
+    "word": "monitor",
+    "baseWord": "monit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: monitor",
+    "pronunciation": "",
+    "topic": "Business Communication",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the dining voucher carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiếu ăn uống cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm dining voucher",
-      "dining voucher details",
-      "review dining voucher"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "voucher"
-    ],
-    "day": 59
-  },
-  {
-    "id": "floor-plan-phrase",
-    "word": "floor plan",
-    "baseWord": "plan",
-    "type": "phrase",
-    "meaning": "sơ đồ mặt bằng",
-    "pronunciation": "/floor plan/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the floor plan carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sơ đồ mặt bằng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm floor plan",
-      "floor plan details",
-      "review floor plan"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "plan"
-    ],
-    "day": 59
-  },
-  {
-    "id": "guest-count-phrase",
-    "word": "guest count",
-    "baseWord": "count",
-    "type": "phrase",
-    "meaning": "số lượng khách",
-    "pronunciation": "/guest count/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the guest count carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét số lượng khách cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word monitor in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu monitor trong email cong viec.",
     "collocations": [
-      "confirm guest count",
-      "guest count details",
-      "review guest count"
+      "monitor review",
+      "monitor process",
+      "monitor update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "count"
+      "monitor"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "loyalty-points-phrase",
-    "word": "loyalty points",
-    "baseWord": "points",
-    "type": "phrase",
-    "meaning": "điểm khách hàng thân thiết",
-    "pronunciation": "/loyalty points/",
-    "topic": "Hospitality & Dining",
+    "id": "monitoring-noun",
+    "word": "monitoring",
+    "baseWord": "monitor",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: monitoring",
+    "pronunciation": "",
+    "topic": "Human Resources",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the loyalty points carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét điểm khách hàng thân thiết cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word monitoring in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu monitoring trong email cong viec.",
     "collocations": [
-      "confirm loyalty points",
-      "loyalty points details",
-      "review loyalty points"
+      "monitoring review",
+      "monitoring process",
+      "monitoring update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "points"
+      "monitoring"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "meal-allowance-phrase",
-    "word": "meal allowance",
-    "baseWord": "allowance",
-    "type": "phrase",
-    "meaning": "phụ cấp bữa ăn",
-    "pronunciation": "/meal allowance/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the meal allowance carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phụ cấp bữa ăn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm meal allowance",
-      "meal allowance details",
-      "review meal allowance"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "allowance"
-    ],
-    "day": 59
-  },
-  {
-    "id": "minimum-charge-phrase",
-    "word": "minimum charge",
-    "baseWord": "charge",
-    "type": "phrase",
-    "meaning": "mức phí tối thiểu",
-    "pronunciation": "/minimum charge/",
-    "topic": "Hospitality & Dining",
+    "id": "nominate-verb",
+    "word": "nominate",
+    "baseWord": "nomin",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: nominate",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2030,195 +2209,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the minimum charge carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mức phí tối thiểu cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word nominate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu nominate trong email cong viec.",
     "collocations": [
-      "confirm minimum charge",
-      "minimum charge details",
-      "review minimum charge"
+      "nominate review",
+      "nominate process",
+      "nominate update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "charge"
+      "nominate"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "preferred-guest-phrase",
-    "word": "preferred guest",
-    "baseWord": "guest",
-    "type": "phrase",
-    "meaning": "khách ưu tiên",
-    "pronunciation": "/preferred guest/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the preferred guest carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khách ưu tiên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm preferred guest",
-      "preferred guest details",
-      "review preferred guest"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "guest"
-    ],
-    "day": 59
-  },
-  {
-    "id": "private-dining-room-phrase",
-    "word": "private dining room",
-    "baseWord": "room",
-    "type": "phrase",
-    "meaning": "phòng ăn riêng",
-    "pronunciation": "/private dining room/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the private dining room carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phòng ăn riêng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm private dining room",
-      "private dining room details",
-      "review private dining room"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "room"
-    ],
-    "day": 59
-  },
-  {
-    "id": "reservation-deposit-phrase",
-    "word": "reservation deposit",
-    "baseWord": "deposit",
-    "type": "phrase",
-    "meaning": "tiền đặt cọc giữ chỗ",
-    "pronunciation": "/reservation deposit/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the reservation deposit carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tiền đặt cọc giữ chỗ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm reservation deposit",
-      "reservation deposit details",
-      "review reservation deposit"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "deposit"
-    ],
-    "day": 59
-  },
-  {
-    "id": "seating-capacity-phrase",
-    "word": "seating capacity",
-    "baseWord": "capacity",
-    "type": "phrase",
-    "meaning": "sức chứa chỗ ngồi",
-    "pronunciation": "/seating capacity/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the seating capacity carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sức chứa chỗ ngồi cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm seating capacity",
-      "seating capacity details",
-      "review seating capacity"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "capacity"
-    ],
-    "day": 59
-  },
-  {
-    "id": "service-charge-phrase",
-    "word": "service charge",
-    "baseWord": "charge",
-    "type": "phrase",
-    "meaning": "phí phục vụ",
-    "pronunciation": "/service charge/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the service charge carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phí phục vụ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm service charge",
-      "service charge details",
-      "review service charge"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "charge"
-    ],
-    "day": 59
-  },
-  {
-    "id": "tasting-menu-phrase",
-    "word": "tasting menu",
-    "baseWord": "menu",
-    "type": "phrase",
-    "meaning": "thực đơn nếm thử",
-    "pronunciation": "/tasting menu/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the tasting menu carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thực đơn nếm thử cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm tasting menu",
-      "tasting menu details",
-      "review tasting menu"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "menu"
-    ],
-    "day": 59
-  },
-  {
-    "id": "wine-list-phrase",
-    "word": "wine list",
-    "baseWord": "list",
-    "type": "phrase",
-    "meaning": "danh sách rượu vang",
-    "pronunciation": "/wine list/",
-    "topic": "Hospitality & Dining",
+    "id": "nomination-noun",
+    "word": "nomination",
+    "baseWord": "nomina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: nomination",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2226,18 +2244,515 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the wine list carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách rượu vang cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word nomination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu nomination trong email cong viec.",
     "collocations": [
-      "confirm wine list",
-      "wine list details",
-      "review wine list"
+      "nomination review",
+      "nomination process",
+      "nomination update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "list"
+      "nomination"
     ],
-    "day": 59
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "objective-adjective",
+    "word": "objective",
+    "baseWord": "object",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: objective",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word objective in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu objective trong email cong viec.",
+    "collocations": [
+      "objective review",
+      "objective process",
+      "objective update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "objective"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "obligatory-adjective",
+    "word": "obligatory",
+    "baseWord": "obligat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: obligatory",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word obligatory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu obligatory trong email cong viec.",
+    "collocations": [
+      "obligatory review",
+      "obligatory process",
+      "obligatory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "obligatory"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "observe-noun",
+    "word": "observe",
+    "baseWord": "observe",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: observe",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word observe in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu observe trong email cong viec.",
+    "collocations": [
+      "observe review",
+      "observe process",
+      "observe update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "observe"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "occupancy-noun",
+    "word": "occupancy",
+    "baseWord": "occupancy",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: occupancy",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word occupancy in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu occupancy trong email cong viec.",
+    "collocations": [
+      "occupancy review",
+      "occupancy process",
+      "occupancy update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "occupancy"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "occupant-adjective",
+    "word": "occupant",
+    "baseWord": "occup",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: occupant",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word occupant in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu occupant trong email cong viec.",
+    "collocations": [
+      "occupant review",
+      "occupant process",
+      "occupant update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "occupant"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "operate-verb",
+    "word": "operate",
+    "baseWord": "oper",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: operate",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word operate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu operate trong email cong viec.",
+    "collocations": [
+      "operate review",
+      "operate process",
+      "operate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "operate"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "outstanding-noun",
+    "word": "outstanding",
+    "baseWord": "outstand",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: outstanding",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word outstanding in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu outstanding trong email cong viec.",
+    "collocations": [
+      "outstanding review",
+      "outstanding process",
+      "outstanding update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "outstanding"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "overdue-noun",
+    "word": "overdue",
+    "baseWord": "overdue",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overdue",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overdue in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overdue trong email cong viec.",
+    "collocations": [
+      "overdue review",
+      "overdue process",
+      "overdue update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overdue"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "overhead-noun",
+    "word": "overhead",
+    "baseWord": "overhead",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overhead",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overhead in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overhead trong email cong viec.",
+    "collocations": [
+      "overhead review",
+      "overhead process",
+      "overhead update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overhead"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "oversee-noun",
+    "word": "oversee",
+    "baseWord": "oversee",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: oversee",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word oversee in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu oversee trong email cong viec.",
+    "collocations": [
+      "oversee review",
+      "oversee process",
+      "oversee update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "oversee"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "payable-adjective",
+    "word": "payable",
+    "baseWord": "pay",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: payable",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word payable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu payable trong email cong viec.",
+    "collocations": [
+      "payable review",
+      "payable process",
+      "payable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "payable"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "payment-adjective",
+    "word": "payment",
+    "baseWord": "pay",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: payment",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word payment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu payment trong email cong viec.",
+    "collocations": [
+      "payment review",
+      "payment process",
+      "payment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "payment"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "penalty-noun",
+    "word": "penalty",
+    "baseWord": "penalty",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: penalty",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word penalty in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu penalty trong email cong viec.",
+    "collocations": [
+      "penalty review",
+      "penalty process",
+      "penalty update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "penalty"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "periodic-adjective",
+    "word": "periodic",
+    "baseWord": "period",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: periodic",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word periodic in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu periodic trong email cong viec.",
+    "collocations": [
+      "periodic review",
+      "periodic process",
+      "periodic update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "periodic"
+    ],
+    "day": 59,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "airy-adjective",
@@ -2246,7 +2761,7 @@
     "type": "adjective",
     "meaning": "thoáng đãng",
     "pronunciation": "/airy/",
-    "topic": "Hospitality & Dining",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2264,91 +2779,11 @@
     "wordFamily": [
       "airy"
     ],
-    "day": 60
-  },
-  {
-    "id": "available-for-booking-phrase",
-    "word": "available for booking",
-    "baseWord": "booking",
-    "type": "phrase",
-    "meaning": "còn trống để đặt",
-    "pronunciation": "/available for booking/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the available for booking carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét còn trống để đặt cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm available for booking",
-      "available for booking details",
-      "review available for booking"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "booking"
-    ],
-    "day": 60
-  },
-  {
-    "id": "clear-the-table-phrase",
-    "word": "clear the table",
-    "baseWord": "table",
-    "type": "phrase",
-    "meaning": "dọn bàn",
-    "pronunciation": "/clear the table/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the clear the table carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dọn bàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm clear the table",
-      "clear the table details",
-      "review clear the table"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "table"
-    ],
-    "day": 60
-  },
-  {
-    "id": "confirm-a-booking-phrase",
-    "word": "confirm a booking",
-    "baseWord": "booking",
-    "type": "phrase",
-    "meaning": "xác nhận đặt chỗ",
-    "pronunciation": "/confirm a booking/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the confirm a booking carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét xác nhận đặt chỗ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm confirm a booking",
-      "confirm a booking details",
-      "review confirm a booking"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "booking"
-    ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "garnish-verb",
@@ -2357,7 +2792,7 @@
     "type": "verb",
     "meaning": "trang trí món ăn",
     "pronunciation": "/garnish/",
-    "topic": "Hospitality & Dining",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2376,7 +2811,11 @@
     "wordFamily": [
       "garnish"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "greet-verb",
@@ -2385,7 +2824,7 @@
     "type": "verb",
     "meaning": "chào đón",
     "pronunciation": "/greet/",
-    "topic": "Hospitality & Dining",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2404,7 +2843,11 @@
     "wordFamily": [
       "greet"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "guest-focused-adjective",
@@ -2413,7 +2856,7 @@
     "type": "adjective",
     "meaning": "tập trung vào khách hàng",
     "pronunciation": "/guest-focused/",
-    "topic": "Hospitality & Dining",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2431,91 +2874,116 @@
     "wordFamily": [
       "guest-focused"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "meet-guest-needs-phrase",
-    "word": "meet guest needs",
-    "baseWord": "needs",
-    "type": "phrase",
-    "meaning": "đáp ứng nhu cầu của khách",
-    "pronunciation": "/meet guest needs/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the meet guest needs carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đáp ứng nhu cầu của khách cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm meet guest needs",
-      "meet guest needs details",
-      "review meet guest needs"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "needs"
-    ],
-    "day": 60
-  },
-  {
-    "id": "offer-an-apology-phrase",
-    "word": "offer an apology",
-    "baseWord": "apology",
-    "type": "phrase",
-    "meaning": "đưa ra lời xin lỗi",
-    "pronunciation": "/offer an apology/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the offer an apology carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đưa ra lời xin lỗi cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm offer an apology",
-      "offer an apology details",
-      "review offer an apology"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "apology"
-    ],
-    "day": 60
-  },
-  {
-    "id": "offer-compensation-phrase",
-    "word": "offer compensation",
-    "baseWord": "compensation",
-    "type": "phrase",
-    "meaning": "đề nghị bồi thường",
-    "pronunciation": "/offer compensation/",
-    "topic": "Hospitality & Dining",
+    "id": "periodically-adverb",
+    "word": "periodically",
+    "baseWord": "periodical",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: periodically",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the offer compensation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đề nghị bồi thường cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word periodically in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu periodically trong email cong viec.",
     "collocations": [
-      "confirm offer compensation",
-      "offer compensation details",
-      "review offer compensation"
+      "periodically review",
+      "periodically process",
+      "periodically update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "compensation"
+      "periodically"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "perspective-adjective",
+    "word": "perspective",
+    "baseWord": "perspect",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: perspective",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word perspective in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu perspective trong email cong viec.",
+    "collocations": [
+      "perspective review",
+      "perspective process",
+      "perspective update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "perspective"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "placement-adjective",
+    "word": "placement",
+    "baseWord": "place",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: placement",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word placement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu placement trong email cong viec.",
+    "collocations": [
+      "placement review",
+      "placement process",
+      "placement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "placement"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "politely-adverb",
@@ -2524,7 +2992,7 @@
     "type": "adverb",
     "meaning": "một cách lịch sự",
     "pronunciation": "/politely/",
-    "topic": "Hospitality & Dining",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2542,7 +3010,151 @@
     "wordFamily": [
       "politely"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "portable-adjective",
+    "word": "portable",
+    "baseWord": "port",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: portable",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word portable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu portable trong email cong viec.",
+    "collocations": [
+      "portable review",
+      "portable process",
+      "portable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "portable"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "practical-adjective",
+    "word": "practical",
+    "baseWord": "practic",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: practical",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word practical in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu practical trong email cong viec.",
+    "collocations": [
+      "practical review",
+      "practical process",
+      "practical update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "practical"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "practically-adverb",
+    "word": "practically",
+    "baseWord": "practical",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: practically",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word practically in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu practically trong email cong viec.",
+    "collocations": [
+      "practically review",
+      "practically process",
+      "practically update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "practically"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "premises-noun",
+    "word": "premises",
+    "baseWord": "premises",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: premises",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word premises in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu premises trong email cong viec.",
+    "collocations": [
+      "premises review",
+      "premises process",
+      "premises update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "premises"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "prepare-verb",
@@ -2551,7 +3163,7 @@
     "type": "verb",
     "meaning": "chuẩn bị",
     "pronunciation": "/prepare/",
-    "topic": "Hospitality & Dining",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2570,16 +3182,20 @@
     "wordFamily": [
       "prepare"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
-    "id": "recommend-a-dish-phrase",
-    "word": "recommend a dish",
-    "baseWord": "dish",
-    "type": "phrase",
-    "meaning": "đề xuất món ăn",
-    "pronunciation": "/recommend a dish/",
-    "topic": "Hospitality & Dining",
+    "id": "procedural-adjective",
+    "word": "procedural",
+    "baseWord": "procedur",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: procedural",
+    "pronunciation": "",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2587,18 +3203,130 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the recommend a dish carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đề xuất món ăn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word procedural in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu procedural trong email cong viec.",
     "collocations": [
-      "confirm recommend a dish",
-      "recommend a dish details",
-      "review recommend a dish"
+      "procedural review",
+      "procedural process",
+      "procedural update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "dish"
+      "procedural"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "process-noun",
+    "word": "process",
+    "baseWord": "process",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: process",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word process in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu process trong email cong viec.",
+    "collocations": [
+      "process review",
+      "process process",
+      "process update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "process"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "procure-noun",
+    "word": "procure",
+    "baseWord": "procure",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: procure",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word procure in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu procure trong email cong viec.",
+    "collocations": [
+      "procure review",
+      "procure process",
+      "procure update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "procure"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "procurement-adjective",
+    "word": "procurement",
+    "baseWord": "procure",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: procurement",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word procurement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu procurement trong email cong viec.",
+    "collocations": [
+      "procurement review",
+      "procurement process",
+      "procurement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "procurement"
+    ],
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "refill-verb",
@@ -2607,7 +3335,7 @@
     "type": "verb",
     "meaning": "châm thêm",
     "pronunciation": "/refill/",
-    "topic": "Hospitality & Dining",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2626,91 +3354,11 @@
     "wordFamily": [
       "refill"
     ],
-    "day": 60
-  },
-  {
-    "id": "reserve-a-table-phrase",
-    "word": "reserve a table",
-    "baseWord": "table",
-    "type": "phrase",
-    "meaning": "đặt bàn",
-    "pronunciation": "/reserve a table/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the reserve a table carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đặt bàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm reserve a table",
-      "reserve a table details",
-      "review reserve a table"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "table"
-    ],
-    "day": 60
-  },
-  {
-    "id": "sanitize-a-surface-phrase",
-    "word": "sanitize a surface",
-    "baseWord": "surface",
-    "type": "phrase",
-    "meaning": "khử trùng bề mặt",
-    "pronunciation": "/sanitize a surface/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sanitize a surface carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khử trùng bề mặt cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sanitize a surface",
-      "sanitize a surface details",
-      "review sanitize a surface"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "surface"
-    ],
-    "day": 60
-  },
-  {
-    "id": "seat-guests-phrase",
-    "word": "seat guests",
-    "baseWord": "guests",
-    "type": "phrase",
-    "meaning": "xếp chỗ cho khách",
-    "pronunciation": "/seat guests/",
-    "topic": "Hospitality & Dining",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the seat guests carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét xếp chỗ cho khách cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm seat guests",
-      "seat guests details",
-      "review seat guests"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "guests"
-    ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "serve-verb",
@@ -2719,7 +3367,7 @@
     "type": "verb",
     "meaning": "phục vụ",
     "pronunciation": "/serve/",
-    "topic": "Hospitality & Dining",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2738,7 +3386,11 @@
     "wordFamily": [
       "serve"
     ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "service-minded-adjective",
@@ -2747,7 +3399,7 @@
     "type": "adjective",
     "meaning": "có tinh thần phục vụ",
     "pronunciation": "/service-minded/",
-    "topic": "Hospitality & Dining",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2765,34 +3417,10 @@
     "wordFamily": [
       "service-minded"
     ],
-    "day": 60
-  },
-  {
-    "id": "without-making-guests-wait-phrase",
-    "word": "without making guests wait",
-    "baseWord": "wait",
-    "type": "phrase",
-    "meaning": "không để khách phải chờ",
-    "pronunciation": "/without making guests wait/",
-    "topic": "Hospitality & Dining",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the without making guests wait carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét không để khách phải chờ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm without making guests wait",
-      "without making guests wait details",
-      "review without making guests wait"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "wait"
-    ],
-    "day": 60
+    "day": 60,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

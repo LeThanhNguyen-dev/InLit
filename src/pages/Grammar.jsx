@@ -13,9 +13,16 @@ export default function Grammar() {
 
   return (
     <div className="space-y-6">
-      <header><h1 className="text-3xl font-black">Ngữ pháp</h1><p className="text-vault-muted">Học cấu trúc, dấu hiệu nhận biết, ví dụ và lỗi sai thường gặp.</p></header>
+      <header>
+        <h1 className="text-3xl font-black">Grammar TOEIC</h1>
+        <p className="text-vault-muted">Nắm vững 38 chủ đề ngữ pháp trọng tâm trong đề thi, kèm lỗi thường gặp và cách áp dụng.</p>
+      </header>
+      <div className="subtle-card p-4">
+        <p className="text-sm font-bold text-vault-muted">Chủ đề ngữ pháp trọng tâm</p>
+        <p className="text-3xl font-black text-vault-ink">{grammar.length}</p>
+      </div>
       <div className="grid gap-5">
-        {grammar.map((lesson) => <GrammarCard key={lesson.id} lesson={lesson} completed={completed.includes(lesson.id)} onComplete={mark} />)}
+        {grammar.map((lesson) => <GrammarCard key={`${lesson.id}-${version}`} lesson={lesson} completed={completed.includes(lesson.id)} onComplete={mark} />)}
       </div>
     </div>
   );

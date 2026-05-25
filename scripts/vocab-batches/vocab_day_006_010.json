@@ -6,7 +6,7 @@
     "type": "verb",
     "meaning": "hoãn lại, tạm dừng",
     "pronunciation": "/əˈdʒɜːrn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -28,7 +28,11 @@
       "adjournment",
       "adjourned"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "attend-verb",
@@ -37,7 +41,7 @@
     "type": "verb",
     "meaning": "tham dự, tham gia",
     "pronunciation": "/əˈtɛnd/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -61,7 +65,11 @@
       "attendee",
       "attendant"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "brief-adjective",
@@ -70,7 +78,7 @@
     "type": "adjective",
     "meaning": "ngắn gọn, vắn tắt",
     "pronunciation": "/briːf/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -92,7 +100,11 @@
       "briefly",
       "briefing"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "chairperson-noun",
@@ -101,7 +113,7 @@
     "type": "noun",
     "meaning": "chủ tọa, chủ tịch cuộc họp",
     "pronunciation": "/ˈtʃerpɜːrsn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -123,7 +135,11 @@
     "wordFamily": [
       "chair"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "clarify-verb",
@@ -132,7 +148,7 @@
     "type": "verb",
     "meaning": "làm rõ, làm cho dễ hiểu",
     "pronunciation": "/ˈklærəfaɪ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -154,7 +170,11 @@
       "clarification",
       "clarity"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "conference-noun",
@@ -163,7 +183,7 @@
     "type": "noun",
     "meaning": "hội nghị, cuộc thảo luận",
     "pronunciation": "/ˈkɑːnfərəns/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -186,7 +206,11 @@
     "wordFamily": [
       "confer"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "consensus-noun",
@@ -195,7 +219,7 @@
     "type": "noun",
     "meaning": "sự nhất trí, sự đồng thuận",
     "pronunciation": "/kənˈsɛnsəs/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -218,7 +242,11 @@
     "wordFamily": [
       "consensual"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "delegate-verb",
@@ -227,7 +255,7 @@
     "type": "verb",
     "meaning": "giao phó, ủy quyền",
     "pronunciation": "/ˈdɛləɡeɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -250,7 +278,11 @@
       "delegate-noun",
       "delegation"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "facilitate-verb",
@@ -259,7 +291,7 @@
     "type": "verb",
     "meaning": "tạo điều kiện, làm cho thuận tiện",
     "pronunciation": "/fəˈsɪlɪteɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -282,7 +314,11 @@
       "facilitator",
       "facilitation"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "implement-verb",
@@ -291,7 +327,7 @@
     "type": "verb",
     "meaning": "triển khai, thực hiện",
     "pronunciation": "/ˈɪmplɪmɛnt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -315,7 +351,11 @@
       "implementation",
       "implemented"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "minutes-noun",
@@ -324,7 +364,7 @@
     "type": "noun",
     "meaning": "biên bản cuộc họp",
     "pronunciation": "/ˈmɪnɪts/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -345,7 +385,11 @@
       "transcript"
     ],
     "wordFamily": [],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "objective-noun",
@@ -354,7 +398,7 @@
     "type": "noun",
     "meaning": "mục tiêu",
     "pronunciation": "/əbˈdʒɛktɪv/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -379,7 +423,11 @@
       "objectively",
       "objectivity"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "outline-verb",
@@ -388,7 +436,7 @@
     "type": "verb",
     "meaning": "phác thảo, vạch ra",
     "pronunciation": "/ˈaʊtlaɪn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -410,7 +458,11 @@
     "wordFamily": [
       "outline-noun"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "participant-noun",
@@ -419,7 +471,7 @@
     "type": "noun",
     "meaning": "người tham gia",
     "pronunciation": "/pɑːrˈtɪsɪpənt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -442,7 +494,11 @@
       "participation",
       "participatory"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "presentation-noun",
@@ -451,7 +507,7 @@
     "type": "noun",
     "meaning": "bài thuyết trình, sự trình bày",
     "pronunciation": "/ˌpriːzenˈteɪʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -475,7 +531,11 @@
       "present",
       "presenter"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "propose-verb",
@@ -484,7 +544,7 @@
     "type": "verb",
     "meaning": "đề xuất, đề nghị",
     "pronunciation": "/prəˈpoʊz/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -508,7 +568,11 @@
       "proposal",
       "proposition"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "reschedule-verb",
@@ -517,7 +581,7 @@
     "type": "verb",
     "meaning": "đổi lịch, lên lịch lại",
     "pronunciation": "/ˌriːˈskedʒuːl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -538,7 +602,11 @@
     "wordFamily": [
       "scheduled"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "revise-verb",
@@ -547,7 +615,7 @@
     "type": "verb",
     "meaning": "chỉnh sửa, sửa đổi",
     "pronunciation": "/rɪˈvaɪz/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -570,7 +638,11 @@
       "revision",
       "revised"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "unanimous-adjective",
@@ -579,7 +651,7 @@
     "type": "adjective",
     "meaning": "nhất trí, đồng lòng",
     "pronunciation": "/juːˈnænɪməs/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -602,7 +674,11 @@
       "unanimously",
       "unanimity"
     ],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "venue-noun",
@@ -611,7 +687,7 @@
     "type": "noun",
     "meaning": "địa điểm tổ chức",
     "pronunciation": "/ˈvenjuː/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -632,35 +708,45 @@
       "site"
     ],
     "wordFamily": [],
-    "day": 6
+    "day": 6,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "agenda item-noun",
-    "word": "agenda item",
-    "baseWord": "agenda item",
+    "id": "accomplish-noun",
+    "word": "accomplish",
+    "baseWord": "accomplish",
     "type": "noun",
-    "meaning": "đề mục thảo luận trong chương trình họp",
-    "pronunciation": "/əˈdʒendə ˈaɪtəm/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
+    "meaning": "tu vung cot loi TOEIC 700: accomplish",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "The first agenda item is the review of last quarter's financial report.",
-    "exampleVi": "Đề mục thảo luận đầu tiên trong chương trình là xem xét báo cáo tài chính quý trước.",
+    "example": "The manager used the word accomplish in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu accomplish trong email cong viec.",
     "collocations": [
-      "first agenda item",
-      "add an agenda item",
-      "discuss an agenda item"
+      "accomplish review",
+      "accomplish process",
+      "accomplish update"
     ],
     "synonyms": [
-      "topic",
-      "discussion point"
+      "TOEIC core word",
+      "business vocabulary"
     ],
-    "wordFamily": [],
-    "day": 7
+    "wordFamily": [
+      "accomplish"
+    ],
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "allocate-verb",
@@ -692,7 +778,11 @@
       "allocation",
       "allocated"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "brainstorm-verb",
@@ -701,7 +791,7 @@
     "type": "verb",
     "meaning": "động não, thảo luận tìm ý tưởng",
     "pronunciation": "/ˈbreɪnstɔːrm/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -722,7 +812,11 @@
     "wordFamily": [
       "brainstorming"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "collaborate-verb",
@@ -731,7 +825,7 @@
     "type": "verb",
     "meaning": "hợp tác, cộng tác",
     "pronunciation": "/kəˈlæbəreɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -755,7 +849,11 @@
       "collaborative",
       "collaborator"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "conclude-verb",
@@ -764,7 +862,7 @@
     "type": "verb",
     "meaning": "kết luận, kết thúc",
     "pronunciation": "/kənˈkluːd/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -789,7 +887,11 @@
       "conclusive",
       "conclusively"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "convene-verb",
@@ -798,7 +900,7 @@
     "type": "verb",
     "meaning": "triệu tập (cuộc họp), họp lại",
     "pronunciation": "/kənˈviːn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -821,7 +923,11 @@
       "convener",
       "convention"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "facilitator-noun",
@@ -830,7 +936,7 @@
     "type": "noun",
     "meaning": "người hỗ trợ, người điều phối",
     "pronunciation": "/fəˈsɪlɪteɪtər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -851,7 +957,11 @@
       "facilitate",
       "facilitation"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "follow-up-noun",
@@ -860,7 +970,7 @@
     "type": "noun",
     "meaning": "bước tiếp theo, hành động tiếp nối",
     "pronunciation": "/ˈfɑːloʊ ʌp/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -877,7 +987,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "handout-noun",
@@ -886,7 +1000,7 @@
     "type": "noun",
     "meaning": "tài liệu phát tay",
     "pronunciation": "/ˈhændaʊt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -905,7 +1019,11 @@
       "pamphlet"
     ],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "keynote-noun",
@@ -914,7 +1032,7 @@
     "type": "noun",
     "meaning": "bài diễn văn chính, điểm then chốt",
     "pronunciation": "/ˈkiːnoʊt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -930,7 +1048,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "minute-verb",
@@ -939,7 +1061,7 @@
     "type": "verb",
     "meaning": "ghi biên bản cuộc họp",
     "pronunciation": "/ˈmɪnɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Marketing & Advertising",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -958,7 +1080,11 @@
     "wordFamily": [
       "minutes"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "moderator-noun",
@@ -967,7 +1093,7 @@
     "type": "noun",
     "meaning": "người điều phối, người làm chủ bàn tròn",
     "pronunciation": "/ˈmɑːdəreɪtər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -989,7 +1115,11 @@
       "moderate",
       "moderation"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "motion-noun",
@@ -998,7 +1128,7 @@
     "type": "noun",
     "meaning": "kiến nghị, đề xuất (tại cuộc họp)",
     "pronunciation": "/ˈmoʊʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1017,7 +1147,11 @@
       "suggestion"
     ],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "preliminary-adjective",
@@ -1026,7 +1160,7 @@
     "type": "adjective",
     "meaning": "sơ bộ, mở đầu",
     "pronunciation": "/prɪˈlɪmɪneri/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1049,7 +1183,11 @@
     "wordFamily": [
       "preliminaries"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "prioritize-verb",
@@ -1058,7 +1196,7 @@
     "type": "verb",
     "meaning": "ưu tiên",
     "pronunciation": "/praɪˈɔːrətaɪz/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1080,7 +1218,11 @@
       "priority",
       "prioritization"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "projector-noun",
@@ -1089,7 +1231,7 @@
     "type": "noun",
     "meaning": "máy chiếu",
     "pronunciation": "/prəˈdʒɛktər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1107,7 +1249,11 @@
     "wordFamily": [
       "project"
     ],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "quorum-noun",
@@ -1116,7 +1262,7 @@
     "type": "noun",
     "meaning": "túc số, số lượng thành viên tối thiểu để tiến hành họp",
     "pronunciation": "/ˈkwɔːrəm/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Manufacturing & Production",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1132,7 +1278,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "seminar-noun",
@@ -1141,7 +1291,7 @@
     "type": "noun",
     "meaning": "hội thảo chuyên đề",
     "pronunciation": "/ˈsemɪnɑːr/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1162,7 +1312,11 @@
       "conference"
     ],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "teleconference-noun",
@@ -1171,7 +1325,7 @@
     "type": "noun",
     "meaning": "cuộc họp qua điện thoại/mạng viễn thông",
     "pronunciation": "/ˈtelikɑːnfərəns/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1190,7 +1344,11 @@
       "videoconference"
     ],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "timetable-noun",
@@ -1199,7 +1357,7 @@
     "type": "noun",
     "meaning": "thời khóa biểu, lịch trình",
     "pronunciation": "/ˈtaɪmteɪbl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1219,7 +1377,114 @@
       "calendar"
     ],
     "wordFamily": [],
-    "day": 7
+    "day": 7,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "accomplishment-adjective",
+    "word": "accomplishment",
+    "baseWord": "accomplish",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: accomplishment",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The manager used the word accomplishment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu accomplishment trong email cong viec.",
+    "collocations": [
+      "accomplishment review",
+      "accomplishment process",
+      "accomplishment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "accomplishment"
+    ],
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "accountability-noun",
+    "word": "accountability",
+    "baseWord": "accountabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: accountability",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word accountability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu accountability trong email cong viec.",
+    "collocations": [
+      "accountability review",
+      "accountability process",
+      "accountability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "accountability"
+    ],
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "accurate-verb",
+    "word": "accurate",
+    "baseWord": "accur",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: accurate",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The manager used the word accurate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu accurate trong email cong viec.",
+    "collocations": [
+      "accurate review",
+      "accurate process",
+      "accurate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "accurate"
+    ],
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "adjournment-noun",
@@ -1228,7 +1493,7 @@
     "type": "noun",
     "meaning": "sự hoãn lại, sự tạm nghỉ cuộc họp",
     "pronunciation": "/əˈdʒɜːrnmənt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1251,36 +1516,11 @@
       "adjourn",
       "adjourned"
     ],
-    "day": 8
-  },
-  {
-    "id": "bring up-phrase",
-    "word": "bring up",
-    "baseWord": "bring up",
-    "type": "phrase",
-    "meaning": "đưa ra (thảo luận, đề cập)",
-    "pronunciation": "/brɪŋ ʌp/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4"
-    ],
-    "example": "Please bring up the shipping delay at the staff meeting.",
-    "exampleVi": "Vui lòng đưa việc chậm trễ vận chuyển ra thảo luận tại cuộc họp nhân viên.",
-    "collocations": [
-      "bring up a topic",
-      "bring up a problem",
-      "bring up an issue"
-    ],
-    "synonyms": [
-      "raise",
-      "mention",
-      "introduce"
-    ],
-    "wordFamily": [],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "cancel-verb",
@@ -1289,7 +1529,7 @@
     "type": "verb",
     "meaning": "hủy bỏ",
     "pronunciation": "/ˈkænsl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1312,7 +1552,11 @@
       "cancellation",
       "canceled"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "conflict-noun",
@@ -1321,7 +1565,7 @@
     "type": "noun",
     "meaning": "xung đột, sự trùng lặp (lịch trình)",
     "pronunciation": "/ˈkɑːnflɪkt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1344,7 +1588,11 @@
       "conflict-verb",
       "conflicting"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "coordinate-verb",
@@ -1353,7 +1601,7 @@
     "type": "verb",
     "meaning": "phối hợp, điều phối",
     "pronunciation": "/koʊˈɔːrdɪneɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1378,7 +1626,11 @@
       "coordination",
       "coordinated"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "coordinator-noun",
@@ -1387,7 +1639,7 @@
     "type": "noun",
     "meaning": "người điều phối, điều phối viên",
     "pronunciation": "/koʊˈɔːrdɪneɪtər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1409,7 +1661,11 @@
       "coordinate",
       "coordination"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "duration-noun",
@@ -1418,7 +1674,7 @@
     "type": "noun",
     "meaning": "thời lượng, khoảng thời gian kéo dài",
     "pronunciation": "/duˈreɪʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1441,7 +1697,11 @@
       "durable",
       "endure"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "forthcoming-adjective",
@@ -1450,7 +1710,7 @@
     "type": "adjective",
     "meaning": "sắp tới, sắp diễn ra",
     "pronunciation": "/ˌfɔːrθˈkʌmɪŋ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1471,7 +1731,11 @@
       "approaching"
     ],
     "wordFamily": [],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "mandatory-adjective",
@@ -1480,7 +1744,7 @@
     "type": "adjective",
     "meaning": "bắt buộc",
     "pronunciation": "/ˈmændətɔːri/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1503,7 +1767,11 @@
     "wordFamily": [
       "mandate"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "postponement-noun",
@@ -1512,7 +1780,7 @@
     "type": "noun",
     "meaning": "sự trì hoãn, sự hoãn lại",
     "pronunciation": "/poʊstˈpoʊnmənt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1534,7 +1802,11 @@
       "postpone",
       "postponed"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "proceed-verb",
@@ -1543,7 +1815,7 @@
     "type": "verb",
     "meaning": "tiến hành, tiếp tục",
     "pronunciation": "/proʊˈsiːd/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1567,7 +1839,11 @@
       "proceedings",
       "process"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "punctual-adjective",
@@ -1576,7 +1852,7 @@
     "type": "adjective",
     "meaning": "đúng giờ",
     "pronunciation": "/ˈpʌŋktʃuəl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1598,7 +1874,11 @@
       "punctually",
       "punctuality"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "recap-noun",
@@ -1607,7 +1887,7 @@
     "type": "noun",
     "meaning": "sự tóm tắt lại, sự ôn lại",
     "pronunciation": "/ˈriːkæp/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1628,7 +1908,11 @@
     "wordFamily": [
       "recap-verb"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "reconvene-verb",
@@ -1637,7 +1921,7 @@
     "type": "verb",
     "meaning": "tập hợp lại, họp lại",
     "pronunciation": "/ˌriːkənˈviːn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1658,7 +1942,11 @@
     "wordFamily": [
       "convene"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "reminder-noun",
@@ -1667,7 +1955,7 @@
     "type": "noun",
     "meaning": "lời nhắc nhở, thông báo nhắc nhở",
     "pronunciation": "/rɪˈmaɪndər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1689,7 +1977,11 @@
     "wordFamily": [
       "remind"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "session-noun",
@@ -1698,7 +1990,7 @@
     "type": "noun",
     "meaning": "phiên, buổi họp, khóa học",
     "pronunciation": "/ˈseʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1719,7 +2011,11 @@
       "class"
     ],
     "wordFamily": [],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "slot-noun",
@@ -1728,7 +2024,7 @@
     "type": "noun",
     "meaning": "khung giờ, vị trí, chỗ",
     "pronunciation": "/slɑːt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1748,37 +2044,11 @@
       "space"
     ],
     "wordFamily": [],
-    "day": 8
-  },
-  {
-    "id": "take place-phrase",
-    "word": "take place",
-    "baseWord": "take place",
-    "type": "phrase",
-    "meaning": "diễn ra, được tổ chức",
-    "pronunciation": "/teɪk pleɪs/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "The training session will take place in the conference hall.",
-    "exampleVi": "Buổi đào tạo sẽ diễn ra tại hội trường lớn.",
-    "collocations": [
-      "take place in",
-      "take place at",
-      "scheduled to take place"
-    ],
-    "synonyms": [
-      "happen",
-      "occur",
-      "be held"
-    ],
-    "wordFamily": [],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "tentative-adjective",
@@ -1787,7 +2057,7 @@
     "type": "adjective",
     "meaning": "dự kiến, tạm thời",
     "pronunciation": "/ˈtentətɪv/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1810,36 +2080,182 @@
     "wordFamily": [
       "tentatively"
     ],
-    "day": 8
+    "day": 8,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "wrap up-phrase",
-    "word": "wrap up",
-    "baseWord": "wrap up",
-    "type": "phrase",
-    "meaning": "kết thúc, hoàn thành",
-    "pronunciation": "/ræp ʌp/",
+    "id": "accuracy-noun",
+    "word": "accuracy",
+    "baseWord": "accuracy",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: accuracy",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The manager used the word accuracy in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu accuracy trong email cong viec.",
+    "collocations": [
+      "accuracy review",
+      "accuracy process",
+      "accuracy update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "accuracy"
+    ],
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "adapt-noun",
+    "word": "adapt",
+    "baseWord": "adapt",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: adapt",
+    "pronunciation": "",
     "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
-      "Part 4"
+      "Part 5"
     ],
-    "example": "We should wrap up the meeting in ten minutes to catch our train.",
-    "exampleVi": "Chúng ta nên kết thúc cuộc họp trong mười phút nữa để kịp chuyến tàu.",
+    "example": "The manager used the word adapt in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adapt trong email cong viec.",
     "collocations": [
-      "wrap up a meeting",
-      "wrap up a project",
-      "wrap up a deal"
+      "adapt review",
+      "adapt process",
+      "adapt update"
     ],
     "synonyms": [
-      "conclude",
-      "finish",
-      "complete"
+      "TOEIC core word",
+      "business vocabulary"
     ],
-    "wordFamily": [],
-    "day": 8
+    "wordFamily": [
+      "adapt"
+    ],
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "adaptable-adjective",
+    "word": "adaptable",
+    "baseWord": "adapt",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: adaptable",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word adaptable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adaptable trong email cong viec.",
+    "collocations": [
+      "adaptable review",
+      "adaptable process",
+      "adaptable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adaptable"
+    ],
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "adaptation-noun",
+    "word": "adaptation",
+    "baseWord": "adapta",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: adaptation",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word adaptation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adaptation trong email cong viec.",
+    "collocations": [
+      "adaptation review",
+      "adaptation process",
+      "adaptation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adaptation"
+    ],
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "adequate-verb",
+    "word": "adequate",
+    "baseWord": "adequ",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: adequate",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The manager used the word adequate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adequate trong email cong viec.",
+    "collocations": [
+      "adequate review",
+      "adequate process",
+      "adequate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adequate"
+    ],
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "assign-verb",
@@ -1848,7 +2264,7 @@
     "type": "verb",
     "meaning": "phân công, giao việc, bổ nhiệm",
     "pronunciation": "/əˈsaɪn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1871,7 +2287,11 @@
       "assignment",
       "assigned"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "attendee-noun",
@@ -1880,7 +2300,7 @@
     "type": "noun",
     "meaning": "người tham dự, người có mặt",
     "pronunciation": "/əˌtenˈdiː/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1903,7 +2323,11 @@
       "attend",
       "attendance"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "audiovisual-adjective",
@@ -1912,7 +2336,7 @@
     "type": "adjective",
     "meaning": "(thuộc) nghe nhìn",
     "pronunciation": "/ˌɔːdiəʊˈvɪʒuəl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1933,7 +2357,11 @@
       "audio",
       "visual"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "benchmark-noun",
@@ -1942,7 +2370,7 @@
     "type": "noun",
     "meaning": "điểm chuẩn, tiêu chuẩn đối chiếu",
     "pronunciation": "/ˈbentʃmɑːrk/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1964,7 +2392,11 @@
     "wordFamily": [
       "benchmark-verb"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "bulletin-noun",
@@ -1973,7 +2405,7 @@
     "type": "noun",
     "meaning": "bản tin, thông báo ngắn",
     "pronunciation": "/ˈbʊlətɪn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1994,89 +2426,11 @@
       "notice"
     ],
     "wordFamily": [],
-    "day": 9
-  },
-  {
-    "id": "call to order-phrase",
-    "word": "call to order",
-    "baseWord": "call to order",
-    "type": "phrase",
-    "meaning": "tuyên bố khai mạc cuộc họp",
-    "pronunciation": "/kɔːl tuː ˈɔːrdər/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4"
-    ],
-    "example": "The chairperson called the board meeting to order at exactly 9:00 AM.",
-    "exampleVi": "Chủ tọa đã tuyên bố khai mạc cuộc họp hội đồng quản trị đúng 9 giờ sáng.",
-    "collocations": [
-      "call the meeting to order",
-      "call to order by"
-    ],
-    "synonyms": [
-      "open",
-      "commence"
-    ],
-    "wordFamily": [],
-    "day": 9
-  },
-  {
-    "id": "carry over-phrase",
-    "word": "carry over",
-    "baseWord": "carry over",
-    "type": "phrase",
-    "meaning": "mang sang, chuyển tiếp sang kỳ sau",
-    "pronunciation": "/ˈkæri ˈoʊvər/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "We will have to carry over the remaining agenda items to the next meeting.",
-    "exampleVi": "Chúng tôi sẽ phải chuyển tiếp các đề mục thảo luận còn lại sang cuộc họp tiếp theo.",
-    "collocations": [
-      "carry over to",
-      "carry over funds",
-      "carry over balance"
-    ],
-    "synonyms": [
-      "transfer",
-      "postpone"
-    ],
-    "wordFamily": [],
-    "day": 9
-  },
-  {
-    "id": "deadline extension-phrase",
-    "word": "deadline extension",
-    "baseWord": "deadline extension",
-    "type": "phrase",
-    "meaning": "việc gia hạn hạn chót",
-    "pronunciation": "/ˈdedlaɪn ɪkˈstenʃn/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The client approved our request for a deadline extension.",
-    "exampleVi": "Khách hàng đã chấp thuận yêu cầu gia hạn hạn chót của chúng tôi.",
-    "collocations": [
-      "request a deadline extension",
-      "grant a deadline extension",
-      "approve a deadline extension"
-    ],
-    "synonyms": [
-      "time extension"
-    ],
-    "wordFamily": [],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "initiative-noun",
@@ -2085,7 +2439,7 @@
     "type": "noun",
     "meaning": "sáng kiến, thế chủ động, kế hoạch mới",
     "pronunciation": "/ɪˈnɪʃətɪv/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2110,7 +2464,11 @@
       "initiation",
       "initial"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "logistics-noun",
@@ -2119,7 +2477,7 @@
     "type": "noun",
     "meaning": "hậu cần, việc tổ chức thực hiện",
     "pronunciation": "/ləˈdʒɪstɪks/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2141,7 +2499,11 @@
       "logistic",
       "logistical"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "material-noun",
@@ -2150,7 +2512,7 @@
     "type": "noun",
     "meaning": "tài liệu, vật liệu, nguyên liệu",
     "pronunciation": "/məˈtɪriəl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2174,7 +2536,11 @@
       "materialize",
       "materialistic"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "milestone-noun",
@@ -2183,7 +2549,7 @@
     "type": "noun",
     "meaning": "cột mốc quan trọng, dấu mốc lịch sử",
     "pronunciation": "/ˈmaɪlstoʊn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2202,36 +2568,11 @@
       "turning point"
     ],
     "wordFamily": [],
-    "day": 9
-  },
-  {
-    "id": "on the agenda-phrase",
-    "word": "on the agenda",
-    "baseWord": "on the agenda",
-    "type": "phrase",
-    "meaning": "có trong chương trình nghị sự/họp",
-    "pronunciation": "/ɑːn ðə əˈdʒendə/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "What is next on the agenda for today's committee meeting?",
-    "exampleVi": "Điều tiếp theo trong chương trình nghị sự cho cuộc họp ủy ban hôm nay là gì?",
-    "collocations": [
-      "item on the agenda",
-      "high on the agenda",
-      "put on the agenda"
-    ],
-    "synonyms": [
-      "scheduled",
-      "slated"
-    ],
-    "wordFamily": [],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "overview-noun",
@@ -2240,7 +2581,7 @@
     "type": "noun",
     "meaning": "tóm tắt tổng quan, cái nhìn khái quát",
     "pronunciation": "/ˈoʊvərvjuː/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2261,7 +2602,11 @@
       "outline"
     ],
     "wordFamily": [],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "panel-noun",
@@ -2270,7 +2615,7 @@
     "type": "noun",
     "meaning": "hội đồng thảo luận, nhóm chuyên gia",
     "pronunciation": "/ˈpænl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2292,7 +2637,11 @@
     "wordFamily": [
       "panelist"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "productive-adjective",
@@ -2301,7 +2650,7 @@
     "type": "adjective",
     "meaning": "năng suất, hiệu quả, sinh lợi",
     "pronunciation": "/prəˈdʌktɪv/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2327,35 +2676,11 @@
       "productivity",
       "productively"
     ],
-    "day": 9
-  },
-  {
-    "id": "run over-phrase",
-    "word": "run over",
-    "baseWord": "run over",
-    "type": "phrase",
-    "meaning": "kéo dài quá giờ (cuộc họp), tràn qua",
-    "pronunciation": "/rʌn ˈoʊvər/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4"
-    ],
-    "example": "The morning session ran over by fifteen minutes.",
-    "exampleVi": "Buổi họp sáng đã kéo dài quá giờ mất mười lăm phút.",
-    "collocations": [
-      "run over schedule",
-      "run over time",
-      "run over by"
-    ],
-    "synonyms": [
-      "exceed",
-      "go over"
-    ],
-    "wordFamily": [],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "stakeholder-noun",
@@ -2364,7 +2689,7 @@
     "type": "noun",
     "meaning": "bên liên quan, đối tác liên quan",
     "pronunciation": "/ˈsteɪkhoʊldər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2384,7 +2709,11 @@
       "shareholder"
     ],
     "wordFamily": [],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "summarize-verb",
@@ -2393,7 +2722,7 @@
     "type": "verb",
     "meaning": "tóm tắt, tóm lược",
     "pronunciation": "/ˈsʌməraɪz/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2416,7 +2745,11 @@
       "summary",
       "summation"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "timeframe-noun",
@@ -2425,7 +2758,7 @@
     "type": "noun",
     "meaning": "khung thời gian, khoảng thời gian",
     "pronunciation": "/ˈtaɪmfreɪm/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2449,7 +2782,44 @@
       "time",
       "frame"
     ],
-    "day": 9
+    "day": 9,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "adequately-adverb",
+    "word": "adequately",
+    "baseWord": "adequate",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: adequately",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3"
+    ],
+    "example": "The manager used the word adequately in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adequately trong email cong viec.",
+    "collocations": [
+      "adequately review",
+      "adequately process",
+      "adequately update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adequately"
+    ],
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "adjacent-adjective",
@@ -2458,7 +2828,7 @@
     "type": "adjective",
     "meaning": "liền kề, ngay cạnh",
     "pronunciation": "/əˈdʒeɪsnt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2478,7 +2848,114 @@
       "next to"
     ],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "adjust-noun",
+    "word": "adjust",
+    "baseWord": "adjust",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: adjust",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word adjust in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adjust trong email cong viec.",
+    "collocations": [
+      "adjust review",
+      "adjust process",
+      "adjust update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adjust"
+    ],
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "adjustment-adjective",
+    "word": "adjustment",
+    "baseWord": "adjust",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: adjustment",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word adjustment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu adjustment trong email cong viec.",
+    "collocations": [
+      "adjustment review",
+      "adjustment process",
+      "adjustment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "adjustment"
+    ],
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "administer-noun",
+    "word": "administer",
+    "baseWord": "administ",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: administer",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3"
+    ],
+    "example": "The manager used the word administer in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu administer trong email cong viec.",
+    "collocations": [
+      "administer review",
+      "administer process",
+      "administer update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "administer"
+    ],
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "attendance-noun",
@@ -2487,7 +2964,7 @@
     "type": "noun",
     "meaning": "sự tham gia, sự có mặt, số lượng người tham dự",
     "pronunciation": "/əˈtendəns/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2510,7 +2987,11 @@
       "attend",
       "attendee"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "attire-noun",
@@ -2519,7 +3000,7 @@
     "type": "noun",
     "meaning": "trang phục",
     "pronunciation": "/əˈtaɪər/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2540,7 +3021,11 @@
       "apparel"
     ],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "breakout-adjective",
@@ -2549,7 +3034,7 @@
     "type": "adjective",
     "meaning": "(phòng/buổi) thảo luận nhóm nhỏ, chia tách",
     "pronunciation": "/ˈbreɪkaʊt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2565,7 +3050,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "catering-noun",
@@ -2574,7 +3063,7 @@
     "type": "noun",
     "meaning": "dịch vụ cung cấp đồ ăn uống cho sự kiện",
     "pronunciation": "/ˈkeɪtərɪŋ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2593,7 +3082,11 @@
       "cater",
       "caterer"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "customary-adjective",
@@ -2602,7 +3095,7 @@
     "type": "adjective",
     "meaning": "theo phong tục, thông thường",
     "pronunciation": "/ˈkʌstəməri/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Business Events",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2626,7 +3119,11 @@
       "customer",
       "customize"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "discussion-noun",
@@ -2635,7 +3132,7 @@
     "type": "noun",
     "meaning": "cuộc thảo luận, sự thảo luận",
     "pronunciation": "/dɪˈskʌʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2658,7 +3155,11 @@
     "wordFamily": [
       "discuss"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "exhibit-verb",
@@ -2667,7 +3168,7 @@
     "type": "verb",
     "meaning": "trưng bày, triển lãm, thể hiện",
     "pronunciation": "/ɪɡˈzɪbɪt/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2692,7 +3193,11 @@
       "exhibitor",
       "exhibit-noun"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "hosting-noun",
@@ -2701,7 +3206,7 @@
     "type": "noun",
     "meaning": "việc đăng cai, việc tổ chức",
     "pronunciation": "/ˈhoʊstɪŋ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2723,7 +3228,11 @@
       "host",
       "hostess"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "nametag-noun",
@@ -2732,7 +3241,7 @@
     "type": "noun",
     "meaning": "thẻ tên",
     "pronunciation": "/ˈneɪmtæɡ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2751,7 +3260,11 @@
       "name badge"
     ],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "networking-noun",
@@ -2760,7 +3273,7 @@
     "type": "noun",
     "meaning": "việc kết nối, thiết lập mạng lưới quan hệ",
     "pronunciation": "/ˈnetwɜːrkɪŋ/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2782,32 +3295,11 @@
       "network",
       "networked"
     ],
-    "day": 10
-  },
-  {
-    "id": "pencil in-phrase",
-    "word": "pencil in",
-    "baseWord": "pencil in",
-    "type": "phrase",
-    "meaning": "ghi lịch dự kiến (có thể thay đổi sau)",
-    "pronunciation": "/ˈpensl ɪn/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3"
-    ],
-    "example": "Let's pencil in a tentative date for the project launch on June 15.",
-    "exampleVi": "Chúng ta hãy ghi lịch dự kiến cho ngày ra mắt dự án vào ngày 15 tháng 6.",
-    "collocations": [
-      "pencil in a date",
-      "pencil in a meeting"
-    ],
-    "synonyms": [
-      "schedule provisionally"
-    ],
-    "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "podium-noun",
@@ -2816,7 +3308,7 @@
     "type": "noun",
     "meaning": "bục phát biểu, bục nhận giải",
     "pronunciation": "/ˈpoʊdiəm/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2836,7 +3328,11 @@
       "platform"
     ],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "proposal-noun",
@@ -2845,7 +3341,7 @@
     "type": "noun",
     "meaning": "đề xuất, kiến nghị, kế hoạch đề xuất",
     "pronunciation": "/prəˈpoʊzl/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2869,7 +3365,11 @@
       "propose",
       "proposition"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "registration-noun",
@@ -2878,7 +3378,7 @@
     "type": "noun",
     "meaning": "sự đăng ký, việc ghi danh",
     "pronunciation": "/ˌredʒɪˈstreɪʃn/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2901,7 +3401,11 @@
       "register",
       "registered"
     ],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "RSVP-verb",
@@ -2910,7 +3414,7 @@
     "type": "verb",
     "meaning": "phản hồi lời mời (cho biết có tham dự hay không)",
     "pronunciation": "/ˌɑːr.es.viːˈpiː/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2929,101 +3433,11 @@
       "reply"
     ],
     "wordFamily": [],
-    "day": 10
-  },
-  {
-    "id": "seating-arrangement-phrase",
-    "word": "seating arrangement",
-    "baseWord": "seat",
-    "type": "phrase",
-    "meaning": "sự sắp xếp chỗ ngồi",
-    "pronunciation": "/ˈsiːtɪŋ əˈreɪndʒmənt/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "The organizers changed the seating arrangement to facilitate discussion.",
-    "exampleVi": "Ban tổ chức đã thay đổi cách sắp xếp chỗ ngồi để tạo điều kiện thuận lợi cho cuộc thảo luận.",
-    "collocations": [
-      "make a seating arrangement",
-      "seating arrangement plan",
-      "flexible seating arrangement"
-    ],
-    "synonyms": [
-      "seating plan",
-      "layout"
-    ],
-    "wordFamily": [
-      "seat",
-      "seating",
-      "arrange",
-      "arrangement"
-    ],
-    "day": 10
-  },
-  {
-    "id": "set up-phrase",
-    "word": "set up",
-    "baseWord": "set up",
-    "type": "phrase",
-    "meaning": "thiết lập, sắp xếp, bố trí",
-    "pronunciation": "/set ʌp/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "They will set up the tables and chairs in the main hall.",
-    "exampleVi": "Họ sẽ sắp xếp bàn ghế ở hội trường chính.",
-    "collocations": [
-      "set up a meeting",
-      "set up equipment",
-      "set up the room"
-    ],
-    "synonyms": [
-      "arrange",
-      "establish",
-      "prepare"
-    ],
-    "wordFamily": [
-      "setup"
-    ],
-    "day": 10
-  },
-  {
-    "id": "touch base-phrase",
-    "word": "touch base",
-    "baseWord": "touch base",
-    "type": "phrase",
-    "meaning": "liên lạc, trao đổi nhanh",
-    "pronunciation": "/tʌtʃ beɪs/",
-    "topic": "Meetings & Scheduling",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3"
-    ],
-    "example": "I will touch base with you after the client calls.",
-    "exampleVi": "Tôi sẽ liên lạc để trao đổi nhanh với bạn sau khi khách hàng gọi điện.",
-    "collocations": [
-      "touch base with",
-      "touch base later",
-      "touch base tomorrow"
-    ],
-    "synonyms": [
-      "contact",
-      "connect",
-      "catch up"
-    ],
-    "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "workshop-noun",
@@ -3032,7 +3446,7 @@
     "type": "noun",
     "meaning": "hội thảo thực hành, buổi tập huấn",
     "pronunciation": "/ˈwɜːrkʃɑːp/",
-    "topic": "Meetings & Scheduling",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3053,6 +3467,10 @@
       "session"
     ],
     "wordFamily": [],
-    "day": 10
+    "day": 10,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

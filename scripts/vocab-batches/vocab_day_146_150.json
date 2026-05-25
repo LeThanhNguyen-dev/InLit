@@ -1,1857 +1,361 @@
 [
   {
-    "id": "action-item-phrase",
-    "word": "action item",
-    "baseWord": "action",
+    "id": "bring-up-the-complaint-phrasal",
+    "word": "bring up the complaint",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "action item; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the complaint",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the action item before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa action item trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "action item",
-      "action item review",
-      "action item process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "action"
-    ],
-    "day": 146
-  },
-  {
-    "id": "briefing-note-phrase",
-    "word": "briefing note",
-    "baseWord": "briefing",
-    "type": "phrase",
-    "meaning": "briefing note; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the briefing note before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa briefing note trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "briefing note",
-      "briefing note review",
-      "briefing note process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "briefing"
-    ],
-    "day": 146
-  },
-  {
-    "id": "business-memo-phrase",
-    "word": "business memo",
-    "baseWord": "busines",
-    "type": "phrase",
-    "meaning": "business memo; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the business memo before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa business memo trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "business memo",
-      "business memo review",
-      "business memo process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "busines"
-    ],
-    "day": 146
-  },
-  {
-    "id": "communication-plan-phrase",
-    "word": "communication plan",
-    "baseWord": "communication",
-    "type": "phrase",
-    "meaning": "communication plan; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the communication plan before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa communication plan trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "communication plan",
-      "communication plan review",
-      "communication plan process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "communication"
-    ],
-    "day": 146
-  },
-  {
-    "id": "company-bulletin-phrase",
-    "word": "company bulletin",
-    "baseWord": "company",
-    "type": "phrase",
-    "meaning": "company bulletin; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the company bulletin before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa company bulletin trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the complaint before the end of the day.",
+    "exampleVi": "Nhom can bring up the complaint truoc cuoi ngay.",
     "collocations": [
-      "company bulletin",
-      "company bulletin review",
-      "company bulletin process"
+      "bring up the complaint",
+      "bring up the complaint today",
+      "bring up the complaint carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "company"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "decision-log-phrase",
-    "word": "decision log",
-    "baseWord": "decision",
+    "id": "bring-up-the-contract-phrasal",
+    "word": "bring up the contract",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "decision log; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the contract",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the contract before the end of the day.",
+    "exampleVi": "Nhom can bring up the contract truoc cuoi ngay.",
+    "collocations": [
+      "bring up the contract",
+      "bring up the contract today",
+      "bring up the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "bring-up-the-deadline-phrasal",
+    "word": "bring up the deadline",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the deadline",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the decision log before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa decision log trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the deadline before the end of the day.",
+    "exampleVi": "Nhom can bring up the deadline truoc cuoi ngay.",
     "collocations": [
-      "decision log",
-      "decision log review",
-      "decision log process"
+      "bring up the deadline",
+      "bring up the deadline today",
+      "bring up the deadline carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "decision"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "discussion-point-phrase",
-    "word": "discussion point",
-    "baseWord": "discussion",
+    "id": "bring-up-the-details-phrasal",
+    "word": "bring up the details",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "discussion point; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the details",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the discussion point before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa discussion point trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "discussion point",
-      "discussion point review",
-      "discussion point process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "discussion"
-    ],
-    "day": 146
-  },
-  {
-    "id": "formal-proposal-phrase",
-    "word": "formal proposal",
-    "baseWord": "formal",
-    "type": "phrase",
-    "meaning": "formal proposal; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the formal proposal before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa formal proposal trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "formal proposal",
-      "formal proposal review",
-      "formal proposal process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "formal"
-    ],
-    "day": 146
-  },
-  {
-    "id": "internal-announcement-phrase",
-    "word": "internal announcement",
-    "baseWord": "internal",
-    "type": "phrase",
-    "meaning": "internal announcement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the internal announcement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa internal announcement trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the details before the end of the day.",
+    "exampleVi": "Nhom can bring up the details truoc cuoi ngay.",
     "collocations": [
-      "internal announcement",
-      "internal announcement review",
-      "internal announcement process"
+      "bring up the details",
+      "bring up the details today",
+      "bring up the details carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "internal"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "key-message-phrase",
-    "word": "key message",
-    "baseWord": "key",
+    "id": "bring-up-the-figures-phrasal",
+    "word": "bring up the figures",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "key message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the figures",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the key message before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa key message trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "key message",
-      "key message review",
-      "key message process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "key"
-    ],
-    "day": 146
-  },
-  {
-    "id": "leadership-summary-note-phrase",
-    "word": "leadership summary note",
-    "baseWord": "leadership",
-    "type": "phrase",
-    "meaning": "leadership summary note; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the leadership summary note before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa leadership summary note trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the figures before the end of the day.",
+    "exampleVi": "Nhom can bring up the figures truoc cuoi ngay.",
     "collocations": [
-      "leadership summary note",
-      "leadership summary note review",
-      "leadership summary note process"
+      "bring up the figures",
+      "bring up the figures today",
+      "bring up the figures carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "leadership"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "meeting-agenda-phrase",
-    "word": "meeting agenda",
-    "baseWord": "meeting",
+    "id": "bring-up-the-file-phrasal",
+    "word": "bring up the file",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "meeting agenda; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the file",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Research & Reports",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the meeting agenda before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa meeting agenda trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the file before the end of the day.",
+    "exampleVi": "Nhom can bring up the file truoc cuoi ngay.",
     "collocations": [
-      "meeting agenda",
-      "meeting agenda review",
-      "meeting agenda process"
+      "bring up the file",
+      "bring up the file today",
+      "bring up the file carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "meeting"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "milestone-update-report-phrase",
-    "word": "milestone update report",
-    "baseWord": "milestone",
+    "id": "bring-up-the-form-phrasal",
+    "word": "bring up the form",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "milestone update report; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the form",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the milestone update report before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa milestone update report trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "milestone update report",
-      "milestone update report review",
-      "milestone update report process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "milestone"
-    ],
-    "day": 146
-  },
-  {
-    "id": "official-notice-phrase",
-    "word": "official notice",
-    "baseWord": "official",
-    "type": "phrase",
-    "meaning": "official notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the official notice before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa official notice trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "official notice",
-      "official notice review",
-      "official notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "official"
-    ],
-    "day": 146
-  },
-  {
-    "id": "press-statement-phrase",
-    "word": "press statement",
-    "baseWord": "pres",
-    "type": "phrase",
-    "meaning": "press statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the press statement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa press statement trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "press statement",
-      "press statement review",
-      "press statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "pres"
-    ],
-    "day": 146
-  },
-  {
-    "id": "public-statement-phrase",
-    "word": "public statement",
-    "baseWord": "public",
-    "type": "phrase",
-    "meaning": "public statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the public statement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa public statement trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "public statement",
-      "public statement review",
-      "public statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "public"
-    ],
-    "day": 146
-  },
-  {
-    "id": "stakeholder-update-phrase",
-    "word": "stakeholder update",
-    "baseWord": "stakeholder",
-    "type": "phrase",
-    "meaning": "stakeholder update; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the stakeholder update before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa stakeholder update trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "stakeholder update",
-      "stakeholder update review",
-      "stakeholder update process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "stakeholder"
-    ],
-    "day": 146
-  },
-  {
-    "id": "status-update-phrase",
-    "word": "status update",
-    "baseWord": "statu",
-    "type": "phrase",
-    "meaning": "status update; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the status update before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa status update trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "status update",
-      "status update review",
-      "status update process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "statu"
-    ],
-    "day": 146
-  },
-  {
-    "id": "talking-point-phrase",
-    "word": "talking point",
-    "baseWord": "talking",
-    "type": "phrase",
-    "meaning": "talking point; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the form before the end of the day.",
+    "exampleVi": "Nhom can bring up the form truoc cuoi ngay.",
+    "collocations": [
+      "bring up the form",
+      "bring up the form today",
+      "bring up the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "bring-up-the-meeting-phrasal",
+    "word": "bring up the meeting",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the meeting",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the meeting before the end of the day.",
+    "exampleVi": "Nhom can bring up the meeting truoc cuoi ngay.",
+    "collocations": [
+      "bring up the meeting",
+      "bring up the meeting today",
+      "bring up the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "bring-up-the-plan-phrasal",
+    "word": "bring up the plan",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the plan",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the talking point before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa talking point trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the plan before the end of the day.",
+    "exampleVi": "Nhom can bring up the plan truoc cuoi ngay.",
     "collocations": [
-      "talking point",
-      "talking point review",
-      "talking point process"
+      "bring up the plan",
+      "bring up the plan today",
+      "bring up the plan carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "talking"
+      "bring",
+      "up"
     ],
-    "day": 146
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "written-confirmation-phrase",
-    "word": "written confirmation",
-    "baseWord": "written",
+    "id": "bring-up-the-policy-phrasal",
+    "word": "bring up the policy",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "written confirmation; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the policy",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the written confirmation before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa written confirmation trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "written confirmation",
-      "written confirmation review",
-      "written confirmation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "written"
-    ],
-    "day": 146
-  },
-  {
-    "id": "acknowledgment-email-phrase",
-    "word": "acknowledgment email",
-    "baseWord": "acknowledgment",
-    "type": "phrase",
-    "meaning": "acknowledgment email; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Business Events",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the acknowledgment email before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa acknowledgment email trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "acknowledgment email",
-      "acknowledgment email review",
-      "acknowledgment email process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "acknowledgment"
-    ],
-    "day": 147
-  },
-  {
-    "id": "clarification-request-phrase",
-    "word": "clarification request",
-    "baseWord": "clarification",
-    "type": "phrase",
-    "meaning": "clarification request; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the clarification request before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa clarification request trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "clarification request",
-      "clarification request review",
-      "clarification request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "clarification"
-    ],
-    "day": 147
-  },
-  {
-    "id": "clear-phrasing-phrase",
-    "word": "clear phrasing",
-    "baseWord": "clear",
-    "type": "phrase",
-    "meaning": "clear phrasing; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the clear phrasing before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa clear phrasing trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "clear phrasing",
-      "clear phrasing review",
-      "clear phrasing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "clear"
-    ],
-    "day": 147
-  },
-  {
-    "id": "closing-remark-phrase",
-    "word": "closing remark",
-    "baseWord": "closing",
-    "type": "phrase",
-    "meaning": "closing remark; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the closing remark before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa closing remark trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "closing remark",
-      "closing remark review",
-      "closing remark process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "closing"
-    ],
-    "day": 147
-  },
-  {
-    "id": "concise-wording-phrase",
-    "word": "concise wording",
-    "baseWord": "concise",
-    "type": "phrase",
-    "meaning": "concise wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the concise wording before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa concise wording trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to bring up the policy before the end of the day.",
+    "exampleVi": "Nhom can bring up the policy truoc cuoi ngay.",
     "collocations": [
-      "concise wording",
-      "concise wording review",
-      "concise wording process"
+      "bring up the policy",
+      "bring up the policy today",
+      "bring up the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "concise"
+      "bring",
+      "up"
     ],
-    "day": 147
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "confirmation-email-verb",
-    "word": "confirmation email",
-    "baseWord": "confirmation",
-    "type": "verb",
-    "meaning": "confirmation email; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the confirmation email before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa confirmation email trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "confirmation email",
-      "confirmation email review",
-      "confirmation email process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "confirmation"
-    ],
-    "day": 147
-  },
-  {
-    "id": "courteous-reminder-phrase",
-    "word": "courteous reminder",
-    "baseWord": "courteou",
-    "type": "phrase",
-    "meaning": "courteous reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the courteous reminder before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa courteous reminder trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "courteous reminder",
-      "courteous reminder review",
-      "courteous reminder process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "courteou"
-    ],
-    "day": 147
-  },
-  {
-    "id": "direct-request-phrase",
-    "word": "direct request",
-    "baseWord": "direct",
-    "type": "phrase",
-    "meaning": "direct request; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the direct request before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa direct request trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "direct request",
-      "direct request review",
-      "direct request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "direct"
-    ],
-    "day": 147
-  },
-  {
-    "id": "feedback-session-phrase",
-    "word": "feedback session",
-    "baseWord": "feedback",
-    "type": "phrase",
-    "meaning": "feedback session; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the feedback session before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa feedback session trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "feedback session",
-      "feedback session review",
-      "feedback session process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "feedback"
-    ],
-    "day": 147
-  },
-  {
-    "id": "follow-up-message-phrase",
-    "word": "follow-up message",
-    "baseWord": "follow-up",
-    "type": "phrase",
-    "meaning": "follow-up message; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the follow-up message before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa follow-up message trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "follow-up message",
-      "follow-up message review",
-      "follow-up message process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "follow-up"
-    ],
-    "day": 147
-  },
-  {
-    "id": "formal-wording-phrase",
-    "word": "formal wording",
-    "baseWord": "formal",
-    "type": "phrase",
-    "meaning": "formal wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the formal wording before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa formal wording trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "formal wording",
-      "formal wording review",
-      "formal wording process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "formal"
-    ],
-    "day": 147
-  },
-  {
-    "id": "introductory-email-phrase",
-    "word": "introductory email",
-    "baseWord": "introductory",
-    "type": "phrase",
-    "meaning": "introductory email; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the introductory email before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa introductory email trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "introductory email",
-      "introductory email review",
-      "introductory email process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "introductory"
-    ],
-    "day": 147
-  },
-  {
-    "id": "opening-remark-phrase",
-    "word": "opening remark",
-    "baseWord": "opening",
-    "type": "phrase",
-    "meaning": "opening remark; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the opening remark before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa opening remark trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "opening remark",
-      "opening remark review",
-      "opening remark process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "opening"
-    ],
-    "day": 147
-  },
-  {
-    "id": "polite-request-phrase",
-    "word": "polite request",
-    "baseWord": "polite",
-    "type": "phrase",
-    "meaning": "polite request; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the polite request before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa polite request trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "polite request",
-      "polite request review",
-      "polite request process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "polite"
-    ],
-    "day": 147
-  },
-  {
-    "id": "presentation-outline-phrase",
-    "word": "presentation outline",
-    "baseWord": "presentation",
-    "type": "phrase",
-    "meaning": "presentation outline; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the presentation outline before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa presentation outline trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "presentation outline",
-      "presentation outline review",
-      "presentation outline process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "presentation"
-    ],
-    "day": 147
-  },
-  {
-    "id": "professional-tone-phrase",
-    "word": "professional tone",
-    "baseWord": "professional",
-    "type": "phrase",
-    "meaning": "professional tone; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the professional tone before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa professional tone trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "professional tone",
-      "professional tone review",
-      "professional tone process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "professional"
-    ],
-    "day": 147
-  },
-  {
-    "id": "question-period-phrase",
-    "word": "question period",
-    "baseWord": "question",
-    "type": "phrase",
-    "meaning": "question period; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the question period before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa question period trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "question period",
-      "question period review",
-      "question period process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "question"
-    ],
-    "day": 147
-  },
-  {
-    "id": "slide-deck-phrase",
-    "word": "slide deck",
-    "baseWord": "slide",
-    "type": "phrase",
-    "meaning": "slide deck; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the slide deck before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa slide deck trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "slide deck",
-      "slide deck review",
-      "slide deck process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "slide"
-    ],
-    "day": 147
-  },
-  {
-    "id": "speaker-note-phrase",
-    "word": "speaker note",
-    "baseWord": "speaker",
-    "type": "phrase",
-    "meaning": "speaker note; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the speaker note before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa speaker note trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "speaker note",
-      "speaker note review",
-      "speaker note process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "speaker"
-    ],
-    "day": 147
-  },
-  {
-    "id": "visual-aid-phrase",
-    "word": "visual aid",
-    "baseWord": "visual",
-    "type": "phrase",
-    "meaning": "visual aid; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the visual aid before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa visual aid trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "visual aid",
-      "visual aid review",
-      "visual aid process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "visual"
-    ],
-    "day": 147
-  },
-  {
-    "id": "acceptable-term-phrase",
-    "word": "acceptable term",
-    "baseWord": "acceptable",
-    "type": "phrase",
-    "meaning": "acceptable term; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the acceptable term before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa acceptable term trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "acceptable term",
-      "acceptable term review",
-      "acceptable term process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "acceptable"
-    ],
-    "day": 148
-  },
-  {
-    "id": "attendance-record-phrase",
-    "word": "attendance record",
-    "baseWord": "attendance",
-    "type": "phrase",
-    "meaning": "attendance record; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the attendance record before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa attendance record trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "attendance record",
-      "attendance record review",
-      "attendance record process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "attendance"
-    ],
-    "day": 148
-  },
-  {
-    "id": "bargaining-position-phrase",
-    "word": "bargaining position",
-    "baseWord": "bargaining",
-    "type": "phrase",
-    "meaning": "bargaining position; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the bargaining position before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa bargaining position trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "bargaining position",
-      "bargaining position review",
-      "bargaining position process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "bargaining"
-    ],
-    "day": 148
-  },
-  {
-    "id": "board-presentation-phrase",
-    "word": "board presentation",
-    "baseWord": "board",
-    "type": "phrase",
-    "meaning": "board presentation; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the board presentation before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa board presentation trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "board presentation",
-      "board presentation review",
-      "board presentation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "board"
-    ],
-    "day": 148
-  },
-  {
-    "id": "chairperson-remarks-phrase",
-    "word": "chairperson remarks",
-    "baseWord": "chairperson",
-    "type": "phrase",
-    "meaning": "chairperson remarks; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the chairperson remarks before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa chairperson remarks trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "chairperson remarks",
-      "chairperson remarks review",
-      "chairperson remarks process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "chairperson"
-    ],
-    "day": 148
-  },
-  {
-    "id": "committee-briefing-phrase",
-    "word": "committee briefing",
-    "baseWord": "committee",
-    "type": "phrase",
-    "meaning": "committee briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the committee briefing before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa committee briefing trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "committee briefing",
-      "committee briefing review",
-      "committee briefing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "committee"
-    ],
-    "day": 148
-  },
-  {
-    "id": "common-ground-phrase",
-    "word": "common ground",
-    "baseWord": "common",
-    "type": "phrase",
-    "meaning": "common ground; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the common ground before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa common ground trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "common ground",
-      "common ground review",
-      "common ground process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "common"
-    ],
-    "day": 148
-  },
-  {
-    "id": "concession-strategy-phrase",
-    "word": "concession strategy",
-    "baseWord": "concession",
-    "type": "phrase",
-    "meaning": "concession strategy; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the concession strategy before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa concession strategy trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "concession strategy",
-      "concession strategy review",
-      "concession strategy process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "concession"
-    ],
-    "day": 148
-  },
-  {
-    "id": "confidential-memo-phrase",
-    "word": "confidential memo",
-    "baseWord": "confidential",
-    "type": "phrase",
-    "meaning": "confidential memo; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the confidential memo before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa confidential memo trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "confidential memo",
-      "confidential memo review",
-      "confidential memo process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "confidential"
-    ],
-    "day": 148
-  },
-  {
-    "id": "executive-briefing-phrase",
-    "word": "executive briefing",
-    "baseWord": "executive",
-    "type": "phrase",
-    "meaning": "executive briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the executive briefing before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa executive briefing trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "executive briefing",
-      "executive briefing review",
-      "executive briefing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "executive"
-    ],
-    "day": 148
-  },
-  {
-    "id": "final-offer-phrase",
-    "word": "final offer",
-    "baseWord": "final",
-    "type": "phrase",
-    "meaning": "final offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the final offer before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa final offer trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "final offer",
-      "final offer review",
-      "final offer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "final"
-    ],
-    "day": 148
-  },
-  {
-    "id": "meeting-minutes-phrase",
-    "word": "meeting minutes",
-    "baseWord": "meeting",
-    "type": "phrase",
-    "meaning": "meeting minutes; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the meeting minutes before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa meeting minutes trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "meeting minutes",
-      "meeting minutes review",
-      "meeting minutes process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "meeting"
-    ],
-    "day": 148
-  },
-  {
-    "id": "mutual-agreement-phrase",
-    "word": "mutual agreement",
-    "baseWord": "mutual",
-    "type": "phrase",
-    "meaning": "mutual agreement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the mutual agreement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa mutual agreement trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "mutual agreement",
-      "mutual agreement review",
-      "mutual agreement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "mutual"
-    ],
-    "day": 148
-  },
-  {
-    "id": "negotiation-leverage-phrase",
-    "word": "negotiation leverage",
-    "baseWord": "negotiation",
-    "type": "phrase",
-    "meaning": "negotiation leverage; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the negotiation leverage before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa negotiation leverage trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "negotiation leverage",
-      "negotiation leverage review",
-      "negotiation leverage process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "negotiation"
-    ],
-    "day": 148
-  },
-  {
-    "id": "negotiation-stance-phrase",
-    "word": "negotiation stance",
-    "baseWord": "negotiation",
-    "type": "phrase",
-    "meaning": "negotiation stance; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the negotiation stance before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa negotiation stance trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "negotiation stance",
-      "negotiation stance review",
-      "negotiation stance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "negotiation"
-    ],
-    "day": 148
-  },
-  {
-    "id": "nonnegotiable-point-phrase",
-    "word": "nonnegotiable point",
-    "baseWord": "nonnegotiable",
-    "type": "phrase",
-    "meaning": "nonnegotiable point; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the nonnegotiable point before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa nonnegotiable point trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "nonnegotiable point",
-      "nonnegotiable point review",
-      "nonnegotiable point process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "nonnegotiable"
-    ],
-    "day": 148
-  },
-  {
-    "id": "opening-offer-phrase",
-    "word": "opening offer",
-    "baseWord": "opening",
-    "type": "phrase",
-    "meaning": "opening offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the opening offer before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa opening offer trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "opening offer",
-      "opening offer review",
-      "opening offer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "opening"
-    ],
-    "day": 148
-  },
-  {
-    "id": "point-of-contention-phrase",
-    "word": "point of contention",
+    "id": "point-out-phrasal",
+    "word": "point out",
     "baseWord": "point",
     "type": "phrase",
-    "meaning": "point of contention; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the point of contention before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa point of contention trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "point of contention",
-      "point of contention review",
-      "point of contention process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "point"
-    ],
-    "day": 148
-  },
-  {
-    "id": "revised-offer-noun",
-    "word": "revised offer",
-    "baseWord": "revised",
-    "type": "noun",
-    "meaning": "revised offer; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the revised offer before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa revised offer trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "revised offer",
-      "revised offer review",
-      "revised offer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "revised"
-    ],
-    "day": 148
-  },
-  {
-    "id": "sensitive-information-phrase",
-    "word": "sensitive information",
-    "baseWord": "sensitive",
-    "type": "phrase",
-    "meaning": "sensitive information; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the sensitive information before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa sensitive information trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "sensitive information",
-      "sensitive information review",
-      "sensitive information process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "sensitive"
-    ],
-    "day": 148
-  },
-  {
-    "id": "annual-message-phrase",
-    "word": "annual message",
-    "baseWord": "annual",
-    "type": "phrase",
-    "meaning": "annual message; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the annual message before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa annual message trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "annual message",
-      "annual message review",
-      "annual message process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "annual"
-    ],
-    "day": 149
-  },
-  {
-    "id": "compliance-reminder-phrase",
-    "word": "compliance reminder",
-    "baseWord": "compliance",
-    "type": "phrase",
-    "meaning": "compliance reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the compliance reminder before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa compliance reminder trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "compliance reminder",
-      "compliance reminder review",
-      "compliance reminder process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "compliance"
-    ],
-    "day": 149
-  },
-  {
-    "id": "crisis-message-phrase",
-    "word": "crisis message",
-    "baseWord": "crisi",
-    "type": "phrase",
-    "meaning": "crisis message; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1859,592 +363,483 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the crisis message before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa crisis message trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out before the end of the day.",
+    "exampleVi": "Nhom can point out truoc cuoi ngay.",
     "collocations": [
-      "crisis message",
-      "crisis message review",
-      "crisis message process"
+      "point out",
+      "point out today",
+      "point out carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "crisi"
+      "point",
+      "out"
     ],
-    "day": 149
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "customer-notice-phrase",
-    "word": "customer notice",
-    "baseWord": "customer",
+    "id": "point-out-the-application-phrasal",
+    "word": "point out the application",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "customer notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the application",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the application before the end of the day.",
+    "exampleVi": "Nhom can point out the application truoc cuoi ngay.",
+    "collocations": [
+      "point out the application",
+      "point out the application today",
+      "point out the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "point-out-the-client-phrasal",
+    "word": "point out the client",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the client",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the client before the end of the day.",
+    "exampleVi": "Nhom can point out the client truoc cuoi ngay.",
+    "collocations": [
+      "point out the client",
+      "point out the client today",
+      "point out the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "point-out-the-invoice-phrasal",
+    "word": "point out the invoice",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the invoice",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the invoice before the end of the day.",
+    "exampleVi": "Nhom can point out the invoice truoc cuoi ngay.",
+    "collocations": [
+      "point out the invoice",
+      "point out the invoice today",
+      "point out the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "point-out-the-issue-phrasal",
+    "word": "point out the issue",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the issue",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the issue before the end of the day.",
+    "exampleVi": "Nhom can point out the issue truoc cuoi ngay.",
+    "collocations": [
+      "point out the issue",
+      "point out the issue today",
+      "point out the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "point-out-the-order-phrasal",
+    "word": "point out the order",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the order",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the customer notice before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa customer notice trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the order before the end of the day.",
+    "exampleVi": "Nhom can point out the order truoc cuoi ngay.",
     "collocations": [
-      "customer notice",
-      "customer notice review",
-      "customer notice process"
+      "point out the order",
+      "point out the order today",
+      "point out the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "customer"
+      "point",
+      "out"
     ],
-    "day": 149
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
-    "id": "damage-control-phrase",
-    "word": "damage control",
-    "baseWord": "damage",
+    "id": "point-out-the-proposal-phrasal",
+    "word": "point out the proposal",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "damage control; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the proposal",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the damage control before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa damage control trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "damage control",
-      "damage control review",
-      "damage control process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "damage"
-    ],
-    "day": 149
-  },
-  {
-    "id": "deadline-reminder-phrase",
-    "word": "deadline reminder",
-    "baseWord": "deadline",
-    "type": "phrase",
-    "meaning": "deadline reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the deadline reminder before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa deadline reminder trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "deadline reminder",
-      "deadline reminder review",
-      "deadline reminder process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "deadline"
-    ],
-    "day": 149
-  },
-  {
-    "id": "employee-communication-phrase",
-    "word": "employee communication",
-    "baseWord": "employee",
-    "type": "phrase",
-    "meaning": "employee communication; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the employee communication before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa employee communication trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "employee communication",
-      "employee communication review",
-      "employee communication process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "employee"
-    ],
-    "day": 149
-  },
-  {
-    "id": "holding-statement-phrase",
-    "word": "holding statement",
-    "baseWord": "holding",
-    "type": "phrase",
-    "meaning": "holding statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Public Relations",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the holding statement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa holding statement trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the proposal before the end of the day.",
+    "exampleVi": "Nhom can point out the proposal truoc cuoi ngay.",
     "collocations": [
-      "holding statement",
-      "holding statement review",
-      "holding statement process"
+      "point out the proposal",
+      "point out the proposal today",
+      "point out the proposal carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "holding"
+      "point",
+      "out"
     ],
-    "day": 149
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
-    "id": "internal-briefing-phrase",
-    "word": "internal briefing",
-    "baseWord": "internal",
+    "id": "point-out-the-report-phrasal",
+    "word": "point out the report",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "internal briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the report",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Supply Chain",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the internal briefing before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa internal briefing trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the report before the end of the day.",
+    "exampleVi": "Nhom can point out the report truoc cuoi ngay.",
     "collocations": [
-      "internal briefing",
-      "internal briefing review",
-      "internal briefing process"
+      "point out the report",
+      "point out the report today",
+      "point out the report carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "internal"
+      "point",
+      "out"
     ],
-    "day": 149
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
-    "id": "investor-update-phrase",
-    "word": "investor update",
-    "baseWord": "investor",
+    "id": "point-out-the-request-phrasal",
+    "word": "point out the request",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "investor update; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the request",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Workplace Issues",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the investor update before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa investor update trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the request before the end of the day.",
+    "exampleVi": "Nhom can point out the request truoc cuoi ngay.",
     "collocations": [
-      "investor update",
-      "investor update review",
-      "investor update process"
+      "point out the request",
+      "point out the request today",
+      "point out the request carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "investor"
+      "point",
+      "out"
     ],
-    "day": 149
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
-    "id": "media-briefing-phrase",
-    "word": "media briefing",
-    "baseWord": "media",
+    "id": "point-out-the-schedule-phrasal",
+    "word": "point out the schedule",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "media briefing; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the schedule",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the schedule before the end of the day.",
+    "exampleVi": "Nhom can point out the schedule truoc cuoi ngay.",
+    "collocations": [
+      "point out the schedule",
+      "point out the schedule today",
+      "point out the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 146,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "go-over-phrasal",
+    "word": "go over",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over before the end of the day.",
+    "exampleVi": "Nhom can go over truoc cuoi ngay.",
+    "collocations": [
+      "go over",
+      "go over today",
+      "go over carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "go-over-the-application-phrasal",
+    "word": "go over the application",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the application",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the application before the end of the day.",
+    "exampleVi": "Nhom can go over the application truoc cuoi ngay.",
+    "collocations": [
+      "go over the application",
+      "go over the application today",
+      "go over the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "go-over-the-client-phrasal",
+    "word": "go over the client",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the client",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the client before the end of the day.",
+    "exampleVi": "Nhom can go over the client truoc cuoi ngay.",
+    "collocations": [
+      "go over the client",
+      "go over the client today",
+      "go over the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "go-over-the-invoice-phrasal",
+    "word": "go over the invoice",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the invoice",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the media briefing before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa media briefing trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to go over the invoice before the end of the day.",
+    "exampleVi": "Nhom can go over the invoice truoc cuoi ngay.",
     "collocations": [
-      "media briefing",
-      "media briefing review",
-      "media briefing process"
+      "go over the invoice",
+      "go over the invoice today",
+      "go over the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "media"
+      "go",
+      "over"
     ],
-    "day": 149
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "media-response-phrase",
-    "word": "media response",
-    "baseWord": "media",
+    "id": "go-over-the-order-phrasal",
+    "word": "go over the order",
+    "baseWord": "go",
     "type": "phrase",
-    "meaning": "media response; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the order",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the media response before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa media response trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "media response",
-      "media response review",
-      "media response process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "media"
-    ],
-    "day": 149
-  },
-  {
-    "id": "official-clarification-phrase",
-    "word": "official clarification",
-    "baseWord": "official",
-    "type": "phrase",
-    "meaning": "official clarification; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the official clarification before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa official clarification trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "official clarification",
-      "official clarification review",
-      "official clarification process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "official"
-    ],
-    "day": 149
-  },
-  {
-    "id": "policy-reminder-phrase",
-    "word": "policy reminder",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "policy reminder; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the policy reminder before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa policy reminder trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "policy reminder",
-      "policy reminder review",
-      "policy reminder process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 149
-  },
-  {
-    "id": "press-inquiry-phrase",
-    "word": "press inquiry",
-    "baseWord": "pres",
-    "type": "phrase",
-    "meaning": "press inquiry; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the press inquiry before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa press inquiry trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "press inquiry",
-      "press inquiry review",
-      "press inquiry process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "pres"
-    ],
-    "day": 149
-  },
-  {
-    "id": "public-apology-phrase",
-    "word": "public apology",
-    "baseWord": "public",
-    "type": "phrase",
-    "meaning": "public apology; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the public apology before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa public apology trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "public apology",
-      "public apology review",
-      "public apology process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "public"
-    ],
-    "day": 149
-  },
-  {
-    "id": "reputation-statement-phrase",
-    "word": "reputation statement",
-    "baseWord": "reputation",
-    "type": "phrase",
-    "meaning": "reputation statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the reputation statement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa reputation statement trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "reputation statement",
-      "reputation statement review",
-      "reputation statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "reputation"
-    ],
-    "day": 149
-  },
-  {
-    "id": "shareholder-letter-phrase",
-    "word": "shareholder letter",
-    "baseWord": "shareholder",
-    "type": "phrase",
-    "meaning": "shareholder letter; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the shareholder letter before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa shareholder letter trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "shareholder letter",
-      "shareholder letter review",
-      "shareholder letter process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "shareholder"
-    ],
-    "day": 149
-  },
-  {
-    "id": "spokesperson-statement-phrase",
-    "word": "spokesperson statement",
-    "baseWord": "spokesperson",
-    "type": "phrase",
-    "meaning": "spokesperson statement; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the spokesperson statement before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa spokesperson statement trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "spokesperson statement",
-      "spokesperson statement review",
-      "spokesperson statement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "spokesperson"
-    ],
-    "day": 149
-  },
-  {
-    "id": "supplier-notice-phrase",
-    "word": "supplier notice",
-    "baseWord": "supplier",
-    "type": "phrase",
-    "meaning": "supplier notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the supplier notice before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa supplier notice trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "supplier notice",
-      "supplier notice review",
-      "supplier notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "supplier"
-    ],
-    "day": 149
-  },
-  {
-    "id": "communication-protocol-phrase",
-    "word": "communication protocol",
-    "baseWord": "communication",
-    "type": "phrase",
-    "meaning": "communication protocol; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the communication protocol before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa communication protocol trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "communication protocol",
-      "communication protocol review",
-      "communication protocol process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "communication"
-    ],
-    "day": 150
-  },
-  {
-    "id": "constructive-feedback-phrase",
-    "word": "constructive feedback",
-    "baseWord": "constructive",
-    "type": "phrase",
-    "meaning": "constructive feedback; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the constructive feedback before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa constructive feedback trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "constructive feedback",
-      "constructive feedback review",
-      "constructive feedback process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "constructive"
-    ],
-    "day": 150
-  },
-  {
-    "id": "diplomatic-wording-phrase",
-    "word": "diplomatic wording",
-    "baseWord": "diplomatic",
-    "type": "phrase",
-    "meaning": "diplomatic wording; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2452,356 +847,1492 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the diplomatic wording before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa diplomatic wording trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to go over the order before the end of the day.",
+    "exampleVi": "Nhom can go over the order truoc cuoi ngay.",
     "collocations": [
-      "diplomatic wording",
-      "diplomatic wording review",
-      "diplomatic wording process"
+      "go over the order",
+      "go over the order today",
+      "go over the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "diplomatic"
+      "go",
+      "over"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "dispute-notice-phrase",
-    "word": "dispute notice",
-    "baseWord": "dispute",
+    "id": "go-over-the-proposal-phrasal",
+    "word": "go over the proposal",
+    "baseWord": "go",
     "type": "phrase",
-    "meaning": "dispute notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the proposal",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the dispute notice before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa dispute notice trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "dispute notice",
-      "dispute notice review",
-      "dispute notice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "dispute"
-    ],
-    "day": 150
-  },
-  {
-    "id": "escalation-email-phrase",
-    "word": "escalation email",
-    "baseWord": "escalation",
-    "type": "phrase",
-    "meaning": "escalation email; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the escalation email before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa escalation email trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "escalation email",
-      "escalation email review",
-      "escalation email process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "escalation"
-    ],
-    "day": 150
-  },
-  {
-    "id": "evidence-based-claim-phrase",
-    "word": "evidence-based claim",
-    "baseWord": "evidence-based",
-    "type": "phrase",
-    "meaning": "evidence-based claim; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the evidence-based claim before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa evidence-based claim trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "evidence-based claim",
-      "evidence-based claim review",
-      "evidence-based claim process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "evidence-based"
-    ],
-    "day": 150
-  },
-  {
-    "id": "executive-presence-phrase",
-    "word": "executive presence",
-    "baseWord": "executive",
-    "type": "phrase",
-    "meaning": "executive presence; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the executive presence before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa executive presence trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "executive presence",
-      "executive presence review",
-      "executive presence process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "executive"
-    ],
-    "day": 150
-  },
-  {
-    "id": "formal-complaint-phrase",
-    "word": "formal complaint",
-    "baseWord": "formal",
-    "type": "phrase",
-    "meaning": "formal complaint; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Travel & Transportation",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the proposal before the end of the day.",
+    "exampleVi": "Nhom can go over the proposal truoc cuoi ngay.",
+    "collocations": [
+      "go over the proposal",
+      "go over the proposal today",
+      "go over the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "go-over-the-report-phrasal",
+    "word": "go over the report",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the report",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the formal complaint before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa formal complaint trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to go over the report before the end of the day.",
+    "exampleVi": "Nhom can go over the report truoc cuoi ngay.",
     "collocations": [
-      "formal complaint",
-      "formal complaint review",
-      "formal complaint process"
+      "go over the report",
+      "go over the report today",
+      "go over the report carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "formal"
+      "go",
+      "over"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "message-alignment-phrase",
-    "word": "message alignment",
-    "baseWord": "message",
+    "id": "go-over-the-request-phrasal",
+    "word": "go over the request",
+    "baseWord": "go",
     "type": "phrase",
-    "meaning": "message alignment; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the request",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the message alignment before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa message alignment trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "message alignment",
-      "message alignment review",
-      "message alignment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "message"
-    ],
-    "day": 150
-  },
-  {
-    "id": "performance-feedback-phrase",
-    "word": "performance feedback",
-    "baseWord": "performance",
-    "type": "phrase",
-    "meaning": "performance feedback; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The director revised the performance feedback before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa performance feedback trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "performance feedback",
-      "performance feedback review",
-      "performance feedback process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "performance"
-    ],
-    "day": 150
-  },
-  {
-    "id": "persuasive-argument-phrase",
-    "word": "persuasive argument",
-    "baseWord": "persuasive",
-    "type": "phrase",
-    "meaning": "persuasive argument; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the persuasive argument before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa persuasive argument trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to go over the request before the end of the day.",
+    "exampleVi": "Nhom can go over the request truoc cuoi ngay.",
     "collocations": [
-      "persuasive argument",
-      "persuasive argument review",
-      "persuasive argument process"
+      "go over the request",
+      "go over the request today",
+      "go over the request carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "persuasive"
+      "go",
+      "over"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "priority-message-phrase",
-    "word": "priority message",
-    "baseWord": "priority",
+    "id": "go-over-the-schedule-phrasal",
+    "word": "go over the schedule",
+    "baseWord": "go",
     "type": "phrase",
-    "meaning": "priority message; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the schedule",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the priority message before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa priority message trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to go over the schedule before the end of the day.",
+    "exampleVi": "Nhom can go over the schedule truoc cuoi ngay.",
     "collocations": [
-      "priority message",
-      "priority message review",
-      "priority message process"
+      "go over the schedule",
+      "go over the schedule today",
+      "go over the schedule carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "priority"
+      "go",
+      "over"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "resolution-proposal-phrase",
-    "word": "resolution proposal",
-    "baseWord": "resolution",
+    "id": "point-out-the-complaint-phrasal",
+    "word": "point out the complaint",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "resolution proposal; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the complaint",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the complaint before the end of the day.",
+    "exampleVi": "Nhom can point out the complaint truoc cuoi ngay.",
+    "collocations": [
+      "point out the complaint",
+      "point out the complaint today",
+      "point out the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "point-out-the-contract-phrasal",
+    "word": "point out the contract",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the contract",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the contract before the end of the day.",
+    "exampleVi": "Nhom can point out the contract truoc cuoi ngay.",
+    "collocations": [
+      "point out the contract",
+      "point out the contract today",
+      "point out the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "point-out-the-deadline-phrasal",
+    "word": "point out the deadline",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the deadline",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the deadline before the end of the day.",
+    "exampleVi": "Nhom can point out the deadline truoc cuoi ngay.",
+    "collocations": [
+      "point out the deadline",
+      "point out the deadline today",
+      "point out the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "point-out-the-details-phrasal",
+    "word": "point out the details",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the details",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the details before the end of the day.",
+    "exampleVi": "Nhom can point out the details truoc cuoi ngay.",
+    "collocations": [
+      "point out the details",
+      "point out the details today",
+      "point out the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "point-out-the-figures-phrasal",
+    "word": "point out the figures",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the figures",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the figures before the end of the day.",
+    "exampleVi": "Nhom can point out the figures truoc cuoi ngay.",
+    "collocations": [
+      "point out the figures",
+      "point out the figures today",
+      "point out the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "point-out-the-file-phrasal",
+    "word": "point out the file",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the file",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to point out the file before the end of the day.",
+    "exampleVi": "Nhom can point out the file truoc cuoi ngay.",
+    "collocations": [
+      "point out the file",
+      "point out the file today",
+      "point out the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "point-out-the-form-phrasal",
+    "word": "point out the form",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the form",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the form before the end of the day.",
+    "exampleVi": "Nhom can point out the form truoc cuoi ngay.",
+    "collocations": [
+      "point out the form",
+      "point out the form today",
+      "point out the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "point-out-the-meeting-phrasal",
+    "word": "point out the meeting",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the meeting",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the meeting before the end of the day.",
+    "exampleVi": "Nhom can point out the meeting truoc cuoi ngay.",
+    "collocations": [
+      "point out the meeting",
+      "point out the meeting today",
+      "point out the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "point-out-the-plan-phrasal",
+    "word": "point out the plan",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the plan",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to point out the plan before the end of the day.",
+    "exampleVi": "Nhom can point out the plan truoc cuoi ngay.",
+    "collocations": [
+      "point out the plan",
+      "point out the plan today",
+      "point out the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "point",
+      "out"
+    ],
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "point-out-the-policy-phrasal",
+    "word": "point out the policy",
+    "baseWord": "point",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the policy",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the resolution proposal before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa resolution proposal trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the policy before the end of the day.",
+    "exampleVi": "Nhom can point out the policy truoc cuoi ngay.",
     "collocations": [
-      "resolution proposal",
-      "resolution proposal review",
-      "resolution proposal process"
+      "point out the policy",
+      "point out the policy today",
+      "point out the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "resolution"
+      "point",
+      "out"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
-    "id": "strategic-narrative-phrase",
-    "word": "strategic narrative",
-    "baseWord": "strategic",
+    "id": "point-out-the-shipment-phrasal",
+    "word": "point out the shipment",
+    "baseWord": "point",
     "type": "phrase",
-    "meaning": "strategic narrative; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: point out the shipment",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the strategic narrative before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa strategic narrative trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to point out the shipment before the end of the day.",
+    "exampleVi": "Nhom can point out the shipment truoc cuoi ngay.",
     "collocations": [
-      "strategic narrative",
-      "strategic narrative review",
-      "strategic narrative process"
+      "point out the shipment",
+      "point out the shipment today",
+      "point out the shipment carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "strategic"
+      "point",
+      "out"
     ],
-    "day": 150
+    "day": 147,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "summary-paragraph-phrase",
-    "word": "summary paragraph",
-    "baseWord": "summary",
+    "id": "come-up-with-phrasal",
+    "word": "come up with",
+    "baseWord": "come",
     "type": "phrase",
-    "meaning": "summary paragraph; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with before the end of the day.",
+    "exampleVi": "Nhom can come up with truoc cuoi ngay.",
+    "collocations": [
+      "come up with",
+      "come up with today",
+      "come up with carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "come-up-with-the-application-phrasal",
+    "word": "come up with the application",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the application",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the application before the end of the day.",
+    "exampleVi": "Nhom can come up with the application truoc cuoi ngay.",
+    "collocations": [
+      "come up with the application",
+      "come up with the application today",
+      "come up with the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "come-up-with-the-client-phrasal",
+    "word": "come up with the client",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the client",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the client before the end of the day.",
+    "exampleVi": "Nhom can come up with the client truoc cuoi ngay.",
+    "collocations": [
+      "come up with the client",
+      "come up with the client today",
+      "come up with the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "come-up-with-the-order-phrasal",
+    "word": "come up with the order",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the order",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the order before the end of the day.",
+    "exampleVi": "Nhom can come up with the order truoc cuoi ngay.",
+    "collocations": [
+      "come up with the order",
+      "come up with the order today",
+      "come up with the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "come-up-with-the-proposal-phrasal",
+    "word": "come up with the proposal",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the proposal",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the proposal before the end of the day.",
+    "exampleVi": "Nhom can come up with the proposal truoc cuoi ngay.",
+    "collocations": [
+      "come up with the proposal",
+      "come up with the proposal today",
+      "come up with the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "come-up-with-the-report-phrasal",
+    "word": "come up with the report",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the report",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the report before the end of the day.",
+    "exampleVi": "Nhom can come up with the report truoc cuoi ngay.",
+    "collocations": [
+      "come up with the report",
+      "come up with the report today",
+      "come up with the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "come-up-with-the-request-phrasal",
+    "word": "come up with the request",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the request",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the request before the end of the day.",
+    "exampleVi": "Nhom can come up with the request truoc cuoi ngay.",
+    "collocations": [
+      "come up with the request",
+      "come up with the request today",
+      "come up with the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "come-up-with-the-schedule-phrasal",
+    "word": "come up with the schedule",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the schedule",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the schedule before the end of the day.",
+    "exampleVi": "Nhom can come up with the schedule truoc cuoi ngay.",
+    "collocations": [
+      "come up with the schedule",
+      "come up with the schedule today",
+      "come up with the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "go-over-the-complaint-phrasal",
+    "word": "go over the complaint",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the complaint",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the complaint before the end of the day.",
+    "exampleVi": "Nhom can go over the complaint truoc cuoi ngay.",
+    "collocations": [
+      "go over the complaint",
+      "go over the complaint today",
+      "go over the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "go-over-the-contract-phrasal",
+    "word": "go over the contract",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the contract",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the contract before the end of the day.",
+    "exampleVi": "Nhom can go over the contract truoc cuoi ngay.",
+    "collocations": [
+      "go over the contract",
+      "go over the contract today",
+      "go over the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "go-over-the-deadline-phrasal",
+    "word": "go over the deadline",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the deadline",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the deadline before the end of the day.",
+    "exampleVi": "Nhom can go over the deadline truoc cuoi ngay.",
+    "collocations": [
+      "go over the deadline",
+      "go over the deadline today",
+      "go over the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "go-over-the-details-phrasal",
+    "word": "go over the details",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the details",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the details before the end of the day.",
+    "exampleVi": "Nhom can go over the details truoc cuoi ngay.",
+    "collocations": [
+      "go over the details",
+      "go over the details today",
+      "go over the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "go-over-the-figures-phrasal",
+    "word": "go over the figures",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the figures",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the figures before the end of the day.",
+    "exampleVi": "Nhom can go over the figures truoc cuoi ngay.",
+    "collocations": [
+      "go over the figures",
+      "go over the figures today",
+      "go over the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "go-over-the-file-phrasal",
+    "word": "go over the file",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the file",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the file before the end of the day.",
+    "exampleVi": "Nhom can go over the file truoc cuoi ngay.",
+    "collocations": [
+      "go over the file",
+      "go over the file today",
+      "go over the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "go-over-the-form-phrasal",
+    "word": "go over the form",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the form",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to go over the form before the end of the day.",
+    "exampleVi": "Nhom can go over the form truoc cuoi ngay.",
+    "collocations": [
+      "go over the form",
+      "go over the form today",
+      "go over the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "go-over-the-issue-phrasal",
+    "word": "go over the issue",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the issue",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the issue before the end of the day.",
+    "exampleVi": "Nhom can go over the issue truoc cuoi ngay.",
+    "collocations": [
+      "go over the issue",
+      "go over the issue today",
+      "go over the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "go-over-the-meeting-phrasal",
+    "word": "go over the meeting",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the meeting",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the meeting before the end of the day.",
+    "exampleVi": "Nhom can go over the meeting truoc cuoi ngay.",
+    "collocations": [
+      "go over the meeting",
+      "go over the meeting today",
+      "go over the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "go-over-the-plan-phrasal",
+    "word": "go over the plan",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the plan",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the plan before the end of the day.",
+    "exampleVi": "Nhom can go over the plan truoc cuoi ngay.",
+    "collocations": [
+      "go over the plan",
+      "go over the plan today",
+      "go over the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "go-over-the-policy-phrasal",
+    "word": "go over the policy",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the policy",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the policy before the end of the day.",
+    "exampleVi": "Nhom can go over the policy truoc cuoi ngay.",
+    "collocations": [
+      "go over the policy",
+      "go over the policy today",
+      "go over the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "go-over-the-shipment-phrasal",
+    "word": "go over the shipment",
+    "baseWord": "go",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: go over the shipment",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to go over the shipment before the end of the day.",
+    "exampleVi": "Nhom can go over the shipment truoc cuoi ngay.",
+    "collocations": [
+      "go over the shipment",
+      "go over the shipment today",
+      "go over the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "go",
+      "over"
+    ],
+    "day": 148,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "come-up-with-the-complaint-phrasal",
+    "word": "come up with the complaint",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the complaint",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the complaint before the end of the day.",
+    "exampleVi": "Nhom can come up with the complaint truoc cuoi ngay.",
+    "collocations": [
+      "come up with the complaint",
+      "come up with the complaint today",
+      "come up with the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "come-up-with-the-contract-phrasal",
+    "word": "come up with the contract",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the contract",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the contract before the end of the day.",
+    "exampleVi": "Nhom can come up with the contract truoc cuoi ngay.",
+    "collocations": [
+      "come up with the contract",
+      "come up with the contract today",
+      "come up with the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "come-up-with-the-deadline-phrasal",
+    "word": "come up with the deadline",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the deadline",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the deadline before the end of the day.",
+    "exampleVi": "Nhom can come up with the deadline truoc cuoi ngay.",
+    "collocations": [
+      "come up with the deadline",
+      "come up with the deadline today",
+      "come up with the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "come-up-with-the-details-phrasal",
+    "word": "come up with the details",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the details",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the details before the end of the day.",
+    "exampleVi": "Nhom can come up with the details truoc cuoi ngay.",
+    "collocations": [
+      "come up with the details",
+      "come up with the details today",
+      "come up with the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "come-up-with-the-figures-phrasal",
+    "word": "come up with the figures",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the figures",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the figures before the end of the day.",
+    "exampleVi": "Nhom can come up with the figures truoc cuoi ngay.",
+    "collocations": [
+      "come up with the figures",
+      "come up with the figures today",
+      "come up with the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "come-up-with-the-file-phrasal",
+    "word": "come up with the file",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the file",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the file before the end of the day.",
+    "exampleVi": "Nhom can come up with the file truoc cuoi ngay.",
+    "collocations": [
+      "come up with the file",
+      "come up with the file today",
+      "come up with the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "come-up-with-the-form-phrasal",
+    "word": "come up with the form",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the form",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the form before the end of the day.",
+    "exampleVi": "Nhom can come up with the form truoc cuoi ngay.",
+    "collocations": [
+      "come up with the form",
+      "come up with the form today",
+      "come up with the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "come-up-with-the-invoice-phrasal",
+    "word": "come up with the invoice",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the invoice",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2809,169 +2340,1138 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the summary paragraph before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa summary paragraph trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to come up with the invoice before the end of the day.",
+    "exampleVi": "Nhom can come up with the invoice truoc cuoi ngay.",
     "collocations": [
-      "summary paragraph",
-      "summary paragraph review",
-      "summary paragraph process"
+      "come up with the invoice",
+      "come up with the invoice today",
+      "come up with the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "summary"
+      "come",
+      "up"
     ],
-    "day": 150
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "supporting-detail-phrase",
-    "word": "supporting detail",
-    "baseWord": "supporting",
+    "id": "come-up-with-the-issue-phrasal",
+    "word": "come up with the issue",
+    "baseWord": "come",
     "type": "phrase",
-    "meaning": "supporting detail; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the issue",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Customer Service",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the supporting detail before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa supporting detail trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to come up with the issue before the end of the day.",
+    "exampleVi": "Nhom can come up with the issue truoc cuoi ngay.",
     "collocations": [
-      "supporting detail",
-      "supporting detail review",
-      "supporting detail process"
+      "come up with the issue",
+      "come up with the issue today",
+      "come up with the issue carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "supporting"
+      "come",
+      "up"
     ],
-    "day": 150
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "tactful-response-phrase",
-    "word": "tactful response",
-    "baseWord": "tactful",
+    "id": "come-up-with-the-meeting-phrasal",
+    "word": "come up with the meeting",
+    "baseWord": "come",
     "type": "phrase",
-    "meaning": "tactful response; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the meeting",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the tactful response before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa tactful response trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to come up with the meeting before the end of the day.",
+    "exampleVi": "Nhom can come up with the meeting truoc cuoi ngay.",
     "collocations": [
-      "tactful response",
-      "tactful response review",
-      "tactful response process"
+      "come up with the meeting",
+      "come up with the meeting today",
+      "come up with the meeting carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "tactful"
+      "come",
+      "up"
     ],
-    "day": 150
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "transitional-phrase-phrase",
-    "word": "transitional phrase",
-    "baseWord": "transitional",
+    "id": "come-up-with-the-plan-phrasal",
+    "word": "come up with the plan",
+    "baseWord": "come",
     "type": "phrase",
-    "meaning": "transitional phrase; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the plan",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The director revised the transitional phrase before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa transitional phrase trước khi gửi cho các bên liên quan.",
-    "collocations": [
-      "transitional phrase",
-      "transitional phrase review",
-      "transitional phrase process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "transitional"
-    ],
-    "day": 150
-  },
-  {
-    "id": "urgent-notice-phrase",
-    "word": "urgent notice",
-    "baseWord": "urgent",
-    "type": "phrase",
-    "meaning": "urgent notice; thuật ngữ về giao tiếp kinh doanh nâng cao",
-    "pronunciation": "",
-    "topic": "Advanced Business Communication",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The director revised the urgent notice before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa urgent notice trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to come up with the plan before the end of the day.",
+    "exampleVi": "Nhom can come up with the plan truoc cuoi ngay.",
     "collocations": [
-      "urgent notice",
-      "urgent notice review",
-      "urgent notice process"
+      "come up with the plan",
+      "come up with the plan today",
+      "come up with the plan carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "urgent"
+      "come",
+      "up"
     ],
-    "day": 150
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "written-objection-phrase",
-    "word": "written objection",
-    "baseWord": "written",
+    "id": "come-up-with-the-policy-phrasal",
+    "word": "come up with the policy",
+    "baseWord": "come",
     "type": "phrase",
-    "meaning": "written objection; thuật ngữ về giao tiếp kinh doanh nâng cao",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the policy",
     "pronunciation": "",
-    "topic": "Advanced Business Communication",
-    "frequency": "medium",
+    "topic": "Finance & Banking",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The director revised the written objection before sending it to stakeholders.",
-    "exampleVi": "Giám đốc đã chỉnh sửa written objection trước khi gửi cho các bên liên quan.",
+    "example": "The team needs to come up with the policy before the end of the day.",
+    "exampleVi": "Nhom can come up with the policy truoc cuoi ngay.",
     "collocations": [
-      "written objection",
-      "written objection review",
-      "written objection process"
+      "come up with the policy",
+      "come up with the policy today",
+      "come up with the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "written"
+      "come",
+      "up"
     ],
-    "day": 150
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "come-up-with-the-shipment-phrasal",
+    "word": "come up with the shipment",
+    "baseWord": "come",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: come up with the shipment",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to come up with the shipment before the end of the day.",
+    "exampleVi": "Nhom can come up with the shipment truoc cuoi ngay.",
+    "collocations": [
+      "come up with the shipment",
+      "come up with the shipment today",
+      "come up with the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "come",
+      "up"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "get-back-to-phrasal",
+    "word": "get back to",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to before the end of the day.",
+    "exampleVi": "Nhom can get back to truoc cuoi ngay.",
+    "collocations": [
+      "get back to",
+      "get back to today",
+      "get back to carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "get-back-to-the-application-phrasal",
+    "word": "get back to the application",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the application",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the application before the end of the day.",
+    "exampleVi": "Nhom can get back to the application truoc cuoi ngay.",
+    "collocations": [
+      "get back to the application",
+      "get back to the application today",
+      "get back to the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "get-back-to-the-client-phrasal",
+    "word": "get back to the client",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the client",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the client before the end of the day.",
+    "exampleVi": "Nhom can get back to the client truoc cuoi ngay.",
+    "collocations": [
+      "get back to the client",
+      "get back to the client today",
+      "get back to the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "get-back-to-the-order-phrasal",
+    "word": "get back to the order",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the order",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the order before the end of the day.",
+    "exampleVi": "Nhom can get back to the order truoc cuoi ngay.",
+    "collocations": [
+      "get back to the order",
+      "get back to the order today",
+      "get back to the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "get-back-to-the-proposal-phrasal",
+    "word": "get back to the proposal",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the proposal",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the proposal before the end of the day.",
+    "exampleVi": "Nhom can get back to the proposal truoc cuoi ngay.",
+    "collocations": [
+      "get back to the proposal",
+      "get back to the proposal today",
+      "get back to the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "get-back-to-the-report-phrasal",
+    "word": "get back to the report",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the report",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the report before the end of the day.",
+    "exampleVi": "Nhom can get back to the report truoc cuoi ngay.",
+    "collocations": [
+      "get back to the report",
+      "get back to the report today",
+      "get back to the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "get-back-to-the-request-phrasal",
+    "word": "get back to the request",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the request",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the request before the end of the day.",
+    "exampleVi": "Nhom can get back to the request truoc cuoi ngay.",
+    "collocations": [
+      "get back to the request",
+      "get back to the request today",
+      "get back to the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 149,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "get-back-to-the-complaint-phrasal",
+    "word": "get back to the complaint",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the complaint",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the complaint before the end of the day.",
+    "exampleVi": "Nhom can get back to the complaint truoc cuoi ngay.",
+    "collocations": [
+      "get back to the complaint",
+      "get back to the complaint today",
+      "get back to the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "get-back-to-the-contract-phrasal",
+    "word": "get back to the contract",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the contract",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the contract before the end of the day.",
+    "exampleVi": "Nhom can get back to the contract truoc cuoi ngay.",
+    "collocations": [
+      "get back to the contract",
+      "get back to the contract today",
+      "get back to the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "get-back-to-the-deadline-phrasal",
+    "word": "get back to the deadline",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the deadline",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the deadline before the end of the day.",
+    "exampleVi": "Nhom can get back to the deadline truoc cuoi ngay.",
+    "collocations": [
+      "get back to the deadline",
+      "get back to the deadline today",
+      "get back to the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "get-back-to-the-details-phrasal",
+    "word": "get back to the details",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the details",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the details before the end of the day.",
+    "exampleVi": "Nhom can get back to the details truoc cuoi ngay.",
+    "collocations": [
+      "get back to the details",
+      "get back to the details today",
+      "get back to the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "get-back-to-the-figures-phrasal",
+    "word": "get back to the figures",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the figures",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the figures before the end of the day.",
+    "exampleVi": "Nhom can get back to the figures truoc cuoi ngay.",
+    "collocations": [
+      "get back to the figures",
+      "get back to the figures today",
+      "get back to the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "get-back-to-the-file-phrasal",
+    "word": "get back to the file",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the file",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the file before the end of the day.",
+    "exampleVi": "Nhom can get back to the file truoc cuoi ngay.",
+    "collocations": [
+      "get back to the file",
+      "get back to the file today",
+      "get back to the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "get-back-to-the-form-phrasal",
+    "word": "get back to the form",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the form",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the form before the end of the day.",
+    "exampleVi": "Nhom can get back to the form truoc cuoi ngay.",
+    "collocations": [
+      "get back to the form",
+      "get back to the form today",
+      "get back to the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "get-back-to-the-invoice-phrasal",
+    "word": "get back to the invoice",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the invoice",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the invoice before the end of the day.",
+    "exampleVi": "Nhom can get back to the invoice truoc cuoi ngay.",
+    "collocations": [
+      "get back to the invoice",
+      "get back to the invoice today",
+      "get back to the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "get-back-to-the-issue-phrasal",
+    "word": "get back to the issue",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the issue",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the issue before the end of the day.",
+    "exampleVi": "Nhom can get back to the issue truoc cuoi ngay.",
+    "collocations": [
+      "get back to the issue",
+      "get back to the issue today",
+      "get back to the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "get-back-to-the-meeting-phrasal",
+    "word": "get back to the meeting",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the meeting",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the meeting before the end of the day.",
+    "exampleVi": "Nhom can get back to the meeting truoc cuoi ngay.",
+    "collocations": [
+      "get back to the meeting",
+      "get back to the meeting today",
+      "get back to the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "get-back-to-the-plan-phrasal",
+    "word": "get back to the plan",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the plan",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the plan before the end of the day.",
+    "exampleVi": "Nhom can get back to the plan truoc cuoi ngay.",
+    "collocations": [
+      "get back to the plan",
+      "get back to the plan today",
+      "get back to the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "get-back-to-the-policy-phrasal",
+    "word": "get back to the policy",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the policy",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the policy before the end of the day.",
+    "exampleVi": "Nhom can get back to the policy truoc cuoi ngay.",
+    "collocations": [
+      "get back to the policy",
+      "get back to the policy today",
+      "get back to the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "get-back-to-the-schedule-phrasal",
+    "word": "get back to the schedule",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the schedule",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the schedule before the end of the day.",
+    "exampleVi": "Nhom can get back to the schedule truoc cuoi ngay.",
+    "collocations": [
+      "get back to the schedule",
+      "get back to the schedule today",
+      "get back to the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "get-back-to-the-shipment-phrasal",
+    "word": "get back to the shipment",
+    "baseWord": "get",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: get back to the shipment",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to get back to the shipment before the end of the day.",
+    "exampleVi": "Nhom can get back to the shipment truoc cuoi ngay.",
+    "collocations": [
+      "get back to the shipment",
+      "get back to the shipment today",
+      "get back to the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "get",
+      "back"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "hand-in-phrasal",
+    "word": "hand in",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to hand in before the end of the day.",
+    "exampleVi": "Nhom can hand in truoc cuoi ngay.",
+    "collocations": [
+      "hand in",
+      "hand in today",
+      "hand in carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "hand-in-the-application-phrasal",
+    "word": "hand in the application",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in the application",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to hand in the application before the end of the day.",
+    "exampleVi": "Nhom can hand in the application truoc cuoi ngay.",
+    "collocations": [
+      "hand in the application",
+      "hand in the application today",
+      "hand in the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "hand-in-the-client-phrasal",
+    "word": "hand in the client",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in the client",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to hand in the client before the end of the day.",
+    "exampleVi": "Nhom can hand in the client truoc cuoi ngay.",
+    "collocations": [
+      "hand in the client",
+      "hand in the client today",
+      "hand in the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "hand-in-the-order-phrasal",
+    "word": "hand in the order",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in the order",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to hand in the order before the end of the day.",
+    "exampleVi": "Nhom can hand in the order truoc cuoi ngay.",
+    "collocations": [
+      "hand in the order",
+      "hand in the order today",
+      "hand in the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "hand-in-the-report-phrasal",
+    "word": "hand in the report",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in the report",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to hand in the report before the end of the day.",
+    "exampleVi": "Nhom can hand in the report truoc cuoi ngay.",
+    "collocations": [
+      "hand in the report",
+      "hand in the report today",
+      "hand in the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "hand-in-the-request-phrasal",
+    "word": "hand in the request",
+    "baseWord": "hand",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: hand in the request",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to hand in the request before the end of the day.",
+    "exampleVi": "Nhom can hand in the request truoc cuoi ngay.",
+    "collocations": [
+      "hand in the request",
+      "hand in the request today",
+      "hand in the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "hand",
+      "in"
+    ],
+    "day": 150,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

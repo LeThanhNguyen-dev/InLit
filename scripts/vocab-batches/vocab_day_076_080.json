@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "sự sửa đổi, bản tu chính",
     "pronunciation": "/əˈmendmənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -29,38 +29,83 @@
       "amended",
       "amending"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "annual-contract-phrase",
-    "word": "annual contract",
-    "baseWord": "contract",
+    "id": "annual-candidate-collocation",
+    "word": "annual candidate",
+    "baseWord": "candidate",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: annual contract",
+    "meaning": "collocation TOEIC 700: annual candidate",
     "pronunciation": "",
-    "topic": "Legal & Compliance",
+    "topic": "Health & Safety",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the annual contract before the next business day.",
-    "exampleVi": "Vui long xem lai annual contract truoc ngay lam viec tiep theo.",
+    "example": "Please include the annual candidate in the file before Friday.",
+    "exampleVi": "Vui long dua annual candidate vao ho so truoc thu Sau.",
     "collocations": [
-      "annual contract",
-      "annual contract process",
-      "annual contract deadline"
+      "annual candidate",
+      "annual candidate review",
+      "annual candidate deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "contract"
+      "annual",
+      "candidate"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "annual-interview-collocation",
+    "word": "annual interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual interview",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual interview in the file before Friday.",
+    "exampleVi": "Vui long dua annual interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual interview",
+      "annual interview review",
+      "annual interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "interview"
+    ],
+    "day": 76,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "attorney-noun",
@@ -69,7 +114,7 @@
     "type": "noun",
     "meaning": "luật sư, người đại diện pháp lý",
     "pronunciation": "/əˈtɜːrni/",
-    "topic": "Legal & Compliance",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -93,7 +138,11 @@
       "attorneyship",
       "attorney-at-law"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "binding-adjective",
@@ -102,7 +151,7 @@
     "type": "adjective",
     "meaning": "ràng buộc, có hiệu lực pháp lý",
     "pronunciation": "/ˈbaɪndɪŋ/",
-    "topic": "Legal & Compliance",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -126,7 +175,11 @@
       "bound",
       "unbinding"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "clause-noun",
@@ -135,7 +188,7 @@
     "type": "noun",
     "meaning": "điều khoản",
     "pronunciation": "/klɔːz/",
-    "topic": "Legal & Compliance",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -158,7 +211,11 @@
       "subclause",
       "clausal"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "enforce-verb",
@@ -167,7 +224,7 @@
     "type": "verb",
     "meaning": "thi hành, thực thi",
     "pronunciation": "/ɪnˈfɔːrs/",
-    "topic": "Legal & Compliance",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -191,7 +248,11 @@
       "enforceable",
       "enforcer"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "exempt-adjective",
@@ -200,7 +261,7 @@
     "type": "adjective",
     "meaning": "được miễn",
     "pronunciation": "/ɪɡˈzempt/",
-    "topic": "Legal & Compliance",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -223,7 +284,11 @@
       "exemption",
       "exempted"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "invalidate-verb",
@@ -232,7 +297,7 @@
     "type": "verb",
     "meaning": "làm cho vô hiệu, mất hiệu lực",
     "pronunciation": "/ɪnˈvælɪdeɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -256,7 +321,11 @@
       "invalidation",
       "invalidity"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "lawsuit-noun",
@@ -265,7 +334,7 @@
     "type": "noun",
     "meaning": "vụ kiện, vụ khởi tố",
     "pronunciation": "/ˈlɔːsuːt/",
-    "topic": "Legal & Compliance",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -288,7 +357,11 @@
       "suits",
       "suing"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "legalize-verb",
@@ -297,7 +370,7 @@
     "type": "verb",
     "meaning": "hợp pháp hóa",
     "pronunciation": "/ˈliːɡəlaɪz/",
-    "topic": "Legal & Compliance",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -320,7 +393,11 @@
       "legality",
       "legalization"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "legitimate-adjective",
@@ -329,7 +406,7 @@
     "type": "adjective",
     "meaning": "hợp pháp, chính đáng",
     "pronunciation": "/lɪˈdʒɪtɪmət/",
-    "topic": "Legal & Compliance",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -353,7 +430,11 @@
       "legitimize",
       "legitimately"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "litigation-noun",
@@ -362,7 +443,7 @@
     "type": "noun",
     "meaning": "vụ kiện, sự kiện tụng",
     "pronunciation": "/ˌlɪtɪˈɡeɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Data & Analysis",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -385,7 +466,11 @@
       "litigant",
       "litigious"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "permit-noun",
@@ -394,7 +479,7 @@
     "type": "noun",
     "meaning": "giấy phép",
     "pronunciation": "/ˈpɜːrmɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -418,7 +503,11 @@
       "permitted",
       "permissible"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "prosecutor-noun",
@@ -427,7 +516,7 @@
     "type": "noun",
     "meaning": "công tố viên, bên công tố",
     "pronunciation": "/ˈprɑːsɪkjuːtər/",
-    "topic": "Legal & Compliance",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -448,7 +537,11 @@
       "prosecution",
       "prosecutorial"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "provision-noun",
@@ -457,7 +550,7 @@
     "type": "noun",
     "meaning": "điều khoản, sự cung cấp",
     "pronunciation": "/prəˈvɪʒən/",
-    "topic": "Legal & Compliance",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -481,38 +574,11 @@
       "provisional",
       "provisionally"
     ],
-    "day": 76
-  },
-  {
-    "id": "quarterly-contract-phrase",
-    "word": "quarterly contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: quarterly contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the quarterly contract before the next business day.",
-    "exampleVi": "Vui long xem lai quarterly contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "quarterly contract",
-      "quarterly contract process",
-      "quarterly contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "regulation-noun",
@@ -521,7 +587,7 @@
     "type": "noun",
     "meaning": "quy định, điều lệ",
     "pronunciation": "/ˌreɡjʊˈleɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -545,7 +611,11 @@
       "regulatory",
       "regulator"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "statutory-adjective",
@@ -554,7 +624,7 @@
     "type": "adjective",
     "meaning": "theo luật định",
     "pronunciation": "/ˈstætʃʊtɔːri/",
-    "topic": "Legal & Compliance",
+    "topic": "Supply Chain",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -576,7 +646,11 @@
       "statute",
       "statutes"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "valid-adjective",
@@ -585,7 +659,7 @@
     "type": "adjective",
     "meaning": "hợp lệ, có hiệu lực",
     "pronunciation": "/ˈvælɪd/",
-    "topic": "Legal & Compliance",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -610,7 +684,11 @@
       "validation",
       "validity"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "violate-verb",
@@ -619,7 +697,7 @@
     "type": "verb",
     "meaning": "vi phạm",
     "pronunciation": "/ˈvaɪəleɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -642,7 +720,11 @@
       "violation",
       "violator"
     ],
-    "day": 76
+    "day": 76,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "abide-verb",
@@ -651,7 +733,7 @@
     "type": "verb",
     "meaning": "tuân theo, chịu đựng",
     "pronunciation": "/əˈbaɪd/",
-    "topic": "Legal & Compliance",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -674,7 +756,11 @@
       "abided",
       "abiding"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "admissibility-noun",
@@ -683,7 +769,7 @@
     "type": "noun",
     "meaning": "tính hợp lệ, tính chấp nhận được (bằng chứng)",
     "pronunciation": "/ədˌmɪsəˈbɪləti/",
-    "topic": "Legal & Compliance",
+    "topic": "Meetings & Scheduling",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -704,7 +790,119 @@
       "admissible",
       "admissibly"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "annual-orientation-collocation",
+    "word": "annual orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual orientation",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual orientation in the file before Friday.",
+    "exampleVi": "Vui long dua annual orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual orientation",
+      "annual orientation review",
+      "annual orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "orientation"
+    ],
+    "day": 77,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-performance-collocation",
+    "word": "annual performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual performance",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the annual performance in the file before Friday.",
+    "exampleVi": "Vui long dua annual performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual performance",
+      "annual performance review",
+      "annual performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "performance"
+    ],
+    "day": 77,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "annual-training-collocation",
+    "word": "annual training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual training",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual training in the file before Friday.",
+    "exampleVi": "Vui long dua annual training vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual training",
+      "annual training review",
+      "annual training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "training"
+    ],
+    "day": 77,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "authorize-verb",
@@ -713,7 +911,7 @@
     "type": "verb",
     "meaning": "ủy quyền, cho phép",
     "pronunciation": "/ˈɔːθəraɪz/",
-    "topic": "Legal & Compliance",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -737,7 +935,11 @@
       "authorized",
       "unauthorized"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "consent-noun",
@@ -746,7 +948,7 @@
     "type": "noun",
     "meaning": "sự đồng ý, sự chấp thuận",
     "pronunciation": "/kənˈsent/",
-    "topic": "Legal & Compliance",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -770,38 +972,11 @@
       "consenting",
       "consensual"
     ],
-    "day": 77
-  },
-  {
-    "id": "daily-contract-phrase",
-    "word": "daily contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: daily contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the daily contract before the next business day.",
-    "exampleVi": "Vui long xem lai daily contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "daily contract",
-      "daily contract process",
-      "daily contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "jurisdiction-noun",
@@ -810,7 +985,7 @@
     "type": "noun",
     "meaning": "quyền tài phán, thẩm quyền",
     "pronunciation": "/ˌdʒʊərɪsˈdɪkʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Restaurants & Dining",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -833,7 +1008,11 @@
       "jurisdictionally",
       "jurisdictions"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "legal-adjective",
@@ -842,7 +1021,7 @@
     "type": "adjective",
     "meaning": "hợp pháp, thuộc về luật pháp",
     "pronunciation": "/ˈliːɡl/",
-    "topic": "Legal & Compliance",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -866,7 +1045,11 @@
       "legalize",
       "legally"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "legislated-adjective",
@@ -875,7 +1058,7 @@
     "type": "adjective",
     "meaning": "được quy định bởi luật pháp",
     "pronunciation": "/ˈledʒɪsleɪtɪd/",
-    "topic": "Legal & Compliance",
+    "topic": "Sales & Retail",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -898,7 +1081,11 @@
       "legislation",
       "legislature"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "legislation-noun",
@@ -907,7 +1094,7 @@
     "type": "noun",
     "meaning": "pháp luật, luật ban hành",
     "pronunciation": "/ˌledʒɪsˈleɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -931,7 +1118,11 @@
       "legislative",
       "legislator"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "legislative-adjective",
@@ -940,7 +1131,7 @@
     "type": "adjective",
     "meaning": "thuộc lập pháp",
     "pronunciation": "/ˈledʒɪsleɪtɪv/",
-    "topic": "Legal & Compliance",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -961,38 +1152,11 @@
       "legislation",
       "legislator"
     ],
-    "day": 77
-  },
-  {
-    "id": "monthly-contract-phrase",
-    "word": "monthly contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: monthly contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the monthly contract before the next business day.",
-    "exampleVi": "Vui long xem lai monthly contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "monthly contract",
-      "monthly contract process",
-      "monthly contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "notary-noun",
@@ -1001,7 +1165,7 @@
     "type": "noun",
     "meaning": "công chứng viên",
     "pronunciation": "/ˈnoʊtəri/",
-    "topic": "Legal & Compliance",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1023,7 +1187,11 @@
       "notarized",
       "notarial"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "observance-noun",
@@ -1032,7 +1200,7 @@
     "type": "noun",
     "meaning": "sự tuân thủ, sự tôn trọng",
     "pronunciation": "/əbˈzɜːrvəns/",
-    "topic": "Legal & Compliance",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1056,7 +1224,11 @@
       "observant",
       "observingly"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "prohibit-verb",
@@ -1065,7 +1237,7 @@
     "type": "verb",
     "meaning": "cấm, ngăn cấm",
     "pronunciation": "/prəˈhɪbɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1089,7 +1261,11 @@
       "prohibited",
       "prohibitive"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "sanction-noun",
@@ -1098,7 +1274,7 @@
     "type": "noun",
     "meaning": "sự trừng phạt, biện pháp chế tài",
     "pronunciation": "/ˈsæŋkʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1120,7 +1296,11 @@
       "sanction (v.)",
       "sanctioned"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "stipulate-verb",
@@ -1129,7 +1309,7 @@
     "type": "verb",
     "meaning": "quy định, đặt điều kiện",
     "pronunciation": "/ˈstɪpjʊleɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1152,7 +1332,11 @@
       "stipulation",
       "stipulated"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "testify-verb",
@@ -1161,7 +1345,7 @@
     "type": "verb",
     "meaning": "làm chứng, khai nhận",
     "pronunciation": "/ˈtestɪfaɪ/",
-    "topic": "Legal & Compliance",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1186,7 +1370,11 @@
       "testifying",
       "testifier"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "tribunal-noun",
@@ -1195,7 +1383,7 @@
     "type": "noun",
     "meaning": "tòa án, hội đồng xét xử",
     "pronunciation": "/traɪˈbjuːnəl/",
-    "topic": "Legal & Compliance",
+    "topic": "Technology & IT",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1218,7 +1406,11 @@
       "tribunal-like",
       "tribunician"
     ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "waiver-noun",
@@ -1227,7 +1419,7 @@
     "type": "noun",
     "meaning": "sự từ bỏ quyền, giấy miễn trừ",
     "pronunciation": "/ˈweɪvər/",
-    "topic": "Legal & Compliance",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1249,38 +1441,11 @@
       "waive",
       "waived"
     ],
-    "day": 77
-  },
-  {
-    "id": "weekly-contract-phrase",
-    "word": "weekly contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: weekly contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the weekly contract before the next business day.",
-    "exampleVi": "Vui long xem lai weekly contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "weekly contract",
-      "weekly contract process",
-      "weekly contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 77
+    "day": 77,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accountable-adjective",
@@ -1289,7 +1454,7 @@
     "type": "adjective",
     "meaning": "chịu trách nhiệm",
     "pronunciation": "/əˈkaʊntəbəl/",
-    "topic": "Legal & Compliance",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1313,7 +1478,11 @@
       "account",
       "unaccountable"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "acquitted-adjective",
@@ -1322,7 +1491,7 @@
     "type": "adjective",
     "meaning": "được tha bổng, trắng án",
     "pronunciation": "/əˈkwɪtɪd/",
-    "topic": "Legal & Compliance",
+    "topic": "Health & Safety",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1343,7 +1512,11 @@
       "acquit",
       "acquittal"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "allegation-noun",
@@ -1352,7 +1525,7 @@
     "type": "noun",
     "meaning": "lời cáo buộc",
     "pronunciation": "/ˌæləˈɡeɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1375,7 +1548,11 @@
       "alleged",
       "allegedly"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "appeals-noun",
@@ -1384,7 +1561,7 @@
     "type": "noun",
     "meaning": "sự kháng cáo, tòa kháng án",
     "pronunciation": "/əˈpiːlz/",
-    "topic": "Legal & Compliance",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1406,7 +1583,11 @@
       "appealed",
       "appealing"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "convict-verb",
@@ -1415,7 +1596,7 @@
     "type": "verb",
     "meaning": "kết án, tuyên án phạm tội",
     "pronunciation": "/kənˈvɪkt/",
-    "topic": "Legal & Compliance",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1438,7 +1619,11 @@
       "conviction",
       "convicted"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "deposition-noun",
@@ -1447,7 +1632,7 @@
     "type": "noun",
     "meaning": "lời khai hữu thệ ngoài tòa",
     "pronunciation": "/ˌdepəˈzɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Research & Reports",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1468,7 +1653,11 @@
       "depose",
       "depositions"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "forfeit-verb",
@@ -1477,7 +1666,7 @@
     "type": "verb",
     "meaning": "mất quyền, bị tịch thu",
     "pronunciation": "/ˈfɔːrfɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Environment & Sustainability",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1499,7 +1688,11 @@
       "forfeiture",
       "forfeited"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "infringe-verb",
@@ -1508,7 +1701,7 @@
     "type": "verb",
     "meaning": "xâm phạm, vi phạm",
     "pronunciation": "/ɪnˈfrɪndʒ/",
-    "topic": "Legal & Compliance",
+    "topic": "Negotiations & Deals",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1531,7 +1724,11 @@
       "infringer",
       "infringing"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "injunction-noun",
@@ -1540,7 +1737,7 @@
     "type": "noun",
     "meaning": "lệnh của tòa, lệnh cấm",
     "pronunciation": "/ɪnˈdʒʌŋkʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Global Trade",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1563,7 +1760,11 @@
       "injunctions",
       "enjoin"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "juror-noun",
@@ -1572,7 +1773,7 @@
     "type": "noun",
     "meaning": "thành viên bồi thẩm đoàn",
     "pronunciation": "/ˈdʒʊrər/",
-    "topic": "Legal & Compliance",
+    "topic": "Business Events",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1592,7 +1793,11 @@
       "jury",
       "jurors"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "jury-noun",
@@ -1601,7 +1806,7 @@
     "type": "noun",
     "meaning": "bồi thẩm đoàn",
     "pronunciation": "/ˈdʒʊri/",
-    "topic": "Legal & Compliance",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1621,7 +1826,11 @@
       "juror",
       "juries"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "legally-adverb",
@@ -1630,7 +1839,7 @@
     "type": "adverb",
     "meaning": "hợp pháp, về mặt pháp lý",
     "pronunciation": "/ˈliːɡəli/",
-    "topic": "Legal & Compliance",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1653,7 +1862,11 @@
       "legality",
       "legalize"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "litigant-noun",
@@ -1662,7 +1875,7 @@
     "type": "noun",
     "meaning": "đương sự, người tranh chấp",
     "pronunciation": "/ˈlɪtɪɡənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Data & Analysis",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1685,7 +1898,11 @@
       "litigation",
       "litigious"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "negligence-noun",
@@ -1694,7 +1911,7 @@
     "type": "noun",
     "meaning": "sự cẩu thả, sự bất cẩn",
     "pronunciation": "/ˈneɡlɪdʒəns/",
-    "topic": "Legal & Compliance",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1717,7 +1934,11 @@
       "negligently",
       "neglect"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "notarize-verb",
@@ -1726,7 +1947,7 @@
     "type": "verb",
     "meaning": "công chứng",
     "pronunciation": "/ˈnoʊtəraɪz/",
-    "topic": "Legal & Compliance",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1749,7 +1970,11 @@
       "notarized",
       "notarization"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "patent-noun",
@@ -1758,7 +1983,7 @@
     "type": "noun",
     "meaning": "bằng sáng chế",
     "pronunciation": "/ˈpætənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1782,7 +2007,11 @@
       "patented",
       "patentable"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "plaintiff-noun",
@@ -1791,7 +2020,7 @@
     "type": "noun",
     "meaning": "nguyên đơn, người khởi kiện",
     "pronunciation": "/ˈpleɪntɪf/",
-    "topic": "Legal & Compliance",
+    "topic": "Public Relations",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1814,7 +2043,11 @@
       "plaintive",
       "co-plaintiff"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "proprietary-adjective",
@@ -1823,7 +2056,7 @@
     "type": "adjective",
     "meaning": "thuộc quyền sở hữu, độc quyền",
     "pronunciation": "/prəˈpraɪətəri/",
-    "topic": "Legal & Compliance",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1846,7 +2079,11 @@
       "proprietor",
       "proprietorship"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "prosecution-noun",
@@ -1855,7 +2092,7 @@
     "type": "noun",
     "meaning": "bên truy tố, sự khởi tố",
     "pronunciation": "/ˌprɑːsɪˈkjuːʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1876,7 +2113,11 @@
       "prosecutor",
       "prosecutorial"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "verdict-noun",
@@ -1885,7 +2126,7 @@
     "type": "noun",
     "meaning": "phán quyết, bản án",
     "pronunciation": "/ˈvɜːrdɪkt/",
-    "topic": "Legal & Compliance",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1908,7 +2149,11 @@
       "verdict-like",
       "final verdict"
     ],
-    "day": 78
+    "day": 78,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "affidavit-noun",
@@ -1917,7 +2162,7 @@
     "type": "noun",
     "meaning": "bản khai có tuyên thệ",
     "pronunciation": "/ˌæfɪˈdeɪvɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Office & Administration",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1940,7 +2185,47 @@
       "affiant",
       "sworn statement"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "annual-evaluation-collocation",
+    "word": "annual evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual evaluation",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua annual evaluation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual evaluation",
+      "annual evaluation review",
+      "annual evaluation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "evaluation"
+    ],
+    "day": 79,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "breach-noun",
@@ -1949,7 +2234,7 @@
     "type": "noun",
     "meaning": "sự vi phạm",
     "pronunciation": "/briːtʃ/",
-    "topic": "Legal & Compliance",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1973,7 +2258,11 @@
       "breached",
       "breaching"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "contest-verb",
@@ -1982,7 +2271,7 @@
     "type": "verb",
     "meaning": "tranh chấp, phản đối",
     "pronunciation": "/kənˈtest/",
-    "topic": "Legal & Compliance",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2006,7 +2295,11 @@
       "contested",
       "contestable"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "decree-noun",
@@ -2015,7 +2308,7 @@
     "type": "noun",
     "meaning": "sắc lệnh, nghị định",
     "pronunciation": "/dɪˈkriː/",
-    "topic": "Legal & Compliance",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2038,7 +2331,11 @@
       "decreed",
       "decrees"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "defendant-noun",
@@ -2047,7 +2344,7 @@
     "type": "noun",
     "meaning": "bị đơn, bị cáo",
     "pronunciation": "/dɪˈfendənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Travel & Transportation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2070,7 +2367,11 @@
       "defense",
       "defendants"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "enact-verb",
@@ -2079,7 +2380,7 @@
     "type": "verb",
     "meaning": "ban hành, thông qua (luật)",
     "pronunciation": "/ɪˈnækt/",
-    "topic": "Legal & Compliance",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2101,7 +2402,11 @@
       "enactment",
       "enacted"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "enforceable-adjective",
@@ -2110,7 +2415,7 @@
     "type": "adjective",
     "meaning": "có thể thực thi, có hiệu lực",
     "pronunciation": "/ɪnˈfɔːrsəbl/",
-    "topic": "Legal & Compliance",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2134,7 +2439,11 @@
       "enforcement",
       "unenforceable"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "indemnify-verb",
@@ -2143,7 +2452,7 @@
     "type": "verb",
     "meaning": "bồi thường, bảo đảm tránh thiệt hại",
     "pronunciation": "/ɪnˈdemnɪfaɪ/",
-    "topic": "Legal & Compliance",
+    "topic": "Customer Service",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2164,7 +2473,11 @@
       "indemnity",
       "indemnification"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "liable-adjective",
@@ -2173,7 +2486,7 @@
     "type": "adjective",
     "meaning": "có trách nhiệm pháp lý",
     "pronunciation": "/ˈlaɪəbl/",
-    "topic": "Legal & Compliance",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2196,7 +2509,11 @@
       "liability",
       "liabilities"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "ratify-verb",
@@ -2205,7 +2522,7 @@
     "type": "verb",
     "meaning": "phê chuẩn, thông qua",
     "pronunciation": "/ˈrætɪfaɪ/",
-    "topic": "Legal & Compliance",
+    "topic": "Marketing & Advertising",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2227,7 +2544,11 @@
       "ratification",
       "ratified"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "remedial-adjective",
@@ -2236,7 +2557,7 @@
     "type": "adjective",
     "meaning": "mang tính khắc phục, sửa đổi",
     "pronunciation": "/rɪˈmiːdiəl/",
-    "topic": "Legal & Compliance",
+    "topic": "Finance & Banking",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2258,7 +2579,11 @@
       "remedy",
       "remedies"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "remedy-noun",
@@ -2267,7 +2592,7 @@
     "type": "noun",
     "meaning": "biện pháp khắc phục, sự đền bù",
     "pronunciation": "/ˈremədi/",
-    "topic": "Legal & Compliance",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2290,7 +2615,11 @@
       "remedial",
       "remedy (v.)"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "rescind-verb",
@@ -2299,7 +2628,7 @@
     "type": "verb",
     "meaning": "hủy bỏ, vô hiệu hóa",
     "pronunciation": "/rɪˈsɪnd/",
-    "topic": "Legal & Compliance",
+    "topic": "Contracts & Legal",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2321,7 +2650,11 @@
       "rescinded",
       "recision"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "revocation-noun",
@@ -2330,7 +2663,7 @@
     "type": "noun",
     "meaning": "sự thu hồi, sự hủy bỏ",
     "pronunciation": "/ˌrevəˈkeɪʃən/",
-    "topic": "Legal & Compliance",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2353,7 +2686,11 @@
       "revoked",
       "revocable"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "revoke-verb",
@@ -2362,7 +2699,7 @@
     "type": "verb",
     "meaning": "thu hồi, hủy bỏ",
     "pronunciation": "/rɪˈvoʊk/",
-    "topic": "Legal & Compliance",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2386,7 +2723,11 @@
       "revoked",
       "revocable"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "safeguard-verb",
@@ -2395,7 +2736,7 @@
     "type": "verb",
     "meaning": "bảo vệ, giữ gìn",
     "pronunciation": "/ˈseɪfɡɑːrd/",
-    "topic": "Legal & Compliance",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2419,7 +2760,11 @@
       "safeguards",
       "safeguarding"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "settlement-noun",
@@ -2428,7 +2773,7 @@
     "type": "noun",
     "meaning": "sự thỏa thuận, sự hòa giải",
     "pronunciation": "/ˈsetlmənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2451,7 +2796,11 @@
       "settle",
       "settled"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "statute-noun",
@@ -2460,7 +2809,7 @@
     "type": "noun",
     "meaning": "đạo luật, quy chế",
     "pronunciation": "/ˈstætʃuːt/",
-    "topic": "Legal & Compliance",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2482,7 +2831,11 @@
       "statutory",
       "statutes"
     ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "testimony-noun",
@@ -2491,7 +2844,7 @@
     "type": "noun",
     "meaning": "lời khai, lời chứng",
     "pronunciation": "/ˈtestɪmoʊni/",
-    "topic": "Legal & Compliance",
+    "topic": "Office Equipment",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2514,38 +2867,11 @@
       "testimonies",
       "testimonial"
     ],
-    "day": 79
-  },
-  {
-    "id": "updated-contract-phrase",
-    "word": "updated contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: updated contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the updated contract before the next business day.",
-    "exampleVi": "Vui long xem lai updated contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "updated contract",
-      "updated contract process",
-      "updated contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 79
+    "day": 79,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "adjudicate-verb",
@@ -2554,7 +2880,7 @@
     "type": "verb",
     "meaning": "phân xử, xét xử",
     "pronunciation": "/əˈdʒuːdɪkeɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Real Estate & Facilities",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2577,7 +2903,47 @@
       "adjudicator",
       "adjudicated"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "annual-complaint-collocation",
+    "word": "annual complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual complaint",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual complaint in the file before Friday.",
+    "exampleVi": "Vui long dua annual complaint vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual complaint",
+      "annual complaint review",
+      "annual complaint deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "complaint"
+    ],
+    "day": 80,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "arbitrate-verb",
@@ -2586,7 +2952,7 @@
     "type": "verb",
     "meaning": "phân xử, đứng ra hòa giải",
     "pronunciation": "/ˈɑːrbɪtreɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Training & Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2609,7 +2975,11 @@
       "arbitrator",
       "arbitrated"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "arbitrator-noun",
@@ -2618,7 +2988,7 @@
     "type": "noun",
     "meaning": "trọng tài viên, người phân xử",
     "pronunciation": "/ˈɑːrbɪtreɪtər/",
-    "topic": "Legal & Compliance",
+    "topic": "Project Management",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2640,7 +3010,11 @@
       "arbitrate",
       "arbitration"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "contractual-adjective",
@@ -2649,7 +3023,7 @@
     "type": "adjective",
     "meaning": "thuộc hợp đồng",
     "pronunciation": "/kənˈtræktʃuəl/",
-    "topic": "Legal & Compliance",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2673,7 +3047,11 @@
       "contractor",
       "contractually"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "copyright-noun",
@@ -2682,7 +3060,7 @@
     "type": "noun",
     "meaning": "bản quyền, quyền tác giả",
     "pronunciation": "/ˈkɑːpiraɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2704,7 +3082,11 @@
       "copyrighted",
       "copyrights"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "deed-noun",
@@ -2713,7 +3095,7 @@
     "type": "noun",
     "meaning": "chứng thư, văn bản pháp lý",
     "pronunciation": "/diːd/",
-    "topic": "Legal & Compliance",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2736,7 +3118,11 @@
       "deeded",
       "misdeed"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "entitle-verb",
@@ -2745,7 +3131,7 @@
     "type": "verb",
     "meaning": "cho quyền, cho phép",
     "pronunciation": "/ɪnˈtaɪtəl/",
-    "topic": "Legal & Compliance",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2768,7 +3154,11 @@
       "entitlement",
       "entitled"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "infringement-noun",
@@ -2777,7 +3167,7 @@
     "type": "noun",
     "meaning": "sự vi phạm, sự xâm phạm",
     "pronunciation": "/ɪnˈfrɪndʒmənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2800,7 +3190,11 @@
       "infringe",
       "infringing"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "mediate-verb",
@@ -2809,7 +3203,7 @@
     "type": "verb",
     "meaning": "hòa giải, làm trung gian",
     "pronunciation": "/ˈmiːdieɪt/",
-    "topic": "Legal & Compliance",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2831,7 +3225,11 @@
       "mediation",
       "mediator"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "mediator-noun",
@@ -2840,7 +3238,7 @@
     "type": "noun",
     "meaning": "người hòa giải",
     "pronunciation": "/ˈmiːdieɪtər/",
-    "topic": "Legal & Compliance",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2861,7 +3259,11 @@
       "mediate",
       "mediation"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "ordinance-noun",
@@ -2870,7 +3272,7 @@
     "type": "noun",
     "meaning": "sắc lệnh, pháp lệnh",
     "pronunciation": "/ˈɔːrdɪnəns/",
-    "topic": "Legal & Compliance",
+    "topic": "Email & Correspondence",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2893,7 +3295,11 @@
       "ordain",
       "ordained"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "piracy-noun",
@@ -2902,7 +3308,7 @@
     "type": "noun",
     "meaning": "sự vi phạm bản quyền, sự sao chép lậu",
     "pronunciation": "/ˈpaɪrəsi/",
-    "topic": "Legal & Compliance",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2924,7 +3330,11 @@
       "pirate",
       "pirated"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "pledge-verb",
@@ -2933,7 +3343,7 @@
     "type": "verb",
     "meaning": "cam kết, hứa",
     "pronunciation": "/pledʒ/",
-    "topic": "Legal & Compliance",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2956,7 +3366,11 @@
       "pledge (n.)",
       "pledged"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "precedent-noun",
@@ -2965,7 +3379,7 @@
     "type": "noun",
     "meaning": "tiền lệ",
     "pronunciation": "/ˈpresɪdənt/",
-    "topic": "Legal & Compliance",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2987,7 +3401,11 @@
       "unprecedented",
       "precedents"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "prosecute-verb",
@@ -2996,7 +3414,7 @@
     "type": "verb",
     "meaning": "truy tố",
     "pronunciation": "/ˈprɒsɪkjuːt/",
-    "topic": "Legal & Compliance",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3019,38 +3437,11 @@
       "prosecutor",
       "prosecuted"
     ],
-    "day": 80
-  },
-  {
-    "id": "revised-contract-phrase",
-    "word": "revised contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve legal & compliance: revised contract",
-    "pronunciation": "",
-    "topic": "Legal & Compliance",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the revised contract before the next business day.",
-    "exampleVi": "Vui long xem lai revised contract truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "revised contract",
-      "revised contract process",
-      "revised contract deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "contract"
-    ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "sue-verb",
@@ -3059,7 +3450,7 @@
     "type": "verb",
     "meaning": "kiện, khởi kiện",
     "pronunciation": "/suː/",
-    "topic": "Legal & Compliance",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3083,7 +3474,11 @@
       "lawsuit",
       "suing"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "unauthorized-adjective",
@@ -3092,7 +3487,7 @@
     "type": "adjective",
     "meaning": "trái phép, không được phép",
     "pronunciation": "/unˈɔːθəraɪzd/",
-    "topic": "Legal & Compliance",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3116,7 +3511,11 @@
       "authorization",
       "authorized"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "uphold-verb",
@@ -3125,7 +3524,7 @@
     "type": "verb",
     "meaning": "giữ vững, duy trì",
     "pronunciation": "/ʌpˈhoʊld/",
-    "topic": "Legal & Compliance",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3148,7 +3547,11 @@
       "upheld",
       "upholding"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "void-adjective",
@@ -3157,7 +3560,7 @@
     "type": "adjective",
     "meaning": "vô hiệu, không có giá trị",
     "pronunciation": "/vɔɪd/",
-    "topic": "Legal & Compliance",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3181,6 +3584,10 @@
       "voided",
       "voidable"
     ],
-    "day": 80
+    "day": 80,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

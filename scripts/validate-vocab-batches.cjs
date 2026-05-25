@@ -41,8 +41,12 @@ for (const entry of entries) {
 }
 
 const dayCounts = new Map();
+const learningTypeCounts = {};
 for (const entry of entries) {
   dayCounts.set(entry.day, (dayCounts.get(entry.day) || 0) + 1);
+  if (entry.learningType) {
+    learningTypeCounts[entry.learningType] = (learningTypeCounts[entry.learningType] || 0) + 1;
+  }
 }
 
 const missingDays = [];
@@ -60,6 +64,7 @@ console.log(`Unique word+type: ${seen.size}/3000`);
 console.log(`Duplicates: ${duplicates.length}`);
 console.log(`Missing days: ${missingDays.length ? missingDays.join(', ') : 'none'}`);
 console.log(`Wrong day counts: ${wrongDays.length ? wrongDays.join(', ') : 'none'}`);
+console.log(`Learning types: ${JSON.stringify(learningTypeCounts)}`);
 
 if (duplicates.length) {
   console.log('\nDuplicate samples');
@@ -68,7 +73,16 @@ if (duplicates.length) {
   }
 }
 
-if (files.length !== 30 || entries.length !== 3000 || seen.size !== 3000 || missingDays.length || wrongDays.length) {
+if (
+  files.length !== 30 ||
+  entries.length !== 3000 ||
+  seen.size !== 3000 ||
+  missingDays.length ||
+  wrongDays.length ||
+  learningTypeCounts.core !== 2000 ||
+  learningTypeCounts.collocation !== 700 ||
+  learningTypeCounts.phrasal !== 300
+) {
   hasError = true;
 }
 

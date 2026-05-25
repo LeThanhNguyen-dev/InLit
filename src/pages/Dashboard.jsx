@@ -1,4 +1,5 @@
-import { BarChart3, BookOpen, Brain, Calendar, FileText, Link2, PanelsTopLeft, Target, Trophy, TriangleAlert } from "lucide-react";
+import { BarChart3, BookOpen, Brain, Calendar, FileText, Headphones, Keyboard, Link2, PanelsTopLeft, PenLine, Target, Trophy, TriangleAlert } from "lucide-react";
+import { Link } from "react-router-dom";
 import ProgressRing from "../components/ProgressRing.jsx";
 import StatCard from "../components/StatCard.jsx";
 import TaskList from "../components/TaskList.jsx";
@@ -20,6 +21,74 @@ const mistakeLabels = {
   miss_number_date: "miss number/date",
   collocation: "collocation",
 };
+
+const learningModules = [
+  {
+    title: "Vocabulary TOEIC",
+    description: "Xây dựng vốn từ vựng theo 40 chủ đề TOEIC phổ biến nhất",
+    bullets: [
+      "2,000+ từ vựng theo chủ đề",
+      "Flashcard giúp ghi nhớ nhanh",
+      "Kiểm tra từ vựng giúp rèn luyện tư duy",
+      "Phím tắt thao tác nhanh cho Flashcard và Kiểm tra",
+    ],
+    to: "/vocabulary",
+    icon: BookOpen,
+    tone: "bg-blue-50 text-blue-700",
+  },
+  {
+    title: "Grammar TOEIC",
+    description: "Nắm vững 38 chủ đề ngữ pháp trọng tâm trong đề thi",
+    bullets: [
+      "38 chủ đề ngữ pháp trọng tâm",
+      "Giải thích chi tiết dễ hiểu",
+      "Lỗi thường gặp & cách khắc phục",
+      "Ứng dụng trong đề thi và giao tiếp thực tế",
+    ],
+    to: "/grammar",
+    icon: FileText,
+    tone: "bg-violet-50 text-violet-700",
+  },
+  {
+    title: "Listening TOEIC",
+    description: "Luyện nghe Part 1-4 với chiến lược và kỹ thuật làm bài hiệu quả",
+    bullets: [
+      "Luyện tập theo Part 1-4",
+      "Audio chuẩn đề thi thật",
+      "Transcript & Giải thích chi tiết",
+      "Chiến lược làm bài từng phần",
+    ],
+    to: "/parts",
+    icon: Headphones,
+    tone: "bg-cyan-50 text-cyan-700",
+  },
+  {
+    title: "Nghe chép chính tả",
+    description: "Rèn phản xạ nghe sâu và ghi nhớ từ vựng qua việc chép chính tả",
+    bullets: [
+      "Nghe chép chính tả từng câu",
+      "Nghe lật từ rèn phản xạ",
+      "Tự động chấm điểm & sửa lỗi",
+      "Hỗ trợ phím tắt thông minh",
+    ],
+    to: "/shadowing",
+    icon: Keyboard,
+    tone: "bg-emerald-50 text-emerald-700",
+  },
+  {
+    title: "Reading TOEIC",
+    description: "Làm chủ Part 5-7 với các dạng câu hỏi và kỹ thuật đọc hiểu",
+    bullets: [
+      "Part 5: Incomplete Sentences",
+      "Part 6: Text Completion",
+      "Part 7: Reading Comprehension",
+      "Chiến lược quản lý thời gian",
+    ],
+    to: "/reading",
+    icon: PenLine,
+    tone: "bg-amber-50 text-amber-700",
+  },
+];
 
 export default function Dashboard() {
   const today = currentStudyDay();
@@ -57,6 +126,33 @@ export default function Dashboard() {
               <p className="text-sm text-vault-muted">Ngày {plan.day} / {roadmap.totalDays}</p>
             </div>
           </div>
+        </div>
+
+        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+          {learningModules.map(({ title, description, bullets, to, icon: Icon, tone }) => (
+            <article key={title} className="card flex min-h-80 flex-col p-5">
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <h2 className="text-xl font-black text-vault-ink">{title}</h2>
+                  <p className="mt-2 text-sm font-semibold leading-6 text-vault-muted">{description}</p>
+                </div>
+                <div className={`grid h-11 w-11 shrink-0 place-items-center rounded-xl ${tone}`}>
+                  <Icon size={22} />
+                </div>
+              </div>
+              <ul className="mt-5 flex-1 space-y-3 text-sm font-semibold text-vault-ink">
+                {bullets.map((item) => (
+                  <li key={item} className="flex gap-2">
+                    <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-vault-purple" />
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link to={to} className="focus-ring mt-5 inline-flex items-center justify-center rounded-xl bg-vault-purple px-4 py-3 text-sm font-bold text-white">
+                Bắt đầu học
+              </Link>
+            </article>
+          ))}
         </div>
 
         <div className="card p-6">

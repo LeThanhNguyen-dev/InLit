@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "hội trường",
     "pronunciation": "/auditorium/",
-    "topic": "Events & Conferences",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -25,91 +25,11 @@
     "wordFamily": [
       "auditorium"
     ],
-    "day": 61
-  },
-  {
-    "id": "breakout-session-phrase",
-    "word": "breakout session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "phiên họp chuyên đề",
-    "pronunciation": "/breakout session/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the breakout session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiên họp chuyên đề cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm breakout session",
-      "breakout session details",
-      "review breakout session"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "session"
-    ],
-    "day": 61
-  },
-  {
-    "id": "conference-agenda-phrase",
-    "word": "conference agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "lịch trình hội nghị",
-    "pronunciation": "/conference agenda/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the conference agenda carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét lịch trình hội nghị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm conference agenda",
-      "conference agenda details",
-      "review conference agenda"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 61
-  },
-  {
-    "id": "conference-venue-phrase",
-    "word": "conference venue",
-    "baseWord": "venue",
-    "type": "phrase",
-    "meaning": "địa điểm hội nghị",
-    "pronunciation": "/conference venue/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the conference venue carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét địa điểm hội nghị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm conference venue",
-      "conference venue details",
-      "review conference venue"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "venue"
-    ],
-    "day": 61
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "delegate-noun",
@@ -118,7 +38,7 @@
     "type": "noun",
     "meaning": "đại biểu",
     "pronunciation": "/delegate/",
-    "topic": "Events & Conferences",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -137,716 +57,965 @@
     "wordFamily": [
       "delegate"
     ],
-    "day": 61
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "event-program-phrase",
-    "word": "event program",
-    "baseWord": "program",
-    "type": "phrase",
-    "meaning": "chương trình sự kiện",
-    "pronunciation": "/event program/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the event program carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chương trình sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm event program",
-      "event program details",
-      "review event program"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "program"
-    ],
-    "day": 61
-  },
-  {
-    "id": "exhibition-booth-phrase",
-    "word": "exhibition booth",
-    "baseWord": "booth",
-    "type": "phrase",
-    "meaning": "gian triển lãm",
-    "pronunciation": "/exhibition booth/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the exhibition booth carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét gian triển lãm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm exhibition booth",
-      "exhibition booth details",
-      "review exhibition booth"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "booth"
-    ],
-    "day": 61
-  },
-  {
-    "id": "keynote-speaker-phrase",
-    "word": "keynote speaker",
-    "baseWord": "speaker",
-    "type": "phrase",
-    "meaning": "diễn giả chính",
-    "pronunciation": "/keynote speaker/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the keynote speaker carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét diễn giả chính cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm keynote speaker",
-      "keynote speaker details",
-      "review keynote speaker"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "speaker"
-    ],
-    "day": 61
-  },
-  {
-    "id": "name-badge-phrase",
-    "word": "name badge",
-    "baseWord": "badge",
-    "type": "phrase",
-    "meaning": "thẻ tên",
-    "pronunciation": "/name badge/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the name badge carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thẻ tên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm name badge",
-      "name badge details",
-      "review name badge"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "badge"
-    ],
-    "day": 61
-  },
-  {
-    "id": "networking-reception-phrase",
-    "word": "networking reception",
-    "baseWord": "reception",
-    "type": "phrase",
-    "meaning": "tiệc giao lưu",
-    "pronunciation": "/networking reception/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the networking reception carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tiệc giao lưu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm networking reception",
-      "networking reception details",
-      "review networking reception"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "reception"
-    ],
-    "day": 61
-  },
-  {
-    "id": "panel-discussion-phrase",
-    "word": "panel discussion",
-    "baseWord": "discussion",
-    "type": "phrase",
-    "meaning": "phiên thảo luận nhóm",
-    "pronunciation": "/panel discussion/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the panel discussion carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiên thảo luận nhóm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm panel discussion",
-      "panel discussion details",
-      "review panel discussion"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "discussion"
-    ],
-    "day": 61
-  },
-  {
-    "id": "plenary-session-phrase",
-    "word": "plenary session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "phiên toàn thể",
-    "pronunciation": "/plenary session/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the plenary session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiên toàn thể cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm plenary session",
-      "plenary session details",
-      "review plenary session"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "session"
-    ],
-    "day": 61
-  },
-  {
-    "id": "registered-participant-phrase",
-    "word": "registered participant",
-    "baseWord": "participant",
-    "type": "phrase",
-    "meaning": "người tham dự đã đăng ký",
-    "pronunciation": "/registered participant/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the registered participant carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét người tham dự đã đăng ký cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm registered participant",
-      "registered participant details",
-      "review registered participant"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "participant"
-    ],
-    "day": 61
-  },
-  {
-    "id": "registration-desk-phrase",
-    "word": "registration desk",
-    "baseWord": "desk",
-    "type": "phrase",
-    "meaning": "bàn đăng ký",
-    "pronunciation": "/registration desk/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the registration desk carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bàn đăng ký cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm registration desk",
-      "registration desk details",
-      "review registration desk"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "desk"
-    ],
-    "day": 61
-  },
-  {
-    "id": "seminar-room-phrase",
-    "word": "seminar room",
-    "baseWord": "room",
-    "type": "phrase",
-    "meaning": "phòng hội thảo",
-    "pronunciation": "/seminar room/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the seminar room carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phòng hội thảo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm seminar room",
-      "seminar room details",
-      "review seminar room"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "room"
-    ],
-    "day": 61
-  },
-  {
-    "id": "session-moderator-phrase",
-    "word": "session moderator",
-    "baseWord": "moderator",
-    "type": "phrase",
-    "meaning": "người điều hành phiên",
-    "pronunciation": "/session moderator/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the session moderator carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét người điều hành phiên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm session moderator",
-      "session moderator details",
-      "review session moderator"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "moderator"
-    ],
-    "day": 61
-  },
-  {
-    "id": "speaker-lectern-phrase",
-    "word": "speaker lectern",
-    "baseWord": "lectern",
-    "type": "phrase",
-    "meaning": "bục diễn giả",
-    "pronunciation": "/speaker lectern/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the speaker lectern carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bục diễn giả cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm speaker lectern",
-      "speaker lectern details",
-      "review speaker lectern"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "lectern"
-    ],
-    "day": 61
-  },
-  {
-    "id": "sponsor-package-phrase",
-    "word": "sponsor package",
-    "baseWord": "package",
-    "type": "phrase",
-    "meaning": "gói tài trợ",
-    "pronunciation": "/sponsor package/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sponsor package carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét gói tài trợ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sponsor package",
-      "sponsor package details",
-      "review sponsor package"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "package"
-    ],
-    "day": 61
-  },
-  {
-    "id": "welcome-packet-phrase",
-    "word": "welcome packet",
-    "baseWord": "packet",
-    "type": "phrase",
-    "meaning": "tập tài liệu chào mừng",
-    "pronunciation": "/welcome packet/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the welcome packet carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tập tài liệu chào mừng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm welcome packet",
-      "welcome packet details",
-      "review welcome packet"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "packet"
-    ],
-    "day": 61
-  },
-  {
-    "id": "workshop-leader-phrase",
-    "word": "workshop leader",
-    "baseWord": "leader",
-    "type": "phrase",
-    "meaning": "người dẫn hội thảo",
-    "pronunciation": "/workshop leader/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the workshop leader carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét người dẫn hội thảo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm workshop leader",
-      "workshop leader details",
-      "review workshop leader"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "leader"
-    ],
-    "day": 61
-  },
-  {
-    "id": "aisle-marker-phrase",
-    "word": "aisle marker",
-    "baseWord": "marker",
-    "type": "phrase",
-    "meaning": "dấu chỉ lối đi",
-    "pronunciation": "/aisle marker/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the aisle marker carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dấu chỉ lối đi cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm aisle marker",
-      "aisle marker details",
-      "review aisle marker"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "marker"
-    ],
-    "day": 62
-  },
-  {
-    "id": "attendance-list-phrase",
-    "word": "attendance list",
-    "baseWord": "list",
-    "type": "phrase",
-    "meaning": "danh sách tham dự",
-    "pronunciation": "/attendance list/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the attendance list carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách tham dự cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm attendance list",
-      "attendance list details",
-      "review attendance list"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "list"
-    ],
-    "day": 62
-  },
-  {
-    "id": "audio-system-phrase",
-    "word": "audio system",
-    "baseWord": "system",
-    "type": "phrase",
-    "meaning": "hệ thống âm thanh",
-    "pronunciation": "/audio system/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the audio system carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hệ thống âm thanh cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm audio system",
-      "audio system details",
-      "review audio system"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "system"
-    ],
-    "day": 62
-  },
-  {
-    "id": "banner-stand-phrase",
-    "word": "banner stand",
-    "baseWord": "stand",
-    "type": "phrase",
-    "meaning": "giá treo banner",
-    "pronunciation": "/banner stand/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the banner stand carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giá treo banner cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm banner stand",
-      "banner stand details",
-      "review banner stand"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "stand"
-    ],
-    "day": 62
-  },
-  {
-    "id": "directional-signage-phrase",
-    "word": "directional signage",
-    "baseWord": "signage",
-    "type": "phrase",
-    "meaning": "biển chỉ dẫn",
-    "pronunciation": "/directional signage/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the directional signage carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét biển chỉ dẫn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm directional signage",
-      "directional signage details",
-      "review directional signage"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "signage"
-    ],
-    "day": 62
-  },
-  {
-    "id": "feedback-survey-phrase",
-    "word": "feedback survey",
-    "baseWord": "survey",
-    "type": "phrase",
-    "meaning": "khảo sát phản hồi",
-    "pronunciation": "/feedback survey/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the feedback survey carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khảo sát phản hồi cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm feedback survey",
-      "feedback survey details",
-      "review feedback survey"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "survey"
-    ],
-    "day": 62
-  },
-  {
-    "id": "invitation-letter-phrase",
-    "word": "invitation letter",
-    "baseWord": "letter",
-    "type": "phrase",
-    "meaning": "thư mời",
-    "pronunciation": "/invitation letter/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the invitation letter carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thư mời cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm invitation letter",
-      "invitation letter details",
-      "review invitation letter"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "letter"
-    ],
-    "day": 62
-  },
-  {
-    "id": "live-stream-noun",
-    "word": "live stream",
-    "baseWord": "stream",
+    "id": "profitability-noun",
+    "word": "profitability",
+    "baseWord": "profitabil",
     "type": "noun",
-    "meaning": "phát trực tiếp",
-    "pronunciation": "/live stream/",
-    "topic": "Events & Conferences",
+    "meaning": "tu vung cot loi TOEIC 700: profitability",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word profitability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu profitability trong email cong viec.",
+    "collocations": [
+      "profitability review",
+      "profitability process",
+      "profitability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "profitability"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "profitable-adjective",
+    "word": "profitable",
+    "baseWord": "profit",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: profitable",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word profitable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu profitable trong email cong viec.",
+    "collocations": [
+      "profitable review",
+      "profitable process",
+      "profitable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "profitable"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "proposal-adjective",
+    "word": "proposal",
+    "baseWord": "propos",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: proposal",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word proposal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu proposal trong email cong viec.",
+    "collocations": [
+      "proposal review",
+      "proposal process",
+      "proposal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "proposal"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "provider-noun",
+    "word": "provider",
+    "baseWord": "provid",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: provider",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word provider in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu provider trong email cong viec.",
+    "collocations": [
+      "provider review",
+      "provider process",
+      "provider update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "provider"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "punctuality-noun",
+    "word": "punctuality",
+    "baseWord": "punctual",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: punctuality",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word punctuality in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu punctuality trong email cong viec.",
+    "collocations": [
+      "punctuality review",
+      "punctuality process",
+      "punctuality update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "punctuality"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "quantify-verb",
+    "word": "quantify",
+    "baseWord": "quanti",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: quantify",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word quantify in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu quantify trong email cong viec.",
+    "collocations": [
+      "quantify review",
+      "quantify process",
+      "quantify update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "quantify"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "quarterly-adverb",
+    "word": "quarterly",
+    "baseWord": "quarter",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: quarterly",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word quarterly in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu quarterly trong email cong viec.",
+    "collocations": [
+      "quarterly review",
+      "quarterly process",
+      "quarterly update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "quarterly"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "reasonable-adjective",
+    "word": "reasonable",
+    "baseWord": "reason",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reasonable",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reasonable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reasonable trong email cong viec.",
+    "collocations": [
+      "reasonable review",
+      "reasonable process",
+      "reasonable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reasonable"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "reasonably-adverb",
+    "word": "reasonably",
+    "baseWord": "reasonab",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: reasonably",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reasonably in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reasonably trong email cong viec.",
+    "collocations": [
+      "reasonably review",
+      "reasonably process",
+      "reasonably update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reasonably"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "receivable-adjective",
+    "word": "receivable",
+    "baseWord": "receiv",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: receivable",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word receivable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu receivable trong email cong viec.",
+    "collocations": [
+      "receivable review",
+      "receivable process",
+      "receivable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "receivable"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "recipient-adjective",
+    "word": "recipient",
+    "baseWord": "recipi",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: recipient",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recipient in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recipient trong email cong viec.",
+    "collocations": [
+      "recipient review",
+      "recipient process",
+      "recipient update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recipient"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "recommend-noun",
+    "word": "recommend",
+    "baseWord": "recommend",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: recommend",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recommend in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recommend trong email cong viec.",
+    "collocations": [
+      "recommend review",
+      "recommend process",
+      "recommend update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recommend"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "reconcile-noun",
+    "word": "reconcile",
+    "baseWord": "reconcile",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reconcile",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reconcile in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reconcile trong email cong viec.",
+    "collocations": [
+      "reconcile review",
+      "reconcile process",
+      "reconcile update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reconcile"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "recruit-noun",
+    "word": "recruit",
+    "baseWord": "recruit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: recruit",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recruit in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recruit trong email cong viec.",
+    "collocations": [
+      "recruit review",
+      "recruit process",
+      "recruit update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recruit"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "recruitment-adjective",
+    "word": "recruitment",
+    "baseWord": "recruit",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: recruitment",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recruitment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recruitment trong email cong viec.",
+    "collocations": [
+      "recruitment review",
+      "recruitment process",
+      "recruitment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recruitment"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "reimburse-noun",
+    "word": "reimburse",
+    "baseWord": "reimburse",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reimburse",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reimburse in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reimburse trong email cong viec.",
+    "collocations": [
+      "reimburse review",
+      "reimburse process",
+      "reimburse update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reimburse"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "reimbursement-adjective",
+    "word": "reimbursement",
+    "baseWord": "reimburse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reimbursement",
+    "pronunciation": "",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reimbursement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reimbursement trong email cong viec.",
+    "collocations": [
+      "reimbursement review",
+      "reimbursement process",
+      "reimbursement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reimbursement"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "reliability-noun",
+    "word": "reliability",
+    "baseWord": "reliabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reliability",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reliability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reliability trong email cong viec.",
+    "collocations": [
+      "reliability review",
+      "reliability process",
+      "reliability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reliability"
+    ],
+    "day": 61,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "renew-noun",
+    "word": "renew",
+    "baseWord": "renew",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: renew",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word renew in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu renew trong email cong viec.",
+    "collocations": [
+      "renew review",
+      "renew process",
+      "renew update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "renew"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "renewal-adjective",
+    "word": "renewal",
+    "baseWord": "renew",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: renewal",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word renewal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu renewal trong email cong viec.",
+    "collocations": [
+      "renewal review",
+      "renewal process",
+      "renewal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "renewal"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "renovation-noun",
+    "word": "renovation",
+    "baseWord": "renova",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: renovation",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word renovation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu renovation trong email cong viec.",
+    "collocations": [
+      "renovation review",
+      "renovation process",
+      "renovation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "renovation"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "replacement-adjective",
+    "word": "replacement",
+    "baseWord": "replace",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: replacement",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word replacement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu replacement trong email cong viec.",
+    "collocations": [
+      "replacement review",
+      "replacement process",
+      "replacement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "replacement"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "represent-adjective",
+    "word": "represent",
+    "baseWord": "repres",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: represent",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word represent in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu represent trong email cong viec.",
+    "collocations": [
+      "represent review",
+      "represent process",
+      "represent update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "represent"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "representative-adjective",
+    "word": "representative",
+    "baseWord": "representat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: representative",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word representative in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu representative trong email cong viec.",
+    "collocations": [
+      "representative review",
+      "representative process",
+      "representative update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "representative"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "requirement-adjective",
+    "word": "requirement",
+    "baseWord": "require",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: requirement",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word requirement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu requirement trong email cong viec.",
+    "collocations": [
+      "requirement review",
+      "requirement process",
+      "requirement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "requirement"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "resident-adjective",
+    "word": "resident",
+    "baseWord": "resid",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: resident",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the live stream carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phát trực tiếp cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word resident in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu resident trong email cong viec.",
     "collocations": [
-      "confirm live stream",
-      "live stream details",
-      "review live stream"
+      "resident review",
+      "resident process",
+      "resident update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "stream"
+      "resident"
     ],
-    "day": 62
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "microphone-stand-phrase",
-    "word": "microphone stand",
-    "baseWord": "stand",
-    "type": "phrase",
-    "meaning": "chân micro",
-    "pronunciation": "/microphone stand/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
+    "id": "residential-adjective",
+    "word": "residential",
+    "baseWord": "residenti",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: residential",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the microphone stand carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chân micro cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word residential in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu residential trong email cong viec.",
     "collocations": [
-      "confirm microphone stand",
-      "microphone stand details",
-      "review microphone stand"
+      "residential review",
+      "residential process",
+      "residential update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "stand"
+      "residential"
     ],
-    "day": 62
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "presentation-slide-phrase",
-    "word": "presentation slide",
-    "baseWord": "slide",
-    "type": "phrase",
-    "meaning": "trang trình chiếu",
-    "pronunciation": "/presentation slide/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the presentation slide carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trang trình chiếu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm presentation slide",
-      "presentation slide details",
-      "review presentation slide"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "slide"
-    ],
-    "day": 62
-  },
-  {
-    "id": "printed-handout-phrase",
-    "word": "printed handout",
-    "baseWord": "handout",
-    "type": "phrase",
-    "meaning": "tài liệu phát tay in sẵn",
-    "pronunciation": "/printed handout/",
-    "topic": "Events & Conferences",
+    "id": "resolve-noun",
+    "word": "resolve",
+    "baseWord": "resolve",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: resolve",
+    "pronunciation": "",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -854,223 +1023,69 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the printed handout carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tài liệu phát tay in sẵn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word resolve in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu resolve trong email cong viec.",
     "collocations": [
-      "confirm printed handout",
-      "printed handout details",
-      "review printed handout"
+      "resolve review",
+      "resolve process",
+      "resolve update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "handout"
+      "resolve"
     ],
-    "day": 62
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "projector-screen-phrase",
-    "word": "projector screen",
-    "baseWord": "screen",
-    "type": "phrase",
-    "meaning": "màn chiếu",
-    "pronunciation": "/projector screen/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the projector screen carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét màn chiếu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm projector screen",
-      "projector screen details",
-      "review projector screen"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "screen"
-    ],
-    "day": 62
-  },
-  {
-    "id": "reserved-seating-phrase",
-    "word": "reserved seating",
-    "baseWord": "seating",
-    "type": "phrase",
-    "meaning": "chỗ ngồi được giữ trước",
-    "pronunciation": "/reserved seating/",
-    "topic": "Events & Conferences",
+    "id": "retention-noun",
+    "word": "retention",
+    "baseWord": "reten",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: retention",
+    "pronunciation": "",
+    "topic": "Presentations",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the reserved seating carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chỗ ngồi được giữ trước cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word retention in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu retention trong email cong viec.",
     "collocations": [
-      "confirm reserved seating",
-      "reserved seating details",
-      "review reserved seating"
+      "retention review",
+      "retention process",
+      "retention update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "seating"
+      "retention"
     ],
-    "day": 62
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "rsvp-deadline-phrase",
-    "word": "RSVP deadline",
-    "baseWord": "deadline",
-    "type": "phrase",
-    "meaning": "hạn phản hồi tham dự",
-    "pronunciation": "/rsvp deadline/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the RSVP deadline carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hạn phản hồi tham dự cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm RSVP deadline",
-      "RSVP deadline details",
-      "review RSVP deadline"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "deadline"
-    ],
-    "day": 62
-  },
-  {
-    "id": "simultaneous-interpretation-phrase",
-    "word": "simultaneous interpretation",
-    "baseWord": "interpretation",
-    "type": "phrase",
-    "meaning": "phiên dịch đồng thời",
-    "pronunciation": "/simultaneous interpretation/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the simultaneous interpretation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiên dịch đồng thời cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm simultaneous interpretation",
-      "simultaneous interpretation details",
-      "review simultaneous interpretation"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "interpretation"
-    ],
-    "day": 62
-  },
-  {
-    "id": "speaker-bio-phrase",
-    "word": "speaker bio",
-    "baseWord": "bio",
-    "type": "phrase",
-    "meaning": "tiểu sử diễn giả",
-    "pronunciation": "/speaker bio/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the speaker bio carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tiểu sử diễn giả cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm speaker bio",
-      "speaker bio details",
-      "review speaker bio"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "bio"
-    ],
-    "day": 62
-  },
-  {
-    "id": "stage-lighting-phrase",
-    "word": "stage lighting",
-    "baseWord": "lighting",
-    "type": "phrase",
-    "meaning": "ánh sáng sân khấu",
-    "pronunciation": "/stage lighting/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the stage lighting carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét ánh sáng sân khấu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm stage lighting",
-      "stage lighting details",
-      "review stage lighting"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "lighting"
-    ],
-    "day": 62
-  },
-  {
-    "id": "technical-rehearsal-phrase",
-    "word": "technical rehearsal",
-    "baseWord": "rehearsal",
-    "type": "phrase",
-    "meaning": "buổi tổng duyệt kỹ thuật",
-    "pronunciation": "/technical rehearsal/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the technical rehearsal carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét buổi tổng duyệt kỹ thuật cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm technical rehearsal",
-      "technical rehearsal details",
-      "review technical rehearsal"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "rehearsal"
-    ],
-    "day": 62
-  },
-  {
-    "id": "video-recording-phrase",
-    "word": "video recording",
-    "baseWord": "recording",
-    "type": "phrase",
-    "meaning": "bản ghi hình",
-    "pronunciation": "/video recording/",
-    "topic": "Events & Conferences",
+    "id": "retrieval-adjective",
+    "word": "retrieval",
+    "baseWord": "retriev",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: retrieval",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1078,55 +1093,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the video recording carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bản ghi hình cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word retrieval in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu retrieval trong email cong viec.",
     "collocations": [
-      "confirm video recording",
-      "video recording details",
-      "review video recording"
+      "retrieval review",
+      "retrieval process",
+      "retrieval update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "recording"
+      "retrieval"
     ],
-    "day": 62
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "workshop-materials-phrase",
-    "word": "workshop materials",
-    "baseWord": "materials",
-    "type": "phrase",
-    "meaning": "tài liệu hội thảo",
-    "pronunciation": "/workshop materials/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the workshop materials carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tài liệu hội thảo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm workshop materials",
-      "workshop materials details",
-      "review workshop materials"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "materials"
-    ],
-    "day": 62
-  },
-  {
-    "id": "agenda-item-phrase",
-    "word": "agenda item",
-    "baseWord": "item",
-    "type": "phrase",
-    "meaning": "mục trong chương trình",
-    "pronunciation": "/agenda item/",
-    "topic": "Events & Conferences",
+    "id": "retrieve-noun",
+    "word": "retrieve",
+    "baseWord": "retrieve",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: retrieve",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1134,55 +1128,104 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the agenda item carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mục trong chương trình cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word retrieve in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu retrieve trong email cong viec.",
     "collocations": [
-      "confirm agenda item",
-      "agenda item details",
-      "review agenda item"
+      "retrieve review",
+      "retrieve process",
+      "retrieve update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "item"
+      "retrieve"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
-    "id": "audience-q-a-phrase",
-    "word": "audience Q&A",
-    "baseWord": "q&a",
-    "type": "phrase",
-    "meaning": "phần hỏi đáp với khán giả",
-    "pronunciation": "/audience q&a/",
-    "topic": "Events & Conferences",
+    "id": "revision-noun",
+    "word": "revision",
+    "baseWord": "revision",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: revision",
+    "pronunciation": "",
+    "topic": "Product Development",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the audience Q&A carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phần hỏi đáp với khán giả cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word revision in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu revision trong email cong viec.",
     "collocations": [
-      "confirm audience Q&A",
-      "audience Q&A details",
-      "review audience Q&A"
+      "revision review",
+      "revision process",
+      "revision update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "q&a"
+      "revision"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
-    "id": "award-ceremony-phrase",
-    "word": "award ceremony",
-    "baseWord": "ceremony",
-    "type": "phrase",
-    "meaning": "lễ trao giải",
-    "pronunciation": "/award ceremony/",
-    "topic": "Events & Conferences",
+    "id": "risk-noun",
+    "word": "risk",
+    "baseWord": "risk",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: risk",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word risk in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu risk trong email cong viec.",
+    "collocations": [
+      "risk review",
+      "risk process",
+      "risk update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "risk"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "risky-noun",
+    "word": "risky",
+    "baseWord": "risky",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: risky",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1190,55 +1233,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the award ceremony carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét lễ trao giải cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word risky in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu risky trong email cong viec.",
     "collocations": [
-      "confirm award ceremony",
-      "award ceremony details",
-      "review award ceremony"
+      "risky review",
+      "risky process",
+      "risky update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "ceremony"
+      "risky"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
-    "id": "closing-remarks-phrase",
-    "word": "closing remarks",
-    "baseWord": "remarks",
-    "type": "phrase",
-    "meaning": "lời phát biểu bế mạc",
-    "pronunciation": "/closing remarks/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the closing remarks carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét lời phát biểu bế mạc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm closing remarks",
-      "closing remarks details",
-      "review closing remarks"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "remarks"
-    ],
-    "day": 63
-  },
-  {
-    "id": "coffee-break-phrase",
-    "word": "coffee break",
-    "baseWord": "break",
-    "type": "phrase",
-    "meaning": "giờ nghỉ uống cà phê",
-    "pronunciation": "/coffee break/",
-    "topic": "Events & Conferences",
+    "id": "salary-adjective",
+    "word": "salary",
+    "baseWord": "sal",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: salary",
+    "pronunciation": "",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1246,27 +1268,69 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the coffee break carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giờ nghỉ uống cà phê cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word salary in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu salary trong email cong viec.",
     "collocations": [
-      "confirm coffee break",
-      "coffee break details",
-      "review coffee break"
+      "salary review",
+      "salary process",
+      "salary update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "break"
+      "salary"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
-    "id": "exhibitor-list-phrase",
-    "word": "exhibitor list",
-    "baseWord": "list",
-    "type": "phrase",
-    "meaning": "danh sách đơn vị triển lãm",
-    "pronunciation": "/exhibitor list/",
-    "topic": "Events & Conferences",
+    "id": "satisfactory-adjective",
+    "word": "satisfactory",
+    "baseWord": "satisfact",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: satisfactory",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word satisfactory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu satisfactory trong email cong viec.",
+    "collocations": [
+      "satisfactory review",
+      "satisfactory process",
+      "satisfactory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "satisfactory"
+    ],
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "satisfy-verb",
+    "word": "satisfy",
+    "baseWord": "satis",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: satisfy",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1274,46 +1338,60 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the exhibitor list carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét danh sách đơn vị triển lãm cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word satisfy in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu satisfy trong email cong viec.",
     "collocations": [
-      "confirm exhibitor list",
-      "exhibitor list details",
-      "review exhibitor list"
+      "satisfy review",
+      "satisfy process",
+      "satisfy update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "list"
+      "satisfy"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
-    "id": "fundraising-gala-phrase",
-    "word": "fundraising gala",
-    "baseWord": "gala",
-    "type": "phrase",
-    "meaning": "dạ tiệc gây quỹ",
-    "pronunciation": "/fundraising gala/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
+    "id": "scheduled-adjective",
+    "word": "scheduled",
+    "baseWord": "schedul",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: scheduled",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the fundraising gala carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dạ tiệc gây quỹ cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word scheduled in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu scheduled trong email cong viec.",
     "collocations": [
-      "confirm fundraising gala",
-      "fundraising gala details",
-      "review fundraising gala"
+      "scheduled review",
+      "scheduled process",
+      "scheduled update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "gala"
+      "scheduled"
     ],
-    "day": 63
+    "day": 62,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "headcount-noun",
@@ -1322,7 +1400,7 @@
     "type": "noun",
     "meaning": "số người",
     "pronunciation": "/headcount/",
-    "topic": "Events & Conferences",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1341,72 +1419,20 @@
     "wordFamily": [
       "headcount"
     ],
-    "day": 63
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "launch-event-phrase",
-    "word": "launch event",
-    "baseWord": "event",
-    "type": "phrase",
-    "meaning": "sự kiện ra mắt",
-    "pronunciation": "/launch event/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the launch event carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự kiện ra mắt cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm launch event",
-      "launch event details",
-      "review launch event"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "event"
-    ],
-    "day": 63
-  },
-  {
-    "id": "lunch-break-phrase",
-    "word": "lunch break",
-    "baseWord": "break",
-    "type": "phrase",
-    "meaning": "giờ nghỉ trưa",
-    "pronunciation": "/lunch break/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the lunch break carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giờ nghỉ trưa cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm lunch break",
-      "lunch break details",
-      "review lunch break"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "break"
-    ],
-    "day": 63
-  },
-  {
-    "id": "media-exposure-phrase",
-    "word": "media exposure",
-    "baseWord": "exposure",
-    "type": "phrase",
-    "meaning": "sự xuất hiện trên truyền thông",
-    "pronunciation": "/media exposure/",
-    "topic": "Events & Conferences",
+    "id": "secure-noun",
+    "word": "secure",
+    "baseWord": "secure",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: secure",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1414,214 +1440,620 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the media exposure carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự xuất hiện trên truyền thông cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word secure in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu secure trong email cong viec.",
     "collocations": [
-      "confirm media exposure",
-      "media exposure details",
-      "review media exposure"
+      "secure review",
+      "secure process",
+      "secure update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "exposure"
+      "secure"
     ],
-    "day": 63
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "opening-remarks-phrase",
-    "word": "opening remarks",
-    "baseWord": "remarks",
-    "type": "phrase",
-    "meaning": "lời phát biểu khai mạc",
-    "pronunciation": "/opening remarks/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the opening remarks carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét lời phát biểu khai mạc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm opening remarks",
-      "opening remarks details",
-      "review opening remarks"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "remarks"
-    ],
-    "day": 63
-  },
-  {
-    "id": "post-event-report-phrase",
-    "word": "post-event report",
-    "baseWord": "report",
-    "type": "phrase",
-    "meaning": "báo cáo sau sự kiện",
-    "pronunciation": "/post-event report/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the post-event report carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét báo cáo sau sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm post-event report",
-      "post-event report details",
-      "review post-event report"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "report"
-    ],
-    "day": 63
-  },
-  {
-    "id": "press-briefing-phrase",
-    "word": "press briefing",
-    "baseWord": "briefing",
-    "type": "phrase",
-    "meaning": "buổi họp báo ngắn",
-    "pronunciation": "/press briefing/",
-    "topic": "Events & Conferences",
+    "id": "settlement-adjective",
+    "word": "settlement",
+    "baseWord": "settle",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: settlement",
+    "pronunciation": "",
+    "topic": "Business Communication",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the press briefing carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét buổi họp báo ngắn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word settlement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu settlement trong email cong viec.",
     "collocations": [
-      "confirm press briefing",
-      "press briefing details",
-      "review press briefing"
+      "settlement review",
+      "settlement process",
+      "settlement update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "briefing"
+      "settlement"
     ],
-    "day": 63
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "press-packet-phrase",
-    "word": "press packet",
-    "baseWord": "packet",
-    "type": "phrase",
-    "meaning": "bộ tài liệu báo chí",
-    "pronunciation": "/press packet/",
-    "topic": "Events & Conferences",
+    "id": "shipment-adjective",
+    "word": "shipment",
+    "baseWord": "ship",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: shipment",
+    "pronunciation": "",
+    "topic": "Human Resources",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the press packet carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bộ tài liệu báo chí cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word shipment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu shipment trong email cong viec.",
     "collocations": [
-      "confirm press packet",
-      "press packet details",
-      "review press packet"
+      "shipment review",
+      "shipment process",
+      "shipment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "packet"
+      "shipment"
     ],
-    "day": 63
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "time-slot-phrase",
-    "word": "time slot",
-    "baseWord": "slot",
-    "type": "phrase",
-    "meaning": "khung thời gian",
-    "pronunciation": "/time slot/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the time slot carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khung thời gian cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm time slot",
-      "time slot details",
-      "review time slot"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "slot"
-    ],
-    "day": 63
-  },
-  {
-    "id": "trade-fair-phrase",
-    "word": "trade fair",
-    "baseWord": "fair",
-    "type": "phrase",
-    "meaning": "hội chợ thương mại",
-    "pronunciation": "/trade fair/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the trade fair carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hội chợ thương mại cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm trade fair",
-      "trade fair details",
-      "review trade fair"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "fair"
-    ],
-    "day": 63
-  },
-  {
-    "id": "travel-schedule-phrase",
-    "word": "travel schedule",
-    "baseWord": "schedule",
-    "type": "phrase",
-    "meaning": "lịch trình di chuyển",
-    "pronunciation": "/travel schedule/",
-    "topic": "Events & Conferences",
+    "id": "specification-noun",
+    "word": "specification",
+    "baseWord": "specifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: specification",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the travel schedule carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét lịch trình di chuyển cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word specification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu specification trong email cong viec.",
     "collocations": [
-      "confirm travel schedule",
-      "travel schedule details",
-      "review travel schedule"
+      "specification review",
+      "specification process",
+      "specification update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "schedule"
+      "specification"
     ],
-    "day": 63
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "specify-verb",
+    "word": "specify",
+    "baseWord": "speci",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: specify",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word specify in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu specify trong email cong viec.",
+    "collocations": [
+      "specify review",
+      "specify process",
+      "specify update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "specify"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "sponsor-noun",
+    "word": "sponsor",
+    "baseWord": "spons",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: sponsor",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word sponsor in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu sponsor trong email cong viec.",
+    "collocations": [
+      "sponsor review",
+      "sponsor process",
+      "sponsor update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "sponsor"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "sponsorship-noun",
+    "word": "sponsorship",
+    "baseWord": "sponsorship",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: sponsorship",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word sponsorship in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu sponsorship trong email cong viec.",
+    "collocations": [
+      "sponsorship review",
+      "sponsorship process",
+      "sponsorship update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "sponsorship"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "stability-noun",
+    "word": "stability",
+    "baseWord": "stabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: stability",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word stability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu stability trong email cong viec.",
+    "collocations": [
+      "stability review",
+      "stability process",
+      "stability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "stability"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "stable-adjective",
+    "word": "stable",
+    "baseWord": "st",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: stable",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word stable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu stable trong email cong viec.",
+    "collocations": [
+      "stable review",
+      "stable process",
+      "stable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "stable"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "streamline-noun",
+    "word": "streamline",
+    "baseWord": "streamline",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: streamline",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word streamline in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu streamline trong email cong viec.",
+    "collocations": [
+      "streamline review",
+      "streamline process",
+      "streamline update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "streamline"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "subcontract-noun",
+    "word": "subcontract",
+    "baseWord": "subcontract",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: subcontract",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word subcontract in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu subcontract trong email cong viec.",
+    "collocations": [
+      "subcontract review",
+      "subcontract process",
+      "subcontract update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "subcontract"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "submission-noun",
+    "word": "submission",
+    "baseWord": "submission",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: submission",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word submission in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu submission trong email cong viec.",
+    "collocations": [
+      "submission review",
+      "submission process",
+      "submission update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "submission"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "submit-noun",
+    "word": "submit",
+    "baseWord": "submit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: submit",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word submit in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu submit trong email cong viec.",
+    "collocations": [
+      "submit review",
+      "submit process",
+      "submit update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "submit"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "subscribe-noun",
+    "word": "subscribe",
+    "baseWord": "subscribe",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: subscribe",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word subscribe in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu subscribe trong email cong viec.",
+    "collocations": [
+      "subscribe review",
+      "subscribe process",
+      "subscribe update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "subscribe"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "subsidiary-adjective",
+    "word": "subsidiary",
+    "baseWord": "subsidi",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: subsidiary",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word subsidiary in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu subsidiary trong email cong viec.",
+    "collocations": [
+      "subsidiary review",
+      "subsidiary process",
+      "subsidiary update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "subsidiary"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "substantial-adjective",
+    "word": "substantial",
+    "baseWord": "substanti",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: substantial",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word substantial in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu substantial trong email cong viec.",
+    "collocations": [
+      "substantial review",
+      "substantial process",
+      "substantial update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "substantial"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "substantially-adverb",
+    "word": "substantially",
+    "baseWord": "substantial",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: substantially",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word substantially in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu substantially trong email cong viec.",
+    "collocations": [
+      "substantially review",
+      "substantially process",
+      "substantially update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "substantially"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "supply-adverb",
+    "word": "supply",
+    "baseWord": "supp",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: supply",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word supply in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu supply trong email cong viec.",
+    "collocations": [
+      "supply review",
+      "supply process",
+      "supply update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "supply"
+    ],
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "turnout-noun",
@@ -1630,7 +2062,7 @@
     "type": "noun",
     "meaning": "số người tham dự",
     "pronunciation": "/turnout/",
-    "topic": "Events & Conferences",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1649,287 +2081,11 @@
     "wordFamily": [
       "turnout"
     ],
-    "day": 63
-  },
-  {
-    "id": "vendor-table-phrase",
-    "word": "vendor table",
-    "baseWord": "table",
-    "type": "phrase",
-    "meaning": "bàn nhà cung cấp",
-    "pronunciation": "/vendor table/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the vendor table carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bàn nhà cung cấp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm vendor table",
-      "vendor table details",
-      "review vendor table"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "table"
-    ],
-    "day": 63
-  },
-  {
-    "id": "book-a-venue-phrase",
-    "word": "book a venue",
-    "baseWord": "venue",
-    "type": "phrase",
-    "meaning": "đặt địa điểm",
-    "pronunciation": "/book a venue/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the book a venue carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đặt địa điểm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm book a venue",
-      "book a venue details",
-      "review book a venue"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "venue"
-    ],
-    "day": 64
-  },
-  {
-    "id": "brief-the-speaker-phrase",
-    "word": "brief the speaker",
-    "baseWord": "speaker",
-    "type": "phrase",
-    "meaning": "tóm tắt thông tin cho diễn giả",
-    "pronunciation": "/brief the speaker/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the brief the speaker carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tóm tắt thông tin cho diễn giả cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm brief the speaker",
-      "brief the speaker details",
-      "review brief the speaker"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "speaker"
-    ],
-    "day": 64
-  },
-  {
-    "id": "cancel-a-session-phrase",
-    "word": "cancel a session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "hủy một phiên",
-    "pronunciation": "/cancel a session/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the cancel a session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hủy một phiên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm cancel a session",
-      "cancel a session details",
-      "review cancel a session"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "session"
-    ],
-    "day": 64
-  },
-  {
-    "id": "change-the-event-date-phrase",
-    "word": "change the event date",
-    "baseWord": "date",
-    "type": "phrase",
-    "meaning": "đổi ngày sự kiện",
-    "pronunciation": "/change the event date/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the change the event date carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đổi ngày sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm change the event date",
-      "change the event date details",
-      "review change the event date"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "date"
-    ],
-    "day": 64
-  },
-  {
-    "id": "close-the-meeting-phrase",
-    "word": "close the meeting",
-    "baseWord": "meeting",
-    "type": "phrase",
-    "meaning": "kết thúc cuộc họp",
-    "pronunciation": "/close the meeting/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the close the meeting carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kết thúc cuộc họp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm close the meeting",
-      "close the meeting details",
-      "review close the meeting"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "meeting"
-    ],
-    "day": 64
-  },
-  {
-    "id": "coordinate-logistics-phrase",
-    "word": "coordinate logistics",
-    "baseWord": "logistics",
-    "type": "phrase",
-    "meaning": "phối hợp hậu cần",
-    "pronunciation": "/coordinate logistics/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the coordinate logistics carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phối hợp hậu cần cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm coordinate logistics",
-      "coordinate logistics details",
-      "review coordinate logistics"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "logistics"
-    ],
-    "day": 64
-  },
-  {
-    "id": "delay-the-session-phrase",
-    "word": "delay the session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "hoãn phiên họp",
-    "pronunciation": "/delay the session/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the delay the session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hoãn phiên họp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm delay the session",
-      "delay the session details",
-      "review delay the session"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "session"
-    ],
-    "day": 64
-  },
-  {
-    "id": "give-a-presentation-phrase",
-    "word": "give a presentation",
-    "baseWord": "presentation",
-    "type": "phrase",
-    "meaning": "trình bày bài nói",
-    "pronunciation": "/give a presentation/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the give a presentation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trình bày bài nói cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm give a presentation",
-      "give a presentation details",
-      "review give a presentation"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "presentation"
-    ],
-    "day": 64
-  },
-  {
-    "id": "host-an-event-phrase",
-    "word": "host an event",
-    "baseWord": "event",
-    "type": "phrase",
-    "meaning": "đăng cai sự kiện",
-    "pronunciation": "/host an event/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the host an event carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đăng cai sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm host an event",
-      "host an event details",
-      "review host an event"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "event"
-    ],
-    "day": 64
+    "day": 63,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "invite-verb",
@@ -1938,7 +2094,7 @@
     "type": "verb",
     "meaning": "mời",
     "pronunciation": "/invite/",
-    "topic": "Events & Conferences",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1957,91 +2113,11 @@
     "wordFamily": [
       "invite"
     ],
-    "day": 64
-  },
-  {
-    "id": "issue-an-event-notice-phrase",
-    "word": "issue an event notice",
-    "baseWord": "notice",
-    "type": "phrase",
-    "meaning": "phát thông báo sự kiện",
-    "pronunciation": "/issue an event notice/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the issue an event notice carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phát thông báo sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm issue an event notice",
-      "issue an event notice details",
-      "review issue an event notice"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "notice"
-    ],
-    "day": 64
-  },
-  {
-    "id": "join-the-conference-phrase",
-    "word": "join the conference",
-    "baseWord": "conference",
-    "type": "phrase",
-    "meaning": "tham gia hội nghị",
-    "pronunciation": "/join the conference/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the join the conference carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tham gia hội nghị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm join the conference",
-      "join the conference details",
-      "review join the conference"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "conference"
-    ],
-    "day": 64
-  },
-  {
-    "id": "lead-a-workshop-phrase",
-    "word": "lead a workshop",
-    "baseWord": "workshop",
-    "type": "phrase",
-    "meaning": "dẫn dắt hội thảo",
-    "pronunciation": "/lead a workshop/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the lead a workshop carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dẫn dắt hội thảo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm lead a workshop",
-      "lead a workshop details",
-      "review lead a workshop"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "workshop"
-    ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "moderate-verb",
@@ -2050,7 +2126,7 @@
     "type": "verb",
     "meaning": "điều hành thảo luận",
     "pronunciation": "/moderate/",
-    "topic": "Events & Conferences",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2069,7 +2145,11 @@
     "wordFamily": [
       "moderate"
     ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "organize-verb",
@@ -2078,7 +2158,7 @@
     "type": "verb",
     "meaning": "tổ chức",
     "pronunciation": "/organize/",
-    "topic": "Events & Conferences",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2097,7 +2177,11 @@
     "wordFamily": [
       "organize"
     ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "participate-verb",
@@ -2106,7 +2190,7 @@
     "type": "verb",
     "meaning": "tham gia",
     "pronunciation": "/participate/",
-    "topic": "Events & Conferences",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2125,100 +2209,55 @@
     "wordFamily": [
       "participate"
     ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "provide-equipment-phrase",
-    "word": "provide equipment",
-    "baseWord": "equipment",
-    "type": "phrase",
-    "meaning": "cung cấp thiết bị",
-    "pronunciation": "/provide equipment/",
-    "topic": "Events & Conferences",
+    "id": "preapproval-adjective",
+    "word": "preapproval",
+    "baseWord": "preapprov",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preapproval",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the provide equipment carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cung cấp thiết bị cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preapproval in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preapproval trong email cong viec.",
     "collocations": [
-      "confirm provide equipment",
-      "provide equipment details",
-      "review provide equipment"
+      "preapproval review",
+      "preapproval process",
+      "preapproval update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "equipment"
+      "preapproval"
     ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
-    "id": "register-for-a-seminar-phrase",
-    "word": "register for a seminar",
-    "baseWord": "seminar",
-    "type": "phrase",
-    "meaning": "đăng ký hội thảo",
-    "pronunciation": "/register for a seminar/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the register for a seminar carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đăng ký hội thảo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm register for a seminar",
-      "register for a seminar details",
-      "review register for a seminar"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "seminar"
-    ],
-    "day": 64
-  },
-  {
-    "id": "sponsor-a-session-phrase",
-    "word": "sponsor a session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "tài trợ một phiên",
-    "pronunciation": "/sponsor a session/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sponsor a session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tài trợ một phiên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sponsor a session",
-      "sponsor a session details",
-      "review sponsor a session"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "session"
-    ],
-    "day": 64
-  },
-  {
-    "id": "stream-online-phrase",
-    "word": "stream online",
-    "baseWord": "online",
-    "type": "phrase",
-    "meaning": "phát trực tuyến",
-    "pronunciation": "/stream online/",
-    "topic": "Events & Conferences",
+    "id": "preassessment-adjective",
+    "word": "preassessment",
+    "baseWord": "preassess",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preassessment",
+    "pronunciation": "",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2226,27 +2265,244 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the stream online carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phát trực tuyến cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preassessment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preassessment trong email cong viec.",
     "collocations": [
-      "confirm stream online",
-      "stream online details",
-      "review stream online"
+      "preassessment review",
+      "preassessment process",
+      "preassessment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "online"
+      "preassessment"
     ],
-    "day": 64
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "access-credential-phrase",
-    "word": "access credential",
-    "baseWord": "credential",
-    "type": "phrase",
-    "meaning": "thông tin xác thực ra vào",
-    "pronunciation": "/access credential/",
-    "topic": "Events & Conferences",
+    "id": "preaudit-noun",
+    "word": "preaudit",
+    "baseWord": "preaudit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preaudit",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preaudit in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preaudit trong email cong viec.",
+    "collocations": [
+      "preaudit review",
+      "preaudit process",
+      "preaudit update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preaudit"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "prebooking-noun",
+    "word": "prebooking",
+    "baseWord": "prebook",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prebooking",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prebooking in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prebooking trong email cong viec.",
+    "collocations": [
+      "prebooking review",
+      "prebooking process",
+      "prebooking update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prebooking"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "prebriefing-noun",
+    "word": "prebriefing",
+    "baseWord": "prebrief",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prebriefing",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prebriefing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prebriefing trong email cong viec.",
+    "collocations": [
+      "prebriefing review",
+      "prebriefing process",
+      "prebriefing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prebriefing"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "prebudgeting-noun",
+    "word": "prebudgeting",
+    "baseWord": "prebudget",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prebudgeting",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prebudgeting in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prebudgeting trong email cong viec.",
+    "collocations": [
+      "prebudgeting review",
+      "prebudgeting process",
+      "prebudgeting update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prebudgeting"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "precertification-noun",
+    "word": "precertification",
+    "baseWord": "precertifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: precertification",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word precertification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu precertification trong email cong viec.",
+    "collocations": [
+      "precertification review",
+      "precertification process",
+      "precertification update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "precertification"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "preclearance-noun",
+    "word": "preclearance",
+    "baseWord": "preclearance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preclearance",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preclearance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preclearance trong email cong viec.",
+    "collocations": [
+      "preclearance review",
+      "preclearance process",
+      "preclearance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preclearance"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "tenant-adjective",
+    "word": "tenant",
+    "baseWord": "ten",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: tenant",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2254,18 +2510,270 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the access credential carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thông tin xác thực ra vào cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word tenant in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu tenant trong email cong viec.",
     "collocations": [
-      "confirm access credential",
-      "access credential details",
-      "review access credential"
+      "tenant review",
+      "tenant process",
+      "tenant update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "credential"
+      "tenant"
     ],
-    "day": 65
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "thorough-noun",
+    "word": "thorough",
+    "baseWord": "thorough",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: thorough",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word thorough in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu thorough trong email cong viec.",
+    "collocations": [
+      "thorough review",
+      "thorough process",
+      "thorough update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "thorough"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "transparency-noun",
+    "word": "transparency",
+    "baseWord": "transparency",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: transparency",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word transparency in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu transparency trong email cong viec.",
+    "collocations": [
+      "transparency review",
+      "transparency process",
+      "transparency update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "transparency"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "transparent-adjective",
+    "word": "transparent",
+    "baseWord": "transpar",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: transparent",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word transparent in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu transparent trong email cong viec.",
+    "collocations": [
+      "transparent review",
+      "transparent process",
+      "transparent update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "transparent"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "utility-noun",
+    "word": "utility",
+    "baseWord": "util",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: utility",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word utility in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu utility trong email cong viec.",
+    "collocations": [
+      "utility review",
+      "utility process",
+      "utility update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "utility"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "violation-noun",
+    "word": "violation",
+    "baseWord": "viola",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: violation",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word violation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu violation trong email cong viec.",
+    "collocations": [
+      "violation review",
+      "violation process",
+      "violation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "violation"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "withdraw-noun",
+    "word": "withdraw",
+    "baseWord": "withdraw",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: withdraw",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word withdraw in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu withdraw trong email cong viec.",
+    "collocations": [
+      "withdraw review",
+      "withdraw process",
+      "withdraw update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "withdraw"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "withdrawal-adjective",
+    "word": "withdrawal",
+    "baseWord": "withdraw",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: withdrawal",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word withdrawal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu withdrawal trong email cong viec.",
+    "collocations": [
+      "withdrawal review",
+      "withdrawal process",
+      "withdrawal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "withdrawal"
+    ],
+    "day": 64,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "annual-adjective",
@@ -2274,7 +2782,7 @@
     "type": "adjective",
     "meaning": "hàng năm",
     "pronunciation": "/annual/",
-    "topic": "Events & Conferences",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2292,35 +2800,11 @@
     "wordFamily": [
       "annual"
     ],
-    "day": 65
-  },
-  {
-    "id": "attendance-fee-phrase",
-    "word": "attendance fee",
-    "baseWord": "fee",
-    "type": "phrase",
-    "meaning": "phí tham dự",
-    "pronunciation": "/attendance fee/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the attendance fee carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phí tham dự cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm attendance fee",
-      "attendance fee details",
-      "review attendance fee"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "fee"
-    ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "audience-engaging-adjective",
@@ -2329,7 +2813,7 @@
     "type": "adjective",
     "meaning": "thu hút người nghe",
     "pronunciation": "/audience-engaging/",
-    "topic": "Events & Conferences",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2347,35 +2831,11 @@
     "wordFamily": [
       "audience-engaging"
     ],
-    "day": 65
-  },
-  {
-    "id": "cleanup-crew-phrase",
-    "word": "cleanup crew",
-    "baseWord": "crew",
-    "type": "phrase",
-    "meaning": "đội dọn dẹp",
-    "pronunciation": "/cleanup crew/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the cleanup crew carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đội dọn dẹp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm cleanup crew",
-      "cleanup crew details",
-      "review cleanup crew"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "crew"
-    ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "content-rich-adjective",
@@ -2384,7 +2844,7 @@
     "type": "adjective",
     "meaning": "giàu nội dung",
     "pronunciation": "/content-rich/",
-    "topic": "Events & Conferences",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2402,203 +2862,11 @@
     "wordFamily": [
       "content-rich"
     ],
-    "day": 65
-  },
-  {
-    "id": "early-bird-rate-phrase",
-    "word": "early-bird rate",
-    "baseWord": "rate",
-    "type": "phrase",
-    "meaning": "mức giá đăng ký sớm",
-    "pronunciation": "/early-bird rate/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the early-bird rate carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mức giá đăng ký sớm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm early-bird rate",
-      "early-bird rate details",
-      "review early-bird rate"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "rate"
-    ],
-    "day": 65
-  },
-  {
-    "id": "event-coordinator-phrase",
-    "word": "event coordinator",
-    "baseWord": "coordinator",
-    "type": "phrase",
-    "meaning": "điều phối viên sự kiện",
-    "pronunciation": "/event coordinator/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the event coordinator carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét điều phối viên sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm event coordinator",
-      "event coordinator details",
-      "review event coordinator"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "coordinator"
-    ],
-    "day": 65
-  },
-  {
-    "id": "event-protocol-phrase",
-    "word": "event protocol",
-    "baseWord": "protocol",
-    "type": "phrase",
-    "meaning": "nghi thức sự kiện",
-    "pronunciation": "/event protocol/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the event protocol carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nghi thức sự kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm event protocol",
-      "event protocol details",
-      "review event protocol"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "protocol"
-    ],
-    "day": 65
-  },
-  {
-    "id": "group-discount-phrase",
-    "word": "group discount",
-    "baseWord": "discount",
-    "type": "phrase",
-    "meaning": "giảm giá nhóm",
-    "pronunciation": "/group discount/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the group discount carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giảm giá nhóm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm group discount",
-      "group discount details",
-      "review group discount"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "discount"
-    ],
-    "day": 65
-  },
-  {
-    "id": "hybrid-format-phrase",
-    "word": "hybrid format",
-    "baseWord": "format",
-    "type": "phrase",
-    "meaning": "hình thức kết hợp",
-    "pronunciation": "/hybrid format/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hybrid format carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hình thức kết hợp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hybrid format",
-      "hybrid format details",
-      "review hybrid format"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "format"
-    ],
-    "day": 65
-  },
-  {
-    "id": "official-accreditation-phrase",
-    "word": "official accreditation",
-    "baseWord": "accreditation",
-    "type": "phrase",
-    "meaning": "sự công nhận chính thức",
-    "pronunciation": "/official accreditation/",
-    "topic": "Events & Conferences",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the official accreditation carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự công nhận chính thức cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm official accreditation",
-      "official accreditation details",
-      "review official accreditation"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "accreditation"
-    ],
-    "day": 65
-  },
-  {
-    "id": "on-site-registration-phrase",
-    "word": "on-site registration",
-    "baseWord": "registration",
-    "type": "phrase",
-    "meaning": "đăng ký tại địa điểm",
-    "pronunciation": "/on-site registration/",
-    "topic": "Events & Conferences",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the on-site registration carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đăng ký tại địa điểm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm on-site registration",
-      "on-site registration details",
-      "review on-site registration"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "registration"
-    ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "online-only-adjective",
@@ -2607,7 +2875,7 @@
     "type": "adjective",
     "meaning": "chỉ diễn ra trực tuyến",
     "pronunciation": "/online-only/",
-    "topic": "Events & Conferences",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2625,16 +2893,160 @@
     "wordFamily": [
       "online-only"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "optional-session-phrase",
-    "word": "optional session",
-    "baseWord": "session",
-    "type": "phrase",
-    "meaning": "phiên không bắt buộc",
-    "pronunciation": "/optional session/",
-    "topic": "Events & Conferences",
+    "id": "precompliance-noun",
+    "word": "precompliance",
+    "baseWord": "precompliance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: precompliance",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word precompliance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu precompliance trong email cong viec.",
+    "collocations": [
+      "precompliance review",
+      "precompliance process",
+      "precompliance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "precompliance"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "preconfirmation-noun",
+    "word": "preconfirmation",
+    "baseWord": "preconfirma",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preconfirmation",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preconfirmation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preconfirmation trong email cong viec.",
+    "collocations": [
+      "preconfirmation review",
+      "preconfirmation process",
+      "preconfirmation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preconfirmation"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "precoordination-noun",
+    "word": "precoordination",
+    "baseWord": "precoordina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: precoordination",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word precoordination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu precoordination trong email cong viec.",
+    "collocations": [
+      "precoordination review",
+      "precoordination process",
+      "precoordination update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "precoordination"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "predelivery-noun",
+    "word": "predelivery",
+    "baseWord": "predelivery",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: predelivery",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word predelivery in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu predelivery trong email cong viec.",
+    "collocations": [
+      "predelivery review",
+      "predelivery process",
+      "predelivery update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "predelivery"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "predispatch-noun",
+    "word": "predispatch",
+    "baseWord": "predispatch",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: predispatch",
+    "pronunciation": "",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2642,157 +3054,409 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the optional session carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiên không bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word predispatch in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu predispatch trong email cong viec.",
     "collocations": [
-      "confirm optional session",
-      "optional session details",
-      "review optional session"
+      "predispatch review",
+      "predispatch process",
+      "predispatch update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "session"
+      "predispatch"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "required-attendance-phrase",
-    "word": "required attendance",
-    "baseWord": "attendance",
-    "type": "phrase",
-    "meaning": "sự tham dự bắt buộc",
-    "pronunciation": "/required attendance/",
-    "topic": "Events & Conferences",
+    "id": "predocumentation-noun",
+    "word": "predocumentation",
+    "baseWord": "predocumenta",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: predocumentation",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the required attendance carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự tham dự bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word predocumentation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu predocumentation trong email cong viec.",
     "collocations": [
-      "confirm required attendance",
-      "required attendance details",
-      "review required attendance"
+      "predocumentation review",
+      "predocumentation process",
+      "predocumentation update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "attendance"
+      "predocumentation"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "room-capacity-phrase",
-    "word": "room capacity",
-    "baseWord": "capacity",
-    "type": "phrase",
-    "meaning": "sức chứa phòng",
-    "pronunciation": "/room capacity/",
-    "topic": "Events & Conferences",
+    "id": "preenrollment-adjective",
+    "word": "preenrollment",
+    "baseWord": "preenroll",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preenrollment",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the room capacity carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sức chứa phòng cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preenrollment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preenrollment trong email cong viec.",
     "collocations": [
-      "confirm room capacity",
-      "room capacity details",
-      "review room capacity"
+      "preenrollment review",
+      "preenrollment process",
+      "preenrollment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "capacity"
+      "preenrollment"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "seat-availability-phrase",
-    "word": "seat availability",
-    "baseWord": "availability",
-    "type": "phrase",
-    "meaning": "tình trạng còn chỗ",
-    "pronunciation": "/seat availability/",
-    "topic": "Events & Conferences",
+    "id": "preevaluation-noun",
+    "word": "preevaluation",
+    "baseWord": "preevalua",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preevaluation",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preevaluation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preevaluation trong email cong viec.",
+    "collocations": [
+      "preevaluation review",
+      "preevaluation process",
+      "preevaluation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preevaluation"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "preforecast-noun",
+    "word": "preforecast",
+    "baseWord": "preforecast",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preforecast",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preforecast in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preforecast trong email cong viec.",
+    "collocations": [
+      "preforecast review",
+      "preforecast process",
+      "preforecast update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preforecast"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "preinspection-noun",
+    "word": "preinspection",
+    "baseWord": "preinspec",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preinspection",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the seat availability carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tình trạng còn chỗ cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preinspection in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preinspection trong email cong viec.",
     "collocations": [
-      "confirm seat availability",
-      "seat availability details",
-      "review seat availability"
+      "preinspection review",
+      "preinspection process",
+      "preinspection update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "availability"
+      "preinspection"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
-    "id": "setup-crew-phrase",
-    "word": "setup crew",
-    "baseWord": "crew",
-    "type": "phrase",
-    "meaning": "đội lắp đặt",
-    "pronunciation": "/setup crew/",
-    "topic": "Events & Conferences",
+    "id": "preinstallation-noun",
+    "word": "preinstallation",
+    "baseWord": "preinstalla",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preinstallation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the setup crew carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đội lắp đặt cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preinstallation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preinstallation trong email cong viec.",
     "collocations": [
-      "confirm setup crew",
-      "setup crew details",
-      "review setup crew"
+      "preinstallation review",
+      "preinstallation process",
+      "preinstallation update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "crew"
+      "preinstallation"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "venue-contract-phrase",
-    "word": "venue contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "hợp đồng thuê địa điểm",
-    "pronunciation": "/venue contract/",
-    "topic": "Events & Conferences",
+    "id": "preinventory-adjective",
+    "word": "preinventory",
+    "baseWord": "preinvent",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preinventory",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preinventory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preinventory trong email cong viec.",
+    "collocations": [
+      "preinventory review",
+      "preinventory process",
+      "preinventory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preinventory"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "premaintenance-noun",
+    "word": "premaintenance",
+    "baseWord": "premaintenance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: premaintenance",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word premaintenance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu premaintenance trong email cong viec.",
+    "collocations": [
+      "premaintenance review",
+      "premaintenance process",
+      "premaintenance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "premaintenance"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "prenegotiation-noun",
+    "word": "prenegotiation",
+    "baseWord": "prenegotia",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prenegotiation",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prenegotiation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prenegotiation trong email cong viec.",
+    "collocations": [
+      "prenegotiation review",
+      "prenegotiation process",
+      "prenegotiation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prenegotiation"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "prepayment-adjective",
+    "word": "prepayment",
+    "baseWord": "prepay",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: prepayment",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the venue contract carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hợp đồng thuê địa điểm cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word prepayment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prepayment trong email cong viec.",
     "collocations": [
-      "confirm venue contract",
-      "venue contract details",
-      "review venue contract"
+      "prepayment review",
+      "prepayment process",
+      "prepayment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "contract"
+      "prepayment"
     ],
-    "day": 65
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "preplanning-noun",
+    "word": "preplanning",
+    "baseWord": "preplann",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preplanning",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preplanning in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preplanning trong email cong viec.",
+    "collocations": [
+      "preplanning review",
+      "preplanning process",
+      "preplanning update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preplanning"
+    ],
+    "day": 65,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

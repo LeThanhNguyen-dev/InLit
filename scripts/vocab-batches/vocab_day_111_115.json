@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "sự phân tích, bản phân tích",
     "pronunciation": "/əˈnæləsɪs/",
-    "topic": "Research & Reports",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -31,7 +31,11 @@
       "analyst",
       "analytical"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "analyze-verb",
@@ -40,7 +44,7 @@
     "type": "verb",
     "meaning": "phân tích",
     "pronunciation": "/ˈænəlaɪz/",
-    "topic": "Research & Reports",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -65,69 +69,11 @@
       "analyst",
       "analytical"
     ],
-    "day": 111
-  },
-  {
-    "id": "appointment-review-phrase",
-    "word": "appointment review",
-    "baseWord": "review",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment review",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the appointment review before the next business day.",
-    "exampleVi": "Vui long xem lai appointment review truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment review",
-      "appointment review process",
-      "appointment review deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "review"
-    ],
-    "day": 111
-  },
-  {
-    "id": "bulk-appointment-phrase",
-    "word": "bulk appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: bulk appointment",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the bulk appointment before the next business day.",
-    "exampleVi": "Vui long xem lai bulk appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "bulk appointment",
-      "bulk appointment process",
-      "bulk appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "compilation-noun",
@@ -136,7 +82,7 @@
     "type": "noun",
     "meaning": "sự biên soạn, tài liệu thu thập tổng hợp",
     "pronunciation": "/ˌkɑːmpɪˈleɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -160,7 +106,11 @@
       "compiler",
       "compilations"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "compile-verb",
@@ -169,7 +119,7 @@
     "type": "verb",
     "meaning": "biên soạn, thu thập và tổng hợp tài liệu",
     "pronunciation": "/kəmˈpaɪl/",
-    "topic": "Research & Reports",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -193,7 +143,11 @@
       "compiler",
       "compiled"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "correlate-verb",
@@ -202,7 +156,7 @@
     "type": "verb",
     "meaning": "tương quan, liên kết tương quan",
     "pronunciation": "/ˈkɔːrəleɪt/",
-    "topic": "Research & Reports",
+    "topic": "Recruitment & Jobs",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -225,7 +179,11 @@
       "correlated",
       "correlative"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "correlation-noun",
@@ -234,7 +192,7 @@
     "type": "noun",
     "meaning": "sự tương quan, mối tương quan",
     "pronunciation": "/ˌkɔːrəˈleɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -258,39 +216,11 @@
       "correlated",
       "correlative"
     ],
-    "day": 111
-  },
-  {
-    "id": "data analysis-phrase",
-    "word": "data analysis",
-    "baseWord": "data analysis",
-    "type": "phrase",
-    "meaning": "phân tích dữ liệu",
-    "pronunciation": "/ˈdeɪtə əˈnæləsɪs/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The marketing team completed the data analysis to identify our target audience.",
-    "exampleVi": "Nhóm tiếp thị đã hoàn thành việc phân tích dữ liệu để xác định đối tượng mục tiêu của chúng tôi.",
-    "collocations": [
-      "perform data analysis",
-      "data analysis tools",
-      "qualitative data analysis"
-    ],
-    "synonyms": [
-      "data evaluation",
-      "data processing"
-    ],
-    "wordFamily": [
-      "data",
-      "analyze",
-      "analysis"
-    ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "dataset-noun",
@@ -299,7 +229,7 @@
     "type": "noun",
     "meaning": "bộ dữ liệu, tập dữ liệu",
     "pronunciation": "/ˈdeɪtəset/",
-    "topic": "Research & Reports",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -322,7 +252,11 @@
       "data",
       "set"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "draft-verb",
@@ -331,7 +265,7 @@
     "type": "verb",
     "meaning": "phác thảo, soạn thảo bản nháp",
     "pronunciation": "/dræft/",
-    "topic": "Research & Reports",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -356,7 +290,11 @@
       "drafting",
       "drafted"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "empirical-adjective",
@@ -365,7 +303,7 @@
     "type": "adjective",
     "meaning": "mang tính thực nghiệm, dựa trên kinh nghiệm thực tế",
     "pronunciation": "/ɪmˈpɪrɪkl/",
-    "topic": "Research & Reports",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -389,7 +327,11 @@
       "empiricism",
       "empiricist"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "findings-noun",
@@ -398,7 +340,7 @@
     "type": "noun",
     "meaning": "các kết quả nghiên cứu, phát hiện",
     "pronunciation": "/ˈfaɪndɪŋz/",
-    "topic": "Research & Reports",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -423,7 +365,11 @@
       "finder",
       "findings"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "hypothesis-noun",
@@ -432,7 +378,7 @@
     "type": "noun",
     "meaning": "giả thuyết",
     "pronunciation": "/haɪˈpɑːθəsɪs/",
-    "topic": "Research & Reports",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -455,16 +401,91 @@
       "hypothesize",
       "hypothetical"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "online-appointment-phrase",
-    "word": "online appointment",
-    "baseWord": "appointment",
+    "id": "monthly-review-collocation",
+    "word": "monthly review",
+    "baseWord": "review",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: online appointment",
+    "meaning": "collocation TOEIC 700: monthly review",
     "pronunciation": "",
-    "topic": "Research & Reports",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly review in the file before Friday.",
+    "exampleVi": "Vui long dua monthly review vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly review",
+      "monthly review review",
+      "monthly review deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "review"
+    ],
+    "day": 111,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "monthly-summary-collocation",
+    "word": "monthly summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly summary",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly summary in the file before Friday.",
+    "exampleVi": "Vui long dua monthly summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly summary",
+      "monthly summary review",
+      "monthly summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "summary"
+    ],
+    "day": 111,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "monthly-survey-collocation",
+    "word": "monthly survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly survey",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -472,21 +493,62 @@
       "Part 6",
       "Part 7"
     ],
-    "example": "Please review the online appointment before the next business day.",
-    "exampleVi": "Vui long xem lai online appointment truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly survey in the file before Friday.",
+    "exampleVi": "Vui long dua monthly survey vao ho so truoc thu Sau.",
     "collocations": [
-      "online appointment",
-      "online appointment process",
-      "online appointment deadline"
+      "monthly survey",
+      "monthly survey review",
+      "monthly survey deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "appointment"
+      "monthly",
+      "survey"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "monthly-update-collocation",
+    "word": "monthly update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly update",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly update in the file before Friday.",
+    "exampleVi": "Vui long dua monthly update vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly update",
+      "monthly update review",
+      "monthly update deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "update"
+    ],
+    "day": 111,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "qualitative-adjective",
@@ -495,7 +557,7 @@
     "type": "adjective",
     "meaning": "thuộc về định tính, chất lượng",
     "pronunciation": "/ˈkwɑːlɪteɪtɪv/",
-    "topic": "Research & Reports",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -518,7 +580,11 @@
       "qualitatively",
       "qualify"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "quantitative-adjective",
@@ -527,7 +593,7 @@
     "type": "adjective",
     "meaning": "thuộc về định lượng, số lượng",
     "pronunciation": "/ˈkwɑːntəteɪtɪv/",
-    "topic": "Research & Reports",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -550,7 +616,11 @@
       "quantitatively",
       "quantify"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "questionnaire-noun",
@@ -559,7 +629,7 @@
     "type": "noun",
     "meaning": "bản câu hỏi khảo sát",
     "pronunciation": "/ˌkwestʃəˈner/",
-    "topic": "Research & Reports",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -584,7 +654,11 @@
       "questioning",
       "questionnaires"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "statistical-adjective",
@@ -593,7 +667,7 @@
     "type": "adjective",
     "meaning": "thuộc về thống kê",
     "pronunciation": "/stəˈtɪstɪkl/",
-    "topic": "Research & Reports",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -616,7 +690,11 @@
       "statistically",
       "statistician"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "statistics-noun",
@@ -625,7 +703,7 @@
     "type": "noun",
     "meaning": "số liệu thống kê, khoa học thống kê",
     "pronunciation": "/stəˈtɪstɪks/",
-    "topic": "Research & Reports",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -649,7 +727,11 @@
       "statistically",
       "statistician"
     ],
-    "day": 111
+    "day": 111,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "abstract-noun",
@@ -658,7 +740,7 @@
     "type": "noun",
     "meaning": "bản tóm tắt (luận văn, báo cáo nghiên cứu)",
     "pronunciation": "/ˈæbstrækt/",
-    "topic": "Research & Reports",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -681,7 +763,11 @@
       "abstractly",
       "abstraction"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "appendix-noun",
@@ -690,7 +776,7 @@
     "type": "noun",
     "meaning": "phụ lục (báo cáo, sách)",
     "pronunciation": "/əˈpendɪks/",
-    "topic": "Research & Reports",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -714,38 +800,11 @@
       "appendices",
       "append"
     ],
-    "day": 112
-  },
-  {
-    "id": "appointment-request-phrase",
-    "word": "appointment request",
-    "baseWord": "request",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment request",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the appointment request before the next business day.",
-    "exampleVi": "Vui long xem lai appointment request truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment request",
-      "appointment request process",
-      "appointment request deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "request"
-    ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "bibliography-noun",
@@ -754,7 +813,7 @@
     "type": "noun",
     "meaning": "thư mục tài liệu tham khảo",
     "pronunciation": "/ˌbɪbliˈɑːɡrəfi/",
-    "topic": "Research & Reports",
+    "topic": "Training & Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -776,7 +835,11 @@
       "bibliographic",
       "bibliographical"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "citation-noun",
@@ -785,7 +848,7 @@
     "type": "noun",
     "meaning": "sự trích dẫn, nguồn trích dẫn",
     "pronunciation": "/saɪˈteɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -809,7 +872,11 @@
       "citations",
       "cited"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "cite-verb",
@@ -818,7 +885,7 @@
     "type": "verb",
     "meaning": "trích dẫn (nguồn tài liệu)",
     "pronunciation": "/saɪt/",
-    "topic": "Research & Reports",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -842,7 +909,11 @@
       "cited",
       "citing"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "conclusion-noun",
@@ -876,40 +947,11 @@
       "conclusive",
       "conclusively"
     ],
-    "day": 112
-  },
-  {
-    "id": "data entry-phrase",
-    "word": "data entry",
-    "baseWord": "data entry",
-    "type": "phrase",
-    "meaning": "việc nhập dữ liệu",
-    "pronunciation": "/ˈdeɪtə ˈentri/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "She got a part-time job doing data entry for an insurance company.",
-    "exampleVi": "Cô ấy đã nhận được một công việc bán thời gian làm việc nhập dữ liệu cho một công ty bảo hiểm.",
-    "collocations": [
-      "data entry job",
-      "data entry clerk",
-      "data entry errors"
-    ],
-    "synonyms": [
-      "clerical work",
-      "typing"
-    ],
-    "wordFamily": [
-      "data",
-      "entry",
-      "entries"
-    ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "demographic-adjective",
@@ -918,7 +960,7 @@
     "type": "adjective",
     "meaning": "thuộc về nhân khẩu học",
     "pronunciation": "/ˌdeməˈɡræfɪk/",
-    "topic": "Research & Reports",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -940,7 +982,11 @@
       "demography",
       "demographer"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "excerpt-noun",
@@ -949,7 +995,7 @@
     "type": "noun",
     "meaning": "phần trích dẫn, đoạn trích",
     "pronunciation": "/ˈeksɜːrpt/",
-    "topic": "Research & Reports",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -972,71 +1018,152 @@
       "excerpted",
       "excerpting"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "executive summary-phrase",
-    "word": "executive summary",
-    "baseWord": "executive summary",
+    "id": "monthly-analysis-collocation",
+    "word": "monthly analysis",
+    "baseWord": "analysis",
     "type": "phrase",
-    "meaning": "bản tóm tắt điều hành",
-    "pronunciation": "/ɪɡˈzekjətɪv ˈsʌməri/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly analysis",
+    "pronunciation": "",
+    "topic": "Global Trade",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly analysis in the file before Friday.",
+    "exampleVi": "Vui long dua monthly analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly analysis",
+      "monthly analysis review",
+      "monthly analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "analysis"
+    ],
+    "day": 112,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-finding-collocation",
+    "word": "monthly finding",
+    "baseWord": "finding",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly finding",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "Busy managers usually read only the executive summary of the business plan.",
-    "exampleVi": "Các nhà quản lý bận rộn thường chỉ đọc bản tóm tắt điều hành của kế hoạch kinh doanh.",
+    "example": "Please include the monthly finding in the file before Friday.",
+    "exampleVi": "Vui long dua monthly finding vao ho so truoc thu Sau.",
     "collocations": [
-      "read the executive summary",
-      "draft the executive summary",
-      "project executive summary"
+      "monthly finding",
+      "monthly finding review",
+      "monthly finding deadline"
     ],
     "synonyms": [
-      "brief",
-      "overview",
-      "synopsis"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "executive",
-      "summary",
-      "summaries"
+      "monthly",
+      "finding"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "peer review-phrase",
-    "word": "peer review",
-    "baseWord": "peer review",
+    "id": "monthly-recommendation-collocation",
+    "word": "monthly recommendation",
+    "baseWord": "recommendation",
     "type": "phrase",
-    "meaning": "đánh giá ngang hàng, phản biện đồng nghiệp",
-    "pronunciation": "/pɪr rɪˈvjuː/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly recommendation",
+    "pronunciation": "",
+    "topic": "Presentations",
     "frequency": "medium",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The paper must undergo rigorous peer review before it can be published.",
-    "exampleVi": "Bài viết phải trải qua quá trình phản biện đồng nghiệp nghiêm ngặt trước khi có thể được xuất bản.",
+    "example": "Please include the monthly recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly recommendation vao ho so truoc thu Sau.",
     "collocations": [
-      "undergo peer review",
-      "peer review process",
-      "scientific peer review"
+      "monthly recommendation",
+      "monthly recommendation review",
+      "monthly recommendation deadline"
     ],
     "synonyms": [
-      "evaluation",
-      "expert assessment"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "peer",
-      "review",
-      "reviewed"
+      "monthly",
+      "recommendation"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "monthly-research-collocation",
+    "word": "monthly research",
+    "baseWord": "research",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly research",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly research in the file before Friday.",
+    "exampleVi": "Vui long dua monthly research vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly research",
+      "monthly research review",
+      "monthly research deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "research"
+    ],
+    "day": 112,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "peer-reviewed-adjective",
@@ -1045,7 +1172,7 @@
     "type": "adjective",
     "meaning": "đã được phản biện đồng nghiệp, được giới chuyên môn đánh giá",
     "pronunciation": "/ˌpɪr rɪˈvjuːd/",
-    "topic": "Research & Reports",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1068,7 +1195,11 @@
       "review",
       "reviews"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "plagiarism-noun",
@@ -1077,7 +1208,7 @@
     "type": "noun",
     "meaning": "sự đạo văn",
     "pronunciation": "/ˈpleɪdʒərɪzəm/",
-    "topic": "Research & Reports",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1101,7 +1232,11 @@
       "plagiarist",
       "plagiarized"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "plagiarize-verb",
@@ -1110,7 +1245,7 @@
     "type": "verb",
     "meaning": "đạo văn",
     "pronunciation": "/ˈpleɪdʒəraɪz/",
-    "topic": "Research & Reports",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1133,7 +1268,11 @@
       "plagiarist",
       "plagiarized"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "publication-noun",
@@ -1142,7 +1281,7 @@
     "type": "noun",
     "meaning": "sự xuất bản, ấn phẩm",
     "pronunciation": "/ˌpʌblɪˈkeɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1166,7 +1305,11 @@
       "publisher",
       "publications"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "publish-verb",
@@ -1175,7 +1318,7 @@
     "type": "verb",
     "meaning": "xuất bản, công bố",
     "pronunciation": "/ˈpʌblɪʃ/",
-    "topic": "Research & Reports",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1200,7 +1343,11 @@
       "publisher",
       "published"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "researcher-noun",
@@ -1209,7 +1356,7 @@
     "type": "noun",
     "meaning": "nhà nghiên cứu",
     "pronunciation": "/riˈsɜːrtʃər/",
-    "topic": "Research & Reports",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1234,7 +1381,11 @@
       "researches",
       "researching"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "synthesis-noun",
@@ -1243,7 +1394,7 @@
     "type": "noun",
     "meaning": "sự tổng hợp",
     "pronunciation": "/ˈsɪnθəsɪs/",
-    "topic": "Research & Reports",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1267,7 +1418,11 @@
       "synthetic",
       "synthesizer"
     ],
-    "day": 112
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "synthesize-verb",
@@ -1276,7 +1431,7 @@
     "type": "verb",
     "meaning": "tổng hợp (thông tin, dữ liệu)",
     "pronunciation": "/ˈsɪnθəsaɪz/",
-    "topic": "Research & Reports",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1300,229 +1455,11 @@
       "synthetic",
       "synthetically"
     ],
-    "day": 112
-  },
-  {
-    "id": "annual report-phrase",
-    "word": "annual report",
-    "baseWord": "annual report",
-    "type": "phrase",
-    "meaning": "báo cáo thường niên",
-    "pronunciation": "/ˈænjuəl rɪˈpɔːrt/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The company's annual report was mailed to all shareholders last week.",
-    "exampleVi": "Báo cáo thường niên của công ty đã được gửi thư cho tất cả cổ đông vào tuần trước.",
-    "collocations": [
-      "publish annual report",
-      "corporate annual report",
-      "review annual report"
-    ],
-    "synonyms": [
-      "yearly report",
-      "annual statement"
-    ],
-    "wordFamily": [
-      "annual",
-      "report",
-      "reports"
-    ],
-    "day": 113
-  },
-  {
-    "id": "appointment-approval-phrase",
-    "word": "appointment approval",
-    "baseWord": "approval",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment approval",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the appointment approval before the next business day.",
-    "exampleVi": "Vui long xem lai appointment approval truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment approval",
-      "appointment approval process",
-      "appointment approval deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "approval"
-    ],
-    "day": 113
-  },
-  {
-    "id": "appointment-notice-phrase",
-    "word": "appointment notice",
-    "baseWord": "notice",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment notice",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the appointment notice before the next business day.",
-    "exampleVi": "Vui long xem lai appointment notice truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment notice",
-      "appointment notice process",
-      "appointment notice deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "notice"
-    ],
-    "day": 113
-  },
-  {
-    "id": "appointment-update-phrase",
-    "word": "appointment update",
-    "baseWord": "update",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment update",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the appointment update before the next business day.",
-    "exampleVi": "Vui long xem lai appointment update truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment update",
-      "appointment update process",
-      "appointment update deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "update"
-    ],
-    "day": 113
-  },
-  {
-    "id": "case study-phrase",
-    "word": "case study",
-    "baseWord": "case study",
-    "type": "phrase",
-    "meaning": "nghiên cứu điển hình, trường hợp thực tế",
-    "pronunciation": "/ˈkeɪs ˌstʌdi/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The business textbook includes a case study on the competitor's failure.",
-    "exampleVi": "Sách giáo khoa kinh doanh bao gồm một nghiên cứu điển hình về thất bại của đối thủ cạnh tranh.",
-    "collocations": [
-      "publish a case study",
-      "detailed case study",
-      "business case study"
-    ],
-    "synonyms": [
-      "practical example",
-      "empirical case"
-    ],
-    "wordFamily": [
-      "case",
-      "study",
-      "studies"
-    ],
-    "day": 113
-  },
-  {
-    "id": "data collection-phrase",
-    "word": "data collection",
-    "baseWord": "data collection",
-    "type": "phrase",
-    "meaning": "việc thu thập dữ liệu",
-    "pronunciation": "/ˈdeɪtə kəˈlekʃən/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The online survey simplified the data collection process.",
-    "exampleVi": "Khảo sát trực tuyến đã đơn giản hóa quy trình thu thập dữ liệu.",
-    "collocations": [
-      "data collection method",
-      "automated data collection",
-      "complete data collection"
-    ],
-    "synonyms": [
-      "information gathering",
-      "data gathering"
-    ],
-    "wordFamily": [
-      "data",
-      "collect",
-      "collection"
-    ],
-    "day": 113
-  },
-  {
-    "id": "database search-phrase",
-    "word": "database search",
-    "baseWord": "database search",
-    "type": "phrase",
-    "meaning": "việc tìm kiếm cơ sở dữ liệu",
-    "pronunciation": "/ˈdeɪtəbeɪs sɜːrtʃ/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "A quick database search revealed that we had already registered this client.",
-    "exampleVi": "Một cuộc tìm kiếm cơ sở dữ liệu nhanh chóng cho thấy chúng tôi đã đăng ký khách hàng này rồi.",
-    "collocations": [
-      "perform a database search",
-      "quick database search",
-      "online database search"
-    ],
-    "synonyms": [
-      "data query",
-      "records search"
-    ],
-    "wordFamily": [
-      "data",
-      "base",
-      "search"
-    ],
-    "day": 113
+    "day": 112,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "debrief-verb",
@@ -1531,7 +1468,7 @@
     "type": "verb",
     "meaning": "phỏng vấn rút kinh nghiệm, báo cáo thu hoạch",
     "pronunciation": "/ˌdiːˈbriːf/",
-    "topic": "Research & Reports",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1555,7 +1492,11 @@
       "brief",
       "debriefed"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "fact-check-verb",
@@ -1564,7 +1505,7 @@
     "type": "verb",
     "meaning": "kiểm chứng thông tin thực tế",
     "pronunciation": "/ˈfækt tʃek/",
-    "topic": "Research & Reports",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1588,7 +1529,11 @@
       "checker",
       "fact-checking"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "fact-finding-adjective",
@@ -1597,7 +1542,7 @@
     "type": "adjective",
     "meaning": "mang tính tìm kiếm và xác minh sự thật",
     "pronunciation": "/ˈfækt ˌfaɪndɪŋ/",
-    "topic": "Research & Reports",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1620,177 +1565,268 @@
       "finding",
       "findings"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "financial report-phrase",
-    "word": "financial report",
-    "baseWord": "financial report",
+    "id": "monthly-compliance-collocation",
+    "word": "monthly compliance",
+    "baseWord": "compliance",
     "type": "phrase",
-    "meaning": "báo cáo tài chính",
-    "pronunciation": "/faɪˈnænʃl rɪˈpɔːrt/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly compliance",
+    "pronunciation": "",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The audited financial report confirmed that the business is highly profitable.",
-    "exampleVi": "Báo cáo tài chính đã kiểm toán xác nhận rằng doanh nghiệp có lợi nhuận rất cao.",
-    "collocations": [
-      "audited financial report",
-      "submit financial report",
-      "detailed financial report"
-    ],
-    "synonyms": [
-      "financial statement",
-      "balance sheet"
-    ],
-    "wordFamily": [
-      "finance",
-      "financial",
-      "report"
-    ],
-    "day": 113
-  },
-  {
-    "id": "focus group-phrase",
-    "word": "focus group",
-    "baseWord": "focus group",
-    "type": "phrase",
-    "meaning": "nhóm tập trung (nhóm người tham gia khảo sát ý kiến)",
-    "pronunciation": "/ˈfoʊkəs ɡruːp/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Feedback from the focus group helped us adjust our advertising plan.",
-    "exampleVi": "Phản hồi từ nhóm tập trung đã giúp chúng tôi điều chỉnh kế hoạch quảng cáo của mình.",
+    "example": "Please include the monthly compliance in the file before Friday.",
+    "exampleVi": "Vui long dua monthly compliance vao ho so truoc thu Sau.",
     "collocations": [
-      "conduct a focus group",
-      "focus group interview",
-      "focus group participant"
+      "monthly compliance",
+      "monthly compliance review",
+      "monthly compliance deadline"
     ],
     "synonyms": [
-      "discussion group",
-      "sampling panel"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "focus",
-      "group",
-      "groups"
+      "monthly",
+      "compliance"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "interim report-phrase",
-    "word": "interim report",
-    "baseWord": "interim report",
+    "id": "monthly-liability-collocation",
+    "word": "monthly liability",
+    "baseWord": "liability",
     "type": "phrase",
-    "meaning": "báo cáo tạm thời, báo cáo giữa kỳ",
-    "pronunciation": "/ˈɪntərɪm rɪˈpɔːrt/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
+    "meaning": "collocation TOEIC 700: monthly liability",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly liability in the file before Friday.",
+    "exampleVi": "Vui long dua monthly liability vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly liability",
+      "monthly liability review",
+      "monthly liability deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "liability"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "monthly-negotiation-collocation",
+    "word": "monthly negotiation",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly negotiation",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The committee published an interim report detailing their initial findings.",
-    "exampleVi": "Ủy ban đã công bố một báo cáo tạm thời chi tiết các phát hiện ban đầu của họ.",
+    "example": "Please include the monthly negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly negotiation vao ho so truoc thu Sau.",
     "collocations": [
-      "publish interim report",
-      "draft interim report",
-      "interim report findings"
+      "monthly negotiation",
+      "monthly negotiation review",
+      "monthly negotiation deadline"
     ],
     "synonyms": [
-      "provisional report",
-      "preliminary report"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "interim",
-      "report",
-      "reports"
+      "monthly",
+      "negotiation"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "margin of error-phrase",
-    "word": "margin of error",
-    "baseWord": "margin of error",
+    "id": "monthly-payment-collocation",
+    "word": "monthly payment",
+    "baseWord": "payment",
     "type": "phrase",
-    "meaning": "biên độ sai số, giới hạn sai sót",
-    "pronunciation": "/ˈmɑːrdʒɪn əv ˈerər/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The poll results have a margin of error of plus or minus three percent.",
-    "exampleVi": "Kết quả thăm dò có biên độ sai số cộng hoặc trừ ba phần trăm.",
-    "collocations": [
-      "small margin of error",
-      "margin of error percentage",
-      "within the margin of error"
-    ],
-    "synonyms": [
-      "limit of error",
-      "allowable error"
-    ],
-    "wordFamily": [
-      "margin",
-      "error",
-      "errors"
-    ],
-    "day": 113
-  },
-  {
-    "id": "market research-phrase",
-    "word": "market research",
-    "baseWord": "market research",
-    "type": "phrase",
-    "meaning": "nghiên cứu thị trường",
-    "pronunciation": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly payment",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly payment in the file before Friday.",
+    "exampleVi": "Vui long dua monthly payment vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly payment",
+      "monthly payment review",
+      "monthly payment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "payment"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "monthly-payroll-collocation",
+    "word": "monthly payroll",
+    "baseWord": "payroll",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly payroll",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "Conducting market research is essential before launching a new product line.",
-    "exampleVi": "Tiến hành nghiên cứu thị trường là điều cần thiết trước khi tung ra một dòng sản phẩm mới.",
+    "example": "Please include the monthly payroll in the file before Friday.",
+    "exampleVi": "Vui long dua monthly payroll vao ho so truoc thu Sau.",
     "collocations": [
-      "conduct market research",
-      "market research firm",
-      "do market research"
+      "monthly payroll",
+      "monthly payroll review",
+      "monthly payroll deadline"
     ],
     "synonyms": [
-      "marketing study",
-      "consumer research"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "market",
-      "research",
-      "researcher"
+      "monthly",
+      "payroll"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "progress report-phrase",
-    "word": "progress report",
-    "baseWord": "progress report",
+    "id": "monthly-regulation-collocation",
+    "word": "monthly regulation",
+    "baseWord": "regulation",
     "type": "phrase",
-    "meaning": "báo cáo tiến độ",
-    "pronunciation": "/ˈprɑːɡres rɪˈpɔːrt/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly regulation",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly regulation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly regulation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly regulation",
+      "monthly regulation review",
+      "monthly regulation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "regulation"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "monthly-reimbursement-collocation",
+    "word": "monthly reimbursement",
+    "baseWord": "reimbursement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly reimbursement",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua monthly reimbursement vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly reimbursement",
+      "monthly reimbursement review",
+      "monthly reimbursement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "reimbursement"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "monthly-settlement-collocation",
+    "word": "monthly settlement",
+    "baseWord": "settlement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly settlement",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1798,84 +1834,62 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "Please submit your weekly progress report to the project supervisor.",
-    "exampleVi": "Vui lòng nộp báo cáo tiến độ hàng tuần của bạn cho người giám sát dự án.",
+    "example": "Please include the monthly settlement in the file before Friday.",
+    "exampleVi": "Vui long dua monthly settlement vao ho so truoc thu Sau.",
     "collocations": [
-      "weekly progress report",
-      "submit progress report",
-      "monthly progress report"
+      "monthly settlement",
+      "monthly settlement review",
+      "monthly settlement deadline"
     ],
     "synonyms": [
-      "status report",
-      "update report"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "progress",
-      "report",
-      "reports"
+      "monthly",
+      "settlement"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "quarterly report-phrase",
-    "word": "quarterly report",
-    "baseWord": "quarterly report",
+    "id": "monthly-transaction-collocation",
+    "word": "monthly transaction",
+    "baseWord": "transaction",
     "type": "phrase",
-    "meaning": "báo cáo hàng quý",
-    "pronunciation": "/ˈkwɔːrtərli rɪˈpɔːrt/",
-    "topic": "Research & Reports",
+    "meaning": "collocation TOEIC 700: monthly transaction",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Our team is preparing the quarterly report for the board of directors.",
-    "exampleVi": "Nhóm của chúng tôi đang chuẩn bị báo cáo hàng quý cho hội đồng quản trị.",
+    "example": "Please include the monthly transaction in the file before Friday.",
+    "exampleVi": "Vui long dua monthly transaction vao ho so truoc thu Sau.",
     "collocations": [
-      "prepare quarterly report",
-      "third-quarterly report",
-      "financial quarterly report"
+      "monthly transaction",
+      "monthly transaction review",
+      "monthly transaction deadline"
     ],
     "synonyms": [
-      "three-month report"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "quarter",
-      "report",
-      "reports"
+      "monthly",
+      "transaction"
     ],
-    "day": 113
-  },
-  {
-    "id": "sample size-phrase",
-    "word": "sample size",
-    "baseWord": "sample size",
-    "type": "phrase",
-    "meaning": "quy mô mẫu, cỡ mẫu",
-    "pronunciation": "/ˈsæmpl saɪz/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "A larger sample size is required to make the survey results statistically valid.",
-    "exampleVi": "Quy mô mẫu lớn hơn là cần thiết để kết quả khảo sát có giá trị thống kê.",
-    "collocations": [
-      "adequate sample size",
-      "large sample size",
-      "calculate sample size"
-    ],
-    "synonyms": [
-      "sample number"
-    ],
-    "wordFamily": [
-      "sample",
-      "size",
-      "sizes"
-    ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "subject-noun",
@@ -1884,7 +1898,7 @@
     "type": "noun",
     "meaning": "đối tượng nghiên cứu, chủ đề",
     "pronunciation": "/ˈsʌbdʒɪkt/",
-    "topic": "Research & Reports",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1908,69 +1922,255 @@
       "subjectively",
       "subjects"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "white paper-phrase",
-    "word": "white paper",
-    "baseWord": "white paper",
+    "id": "weekly-deadline-collocation",
+    "word": "weekly deadline",
+    "baseWord": "deadline",
     "type": "phrase",
-    "meaning": "sách trắng, báo cáo khuyến nghị chính thức",
-    "pronunciation": "/ˌwaɪt ˈpeɪpər/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
+    "meaning": "collocation TOEIC 700: weekly deadline",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly deadline in the file before Friday.",
+    "exampleVi": "Vui long dua weekly deadline vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly deadline",
+      "weekly deadline review",
+      "weekly deadline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "deadline"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "weekly-feedback-collocation",
+    "word": "weekly feedback",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly feedback",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly feedback in the file before Friday.",
+    "exampleVi": "Vui long dua weekly feedback vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly feedback",
+      "weekly feedback review",
+      "weekly feedback deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "feedback"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "weekly-invoice-collocation",
+    "word": "weekly invoice",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly invoice",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly invoice in the file before Friday.",
+    "exampleVi": "Vui long dua weekly invoice vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly invoice",
+      "weekly invoice review",
+      "weekly invoice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "invoice"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "weekly-proposal-collocation",
+    "word": "weekly proposal",
+    "baseWord": "proposal",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly proposal",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The technology company released a white paper explaining cloud security.",
-    "exampleVi": "Công ty công nghệ đã phát hành một cuốn sách trắng giải thích về bảo mật đám mây.",
+    "example": "Please include the weekly proposal in the file before Friday.",
+    "exampleVi": "Vui long dua weekly proposal vao ho so truoc thu Sau.",
     "collocations": [
-      "publish a white paper",
-      "technical white paper",
-      "read the white paper"
+      "weekly proposal",
+      "weekly proposal review",
+      "weekly proposal deadline"
     ],
     "synonyms": [
-      "official report",
-      "briefing document"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "white",
-      "paper",
-      "papers"
+      "weekly",
+      "proposal"
     ],
-    "day": 113
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
-    "id": "appointment-schedule-phrase",
-    "word": "appointment schedule",
-    "baseWord": "schedule",
+    "id": "weekly-receipt-collocation",
+    "word": "weekly receipt",
+    "baseWord": "receipt",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment schedule",
+    "meaning": "collocation TOEIC 700: weekly receipt",
     "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "hard",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
+      "Part 7"
     ],
-    "example": "Please review the appointment schedule before the next business day.",
-    "exampleVi": "Vui long xem lai appointment schedule truoc ngay lam viec tiep theo.",
+    "example": "Please include the weekly receipt in the file before Friday.",
+    "exampleVi": "Vui long dua weekly receipt vao ho so truoc thu Sau.",
     "collocations": [
-      "appointment schedule",
-      "appointment schedule process",
-      "appointment schedule deadline"
+      "weekly receipt",
+      "weekly receipt review",
+      "weekly receipt deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "schedule"
+      "weekly",
+      "receipt"
     ],
-    "day": 114
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "weekly-report-collocation",
+    "word": "weekly report",
+    "baseWord": "report",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly report",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly report in the file before Friday.",
+    "exampleVi": "Vui long dua weekly report vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly report",
+      "weekly report review",
+      "weekly report deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "report"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "weekly-target-collocation",
+    "word": "weekly target",
+    "baseWord": "target",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly target",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly target in the file before Friday.",
+    "exampleVi": "Vui long dua weekly target vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly target",
+      "weekly target review",
+      "weekly target deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "target"
+    ],
+    "day": 113,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "chart-noun",
@@ -1979,7 +2179,7 @@
     "type": "noun",
     "meaning": "biểu đồ, đồ thị",
     "pronunciation": "/tʃɑːrt/",
-    "topic": "Research & Reports",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2004,36 +2204,11 @@
       "charted",
       "charting"
     ],
-    "day": 114
-  },
-  {
-    "id": "dependent variable-phrase",
-    "word": "dependent variable",
-    "baseWord": "vary",
-    "type": "phrase",
-    "meaning": "biến phụ thuộc",
-    "pronunciation": "/dɪˈpendənt ˈveriəbl/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Customer satisfaction rating acts as the dependent variable in our model.",
-    "exampleVi": "Đánh giá mức độ hài lòng của khách hàng đóng vai trò là biến phụ thuộc trong mô hình của chúng tôi.",
-    "collocations": [
-      "measure dependent variable",
-      "dependent variable response"
-    ],
-    "synonyms": [
-      "outcome variable"
-    ],
-    "wordFamily": [
-      "dependent",
-      "vary",
-      "variable"
-    ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "diagram-noun",
@@ -2042,7 +2217,7 @@
     "type": "noun",
     "meaning": "sơ đồ, biểu đồ phân tích",
     "pronunciation": "/ˈdaɪəɡræm/",
-    "topic": "Research & Reports",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2066,7 +2241,11 @@
       "diagrammatic",
       "diagrammed"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "documentary-adjective",
@@ -2075,7 +2254,7 @@
     "type": "adjective",
     "meaning": "thuộc về tài liệu, hồ sơ",
     "pronunciation": "/ˌdɑːkjuˈmentəri/",
-    "topic": "Research & Reports",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2098,7 +2277,11 @@
       "documentation",
       "documents"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "documentation-noun",
@@ -2107,7 +2290,7 @@
     "type": "noun",
     "meaning": "tài liệu hướng dẫn, tài liệu chứng minh",
     "pronunciation": "/ˌdɑːkjumenˈteɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2131,7 +2314,11 @@
       "documentary",
       "documents"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "factual-adjective",
@@ -2140,7 +2327,7 @@
     "type": "adjective",
     "meaning": "dựa trên sự thật, thực tế",
     "pronunciation": "/ˈfæktʃuəl/",
-    "topic": "Research & Reports",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2164,7 +2351,11 @@
       "factually",
       "facts"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "footnote-noun",
@@ -2197,7 +2388,11 @@
       "foot",
       "note"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "glossary-noun",
@@ -2206,7 +2401,7 @@
     "type": "noun",
     "meaning": "bảng tra cứu thuật ngữ, bảng từ vựng",
     "pronunciation": "/ˈɡlɑːsəri/",
-    "topic": "Research & Reports",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2229,7 +2424,11 @@
       "gloss",
       "glossy"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "graph-noun",
@@ -2238,7 +2437,7 @@
     "type": "noun",
     "meaning": "đồ thị",
     "pronunciation": "/ɡræf/",
-    "topic": "Research & Reports",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2262,36 +2461,11 @@
       "graphic",
       "graphical"
     ],
-    "day": 114
-  },
-  {
-    "id": "independent variable-phrase",
-    "word": "independent variable",
-    "baseWord": "vary",
-    "type": "phrase",
-    "meaning": "biến độc lập",
-    "pronunciation": "/ˌɪndɪˈpendənt ˈveriəbl/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "In this experiment, the independent variable is the price of the software.",
-    "exampleVi": "Trong thí nghiệm này, biến độc lập là giá của phần mềm.",
-    "collocations": [
-      "identify independent variable",
-      "manipulate independent variable"
-    ],
-    "synonyms": [
-      "predictor variable"
-    ],
-    "wordFamily": [
-      "independent",
-      "vary",
-      "variable"
-    ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "invalid-adjective",
@@ -2300,7 +2474,7 @@
     "type": "adjective",
     "meaning": "không có hiệu lực, không hợp lệ",
     "pronunciation": "/ɪnˈvælɪd/",
-    "topic": "Research & Reports",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2325,38 +2499,11 @@
       "validate",
       "invalidate"
     ],
-    "day": 114
-  },
-  {
-    "id": "literature review-phrase",
-    "word": "literature review",
-    "baseWord": "literature review",
-    "type": "phrase",
-    "meaning": "phần tổng quan văn liệu, xem xét các nghiên cứu trước đây",
-    "pronunciation": "/ˈlɪtərərtʃər rɪˈvjuː/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The thesis begins with a literature review of existing studies on remote education.",
-    "exampleVi": "Luận văn bắt đầu với phần tổng quan văn liệu về các nghiên cứu hiện có về giáo dục từ xa.",
-    "collocations": [
-      "write a literature review",
-      "comprehensive literature review",
-      "conduct a literature review"
-    ],
-    "synonyms": [
-      "research review",
-      "literary summary"
-    ],
-    "wordFamily": [
-      "literature",
-      "review",
-      "reviews"
-    ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "observation-noun",
@@ -2365,7 +2512,7 @@
     "type": "noun",
     "meaning": "sự quan sát, nhận xét",
     "pronunciation": "/ˌɑːbzərˈveɪʃən/",
-    "topic": "Research & Reports",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2389,7 +2536,11 @@
       "observer",
       "observations"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "observe-verb",
@@ -2398,7 +2549,7 @@
     "type": "verb",
     "meaning": "quan sát, tuân theo",
     "pronunciation": "/əbˈzɜːrv/",
-    "topic": "Research & Reports",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2423,67 +2574,11 @@
       "observer",
       "observant"
     ],
-    "day": 114
-  },
-  {
-    "id": "primary source-phrase",
-    "word": "primary source",
-    "baseWord": "source",
-    "type": "phrase",
-    "meaning": "nguồn tài liệu sơ cấp (thông tin gốc)",
-    "pronunciation": "/ˈpraɪmeri sɔːrs/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Historical letters and interviews are considered primary sources for the study.",
-    "exampleVi": "Các bức thư lịch sử và cuộc phỏng vấn được coi là tài liệu sơ cấp cho nghiên cứu.",
-    "collocations": [
-      "rely on primary sources",
-      "consult primary sources",
-      "original primary source"
-    ],
-    "synonyms": [
-      "firsthand source",
-      "original record"
-    ],
-    "wordFamily": [
-      "primary",
-      "source",
-      "sources"
-    ],
-    "day": 114
-  },
-  {
-    "id": "secondary source-phrase",
-    "word": "secondary source",
-    "baseWord": "source",
-    "type": "phrase",
-    "meaning": "nguồn tài liệu thứ cấp",
-    "pronunciation": "/ˈsekənderi sɔːrs/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Textbooks are secondary sources because they analyze primary documents.",
-    "exampleVi": "Sách giáo khoa là nguồn tài liệu thứ cấp vì chúng phân tích các tài liệu sơ cấp.",
-    "collocations": [
-      "cite secondary sources",
-      "secondary source analysis"
-    ],
-    "synonyms": [
-      "secondhand information"
-    ],
-    "wordFamily": [
-      "secondary",
-      "source",
-      "sources"
-    ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "source-noun",
@@ -2492,7 +2587,7 @@
     "type": "noun",
     "meaning": "nguồn, nguồn gốc",
     "pronunciation": "/sɔːrs/",
-    "topic": "Research & Reports",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2517,38 +2612,11 @@
       "sourced",
       "sourcing"
     ],
-    "day": 114
-  },
-  {
-    "id": "table of contents-phrase",
-    "word": "table of contents",
-    "baseWord": "table of contents",
-    "type": "phrase",
-    "meaning": "mục lục",
-    "pronunciation": "/ˈteɪbl əv kənˈtents/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please look at the table of contents to find the page number for the appendix.",
-    "exampleVi": "Vui lòng xem mục lục để tìm số trang của phần phụ lục.",
-    "collocations": [
-      "check the table of contents",
-      "include table of contents"
-    ],
-    "synonyms": [
-      "index",
-      "contents list"
-    ],
-    "wordFamily": [
-      "table",
-      "content",
-      "contents"
-    ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "variable-noun",
@@ -2557,7 +2625,7 @@
     "type": "noun",
     "meaning": "biến số, yếu tố thay đổi",
     "pronunciation": "/ˈveriəbl/",
-    "topic": "Research & Reports",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2581,7 +2649,252 @@
       "variation",
       "variables"
     ],
-    "day": 114
+    "day": 114,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "weekly-agenda-collocation",
+    "word": "weekly agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly agenda",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly agenda in the file before Friday.",
+    "exampleVi": "Vui long dua weekly agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly agenda",
+      "weekly agenda review",
+      "weekly agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "agenda"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "weekly-agreement-collocation",
+    "word": "weekly agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly agreement",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the weekly agreement in the file before Friday.",
+    "exampleVi": "Vui long dua weekly agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly agreement",
+      "weekly agreement review",
+      "weekly agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "agreement"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "weekly-budget-collocation",
+    "word": "weekly budget",
+    "baseWord": "budget",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly budget",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly budget in the file before Friday.",
+    "exampleVi": "Vui long dua weekly budget vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly budget",
+      "weekly budget review",
+      "weekly budget deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "budget"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "weekly-forecast-collocation",
+    "word": "weekly forecast",
+    "baseWord": "forecast",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly forecast",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly forecast in the file before Friday.",
+    "exampleVi": "Vui long dua weekly forecast vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly forecast",
+      "weekly forecast review",
+      "weekly forecast deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "forecast"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "weekly-meeting-collocation",
+    "word": "weekly meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly meeting",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly meeting in the file before Friday.",
+    "exampleVi": "Vui long dua weekly meeting vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly meeting",
+      "weekly meeting review",
+      "weekly meeting deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "meeting"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "weekly-schedule-collocation",
+    "word": "weekly schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly schedule",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly schedule in the file before Friday.",
+    "exampleVi": "Vui long dua weekly schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly schedule",
+      "weekly schedule review",
+      "weekly schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "schedule"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "weekly-shipment-collocation",
+    "word": "weekly shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly shipment",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the weekly shipment in the file before Friday.",
+    "exampleVi": "Vui long dua weekly shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly shipment",
+      "weekly shipment review",
+      "weekly shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "shipment"
+    ],
+    "day": 114,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "analytic-adjective",
@@ -2590,7 +2903,7 @@
     "type": "adjective",
     "meaning": "thuộc về phân tích",
     "pronunciation": "/ˌænəˈlɪtɪk/",
-    "topic": "Research & Reports",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2614,7 +2927,11 @@
       "analysis",
       "analytical"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "analytical-adjective",
@@ -2623,7 +2940,7 @@
     "type": "adjective",
     "meaning": "mang tính phân tích",
     "pronunciation": "/ˌænəˈlɪtɪkl/",
-    "topic": "Research & Reports",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2647,69 +2964,11 @@
       "analysis",
       "analytically"
     ],
-    "day": 115
-  },
-  {
-    "id": "appointment-report-phrase",
-    "word": "appointment report",
-    "baseWord": "report",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve research & reports: appointment report",
-    "pronunciation": "",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the appointment report before the next business day.",
-    "exampleVi": "Vui long xem lai appointment report truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "appointment report",
-      "appointment report process",
-      "appointment report deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "report"
-    ],
-    "day": 115
-  },
-  {
-    "id": "bar graph-phrase",
-    "word": "bar graph",
-    "baseWord": "graph",
-    "type": "phrase",
-    "meaning": "biểu đồ cột, biểu đồ thanh",
-    "pronunciation": "/ˈbɑːr ɡræf/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "According to the bar graph, production costs peaked in July.",
-    "exampleVi": "Theo biểu đồ cột, chi phí sản xuất đạt đỉnh vào tháng Bảy.",
-    "collocations": [
-      "vertical bar graph",
-      "horizontal bar graph",
-      "bar graph data"
-    ],
-    "synonyms": [
-      "bar chart"
-    ],
-    "wordFamily": [
-      "bar",
-      "graph",
-      "graphs"
-    ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "bias-noun",
@@ -2718,7 +2977,7 @@
     "type": "noun",
     "meaning": "sự thiên vị, độ lệch (thống kê)",
     "pronunciation": "/ˈbaɪəs/",
-    "topic": "Research & Reports",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2742,7 +3001,11 @@
       "unbiased",
       "biases"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "biased-adjective",
@@ -2751,7 +3014,7 @@
     "type": "adjective",
     "meaning": "thiên vị, phiến diện",
     "pronunciation": "/ˈbaɪəst/",
-    "topic": "Research & Reports",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2775,39 +3038,11 @@
       "unbiased",
       "biases"
     ],
-    "day": 115
-  },
-  {
-    "id": "data gathering-phrase",
-    "word": "data gathering",
-    "baseWord": "data gathering",
-    "type": "phrase",
-    "meaning": "việc thu thập dữ liệu",
-    "pronunciation": "/ˈdeɪtə ˈɡæðərɪŋ/",
-    "topic": "Research & Reports",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Data gathering must be done carefully to ensure statistical accuracy.",
-    "exampleVi": "Việc thu thập dữ liệu phải được thực hiện cẩn thận để đảm bảo độ chính xác thống kê.",
-    "collocations": [
-      "method for data gathering",
-      "online data gathering",
-      "complete data gathering"
-    ],
-    "synonyms": [
-      "data collection",
-      "information gathering"
-    ],
-    "wordFamily": [
-      "data",
-      "gather",
-      "gathering"
-    ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "flowchart-noun",
@@ -2816,7 +3051,7 @@
     "type": "noun",
     "meaning": "lưu đồ, sơ đồ quy trình",
     "pronunciation": "/ˈfloʊtʃɑːrt/",
-    "topic": "Research & Reports",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2839,72 +3074,11 @@
       "chart",
       "flowcharts"
     ],
-    "day": 115
-  },
-  {
-    "id": "information gathering-phrase",
-    "word": "information gathering",
-    "baseWord": "information gathering",
-    "type": "phrase",
-    "meaning": "việc thu thập thông tin",
-    "pronunciation": "/ˌɪnfərˈmeɪʃən ˈɡæðərɪŋ/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Market research requires weeks of active information gathering.",
-    "exampleVi": "Nghiên cứu thị trường đòi hỏi nhiều tuần thu thập thông tin tích cực.",
-    "collocations": [
-      "system for information gathering",
-      "initial information gathering"
-    ],
-    "synonyms": [
-      "data collection",
-      "data gathering"
-    ],
-    "wordFamily": [
-      "information",
-      "gather",
-      "gathering"
-    ],
-    "day": 115
-  },
-  {
-    "id": "market survey-phrase",
-    "word": "market survey",
-    "baseWord": "market survey",
-    "type": "phrase",
-    "meaning": "cuộc khảo sát thị trường",
-    "pronunciation": "/ˈmɑːrkɪt ˈsɜːrveɪ/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We sent a market survey to our subscribers to learn about their habits.",
-    "exampleVi": "Chúng tôi đã gửi một cuộc khảo sát thị trường cho các thuê bao của mình để tìm hiểu về thói quen của họ.",
-    "collocations": [
-      "conduct a market survey",
-      "annual market survey",
-      "market survey questionnaire"
-    ],
-    "synonyms": [
-      "market research",
-      "opinion poll"
-    ],
-    "wordFamily": [
-      "market",
-      "survey",
-      "surveys"
-    ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "objectivity-noun",
@@ -2913,7 +3087,7 @@
     "type": "noun",
     "meaning": "tính khách quan",
     "pronunciation": "/ˌɑːbdʒekˈtɪvəti/",
-    "topic": "Research & Reports",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2937,72 +3111,11 @@
       "objectively",
       "objectives"
     ],
-    "day": 115
-  },
-  {
-    "id": "opinion poll-phrase",
-    "word": "opinion poll",
-    "baseWord": "poll",
-    "type": "phrase",
-    "meaning": "cuộc thăm dò dư luận, thăm dò ý kiến",
-    "pronunciation": "/əˈpɪnjən poʊl/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "The newspaper conducted an opinion poll to see which brand was preferred.",
-    "exampleVi": "Tờ báo đã thực hiện một cuộc thăm dò ý kiến để xem thương hiệu nào được ưa chuộng hơn.",
-    "collocations": [
-      "national opinion poll",
-      "conduct an opinion poll",
-      "latest opinion poll"
-    ],
-    "synonyms": [
-      "survey",
-      "poll",
-      "opinion survey"
-    ],
-    "wordFamily": [
-      "opinion",
-      "poll",
-      "polls"
-    ],
-    "day": 115
-  },
-  {
-    "id": "pie chart-phrase",
-    "word": "pie chart",
-    "baseWord": "chart",
-    "type": "phrase",
-    "meaning": "biểu đồ hình tròn",
-    "pronunciation": "/ˈpaɪ tʃɑːrt/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The pie chart shows the market share distribution of the top companies.",
-    "exampleVi": "Biểu đồ tròn biểu thị sự phân bổ thị phần của các công ty hàng đầu.",
-    "collocations": [
-      "create a pie chart",
-      "pie chart segment",
-      "interpret a pie chart"
-    ],
-    "synonyms": [
-      "circle graph"
-    ],
-    "wordFamily": [
-      "pie",
-      "chart",
-      "charts"
-    ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "poll-noun",
@@ -3011,7 +3124,7 @@
     "type": "noun",
     "meaning": "cuộc thăm dò ý kiến",
     "pronunciation": "/poʊl/",
-    "topic": "Research & Reports",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3036,39 +3149,11 @@
       "polled",
       "polling"
     ],
-    "day": 115
-  },
-  {
-    "id": "response rate-phrase",
-    "word": "response rate",
-    "baseWord": "response rate",
-    "type": "phrase",
-    "meaning": "tỷ lệ phản hồi",
-    "pronunciation": "/rɪˈspɑːns reɪt/",
-    "topic": "Research & Reports",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our online survey had a response rate of forty percent, which was better than expected.",
-    "exampleVi": "Khảo sát trực tuyến của chúng tôi đạt tỷ lệ phản hồi bốn mươi phần trăm, tốt hơn mong đợi.",
-    "collocations": [
-      "high response rate",
-      "calculate response rate",
-      "improve the response rate"
-    ],
-    "synonyms": [
-      "reply rate",
-      "return rate"
-    ],
-    "wordFamily": [
-      "respond",
-      "response",
-      "rate"
-    ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "spreadsheet-noun",
@@ -3077,7 +3162,7 @@
     "type": "noun",
     "meaning": "bảng tính (như Excel)",
     "pronunciation": "/ˈspredʃiːt/",
-    "topic": "Research & Reports",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3102,7 +3187,11 @@
       "spread",
       "sheet"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "subjectivity-noun",
@@ -3111,7 +3200,7 @@
     "type": "noun",
     "meaning": "tính chủ quan",
     "pronunciation": "/ˌsʌbdʒekˈtɪvəti/",
-    "topic": "Research & Reports",
+    "topic": "Customer Service",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -3133,7 +3222,11 @@
       "subjective",
       "subjectively"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "unbiased-adjective",
@@ -3142,7 +3235,7 @@
     "type": "adjective",
     "meaning": "không thiên vị, khách quan",
     "pronunciation": "/ʌnˈbaɪəst/",
-    "topic": "Research & Reports",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3166,7 +3259,11 @@
       "biased",
       "biases"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "verifiable-adjective",
@@ -3175,7 +3272,7 @@
     "type": "adjective",
     "meaning": "có thể kiểm chứng, xác minh",
     "pronunciation": "/ˈverɪfaɪəbl/",
-    "topic": "Research & Reports",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3198,7 +3295,11 @@
       "verification",
       "unverifiable"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "verify-verb",
@@ -3207,7 +3308,7 @@
     "type": "verb",
     "meaning": "xác minh, kiểm chứng",
     "pronunciation": "/ˈverɪfaɪ/",
-    "topic": "Research & Reports",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3232,6 +3333,294 @@
       "verification",
       "unverifiable"
     ],
-    "day": 115
+    "day": 115,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "weekly-audit-collocation",
+    "word": "weekly audit",
+    "baseWord": "audit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly audit",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the weekly audit in the file before Friday.",
+    "exampleVi": "Vui long dua weekly audit vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly audit",
+      "weekly audit review",
+      "weekly audit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "audit"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "weekly-balance-collocation",
+    "word": "weekly balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly balance",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the weekly balance in the file before Friday.",
+    "exampleVi": "Vui long dua weekly balance vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly balance",
+      "weekly balance review",
+      "weekly balance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "balance"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "weekly-expense-collocation",
+    "word": "weekly expense",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly expense",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the weekly expense in the file before Friday.",
+    "exampleVi": "Vui long dua weekly expense vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly expense",
+      "weekly expense review",
+      "weekly expense deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "expense"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "weekly-inspection-collocation",
+    "word": "weekly inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly inspection",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly inspection in the file before Friday.",
+    "exampleVi": "Vui long dua weekly inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly inspection",
+      "weekly inspection review",
+      "weekly inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "inspection"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "weekly-loss-collocation",
+    "word": "weekly loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly loss",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly loss in the file before Friday.",
+    "exampleVi": "Vui long dua weekly loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly loss",
+      "weekly loss review",
+      "weekly loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "loss"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "weekly-profit-collocation",
+    "word": "weekly profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly profit",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly profit in the file before Friday.",
+    "exampleVi": "Vui long dua weekly profit vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly profit",
+      "weekly profit review",
+      "weekly profit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "profit"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "weekly-revenue-collocation",
+    "word": "weekly revenue",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly revenue",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly revenue in the file before Friday.",
+    "exampleVi": "Vui long dua weekly revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly revenue",
+      "weekly revenue review",
+      "weekly revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "revenue"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "weekly-statement-collocation",
+    "word": "weekly statement",
+    "baseWord": "statement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: weekly statement",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the weekly statement in the file before Friday.",
+    "exampleVi": "Vui long dua weekly statement vao ho so truoc thu Sau.",
+    "collocations": [
+      "weekly statement",
+      "weekly statement review",
+      "weekly statement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "weekly",
+      "statement"
+    ],
+    "day": 115,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

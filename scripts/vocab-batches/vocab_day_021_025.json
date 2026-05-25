@@ -1,34 +1,318 @@
 [
   {
-    "id": "annual-agenda-phrase",
-    "word": "annual agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: annual agenda",
+    "id": "applicable-adjective",
+    "word": "applicable",
+    "baseWord": "applic",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: applicable",
     "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the annual agenda before the next business day.",
-    "exampleVi": "Vui long xem lai annual agenda truoc ngay lam viec tiep theo.",
+    "example": "The manager used the word applicable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu applicable trong email cong viec.",
     "collocations": [
-      "annual agenda",
-      "annual agenda process",
-      "annual agenda deadline"
+      "applicable review",
+      "applicable process",
+      "applicable update"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "agenda"
+      "applicable"
     ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "applicant-adjective",
+    "word": "applicant",
+    "baseWord": "applic",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: applicant",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word applicant in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu applicant trong email cong viec.",
+    "collocations": [
+      "applicant review",
+      "applicant process",
+      "applicant update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "applicant"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "appoint-noun",
+    "word": "appoint",
+    "baseWord": "appoint",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: appoint",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word appoint in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu appoint trong email cong viec.",
+    "collocations": [
+      "appoint review",
+      "appoint process",
+      "appoint update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "appoint"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "appointment-adjective",
+    "word": "appointment",
+    "baseWord": "appoint",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: appointment",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word appointment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu appointment trong email cong viec.",
+    "collocations": [
+      "appointment review",
+      "appointment process",
+      "appointment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "appointment"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "appreciation-noun",
+    "word": "appreciation",
+    "baseWord": "apprecia",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: appreciation",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word appreciation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu appreciation trong email cong viec.",
+    "collocations": [
+      "appreciation review",
+      "appreciation process",
+      "appreciation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "appreciation"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "approach-noun",
+    "word": "approach",
+    "baseWord": "approach",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: approach",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word approach in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu approach trong email cong viec.",
+    "collocations": [
+      "approach review",
+      "approach process",
+      "approach update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "approach"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "appropriate-verb",
+    "word": "appropriate",
+    "baseWord": "appropri",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: appropriate",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word appropriate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu appropriate trong email cong viec.",
+    "collocations": [
+      "appropriate review",
+      "appropriate process",
+      "appropriate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "appropriate"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "appropriately-adverb",
+    "word": "appropriately",
+    "baseWord": "appropriate",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: appropriately",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word appropriately in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu appropriately trong email cong viec.",
+    "collocations": [
+      "appropriately review",
+      "appropriately process",
+      "appropriately update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "appropriately"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "approximately-adverb",
+    "word": "approximately",
+    "baseWord": "approximate",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: approximately",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word approximately in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu approximately trong email cong viec.",
+    "collocations": [
+      "approximately review",
+      "approximately process",
+      "approximately update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "approximately"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "arrival-noun",
@@ -37,7 +321,7 @@
     "type": "noun",
     "meaning": "sự đến nơi, giờ đến nơi",
     "pronunciation": "/əˈraɪvl/",
-    "topic": "Travel & Transportation",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -59,7 +343,81 @@
     "wordFamily": [
       "arrive"
     ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "assemble-noun",
+    "word": "assemble",
+    "baseWord": "assemble",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: assemble",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word assemble in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assemble trong email cong viec.",
+    "collocations": [
+      "assemble review",
+      "assemble process",
+      "assemble update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "assemble"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "assembly-adverb",
+    "word": "assembly",
+    "baseWord": "assemb",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: assembly",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word assembly in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assembly trong email cong viec.",
+    "collocations": [
+      "assembly review",
+      "assembly process",
+      "assembly update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "assembly"
+    ],
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "baggage-noun",
@@ -68,7 +426,7 @@
     "type": "noun",
     "meaning": "hành lý (thường mang đi xa, ký gửi)",
     "pronunciation": "/ˈbæɡɪdʒ/",
-    "topic": "Travel & Transportation",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -87,7 +445,11 @@
       "luggage"
     ],
     "wordFamily": [],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "booking-noun",
@@ -96,7 +458,7 @@
     "type": "noun",
     "meaning": "sự đặt trước (vé, phòng)",
     "pronunciation": "/ˈbʊkɪŋ/",
-    "topic": "Travel & Transportation",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -118,7 +480,11 @@
       "book",
       "booked"
     ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "commuter-noun",
@@ -127,7 +493,7 @@
     "type": "noun",
     "meaning": "người đi làm bằng phương tiện công cộng hàng ngày",
     "pronunciation": "/kəˈmjuːtər/",
-    "topic": "Travel & Transportation",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -149,38 +515,11 @@
       "commute",
       "commuting"
     ],
-    "day": 21
-  },
-  {
-    "id": "daily-agenda-phrase",
-    "word": "daily agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: daily agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the daily agenda before the next business day.",
-    "exampleVi": "Vui long xem lai daily agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "daily agenda",
-      "daily agenda process",
-      "daily agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "delay-verb",
@@ -189,7 +528,7 @@
     "type": "verb",
     "meaning": "hoãn lại, làm trễ nải",
     "pronunciation": "/dɪˈleɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -211,69 +550,11 @@
     "wordFamily": [
       "delayed"
     ],
-    "day": 21
-  },
-  {
-    "id": "formal-agenda-phrase",
-    "word": "formal agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: formal agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the formal agenda before the next business day.",
-    "exampleVi": "Vui long xem lai formal agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "formal agenda",
-      "formal agenda process",
-      "formal agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
-  },
-  {
-    "id": "internal-agenda-phrase",
-    "word": "internal agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: internal agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the internal agenda before the next business day.",
-    "exampleVi": "Vui long xem lai internal agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "internal agenda",
-      "internal agenda process",
-      "internal agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "layover-noun",
@@ -282,7 +563,7 @@
     "type": "noun",
     "meaning": "điểm dừng chân, thời gian chờ chuyến bay tiếp theo",
     "pronunciation": "/ˈleɪoʊvər/",
-    "topic": "Travel & Transportation",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -300,69 +581,11 @@
       "stopover"
     ],
     "wordFamily": [],
-    "day": 21
-  },
-  {
-    "id": "monthly-agenda-phrase",
-    "word": "monthly agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: monthly agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the monthly agenda before the next business day.",
-    "exampleVi": "Vui long xem lai monthly agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "monthly agenda",
-      "monthly agenda process",
-      "monthly agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
-  },
-  {
-    "id": "official-agenda-phrase",
-    "word": "official agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: official agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the official agenda before the next business day.",
-    "exampleVi": "Vui long xem lai official agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "official agenda",
-      "official agenda process",
-      "official agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "passenger-noun",
@@ -371,7 +594,7 @@
     "type": "noun",
     "meaning": "hành khách",
     "pronunciation": "/ˈpæsɪndʒər/",
-    "topic": "Travel & Transportation",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -391,69 +614,11 @@
       "commuter"
     ],
     "wordFamily": [],
-    "day": 21
-  },
-  {
-    "id": "quarterly-agenda-phrase",
-    "word": "quarterly agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: quarterly agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the quarterly agenda before the next business day.",
-    "exampleVi": "Vui long xem lai quarterly agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "quarterly agenda",
-      "quarterly agenda process",
-      "quarterly agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
-  },
-  {
-    "id": "revised-agenda-phrase",
-    "word": "revised agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: revised agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the revised agenda before the next business day.",
-    "exampleVi": "Vui long xem lai revised agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "revised agenda",
-      "revised agenda process",
-      "revised agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "shuttle-noun",
@@ -462,7 +627,7 @@
     "type": "noun",
     "meaning": "xe đưa đón, phương tiện chạy tuyến đường ngắn cố định",
     "pronunciation": "/ˈʃʌtl/",
-    "topic": "Travel & Transportation",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -481,7 +646,11 @@
       "transport"
     ],
     "wordFamily": [],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "ticket-noun",
@@ -490,7 +659,7 @@
     "type": "noun",
     "meaning": "vé, biên lai phạt",
     "pronunciation": "/ˈtɪkɪt/",
-    "topic": "Travel & Transportation",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -509,100 +678,151 @@
       "voucher"
     ],
     "wordFamily": [],
-    "day": 21
+    "day": 21,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "updated-agenda-phrase",
-    "word": "updated agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: updated agenda",
+    "id": "assess-noun",
+    "word": "assess",
+    "baseWord": "assess",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: assess",
     "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the updated agenda before the next business day.",
-    "exampleVi": "Vui long xem lai updated agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "updated agenda",
-      "updated agenda process",
-      "updated agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 21
-  },
-  {
-    "id": "weekly-agenda-phrase",
-    "word": "weekly agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: weekly agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 1",
       "Part 3",
       "Part 5"
     ],
-    "example": "Please review the weekly agenda before the next business day.",
-    "exampleVi": "Vui long xem lai weekly agenda truoc ngay lam viec tiep theo.",
+    "example": "The manager used the word assess in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assess trong email cong viec.",
     "collocations": [
-      "weekly agenda",
-      "weekly agenda process",
-      "weekly agenda deadline"
+      "assess review",
+      "assess process",
+      "assess update"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "agenda"
+      "assess"
     ],
-    "day": 21
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "written-agenda-phrase",
-    "word": "written agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: written agenda",
+    "id": "assessment-adjective",
+    "word": "assessment",
+    "baseWord": "assess",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: assessment",
     "pronunciation": "",
-    "topic": "Travel & Transportation",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
-      "Part 5",
+      "Part 4",
       "Part 7"
     ],
-    "example": "Please review the written agenda before the next business day.",
-    "exampleVi": "Vui long xem lai written agenda truoc ngay lam viec tiep theo.",
+    "example": "The manager used the word assessment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assessment trong email cong viec.",
     "collocations": [
-      "written agenda",
-      "written agenda process",
-      "written agenda deadline"
+      "assessment review",
+      "assessment process",
+      "assessment update"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "agenda"
+      "assessment"
     ],
-    "day": 21
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "assist-noun",
+    "word": "assist",
+    "baseWord": "assist",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: assist",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word assist in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assist trong email cong viec.",
+    "collocations": [
+      "assist review",
+      "assist process",
+      "assist update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "assist"
+    ],
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "associate-verb",
+    "word": "associate",
+    "baseWord": "associ",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: associate",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 5"
+    ],
+    "example": "The manager used the word associate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu associate trong email cong viec.",
+    "collocations": [
+      "associate review",
+      "associate process",
+      "associate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "associate"
+    ],
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "board-verb",
@@ -611,7 +831,7 @@
     "type": "verb",
     "meaning": "lên tàu, xe, máy bay",
     "pronunciation": "/bɔːrd/",
-    "topic": "Travel & Transportation",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -632,7 +852,11 @@
       "boarding",
       "boarder"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "carpool-verb",
@@ -641,7 +865,7 @@
     "type": "verb",
     "meaning": "đi chung xe, góp xe đi chung",
     "pronunciation": "/ˈkɑːrpuːl/",
-    "topic": "Travel & Transportation",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -663,7 +887,11 @@
       "carpooling",
       "carpooler"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "congestion-noun",
@@ -672,7 +900,7 @@
     "type": "noun",
     "meaning": "sự tắc nghẽn, kẹt xe",
     "pronunciation": "/kənˈdʒestʃən/",
-    "topic": "Travel & Transportation",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -695,7 +923,11 @@
       "congest",
       "congested"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "detour-noun",
@@ -704,7 +936,7 @@
     "type": "noun",
     "meaning": "đường vòng, lối rẽ tạm thời",
     "pronunciation": "/ˈdiːtʊr/",
-    "topic": "Travel & Transportation",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -724,7 +956,11 @@
       "deviation"
     ],
     "wordFamily": [],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "direct-adjective",
@@ -733,7 +969,7 @@
     "type": "adjective",
     "meaning": "trực tiếp, không qua trung gian",
     "pronunciation": "/dəˈrekt/",
-    "topic": "Travel & Transportation",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -756,7 +992,11 @@
       "direction",
       "director"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "disembark-verb",
@@ -765,7 +1005,7 @@
     "type": "verb",
     "meaning": "xuống tàu, máy bay",
     "pronunciation": "/ˌdɪsɪmˈbɑːrk/",
-    "topic": "Travel & Transportation",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -787,38 +1027,11 @@
       "embarkation",
       "disembarkation"
     ],
-    "day": 22
-  },
-  {
-    "id": "external-agenda-phrase",
-    "word": "external agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: external agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the external agenda before the next business day.",
-    "exampleVi": "Vui long xem lai external agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "external agenda",
-      "external agenda process",
-      "external agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "fleet-noun",
@@ -827,7 +1040,7 @@
     "type": "noun",
     "meaning": "đội tàu, đội xe, đội máy bay",
     "pronunciation": "/fliːt/",
-    "topic": "Travel & Transportation",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -846,7 +1059,11 @@
       "group"
     ],
     "wordFamily": [],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "gridlock-noun",
@@ -855,7 +1072,7 @@
     "type": "noun",
     "meaning": "tình trạng kẹt xe cứng nhắc, tê liệt hoàn toàn",
     "pronunciation": "/ˈɡrɪdlɑːk/",
-    "topic": "Travel & Transportation",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -876,7 +1093,11 @@
     "wordFamily": [
       "gridlocked"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "highway-noun",
@@ -885,7 +1106,7 @@
     "type": "noun",
     "meaning": "quốc lộ, xa lộ",
     "pronunciation": "/ˈhaɪweɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -904,7 +1125,11 @@
       "freeway"
     ],
     "wordFamily": [],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "local-adjective",
@@ -913,7 +1138,7 @@
     "type": "adjective",
     "meaning": "thuộc về địa phương, chạy tuyến ngắn dừng nhiều ga",
     "pronunciation": "/ˈloʊkl/",
-    "topic": "Travel & Transportation",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -936,7 +1161,11 @@
       "locality",
       "localize"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "non-refundable-adjective",
@@ -945,7 +1174,7 @@
     "type": "adjective",
     "meaning": "không được hoàn tiền",
     "pronunciation": "/ˌnɑːn rɪˈfʌndəbl/",
-    "topic": "Travel & Transportation",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -965,7 +1194,11 @@
       "refund",
       "refundable"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "one-way-adjective",
@@ -974,7 +1207,7 @@
     "type": "adjective",
     "meaning": "một chiều",
     "pronunciation": "/ˈwʌn weɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -990,38 +1223,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 22
-  },
-  {
-    "id": "peak-hours-phrase",
-    "word": "peak hours",
-    "baseWord": "peak",
-    "type": "phrase",
-    "meaning": "giờ cao điểm, thời điểm bận rộn nhất",
-    "pronunciation": "/piːk ˈaʊərz/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "It is difficult to find parking during peak hours.",
-    "exampleVi": "Rất khó tìm được chỗ đỗ xe trong những giờ cao điểm.",
-    "collocations": [
-      "during peak hours",
-      "peak travel hours",
-      "avoid peak hours"
-    ],
-    "synonyms": [
-      "peak times",
-      "rush hour"
-    ],
-    "wordFamily": [
-      "peak"
-    ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "pedestrian-noun",
@@ -1030,7 +1236,7 @@
     "type": "noun",
     "meaning": "người đi bộ",
     "pronunciation": "/pəˈdestriən/",
-    "topic": "Travel & Transportation",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1050,67 +1256,11 @@
       "stroller"
     ],
     "wordFamily": [],
-    "day": 22
-  },
-  {
-    "id": "public-transit-phrase",
-    "word": "public transit",
-    "baseWord": "transit",
-    "type": "phrase",
-    "meaning": "hệ thống giao thông công cộng",
-    "pronunciation": "/ˈpʌblɪk ˈtrænzɪt/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Many cities encourage residents to use public transit to reduce pollution.",
-    "exampleVi": "Nhiều thành phố khuyến khích người dân sử dụng giao thông công cộng để giảm ô nhiễm.",
-    "collocations": [
-      "use public transit",
-      "public transit system",
-      "access to public transit"
-    ],
-    "synonyms": [
-      "public transport"
-    ],
-    "wordFamily": [
-      "transit"
-    ],
-    "day": 22
-  },
-  {
-    "id": "rush-hour-phrase",
-    "word": "rush hour",
-    "baseWord": "rush",
-    "type": "phrase",
-    "meaning": "giờ cao điểm di chuyển (đi làm, về nhà)",
-    "pronunciation": "/rʌʃ ˈaʊər/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 5"
-    ],
-    "example": "The subways are extremely crowded during the morning rush hour.",
-    "exampleVi": "Các ga tàu điện ngầm cực kỳ đông đúc vào giờ cao điểm buổi sáng.",
-    "collocations": [
-      "morning rush hour",
-      "evening rush hour",
-      "rush hour traffic"
-    ],
-    "synonyms": [
-      "peak hours"
-    ],
-    "wordFamily": [
-      "rush"
-    ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "surcharge-noun",
@@ -1119,7 +1269,7 @@
     "type": "noun",
     "meaning": "khoản phụ phí, tiền phạt thêm",
     "pronunciation": "/ˈsɜːrtʃɑːrdʒ/",
-    "topic": "Travel & Transportation",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1140,7 +1290,11 @@
     "wordFamily": [
       "charge"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "toll-noun",
@@ -1149,7 +1303,7 @@
     "type": "noun",
     "meaning": "phí qua cầu đường, phí dịch vụ công",
     "pronunciation": "/toʊl/",
-    "topic": "Travel & Transportation",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1169,7 +1323,11 @@
       "tax"
     ],
     "wordFamily": [],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "vehicle-noun",
@@ -1178,7 +1336,7 @@
     "type": "noun",
     "meaning": "phương tiện giao thông, xe cộ",
     "pronunciation": "/ˈviːəkl/",
-    "topic": "Travel & Transportation",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1200,7 +1358,115 @@
     "wordFamily": [
       "vehicular"
     ],
-    "day": 22
+    "day": 22,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "association-noun",
+    "word": "association",
+    "baseWord": "associa",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: association",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word association in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu association trong email cong viec.",
+    "collocations": [
+      "association review",
+      "association process",
+      "association update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "association"
+    ],
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "assumption-noun",
+    "word": "assumption",
+    "baseWord": "assump",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: assumption",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word assumption in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu assumption trong email cong viec.",
+    "collocations": [
+      "assumption review",
+      "assumption process",
+      "assumption update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "assumption"
+    ],
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "availability-noun",
+    "word": "availability",
+    "baseWord": "availabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: availability",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word availability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu availability trong email cong viec.",
+    "collocations": [
+      "availability review",
+      "availability process",
+      "availability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "availability"
+    ],
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "border-noun",
@@ -1209,7 +1475,7 @@
     "type": "noun",
     "meaning": "biên giới",
     "pronunciation": "/ˈbɔːrdər/",
-    "topic": "Travel & Transportation",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1231,7 +1497,11 @@
     "wordFamily": [
       "borderline"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "cargo-noun",
@@ -1240,7 +1510,7 @@
     "type": "noun",
     "meaning": "hàng hóa (vận chuyển bằng đường thủy hoặc đường không)",
     "pronunciation": "/ˈkɑːrɡoʊ/",
-    "topic": "Travel & Transportation",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1261,7 +1531,11 @@
       "shipment"
     ],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "carrier-noun",
@@ -1292,7 +1566,11 @@
     "wordFamily": [
       "carry"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "consulate-noun",
@@ -1301,7 +1579,7 @@
     "type": "noun",
     "meaning": "lãnh sự quán",
     "pronunciation": "/ˈkɑːnsələt/",
-    "topic": "Travel & Transportation",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1320,7 +1598,11 @@
       "consul",
       "consular"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "courier-noun",
@@ -1329,7 +1611,7 @@
     "type": "noun",
     "meaning": "người chuyển phát nhanh, công ty chuyển phát nhanh",
     "pronunciation": "/ˈkʊriər/",
-    "topic": "Travel & Transportation",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1349,37 +1631,11 @@
       "carrier"
     ],
     "wordFamily": [],
-    "day": 23
-  },
-  {
-    "id": "customs-clearance-phrase",
-    "word": "customs clearance",
-    "baseWord": "clear",
-    "type": "phrase",
-    "meaning": "sự thông quan, làm thủ tục hải quan cho hàng hóa",
-    "pronunciation": "/ˈkʌstəmz ˈklɪrəns/",
-    "topic": "Travel & Transportation",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The import company handles all the paperwork for customs clearance.",
-    "exampleVi": "Công ty nhập khẩu xử lý tất cả giấy tờ để làm thủ tục thông quan hải quan.",
-    "collocations": [
-      "obtain customs clearance",
-      "customs clearance process",
-      "customs clearance agent"
-    ],
-    "synonyms": [
-      "clearance"
-    ],
-    "wordFamily": [
-      "clear",
-      "clearance"
-    ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "declaration-noun",
@@ -1388,7 +1644,7 @@
     "type": "noun",
     "meaning": "sự khai báo, tờ khai hàng hóa",
     "pronunciation": "/ˌdekləˈreɪʃn/",
-    "topic": "Travel & Transportation",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1411,7 +1667,11 @@
       "declare",
       "declarative"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "delivery-noun",
@@ -1420,7 +1680,7 @@
     "type": "noun",
     "meaning": "sự giao hàng, chuyến giao hàng",
     "pronunciation": "/dɪˈlɪvəri/",
-    "topic": "Travel & Transportation",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1443,7 +1703,11 @@
       "deliver",
       "deliverer"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "duty-free-adjective",
@@ -1452,7 +1716,7 @@
     "type": "adjective",
     "meaning": "miễn thuế",
     "pronunciation": "/ˌduːti ˈfriː/",
-    "topic": "Travel & Transportation",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1470,7 +1734,11 @@
       "tax-free"
     ],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "embassy-noun",
@@ -1479,7 +1747,7 @@
     "type": "noun",
     "meaning": "đại sứ quán",
     "pronunciation": "/ˈembəsi/",
-    "topic": "Travel & Transportation",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1495,7 +1763,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "expedite-verb",
@@ -1504,7 +1776,7 @@
     "type": "verb",
     "meaning": "xúc tiến, đẩy nhanh tiến trình",
     "pronunciation": "/ˈekspədaɪt/",
-    "topic": "Travel & Transportation",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1529,7 +1801,11 @@
       "expeditiously",
       "expedient"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "freeway-noun",
@@ -1538,7 +1814,7 @@
     "type": "noun",
     "meaning": "đường cao tốc không thu phí",
     "pronunciation": "/ˈfriːweɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1557,7 +1833,11 @@
       "expressway"
     ],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "freight-noun",
@@ -1566,7 +1846,7 @@
     "type": "noun",
     "meaning": "hàng hóa chuyên chở, dịch vụ chở hàng",
     "pronunciation": "/freɪt/",
-    "topic": "Travel & Transportation",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1588,7 +1868,11 @@
     "wordFamily": [
       "freighter"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "haul-verb",
@@ -1597,7 +1881,7 @@
     "type": "verb",
     "meaning": "kéo, chở hàng bằng xe tải chuyên dụng đi xa",
     "pronunciation": "/hɔːl/",
-    "topic": "Travel & Transportation",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1620,7 +1904,11 @@
       "haulage",
       "hauler"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "immigration-noun",
@@ -1629,7 +1917,7 @@
     "type": "noun",
     "meaning": "sự nhập cư, phòng quản lý nhập cảnh",
     "pronunciation": "/ˌɪmɪˈɡreɪʃn/",
-    "topic": "Travel & Transportation",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1649,69 +1937,11 @@
       "immigrant",
       "immigrate"
     ],
-    "day": 23
-  },
-  {
-    "id": "overseas-agenda-phrase",
-    "word": "overseas agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: overseas agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the overseas agenda before the next business day.",
-    "exampleVi": "Vui long xem lai overseas agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "overseas agenda",
-      "overseas agenda process",
-      "overseas agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 23
-  },
-  {
-    "id": "regional-agenda-phrase",
-    "word": "regional agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: regional agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the regional agenda before the next business day.",
-    "exampleVi": "Vui long xem lai regional agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "regional agenda",
-      "regional agenda process",
-      "regional agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "transport-verb",
@@ -1720,7 +1950,7 @@
     "type": "verb",
     "meaning": "vận chuyển, chuyên chở",
     "pronunciation": "/trænˈspɔːrt/",
-    "topic": "Travel & Transportation",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1744,7 +1974,11 @@
       "transportation",
       "transporter"
     ],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "vessel-noun",
@@ -1753,7 +1987,7 @@
     "type": "noun",
     "meaning": "tàu thủy lớn, thuyền lớn",
     "pronunciation": "/ˈvesl/",
-    "topic": "Travel & Transportation",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1773,7 +2007,11 @@
       "boat"
     ],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "visa-noun",
@@ -1782,7 +2020,7 @@
     "type": "noun",
     "meaning": "thị thực, thị thực nhập cảnh",
     "pronunciation": "/ˈviːzə/",
-    "topic": "Travel & Transportation",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1799,7 +2037,11 @@
     ],
     "synonyms": [],
     "wordFamily": [],
-    "day": 23
+    "day": 23,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accident-noun",
@@ -1808,7 +2050,7 @@
     "type": "noun",
     "meaning": "tai nạn, sự cố bất ngờ",
     "pronunciation": "/ˈæksɪdənt/",
-    "topic": "Travel & Transportation",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1831,7 +2073,46 @@
       "accidental",
       "accidentally"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "beneficial-adjective",
+    "word": "beneficial",
+    "baseWord": "benefici",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: beneficial",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word beneficial in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu beneficial trong email cong viec.",
+    "collocations": [
+      "beneficial review",
+      "beneficial process",
+      "beneficial update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "beneficial"
+    ],
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "breakdown-noun",
@@ -1840,7 +2121,7 @@
     "type": "noun",
     "meaning": "sự hỏng hóc giữa chừng, sự chết máy xe",
     "pronunciation": "/ˈbreɪkdaʊn/",
-    "topic": "Travel & Transportation",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1861,7 +2142,11 @@
     "wordFamily": [
       "break"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "cab-noun",
@@ -1870,7 +2155,7 @@
     "type": "noun",
     "meaning": "xe taxi",
     "pronunciation": "/kæb/",
-    "topic": "Travel & Transportation",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1888,7 +2173,11 @@
       "taxi"
     ],
     "wordFamily": [],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "charter-verb",
@@ -1897,7 +2186,7 @@
     "type": "verb",
     "meaning": "thuê trọn gói (tàu, xe, máy bay)",
     "pronunciation": "/ˈtʃɑːrtər/",
-    "topic": "Travel & Transportation",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1918,7 +2207,11 @@
     "wordFamily": [
       "chartered"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "chauffeur-noun",
@@ -1927,7 +2220,7 @@
     "type": "noun",
     "meaning": "tài xế riêng (cho xe sang, người quan trọng)",
     "pronunciation": "/ʃoʊˈfɜːr/",
-    "topic": "Travel & Transportation",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1948,7 +2241,11 @@
     "wordFamily": [
       "chauffeur-driven"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "cruise-noun",
@@ -1957,7 +2254,7 @@
     "type": "noun",
     "meaning": "cuộc hành trình chơi trên tàu thủy, du thuyền",
     "pronunciation": "/kruːz/",
-    "topic": "Travel & Transportation",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1977,7 +2274,11 @@
     "wordFamily": [
       "cruiser"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "driver-noun",
@@ -1986,7 +2287,7 @@
     "type": "noun",
     "meaning": "tài xế, người lái xe",
     "pronunciation": "/ˈdraɪvər/",
-    "topic": "Travel & Transportation",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2008,7 +2309,11 @@
       "drive",
       "driving"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "fuel-noun",
@@ -2017,7 +2322,7 @@
     "type": "noun",
     "meaning": "nhiên liệu",
     "pronunciation": "/ˈfjuːəl/",
-    "topic": "Travel & Transportation",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2037,7 +2342,11 @@
       "petrol"
     ],
     "wordFamily": [],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "indemnity-noun",
@@ -2046,7 +2355,7 @@
     "type": "noun",
     "meaning": "sự bồi thường thiệt hại, sự bảo đảm bồi thường",
     "pronunciation": "/ɪnˈdemnəti/",
-    "topic": "Travel & Transportation",
+    "topic": "Business Events",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2068,7 +2377,11 @@
     "wordFamily": [
       "indemnify"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "liability-noun",
@@ -2077,7 +2390,7 @@
     "type": "noun",
     "meaning": "trách nhiệm pháp lý, khoản nợ",
     "pronunciation": "/ˌlaɪəˈbɪləti/",
-    "topic": "Travel & Transportation",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2099,38 +2412,11 @@
     "wordFamily": [
       "liable"
     ],
-    "day": 24
-  },
-  {
-    "id": "local-agenda-phrase",
-    "word": "local agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: local agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the local agenda before the next business day.",
-    "exampleVi": "Vui long xem lai local agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "local agenda",
-      "local agenda process",
-      "local agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "locomotive-noun",
@@ -2139,7 +2425,7 @@
     "type": "noun",
     "meaning": "đầu máy xe lửa",
     "pronunciation": "/ˌloʊkəˈmoʊtɪv/",
-    "topic": "Travel & Transportation",
+    "topic": "Email & Correspondence",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2160,7 +2446,11 @@
       "motion",
       "locomotion"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "mileage-noun",
@@ -2169,7 +2459,7 @@
     "type": "noun",
     "meaning": "tổng số dặm đã đi, mức tiêu hao nhiên liệu",
     "pronunciation": "/ˈmaɪlɪdʒ/",
-    "topic": "Travel & Transportation",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2188,7 +2478,11 @@
     "wordFamily": [
       "mile"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "railway-noun",
@@ -2197,7 +2491,7 @@
     "type": "noun",
     "meaning": "đường sắt, hệ thống đường ray",
     "pronunciation": "/ˈreɪlweɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2216,7 +2510,11 @@
       "railroad"
     ],
     "wordFamily": [],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "rent-verb",
@@ -2225,7 +2523,7 @@
     "type": "verb",
     "meaning": "thuê (nhà, xe, đồ dùng trong thời gian ngắn)",
     "pronunciation": "/rent/",
-    "topic": "Travel & Transportation",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2248,7 +2546,11 @@
       "renter",
       "rented"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "rental-noun",
@@ -2257,7 +2559,7 @@
     "type": "noun",
     "meaning": "sự thuê mướn, tiền thuê, xe cho thuê",
     "pronunciation": "/ˈrentl/",
-    "topic": "Travel & Transportation",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2280,7 +2582,11 @@
       "rent",
       "renter"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "ridesharing-noun",
@@ -2289,7 +2595,7 @@
     "type": "noun",
     "meaning": "dịch vụ đi chung xe công nghệ (như Uber, Grab)",
     "pronunciation": "/ˈraɪdʃerɪŋ/",
-    "topic": "Travel & Transportation",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2312,7 +2618,11 @@
       "sharing",
       "ride"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "servicing-noun",
@@ -2321,7 +2631,7 @@
     "type": "noun",
     "meaning": "việc bảo dưỡng (máy móc, xe cộ)",
     "pronunciation": "/ˈsɜːrvɪsɪŋ/",
-    "topic": "Travel & Transportation",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2343,7 +2653,11 @@
       "servant",
       "serve"
     ],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "subway-noun",
@@ -2352,7 +2666,7 @@
     "type": "noun",
     "meaning": "tàu điện ngầm, đường ngầm",
     "pronunciation": "/ˈsʌbweɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2371,7 +2685,11 @@
       "underground"
     ],
     "wordFamily": [],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "taxi-noun",
@@ -2380,7 +2698,7 @@
     "type": "noun",
     "meaning": "xe taxi",
     "pronunciation": "/ˈtæksi/",
-    "topic": "Travel & Transportation",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2398,7 +2716,11 @@
       "cab"
     ],
     "wordFamily": [],
-    "day": 24
+    "day": 24,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "amenity-noun",
@@ -2407,7 +2729,7 @@
     "type": "noun",
     "meaning": "tiện nghi, dịch vụ gia tăng (trong khách sạn, tòa nhà)",
     "pronunciation": "/əˈmenəti/",
-    "topic": "Travel & Transportation",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2427,7 +2749,150 @@
       "convenience"
     ],
     "wordFamily": [],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "bookkeeping-noun",
+    "word": "bookkeeping",
+    "baseWord": "bookkeep",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: bookkeeping",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word bookkeeping in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu bookkeeping trong email cong viec.",
+    "collocations": [
+      "bookkeeping review",
+      "bookkeeping process",
+      "bookkeeping update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "bookkeeping"
+    ],
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "broaden-noun",
+    "word": "broaden",
+    "baseWord": "broaden",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: broaden",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word broaden in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu broaden trong email cong viec.",
+    "collocations": [
+      "broaden review",
+      "broaden process",
+      "broaden update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "broaden"
+    ],
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "budgetary-adjective",
+    "word": "budgetary",
+    "baseWord": "budget",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: budgetary",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word budgetary in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu budgetary trong email cong viec.",
+    "collocations": [
+      "budgetary review",
+      "budgetary process",
+      "budgetary update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "budgetary"
+    ],
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "capability-noun",
+    "word": "capability",
+    "baseWord": "capabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: capability",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word capability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu capability trong email cong viec.",
+    "collocations": [
+      "capability review",
+      "capability process",
+      "capability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "capability"
+    ],
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "check-out-noun",
@@ -2454,7 +2919,11 @@
     "wordFamily": [
       "check"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "concierge-noun",
@@ -2463,7 +2932,7 @@
     "type": "noun",
     "meaning": "nhân viên hỗ trợ khách hàng tại khách sạn",
     "pronunciation": "/koʊnˈsjerʒ/",
-    "topic": "Travel & Transportation",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2482,71 +2951,11 @@
       "porter"
     ],
     "wordFamily": [],
-    "day": 25
-  },
-  {
-    "id": "corporate-agenda-phrase",
-    "word": "corporate agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve travel & transportation: corporate agenda",
-    "pronunciation": "",
-    "topic": "Travel & Transportation",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the corporate agenda before the next business day.",
-    "exampleVi": "Vui long xem lai corporate agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "corporate agenda",
-      "corporate agenda process",
-      "corporate agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 25
-  },
-  {
-    "id": "free-of-charge-phrase",
-    "word": "free of charge",
-    "baseWord": "free",
-    "type": "phrase",
-    "meaning": "miễn phí, không phải thanh toán tiền",
-    "pronunciation": "/friː əv tʃɑːrdʒ/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Wireless internet access is provided free of charge for all guests.",
-    "exampleVi": "Truy cập internet không dây được cung cấp miễn phí cho tất cả khách hàng.",
-    "collocations": [
-      "available free of charge",
-      "provided free of charge",
-      "service free of charge"
-    ],
-    "synonyms": [
-      "complimentary",
-      "gratuitous",
-      "free"
-    ],
-    "wordFamily": [
-      "free",
-      "charge"
-    ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "hostel-noun",
@@ -2555,7 +2964,7 @@
     "type": "noun",
     "meaning": "nhà nghỉ giá rẻ (cho sinh viên, khách du lịch bụi)",
     "pronunciation": "/ˈhɑːstl/",
-    "topic": "Travel & Transportation",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2573,7 +2982,11 @@
       "dormitory"
     ],
     "wordFamily": [],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "hotel-noun",
@@ -2582,7 +2995,7 @@
     "type": "noun",
     "meaning": "khách sạn",
     "pronunciation": "/hoʊˈtel/",
-    "topic": "Travel & Transportation",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2603,7 +3016,11 @@
     "wordFamily": [
       "hotelier"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "housekeeping-noun",
@@ -2612,7 +3029,7 @@
     "type": "noun",
     "meaning": "bộ phận dọn phòng, công việc dọn dẹp nhà cửa",
     "pronunciation": "/ˈhaʊskiːpɪŋ/",
-    "topic": "Travel & Transportation",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2633,7 +3050,11 @@
       "housekeeper",
       "housekeep"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "inn-noun",
@@ -2642,7 +3063,7 @@
     "type": "noun",
     "meaning": "nhà trọ, khách sạn nhỏ cổ kính",
     "pronunciation": "/ɪn/",
-    "topic": "Travel & Transportation",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2663,7 +3084,11 @@
     "wordFamily": [
       "keeper"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "lobby-noun",
@@ -2672,7 +3097,7 @@
     "type": "noun",
     "meaning": "sảnh chờ, hành lang",
     "pronunciation": "/ˈlɑːbi/",
-    "topic": "Travel & Transportation",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2693,7 +3118,11 @@
     "wordFamily": [
       "lobbyist"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "lodging-noun",
@@ -2702,7 +3131,7 @@
     "type": "noun",
     "meaning": "chỗ nghỉ tạm thời, nơi lưu trú",
     "pronunciation": "/ˈlɑːdʒɪŋ/",
-    "topic": "Travel & Transportation",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2725,7 +3154,11 @@
       "lodge",
       "lodger"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "motel-noun",
@@ -2734,7 +3167,7 @@
     "type": "noun",
     "meaning": "khách sạn dọc đường (cho người đi xe ô tô)",
     "pronunciation": "/moʊˈtel/",
-    "topic": "Travel & Transportation",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2752,7 +3185,11 @@
       "motor inn"
     ],
     "wordFamily": [],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "occupied-adjective",
@@ -2761,7 +3198,7 @@
     "type": "adjective",
     "meaning": "đang bị sử dụng, đang bận",
     "pronunciation": "/ˈɑːkjupaɪd/",
-    "topic": "Travel & Transportation",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2785,7 +3222,11 @@
       "occupant",
       "occupation"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "reception-noun",
@@ -2794,7 +3235,7 @@
     "type": "noun",
     "meaning": "quầy tiếp tân, sự đón nhận, buổi tiệc chiêu đãi",
     "pronunciation": "/rɪˈsepʃn/",
-    "topic": "Travel & Transportation",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2817,7 +3258,11 @@
       "recipient",
       "receptive"
     ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "resort-noun",
@@ -2826,7 +3271,7 @@
     "type": "noun",
     "meaning": "khu nghỉ dưỡng",
     "pronunciation": "/rɪˈzɔːrt/",
-    "topic": "Travel & Transportation",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2848,35 +3293,11 @@
     "wordFamily": [
       "resort"
     ],
-    "day": 25
-  },
-  {
-    "id": "room-service-noun",
-    "word": "room service",
-    "baseWord": "serve",
-    "type": "noun",
-    "meaning": "dịch vụ phục vụ đồ ăn tại phòng khách sạn",
-    "pronunciation": "/ruːm ˈsɜːrvɪs/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "We ordered club sandwiches from room service for dinner.",
-    "exampleVi": "Chúng tôi đã đặt bánh mì kẹp từ dịch vụ phục vụ tại phòng cho bữa tối.",
-    "collocations": [
-      "order room service",
-      "room service menu",
-      "room service charge"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "service",
-      "serve"
-    ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "service-noun",
@@ -2885,7 +3306,7 @@
     "type": "noun",
     "meaning": "dịch vụ, sự phục vụ",
     "pronunciation": "/ˈsɜːrvɪs/",
-    "topic": "Travel & Transportation",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2907,38 +3328,11 @@
       "servant",
       "servicing"
     ],
-    "day": 25
-  },
-  {
-    "id": "shuttle-service-phrase",
-    "word": "shuttle service",
-    "baseWord": "shuttle",
-    "type": "phrase",
-    "meaning": "dịch vụ xe đưa đón chạy thường xuyên",
-    "pronunciation": "/ˈʃʌtl ˈsɜːrvɪs/",
-    "topic": "Travel & Transportation",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "The hotel offers a complimentary shuttle service to nearby attractions.",
-    "exampleVi": "Khách sạn cung cấp dịch vụ xe đưa đón miễn phí đến các điểm thu hút khách du lịch lân cận.",
-    "collocations": [
-      "complimentary shuttle service",
-      "airport shuttle service",
-      "provide a shuttle service"
-    ],
-    "synonyms": [
-      "transfer service"
-    ],
-    "wordFamily": [
-      "shuttle",
-      "service"
-    ],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "suite-noun",
@@ -2947,7 +3341,7 @@
     "type": "noun",
     "meaning": "dãy phòng, căn hộ cao cấp trong khách sạn",
     "pronunciation": "/swiːt/",
-    "topic": "Travel & Transportation",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2965,7 +3359,11 @@
       "apartment"
     ],
     "wordFamily": [],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "valet-noun",
@@ -2974,7 +3372,7 @@
     "type": "noun",
     "meaning": "nhân viên đỗ xe hộ, người hầu phòng",
     "pronunciation": "/væˈleɪ/",
-    "topic": "Travel & Transportation",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2993,6 +3391,10 @@
       "attendant"
     ],
     "wordFamily": [],
-    "day": 25
+    "day": 25,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

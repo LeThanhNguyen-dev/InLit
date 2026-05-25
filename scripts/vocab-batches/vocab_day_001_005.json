@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "chương trình nghị sự",
     "pronunciation": "/əˈdʒɛndə/",
-    "topic": "Office",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -28,7 +28,11 @@
     "wordFamily": [
       "agendas"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "announce-verb",
@@ -37,7 +41,7 @@
     "type": "verb",
     "meaning": "thông báo, công bố",
     "pronunciation": "/əˈnaʊns/",
-    "topic": "Office",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -61,7 +65,11 @@
       "announced",
       "announcer"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "approve-verb",
@@ -70,7 +78,7 @@
     "type": "verb",
     "meaning": "phê duyệt, chấp thuận",
     "pronunciation": "/əˈpruːv/",
-    "topic": "Office",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -94,7 +102,11 @@
       "approved",
       "approving"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "arrange-verb",
@@ -103,7 +115,7 @@
     "type": "verb",
     "meaning": "sắp xếp, bố trí",
     "pronunciation": "/əˈreɪndʒ/",
-    "topic": "Office",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -127,7 +139,11 @@
       "arranged",
       "arranging"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "assignment-noun",
@@ -136,7 +152,7 @@
     "type": "noun",
     "meaning": "nhiệm vụ, bài tập, công việc được giao",
     "pronunciation": "/əˈsaɪnmənt/",
-    "topic": "Office",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -160,7 +176,11 @@
       "assigned",
       "assigning"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "colleague-noun",
@@ -169,7 +189,7 @@
     "type": "noun",
     "meaning": "đồng nghiệp",
     "pronunciation": "/ˈkɒliːɡ/",
-    "topic": "Office",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -191,7 +211,11 @@
     "wordFamily": [
       "colleagues"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "confirm-verb",
@@ -200,7 +224,7 @@
     "type": "verb",
     "meaning": "xác nhận",
     "pronunciation": "/kənˈfɜːrm/",
-    "topic": "Office",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -224,7 +248,11 @@
       "confirmed",
       "confirming"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "deadline-noun",
@@ -233,7 +261,7 @@
     "type": "noun",
     "meaning": "hạn chót, thời hạn",
     "pronunciation": "/ˈdɛdlaɪn/",
-    "topic": "Office",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -255,7 +283,11 @@
     "wordFamily": [
       "deadlines"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "department-noun",
@@ -264,7 +296,7 @@
     "type": "noun",
     "meaning": "phòng ban, bộ phận",
     "pronunciation": "/dɪˈpɑːrtmənt/",
-    "topic": "Office",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -287,7 +319,11 @@
       "departments",
       "departmental"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "document-noun",
@@ -296,7 +332,7 @@
     "type": "noun",
     "meaning": "tài liệu, văn bản",
     "pronunciation": "/ˈdɒkjəmənt/",
-    "topic": "Office",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -320,7 +356,11 @@
       "documentation",
       "documented"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "equipment-noun",
@@ -329,7 +369,7 @@
     "type": "noun",
     "meaning": "thiết bị, trang thiết bị",
     "pronunciation": "/ɪˈkwɪpmənt/",
-    "topic": "Office",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -353,7 +393,11 @@
       "equipped",
       "equipping"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "extension-noun",
@@ -362,7 +406,7 @@
     "type": "noun",
     "meaning": "số máy nhánh; sự gia hạn",
     "pronunciation": "/ɪkˈstɛnʃən/",
-    "topic": "Office",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -386,7 +430,11 @@
       "extend",
       "extended"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "memo-noun",
@@ -395,7 +443,7 @@
     "type": "noun",
     "meaning": "bản ghi nhớ, thông báo nội bộ",
     "pronunciation": "/ˈmɛmoʊ/",
-    "topic": "Office",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -417,7 +465,11 @@
       "memos",
       "memorandum"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "notify-verb",
@@ -426,7 +478,7 @@
     "type": "verb",
     "meaning": "thông báo, báo tin",
     "pronunciation": "/ˈnoʊtɪfaɪ/",
-    "topic": "Office",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -450,7 +502,11 @@
       "notified",
       "notifying"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "postpone-verb",
@@ -459,7 +515,7 @@
     "type": "verb",
     "meaning": "hoãn lại, trì hoãn",
     "pronunciation": "/poʊstˈpoʊn/",
-    "topic": "Office",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -483,7 +539,11 @@
       "postponed",
       "postponing"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "procedure-noun",
@@ -492,7 +552,7 @@
     "type": "noun",
     "meaning": "thủ tục, quy trình",
     "pronunciation": "/prəˈsiːdʒər/",
-    "topic": "Office",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -515,7 +575,11 @@
       "procedures",
       "procedural"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "request-noun",
@@ -524,7 +588,7 @@
     "type": "noun",
     "meaning": "yêu cầu, đề nghị",
     "pronunciation": "/rɪˈkwɛst/",
-    "topic": "Office",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -548,7 +612,11 @@
       "requested",
       "requesting"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "schedule-noun",
@@ -557,7 +625,7 @@
     "type": "noun",
     "meaning": "lịch trình, thời gian biểu",
     "pronunciation": "/ˈʃɛdjuːl/",
-    "topic": "Office",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -581,7 +649,11 @@
       "scheduled",
       "scheduling"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "submit-verb",
@@ -590,7 +662,7 @@
     "type": "verb",
     "meaning": "nộp, gửi",
     "pronunciation": "/səbˈmɪt/",
-    "topic": "Office",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -614,7 +686,11 @@
       "submitted",
       "submitting"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "supervisor-noun",
@@ -623,7 +699,7 @@
     "type": "noun",
     "meaning": "người giám sát, quản lý",
     "pronunciation": "/ˈsuːpərvaɪzər/",
-    "topic": "Office",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -647,7 +723,11 @@
       "supervision",
       "supervisory"
     ],
-    "day": 1
+    "day": 1,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "available-adjective",
@@ -656,7 +736,7 @@
     "type": "adjective",
     "meaning": "có sẵn, sẵn có",
     "pronunciation": "/əˈveɪləbl/",
-    "topic": "Office",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -679,7 +759,11 @@
       "availability",
       "unavailable"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "charge-noun",
@@ -688,7 +772,7 @@
     "type": "noun",
     "meaning": "phí, chi phí",
     "pronunciation": "/tʃɑːrdʒ/",
-    "topic": "Office",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -713,7 +797,11 @@
       "charging",
       "chargeable"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "complaint-noun",
@@ -722,7 +810,7 @@
     "type": "noun",
     "meaning": "khiếu nại, phàn nàn",
     "pronunciation": "/kəmˈpleɪnt/",
-    "topic": "Office",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -746,7 +834,11 @@
       "complain",
       "complained"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "contract-noun",
@@ -755,7 +847,7 @@
     "type": "noun",
     "meaning": "hợp đồng",
     "pronunciation": "/ˈkɒntrækt/",
-    "topic": "Office",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -779,7 +871,11 @@
       "contractor",
       "contractual"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "customer-noun",
@@ -788,7 +884,7 @@
     "type": "noun",
     "meaning": "khách hàng",
     "pronunciation": "/ˈkʌstəmər/",
-    "topic": "Office",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -812,7 +908,11 @@
       "customize",
       "customized"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "defective-adjective",
@@ -821,7 +921,7 @@
     "type": "adjective",
     "meaning": "bị lỗi, bị hỏng",
     "pronunciation": "/dɪˈfɛktɪv/",
-    "topic": "Office",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -844,7 +944,11 @@
       "defects",
       "defectively"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "deliver-verb",
@@ -853,7 +957,7 @@
     "type": "verb",
     "meaning": "giao hàng, chuyển giao",
     "pronunciation": "/dɪˈlɪvər/",
-    "topic": "Office",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -877,7 +981,11 @@
       "delivered",
       "delivering"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "discount-noun",
@@ -886,7 +994,7 @@
     "type": "noun",
     "meaning": "giảm giá, chiết khấu",
     "pronunciation": "/ˈdɪskaʊnt/",
-    "topic": "Office",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -909,7 +1017,11 @@
       "discounts",
       "discounted"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "estimate-noun",
@@ -918,7 +1030,7 @@
     "type": "noun",
     "meaning": "ước tính, bản dự toán",
     "pronunciation": "/ˈɛstɪmət/",
-    "topic": "Office",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -943,7 +1055,11 @@
       "estimating",
       "estimation"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "exchange-verb",
@@ -952,7 +1068,7 @@
     "type": "verb",
     "meaning": "trao đổi, đổi",
     "pronunciation": "/ɪksˈtʃeɪndʒ/",
-    "topic": "Office",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -976,7 +1092,11 @@
       "exchanged",
       "exchanging"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "inventory-noun",
@@ -985,7 +1105,7 @@
     "type": "noun",
     "meaning": "hàng tồn kho, kiểm kê",
     "pronunciation": "/ˈɪnvəntɔːri/",
-    "topic": "Office",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1007,7 +1127,11 @@
     "wordFamily": [
       "inventories"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "invoice-noun",
@@ -1016,7 +1140,7 @@
     "type": "noun",
     "meaning": "hóa đơn",
     "pronunciation": "/ˈɪnvɔɪs/",
-    "topic": "Office",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1040,7 +1164,11 @@
       "invoiced",
       "invoicing"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "negotiate-verb",
@@ -1049,7 +1177,7 @@
     "type": "verb",
     "meaning": "đàm phán, thương lượng",
     "pronunciation": "/nɪˈɡoʊʃieɪt/",
-    "topic": "Office",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1073,7 +1201,11 @@
       "negotiator",
       "negotiable"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "payment-noun",
@@ -1082,7 +1214,7 @@
     "type": "noun",
     "meaning": "thanh toán, khoản thanh toán",
     "pronunciation": "/ˈpeɪmənt/",
-    "topic": "Office",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1107,7 +1239,11 @@
       "paid",
       "payable"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "purchase-verb",
@@ -1116,7 +1252,7 @@
     "type": "verb",
     "meaning": "mua, mua sắm",
     "pronunciation": "/ˈpɜːrtʃəs/",
-    "topic": "Office",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1141,7 +1277,11 @@
       "purchasing",
       "purchaser"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "receipt-noun",
@@ -1150,7 +1290,7 @@
     "type": "noun",
     "meaning": "biên lai, biên nhận",
     "pronunciation": "/rɪˈsiːt/",
-    "topic": "Office",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1172,7 +1312,11 @@
     "wordFamily": [
       "receipts"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "refund-noun",
@@ -1181,7 +1325,7 @@
     "type": "noun",
     "meaning": "tiền hoàn lại",
     "pronunciation": "/ˈriːfʌnd/",
-    "topic": "Office",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1206,7 +1350,11 @@
       "refunding",
       "refundable"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "shipment-noun",
@@ -1215,7 +1363,7 @@
     "type": "noun",
     "meaning": "lô hàng, chuyến hàng",
     "pronunciation": "/ˈʃɪpmənt/",
-    "topic": "Office",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1239,7 +1387,11 @@
       "shipped",
       "shipping"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "supplier-noun",
@@ -1248,7 +1400,7 @@
     "type": "noun",
     "meaning": "nhà cung cấp",
     "pronunciation": "/səˈplaɪər/",
-    "topic": "Office",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1272,7 +1424,11 @@
       "supplies",
       "supplied"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "warranty-noun",
@@ -1281,7 +1437,7 @@
     "type": "noun",
     "meaning": "bảo hành",
     "pronunciation": "/ˈwɒrənti/",
-    "topic": "Office",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1303,7 +1459,11 @@
     "wordFamily": [
       "warranties"
     ],
-    "day": 2
+    "day": 2,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "applicant-noun",
@@ -1312,7 +1472,7 @@
     "type": "noun",
     "meaning": "người nộp đơn, ứng viên",
     "pronunciation": "/ˈæplɪkənt/",
-    "topic": "Office",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1336,7 +1496,11 @@
       "apply",
       "application"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "benefit-noun",
@@ -1345,7 +1509,7 @@
     "type": "noun",
     "meaning": "lợi ích, phúc lợi",
     "pronunciation": "/ˈbɛnɪfɪt/",
-    "topic": "Office",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1369,7 +1533,11 @@
       "beneficial",
       "beneficiary"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "candidate-noun",
@@ -1378,7 +1546,7 @@
     "type": "noun",
     "meaning": "ứng viên",
     "pronunciation": "/ˈkændɪdeɪt/",
-    "topic": "Office",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1401,7 +1569,11 @@
       "candidates",
       "candidacy"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "evaluate-verb",
@@ -1410,7 +1582,7 @@
     "type": "verb",
     "meaning": "đánh giá",
     "pronunciation": "/ɪˈvæljueɪt/",
-    "topic": "Office",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1434,7 +1606,11 @@
       "evaluated",
       "evaluating"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "hire-verb",
@@ -1443,7 +1619,7 @@
     "type": "verb",
     "meaning": "thuê, tuyển dụng",
     "pronunciation": "/haɪər/",
-    "topic": "Office",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1467,7 +1643,11 @@
       "hiring",
       "hires"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "interview-noun",
@@ -1476,7 +1656,7 @@
     "type": "noun",
     "meaning": "cuộc phỏng vấn",
     "pronunciation": "/ˈɪntərvjuː/",
-    "topic": "Office",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1501,7 +1681,11 @@
       "interviewer",
       "interviewee"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "orientation-noun",
@@ -1510,7 +1694,7 @@
     "type": "noun",
     "meaning": "buổi định hướng, chương trình nhập môn",
     "pronunciation": "/ˌɔːriɛnˈteɪʃən/",
-    "topic": "Office",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1534,7 +1718,11 @@
       "orient",
       "oriented"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "position-noun",
@@ -1543,7 +1731,7 @@
     "type": "noun",
     "meaning": "vị trí, chức vụ",
     "pronunciation": "/pəˈzɪʃən/",
-    "topic": "Office",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1566,7 +1754,11 @@
       "positions",
       "positioned"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "probation-noun",
@@ -1575,7 +1767,7 @@
     "type": "noun",
     "meaning": "thời gian thử việc",
     "pronunciation": "/proʊˈbeɪʃən/",
-    "topic": "Office",
+    "topic": "Customer Service",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1596,7 +1788,11 @@
     "wordFamily": [
       "probationary"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "promotion-noun",
@@ -1605,7 +1801,7 @@
     "type": "noun",
     "meaning": "sự thăng chức; khuyến mãi",
     "pronunciation": "/prəˈmoʊʃən/",
-    "topic": "Office",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1630,7 +1826,11 @@
       "promoted",
       "promotional"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "qualification-noun",
@@ -1639,7 +1839,7 @@
     "type": "noun",
     "meaning": "trình độ, bằng cấp, năng lực",
     "pronunciation": "/ˌkwɒlɪfɪˈkeɪʃən/",
-    "topic": "Office",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1663,7 +1863,11 @@
       "qualify",
       "qualified"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "recruit-verb",
@@ -1672,7 +1876,7 @@
     "type": "verb",
     "meaning": "tuyển dụng",
     "pronunciation": "/rɪˈkruːt/",
-    "topic": "Office",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1696,7 +1900,11 @@
       "recruiter",
       "recruited"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "reference-noun",
@@ -1705,7 +1913,7 @@
     "type": "noun",
     "meaning": "tài liệu tham khảo; người giới thiệu",
     "pronunciation": "/ˈrɛfərəns/",
-    "topic": "Office",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1729,7 +1937,11 @@
       "refer",
       "referred"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "resign-verb",
@@ -1738,7 +1950,7 @@
     "type": "verb",
     "meaning": "từ chức, nghỉ việc",
     "pronunciation": "/rɪˈzaɪn/",
-    "topic": "Office",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1761,7 +1973,11 @@
       "resignation",
       "resigned"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "résumé-noun",
@@ -1770,7 +1986,7 @@
     "type": "noun",
     "meaning": "sơ yếu lý lịch",
     "pronunciation": "/ˈrɛzjʊmeɪ/",
-    "topic": "Office",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1791,7 +2007,11 @@
     "wordFamily": [
       "résumés"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "retire-verb",
@@ -1800,7 +2020,7 @@
     "type": "verb",
     "meaning": "nghỉ hưu",
     "pronunciation": "/rɪˈtaɪər/",
-    "topic": "Office",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1824,7 +2044,11 @@
       "retired",
       "retiree"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "salary-noun",
@@ -1833,7 +2057,7 @@
     "type": "noun",
     "meaning": "lương, tiền lương",
     "pronunciation": "/ˈsæləri/",
-    "topic": "Office",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1856,7 +2080,11 @@
       "salaries",
       "salaried"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "tenure-noun",
@@ -1865,7 +2093,7 @@
     "type": "noun",
     "meaning": "nhiệm kỳ, thời gian giữ chức",
     "pronunciation": "/ˈtɛnjər/",
-    "topic": "Office",
+    "topic": "Purchasing & Procurement",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1887,7 +2115,11 @@
       "tenured",
       "tenures"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "vacancy-noun",
@@ -1896,7 +2128,7 @@
     "type": "noun",
     "meaning": "vị trí tuyển dụng, chỗ trống",
     "pronunciation": "/ˈveɪkənsi/",
-    "topic": "Office",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1918,7 +2150,11 @@
       "vacancies",
       "vacant"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "workforce-noun",
@@ -1927,7 +2163,7 @@
     "type": "noun",
     "meaning": "lực lượng lao động",
     "pronunciation": "/ˈwɜːrkfɔːrs/",
-    "topic": "Office",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1948,7 +2184,11 @@
     "wordFamily": [
       "workforces"
     ],
-    "day": 3
+    "day": 3,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "accommodation-noun",
@@ -1957,7 +2197,7 @@
     "type": "noun",
     "meaning": "chỗ ở, nơi lưu trú",
     "pronunciation": "/əˌkɒməˈdeɪʃən/",
-    "topic": "Office",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1981,7 +2221,11 @@
       "accommodate",
       "accommodating"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "boarding-noun",
@@ -1990,7 +2234,7 @@
     "type": "noun",
     "meaning": "sự lên máy bay/tàu",
     "pronunciation": "/ˈbɔːrdɪŋ/",
-    "topic": "Office",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2012,7 +2256,11 @@
       "board",
       "boarded"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "cancellation-noun",
@@ -2021,7 +2269,7 @@
     "type": "noun",
     "meaning": "sự hủy bỏ",
     "pronunciation": "/ˌkænsəˈleɪʃən/",
-    "topic": "Office",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2045,7 +2293,11 @@
       "cancelled",
       "cancellations"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "check-in-noun",
@@ -2054,7 +2306,7 @@
     "type": "noun",
     "meaning": "thủ tục đăng ký (khách sạn/sân bay)",
     "pronunciation": "/ˈtʃɛk ɪn/",
-    "topic": "Office",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2077,7 +2329,11 @@
       "check in",
       "checked in"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "commute-verb",
@@ -2086,7 +2342,7 @@
     "type": "verb",
     "meaning": "đi lại hằng ngày (đi làm)",
     "pronunciation": "/kəˈmjuːt/",
-    "topic": "Office",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2110,7 +2366,11 @@
       "commuting",
       "commuted"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "customs-noun",
@@ -2119,7 +2379,7 @@
     "type": "noun",
     "meaning": "hải quan",
     "pronunciation": "/ˈkʌstəmz/",
-    "topic": "Office",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2141,7 +2401,11 @@
     "wordFamily": [
       "custom"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "delay-noun",
@@ -2150,7 +2414,7 @@
     "type": "noun",
     "meaning": "sự trì hoãn, sự chậm trễ",
     "pronunciation": "/dɪˈleɪ/",
-    "topic": "Office",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2174,7 +2438,11 @@
       "delayed",
       "delaying"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "departure-noun",
@@ -2183,7 +2451,7 @@
     "type": "noun",
     "meaning": "sự khởi hành",
     "pronunciation": "/dɪˈpɑːrtʃər/",
-    "topic": "Office",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2207,7 +2475,11 @@
       "depart",
       "departed"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "destination-noun",
@@ -2216,7 +2488,7 @@
     "type": "noun",
     "meaning": "điểm đến",
     "pronunciation": "/ˌdɛstɪˈneɪʃən/",
-    "topic": "Office",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2239,7 +2511,11 @@
       "destinations",
       "destined"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "fare-noun",
@@ -2248,7 +2524,7 @@
     "type": "noun",
     "meaning": "giá vé, tiền vé",
     "pronunciation": "/fɛr/",
-    "topic": "Office",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2270,7 +2546,11 @@
     "wordFamily": [
       "fares"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "itinerary-noun",
@@ -2279,7 +2559,7 @@
     "type": "noun",
     "meaning": "lịch trình, hành trình",
     "pronunciation": "/aɪˈtɪnərɛri/",
-    "topic": "Office",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2301,7 +2581,11 @@
     "wordFamily": [
       "itineraries"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "luggage-noun",
@@ -2310,7 +2594,7 @@
     "type": "noun",
     "meaning": "hành lý",
     "pronunciation": "/ˈlʌɡɪdʒ/",
-    "topic": "Office",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2332,7 +2616,11 @@
     "wordFamily": [
       "luggage"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "passport-noun",
@@ -2341,7 +2629,7 @@
     "type": "noun",
     "meaning": "hộ chiếu",
     "pronunciation": "/ˈpæspɔːrt/",
-    "topic": "Office",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2363,7 +2651,11 @@
     "wordFamily": [
       "passports"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "platform-noun",
@@ -2372,7 +2664,7 @@
     "type": "noun",
     "meaning": "sân ga, bến tàu",
     "pronunciation": "/ˈplætfɔːrm/",
-    "topic": "Office",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2394,7 +2686,11 @@
     "wordFamily": [
       "platforms"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "reservation-noun",
@@ -2403,7 +2699,7 @@
     "type": "noun",
     "meaning": "đặt chỗ, đặt phòng",
     "pronunciation": "/ˌrɛzərˈveɪʃən/",
-    "topic": "Office",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2427,7 +2723,11 @@
       "reserve",
       "reserved"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "round-trip-adjective",
@@ -2436,7 +2736,7 @@
     "type": "adjective",
     "meaning": "khứ hồi",
     "pronunciation": "/ˌraʊndˈtrɪp/",
-    "topic": "Office",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2456,7 +2756,11 @@
     "wordFamily": [
       "round trip"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "route-noun",
@@ -2465,7 +2769,7 @@
     "type": "noun",
     "meaning": "tuyến đường, lộ trình",
     "pronunciation": "/ruːt/",
-    "topic": "Office",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2489,7 +2793,11 @@
       "routed",
       "routing"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "terminal-noun",
@@ -2498,7 +2806,7 @@
     "type": "noun",
     "meaning": "nhà ga, sân bay",
     "pronunciation": "/ˈtɜːrmɪnl/",
-    "topic": "Office",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2520,7 +2828,11 @@
     "wordFamily": [
       "terminals"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "transfer-noun",
@@ -2529,7 +2841,7 @@
     "type": "noun",
     "meaning": "sự chuyển, sự di chuyển",
     "pronunciation": "/ˈtrænsfɜːr/",
-    "topic": "Office",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2553,7 +2865,11 @@
       "transferred",
       "transferring"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "transit-noun",
@@ -2562,7 +2878,7 @@
     "type": "noun",
     "meaning": "quá cảnh, vận chuyển",
     "pronunciation": "/ˈtrænzɪt/",
-    "topic": "Office",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2585,7 +2901,11 @@
       "transits",
       "transition"
     ],
-    "day": 4
+    "day": 4,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "allergy-noun",
@@ -2594,7 +2914,7 @@
     "type": "noun",
     "meaning": "dị ứng",
     "pronunciation": "/ˈælɜːrdʒi/",
-    "topic": "Office",
+    "topic": "Office & Administration",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -2617,7 +2937,11 @@
       "allergic",
       "allergen"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "appointment-noun",
@@ -2626,7 +2950,7 @@
     "type": "noun",
     "meaning": "cuộc hẹn, lịch hẹn",
     "pronunciation": "/əˈpɔɪntmənt/",
-    "topic": "Office",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2650,7 +2974,11 @@
       "appoint",
       "appointed"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "checkup-noun",
@@ -2659,7 +2987,7 @@
     "type": "noun",
     "meaning": "khám sức khỏe định kỳ",
     "pronunciation": "/ˈtʃɛkʌp/",
-    "topic": "Office",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2681,7 +3009,11 @@
       "checkups",
       "check up"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "clinic-noun",
@@ -2690,7 +3022,7 @@
     "type": "noun",
     "meaning": "phòng khám",
     "pronunciation": "/ˈklɪnɪk/",
-    "topic": "Office",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2714,7 +3046,11 @@
       "clinical",
       "clinician"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "consultation-noun",
@@ -2723,7 +3059,7 @@
     "type": "noun",
     "meaning": "buổi tư vấn, sự tham vấn",
     "pronunciation": "/ˌkɒnsəlˈteɪʃən/",
-    "topic": "Office",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2747,7 +3083,11 @@
       "consult",
       "consultant"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "diagnose-verb",
@@ -2756,7 +3096,7 @@
     "type": "verb",
     "meaning": "chẩn đoán",
     "pronunciation": "/ˌdaɪəɡˈnoʊz/",
-    "topic": "Office",
+    "topic": "Travel & Transportation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2779,7 +3119,11 @@
       "diagnosed",
       "diagnostic"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "dose-noun",
@@ -2788,7 +3132,7 @@
     "type": "noun",
     "meaning": "liều lượng",
     "pronunciation": "/doʊs/",
-    "topic": "Office",
+    "topic": "Hotels & Accommodation",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -2811,7 +3155,11 @@
       "dosage",
       "overdose"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "emergency-noun",
@@ -2820,7 +3168,7 @@
     "type": "noun",
     "meaning": "tình huống khẩn cấp",
     "pronunciation": "/ɪˈmɜːrdʒənsi/",
-    "topic": "Office",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2843,7 +3191,11 @@
       "emergencies",
       "emergent"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "insurance-noun",
@@ -2852,7 +3204,7 @@
     "type": "noun",
     "meaning": "bảo hiểm",
     "pronunciation": "/ɪnˈʃʊrəns/",
-    "topic": "Office",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2876,7 +3228,11 @@
       "insured",
       "insurer"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "medication-noun",
@@ -2885,7 +3241,7 @@
     "type": "noun",
     "meaning": "thuốc, dược phẩm",
     "pronunciation": "/ˌmɛdɪˈkeɪʃən/",
-    "topic": "Office",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2908,7 +3264,11 @@
       "medicate",
       "medicated"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "patient-noun",
@@ -2917,7 +3277,7 @@
     "type": "noun",
     "meaning": "bệnh nhân",
     "pronunciation": "/ˈpeɪʃənt/",
-    "topic": "Office",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2941,7 +3301,11 @@
       "patience",
       "patiently"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "pharmacy-noun",
@@ -2950,7 +3314,7 @@
     "type": "noun",
     "meaning": "nhà thuốc, hiệu thuốc",
     "pronunciation": "/ˈfɑːrməsi/",
-    "topic": "Office",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2974,7 +3338,11 @@
       "pharmacist",
       "pharmaceutical"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "prescription-noun",
@@ -2983,7 +3351,7 @@
     "type": "noun",
     "meaning": "đơn thuốc",
     "pronunciation": "/prɪˈskrɪpʃən/",
-    "topic": "Office",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3006,7 +3374,11 @@
       "prescribe",
       "prescribed"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "recover-verb",
@@ -3015,7 +3387,7 @@
     "type": "verb",
     "meaning": "hồi phục, phục hồi",
     "pronunciation": "/rɪˈkʌvər/",
-    "topic": "Office",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3039,7 +3411,11 @@
       "recovered",
       "recovering"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "referral-noun",
@@ -3048,7 +3424,7 @@
     "type": "noun",
     "meaning": "sự giới thiệu, chuyển tuyến",
     "pronunciation": "/rɪˈfɜːrəl/",
-    "topic": "Office",
+    "topic": "Insurance & Risk",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -3071,7 +3447,11 @@
       "refer",
       "referred"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "specialist-noun",
@@ -3080,7 +3460,7 @@
     "type": "noun",
     "meaning": "chuyên gia, bác sĩ chuyên khoa",
     "pronunciation": "/ˈspɛʃəlɪst/",
-    "topic": "Office",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3105,7 +3485,11 @@
       "specialized",
       "specialization"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "surgery-noun",
@@ -3114,7 +3498,7 @@
     "type": "noun",
     "meaning": "phẫu thuật",
     "pronunciation": "/ˈsɜːrdʒəri/",
-    "topic": "Office",
+    "topic": "Manufacturing & Production",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -3137,7 +3521,11 @@
       "surgeon",
       "surgical"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "symptom-noun",
@@ -3146,7 +3534,7 @@
     "type": "noun",
     "meaning": "triệu chứng",
     "pronunciation": "/ˈsɪmptəm/",
-    "topic": "Office",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3168,7 +3556,11 @@
       "symptoms",
       "symptomatic"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "therapy-noun",
@@ -3177,7 +3569,7 @@
     "type": "noun",
     "meaning": "liệu pháp, trị liệu",
     "pronunciation": "/ˈθɛrəpi/",
-    "topic": "Office",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3200,7 +3592,11 @@
       "therapist",
       "therapeutic"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "treatment-noun",
@@ -3209,7 +3605,7 @@
     "type": "noun",
     "meaning": "điều trị, phương pháp chữa trị",
     "pronunciation": "/ˈtriːtmənt/",
-    "topic": "Office",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3233,6 +3629,10 @@
       "treat",
       "treated"
     ],
-    "day": 5
+    "day": 5,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

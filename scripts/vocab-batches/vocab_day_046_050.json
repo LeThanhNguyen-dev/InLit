@@ -1,43 +1,12 @@
 [
   {
-    "id": "bill of lading-phrase",
-    "word": "bill of lading",
-    "baseWord": "bill",
-    "type": "phrase",
-    "meaning": "vận đơn đường biển hoặc đường bộ",
-    "pronunciation": "/ˌbɪl əv ˈleɪdɪŋ/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The carrier issued a bill of lading listing all the loaded items.",
-    "exampleVi": "Người vận chuyển đã phát hành một vận đơn liệt kê tất cả các mặt hàng được xếp lên.",
-    "collocations": [
-      "ocean bill of lading",
-      "sign the bill of lading",
-      "original bill of lading"
-    ],
-    "synonyms": [
-      "waybill",
-      "manifest"
-    ],
-    "wordFamily": [
-      "bill",
-      "lade"
-    ],
-    "day": 46
-  },
-  {
     "id": "carton-noun",
     "word": "carton",
     "baseWord": "carton",
     "type": "noun",
     "meaning": "hộp giấy cứng, thùng các-tông",
     "pronunciation": "/ˈkɑːrtn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -59,7 +28,11 @@
     "wordFamily": [
       "carton"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "consignee-noun",
@@ -68,7 +41,7 @@
     "type": "noun",
     "meaning": "người nhận hàng ký gửi, người nhận hàng",
     "pronunciation": "/ˌkɑːnsaɪˈniː/",
-    "topic": "Shipping & Logistics",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -92,7 +65,11 @@
       "consignor",
       "consignment"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "consignment-noun",
@@ -101,7 +78,7 @@
     "type": "noun",
     "meaning": "lô hàng ký gửi, sự ký gửi hàng hóa",
     "pronunciation": "/kənˈsaɪnmənt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -126,7 +103,11 @@
       "consignor",
       "consignee"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "consignor-noun",
@@ -135,7 +116,7 @@
     "type": "noun",
     "meaning": "người gửi hàng, người ký gửi",
     "pronunciation": "/kənˈsaɪnər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Project Management",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -159,7 +140,11 @@
       "consignee",
       "consignment"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "container-noun",
@@ -168,7 +153,7 @@
     "type": "noun",
     "meaning": "thùng chứa, công-te-nơ đựng hàng",
     "pronunciation": "/kənˈteɪnər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -192,7 +177,11 @@
       "contain",
       "containment"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "containerization-noun",
@@ -201,7 +190,7 @@
     "type": "noun",
     "meaning": "sự công-te-nơ hóa, việc đóng hàng vào công-te-nơ",
     "pronunciation": "/kənˌteɪnəraɪˈzeɪʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Research & Reports",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -223,7 +212,45 @@
       "container",
       "contain"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "discipline-noun",
+    "word": "discipline",
+    "baseWord": "discipline",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: discipline",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word discipline in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu discipline trong email cong viec.",
+    "collocations": [
+      "discipline review",
+      "discipline process",
+      "discipline update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "discipline"
+    ],
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "distribute-verb",
@@ -232,7 +259,7 @@
     "type": "verb",
     "meaning": "phân phối, phân phát hàng hóa",
     "pronunciation": "/dɪˈstrɪbjuːt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -256,7 +283,11 @@
       "distributor",
       "distributive"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "distribution-noun",
@@ -265,7 +296,7 @@
     "type": "noun",
     "meaning": "sự phân phối, việc giao hàng khắp nơi",
     "pronunciation": "/ˌdɪstrɪˈbjuːʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -289,7 +320,11 @@
       "distribute",
       "distributor"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "forwarder-noun",
@@ -298,7 +333,7 @@
     "type": "noun",
     "meaning": "đại lý giao nhận, người chuyển tiếp",
     "pronunciation": "/ˈfɔːrwərdər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -320,7 +355,11 @@
       "forward",
       "forwarding"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "fulfillment-noun",
@@ -329,7 +368,7 @@
     "type": "noun",
     "meaning": "sự hoàn tất đơn hàng, sự đáp ứng, hoàn thành",
     "pronunciation": "/fʊlˈfɪlmənt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -353,7 +392,11 @@
       "fulfilled",
       "fulfilling"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "package-noun",
@@ -362,7 +405,7 @@
     "type": "noun",
     "meaning": "gói hàng, kiện hàng, bưu kiện",
     "pronunciation": "/ˈpækɪdʒ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -387,7 +430,11 @@
       "packer",
       "packaging"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "replenish-verb",
@@ -396,7 +443,7 @@
     "type": "verb",
     "meaning": "làm đầy lại, bổ sung (hàng tồn kho hoặc nguồn cung)",
     "pronunciation": "/rɪˈplenɪʃ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -418,7 +465,11 @@
     "wordFamily": [
       "replenishment"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "shrink-wrap-noun",
@@ -427,7 +478,7 @@
     "type": "noun",
     "meaning": "màng bọc co nhiệt (bảo vệ hàng hóa trên pallet)",
     "pronunciation": "/ˈʃrɪŋk ræp/",
-    "topic": "Shipping & Logistics",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -450,7 +501,11 @@
       "wrapper",
       "wrapping"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "stevedore-noun",
@@ -459,7 +514,7 @@
     "type": "noun",
     "meaning": "công nhân bốc xếp ở cảng, người dỡ hàng",
     "pronunciation": "/ˈstiːvədɔːr/",
-    "topic": "Shipping & Logistics",
+    "topic": "Performance Review",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -481,7 +536,11 @@
     "wordFamily": [
       "stevedoring"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "stockout-noun",
@@ -490,7 +549,7 @@
     "type": "noun",
     "meaning": "sự hết hàng, tình trạng hết hàng trong kho",
     "pronunciation": "/ˈstɑːkaʊt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -512,7 +571,11 @@
     "wordFamily": [
       "stock"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "tracking-noun",
@@ -521,7 +584,7 @@
     "type": "noun",
     "meaning": "sự theo dõi lộ trình hàng hóa/giao dịch",
     "pronunciation": "/ˈtrækɪŋ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -544,7 +607,11 @@
       "track",
       "tracker"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "transportation-noun",
@@ -553,7 +620,7 @@
     "type": "noun",
     "meaning": "sự vận chuyển, hệ thống giao thông vận tải",
     "pronunciation": "/ˌtrænspɔːrˈteɪʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -577,7 +644,11 @@
       "transport",
       "transporter"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "waybill-noun",
@@ -586,7 +657,7 @@
     "type": "noun",
     "meaning": "vận đơn, giấy gửi hàng",
     "pronunciation": "/ˈweɪbɪl/",
-    "topic": "Shipping & Logistics",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -607,7 +678,11 @@
     "wordFamily": [
       "waybill"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "wharf-noun",
@@ -616,7 +691,7 @@
     "type": "noun",
     "meaning": "cầu cảng, bến tàu",
     "pronunciation": "/wɔːrf/",
-    "topic": "Shipping & Logistics",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -638,7 +713,11 @@
     "wordFamily": [
       "wharfage"
     ],
-    "day": 46
+    "day": 46,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "backorder-noun",
@@ -647,7 +726,7 @@
     "type": "noun",
     "meaning": "đơn hàng nợ (sẽ giao khi có hàng lại)",
     "pronunciation": "/ˈbækɔːrdər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -667,7 +746,11 @@
     "wordFamily": [
       "order"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "barge-noun",
@@ -676,7 +759,7 @@
     "type": "noun",
     "meaning": "sà lan (thuyền lớn đáy bằng để chở hàng trên sông)",
     "pronunciation": "/bɑːrdʒ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Meetings & Scheduling",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -697,7 +780,11 @@
     "wordFamily": [
       "barge"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "declare-verb",
@@ -706,7 +793,7 @@
     "type": "verb",
     "meaning": "khai báo hàng hóa (hải quan), tuyên bố",
     "pronunciation": "/dɪˈkler/",
-    "topic": "Shipping & Logistics",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -729,7 +816,45 @@
       "declaration",
       "declaratory"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "disciplinary-adjective",
+    "word": "disciplinary",
+    "baseWord": "disciplin",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: disciplinary",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word disciplinary in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu disciplinary trong email cong viec.",
+    "collocations": [
+      "disciplinary review",
+      "disciplinary process",
+      "disciplinary update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "disciplinary"
+    ],
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "dock-noun",
@@ -738,7 +863,7 @@
     "type": "noun",
     "meaning": "bến bốc dỡ hàng, bến tàu",
     "pronunciation": "/dɑːk/",
-    "topic": "Shipping & Logistics",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -762,7 +887,11 @@
       "dockyard",
       "undock"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "duty-noun",
@@ -771,7 +900,7 @@
     "type": "noun",
     "meaning": "thuế hải quan, nghĩa vụ, nhiệm vụ",
     "pronunciation": "/ˈduːti/",
-    "topic": "Shipping & Logistics",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -795,7 +924,11 @@
       "dutiful",
       "duty-free"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "export-verb",
@@ -804,7 +937,7 @@
     "type": "verb",
     "meaning": "xuất khẩu",
     "pronunciation": "/ˈekspɔːrt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -827,7 +960,11 @@
       "exporter",
       "exportation"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "freighter-noun",
@@ -836,7 +973,7 @@
     "type": "noun",
     "meaning": "tàu chở hàng, máy bay chở hàng",
     "pronunciation": "/ˈfreɪtər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -857,7 +994,11 @@
     "wordFamily": [
       "freight"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "harbor-noun",
@@ -866,7 +1007,7 @@
     "type": "noun",
     "meaning": "hải cảng, vũng tàu đậu",
     "pronunciation": "/ˈhɑːrbər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -889,7 +1030,11 @@
     "wordFamily": [
       "harbor"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "import-verb",
@@ -898,7 +1043,7 @@
     "type": "verb",
     "meaning": "nhập khẩu",
     "pronunciation": "/ˈɪmpɔːrt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -921,37 +1066,11 @@
       "importer",
       "importation"
     ],
-    "day": 47
-  },
-  {
-    "id": "lead time-phrase",
-    "word": "lead time",
-    "baseWord": "lead",
-    "type": "phrase",
-    "meaning": "thời gian từ lúc đặt hàng đến lúc nhận hàng",
-    "pronunciation": "/ˈliːd taɪm/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Ordering from overseas suppliers usually increases the lead time.",
-    "exampleVi": "Đặt hàng từ các nhà cung cấp nước ngoài thường làm tăng thời gian chờ nhận hàng.",
-    "collocations": [
-      "reduce lead time",
-      "average lead time",
-      "delivery lead time"
-    ],
-    "synonyms": [
-      "waiting time",
-      "latency"
-    ],
-    "wordFamily": [
-      "lead"
-    ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "lift-verb",
@@ -960,7 +1079,7 @@
     "type": "verb",
     "meaning": "nâng lên, nhấc lên, bãi bỏ (luật lệ/lệnh cấm)",
     "pronunciation": "/lɪft/",
-    "topic": "Shipping & Logistics",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -982,7 +1101,11 @@
     "wordFamily": [
       "lifter"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "load-verb",
@@ -991,7 +1114,7 @@
     "type": "verb",
     "meaning": "bốc hàng, xếp hàng lên xe/tàu",
     "pronunciation": "/loʊd/",
-    "topic": "Shipping & Logistics",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1016,7 +1139,11 @@
       "unload",
       "payload"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "port-noun",
@@ -1025,7 +1152,7 @@
     "type": "noun",
     "meaning": "cảng biển, bến cảng, cổng kết nối máy tính",
     "pronunciation": "/pɔːrt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1049,7 +1176,11 @@
       "portage",
       "seaport"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "replenishment-noun",
@@ -1058,7 +1189,7 @@
     "type": "noun",
     "meaning": "sự bổ sung, việc nhập thêm hàng",
     "pronunciation": "/rɪˈplenɪʃmənt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1079,7 +1210,11 @@
     "wordFamily": [
       "replenish"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "sourcing-noun",
@@ -1088,7 +1223,7 @@
     "type": "noun",
     "meaning": "việc tìm kiếm nguồn cung ứng hàng hóa",
     "pronunciation": "/ˈsɔːrsɪŋ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1111,7 +1246,11 @@
       "source",
       "outsource"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "stack-verb",
@@ -1143,7 +1282,11 @@
       "stacker",
       "stacked"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "tanker-noun",
@@ -1152,7 +1295,7 @@
     "type": "noun",
     "meaning": "tàu chở dầu, xe bồn",
     "pronunciation": "/ˈtæŋkər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1173,7 +1316,11 @@
     "wordFamily": [
       "tank"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "tariff-noun",
@@ -1182,7 +1329,7 @@
     "type": "noun",
     "meaning": "thuế quan, thuế xuất nhập khẩu, biểu giá",
     "pronunciation": "/ˈtærɪf/",
-    "topic": "Shipping & Logistics",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1205,7 +1352,11 @@
     "wordFamily": [
       "tariff"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "transporter-noun",
@@ -1214,7 +1365,7 @@
     "type": "noun",
     "meaning": "hãng vận tải, người vận chuyển, thiết bị vận chuyển",
     "pronunciation": "/trænˈspɔːrtər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1237,7 +1388,11 @@
       "transport",
       "transportation"
     ],
-    "day": 47
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "unload-verb",
@@ -1246,7 +1401,7 @@
     "type": "verb",
     "meaning": "dỡ hàng xuống (khỏi tàu/xe)",
     "pronunciation": "/ˌʌnˈloʊd/",
-    "topic": "Shipping & Logistics",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1270,100 +1425,11 @@
       "load",
       "loader"
     ],
-    "day": 47
-  },
-  {
-    "id": "customs broker-phrase",
-    "word": "customs broker",
-    "baseWord": "broker",
-    "type": "phrase",
-    "meaning": "nhân viên đại lý hải quan, người môi giới hải quan",
-    "pronunciation": "/ˈkʌstəmz ˈbroʊkər/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our customs broker helped us resolve the tariff dispute quickly.",
-    "exampleVi": "Người môi giới hải quan của chúng tôi đã giúp chúng tôi giải quyết tranh chấp thuế quan một cách nhanh chóng.",
-    "collocations": [
-      "licensed customs broker",
-      "hire a customs broker",
-      "customs broker fee"
-    ],
-    "synonyms": [
-      "customs agent",
-      "import broker"
-    ],
-    "wordFamily": [
-      "broker",
-      "brokerage"
-    ],
-    "day": 48
-  },
-  {
-    "id": "customs duty-phrase",
-    "word": "customs duty",
-    "baseWord": "duty",
-    "type": "phrase",
-    "meaning": "thuế hải quan, thuế xuất nhập khẩu hàng hóa",
-    "pronunciation": "/ˈkʌstəmz ˈduːti/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The import of luxury goods attracts a high customs duty.",
-    "exampleVi": "Việc nhập khẩu hàng hóa xa xỉ phải chịu thuế hải quan cao.",
-    "collocations": [
-      "pay customs duty",
-      "exempt from customs duty",
-      "customs duty rate"
-    ],
-    "synonyms": [
-      "import tax",
-      "tariff"
-    ],
-    "wordFamily": [
-      "duty"
-    ],
-    "day": 48
-  },
-  {
-    "id": "delivery van-phrase",
-    "word": "delivery van",
-    "baseWord": "deliver",
-    "type": "phrase",
-    "meaning": "xe tải giao hàng, xe van chuyển phát",
-    "pronunciation": "/dɪˈlɪvəri væn/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "The delivery van was blocked in traffic on the main avenue.",
-    "exampleVi": "Chiếc xe tải giao hàng đã bị tắc nghẽn giao thông trên đại lộ chính.",
-    "collocations": [
-      "drive a delivery van",
-      "electric delivery van",
-      "park a delivery van"
-    ],
-    "synonyms": [
-      "delivery truck",
-      "carrier vehicle"
-    ],
-    "wordFamily": [
-      "deliver",
-      "delivery"
-    ],
-    "day": 48
+    "day": 47,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "dimension-noun",
@@ -1372,7 +1438,7 @@
     "type": "noun",
     "meaning": "kích thước (chiều dài, rộng, cao), khía cạnh",
     "pronunciation": "/daɪˈmenʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1394,78 +1460,88 @@
     "wordFamily": [
       "dimensional"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "freight forwarder-phrase",
-    "word": "freight forwarder",
-    "baseWord": "forward",
-    "type": "phrase",
-    "meaning": "đơn vị giao nhận vận tải, công ty hậu cần bên thứ ba",
-    "pronunciation": "/ˈfreɪt fɔːrwərdər/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The freight forwarder arranged for the customs clearance in New York.",
-    "exampleVi": "Đơn vị giao nhận vận tải đã sắp xếp việc thông quan hải quan tại New York.",
-    "collocations": [
-      "reliable freight forwarder",
-      "freight forwarder agent",
-      "hire a freight forwarder"
-    ],
-    "synonyms": [
-      "forwarding agent",
-      "shipping broker"
-    ],
-    "wordFamily": [
-      "forward",
-      "forwarder"
-    ],
-    "day": 48
-  },
-  {
-    "id": "gross weight-phrase",
-    "word": "gross weight",
-    "baseWord": "weight",
-    "type": "phrase",
-    "meaning": "trọng lượng toàn phần (gồm cả bao bì, vỏ hộp)",
-    "pronunciation": "/ɡroʊs weɪt/",
-    "topic": "Shipping & Logistics",
+    "id": "discontinue-noun",
+    "word": "discontinue",
+    "baseWord": "discontinue",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: discontinue",
+    "pronunciation": "",
+    "topic": "Health & Safety",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The gross weight of the cargo includes the wooden pallet and packaging.",
-    "exampleVi": "Trọng lượng toàn phần của hàng hóa bao gồm cả pallet gỗ và bao bì đóng gói.",
+    "example": "The manager used the word discontinue in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu discontinue trong email cong viec.",
     "collocations": [
-      "calculate gross weight",
-      "maximum gross weight",
-      "gross weight ticket"
+      "discontinue review",
+      "discontinue process",
+      "discontinue update"
     ],
     "synonyms": [
-      "total weight"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "weight",
-      "gross"
+      "discontinue"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "loading dock-phrase",
-    "word": "loading dock",
-    "baseWord": "load",
-    "type": "phrase",
-    "meaning": "khu vực bốc xếp hàng, thềm bốc dỡ hàng",
-    "pronunciation": "/ˈloʊdɪŋ dɑːk/",
-    "topic": "Shipping & Logistics",
+    "id": "discounted-adjective",
+    "word": "discounted",
+    "baseWord": "discount",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: discounted",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word discounted in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu discounted trong email cong viec.",
+    "collocations": [
+      "discounted review",
+      "discounted process",
+      "discounted update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "discounted"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "discretionary-adjective",
+    "word": "discretionary",
+    "baseWord": "discretion",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: discretionary",
+    "pronunciation": "",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1473,22 +1549,198 @@
       "Part 3",
       "Part 5"
     ],
-    "example": "Please move the truck to the loading dock behind the main building.",
-    "exampleVi": "Vui lòng di chuyển xe tải đến thềm bốc dỡ hàng phía sau tòa nhà chính.",
+    "example": "The manager used the word discretionary in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu discretionary trong email cong viec.",
     "collocations": [
-      "warehouse loading dock",
-      "loading dock manager",
-      "deliver to the loading dock"
+      "discretionary review",
+      "discretionary process",
+      "discretionary update"
     ],
     "synonyms": [
-      "loading bay",
-      "cargo platform"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "load",
-      "dock"
+      "discretionary"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "dispatch-noun",
+    "word": "dispatch",
+    "baseWord": "dispatch",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: dispatch",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word dispatch in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu dispatch trong email cong viec.",
+    "collocations": [
+      "dispatch review",
+      "dispatch process",
+      "dispatch update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "dispatch"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "disposal-adjective",
+    "word": "disposal",
+    "baseWord": "dispos",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: disposal",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word disposal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu disposal trong email cong viec.",
+    "collocations": [
+      "disposal review",
+      "disposal process",
+      "disposal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "disposal"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "dispose-noun",
+    "word": "dispose",
+    "baseWord": "dispose",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: dispose",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word dispose in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu dispose trong email cong viec.",
+    "collocations": [
+      "dispose review",
+      "dispose process",
+      "dispose update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "dispose"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "distinct-noun",
+    "word": "distinct",
+    "baseWord": "distinct",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: distinct",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word distinct in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu distinct trong email cong viec.",
+    "collocations": [
+      "distinct review",
+      "distinct process",
+      "distinct update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "distinct"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "distinction-noun",
+    "word": "distinction",
+    "baseWord": "distinc",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: distinction",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word distinction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu distinction trong email cong viec.",
+    "collocations": [
+      "distinction review",
+      "distinction process",
+      "distinction update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "distinction"
+    ],
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "mass-noun",
@@ -1497,7 +1749,7 @@
     "type": "noun",
     "meaning": "khối lượng vật lý, số đông, thánh lễ",
     "pronunciation": "/mæs/",
-    "topic": "Shipping & Logistics",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1520,7 +1772,11 @@
       "massive",
       "massively"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "measure-verb",
@@ -1529,7 +1785,7 @@
     "type": "verb",
     "meaning": "đo lường, định lượng",
     "pronunciation": "/ˈmeʒər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1552,7 +1808,11 @@
       "measurement",
       "measurable"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "measurement-noun",
@@ -1561,7 +1821,7 @@
     "type": "noun",
     "meaning": "sự đo lường, kích thước đo được",
     "pronunciation": "/ˈmeʒərmənt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1584,37 +1844,11 @@
       "measure",
       "measurable"
     ],
-    "day": 48
-  },
-  {
-    "id": "net weight-phrase",
-    "word": "net weight",
-    "baseWord": "weight",
-    "type": "phrase",
-    "meaning": "trọng lượng tịnh (chỉ tính riêng hàng hóa bên trong)",
-    "pronunciation": "/net weɪt/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The net weight of the chemical product is precisely fifty kilograms.",
-    "exampleVi": "Trọng lượng tịnh của sản phẩm hóa chất chính xác là năm mươi ki-lô-gam.",
-    "collocations": [
-      "indicate net weight",
-      "net weight vs gross weight",
-      "actual net weight"
-    ],
-    "synonyms": [
-      "pure weight"
-    ],
-    "wordFamily": [
-      "weight",
-      "net"
-    ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "packing-noun",
@@ -1623,7 +1857,7 @@
     "type": "noun",
     "meaning": "vật liệu đóng gói, sự đóng gói",
     "pronunciation": "/ˈpækɪŋ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1648,7 +1882,11 @@
       "package",
       "packer"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "payload-noun",
@@ -1657,7 +1895,7 @@
     "type": "noun",
     "meaning": "trọng tải hữu ích, lượng hàng hóa hữu ích mang theo",
     "pronunciation": "/ˈpeɪloʊd/",
-    "topic": "Shipping & Logistics",
+    "topic": "Product Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1679,7 +1917,11 @@
       "load",
       "unload"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "scale-noun",
@@ -1688,7 +1930,7 @@
     "type": "noun",
     "meaning": "cái cân, quy mô, tỷ lệ",
     "pronunciation": "/skeɪl/",
-    "topic": "Shipping & Logistics",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1711,7 +1953,11 @@
     "wordFamily": [
       "scale"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "stow-verb",
@@ -1720,7 +1966,7 @@
     "type": "verb",
     "meaning": "xếp gọn gàng, thu xếp hàng vào khoang",
     "pronunciation": "/stoʊ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1742,7 +1988,11 @@
     "wordFamily": [
       "stowage"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "stowage-noun",
@@ -1751,7 +2001,7 @@
     "type": "noun",
     "meaning": "sự xếp hàng, không gian xếp hàng trên tàu",
     "pronunciation": "/ˈstoʊɪdʒ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Public Relations",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1773,38 +2023,11 @@
     "wordFamily": [
       "stow"
     ],
-    "day": 48
-  },
-  {
-    "id": "supply chain-phrase",
-    "word": "supply chain",
-    "baseWord": "chain",
-    "type": "phrase",
-    "meaning": "chuỗi cung ứng",
-    "pronunciation": "/səˈplaɪ tʃeɪn/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The factory shutdown disrupted the entire supply chain.",
-    "exampleVi": "Việc đóng cửa nhà máy đã làm gián đoạn toàn bộ chuỗi cung ứng.",
-    "collocations": [
-      "supply chain management",
-      "global supply chain",
-      "supply chain disruption"
-    ],
-    "synonyms": [
-      "supply network",
-      "logistics channel"
-    ],
-    "wordFamily": [
-      "chain"
-    ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "weigh-verb",
@@ -1813,7 +2036,7 @@
     "type": "verb",
     "meaning": "cân trọng lượng, cân nhắc",
     "pronunciation": "/weɪ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1835,7 +2058,11 @@
       "weight",
       "weighing"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "weight-noun",
@@ -1844,7 +2071,7 @@
     "type": "noun",
     "meaning": "trọng lượng, cân nặng, quả cân",
     "pronunciation": "/weɪt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1868,7 +2095,11 @@
       "weigh",
       "weighty"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "wrapper-noun",
@@ -1877,7 +2108,7 @@
     "type": "noun",
     "meaning": "vỏ bọc ngoài, giấy gói",
     "pronunciation": "/ˈræpər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1900,7 +2131,11 @@
       "wrap",
       "wrapping"
     ],
-    "day": 48
+    "day": 48,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "billing-noun",
@@ -1909,7 +2144,7 @@
     "type": "noun",
     "meaning": "việc lập hóa đơn thanh toán, doanh thu dự kiến",
     "pronunciation": "/ˈbɪlɪŋ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1932,37 +2167,11 @@
       "billable",
       "bill"
     ],
-    "day": 49
-  },
-  {
-    "id": "bonded warehouse-phrase",
-    "word": "bonded warehouse",
-    "baseWord": "warehouse",
-    "type": "phrase",
-    "meaning": "kho ngoại quan (lưu giữ hàng chưa nộp thuế)",
-    "pronunciation": "/ˈbɑːndɪd ˈwerhaʊs/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Imported goods are held in a bonded warehouse until duty is paid.",
-    "exampleVi": "Hàng hóa nhập khẩu được giữ trong kho ngoại quan cho đến khi nộp thuế.",
-    "collocations": [
-      "store in a bonded warehouse",
-      "licensed bonded warehouse",
-      "bonded warehouse facility"
-    ],
-    "synonyms": [
-      "customs warehouse"
-    ],
-    "wordFamily": [
-      "bond",
-      "warehouse"
-    ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "caution-noun",
@@ -1971,7 +2180,7 @@
     "type": "noun",
     "meaning": "sự thận trọng, lời cảnh báo",
     "pronunciation": "/ˈkɔːʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1995,7 +2204,11 @@
       "cautious",
       "cautiously"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "cautious-adjective",
@@ -2004,7 +2217,7 @@
     "type": "adjective",
     "meaning": "thận trọng, cẩn thận",
     "pronunciation": "/ˈkɔːʃəs/",
-    "topic": "Shipping & Logistics",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2027,7 +2240,11 @@
       "caution",
       "cautiously"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "damage-noun",
@@ -2036,7 +2253,7 @@
     "type": "noun",
     "meaning": "sự hư hại, thiệt hại",
     "pronunciation": "/ˈdæmɪdʒ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2060,7 +2277,11 @@
       "damage",
       "damaged"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "demurrage-noun",
@@ -2069,7 +2290,7 @@
     "type": "noun",
     "meaning": "phí lưu công-te-nơ/tàu tại cảng quá hạn (bên trong cảng)",
     "pronunciation": "/dɪˈmɜːrɪdʒ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Recruitment & Jobs",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2090,7 +2311,11 @@
     "wordFamily": [
       "demur"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "detention-noun",
@@ -2099,7 +2324,7 @@
     "type": "noun",
     "meaning": "phí giữ công-te-nơ quá hạn (bên ngoài cảng), sự giam giữ",
     "pronunciation": "/dɪˈtenʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Travel & Transportation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2120,7 +2345,216 @@
     "wordFamily": [
       "detain"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "distribute-noun",
+    "word": "distribute",
+    "baseWord": "distribute",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: distribute",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word distribute in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu distribute trong email cong viec.",
+    "collocations": [
+      "distribute review",
+      "distribute process",
+      "distribute update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "distribute"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "durability-noun",
+    "word": "durability",
+    "baseWord": "durabil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: durability",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word durability in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu durability trong email cong viec.",
+    "collocations": [
+      "durability review",
+      "durability process",
+      "durability update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "durability"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "durable-adjective",
+    "word": "durable",
+    "baseWord": "dur",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: durable",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word durable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu durable trong email cong viec.",
+    "collocations": [
+      "durable review",
+      "durable process",
+      "durable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "durable"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "economical-adjective",
+    "word": "economical",
+    "baseWord": "economic",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: economical",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word economical in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu economical trong email cong viec.",
+    "collocations": [
+      "economical review",
+      "economical process",
+      "economical update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "economical"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "eligibility-noun",
+    "word": "eligibility",
+    "baseWord": "eligibil",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: eligibility",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word eligibility in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu eligibility trong email cong viec.",
+    "collocations": [
+      "eligibility review",
+      "eligibility process",
+      "eligibility update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "eligibility"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "emphasis-noun",
+    "word": "emphasis",
+    "baseWord": "emphasis",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: emphasis",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word emphasis in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu emphasis trong email cong viec.",
+    "collocations": [
+      "emphasis review",
+      "emphasis process",
+      "emphasis update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "emphasis"
+    ],
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "fee-noun",
@@ -2129,7 +2563,7 @@
     "type": "noun",
     "meaning": "phí dịch vụ, lệ phí",
     "pronunciation": "/fiː/",
-    "topic": "Shipping & Logistics",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2152,7 +2586,11 @@
     "wordFamily": [
       "fee"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "fragile-adjective",
@@ -2161,7 +2599,7 @@
     "type": "adjective",
     "meaning": "dễ vỡ, mỏng manh",
     "pronunciation": "/ˈfrædʒl/",
-    "topic": "Shipping & Logistics",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2183,69 +2621,11 @@
     "wordFamily": [
       "fragility"
     ],
-    "day": 49
-  },
-  {
-    "id": "freight collect-phrase",
-    "word": "freight collect",
-    "baseWord": "freight",
-    "type": "phrase",
-    "meaning": "cước phí vận chuyển trả sau (người nhận trả)",
-    "pronunciation": "/freɪt kəˈlekt/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The goods were shipped freight collect, so the buyer paid upon delivery.",
-    "exampleVi": "Hàng hóa được gửi theo phương thức cước trả sau, vì vậy người mua đã thanh toán khi giao hàng.",
-    "collocations": [
-      "ship freight collect",
-      "freight collect term",
-      "freight collect agreement"
-    ],
-    "synonyms": [
-      "collect on delivery",
-      "COD shipping"
-    ],
-    "wordFamily": [
-      "freight",
-      "collect"
-    ],
-    "day": 49
-  },
-  {
-    "id": "freight prepaid-phrase",
-    "word": "freight prepaid",
-    "baseWord": "freight",
-    "type": "phrase",
-    "meaning": "cước phí vận chuyển trả trước (người gửi trả)",
-    "pronunciation": "/freɪt ˌpriːˈpeɪd/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "All items on this invoice were shipped freight prepaid by the manufacturer.",
-    "exampleVi": "Tất cả các mặt hàng trên hóa đơn này được vận chuyển theo hình thức cước phí trả trước bởi nhà sản xuất.",
-    "collocations": [
-      "shipped freight prepaid",
-      "freight prepaid agreement",
-      "freight prepaid terms"
-    ],
-    "synonyms": [
-      "prepaid carriage"
-    ],
-    "wordFamily": [
-      "freight",
-      "pay",
-      "prepay"
-    ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "hub-noun",
@@ -2254,7 +2634,7 @@
     "type": "noun",
     "meaning": "trung tâm trung chuyển, trung tâm hoạt động",
     "pronunciation": "/hʌb/",
-    "topic": "Shipping & Logistics",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2276,7 +2656,11 @@
     "wordFamily": [
       "hub"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "incoterms-noun",
@@ -2306,7 +2690,11 @@
     "wordFamily": [
       "terms"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "order-noun",
@@ -2315,7 +2703,7 @@
     "type": "noun",
     "meaning": "đơn đặt hàng, trật tự, mệnh lệnh",
     "pronunciation": "/ˈɔːrdər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2339,69 +2727,11 @@
       "order",
       "orderly"
     ],
-    "day": 49
-  },
-  {
-    "id": "port of discharge-phrase",
-    "word": "port of discharge",
-    "baseWord": "port",
-    "type": "phrase",
-    "meaning": "cảng dỡ hàng, cảng đến giải phóng hàng",
-    "pronunciation": "/ˌpɔːrt əv dɪsˈtʃɑːrdʒ/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The ship will sail directly from the loading port to the port of discharge.",
-    "exampleVi": "Con tàu sẽ đi thẳng từ cảng xếp hàng đến cảng dỡ hàng.",
-    "collocations": [
-      "named port of discharge",
-      "arrive at port of discharge",
-      "indicate port of discharge"
-    ],
-    "synonyms": [
-      "port of destination",
-      "unloading port"
-    ],
-    "wordFamily": [
-      "port",
-      "discharge"
-    ],
-    "day": 49
-  },
-  {
-    "id": "port of entry-phrase",
-    "word": "port of entry",
-    "baseWord": "port",
-    "type": "phrase",
-    "meaning": "cảng nhập cảnh, cửa khẩu thông quan đầu tiên",
-    "pronunciation": "/ˌpɔːrt əv ˈentri/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "All foreign cargo must pass inspection at the first port of entry.",
-    "exampleVi": "Tất cả hàng hóa nước ngoài phải qua kiểm tra tại cảng nhập cảnh đầu tiên.",
-    "collocations": [
-      "official port of entry",
-      "designated port of entry",
-      "arrive at the port of entry"
-    ],
-    "synonyms": [
-      "border crossing",
-      "checkpoint"
-    ],
-    "wordFamily": [
-      "port",
-      "entry"
-    ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "quotation-noun",
@@ -2410,7 +2740,7 @@
     "type": "noun",
     "meaning": "báo giá chính thức, sự trích dẫn",
     "pronunciation": "/kwoʊˈteɪʃn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2432,7 +2762,11 @@
     "wordFamily": [
       "quote"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "quote-noun",
@@ -2441,7 +2775,7 @@
     "type": "noun",
     "meaning": "bản báo giá, lời trích dẫn",
     "pronunciation": "/kwoʊt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2465,7 +2799,11 @@
       "quote",
       "quotation"
     ],
-    "day": 49
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "rate-noun",
@@ -2474,7 +2812,7 @@
     "type": "noun",
     "meaning": "mức phí, tỷ lệ, tốc độ",
     "pronunciation": "/reɪt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2498,69 +2836,11 @@
       "rate",
       "rating"
     ],
-    "day": 49
-  },
-  {
-    "id": "transit time-phrase",
-    "word": "transit time",
-    "baseWord": "transit",
-    "type": "phrase",
-    "meaning": "thời gian vận chuyển từ điểm đi đến điểm đến",
-    "pronunciation": "/ˈtrænzɪt taɪm/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Air shipping offers a much shorter transit time than ocean shipping.",
-    "exampleVi": "Vận chuyển đường hàng không mang lại thời gian vận chuyển ngắn hơn nhiều so với vận chuyển đường biển.",
-    "collocations": [
-      "average transit time",
-      "reduce transit time",
-      "guaranteed transit time"
-    ],
-    "synonyms": [
-      "delivery duration",
-      "shipping time"
-    ],
-    "wordFamily": [
-      "transit"
-    ],
-    "day": 49
-  },
-  {
-    "id": "carrier liability-phrase",
-    "word": "carrier liability",
-    "baseWord": "liable",
-    "type": "phrase",
-    "meaning": "trách nhiệm pháp lý của nhà vận chuyển đối với hàng hóa",
-    "pronunciation": "/ˈkæriər ˌlaɪəˈbɪləti/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The contract limits carrier liability in case of natural disasters.",
-    "exampleVi": "Hợp đồng giới hạn trách nhiệm pháp lý của nhà vận chuyển trong trường hợp thiên tai.",
-    "collocations": [
-      "limit carrier liability",
-      "carrier liability clause",
-      "full carrier liability"
-    ],
-    "synonyms": [
-      "shipper liability",
-      "transporter responsibility"
-    ],
-    "wordFamily": [
-      "liable",
-      "liability"
-    ],
-    "day": 50
+    "day": 49,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "consign-verb",
@@ -2569,7 +2849,7 @@
     "type": "verb",
     "meaning": "ký gửi hàng hóa, giao thác",
     "pronunciation": "/kənˈsaɪn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2593,100 +2873,355 @@
       "consignee",
       "consignor"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "consignment note-phrase",
-    "word": "consignment note",
-    "baseWord": "consign",
-    "type": "phrase",
-    "meaning": "phiếu gửi hàng, chứng từ ký gửi hàng hóa",
-    "pronunciation": "/kənˈsaɪnmənt noʊt/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please sign the consignment note before the driver leaves the facility.",
-    "exampleVi": "Vui lòng ký vào phiếu gửi hàng trước khi tài xế rời khỏi cơ sở.",
-    "collocations": [
-      "standard consignment note",
-      "sign the consignment note",
-      "consignment note details"
-    ],
-    "synonyms": [
-      "waybill",
-      "shipping receipt"
-    ],
-    "wordFamily": [
-      "consign",
-      "consignment"
-    ],
-    "day": 50
-  },
-  {
-    "id": "damage claim-phrase",
-    "word": "damage claim",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "yêu cầu bồi thường thiệt hại hàng hóa",
-    "pronunciation": "/ˈdæmɪdʒ kleɪm/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The manufacturer filed a damage claim after the shipment arrived wet.",
-    "exampleVi": "Nhà sản xuất đã đệ đơn yêu cầu bồi thường thiệt hại sau khi lô hàng đến trong tình trạng ẩm ướt.",
-    "collocations": [
-      "file a damage claim",
-      "submit a damage claim",
-      "process a damage claim"
-    ],
-    "synonyms": [
-      "insurance claim",
-      "compensation claim"
-    ],
-    "wordFamily": [
-      "damage",
-      "claim"
-    ],
-    "day": 50
-  },
-  {
-    "id": "freight rate-phrase",
-    "word": "freight rate",
-    "baseWord": "freight",
-    "type": "phrase",
-    "meaning": "mức cước vận chuyển, giá cước vận tải",
-    "pronunciation": "/freɪt reɪt/",
-    "topic": "Shipping & Logistics",
+    "id": "enclose-noun",
+    "word": "enclose",
+    "baseWord": "enclose",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: enclose",
+    "pronunciation": "",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word enclose in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu enclose trong email cong viec.",
+    "collocations": [
+      "enclose review",
+      "enclose process",
+      "enclose update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "enclose"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "encourage-noun",
+    "word": "encourage",
+    "baseWord": "encourage",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: encourage",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word encourage in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu encourage trong email cong viec.",
+    "collocations": [
+      "encourage review",
+      "encourage process",
+      "encourage update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "encourage"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "encouragement-adjective",
+    "word": "encouragement",
+    "baseWord": "encourage",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: encouragement",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word encouragement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu encouragement trong email cong viec.",
+    "collocations": [
+      "encouragement review",
+      "encouragement process",
+      "encouragement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "encouragement"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "endorse-noun",
+    "word": "endorse",
+    "baseWord": "endorse",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: endorse",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Freight rates have soared significantly over the last six months.",
-    "exampleVi": "Mức cước vận chuyển đã tăng vọt đáng kể trong sáu tháng qua.",
+    "example": "The manager used the word endorse in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu endorse trong email cong viec.",
     "collocations": [
-      "ocean freight rate",
-      "increase freight rates",
-      "negotiate freight rates"
+      "endorse review",
+      "endorse process",
+      "endorse update"
     ],
     "synonyms": [
-      "shipping rate",
-      "carriage fee"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "freight"
+      "endorse"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "endorsement-adjective",
+    "word": "endorsement",
+    "baseWord": "endorse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: endorsement",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word endorsement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu endorsement trong email cong viec.",
+    "collocations": [
+      "endorsement review",
+      "endorsement process",
+      "endorsement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "endorsement"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "engage-noun",
+    "word": "engage",
+    "baseWord": "engage",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: engage",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word engage in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu engage trong email cong viec.",
+    "collocations": [
+      "engage review",
+      "engage process",
+      "engage update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "engage"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "engagement-adjective",
+    "word": "engagement",
+    "baseWord": "engage",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: engagement",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word engagement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu engagement trong email cong viec.",
+    "collocations": [
+      "engagement review",
+      "engagement process",
+      "engagement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "engagement"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "enrollment-adjective",
+    "word": "enrollment",
+    "baseWord": "enroll",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: enrollment",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word enrollment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu enrollment trong email cong viec.",
+    "collocations": [
+      "enrollment review",
+      "enrollment process",
+      "enrollment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "enrollment"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "ensure-noun",
+    "word": "ensure",
+    "baseWord": "ensure",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: ensure",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word ensure in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu ensure trong email cong viec.",
+    "collocations": [
+      "ensure review",
+      "ensure process",
+      "ensure update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "ensure"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "enterprise-verb",
+    "word": "enterprise",
+    "baseWord": "enterpr",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: enterprise",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word enterprise in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu enterprise trong email cong viec.",
+    "collocations": [
+      "enterprise review",
+      "enterprise process",
+      "enterprise update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "enterprise"
+    ],
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "mail-noun",
@@ -2695,7 +3230,7 @@
     "type": "noun",
     "meaning": "thư từ, bưu phẩm, hệ thống bưu điện",
     "pronunciation": "/meɪl/",
-    "topic": "Shipping & Logistics",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2718,7 +3253,11 @@
       "mailbox",
       "mailing"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "mailbox-noun",
@@ -2727,7 +3266,7 @@
     "type": "noun",
     "meaning": "hộp thư (ở cổng nhà hoặc bưu điện), hộp thư điện tử",
     "pronunciation": "/ˈmeɪlbɑːks/",
-    "topic": "Shipping & Logistics",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2749,38 +3288,11 @@
       "mail",
       "mailing"
     ],
-    "day": 50
-  },
-  {
-    "id": "marine insurance-phrase",
-    "word": "marine insurance",
-    "baseWord": "insurance",
-    "type": "phrase",
-    "meaning": "bảo hiểm hàng hải, bảo hiểm vận chuyển đường biển",
-    "pronunciation": "/məˈriːn ɪnˈʃʊrəns/",
-    "topic": "Shipping & Logistics",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our cargo is fully covered by marine insurance during the ocean transit.",
-    "exampleVi": "Hàng hóa của chúng tôi được bảo hiểm hàng hải bảo vệ đầy đủ trong suốt quá trình vận chuyển đường biển.",
-    "collocations": [
-      "purchase marine insurance",
-      "marine insurance policy",
-      "marine insurance coverage"
-    ],
-    "synonyms": [
-      "cargo insurance",
-      "ocean freight insurance"
-    ],
-    "wordFamily": [
-      "marine",
-      "insurance"
-    ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "origin-noun",
@@ -2789,7 +3301,7 @@
     "type": "noun",
     "meaning": "nguồn gốc, điểm xuất phát",
     "pronunciation": "/ˈɔːrɪdʒɪn/",
-    "topic": "Shipping & Logistics",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2814,7 +3326,11 @@
       "originally",
       "originate"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "overnight-adjective",
@@ -2823,7 +3339,7 @@
     "type": "adjective",
     "meaning": "qua đêm, chuyển phát nhanh qua đêm",
     "pronunciation": "/ˌoʊvərˈnaɪt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2844,100 +3360,11 @@
     "wordFamily": [
       "night"
     ],
-    "day": 50
-  },
-  {
-    "id": "packing slip-phrase",
-    "word": "packing slip",
-    "baseWord": "pack",
-    "type": "phrase",
-    "meaning": "phiếu đóng gói hàng (liệt kê các mặt hàng bên trong kiện)",
-    "pronunciation": "/ˈpækɪŋ slɪp/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Check the packing slip to ensure all ordered items are in the box.",
-    "exampleVi": "Kiểm tra phiếu đóng gói để đảm bảo tất cả các mặt hàng đã đặt đều có trong hộp.",
-    "collocations": [
-      "verify the packing slip",
-      "print a packing slip",
-      "include a packing slip"
-    ],
-    "synonyms": [
-      "packing list",
-      "shipping manifest"
-    ],
-    "wordFamily": [
-      "pack",
-      "packing"
-    ],
-    "day": 50
-  },
-  {
-    "id": "post office-phrase",
-    "word": "post office",
-    "baseWord": "post",
-    "type": "phrase",
-    "meaning": "bưu điện",
-    "pronunciation": "/ˈpoʊst ˌɔːfɪs/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "I need to go to the post office to mail these documents to Tokyo.",
-    "exampleVi": "Tôi cần đi bưu điện để gửi những tài liệu này đến Tokyo.",
-    "collocations": [
-      "local post office",
-      "post office branch",
-      "visit the post office"
-    ],
-    "synonyms": [
-      "postal station"
-    ],
-    "wordFamily": [
-      "post",
-      "postal"
-    ],
-    "day": 50
-  },
-  {
-    "id": "proof of delivery-phrase",
-    "word": "proof of delivery",
-    "baseWord": "deliver",
-    "type": "phrase",
-    "meaning": "bằng chứng giao hàng (chữ ký hoặc xác nhận nhận hàng)",
-    "pronunciation": "/pruːf əv dɪˈlɪvəri/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics provider emailed the proof of delivery immediately after receipt.",
-    "exampleVi": "Nhà cung cấp dịch vụ hậu cần đã gửi email bằng chứng giao hàng ngay sau khi nhận.",
-    "collocations": [
-      "require proof of delivery",
-      "signed proof of delivery",
-      "digital proof of delivery"
-    ],
-    "synonyms": [
-      "delivery receipt",
-      "POD"
-    ],
-    "wordFamily": [
-      "deliver",
-      "delivery"
-    ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "reroute-verb",
@@ -2946,7 +3373,7 @@
     "type": "verb",
     "meaning": "định tuyến lại, đổi lộ trình",
     "pronunciation": "/ˌriːˈruːt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2968,7 +3395,11 @@
       "route",
       "routing"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "routing-noun",
@@ -2977,7 +3408,7 @@
     "type": "noun",
     "meaning": "sự lập lộ trình, tuyến đường chỉ định",
     "pronunciation": "/ˈruːtɪŋ/",
-    "topic": "Shipping & Logistics",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3000,7 +3431,11 @@
       "route",
       "reroute"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "shipper-noun",
@@ -3009,7 +3444,7 @@
     "type": "noun",
     "meaning": "người gửi hàng, chủ hàng",
     "pronunciation": "/ˈʃɪpər/",
-    "topic": "Shipping & Logistics",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3032,72 +3467,11 @@
       "shipment",
       "shipping"
     ],
-    "day": 50
-  },
-  {
-    "id": "shipping fee-phrase",
-    "word": "shipping fee",
-    "baseWord": "fee",
-    "type": "phrase",
-    "meaning": "phí vận chuyển, cước phí giao hàng",
-    "pronunciation": "/ˈʃɪpɪŋ fiː/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We offer free delivery if the order total exceeds fifty dollars.",
-    "exampleVi": "Chúng tôi cung cấp giao hàng miễn phí nếu tổng đơn hàng vượt quá năm mươi đô la.",
-    "collocations": [
-      "free shipping fee",
-      "calculate shipping fee",
-      "additional shipping fee"
-    ],
-    "synonyms": [
-      "delivery charge",
-      "carriage rate",
-      "postage cost"
-    ],
-    "wordFamily": [
-      "ship",
-      "fee"
-    ],
-    "day": 50
-  },
-  {
-    "id": "tracking system-phrase",
-    "word": "tracking system",
-    "baseWord": "track",
-    "type": "phrase",
-    "meaning": "hệ thống theo dõi lộ trình hàng hóa/bưu phẩm",
-    "pronunciation": "/ˈtrækɪŋ ˈsɪstəm/",
-    "topic": "Shipping & Logistics",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The new tracking system provides real-time updates on cargo location.",
-    "exampleVi": "Hệ thống theo dõi mới cung cấp cập nhật thời gian thực về vị trí hàng hóa.",
-    "collocations": [
-      "GPS tracking system",
-      "install a tracking system",
-      "online tracking system"
-    ],
-    "synonyms": [
-      "monitoring system",
-      "tracing tool"
-    ],
-    "wordFamily": [
-      "track",
-      "tracking"
-    ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "truck-noun",
@@ -3106,7 +3480,7 @@
     "type": "noun",
     "meaning": "xe tải, xe chở hàng",
     "pronunciation": "/trʌk/",
-    "topic": "Shipping & Logistics",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3130,7 +3504,11 @@
       "trucker",
       "trucking"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "waypoint-noun",
@@ -3139,7 +3517,7 @@
     "type": "noun",
     "meaning": "điểm trung chuyển, điểm dừng dọc đường",
     "pronunciation": "/ˈweɪpɔɪnt/",
-    "topic": "Shipping & Logistics",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -3162,6 +3540,10 @@
       "way",
       "point"
     ],
-    "day": 50
+    "day": 50,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

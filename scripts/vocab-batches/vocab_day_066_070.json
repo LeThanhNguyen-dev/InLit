@@ -1,151 +1,46 @@
 [
   {
-    "id": "evacuation-route-phrase",
-    "word": "evacuation route",
-    "baseWord": "route",
-    "type": "phrase",
-    "meaning": "tuyến sơ tán",
-    "pronunciation": "/evacuation route/",
-    "topic": "Health & Safety",
+    "id": "preprocessing-noun",
+    "word": "preprocessing",
+    "baseWord": "preprocess",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preprocessing",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the evacuation route carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tuyến sơ tán cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preprocessing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preprocessing trong email cong viec.",
     "collocations": [
-      "confirm evacuation route",
-      "evacuation route details",
-      "review evacuation route"
+      "preprocessing review",
+      "preprocessing process",
+      "preprocessing update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "route"
+      "preprocessing"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "exit-route-phrase",
-    "word": "exit route",
-    "baseWord": "route",
-    "type": "phrase",
-    "meaning": "đường thoát hiểm",
-    "pronunciation": "/exit route/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the exit route carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đường thoát hiểm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm exit route",
-      "exit route details",
-      "review exit route"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "route"
-    ],
-    "day": 66
-  },
-  {
-    "id": "fire-drill-phrase",
-    "word": "fire drill",
-    "baseWord": "drill",
-    "type": "phrase",
-    "meaning": "diễn tập phòng cháy",
-    "pronunciation": "/fire drill/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the fire drill carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét diễn tập phòng cháy cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm fire drill",
-      "fire drill details",
-      "review fire drill"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "drill"
-    ],
-    "day": 66
-  },
-  {
-    "id": "first-aid-kit-phrase",
-    "word": "first-aid kit",
-    "baseWord": "kit",
-    "type": "phrase",
-    "meaning": "bộ sơ cứu",
-    "pronunciation": "/first-aid kit/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the first-aid kit carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bộ sơ cứu cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm first-aid kit",
-      "first-aid kit details",
-      "review first-aid kit"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "kit"
-    ],
-    "day": 66
-  },
-  {
-    "id": "hard-hat-phrase",
-    "word": "hard hat",
-    "baseWord": "hat",
-    "type": "phrase",
-    "meaning": "mũ bảo hộ",
-    "pronunciation": "/hard hat/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hard hat carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mũ bảo hộ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hard hat",
-      "hard hat details",
-      "review hard hat"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "hat"
-    ],
-    "day": 66
-  },
-  {
-    "id": "hazard-inspection-phrase",
-    "word": "hazard inspection",
-    "baseWord": "inspection",
-    "type": "phrase",
-    "meaning": "kiểm tra mối nguy",
-    "pronunciation": "/hazard inspection/",
+    "id": "preprocurement-adjective",
+    "word": "preprocurement",
+    "baseWord": "preprocure",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preprocurement",
+    "pronunciation": "",
     "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
@@ -154,27 +49,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the hazard inspection carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kiểm tra mối nguy cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preprocurement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preprocurement trong email cong viec.",
     "collocations": [
-      "confirm hazard inspection",
-      "hazard inspection details",
-      "review hazard inspection"
+      "preprocurement review",
+      "preprocurement process",
+      "preprocurement update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "inspection"
+      "preprocurement"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "hazard-report-phrase",
-    "word": "hazard report",
-    "baseWord": "report",
-    "type": "phrase",
-    "meaning": "báo cáo mối nguy",
-    "pronunciation": "/hazard report/",
-    "topic": "Health & Safety",
+    "id": "preproduction-noun",
+    "word": "preproduction",
+    "baseWord": "preproduc",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preproduction",
+    "pronunciation": "",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -182,139 +84,104 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the hazard report carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét báo cáo mối nguy cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preproduction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preproduction trong email cong viec.",
     "collocations": [
-      "confirm hazard report",
-      "hazard report details",
-      "review hazard report"
+      "preproduction review",
+      "preproduction process",
+      "preproduction update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "report"
+      "preproduction"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
-    "id": "incident-log-phrase",
-    "word": "incident log",
-    "baseWord": "log",
-    "type": "phrase",
-    "meaning": "sổ ghi sự cố",
-    "pronunciation": "/incident log/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the incident log carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sổ ghi sự cố cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm incident log",
-      "incident log details",
-      "review incident log"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "log"
-    ],
-    "day": 66
-  },
-  {
-    "id": "injury-claim-phrase",
-    "word": "injury claim",
-    "baseWord": "claim",
-    "type": "phrase",
-    "meaning": "yêu cầu bồi thường chấn thương",
-    "pronunciation": "/injury claim/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the injury claim carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét yêu cầu bồi thường chấn thương cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm injury claim",
-      "injury claim details",
-      "review injury claim"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "claim"
-    ],
-    "day": 66
-  },
-  {
-    "id": "medical-leave-phrase",
-    "word": "medical leave",
-    "baseWord": "leave",
-    "type": "phrase",
-    "meaning": "nghỉ phép y tế",
-    "pronunciation": "/medical leave/",
-    "topic": "Health & Safety",
+    "id": "preregistration-noun",
+    "word": "preregistration",
+    "baseWord": "preregistra",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preregistration",
+    "pronunciation": "",
+    "topic": "Project Management",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the medical leave carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nghỉ phép y tế cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm medical leave",
-      "medical leave details",
-      "review medical leave"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "leave"
-    ],
-    "day": 66
-  },
-  {
-    "id": "occupational-health-phrase",
-    "word": "occupational health",
-    "baseWord": "health",
-    "type": "phrase",
-    "meaning": "sức khỏe nghề nghiệp",
-    "pronunciation": "/occupational health/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the occupational health carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sức khỏe nghề nghiệp cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word preregistration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preregistration trong email cong viec.",
     "collocations": [
-      "confirm occupational health",
-      "occupational health details",
-      "review occupational health"
+      "preregistration review",
+      "preregistration process",
+      "preregistration update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "health"
+      "preregistration"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "personal-protective-equipment-phrase",
-    "word": "personal protective equipment",
-    "baseWord": "equipment",
-    "type": "phrase",
-    "meaning": "thiết bị bảo hộ cá nhân",
-    "pronunciation": "/personal protective equipment/",
-    "topic": "Health & Safety",
+    "id": "prereimbursement-adjective",
+    "word": "prereimbursement",
+    "baseWord": "prereimburse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: prereimbursement",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prereimbursement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prereimbursement trong email cong viec.",
+    "collocations": [
+      "prereimbursement review",
+      "prereimbursement process",
+      "prereimbursement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prereimbursement"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "prerenewal-adjective",
+    "word": "prerenewal",
+    "baseWord": "prerenew",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: prerenewal",
+    "pronunciation": "",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -322,27 +189,104 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the personal protective equipment carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thiết bị bảo hộ cá nhân cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word prerenewal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prerenewal trong email cong viec.",
     "collocations": [
-      "confirm personal protective equipment",
-      "personal protective equipment details",
-      "review personal protective equipment"
+      "prerenewal review",
+      "prerenewal process",
+      "prerenewal update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "equipment"
+      "prerenewal"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "protective-eyewear-phrase",
-    "word": "protective eyewear",
-    "baseWord": "eyewear",
-    "type": "phrase",
-    "meaning": "kính bảo vệ mắt",
-    "pronunciation": "/protective eyewear/",
-    "topic": "Health & Safety",
+    "id": "prereservation-noun",
+    "word": "prereservation",
+    "baseWord": "prereserva",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prereservation",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prereservation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prereservation trong email cong viec.",
+    "collocations": [
+      "prereservation review",
+      "prereservation process",
+      "prereservation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prereservation"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "prereview-noun",
+    "word": "prereview",
+    "baseWord": "prereview",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prereview",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word prereview in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prereview trong email cong viec.",
+    "collocations": [
+      "prereview review",
+      "prereview process",
+      "prereview update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "prereview"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "prescheduling-noun",
+    "word": "prescheduling",
+    "baseWord": "preschedul",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: prescheduling",
+    "pronunciation": "",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -350,18 +294,375 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the protective eyewear carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kính bảo vệ mắt cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word prescheduling in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu prescheduling trong email cong viec.",
     "collocations": [
-      "confirm protective eyewear",
-      "protective eyewear details",
-      "review protective eyewear"
+      "prescheduling review",
+      "prescheduling process",
+      "prescheduling update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "eyewear"
+      "prescheduling"
     ],
-    "day": 66
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "preshipment-adjective",
+    "word": "preshipment",
+    "baseWord": "preship",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: preshipment",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preshipment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preshipment trong email cong viec.",
+    "collocations": [
+      "preshipment review",
+      "preshipment process",
+      "preshipment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preshipment"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "presubmission-noun",
+    "word": "presubmission",
+    "baseWord": "presubmission",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: presubmission",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word presubmission in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu presubmission trong email cong viec.",
+    "collocations": [
+      "presubmission review",
+      "presubmission process",
+      "presubmission update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "presubmission"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "pretraining-noun",
+    "word": "pretraining",
+    "baseWord": "pretrain",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: pretraining",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word pretraining in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu pretraining trong email cong viec.",
+    "collocations": [
+      "pretraining review",
+      "pretraining process",
+      "pretraining update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "pretraining"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "pretransaction-noun",
+    "word": "pretransaction",
+    "baseWord": "pretransac",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: pretransaction",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word pretransaction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu pretransaction trong email cong viec.",
+    "collocations": [
+      "pretransaction review",
+      "pretransaction process",
+      "pretransaction update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "pretransaction"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "preverification-noun",
+    "word": "preverification",
+    "baseWord": "preverifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: preverification",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word preverification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu preverification trong email cong viec.",
+    "collocations": [
+      "preverification review",
+      "preverification process",
+      "preverification update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "preverification"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "reapproval-adjective",
+    "word": "reapproval",
+    "baseWord": "reapprov",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reapproval",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reapproval in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reapproval trong email cong viec.",
+    "collocations": [
+      "reapproval review",
+      "reapproval process",
+      "reapproval update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reapproval"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "reassessment-adjective",
+    "word": "reassessment",
+    "baseWord": "reassess",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reassessment",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reassessment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reassessment trong email cong viec.",
+    "collocations": [
+      "reassessment review",
+      "reassessment process",
+      "reassessment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reassessment"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "reaudit-noun",
+    "word": "reaudit",
+    "baseWord": "reaudit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reaudit",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reaudit in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reaudit trong email cong viec.",
+    "collocations": [
+      "reaudit review",
+      "reaudit process",
+      "reaudit update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reaudit"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "rebooking-noun",
+    "word": "rebooking",
+    "baseWord": "rebook",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: rebooking",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rebooking in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rebooking trong email cong viec.",
+    "collocations": [
+      "rebooking review",
+      "rebooking process",
+      "rebooking update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rebooking"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "rebriefing-noun",
+    "word": "rebriefing",
+    "baseWord": "rebrief",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: rebriefing",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rebriefing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rebriefing trong email cong viec.",
+    "collocations": [
+      "rebriefing review",
+      "rebriefing process",
+      "rebriefing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rebriefing"
+    ],
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "respirator-noun",
@@ -370,7 +671,7 @@
     "type": "noun",
     "meaning": "mặt nạ phòng độc",
     "pronunciation": "/respirator/",
-    "topic": "Health & Safety",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -389,231 +690,11 @@
     "wordFamily": [
       "respirator"
     ],
-    "day": 66
-  },
-  {
-    "id": "safety-compliance-officer-phrase",
-    "word": "safety compliance officer",
-    "baseWord": "officer",
-    "type": "phrase",
-    "meaning": "nhân viên tuân thủ an toàn",
-    "pronunciation": "/safety compliance officer/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the safety compliance officer carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nhân viên tuân thủ an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm safety compliance officer",
-      "safety compliance officer details",
-      "review safety compliance officer"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "officer"
-    ],
-    "day": 66
-  },
-  {
-    "id": "safety-guideline-phrase",
-    "word": "safety guideline",
-    "baseWord": "guideline",
-    "type": "phrase",
-    "meaning": "hướng dẫn an toàn",
-    "pronunciation": "/safety guideline/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the safety guideline carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hướng dẫn an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm safety guideline",
-      "safety guideline details",
-      "review safety guideline"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "guideline"
-    ],
-    "day": 66
-  },
-  {
-    "id": "warning-sign-phrase",
-    "word": "warning sign",
-    "baseWord": "sign",
-    "type": "phrase",
-    "meaning": "biển cảnh báo",
-    "pronunciation": "/warning sign/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the warning sign carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét biển cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm warning sign",
-      "warning sign details",
-      "review warning sign"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "sign"
-    ],
-    "day": 66
-  },
-  {
-    "id": "wellness-program-phrase",
-    "word": "wellness program",
-    "baseWord": "program",
-    "type": "phrase",
-    "meaning": "chương trình chăm sóc sức khỏe",
-    "pronunciation": "/wellness program/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the wellness program carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chương trình chăm sóc sức khỏe cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm wellness program",
-      "wellness program details",
-      "review wellness program"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "program"
-    ],
-    "day": 66
-  },
-  {
-    "id": "workplace-injury-phrase",
-    "word": "workplace injury",
-    "baseWord": "injury",
-    "type": "phrase",
-    "meaning": "chấn thương tại nơi làm việc",
-    "pronunciation": "/workplace injury/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the workplace injury carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chấn thương tại nơi làm việc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm workplace injury",
-      "workplace injury details",
-      "review workplace injury"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "injury"
-    ],
-    "day": 66
-  },
-  {
-    "id": "workplace-risk-review-phrase",
-    "word": "workplace risk review",
-    "baseWord": "review",
-    "type": "phrase",
-    "meaning": "đánh giá rủi ro nơi làm việc",
-    "pronunciation": "/workplace risk review/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the workplace risk review carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đánh giá rủi ro nơi làm việc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm workplace risk review",
-      "workplace risk review details",
-      "review workplace risk review"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "review"
-    ],
-    "day": 66
-  },
-  {
-    "id": "air-quality-phrase",
-    "word": "air quality",
-    "baseWord": "quality",
-    "type": "phrase",
-    "meaning": "chất lượng không khí",
-    "pronunciation": "/air quality/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the air quality carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chất lượng không khí cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm air quality",
-      "air quality details",
-      "review air quality"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "quality"
-    ],
-    "day": 67
-  },
-  {
-    "id": "clinic-appointment-phrase",
-    "word": "clinic appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cuộc hẹn phòng khám",
-    "pronunciation": "/clinic appointment/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the clinic appointment carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cuộc hẹn phòng khám cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm clinic appointment",
-      "clinic appointment details",
-      "review clinic appointment"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 67
+    "day": 66,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "contamination-noun",
@@ -622,7 +703,7 @@
     "type": "noun",
     "meaning": "sự nhiễm bẩn",
     "pronunciation": "/contamination/",
-    "topic": "Health & Safety",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -641,7 +722,11 @@
     "wordFamily": [
       "contamination"
     ],
-    "day": 67
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "diagnosis-noun",
@@ -650,7 +735,7 @@
     "type": "noun",
     "meaning": "chẩn đoán",
     "pronunciation": "/diagnosis/",
-    "topic": "Health & Safety",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -669,7 +754,11 @@
     "wordFamily": [
       "diagnosis"
     ],
-    "day": 67
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "disinfectant-noun",
@@ -678,7 +767,7 @@
     "type": "noun",
     "meaning": "chất khử trùng",
     "pronunciation": "/disinfectant/",
-    "topic": "Health & Safety",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -697,63 +786,11 @@
     "wordFamily": [
       "disinfectant"
     ],
-    "day": 67
-  },
-  {
-    "id": "doctor-order-phrase",
-    "word": "doctor order",
-    "baseWord": "order",
-    "type": "phrase",
-    "meaning": "chỉ định của bác sĩ",
-    "pronunciation": "/doctor order/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the doctor order carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chỉ định của bác sĩ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm doctor order",
-      "doctor order details",
-      "review doctor order"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "order"
-    ],
-    "day": 67
-  },
-  {
-    "id": "ergonomic-chair-phrase",
-    "word": "ergonomic chair",
-    "baseWord": "chair",
-    "type": "phrase",
-    "meaning": "ghế công thái học",
-    "pronunciation": "/ergonomic chair/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the ergonomic chair carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét ghế công thái học cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm ergonomic chair",
-      "ergonomic chair details",
-      "review ergonomic chair"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "chair"
-    ],
-    "day": 67
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "exposure-noun",
@@ -762,7 +799,7 @@
     "type": "noun",
     "meaning": "sự phơi nhiễm",
     "pronunciation": "/exposure/",
-    "topic": "Health & Safety",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -781,716 +818,1175 @@
     "wordFamily": [
       "exposure"
     ],
-    "day": 67
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "fitness-center-phrase",
-    "word": "fitness center",
-    "baseWord": "center",
-    "type": "phrase",
-    "meaning": "trung tâm thể dục",
-    "pronunciation": "/fitness center/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the fitness center carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trung tâm thể dục cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm fitness center",
-      "fitness center details",
-      "review fitness center"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "center"
-    ],
-    "day": 67
-  },
-  {
-    "id": "hand-sanitizer-phrase",
-    "word": "hand sanitizer",
-    "baseWord": "sanitizer",
-    "type": "phrase",
-    "meaning": "dung dịch sát khuẩn tay",
-    "pronunciation": "/hand sanitizer/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hand sanitizer carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét dung dịch sát khuẩn tay cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hand sanitizer",
-      "hand sanitizer details",
-      "review hand sanitizer"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "sanitizer"
-    ],
-    "day": 67
-  },
-  {
-    "id": "health-screening-phrase",
-    "word": "health screening",
-    "baseWord": "screening",
-    "type": "phrase",
-    "meaning": "kiểm tra sức khỏe",
-    "pronunciation": "/health screening/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the health screening carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kiểm tra sức khỏe cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm health screening",
-      "health screening details",
-      "review health screening"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "screening"
-    ],
-    "day": 67
-  },
-  {
-    "id": "insurance-coverage-phrase",
-    "word": "insurance coverage",
-    "baseWord": "coverage",
-    "type": "phrase",
-    "meaning": "phạm vi bảo hiểm",
-    "pronunciation": "/insurance coverage/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the insurance coverage carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phạm vi bảo hiểm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm insurance coverage",
-      "insurance coverage details",
-      "review insurance coverage"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "coverage"
-    ],
-    "day": 67
-  },
-  {
-    "id": "medical-absence-phrase",
-    "word": "medical absence",
-    "baseWord": "absence",
-    "type": "phrase",
-    "meaning": "vắng mặt vì lý do y tế",
-    "pronunciation": "/medical absence/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the medical absence carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét vắng mặt vì lý do y tế cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm medical absence",
-      "medical absence details",
-      "review medical absence"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "absence"
-    ],
-    "day": 67
-  },
-  {
-    "id": "medical-record-phrase",
-    "word": "medical record",
-    "baseWord": "record",
-    "type": "phrase",
-    "meaning": "hồ sơ y tế",
-    "pronunciation": "/medical record/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the medical record carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hồ sơ y tế cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm medical record",
-      "medical record details",
-      "review medical record"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "record"
-    ],
-    "day": 67
-  },
-  {
-    "id": "sanitary-condition-phrase",
-    "word": "sanitary condition",
-    "baseWord": "condition",
-    "type": "phrase",
-    "meaning": "điều kiện vệ sinh",
-    "pronunciation": "/sanitary condition/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sanitary condition carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét điều kiện vệ sinh cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sanitary condition",
-      "sanitary condition details",
-      "review sanitary condition"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "condition"
-    ],
-    "day": 67
-  },
-  {
-    "id": "temperature-check-phrase",
-    "word": "temperature check",
-    "baseWord": "check",
-    "type": "phrase",
-    "meaning": "kiểm tra nhiệt độ",
-    "pronunciation": "/temperature check/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the temperature check carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kiểm tra nhiệt độ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm temperature check",
-      "temperature check details",
-      "review temperature check"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "check"
-    ],
-    "day": 67
-  },
-  {
-    "id": "treatment-plan-phrase",
-    "word": "treatment plan",
-    "baseWord": "plan",
-    "type": "phrase",
-    "meaning": "kế hoạch điều trị",
-    "pronunciation": "/treatment plan/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the treatment plan carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kế hoạch điều trị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm treatment plan",
-      "treatment plan details",
-      "review treatment plan"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "plan"
-    ],
-    "day": 67
-  },
-  {
-    "id": "vaccination-record-phrase",
-    "word": "vaccination record",
-    "baseWord": "record",
-    "type": "phrase",
-    "meaning": "hồ sơ tiêm chủng",
-    "pronunciation": "/vaccination record/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the vaccination record carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hồ sơ tiêm chủng cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm vaccination record",
-      "vaccination record details",
-      "review vaccination record"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "record"
-    ],
-    "day": 67
-  },
-  {
-    "id": "ventilation-system-phrase",
-    "word": "ventilation system",
-    "baseWord": "system",
-    "type": "phrase",
-    "meaning": "hệ thống thông gió",
-    "pronunciation": "/ventilation system/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the ventilation system carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hệ thống thông gió cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm ventilation system",
-      "ventilation system details",
-      "review ventilation system"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "system"
-    ],
-    "day": 67
-  },
-  {
-    "id": "warning-symptom-phrase",
-    "word": "warning symptom",
-    "baseWord": "symptom",
-    "type": "phrase",
-    "meaning": "triệu chứng cảnh báo",
-    "pronunciation": "/warning symptom/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the warning symptom carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét triệu chứng cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm warning symptom",
-      "warning symptom details",
-      "review warning symptom"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "symptom"
-    ],
-    "day": 67
-  },
-  {
-    "id": "alarm-system-phrase",
-    "word": "alarm system",
-    "baseWord": "system",
-    "type": "phrase",
-    "meaning": "hệ thống báo động",
-    "pronunciation": "/alarm system/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the alarm system carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hệ thống báo động cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm alarm system",
-      "alarm system details",
-      "review alarm system"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "system"
-    ],
-    "day": 68
-  },
-  {
-    "id": "chemical-spill-phrase",
-    "word": "chemical spill",
-    "baseWord": "spill",
-    "type": "phrase",
-    "meaning": "sự cố tràn hóa chất",
-    "pronunciation": "/chemical spill/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the chemical spill carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự cố tràn hóa chất cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm chemical spill",
-      "chemical spill details",
-      "review chemical spill"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "spill"
-    ],
-    "day": 68
-  },
-  {
-    "id": "emergency-shower-phrase",
-    "word": "emergency shower",
-    "baseWord": "shower",
-    "type": "phrase",
-    "meaning": "vòi tắm khẩn cấp",
-    "pronunciation": "/emergency shower/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the emergency shower carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét vòi tắm khẩn cấp cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm emergency shower",
-      "emergency shower details",
-      "review emergency shower"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "shower"
-    ],
-    "day": 68
-  },
-  {
-    "id": "equipment-malfunction-phrase",
-    "word": "equipment malfunction",
-    "baseWord": "malfunction",
-    "type": "phrase",
-    "meaning": "sự cố thiết bị",
-    "pronunciation": "/equipment malfunction/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the equipment malfunction carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự cố thiết bị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm equipment malfunction",
-      "equipment malfunction details",
-      "review equipment malfunction"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "malfunction"
-    ],
-    "day": 68
-  },
-  {
-    "id": "eye-wash-station-phrase",
-    "word": "eye wash station",
-    "baseWord": "station",
-    "type": "phrase",
-    "meaning": "trạm rửa mắt",
-    "pronunciation": "/eye wash station/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the eye wash station carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trạm rửa mắt cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm eye wash station",
-      "eye wash station details",
-      "review eye wash station"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "station"
-    ],
-    "day": 68
-  },
-  {
-    "id": "fire-suppression-canister-phrase",
-    "word": "fire suppression canister",
-    "baseWord": "canister",
-    "type": "phrase",
-    "meaning": "bình dập lửa",
-    "pronunciation": "/fire suppression canister/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the fire suppression canister carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bình dập lửa cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm fire suppression canister",
-      "fire suppression canister details",
-      "review fire suppression canister"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "canister"
-    ],
-    "day": 68
-  },
-  {
-    "id": "flammable-liquid-phrase",
-    "word": "flammable liquid",
-    "baseWord": "liquid",
-    "type": "phrase",
-    "meaning": "chất lỏng dễ cháy",
-    "pronunciation": "/flammable liquid/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the flammable liquid carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét chất lỏng dễ cháy cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm flammable liquid",
-      "flammable liquid details",
-      "review flammable liquid"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "liquid"
-    ],
-    "day": 68
-  },
-  {
-    "id": "hazardous-material-phrase",
-    "word": "hazardous material",
-    "baseWord": "material",
-    "type": "phrase",
-    "meaning": "vật liệu nguy hiểm",
-    "pronunciation": "/hazardous material/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hazardous material carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét vật liệu nguy hiểm cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hazardous material",
-      "hazardous material details",
-      "review hazardous material"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "material"
-    ],
-    "day": 68
-  },
-  {
-    "id": "hearing-protection-phrase",
-    "word": "hearing protection",
-    "baseWord": "protection",
-    "type": "phrase",
-    "meaning": "bảo vệ thính giác",
-    "pronunciation": "/hearing protection/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the hearing protection carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bảo vệ thính giác cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm hearing protection",
-      "hearing protection details",
-      "review hearing protection"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "protection"
-    ],
-    "day": 68
-  },
-  {
-    "id": "lockout-procedure-phrase",
-    "word": "lockout procedure",
-    "baseWord": "procedure",
-    "type": "phrase",
-    "meaning": "quy trình khóa nguồn",
-    "pronunciation": "/lockout procedure/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the lockout procedure carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét quy trình khóa nguồn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm lockout procedure",
-      "lockout procedure details",
-      "review lockout procedure"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "procedure"
-    ],
-    "day": 68
-  },
-  {
-    "id": "machine-guard-phrase",
-    "word": "machine guard",
-    "baseWord": "guard",
-    "type": "phrase",
-    "meaning": "tấm chắn máy",
-    "pronunciation": "/machine guard/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the machine guard carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tấm chắn máy cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm machine guard",
-      "machine guard details",
-      "review machine guard"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "guard"
-    ],
-    "day": 68
-  },
-  {
-    "id": "near-miss-noun",
-    "word": "near miss",
-    "baseWord": "miss",
+    "id": "rebudgeting-noun",
+    "word": "rebudgeting",
+    "baseWord": "rebudget",
     "type": "noun",
-    "meaning": "sự cố suýt xảy ra",
-    "pronunciation": "/near miss/",
-    "topic": "Health & Safety",
+    "meaning": "tu vung cot loi TOEIC 700: rebudgeting",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rebudgeting in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rebudgeting trong email cong viec.",
+    "collocations": [
+      "rebudgeting review",
+      "rebudgeting process",
+      "rebudgeting update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rebudgeting"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "recertification-noun",
+    "word": "recertification",
+    "baseWord": "recertifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: recertification",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recertification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recertification trong email cong viec.",
+    "collocations": [
+      "recertification review",
+      "recertification process",
+      "recertification update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recertification"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "reclearance-noun",
+    "word": "reclearance",
+    "baseWord": "reclearance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reclearance",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reclearance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reclearance trong email cong viec.",
+    "collocations": [
+      "reclearance review",
+      "reclearance process",
+      "reclearance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reclearance"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "recompliance-noun",
+    "word": "recompliance",
+    "baseWord": "recompliance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: recompliance",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recompliance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recompliance trong email cong viec.",
+    "collocations": [
+      "recompliance review",
+      "recompliance process",
+      "recompliance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recompliance"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "reconfirmation-noun",
+    "word": "reconfirmation",
+    "baseWord": "reconfirma",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reconfirmation",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reconfirmation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reconfirmation trong email cong viec.",
+    "collocations": [
+      "reconfirmation review",
+      "reconfirmation process",
+      "reconfirmation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reconfirmation"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "recoordination-noun",
+    "word": "recoordination",
+    "baseWord": "recoordina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: recoordination",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word recoordination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu recoordination trong email cong viec.",
+    "collocations": [
+      "recoordination review",
+      "recoordination process",
+      "recoordination update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "recoordination"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "redelivery-noun",
+    "word": "redelivery",
+    "baseWord": "redelivery",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: redelivery",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word redelivery in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu redelivery trong email cong viec.",
+    "collocations": [
+      "redelivery review",
+      "redelivery process",
+      "redelivery update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "redelivery"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "redispatch-noun",
+    "word": "redispatch",
+    "baseWord": "redispatch",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: redispatch",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word redispatch in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu redispatch trong email cong viec.",
+    "collocations": [
+      "redispatch review",
+      "redispatch process",
+      "redispatch update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "redispatch"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "redocumentation-noun",
+    "word": "redocumentation",
+    "baseWord": "redocumenta",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: redocumentation",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word redocumentation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu redocumentation trong email cong viec.",
+    "collocations": [
+      "redocumentation review",
+      "redocumentation process",
+      "redocumentation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "redocumentation"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "reenrollment-adjective",
+    "word": "reenrollment",
+    "baseWord": "reenroll",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reenrollment",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reenrollment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reenrollment trong email cong viec.",
+    "collocations": [
+      "reenrollment review",
+      "reenrollment process",
+      "reenrollment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reenrollment"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "reevaluation-noun",
+    "word": "reevaluation",
+    "baseWord": "reevalua",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reevaluation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reevaluation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reevaluation trong email cong viec.",
+    "collocations": [
+      "reevaluation review",
+      "reevaluation process",
+      "reevaluation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reevaluation"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "reforecast-noun",
+    "word": "reforecast",
+    "baseWord": "reforecast",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reforecast",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reforecast in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reforecast trong email cong viec.",
+    "collocations": [
+      "reforecast review",
+      "reforecast process",
+      "reforecast update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reforecast"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "reinspection-noun",
+    "word": "reinspection",
+    "baseWord": "reinspec",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reinspection",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reinspection in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reinspection trong email cong viec.",
+    "collocations": [
+      "reinspection review",
+      "reinspection process",
+      "reinspection update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reinspection"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "reinstallation-noun",
+    "word": "reinstallation",
+    "baseWord": "reinstalla",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reinstallation",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reinstallation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reinstallation trong email cong viec.",
+    "collocations": [
+      "reinstallation review",
+      "reinstallation process",
+      "reinstallation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reinstallation"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "reinventory-adjective",
+    "word": "reinventory",
+    "baseWord": "reinvent",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reinventory",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reinventory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reinventory trong email cong viec.",
+    "collocations": [
+      "reinventory review",
+      "reinventory process",
+      "reinventory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reinventory"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "remaintenance-noun",
+    "word": "remaintenance",
+    "baseWord": "remaintenance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: remaintenance",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word remaintenance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu remaintenance trong email cong viec.",
+    "collocations": [
+      "remaintenance review",
+      "remaintenance process",
+      "remaintenance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "remaintenance"
+    ],
+    "day": 67,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "overapproval-adjective",
+    "word": "overapproval",
+    "baseWord": "overapprov",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overapproval",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overapproval in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overapproval trong email cong viec.",
+    "collocations": [
+      "overapproval review",
+      "overapproval process",
+      "overapproval update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overapproval"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "overassessment-adjective",
+    "word": "overassessment",
+    "baseWord": "overassess",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overassessment",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overassessment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overassessment trong email cong viec.",
+    "collocations": [
+      "overassessment review",
+      "overassessment process",
+      "overassessment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overassessment"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "overaudit-noun",
+    "word": "overaudit",
+    "baseWord": "overaudit",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overaudit",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overaudit in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overaudit trong email cong viec.",
+    "collocations": [
+      "overaudit review",
+      "overaudit process",
+      "overaudit update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overaudit"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "overbooking-noun",
+    "word": "overbooking",
+    "baseWord": "overbook",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overbooking",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overbooking in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overbooking trong email cong viec.",
+    "collocations": [
+      "overbooking review",
+      "overbooking process",
+      "overbooking update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overbooking"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "overbriefing-noun",
+    "word": "overbriefing",
+    "baseWord": "overbrief",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overbriefing",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overbriefing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overbriefing trong email cong viec.",
+    "collocations": [
+      "overbriefing review",
+      "overbriefing process",
+      "overbriefing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overbriefing"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "renegotiation-noun",
+    "word": "renegotiation",
+    "baseWord": "renegotia",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: renegotiation",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word renegotiation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu renegotiation trong email cong viec.",
+    "collocations": [
+      "renegotiation review",
+      "renegotiation process",
+      "renegotiation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "renegotiation"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "repayment-adjective",
+    "word": "repayment",
+    "baseWord": "repay",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: repayment",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word repayment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu repayment trong email cong viec.",
+    "collocations": [
+      "repayment review",
+      "repayment process",
+      "repayment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "repayment"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "replanning-noun",
+    "word": "replanning",
+    "baseWord": "replann",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: replanning",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word replanning in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu replanning trong email cong viec.",
+    "collocations": [
+      "replanning review",
+      "replanning process",
+      "replanning update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "replanning"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "reprocessing-noun",
+    "word": "reprocessing",
+    "baseWord": "reprocess",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reprocessing",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reprocessing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reprocessing trong email cong viec.",
+    "collocations": [
+      "reprocessing review",
+      "reprocessing process",
+      "reprocessing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reprocessing"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "reprocurement-adjective",
+    "word": "reprocurement",
+    "baseWord": "reprocure",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reprocurement",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reprocurement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reprocurement trong email cong viec.",
+    "collocations": [
+      "reprocurement review",
+      "reprocurement process",
+      "reprocurement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reprocurement"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "reregistration-noun",
+    "word": "reregistration",
+    "baseWord": "reregistra",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reregistration",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word reregistration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reregistration trong email cong viec.",
+    "collocations": [
+      "reregistration review",
+      "reregistration process",
+      "reregistration update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "reregistration"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "rereimbursement-adjective",
+    "word": "rereimbursement",
+    "baseWord": "rereimburse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: rereimbursement",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rereimbursement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rereimbursement trong email cong viec.",
+    "collocations": [
+      "rereimbursement review",
+      "rereimbursement process",
+      "rereimbursement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rereimbursement"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "rerenewal-adjective",
+    "word": "rerenewal",
+    "baseWord": "rerenew",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: rerenewal",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rerenewal in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rerenewal trong email cong viec.",
+    "collocations": [
+      "rerenewal review",
+      "rerenewal process",
+      "rerenewal update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rerenewal"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "rereservation-noun",
+    "word": "rereservation",
+    "baseWord": "rereserva",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: rereservation",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rereservation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rereservation trong email cong viec.",
+    "collocations": [
+      "rereservation review",
+      "rereservation process",
+      "rereservation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rereservation"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "rereview-noun",
+    "word": "rereview",
+    "baseWord": "rereview",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: rereview",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rereview in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rereview trong email cong viec.",
+    "collocations": [
+      "rereview review",
+      "rereview process",
+      "rereview update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rereview"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "rescheduling-noun",
+    "word": "rescheduling",
+    "baseWord": "reschedul",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: rescheduling",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word rescheduling in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu rescheduling trong email cong viec.",
+    "collocations": [
+      "rescheduling review",
+      "rescheduling process",
+      "rescheduling update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "rescheduling"
+    ],
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "reshipment-adjective",
+    "word": "reshipment",
+    "baseWord": "reship",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: reshipment",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the near miss carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sự cố suýt xảy ra cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word reshipment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reshipment trong email cong viec.",
     "collocations": [
-      "confirm near miss",
-      "near miss details",
-      "review near miss"
+      "reshipment review",
+      "reshipment process",
+      "reshipment update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "miss"
+      "reshipment"
     ],
-    "day": 68
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
-    "id": "noise-level-phrase",
-    "word": "noise level",
-    "baseWord": "level",
-    "type": "phrase",
-    "meaning": "mức độ tiếng ồn",
-    "pronunciation": "/noise level/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the noise level carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét mức độ tiếng ồn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm noise level",
-      "noise level details",
-      "review noise level"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "level"
-    ],
-    "day": 68
-  },
-  {
-    "id": "protective-barrier-phrase",
-    "word": "protective barrier",
-    "baseWord": "barrier",
-    "type": "phrase",
-    "meaning": "rào chắn bảo vệ",
-    "pronunciation": "/protective barrier/",
-    "topic": "Health & Safety",
+    "id": "resubmission-noun",
+    "word": "resubmission",
+    "baseWord": "resubmission",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: resubmission",
+    "pronunciation": "",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1498,27 +1994,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the protective barrier carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét rào chắn bảo vệ cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word resubmission in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu resubmission trong email cong viec.",
     "collocations": [
-      "confirm protective barrier",
-      "protective barrier details",
-      "review protective barrier"
+      "resubmission review",
+      "resubmission process",
+      "resubmission update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "barrier"
+      "resubmission"
     ],
-    "day": 68
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
-    "id": "safety-data-sheet-phrase",
-    "word": "safety data sheet",
-    "baseWord": "sheet",
-    "type": "phrase",
-    "meaning": "phiếu dữ liệu an toàn",
-    "pronunciation": "/safety data sheet/",
-    "topic": "Health & Safety",
+    "id": "retransaction-noun",
+    "word": "retransaction",
+    "baseWord": "retransac",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: retransaction",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1526,111 +2029,34 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the safety data sheet carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phiếu dữ liệu an toàn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word retransaction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu retransaction trong email cong viec.",
     "collocations": [
-      "confirm safety data sheet",
-      "safety data sheet details",
-      "review safety data sheet"
+      "retransaction review",
+      "retransaction process",
+      "retransaction update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "sheet"
+      "retransaction"
     ],
-    "day": 68
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
-    "id": "smoke-detector-phrase",
-    "word": "smoke detector",
-    "baseWord": "detector",
-    "type": "phrase",
-    "meaning": "máy báo khói",
-    "pronunciation": "/smoke detector/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the smoke detector carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét máy báo khói cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm smoke detector",
-      "smoke detector details",
-      "review smoke detector"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "detector"
-    ],
-    "day": 68
-  },
-  {
-    "id": "sprinkler-system-phrase",
-    "word": "sprinkler system",
-    "baseWord": "system",
-    "type": "phrase",
-    "meaning": "hệ thống phun nước chữa cháy",
-    "pronunciation": "/sprinkler system/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sprinkler system carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hệ thống phun nước chữa cháy cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sprinkler system",
-      "sprinkler system details",
-      "review sprinkler system"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "system"
-    ],
-    "day": 68
-  },
-  {
-    "id": "storage-cabinet-phrase",
-    "word": "storage cabinet",
-    "baseWord": "cabinet",
-    "type": "phrase",
-    "meaning": "tủ lưu trữ",
-    "pronunciation": "/storage cabinet/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the storage cabinet carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tủ lưu trữ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm storage cabinet",
-      "storage cabinet details",
-      "review storage cabinet"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "cabinet"
-    ],
-    "day": 68
-  },
-  {
-    "id": "trip-hazard-phrase",
-    "word": "trip hazard",
-    "baseWord": "hazard",
-    "type": "phrase",
-    "meaning": "nguy cơ vấp ngã",
-    "pronunciation": "/trip hazard/",
-    "topic": "Health & Safety",
+    "id": "reverification-noun",
+    "word": "reverification",
+    "baseWord": "reverifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: reverification",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1638,102 +2064,25 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the trip hazard carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nguy cơ vấp ngã cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word reverification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu reverification trong email cong viec.",
     "collocations": [
-      "confirm trip hazard",
-      "trip hazard details",
-      "review trip hazard"
+      "reverification review",
+      "reverification process",
+      "reverification update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "hazard"
+      "reverification"
     ],
-    "day": 68
-  },
-  {
-    "id": "wet-floor-phrase",
-    "word": "wet floor",
-    "baseWord": "floor",
-    "type": "phrase",
-    "meaning": "sàn ướt",
-    "pronunciation": "/wet floor/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the wet floor carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét sàn ướt cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm wet floor",
-      "wet floor details",
-      "review wet floor"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "floor"
-    ],
-    "day": 68
-  },
-  {
-    "id": "alert-staff-phrase",
-    "word": "alert staff",
-    "baseWord": "staff",
-    "type": "phrase",
-    "meaning": "cảnh báo nhân viên",
-    "pronunciation": "/alert staff/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the alert staff carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cảnh báo nhân viên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm alert staff",
-      "alert staff details",
-      "review alert staff"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "staff"
-    ],
-    "day": 69
-  },
-  {
-    "id": "cause-contamination-phrase",
-    "word": "cause contamination",
-    "baseWord": "contamination",
-    "type": "phrase",
-    "meaning": "gây nhiễm bẩn",
-    "pronunciation": "/cause contamination/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the cause contamination carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét gây nhiễm bẩn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm cause contamination",
-      "cause contamination details",
-      "review cause contamination"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "contamination"
-    ],
-    "day": 69
+    "day": 68,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "disinfect-verb",
@@ -1742,7 +2091,7 @@
     "type": "verb",
     "meaning": "tẩy trùng",
     "pronunciation": "/disinfect/",
-    "topic": "Health & Safety",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1761,35 +2110,11 @@
     "wordFamily": [
       "disinfect"
     ],
-    "day": 69
-  },
-  {
-    "id": "enforce-safety-rules-phrase",
-    "word": "enforce safety rules",
-    "baseWord": "rules",
-    "type": "phrase",
-    "meaning": "thực thi quy tắc an toàn",
-    "pronunciation": "/enforce safety rules/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the enforce safety rules carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thực thi quy tắc an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm enforce safety rules",
-      "enforce safety rules details",
-      "review enforce safety rules"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "rules"
-    ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "evacuate-verb",
@@ -1798,7 +2123,7 @@
     "type": "verb",
     "meaning": "sơ tán",
     "pronunciation": "/evacuate/",
-    "topic": "Health & Safety",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1817,7 +2142,11 @@
     "wordFamily": [
       "evacuate"
     ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "expose-verb",
@@ -1826,7 +2155,7 @@
     "type": "verb",
     "meaning": "làm phơi nhiễm",
     "pronunciation": "/expose/",
-    "topic": "Health & Safety",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1845,63 +2174,11 @@
     "wordFamily": [
       "expose"
     ],
-    "day": 69
-  },
-  {
-    "id": "follow-safety-rules-phrase",
-    "word": "follow safety rules",
-    "baseWord": "rules",
-    "type": "phrase",
-    "meaning": "tuân theo quy tắc an toàn",
-    "pronunciation": "/follow safety rules/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the follow safety rules carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét tuân theo quy tắc an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm follow safety rules",
-      "follow safety rules details",
-      "review follow safety rules"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "rules"
-    ],
-    "day": 69
-  },
-  {
-    "id": "inspect-equipment-phrase",
-    "word": "inspect equipment",
-    "baseWord": "equipment",
-    "type": "phrase",
-    "meaning": "kiểm tra thiết bị",
-    "pronunciation": "/inspect equipment/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the inspect equipment carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét kiểm tra thiết bị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm inspect equipment",
-      "inspect equipment details",
-      "review inspect equipment"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "equipment"
-    ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "isolate-verb",
@@ -1910,7 +2187,7 @@
     "type": "verb",
     "meaning": "cách ly",
     "pronunciation": "/isolate/",
-    "topic": "Health & Safety",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1929,100 +2206,20 @@
     "wordFamily": [
       "isolate"
     ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "issue-certification-phrase",
-    "word": "issue certification",
-    "baseWord": "certification",
-    "type": "phrase",
-    "meaning": "cấp chứng nhận",
-    "pronunciation": "/issue certification/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the issue certification carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cấp chứng nhận cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm issue certification",
-      "issue certification details",
-      "review issue certification"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "certification"
-    ],
-    "day": 69
-  },
-  {
-    "id": "make-a-diagnosis-phrase",
-    "word": "make a diagnosis",
-    "baseWord": "diagnosis",
-    "type": "phrase",
-    "meaning": "đưa ra chẩn đoán",
-    "pronunciation": "/make a diagnosis/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the make a diagnosis carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đưa ra chẩn đoán cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm make a diagnosis",
-      "make a diagnosis details",
-      "review make a diagnosis"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "diagnosis"
-    ],
-    "day": 69
-  },
-  {
-    "id": "monitor-conditions-phrase",
-    "word": "monitor conditions",
-    "baseWord": "conditions",
-    "type": "phrase",
-    "meaning": "giám sát điều kiện",
-    "pronunciation": "/monitor conditions/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the monitor conditions carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét giám sát điều kiện cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm monitor conditions",
-      "monitor conditions details",
-      "review monitor conditions"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "conditions"
-    ],
-    "day": 69
-  },
-  {
-    "id": "prevent-an-accident-phrase",
-    "word": "prevent an accident",
-    "baseWord": "accident",
-    "type": "phrase",
-    "meaning": "ngăn ngừa tai nạn",
-    "pronunciation": "/prevent an accident/",
-    "topic": "Health & Safety",
+    "id": "overbudgeting-noun",
+    "word": "overbudgeting",
+    "baseWord": "overbudget",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overbudgeting",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2030,27 +2227,454 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the prevent an accident carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét ngăn ngừa tai nạn cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word overbudgeting in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overbudgeting trong email cong viec.",
     "collocations": [
-      "confirm prevent an accident",
-      "prevent an accident details",
-      "review prevent an accident"
+      "overbudgeting review",
+      "overbudgeting process",
+      "overbudgeting update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "accident"
+      "overbudgeting"
     ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "protect-workers-phrase",
-    "word": "protect workers",
-    "baseWord": "workers",
-    "type": "phrase",
-    "meaning": "bảo vệ người lao động",
-    "pronunciation": "/protect workers/",
-    "topic": "Health & Safety",
+    "id": "overcertification-noun",
+    "word": "overcertification",
+    "baseWord": "overcertifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overcertification",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overcertification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overcertification trong email cong viec.",
+    "collocations": [
+      "overcertification review",
+      "overcertification process",
+      "overcertification update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overcertification"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "overclearance-noun",
+    "word": "overclearance",
+    "baseWord": "overclearance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overclearance",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overclearance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overclearance trong email cong viec.",
+    "collocations": [
+      "overclearance review",
+      "overclearance process",
+      "overclearance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overclearance"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "overcompliance-noun",
+    "word": "overcompliance",
+    "baseWord": "overcompliance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overcompliance",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overcompliance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overcompliance trong email cong viec.",
+    "collocations": [
+      "overcompliance review",
+      "overcompliance process",
+      "overcompliance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overcompliance"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "overconfirmation-noun",
+    "word": "overconfirmation",
+    "baseWord": "overconfirma",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overconfirmation",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overconfirmation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overconfirmation trong email cong viec.",
+    "collocations": [
+      "overconfirmation review",
+      "overconfirmation process",
+      "overconfirmation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overconfirmation"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "overcoordination-noun",
+    "word": "overcoordination",
+    "baseWord": "overcoordina",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overcoordination",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overcoordination in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overcoordination trong email cong viec.",
+    "collocations": [
+      "overcoordination review",
+      "overcoordination process",
+      "overcoordination update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overcoordination"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "overdelivery-noun",
+    "word": "overdelivery",
+    "baseWord": "overdelivery",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overdelivery",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overdelivery in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overdelivery trong email cong viec.",
+    "collocations": [
+      "overdelivery review",
+      "overdelivery process",
+      "overdelivery update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overdelivery"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "overdispatch-noun",
+    "word": "overdispatch",
+    "baseWord": "overdispatch",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overdispatch",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overdispatch in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overdispatch trong email cong viec.",
+    "collocations": [
+      "overdispatch review",
+      "overdispatch process",
+      "overdispatch update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overdispatch"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "overdocumentation-noun",
+    "word": "overdocumentation",
+    "baseWord": "overdocumenta",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overdocumentation",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overdocumentation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overdocumentation trong email cong viec.",
+    "collocations": [
+      "overdocumentation review",
+      "overdocumentation process",
+      "overdocumentation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overdocumentation"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "overenrollment-adjective",
+    "word": "overenrollment",
+    "baseWord": "overenroll",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overenrollment",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overenrollment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overenrollment trong email cong viec.",
+    "collocations": [
+      "overenrollment review",
+      "overenrollment process",
+      "overenrollment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overenrollment"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "overevaluation-noun",
+    "word": "overevaluation",
+    "baseWord": "overevalua",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overevaluation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overevaluation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overevaluation trong email cong viec.",
+    "collocations": [
+      "overevaluation review",
+      "overevaluation process",
+      "overevaluation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overevaluation"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "overforecast-noun",
+    "word": "overforecast",
+    "baseWord": "overforecast",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overforecast",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overforecast in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overforecast trong email cong viec.",
+    "collocations": [
+      "overforecast review",
+      "overforecast process",
+      "overforecast update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overforecast"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "overinspection-noun",
+    "word": "overinspection",
+    "baseWord": "overinspec",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overinspection",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overinspection in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overinspection trong email cong viec.",
+    "collocations": [
+      "overinspection review",
+      "overinspection process",
+      "overinspection update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overinspection"
+    ],
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "overinstallation-noun",
+    "word": "overinstallation",
+    "baseWord": "overinstalla",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overinstallation",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2058,158 +2682,60 @@
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the protect workers carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bảo vệ người lao động cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word overinstallation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overinstallation trong email cong viec.",
     "collocations": [
-      "confirm protect workers",
-      "protect workers details",
-      "review protect workers"
+      "overinstallation review",
+      "overinstallation process",
+      "overinstallation update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "workers"
+      "overinstallation"
     ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
-    "id": "report-an-incident-phrase",
-    "word": "report an incident",
-    "baseWord": "incident",
-    "type": "phrase",
-    "meaning": "báo cáo sự cố",
-    "pronunciation": "/report an incident/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
+    "id": "overinventory-adjective",
+    "word": "overinventory",
+    "baseWord": "overinvent",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overinventory",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the report an incident carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét báo cáo sự cố cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word overinventory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overinventory trong email cong viec.",
     "collocations": [
-      "confirm report an incident",
-      "report an incident details",
-      "review report an incident"
+      "overinventory review",
+      "overinventory process",
+      "overinventory update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "incident"
+      "overinventory"
     ],
-    "day": 69
-  },
-  {
-    "id": "respond-to-an-alert-phrase",
-    "word": "respond to an alert",
-    "baseWord": "alert",
-    "type": "phrase",
-    "meaning": "phản ứng với cảnh báo",
-    "pronunciation": "/respond to an alert/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the respond to an alert carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét phản ứng với cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm respond to an alert",
-      "respond to an alert details",
-      "review respond to an alert"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "alert"
-    ],
-    "day": 69
-  },
-  {
-    "id": "return-to-work-phrase",
-    "word": "return to work",
-    "baseWord": "work",
-    "type": "phrase",
-    "meaning": "trở lại làm việc",
-    "pronunciation": "/return to work/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the return to work carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trở lại làm việc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm return to work",
-      "return to work details",
-      "review return to work"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "work"
-    ],
-    "day": 69
-  },
-  {
-    "id": "sanitize-equipment-phrase",
-    "word": "sanitize equipment",
-    "baseWord": "equipment",
-    "type": "phrase",
-    "meaning": "khử trùng thiết bị",
-    "pronunciation": "/sanitize equipment/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the sanitize equipment carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét khử trùng thiết bị cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm sanitize equipment",
-      "sanitize equipment details",
-      "review sanitize equipment"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "equipment"
-    ],
-    "day": 69
-  },
-  {
-    "id": "train-employees-phrase",
-    "word": "train employees",
-    "baseWord": "employees",
-    "type": "phrase",
-    "meaning": "đào tạo nhân viên",
-    "pronunciation": "/train employees/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the train employees carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét đào tạo nhân viên cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm train employees",
-      "train employees details",
-      "review train employees"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "employees"
-    ],
-    "day": 69
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "treat-verb",
@@ -2218,7 +2744,7 @@
     "type": "verb",
     "meaning": "điều trị",
     "pronunciation": "/treat/",
-    "topic": "Health & Safety",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2237,35 +2763,11 @@
     "wordFamily": [
       "treat"
     ],
-    "day": 69
-  },
-  {
-    "id": "caution-notice-phrase",
-    "word": "caution notice",
-    "baseWord": "notice",
-    "type": "phrase",
-    "meaning": "thông báo cảnh báo",
-    "pronunciation": "/caution notice/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the caution notice carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét thông báo cảnh báo cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm caution notice",
-      "caution notice details",
-      "review caution notice"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "notice"
-    ],
-    "day": 70
+    "day": 69,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "contagious-adjective",
@@ -2274,7 +2776,7 @@
     "type": "adjective",
     "meaning": "dễ lây",
     "pronunciation": "/contagious/",
-    "topic": "Health & Safety",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2292,7 +2794,11 @@
     "wordFamily": [
       "contagious"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "ergonomic-adjective",
@@ -2319,7 +2825,11 @@
     "wordFamily": [
       "ergonomic"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "flammable-adjective",
@@ -2328,7 +2838,7 @@
     "type": "adjective",
     "meaning": "dễ cháy",
     "pronunciation": "/flammable/",
-    "topic": "Health & Safety",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2346,7 +2856,11 @@
     "wordFamily": [
       "flammable"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "hazardous-adjective",
@@ -2355,7 +2869,7 @@
     "type": "adjective",
     "meaning": "nguy hiểm",
     "pronunciation": "/hazardous/",
-    "topic": "Health & Safety",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2373,63 +2887,326 @@
     "wordFamily": [
       "hazardous"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
-    "id": "healthy-workplace-phrase",
-    "word": "healthy workplace",
-    "baseWord": "workplace",
-    "type": "phrase",
-    "meaning": "nơi làm việc lành mạnh",
-    "pronunciation": "/healthy workplace/",
-    "topic": "Health & Safety",
+    "id": "overmaintenance-noun",
+    "word": "overmaintenance",
+    "baseWord": "overmaintenance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overmaintenance",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overmaintenance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overmaintenance trong email cong viec.",
+    "collocations": [
+      "overmaintenance review",
+      "overmaintenance process",
+      "overmaintenance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overmaintenance"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "overnegotiation-noun",
+    "word": "overnegotiation",
+    "baseWord": "overnegotia",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overnegotiation",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overnegotiation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overnegotiation trong email cong viec.",
+    "collocations": [
+      "overnegotiation review",
+      "overnegotiation process",
+      "overnegotiation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overnegotiation"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "overpayment-adjective",
+    "word": "overpayment",
+    "baseWord": "overpay",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overpayment",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overpayment in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overpayment trong email cong viec.",
+    "collocations": [
+      "overpayment review",
+      "overpayment process",
+      "overpayment update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overpayment"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "overplanning-noun",
+    "word": "overplanning",
+    "baseWord": "overplann",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overplanning",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the healthy workplace carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét nơi làm việc lành mạnh cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word overplanning in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overplanning trong email cong viec.",
     "collocations": [
-      "confirm healthy workplace",
-      "healthy workplace details",
-      "review healthy workplace"
+      "overplanning review",
+      "overplanning process",
+      "overplanning update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "workplace"
+      "overplanning"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "legal-liability-phrase",
-    "word": "legal liability",
-    "baseWord": "liability",
-    "type": "phrase",
-    "meaning": "trách nhiệm pháp lý",
-    "pronunciation": "/legal liability/",
-    "topic": "Health & Safety",
+    "id": "overprocessing-noun",
+    "word": "overprocessing",
+    "baseWord": "overprocess",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overprocessing",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overprocessing in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overprocessing trong email cong viec.",
+    "collocations": [
+      "overprocessing review",
+      "overprocessing process",
+      "overprocessing update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overprocessing"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "overprocurement-adjective",
+    "word": "overprocurement",
+    "baseWord": "overprocure",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overprocurement",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overprocurement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overprocurement trong email cong viec.",
+    "collocations": [
+      "overprocurement review",
+      "overprocurement process",
+      "overprocurement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overprocurement"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "overproduction-noun",
+    "word": "overproduction",
+    "baseWord": "overproduc",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overproduction",
+    "pronunciation": "",
+    "topic": "Presentations",
     "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overproduction in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overproduction trong email cong viec.",
+    "collocations": [
+      "overproduction review",
+      "overproduction process",
+      "overproduction update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overproduction"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "overregistration-noun",
+    "word": "overregistration",
+    "baseWord": "overregistra",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: overregistration",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word overregistration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overregistration trong email cong viec.",
+    "collocations": [
+      "overregistration review",
+      "overregistration process",
+      "overregistration update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "overregistration"
+    ],
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "overreimbursement-adjective",
+    "word": "overreimbursement",
+    "baseWord": "overreimburse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: overreimbursement",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 4",
       "Part 7"
     ],
-    "example": "Please review the legal liability carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét trách nhiệm pháp lý cẩn thận trước khi xác nhận sắp xếp.",
+    "example": "The manager used the word overreimbursement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu overreimbursement trong email cong viec.",
     "collocations": [
-      "confirm legal liability",
-      "legal liability details",
-      "review legal liability"
+      "overreimbursement review",
+      "overreimbursement process",
+      "overreimbursement update"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
     "wordFamily": [
-      "liability"
+      "overreimbursement"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "poisonous-adjective",
@@ -2438,7 +3215,7 @@
     "type": "adjective",
     "meaning": "có độc",
     "pronunciation": "/poisonous/",
-    "topic": "Health & Safety",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2456,7 +3233,11 @@
     "wordFamily": [
       "poisonous"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "properly-adverb",
@@ -2465,7 +3246,7 @@
     "type": "adverb",
     "meaning": "đúng cách",
     "pronunciation": "/properly/",
-    "topic": "Health & Safety",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2483,63 +3264,11 @@
     "wordFamily": [
       "properly"
     ],
-    "day": 70
-  },
-  {
-    "id": "protective-action-phrase",
-    "word": "protective action",
-    "baseWord": "action",
-    "type": "phrase",
-    "meaning": "hành động bảo vệ",
-    "pronunciation": "/protective action/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the protective action carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét hành động bảo vệ cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm protective action",
-      "protective action details",
-      "review protective action"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "action"
-    ],
-    "day": 70
-  },
-  {
-    "id": "protocol-update-phrase",
-    "word": "protocol update",
-    "baseWord": "update",
-    "type": "phrase",
-    "meaning": "cập nhật quy trình",
-    "pronunciation": "/protocol update/",
-    "topic": "Health & Safety",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the protocol update carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét cập nhật quy trình cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm protocol update",
-      "protocol update details",
-      "review protocol update"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "update"
-    ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "regularly-adverb",
@@ -2548,7 +3277,7 @@
     "type": "adverb",
     "meaning": "thường xuyên",
     "pronunciation": "/regularly/",
-    "topic": "Health & Safety",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2566,35 +3295,11 @@
     "wordFamily": [
       "regularly"
     ],
-    "day": 70
-  },
-  {
-    "id": "required-protection-phrase",
-    "word": "required protection",
-    "baseWord": "protection",
-    "type": "phrase",
-    "meaning": "bảo hộ bắt buộc",
-    "pronunciation": "/required protection/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the required protection carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét bảo hộ bắt buộc cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm required protection",
-      "required protection details",
-      "review required protection"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "protection"
-    ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "risk-reducing-adjective",
@@ -2603,7 +3308,7 @@
     "type": "adjective",
     "meaning": "giảm thiểu rủi ro",
     "pronunciation": "/risk-reducing/",
-    "topic": "Health & Safety",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2621,35 +3326,11 @@
     "wordFamily": [
       "risk-reducing"
     ],
-    "day": 70
-  },
-  {
-    "id": "safety-briefing-phrase",
-    "word": "safety briefing",
-    "baseWord": "briefing",
-    "type": "phrase",
-    "meaning": "buổi phổ biến an toàn",
-    "pronunciation": "/safety briefing/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the safety briefing carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét buổi phổ biến an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm safety briefing",
-      "safety briefing details",
-      "review safety briefing"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "briefing"
-    ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "safety-compliant-adjective",
@@ -2658,7 +3339,7 @@
     "type": "adjective",
     "meaning": "đáp ứng yêu cầu an toàn",
     "pronunciation": "/safety-compliant/",
-    "topic": "Health & Safety",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2676,7 +3357,11 @@
     "wordFamily": [
       "safety-compliant"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "securely-adverb",
@@ -2685,7 +3370,7 @@
     "type": "adverb",
     "meaning": "một cách chắc chắn",
     "pronunciation": "/securely/",
-    "topic": "Health & Safety",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2703,7 +3388,11 @@
     "wordFamily": [
       "securely"
     ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "thoroughly-adverb",
@@ -2712,7 +3401,7 @@
     "type": "adverb",
     "meaning": "kỹ lưỡng",
     "pronunciation": "/thoroughly/",
-    "topic": "Health & Safety",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2730,62 +3419,10 @@
     "wordFamily": [
       "thoroughly"
     ],
-    "day": 70
-  },
-  {
-    "id": "unsafe-condition-phrase",
-    "word": "unsafe condition",
-    "baseWord": "condition",
-    "type": "phrase",
-    "meaning": "điều kiện không an toàn",
-    "pronunciation": "/unsafe condition/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the unsafe condition carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét điều kiện không an toàn cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm unsafe condition",
-      "unsafe condition details",
-      "review unsafe condition"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "condition"
-    ],
-    "day": 70
-  },
-  {
-    "id": "without-delay-phrase",
-    "word": "without delay",
-    "baseWord": "delay",
-    "type": "phrase",
-    "meaning": "ngay lập tức",
-    "pronunciation": "/without delay/",
-    "topic": "Health & Safety",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the without delay carefully before confirming the arrangement.",
-    "exampleVi": "Vui lòng xem xét ngay lập tức cẩn thận trước khi xác nhận sắp xếp.",
-    "collocations": [
-      "confirm without delay",
-      "without delay details",
-      "review without delay"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "delay"
-    ],
-    "day": 70
+    "day": 70,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

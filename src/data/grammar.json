@@ -1,8 +1,1750 @@
 [
-  {"id":1,"title":"Present Simple","meaning":"Thi hien tai don","structure":{"positive":"S + V(s/es) + O","negative":"S + do/does not + V + O","question":"Do/Does + S + V + O?"},"usage":["Dien ta thoi quen","Dien ta su that hien nhien","Dien ta lich trinh co dinh"],"signals":["always","usually","often","every day"],"examples":[{"en":"I study English every day.","vi":"Toi hoc tieng Anh moi ngay."}],"commonMistakes":["Quen them s/es voi he/she/it","Dung sai do/does"],"practice":[{"question":"She ___ English every morning.","options":["study","studies","studying","studied"],"answer":"studies","explanation":"She la ngoi thu ba so it nen dong tu them s."}],"day":1,"level":"basic"},
-  {"id":2,"title":"Present Continuous","meaning":"Thi hien tai tiep dien","structure":{"positive":"S + am/is/are + V-ing","negative":"S + am/is/are not + V-ing","question":"Am/Is/Are + S + V-ing?"},"usage":["Hanh dong dang dien ra","Ke hoach gan trong tuong lai"],"signals":["now","right now","at the moment","today"],"examples":[{"en":"I am working on a new project.","vi":"Toi dang lam viec tren mot du an moi."}],"commonMistakes":["Quen be verb","Dung V-ing voi stative verbs khong phu hop"],"practice":[{"question":"They ___ a meeting now.","options":["have","has","are having","had"],"answer":"are having","explanation":"Now la dau hieu hien tai tiep dien."}],"day":2,"level":"basic"},
-  {"id":3,"title":"Past Simple","meaning":"Thi qua khu don","structure":{"positive":"S + V2/ed + O","negative":"S + did not + V + O","question":"Did + S + V + O?"},"usage":["Hanh dong da ket thuc trong qua khu","Chuoi su kien trong qua khu"],"signals":["yesterday","last week","ago","in 2020"],"examples":[{"en":"We finished the report yesterday.","vi":"Chung toi da hoan thanh bao cao hom qua."}],"commonMistakes":["Dung V2 sau did","Quen dong tu bat quy tac"],"practice":[{"question":"He ___ the invoice last Monday.","options":["send","sends","sent","sending"],"answer":"sent","explanation":"Last Monday can qua khu don, send thanh sent."}],"day":3,"level":"basic"},
-  {"id":4,"title":"Future With Will","meaning":"Tuong lai voi will","structure":{"positive":"S + will + V","negative":"S + will not + V","question":"Will + S + V?"},"usage":["Quyet dinh tai thoi diem noi","Du doan","Loi hua"],"signals":["tomorrow","soon","next week","I think"],"examples":[{"en":"I will call the client tomorrow.","vi":"Toi se goi cho khach hang vao ngay mai."}],"commonMistakes":["Them s sau will","Dung to sau will"],"practice":[{"question":"We ___ the results soon.","options":["announce","will announce","announces","announced"],"answer":"will announce","explanation":"Soon co the dung voi tuong lai will."}],"day":4,"level":"basic"},
-  {"id":5,"title":"Comparatives","meaning":"So sanh hon","structure":{"positive":"S + be + adjective-er/more adjective + than + O","negative":"S + be not + as + adjective + as + O","question":"Be + S + adjective-er/more adjective + than + O?"},"usage":["So sanh hai nguoi, vat hoac y tuong"],"signals":["than","more","less","better"],"examples":[{"en":"This process is more efficient than the old one.","vi":"Quy trinh nay hieu qua hon quy trinh cu."}],"commonMistakes":["Dung more voi tinh tu ngan sai cach","Quen than"],"practice":[{"question":"This plan is ___ than that one.","options":["good","better","best","well"],"answer":"better","explanation":"Good co dang so sanh hon bat quy tac la better."}],"day":5,"level":"basic"},
-  {"id":6,"title":"Present Perfect","meaning":"Thi hien tai hoan thanh","structure":{"positive":"S + have/has + V3/ed","negative":"S + have/has not + V3/ed","question":"Have/Has + S + V3/ed?"},"usage":["Trai nghiem","Ket qua lien quan hien tai","Hanh dong bat dau qua khu va con tiep tuc"],"signals":["already","yet","ever","since","for"],"examples":[{"en":"I have completed the quiz.","vi":"Toi da hoan thanh bai quiz."}],"commonMistakes":["Dung qua khu don voi since/for","Quen V3"],"practice":[{"question":"She ___ the document already.","options":["submit","submitted","has submitted","submits"],"answer":"has submitted","explanation":"Already thuong dung voi hien tai hoan thanh."}],"day":6,"level":"intermediate"}
+  {
+    "id": 1,
+    "title": "Present Simple",
+    "meaning": "Thì hiện tại đơn",
+    "structure": {
+      "positive": "S + V(s/es) + O",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Thói quen, lịch trình, sự thật trong công việc.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the present simple point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm thì hiện tại đơn trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests present simple in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: S + V(s/es) + O."
+      }
+    ],
+    "day": 1,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 2,
+    "title": "Present Continuous",
+    "meaning": "Thì hiện tại tiếp diễn",
+    "structure": {
+      "positive": "S + am/is/are + V-ing",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Hành động đang diễn ra hoặc kế hoạch gần.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the present continuous point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm thì hiện tại tiếp diễn trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests present continuous in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: S + am/is/are + V-ing."
+      }
+    ],
+    "day": 2,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 3,
+    "title": "Past Simple",
+    "meaning": "Thì quá khứ đơn",
+    "structure": {
+      "positive": "S + V2/ed + O",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Sự việc đã hoàn tất trong quá khứ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the past simple point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm thì quá khứ đơn trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests past simple in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: S + V2/ed + O."
+      }
+    ],
+    "day": 3,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 4,
+    "title": "Present Perfect",
+    "meaning": "Thì hiện tại hoàn thành",
+    "structure": {
+      "positive": "S + have/has + V3/ed",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Kết quả liên quan hiện tại, kinh nghiệm, since/for.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the present perfect point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm thì hiện tại hoàn thành trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests present perfect in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: S + have/has + V3/ed."
+      }
+    ],
+    "day": 4,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 5,
+    "title": "Future Forms",
+    "meaning": "Các dạng tương lai",
+    "structure": {
+      "positive": "will / be going to / present continuous",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Dự đoán, kế hoạch, lịch hẹn.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the future forms point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm các dạng tương lai trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests future forms in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: will / be going to / present continuous."
+      }
+    ],
+    "day": 5,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 6,
+    "title": "Modal Verbs",
+    "meaning": "Động từ khuyết thiếu",
+    "structure": {
+      "positive": "can / could / may / might / must / should + V",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Khả năng, đề nghị, nghĩa vụ, lời khuyên.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the modal verbs point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm động từ khuyết thiếu trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests modal verbs in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: can / could / may / might / must / should + V."
+      }
+    ],
+    "day": 6,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 7,
+    "title": "Passive Voice",
+    "meaning": "Câu bị động",
+    "structure": {
+      "positive": "S + be + V3/ed",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Nhấn mạnh vật/người nhận hành động.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the passive voice point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm câu bị động trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests passive voice in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: S + be + V3/ed."
+      }
+    ],
+    "day": 7,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 8,
+    "title": "Subject-Verb Agreement",
+    "meaning": "Hòa hợp chủ ngữ - động từ",
+    "structure": {
+      "positive": "Singular subject + singular verb",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Chọn đúng dạng động từ theo chủ ngữ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the subject-verb agreement point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm hòa hợp chủ ngữ - động từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests subject-verb agreement in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: Singular subject + singular verb."
+      }
+    ],
+    "day": 8,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 9,
+    "title": "Gerunds & Infinitives",
+    "meaning": "Danh động từ và động từ nguyên mẫu",
+    "structure": {
+      "positive": "V-ing / to V",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Dùng sau một số động từ, tính từ, giới từ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the gerunds & infinitives point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm danh động từ và động từ nguyên mẫu trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests gerunds & infinitives in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: V-ing / to V."
+      }
+    ],
+    "day": 9,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 10,
+    "title": "Participles",
+    "meaning": "Phân từ",
+    "structure": {
+      "positive": "V-ing / V3/ed as adjective",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Rút gọn mệnh đề và mô tả danh từ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the participles point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm phân từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests participles in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: V-ing / V3/ed as adjective."
+      }
+    ],
+    "day": 10,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 11,
+    "title": "Relative Clauses",
+    "meaning": "Mệnh đề quan hệ",
+    "structure": {
+      "positive": "who / which / that / where",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Bổ nghĩa cho người, vật, nơi chốn.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the relative clauses point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm mệnh đề quan hệ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests relative clauses in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: who / which / that / where."
+      }
+    ],
+    "day": 11,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 12,
+    "title": "Noun Clauses",
+    "meaning": "Mệnh đề danh từ",
+    "structure": {
+      "positive": "that / whether / question word + clause",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Làm chủ ngữ, tân ngữ, bổ ngữ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the noun clauses point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm mệnh đề danh từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests noun clauses in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: that / whether / question word + clause."
+      }
+    ],
+    "day": 12,
+    "level": "basic",
+    "targetScore": 700
+  },
+  {
+    "id": 13,
+    "title": "Adverb Clauses",
+    "meaning": "Mệnh đề trạng ngữ",
+    "structure": {
+      "positive": "because / although / when / if + clause",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Chỉ lý do, nhượng bộ, thời gian, điều kiện.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the adverb clauses point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm mệnh đề trạng ngữ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests adverb clauses in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: because / although / when / if + clause."
+      }
+    ],
+    "day": 13,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 14,
+    "title": "Conditionals",
+    "meaning": "Câu điều kiện",
+    "structure": {
+      "positive": "If + clause, main clause",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Diễn tả điều kiện thật, giả định, kết quả.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the conditionals point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm câu điều kiện trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests conditionals in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: If + clause, main clause."
+      }
+    ],
+    "day": 14,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 15,
+    "title": "Comparatives",
+    "meaning": "So sánh hơn",
+    "structure": {
+      "positive": "more/-er + than",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "So sánh hai lựa chọn, sản phẩm, số liệu.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the comparatives point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm so sánh hơn trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests comparatives in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: more/-er + than."
+      }
+    ],
+    "day": 15,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 16,
+    "title": "Superlatives",
+    "meaning": "So sánh nhất",
+    "structure": {
+      "positive": "the most/-est",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Nói về mức cao nhất trong nhóm.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the superlatives point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm so sánh nhất trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests superlatives in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: the most/-est."
+      }
+    ],
+    "day": 16,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 17,
+    "title": "Articles",
+    "meaning": "Mạo từ",
+    "structure": {
+      "positive": "a / an / the / zero article",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Xác định danh từ chung, riêng, đã biết.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the articles point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm mạo từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests articles in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: a / an / the / zero article."
+      }
+    ],
+    "day": 17,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 18,
+    "title": "Determiners",
+    "meaning": "Từ hạn định",
+    "structure": {
+      "positive": "some / any / each / every / much / many",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Xác định số lượng hoặc phạm vi danh từ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the determiners point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm từ hạn định trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests determiners in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: some / any / each / every / much / many."
+      }
+    ],
+    "day": 18,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 19,
+    "title": "Pronouns",
+    "meaning": "Đại từ",
+    "structure": {
+      "positive": "subject / object / possessive / reflexive pronouns",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Tránh lặp danh từ và chọn đúng vai trò.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the pronouns point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm đại từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests pronouns in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: subject / object / possessive / reflexive pronouns."
+      }
+    ],
+    "day": 19,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 20,
+    "title": "Prepositions of Time",
+    "meaning": "Giới từ thời gian",
+    "structure": {
+      "positive": "at / on / in / by / until / during",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Mốc thời gian, hạn chót, khoảng thời gian.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the prepositions of time point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm giới từ thời gian trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests prepositions of time in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: at / on / in / by / until / during."
+      }
+    ],
+    "day": 20,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 21,
+    "title": "Prepositions of Place",
+    "meaning": "Giới từ nơi chốn",
+    "structure": {
+      "positive": "at / in / on / beside / between",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Vị trí người, vật, nơi làm việc.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the prepositions of place point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm giới từ nơi chốn trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests prepositions of place in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: at / in / on / beside / between."
+      }
+    ],
+    "day": 21,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 22,
+    "title": "Prepositional Phrases",
+    "meaning": "Cụm giới từ",
+    "structure": {
+      "positive": "in charge of / according to / due to",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Cụm cố định thường gặp trong Part 5-7.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the prepositional phrases point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm cụm giới từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests prepositional phrases in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: in charge of / according to / due to."
+      }
+    ],
+    "day": 22,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 23,
+    "title": "Conjunctions",
+    "meaning": "Liên từ",
+    "structure": {
+      "positive": "and / but / or / so / yet",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Nối từ, cụm từ, mệnh đề cùng cấp.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the conjunctions point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm liên từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests conjunctions in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: and / but / or / so / yet."
+      }
+    ],
+    "day": 23,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 24,
+    "title": "Transitions",
+    "meaning": "Từ nối logic",
+    "structure": {
+      "positive": "however / therefore / moreover / meanwhile",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Liên kết ý trong Part 6 và Part 7.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the transitions point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm từ nối logic trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests transitions in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: however / therefore / moreover / meanwhile."
+      }
+    ],
+    "day": 24,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 25,
+    "title": "Word Forms",
+    "meaning": "Dạng từ",
+    "structure": {
+      "positive": "noun / verb / adjective / adverb",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Chọn đúng loại từ theo vị trí trong câu.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the word forms point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm dạng từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests word forms in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: noun / verb / adjective / adverb."
+      }
+    ],
+    "day": 25,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 26,
+    "title": "Prefixes & Suffixes",
+    "meaning": "Tiền tố và hậu tố",
+    "structure": {
+      "positive": "re- / pre- / -tion / -ment / -able",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Đoán nghĩa và loại từ nhanh.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the prefixes & suffixes point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm tiền tố và hậu tố trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests prefixes & suffixes in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: re- / pre- / -tion / -ment / -able."
+      }
+    ],
+    "day": 26,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 27,
+    "title": "Countable & Uncountable Nouns",
+    "meaning": "Danh từ đếm được và không đếm được",
+    "structure": {
+      "positive": "many / much / a few / a little",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Chọn lượng từ và động từ phù hợp.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the countable & uncountable nouns point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm danh từ đếm được và không đếm được trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests countable & uncountable nouns in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: many / much / a few / a little."
+      }
+    ],
+    "day": 27,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 28,
+    "title": "Quantifiers",
+    "meaning": "Lượng từ",
+    "structure": {
+      "positive": "several / a number of / the amount of",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Diễn tả số lượng trong văn bản công việc.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the quantifiers point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm lượng từ trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests quantifiers in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: several / a number of / the amount of."
+      }
+    ],
+    "day": 28,
+    "level": "intermediate",
+    "targetScore": 700
+  },
+  {
+    "id": 29,
+    "title": "Causative Verbs",
+    "meaning": "Cấu trúc sai khiến",
+    "structure": {
+      "positive": "have/get/make + object + verb",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Nhờ, yêu cầu hoặc khiến ai làm gì.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the causative verbs point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm cấu trúc sai khiến trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests causative verbs in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: have/get/make + object + verb."
+      }
+    ],
+    "day": 29,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 30,
+    "title": "Reported Speech",
+    "meaning": "Câu tường thuật",
+    "structure": {
+      "positive": "said that / told someone that",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Tường thuật thông báo, yêu cầu, lời nói.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the reported speech point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm câu tường thuật trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests reported speech in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: said that / told someone that."
+      }
+    ],
+    "day": 30,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 31,
+    "title": "Requests & Offers",
+    "meaning": "Yêu cầu và đề nghị",
+    "structure": {
+      "positive": "Would you mind / Could you / Let me",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Giao tiếp công sở lịch sự.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the requests & offers point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm yêu cầu và đề nghị trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests requests & offers in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: Would you mind / Could you / Let me."
+      }
+    ],
+    "day": 31,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 32,
+    "title": "Questions",
+    "meaning": "Câu hỏi",
+    "structure": {
+      "positive": "Wh- / Yes-No / tag questions",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Nhận diện câu hỏi trong Listening và Reading.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the questions point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm câu hỏi trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests questions in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: Wh- / Yes-No / tag questions."
+      }
+    ],
+    "day": 32,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 33,
+    "title": "Negation",
+    "meaning": "Phủ định",
+    "structure": {
+      "positive": "not / never / hardly / neither",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Tránh hiểu sai nghĩa câu phủ định.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the negation point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm phủ định trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests negation in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: not / never / hardly / neither."
+      }
+    ],
+    "day": 33,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 34,
+    "title": "Parallel Structure",
+    "meaning": "Cấu trúc song song",
+    "structure": {
+      "positive": "A, B, and C in the same form",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Giữ các thành phần cùng dạng ngữ pháp.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the parallel structure point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm cấu trúc song song trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests parallel structure in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: A, B, and C in the same form."
+      }
+    ],
+    "day": 34,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 35,
+    "title": "Sentence Fragments",
+    "meaning": "Mảnh câu",
+    "structure": {
+      "positive": "complete subject + complete verb",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Tránh thiếu chủ ngữ hoặc động từ chính.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the sentence fragments point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm mảnh câu trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests sentence fragments in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: complete subject + complete verb."
+      }
+    ],
+    "day": 35,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 36,
+    "title": "Run-on Sentences",
+    "meaning": "Câu nối sai",
+    "structure": {
+      "positive": "independent clause + connector + independent clause",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Tách hoặc nối câu đúng dấu/liên từ.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the run-on sentences point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm câu nối sai trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests run-on sentences in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: independent clause + connector + independent clause."
+      }
+    ],
+    "day": 36,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 37,
+    "title": "Inversion",
+    "meaning": "Đảo ngữ cơ bản",
+    "structure": {
+      "positive": "Never / Rarely / Not only + auxiliary + subject + verb",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Cấu trúc nhấn mạnh ở mức nâng cao.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the inversion point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm đảo ngữ cơ bản trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests inversion in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: Never / Rarely / Not only + auxiliary + subject + verb."
+      }
+    ],
+    "day": 37,
+    "level": "advanced",
+    "targetScore": 700
+  },
+  {
+    "id": 38,
+    "title": "Business Email Grammar",
+    "meaning": "Ngữ pháp email công việc",
+    "structure": {
+      "positive": "polite opening + clear request + closing",
+      "negative": "Xem ví dụ và lỗi thường gặp trong bài học.",
+      "question": "Áp dụng theo ngữ cảnh Part 5-7."
+    },
+    "usage": [
+      "Ứng dụng ngữ pháp vào email TOEIC.",
+      "Thường xuất hiện trong Part 5, Part 6 và đọc hiểu Part 7."
+    ],
+    "signals": [
+      "TOEIC",
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "examples": [
+      {
+        "en": "The team reviewed the business email grammar point during the meeting.",
+        "vi": "Nhóm đã xem lại điểm ngữ pháp email công việc trong cuộc họp."
+      }
+    ],
+    "commonMistakes": [
+      "Chọn theo nghĩa tiếng Việt mà bỏ qua vị trí trong câu.",
+      "Không kiểm tra chủ ngữ, động từ, hoặc dấu hiệu ngữ pháp xung quanh."
+    ],
+    "practice": [
+      {
+        "question": "This question tests business email grammar in a TOEIC-style sentence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ôn lại cấu trúc: polite opening + clear request + closing."
+      }
+    ],
+    "day": 38,
+    "level": "advanced",
+    "targetScore": 700
+  }
 ]

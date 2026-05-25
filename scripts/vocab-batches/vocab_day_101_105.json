@@ -1,105 +1,12 @@
 [
   {
-    "id": "agenda-approval-phrase",
-    "word": "agenda approval",
-    "baseWord": "approval",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda approval",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the agenda approval before the next business day.",
-    "exampleVi": "Vui long xem lai agenda approval truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda approval",
-      "agenda approval process",
-      "agenda approval deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "approval"
-    ],
-    "day": 101
-  },
-  {
-    "id": "agenda-request-phrase",
-    "word": "agenda request",
-    "baseWord": "request",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda request",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the agenda request before the next business day.",
-    "exampleVi": "Vui long xem lai agenda request truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda request",
-      "agenda request process",
-      "agenda request deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "request"
-    ],
-    "day": 101
-  },
-  {
-    "id": "agenda-review-phrase",
-    "word": "agenda review",
-    "baseWord": "review",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda review",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the agenda review before the next business day.",
-    "exampleVi": "Vui long xem lai agenda review truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda review",
-      "agenda review process",
-      "agenda review deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "review"
-    ],
-    "day": 101
-  },
-  {
     "id": "assure-verb",
     "word": "assure",
     "baseWord": "assure",
     "type": "verb",
     "meaning": "cam đoan, bảo đảm",
     "pronunciation": "/əˈʃʊr/",
-    "topic": "Quality & Standards",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -124,7 +31,11 @@
       "assured",
       "assuredly"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "certified-adjective",
@@ -133,7 +44,7 @@
     "type": "adjective",
     "meaning": "đã được chứng nhận, có chứng chỉ",
     "pronunciation": "/ˈsɜːrtɪfaɪd/",
-    "topic": "Quality & Standards",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -158,7 +69,11 @@
       "certification",
       "certifiable"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "conform-verb",
@@ -167,7 +82,7 @@
     "type": "verb",
     "meaning": "tuân theo, phù hợp với",
     "pronunciation": "/kənˈfɔːrm/",
-    "topic": "Quality & Standards",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -191,7 +106,11 @@
       "conformance",
       "nonconforming"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "criterion-noun",
@@ -200,7 +119,7 @@
     "type": "noun",
     "meaning": "tiêu chí",
     "pronunciation": "/kraɪˈtɪriən/",
-    "topic": "Quality & Standards",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -224,40 +143,11 @@
       "criterion",
       "criterions"
     ],
-    "day": 101
-  },
-  {
-    "id": "defect-free-phrase",
-    "word": "defect-free",
-    "baseWord": "defect-free",
-    "type": "phrase",
-    "meaning": "không có lỗi, hoàn hảo",
-    "pronunciation": "/dɪˈfekt friː/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our goal is to deliver defect-free products to every client.",
-    "exampleVi": "Mục tiêu của chúng tôi là giao sản phẩm không có lỗi cho mọi khách hàng.",
-    "collocations": [
-      "defect-free product",
-      "defect-free manufacturing",
-      "ensure defect-free"
-    ],
-    "synonyms": [
-      "flawless",
-      "perfect"
-    ],
-    "wordFamily": [
-      "defect",
-      "defective",
-      "defects"
-    ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "flawed-adjective",
@@ -266,7 +156,7 @@
     "type": "adjective",
     "meaning": "có lỗi, có tì vết, không hoàn hảo",
     "pronunciation": "/flɔːd/",
-    "topic": "Quality & Standards",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -290,7 +180,11 @@
       "flawless",
       "flawlessly"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "grade-noun",
@@ -299,7 +193,7 @@
     "type": "noun",
     "meaning": "phân loại, cấp độ, mác",
     "pronunciation": "/ɡreɪd/",
-    "topic": "Quality & Standards",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -323,7 +217,11 @@
       "grading",
       "graded"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "inspection-noun",
@@ -332,7 +230,7 @@
     "type": "noun",
     "meaning": "sự kiểm tra, thanh tra",
     "pronunciation": "/ɪnˈspekʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -358,7 +256,11 @@
       "inspector",
       "inspected"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "meticulous-adjective",
@@ -367,7 +269,7 @@
     "type": "adjective",
     "meaning": "tỉ mỉ, cẩn thận",
     "pronunciation": "/məˈtɪkjələs/",
-    "topic": "Quality & Standards",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -390,38 +292,47 @@
       "meticulously",
       "meticulousness"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "online-agenda-phrase",
-    "word": "online agenda",
-    "baseWord": "agenda",
+    "id": "monthly-report-collocation",
+    "word": "monthly report",
+    "baseWord": "report",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: online agenda",
+    "meaning": "collocation TOEIC 700: monthly report",
     "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "hard",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "Please review the online agenda before the next business day.",
-    "exampleVi": "Vui long xem lai online agenda truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly report in the file before Friday.",
+    "exampleVi": "Vui long dua monthly report vao ho so truoc thu Sau.",
     "collocations": [
-      "online agenda",
-      "online agenda process",
-      "online agenda deadline"
+      "monthly report",
+      "monthly report review",
+      "monthly report deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "agenda"
+      "monthly",
+      "report"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "optimal-adjective",
@@ -430,7 +341,7 @@
     "type": "adjective",
     "meaning": "tối ưu, tốt nhất",
     "pronunciation": "/ˈɑːptɪməl/",
-    "topic": "Quality & Standards",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -455,7 +366,11 @@
       "optimization",
       "optimum"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "optimization-noun",
@@ -464,7 +379,7 @@
     "type": "noun",
     "meaning": "sự tối ưu hóa",
     "pronunciation": "/ˌɑːptɪmaɪˈzeɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -487,49 +402,56 @@
       "optimal",
       "optimum"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "quality assurance-phrase",
-    "word": "quality assurance",
-    "baseWord": "quality assurance",
+    "id": "quarterly-compliance-collocation",
+    "word": "quarterly compliance",
+    "baseWord": "compliance",
     "type": "phrase",
-    "meaning": "đảm bảo chất lượng",
-    "pronunciation": "/ˈkwɑːləti əˈʃʊrəns/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
+    "meaning": "collocation TOEIC 700: quarterly compliance",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
+      "Part 1",
       "Part 3",
-      "Part 5",
-      "Part 7"
+      "Part 5"
     ],
-    "example": "Quality assurance audits are conducted on a quarterly basis.",
-    "exampleVi": "Các cuộc kiểm toán đảm bảo chất lượng được tiến hành hàng quý.",
+    "example": "Please include the quarterly compliance in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly compliance vao ho so truoc thu Sau.",
     "collocations": [
-      "quality assurance system",
-      "quality assurance team",
-      "quality assurance policy"
+      "quarterly compliance",
+      "quarterly compliance review",
+      "quarterly compliance deadline"
     ],
     "synonyms": [
-      "quality control",
-      "quality monitoring"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "quality",
-      "assure",
-      "assurance"
+      "quarterly",
+      "compliance"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "quality control-phrase",
-    "word": "quality control",
-    "baseWord": "quality control",
+    "id": "quarterly-payment-collocation",
+    "word": "quarterly payment",
+    "baseWord": "payment",
     "type": "phrase",
-    "meaning": "kiểm soát chất lượng",
-    "pronunciation": "/ˈkwɑːləti kənˈtroʊl/",
-    "topic": "Quality & Standards",
+    "meaning": "collocation TOEIC 700: quarterly payment",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -537,23 +459,170 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "All products must pass quality control before being packaged.",
-    "exampleVi": "Tất cả sản phẩm phải vượt qua khâu kiểm soát chất lượng trước khi được đóng gói.",
+    "example": "Please include the quarterly payment in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly payment vao ho so truoc thu Sau.",
     "collocations": [
-      "quality control department",
-      "quality control standards",
-      "quality control manager"
+      "quarterly payment",
+      "quarterly payment review",
+      "quarterly payment deadline"
     ],
     "synonyms": [
-      "inspection",
-      "quality assurance"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "quality",
-      "control",
-      "controller"
+      "quarterly",
+      "payment"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "quarterly-payroll-collocation",
+    "word": "quarterly payroll",
+    "baseWord": "payroll",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly payroll",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly payroll in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly payroll vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly payroll",
+      "quarterly payroll review",
+      "quarterly payroll deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "payroll"
+    ],
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "quarterly-regulation-collocation",
+    "word": "quarterly regulation",
+    "baseWord": "regulation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly regulation",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly regulation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly regulation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly regulation",
+      "quarterly regulation review",
+      "quarterly regulation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "regulation"
+    ],
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "quarterly-reimbursement-collocation",
+    "word": "quarterly reimbursement",
+    "baseWord": "reimbursement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly reimbursement",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly reimbursement in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly reimbursement vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly reimbursement",
+      "quarterly reimbursement review",
+      "quarterly reimbursement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "reimbursement"
+    ],
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "quarterly-transaction-collocation",
+    "word": "quarterly transaction",
+    "baseWord": "transaction",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly transaction",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly transaction in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly transaction vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly transaction",
+      "quarterly transaction review",
+      "quarterly transaction deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "transaction"
+    ],
+    "day": 101,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "re-inspect-verb",
@@ -562,7 +631,7 @@
     "type": "verb",
     "meaning": "kiểm tra lại",
     "pronunciation": "/ˌriːɪnˈspekt/",
-    "topic": "Quality & Standards",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -585,7 +654,11 @@
       "inspection",
       "inspector"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "standardize-verb",
@@ -594,7 +667,7 @@
     "type": "verb",
     "meaning": "tiêu chuẩn hóa",
     "pronunciation": "/ˈstændərdaɪz/",
-    "topic": "Quality & Standards",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -618,7 +691,11 @@
       "standardization",
       "standardized"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "stringent-adjective",
@@ -627,7 +704,7 @@
     "type": "adjective",
     "meaning": "nghiêm ngặt, chặt chẽ",
     "pronunciation": "/ˈstrɪndʒənt/",
-    "topic": "Quality & Standards",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -650,7 +727,11 @@
       "stringently",
       "stringency"
     ],
-    "day": 101
+    "day": 101,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "adhere-verb",
@@ -659,7 +740,7 @@
     "type": "verb",
     "meaning": "tuân thủ, bám sát",
     "pronunciation": "/ədˈhɪr/",
-    "topic": "Quality & Standards",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -682,164 +763,11 @@
       "adherence",
       "adherent"
     ],
-    "day": 102
-  },
-  {
-    "id": "agenda-notice-phrase",
-    "word": "agenda notice",
-    "baseWord": "notice",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda notice",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the agenda notice before the next business day.",
-    "exampleVi": "Vui long xem lai agenda notice truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda notice",
-      "agenda notice process",
-      "agenda notice deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "notice"
-    ],
-    "day": 102
-  },
-  {
-    "id": "agenda-report-phrase",
-    "word": "agenda report",
-    "baseWord": "report",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda report",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the agenda report before the next business day.",
-    "exampleVi": "Vui long xem lai agenda report truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda report",
-      "agenda report process",
-      "agenda report deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "report"
-    ],
-    "day": 102
-  },
-  {
-    "id": "agenda-schedule-phrase",
-    "word": "agenda schedule",
-    "baseWord": "schedule",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda schedule",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the agenda schedule before the next business day.",
-    "exampleVi": "Vui long xem lai agenda schedule truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda schedule",
-      "agenda schedule process",
-      "agenda schedule deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "schedule"
-    ],
-    "day": 102
-  },
-  {
-    "id": "agenda-update-phrase",
-    "word": "agenda update",
-    "baseWord": "update",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda update",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the agenda update before the next business day.",
-    "exampleVi": "Vui long xem lai agenda update truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda update",
-      "agenda update process",
-      "agenda update deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "update"
-    ],
-    "day": 102
-  },
-  {
-    "id": "defect rate-phrase",
-    "word": "defect rate",
-    "baseWord": "defect",
-    "type": "phrase",
-    "meaning": "tỷ lệ lỗi",
-    "pronunciation": "/ˈdiːfekt reɪt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The factory managed to lower its defect rate to under zero point five percent.",
-    "exampleVi": "Nhà máy đã cố gắng giảm tỷ lệ lỗi xuống dưới 0,5%.",
-    "collocations": [
-      "low defect rate",
-      "high defect rate",
-      "calculate defect rate"
-    ],
-    "synonyms": [
-      "error rate",
-      "failure rate"
-    ],
-    "wordFamily": [
-      "defect",
-      "defective",
-      "defects"
-    ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "flawless-adjective",
@@ -848,7 +776,7 @@
     "type": "adjective",
     "meaning": "hoàn hảo, không có lỗi",
     "pronunciation": "/ˈflɔːləs/",
-    "topic": "Quality & Standards",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -871,39 +799,11 @@
       "flawed",
       "flawlessly"
     ],
-    "day": 102
-  },
-  {
-    "id": "inspection report-phrase",
-    "word": "inspection report",
-    "baseWord": "inspect",
-    "type": "phrase",
-    "meaning": "báo cáo kiểm tra",
-    "pronunciation": "/ɪnˈspekʃən rɪˈpɔːrt/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The technician filed the weekly inspection report this morning.",
-    "exampleVi": "Kỹ thuật viên đã nộp báo cáo kiểm tra hàng tuần vào sáng nay.",
-    "collocations": [
-      "weekly inspection report",
-      "submit inspection report",
-      "safety inspection report"
-    ],
-    "synonyms": [
-      "audit report",
-      "check report"
-    ],
-    "wordFamily": [
-      "inspect",
-      "inspection",
-      "inspector"
-    ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "mandate-noun",
@@ -912,7 +812,7 @@
     "type": "noun",
     "meaning": "sự ủy quyền, lệnh bắt buộc",
     "pronunciation": "/ˈmændeɪt/",
-    "topic": "Quality & Standards",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -935,7 +835,11 @@
       "mandated",
       "mandatory"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "meticulously-adverb",
@@ -944,7 +848,7 @@
     "type": "adverb",
     "meaning": "một cách tỉ mỉ",
     "pronunciation": "/məˈtɪkjələsli/",
-    "topic": "Quality & Standards",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -967,7 +871,226 @@
       "meticulous",
       "meticulousness"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "monthly-deadline-collocation",
+    "word": "monthly deadline",
+    "baseWord": "deadline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly deadline",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly deadline in the file before Friday.",
+    "exampleVi": "Vui long dua monthly deadline vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly deadline",
+      "monthly deadline review",
+      "monthly deadline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "deadline"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "monthly-feedback-collocation",
+    "word": "monthly feedback",
+    "baseWord": "feedback",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly feedback",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly feedback in the file before Friday.",
+    "exampleVi": "Vui long dua monthly feedback vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly feedback",
+      "monthly feedback review",
+      "monthly feedback deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "feedback"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "monthly-invoice-collocation",
+    "word": "monthly invoice",
+    "baseWord": "invoice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly invoice",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly invoice in the file before Friday.",
+    "exampleVi": "Vui long dua monthly invoice vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly invoice",
+      "monthly invoice review",
+      "monthly invoice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "invoice"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "monthly-proposal-collocation",
+    "word": "monthly proposal",
+    "baseWord": "proposal",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly proposal",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly proposal in the file before Friday.",
+    "exampleVi": "Vui long dua monthly proposal vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly proposal",
+      "monthly proposal review",
+      "monthly proposal deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "proposal"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "monthly-receipt-collocation",
+    "word": "monthly receipt",
+    "baseWord": "receipt",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly receipt",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly receipt in the file before Friday.",
+    "exampleVi": "Vui long dua monthly receipt vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly receipt",
+      "monthly receipt review",
+      "monthly receipt deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "receipt"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-target-collocation",
+    "word": "monthly target",
+    "baseWord": "target",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly target",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly target in the file before Friday.",
+    "exampleVi": "Vui long dua monthly target vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly target",
+      "monthly target review",
+      "monthly target deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "target"
+    ],
+    "day": 102,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "protocol-noun",
@@ -976,7 +1099,7 @@
     "type": "noun",
     "meaning": "quy trình, nghi thức",
     "pronunciation": "/ˈproʊtəkɑːl/",
-    "topic": "Quality & Standards",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1000,7 +1123,11 @@
       "protocols",
       "protocoling"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "regulatory-adjective",
@@ -1009,7 +1136,7 @@
     "type": "adjective",
     "meaning": "thuộc về quy định, điều tiết",
     "pronunciation": "/ˈreɡjələtɔːri/",
-    "topic": "Quality & Standards",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1032,7 +1159,11 @@
       "regulation",
       "regulator"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "rigorous-adjective",
@@ -1041,7 +1172,7 @@
     "type": "adjective",
     "meaning": "nghiêm ngặt, khắt khe",
     "pronunciation": "/ˈrɪɡərəs/",
-    "topic": "Quality & Standards",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1064,7 +1195,11 @@
       "rigorously",
       "rigor"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "scrutinize-verb",
@@ -1073,7 +1208,7 @@
     "type": "verb",
     "meaning": "xem xét kỹ lưỡng",
     "pronunciation": "/ˈskruːtənaɪz/",
-    "topic": "Quality & Standards",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1096,7 +1231,11 @@
       "scrutiny",
       "scrutinized"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "scrutiny-noun",
@@ -1105,7 +1244,7 @@
     "type": "noun",
     "meaning": "sự xem xét kỹ lưỡng",
     "pronunciation": "/ˈskruːtəni/",
-    "topic": "Quality & Standards",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1127,7 +1266,11 @@
       "scrutinize",
       "scrutinized"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "standardization-noun",
@@ -1136,7 +1279,7 @@
     "type": "noun",
     "meaning": "sự tiêu chuẩn hóa",
     "pronunciation": "/ˌstændərdaɪˈzeɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1159,7 +1302,11 @@
       "standardize",
       "standardized"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "traceability-noun",
@@ -1168,7 +1315,7 @@
     "type": "noun",
     "meaning": "khả năng truy xuất nguồn gốc",
     "pronunciation": "/ˌtreɪsəˈbɪləti/",
-    "topic": "Quality & Standards",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1190,7 +1337,11 @@
       "traceable",
       "tracker"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "traceable-adjective",
@@ -1199,7 +1350,7 @@
     "type": "adjective",
     "meaning": "có thể truy xuất nguồn gốc, có thể theo dõi",
     "pronunciation": "/ˈtreɪsəbl/",
-    "topic": "Quality & Standards",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1222,7 +1373,11 @@
       "traceability",
       "tracker"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "validate-verb",
@@ -1231,7 +1386,7 @@
     "type": "verb",
     "meaning": "xác nhận hiệu lực, xác thực",
     "pronunciation": "/ˈvælɪdeɪt/",
-    "topic": "Quality & Standards",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1256,7 +1411,11 @@
       "validated",
       "invalid"
     ],
-    "day": 102
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "validation-noun",
@@ -1265,7 +1424,7 @@
     "type": "noun",
     "meaning": "sự phê chuẩn, sự thẩm định, sự xác nhận",
     "pronunciation": "/ˌvælɪˈdeɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1288,38 +1447,11 @@
       "validated",
       "validity"
     ],
-    "day": 102
-  },
-  {
-    "id": "agenda-form-phrase",
-    "word": "agenda form",
-    "baseWord": "form",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda form",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the agenda form before the next business day.",
-    "exampleVi": "Vui long xem lai agenda form truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda form",
-      "agenda form process",
-      "agenda form deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "form"
-    ],
-    "day": 103
+    "day": 102,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "calibration-noun",
@@ -1328,7 +1460,7 @@
     "type": "noun",
     "meaning": "sự hiệu chuẩn",
     "pronunciation": "/ˌkælɪˈbreɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Office & Administration",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1349,7 +1481,11 @@
       "calibrate",
       "calibrated"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "compliant-adjective",
@@ -1358,7 +1494,7 @@
     "type": "adjective",
     "meaning": "tuân thủ, phù hợp",
     "pronunciation": "/kəmˈplaɪənt/",
-    "topic": "Quality & Standards",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1382,7 +1518,11 @@
       "compliance",
       "noncompliant"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "consistency-noun",
@@ -1391,7 +1531,7 @@
     "type": "noun",
     "meaning": "sự nhất quán, tính nhất quán",
     "pronunciation": "/kənˈsɪstənsi/",
-    "topic": "Quality & Standards",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1416,7 +1556,11 @@
       "consistently",
       "consist"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "consistent-adjective",
@@ -1425,7 +1569,7 @@
     "type": "adjective",
     "meaning": "nhất quán, kiên định",
     "pronunciation": "/kənˈsɪstənt/",
-    "topic": "Quality & Standards",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1450,41 +1594,11 @@
       "consistently",
       "consist"
     ],
-    "day": 103
-  },
-  {
-    "id": "error-free-phrase",
-    "word": "error-free",
-    "baseWord": "error",
-    "type": "phrase",
-    "meaning": "không có lỗi, hoàn toàn chính xác",
-    "pronunciation": "/ˈerər friː/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Employees are expected to produce error-free data entry work.",
-    "exampleVi": "Nhân viên được kỳ vọng sẽ thực hiện công việc nhập dữ liệu không có lỗi.",
-    "collocations": [
-      "error-free data",
-      "error-free software",
-      "virtually error-free"
-    ],
-    "synonyms": [
-      "accurate",
-      "flawless",
-      "perfect"
-    ],
-    "wordFamily": [
-      "error",
-      "errors",
-      "erroneous"
-    ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "imperfect-adjective",
@@ -1493,7 +1607,7 @@
     "type": "adjective",
     "meaning": "khiếm khuyết, không hoàn hảo",
     "pronunciation": "/ɪmˈpɜːrfɪkt/",
-    "topic": "Quality & Standards",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1518,7 +1632,11 @@
       "imperfectly",
       "perfect"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "imperfection-noun",
@@ -1527,7 +1645,7 @@
     "type": "noun",
     "meaning": "khuyết tật, khiếm khuyết, điểm chưa hoàn hảo",
     "pronunciation": "/ˌɪmpərˈfekʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1551,7 +1669,118 @@
       "imperfectly",
       "perfection"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "monthly-agreement-collocation",
+    "word": "monthly agreement",
+    "baseWord": "agreement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly agreement",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly agreement in the file before Friday.",
+    "exampleVi": "Vui long dua monthly agreement vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly agreement",
+      "monthly agreement review",
+      "monthly agreement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "agreement"
+    ],
+    "day": 103,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "monthly-schedule-collocation",
+    "word": "monthly schedule",
+    "baseWord": "schedule",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly schedule",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly schedule in the file before Friday.",
+    "exampleVi": "Vui long dua monthly schedule vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly schedule",
+      "monthly schedule review",
+      "monthly schedule deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "schedule"
+    ],
+    "day": 103,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "monthly-shipment-collocation",
+    "word": "monthly shipment",
+    "baseWord": "shipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly shipment",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly shipment in the file before Friday.",
+    "exampleVi": "Vui long dua monthly shipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly shipment",
+      "monthly shipment review",
+      "monthly shipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "shipment"
+    ],
+    "day": 103,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "non-compliance-noun",
@@ -1560,7 +1789,7 @@
     "type": "noun",
     "meaning": "sự không tuân thủ",
     "pronunciation": "/ˌnɑːnkəmˈplaɪəns/",
-    "topic": "Quality & Standards",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1583,7 +1812,11 @@
       "compliance",
       "compliant"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "non-compliant-adjective",
@@ -1592,7 +1825,7 @@
     "type": "adjective",
     "meaning": "không tuân thủ, không đúng tiêu chuẩn",
     "pronunciation": "/ˌnAGnkəmˈplaɪənt/",
-    "topic": "Quality & Standards",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1615,7 +1848,11 @@
       "compliance",
       "compliant"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "outlier-noun",
@@ -1624,7 +1861,7 @@
     "type": "noun",
     "meaning": "giá trị ngoại lai, trường hợp cá biệt",
     "pronunciation": "/ˈaʊtlaɪər/",
-    "topic": "Quality & Standards",
+    "topic": "Finance & Banking",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1646,7 +1883,11 @@
       "lay",
       "lying"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "precaution-noun",
@@ -1655,7 +1896,7 @@
     "type": "noun",
     "meaning": "biện pháp phòng ngừa",
     "pronunciation": "/prɪˈkɔːʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1679,7 +1920,11 @@
       "precautions",
       "precautionary"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "precautionary-adjective",
@@ -1688,7 +1933,7 @@
     "type": "adjective",
     "meaning": "mang tính phòng ngừa",
     "pronunciation": "/prɪˈkɔːʃəneri/",
-    "topic": "Quality & Standards",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1712,7 +1957,11 @@
       "precautions",
       "precautionary"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "safeguard-noun",
@@ -1721,7 +1970,7 @@
     "type": "noun",
     "meaning": "biện pháp bảo vệ",
     "pronunciation": "/ˈseɪfɡɑːrd/",
-    "topic": "Quality & Standards",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1744,7 +1993,11 @@
       "safeguarded",
       "safeguarding"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "sampling-noun",
@@ -1753,7 +2006,7 @@
     "type": "noun",
     "meaning": "sự lấy mẫu",
     "pronunciation": "/ˈsæmplɪŋ/",
-    "topic": "Quality & Standards",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1775,7 +2028,11 @@
       "sampled",
       "sampler"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "screening-noun",
@@ -1784,7 +2041,7 @@
     "type": "noun",
     "meaning": "sự sàng lọc, kiểm tra",
     "pronunciation": "/ˈskriːnɪŋ/",
-    "topic": "Quality & Standards",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1807,7 +2064,11 @@
       "screen",
       "screened"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "specimen-noun",
@@ -1816,7 +2077,7 @@
     "type": "noun",
     "meaning": "mẫu vật, mẫu thử",
     "pronunciation": "/ˈspesɪmən/",
-    "topic": "Quality & Standards",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1839,7 +2100,11 @@
       "specimens",
       "specimen-like"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "substandard-adjective",
@@ -1848,7 +2113,7 @@
     "type": "adjective",
     "meaning": "dưới tiêu chuẩn",
     "pronunciation": "/ˌsʌbˈstændərd/",
-    "topic": "Quality & Standards",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1871,7 +2136,11 @@
       "standard",
       "standardize"
     ],
-    "day": 103
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "uniformity-noun",
@@ -1880,7 +2149,7 @@
     "type": "noun",
     "meaning": "sự đồng nhất, tính nhất quán",
     "pronunciation": "/ˌjuːnɪˈfɔːrməti/",
-    "topic": "Quality & Standards",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1902,318 +2171,11 @@
       "uniform",
       "uniformly"
     ],
-    "day": 103
-  },
-  {
-    "id": "zero defects-phrase",
-    "word": "zero defects",
-    "baseWord": "defect",
-    "type": "phrase",
-    "meaning": "không lỗi, lỗi bằng không",
-    "pronunciation": "/ˈzɪroʊ dɪˈfekts/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The plant adopted a zero defects policy to satisfy customers.",
-    "exampleVi": "Nhà máy đã áp dụng chính sách không lỗi để làm hài lòng khách hàng.",
-    "collocations": [
-      "zero defects policy",
-      "zero defects program",
-      "achieve zero defects"
-    ],
-    "synonyms": [
-      "perfection",
-      "flawlessness"
-    ],
-    "wordFamily": [
-      "defect",
-      "defective",
-      "defects"
-    ],
-    "day": 103
-  },
-  {
-    "id": "agenda-arrangement-phrase",
-    "word": "agenda arrangement",
-    "baseWord": "arrangement",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda arrangement",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the agenda arrangement before the next business day.",
-    "exampleVi": "Vui long xem lai agenda arrangement truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda arrangement",
-      "agenda arrangement process",
-      "agenda arrangement deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "arrangement"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-confirmation-phrase",
-    "word": "agenda confirmation",
-    "baseWord": "confirmation",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda confirmation",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the agenda confirmation before the next business day.",
-    "exampleVi": "Vui long xem lai agenda confirmation truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda confirmation",
-      "agenda confirmation process",
-      "agenda confirmation deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "confirmation"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-deadline-phrase",
-    "word": "agenda deadline",
-    "baseWord": "deadline",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda deadline",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the agenda deadline before the next business day.",
-    "exampleVi": "Vui long xem lai agenda deadline truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda deadline",
-      "agenda deadline process",
-      "agenda deadline deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "deadline"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-estimate-phrase",
-    "word": "agenda estimate",
-    "baseWord": "estimate",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda estimate",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the agenda estimate before the next business day.",
-    "exampleVi": "Vui long xem lai agenda estimate truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda estimate",
-      "agenda estimate process",
-      "agenda estimate deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "estimate"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-policy-phrase",
-    "word": "agenda policy",
-    "baseWord": "policy",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda policy",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the agenda policy before the next business day.",
-    "exampleVi": "Vui long xem lai agenda policy truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda policy",
-      "agenda policy process",
-      "agenda policy deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "policy"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-procedure-phrase",
-    "word": "agenda procedure",
-    "baseWord": "procedure",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda procedure",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the agenda procedure before the next business day.",
-    "exampleVi": "Vui long xem lai agenda procedure truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda procedure",
-      "agenda procedure process",
-      "agenda procedure deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "procedure"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-process-phrase",
-    "word": "agenda process",
-    "baseWord": "process",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda process",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the agenda process before the next business day.",
-    "exampleVi": "Vui long xem lai agenda process truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda process",
-      "agenda process process",
-      "agenda process deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "process"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-record-phrase",
-    "word": "agenda record",
-    "baseWord": "record",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda record",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the agenda record before the next business day.",
-    "exampleVi": "Vui long xem lai agenda record truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda record",
-      "agenda record process",
-      "agenda record deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "record"
-    ],
-    "day": 104
-  },
-  {
-    "id": "agenda-requirement-phrase",
-    "word": "agenda requirement",
-    "baseWord": "requirement",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda requirement",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the agenda requirement before the next business day.",
-    "exampleVi": "Vui long xem lai agenda requirement truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda requirement",
-      "agenda requirement process",
-      "agenda requirement deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "requirement"
-    ],
-    "day": 104
+    "day": 103,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "authenticate-verb",
@@ -2222,7 +2184,7 @@
     "type": "verb",
     "meaning": "xác thực, chứng thực",
     "pronunciation": "/ɔːˈθentɪkeɪt/",
-    "topic": "Quality & Standards",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2245,7 +2207,11 @@
       "authentic",
       "authenticity"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "authenticity-noun",
@@ -2254,7 +2220,7 @@
     "type": "noun",
     "meaning": "tính xác thực, tính chân thật",
     "pronunciation": "/ˌɔːθenˈtɪsəti/",
-    "topic": "Quality & Standards",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2277,7 +2243,11 @@
       "authenticate",
       "authentically"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "authorization-noun",
@@ -2286,7 +2256,7 @@
     "type": "noun",
     "meaning": "sự cấp phép, sự cho phép, sự ủy quyền",
     "pronunciation": "/ˌɔːθərəˈzeɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2310,7 +2280,11 @@
       "authorized",
       "author"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "authorized-adjective",
@@ -2319,7 +2293,7 @@
     "type": "adjective",
     "meaning": "được ủy quyền, được cấp phép",
     "pronunciation": "/ˈɔːθəraɪzd/",
-    "topic": "Quality & Standards",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2344,7 +2318,11 @@
       "author",
       "authorization"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "corrective-adjective",
@@ -2377,7 +2355,11 @@
       "correction",
       "correctly"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "endorsement-noun",
@@ -2386,7 +2368,7 @@
     "type": "noun",
     "meaning": "sự chứng thực, sự ủng hộ",
     "pronunciation": "/ɪnˈdɔːrsmənt/",
-    "topic": "Quality & Standards",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2409,7 +2391,11 @@
       "endorse",
       "endorsed"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "exemption-noun",
@@ -2418,7 +2404,7 @@
     "type": "noun",
     "meaning": "sự miễn trừ",
     "pronunciation": "/ɪɡˈzempʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2440,7 +2426,370 @@
       "exempt",
       "exempted"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "monthly-agenda-collocation",
+    "word": "monthly agenda",
+    "baseWord": "agenda",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly agenda",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly agenda in the file before Friday.",
+    "exampleVi": "Vui long dua monthly agenda vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly agenda",
+      "monthly agenda review",
+      "monthly agenda deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "agenda"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "monthly-balance-collocation",
+    "word": "monthly balance",
+    "baseWord": "balance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly balance",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly balance in the file before Friday.",
+    "exampleVi": "Vui long dua monthly balance vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly balance",
+      "monthly balance review",
+      "monthly balance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "balance"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "monthly-budget-collocation",
+    "word": "monthly budget",
+    "baseWord": "budget",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly budget",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly budget in the file before Friday.",
+    "exampleVi": "Vui long dua monthly budget vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly budget",
+      "monthly budget review",
+      "monthly budget deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "budget"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "monthly-expense-collocation",
+    "word": "monthly expense",
+    "baseWord": "expense",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly expense",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly expense in the file before Friday.",
+    "exampleVi": "Vui long dua monthly expense vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly expense",
+      "monthly expense review",
+      "monthly expense deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "expense"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "monthly-forecast-collocation",
+    "word": "monthly forecast",
+    "baseWord": "forecast",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly forecast",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly forecast in the file before Friday.",
+    "exampleVi": "Vui long dua monthly forecast vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly forecast",
+      "monthly forecast review",
+      "monthly forecast deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "forecast"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "monthly-loss-collocation",
+    "word": "monthly loss",
+    "baseWord": "loss",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly loss",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly loss in the file before Friday.",
+    "exampleVi": "Vui long dua monthly loss vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly loss",
+      "monthly loss review",
+      "monthly loss deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "loss"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "monthly-meeting-collocation",
+    "word": "monthly meeting",
+    "baseWord": "meeting",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly meeting",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly meeting in the file before Friday.",
+    "exampleVi": "Vui long dua monthly meeting vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly meeting",
+      "monthly meeting review",
+      "monthly meeting deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "meeting"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "monthly-profit-collocation",
+    "word": "monthly profit",
+    "baseWord": "profit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly profit",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly profit in the file before Friday.",
+    "exampleVi": "Vui long dua monthly profit vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly profit",
+      "monthly profit review",
+      "monthly profit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "profit"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "monthly-revenue-collocation",
+    "word": "monthly revenue",
+    "baseWord": "revenue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly revenue",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly revenue in the file before Friday.",
+    "exampleVi": "Vui long dua monthly revenue vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly revenue",
+      "monthly revenue review",
+      "monthly revenue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "revenue"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "monthly-statement-collocation",
+    "word": "monthly statement",
+    "baseWord": "statement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly statement",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly statement in the file before Friday.",
+    "exampleVi": "Vui long dua monthly statement vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly statement",
+      "monthly statement review",
+      "monthly statement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "statement"
+    ],
+    "day": 104,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "negligent-adjective",
@@ -2449,7 +2798,7 @@
     "type": "adjective",
     "meaning": "cẩu thả, thiếu cẩn thận",
     "pronunciation": "/ˈneɡlɪdʒənt/",
-    "topic": "Quality & Standards",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2473,7 +2822,11 @@
       "negligently",
       "neglect"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "preventive-adjective",
@@ -2482,7 +2835,7 @@
     "type": "adjective",
     "meaning": "mang tính phòng ngừa",
     "pronunciation": "/prɪˈventɪv/",
-    "topic": "Quality & Standards",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2506,7 +2859,11 @@
       "prevention",
       "preventable"
     ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "surveillance-noun",
@@ -2515,7 +2872,7 @@
     "type": "noun",
     "meaning": "sự giám sát",
     "pronunciation": "/sərˈveɪləns/",
-    "topic": "Quality & Standards",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2538,38 +2895,11 @@
       "survey",
       "surveyor"
     ],
-    "day": 104
-  },
-  {
-    "id": "up to code-phrase",
-    "word": "up to code",
-    "baseWord": "code",
-    "type": "phrase",
-    "meaning": "đạt chuẩn quy định",
-    "pronunciation": "/ʌp tuː koʊd/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The electrical wiring in the building is not up to code.",
-    "exampleVi": "Hệ thống dây điện trong tòa nhà không đạt chuẩn quy định.",
-    "collocations": [
-      "bring up to code",
-      "not up to code",
-      "meet code requirements"
-    ],
-    "synonyms": [
-      "compliant",
-      "regulation-compliant"
-    ],
-    "wordFamily": [
-      "code",
-      "coding"
-    ],
-    "day": 104
+    "day": 104,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "adherence-noun",
@@ -2578,7 +2908,7 @@
     "type": "noun",
     "meaning": "sự tuân thủ, sự bám sát",
     "pronunciation": "/ədˈhɪrəns/",
-    "topic": "Quality & Standards",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2601,131 +2931,11 @@
       "adhere",
       "adherent"
     ],
-    "day": 105
-  },
-  {
-    "id": "agenda-checklist-phrase",
-    "word": "agenda checklist",
-    "baseWord": "checklist",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda checklist",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the agenda checklist before the next business day.",
-    "exampleVi": "Vui long xem lai agenda checklist truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda checklist",
-      "agenda checklist process",
-      "agenda checklist deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "checklist"
-    ],
-    "day": 105
-  },
-  {
-    "id": "agenda-guideline-phrase",
-    "word": "agenda guideline",
-    "baseWord": "guideline",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda guideline",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the agenda guideline before the next business day.",
-    "exampleVi": "Vui long xem lai agenda guideline truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda guideline",
-      "agenda guideline process",
-      "agenda guideline deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "guideline"
-    ],
-    "day": 105
-  },
-  {
-    "id": "agenda-summary-phrase",
-    "word": "agenda summary",
-    "baseWord": "summary",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: agenda summary",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the agenda summary before the next business day.",
-    "exampleVi": "Vui long xem lai agenda summary truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "agenda summary",
-      "agenda summary process",
-      "agenda summary deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "summary"
-    ],
-    "day": 105
-  },
-  {
-    "id": "annual-appointment-phrase",
-    "word": "annual appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: annual appointment",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the annual appointment before the next business day.",
-    "exampleVi": "Vui long xem lai annual appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "annual appointment",
-      "annual appointment process",
-      "annual appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "anomaly-noun",
@@ -2734,7 +2944,7 @@
     "type": "noun",
     "meaning": "sự bất thường, dị thường",
     "pronunciation": "/əˈnɑːməli/",
-    "topic": "Quality & Standards",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2756,7 +2966,11 @@
       "anomalous",
       "anomalies"
     ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "counterfeit-adjective",
@@ -2765,7 +2979,7 @@
     "type": "adjective",
     "meaning": "giả mạo, nhái",
     "pronunciation": "/ˈkaʊntərfɪt/",
-    "topic": "Quality & Standards",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2788,78 +3002,55 @@
       "counterfeiter",
       "counterfeiting"
     ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "daily-appointment-phrase",
-    "word": "daily appointment",
-    "baseWord": "appointment",
+    "id": "monthly-application-collocation",
+    "word": "monthly application",
+    "baseWord": "application",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: daily appointment",
+    "meaning": "collocation TOEIC 700: monthly application",
     "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
+    "topic": "Human Resources",
+    "frequency": "high",
     "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 6",
       "Part 7"
     ],
-    "example": "Please review the daily appointment before the next business day.",
-    "exampleVi": "Vui long xem lai daily appointment truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly application in the file before Friday.",
+    "exampleVi": "Vui long dua monthly application vao ho so truoc thu Sau.",
     "collocations": [
-      "daily appointment",
-      "daily appointment process",
-      "daily appointment deadline"
+      "monthly application",
+      "monthly application review",
+      "monthly application deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "appointment"
+      "monthly",
+      "application"
     ],
-    "day": 105
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "in good standing-phrase",
-    "word": "in good standing",
-    "baseWord": "standing",
+    "id": "monthly-audit-collocation",
+    "word": "monthly audit",
+    "baseWord": "audit",
     "type": "phrase",
-    "meaning": "có uy tín tốt, đạt yêu cầu",
-    "pronunciation": "/ɪn ɡʊd ˈstændɪŋ/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Only suppliers in good standing will be invited to bid.",
-    "exampleVi": "Chỉ những nhà cung cấp có uy tín tốt mới được mời đấu thầu.",
-    "collocations": [
-      "member in good standing",
-      "in good standing with",
-      "remain in good standing"
-    ],
-    "synonyms": [
-      "reputable",
-      "in good repute"
-    ],
-    "wordFamily": [
-      "standing",
-      "stand"
-    ],
-    "day": 105
-  },
-  {
-    "id": "monthly-appointment-phrase",
-    "word": "monthly appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: monthly appointment",
+    "meaning": "collocation TOEIC 700: monthly audit",
     "pronunciation": "",
-    "topic": "Quality & Standards",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2867,21 +3058,420 @@
       "Part 3",
       "Part 5"
     ],
-    "example": "Please review the monthly appointment before the next business day.",
-    "exampleVi": "Vui long xem lai monthly appointment truoc ngay lam viec tiep theo.",
+    "example": "Please include the monthly audit in the file before Friday.",
+    "exampleVi": "Vui long dua monthly audit vao ho so truoc thu Sau.",
     "collocations": [
-      "monthly appointment",
-      "monthly appointment process",
-      "monthly appointment deadline"
+      "monthly audit",
+      "monthly audit review",
+      "monthly audit deadline"
     ],
     "synonyms": [
-      "business term",
-      "workplace expression"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "appointment"
+      "monthly",
+      "audit"
     ],
-    "day": 105
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "monthly-candidate-collocation",
+    "word": "monthly candidate",
+    "baseWord": "candidate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly candidate",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the monthly candidate in the file before Friday.",
+    "exampleVi": "Vui long dua monthly candidate vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly candidate",
+      "monthly candidate review",
+      "monthly candidate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "candidate"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "monthly-complaint-collocation",
+    "word": "monthly complaint",
+    "baseWord": "complaint",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly complaint",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly complaint in the file before Friday.",
+    "exampleVi": "Vui long dua monthly complaint vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly complaint",
+      "monthly complaint review",
+      "monthly complaint deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "complaint"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "monthly-evaluation-collocation",
+    "word": "monthly evaluation",
+    "baseWord": "evaluation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly evaluation",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the monthly evaluation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly evaluation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly evaluation",
+      "monthly evaluation review",
+      "monthly evaluation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "evaluation"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "monthly-guideline-collocation",
+    "word": "monthly guideline",
+    "baseWord": "guideline",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly guideline",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly guideline in the file before Friday.",
+    "exampleVi": "Vui long dua monthly guideline vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly guideline",
+      "monthly guideline review",
+      "monthly guideline deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "guideline"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "monthly-inspection-collocation",
+    "word": "monthly inspection",
+    "baseWord": "inspection",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly inspection",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly inspection in the file before Friday.",
+    "exampleVi": "Vui long dua monthly inspection vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly inspection",
+      "monthly inspection review",
+      "monthly inspection deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "inspection"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "monthly-interview-collocation",
+    "word": "monthly interview",
+    "baseWord": "interview",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly interview",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly interview in the file before Friday.",
+    "exampleVi": "Vui long dua monthly interview vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly interview",
+      "monthly interview review",
+      "monthly interview deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "interview"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "monthly-orientation-collocation",
+    "word": "monthly orientation",
+    "baseWord": "orientation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly orientation",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly orientation in the file before Friday.",
+    "exampleVi": "Vui long dua monthly orientation vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly orientation",
+      "monthly orientation review",
+      "monthly orientation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "orientation"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "monthly-performance-collocation",
+    "word": "monthly performance",
+    "baseWord": "performance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly performance",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly performance in the file before Friday.",
+    "exampleVi": "Vui long dua monthly performance vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly performance",
+      "monthly performance review",
+      "monthly performance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "performance"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "monthly-policy-collocation",
+    "word": "monthly policy",
+    "baseWord": "policy",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly policy",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the monthly policy in the file before Friday.",
+    "exampleVi": "Vui long dua monthly policy vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly policy",
+      "monthly policy review",
+      "monthly policy deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "policy"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "monthly-procedure-collocation",
+    "word": "monthly procedure",
+    "baseWord": "procedure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly procedure",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the monthly procedure in the file before Friday.",
+    "exampleVi": "Vui long dua monthly procedure vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly procedure",
+      "monthly procedure review",
+      "monthly procedure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "procedure"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "monthly-training-collocation",
+    "word": "monthly training",
+    "baseWord": "training",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: monthly training",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the monthly training in the file before Friday.",
+    "exampleVi": "Vui long dua monthly training vao ho so truoc thu Sau.",
+    "collocations": [
+      "monthly training",
+      "monthly training review",
+      "monthly training deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "monthly",
+      "training"
+    ],
+    "day": 105,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "permissible-adjective",
@@ -2890,7 +3480,7 @@
     "type": "adjective",
     "meaning": "được phép, cho phép",
     "pronunciation": "/pərˈmɪsəbl/",
-    "topic": "Quality & Standards",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2914,70 +3504,11 @@
       "permission",
       "permissibly"
     ],
-    "day": 105
-  },
-  {
-    "id": "quarterly-appointment-phrase",
-    "word": "quarterly appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: quarterly appointment",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the quarterly appointment before the next business day.",
-    "exampleVi": "Vui long xem lai quarterly appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "quarterly appointment",
-      "quarterly appointment process",
-      "quarterly appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 105
-  },
-  {
-    "id": "regulatory compliance-phrase",
-    "word": "regulatory compliance",
-    "baseWord": "comply",
-    "type": "phrase",
-    "meaning": "sự tuân thủ quy định pháp lý",
-    "pronunciation": "/ˈreɡjələtɔːri kəmˈplaɪəns/",
-    "topic": "Quality & Standards",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The new compliance officer oversees environmental regulatory compliance.",
-    "exampleVi": "Nhân viên tuân thủ mới giám sát việc tuân thủ các quy định pháp lý về môi trường.",
-    "collocations": [
-      "ensure regulatory compliance",
-      "regulatory compliance standards",
-      "regulatory compliance audit"
-    ],
-    "synonyms": [
-      "compliance",
-      "legal adherence"
-    ],
-    "wordFamily": [
-      "regulate",
-      "regulatory",
-      "comply"
-    ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "rigorously-adverb",
@@ -2986,7 +3517,7 @@
     "type": "adverb",
     "meaning": "một cách nghiêm ngặt",
     "pronunciation": "/ˈrɪɡərəsli/",
-    "topic": "Quality & Standards",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3009,73 +3540,11 @@
       "rigorous",
       "rigor"
     ],
-    "day": 105
-  },
-  {
-    "id": "safety measure-phrase",
-    "word": "safety measure",
-    "baseWord": "safe",
-    "type": "phrase",
-    "meaning": "biện pháp an toàn",
-    "pronunciation": "/ˈseɪfti ˈmeʒər/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The factory introduced several new safety measures after the inspection.",
-    "exampleVi": "Nhà máy đã đưa vào áp dụng một số biện pháp an toàn mới sau cuộc kiểm tra.",
-    "collocations": [
-      "precautionary safety measure",
-      "implement safety measures",
-      "strict safety measures"
-    ],
-    "synonyms": [
-      "precaution",
-      "safeguard"
-    ],
-    "wordFamily": [
-      "safe",
-      "safety",
-      "measure"
-    ],
-    "day": 105
-  },
-  {
-    "id": "standard operating procedure-phrase",
-    "word": "standard operating procedure",
-    "baseWord": "standard operating procedure",
-    "type": "phrase",
-    "meaning": "quy trình vận hành tiêu chuẩn",
-    "pronunciation": "/ˈstændərd ˈɑːpəreɪtɪŋ prəˈsiːdʒər/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Following the standard operating procedure ensures safety and efficiency.",
-    "exampleVi": "Tuân theo quy trình vận hành tiêu chuẩn đảm bảo an toàn và hiệu quả.",
-    "collocations": [
-      "standard operating procedure manual",
-      "follow standard operating procedure",
-      "establish standard operating procedure"
-    ],
-    "synonyms": [
-      "protocol",
-      "guideline"
-    ],
-    "wordFamily": [
-      "standard",
-      "operate",
-      "procedure"
-    ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "stipulation-noun",
@@ -3084,7 +3553,7 @@
     "type": "noun",
     "meaning": "điều kiện quy định",
     "pronunciation": "/ˌstɪpjəˈleɪʃən/",
-    "topic": "Quality & Standards",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3106,71 +3575,11 @@
       "stipulate",
       "stipulated"
     ],
-    "day": 105
-  },
-  {
-    "id": "wear and tear-phrase",
-    "word": "wear and tear",
-    "baseWord": "wear and tear",
-    "type": "phrase",
-    "meaning": "hao mòn tự nhiên (do sử dụng)",
-    "pronunciation": "/wer ənd ter/",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The warranty does not cover damage caused by normal wear and tear.",
-    "exampleVi": "Bảo hành không bao gồm thiệt hại do hao mòn tự nhiên thông thường.",
-    "collocations": [
-      "normal wear and tear",
-      "sign of wear and tear",
-      "resist wear and tear"
-    ],
-    "synonyms": [
-      "deterioration",
-      "depreciation",
-      "erosion"
-    ],
-    "wordFamily": [
-      "wear",
-      "tear",
-      "worn"
-    ],
-    "day": 105
-  },
-  {
-    "id": "weekly-appointment-phrase",
-    "word": "weekly appointment",
-    "baseWord": "appointment",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve quality & standards: weekly appointment",
-    "pronunciation": "",
-    "topic": "Quality & Standards",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the weekly appointment before the next business day.",
-    "exampleVi": "Vui long xem lai weekly appointment truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "weekly appointment",
-      "weekly appointment process",
-      "weekly appointment deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "appointment"
-    ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "withstand-verb",
@@ -3179,7 +3588,7 @@
     "type": "verb",
     "meaning": "chịu đựng, chống chọi",
     "pronunciation": "/wɪðˈstænd/",
-    "topic": "Quality & Standards",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3201,6 +3610,10 @@
       "withstood",
       "withstanding"
     ],
-    "day": 105
+    "day": 105,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

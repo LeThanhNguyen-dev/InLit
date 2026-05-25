@@ -6,7 +6,7 @@
     "type": "verb",
     "meaning": "đáp ứng, chiều theo",
     "pronunciation": "/əˈkɑːmədeɪt/",
-    "topic": "Customer Service",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -29,7 +29,11 @@
       "accommodation",
       "accommodating"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "apologize-verb",
@@ -38,7 +42,7 @@
     "type": "verb",
     "meaning": "xin lỗi",
     "pronunciation": "/əˈpɑːlədʒaɪz/",
-    "topic": "Customer Service",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -62,7 +66,11 @@
       "apologetic",
       "apologetically"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "assistance-noun",
@@ -71,7 +79,7 @@
     "type": "noun",
     "meaning": "sự hỗ trợ",
     "pronunciation": "/əˈsɪstəns/",
-    "topic": "Customer Service",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -96,7 +104,11 @@
       "assistant",
       "assisted"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "attentive-adjective",
@@ -105,7 +117,7 @@
     "type": "adjective",
     "meaning": "chu đáo, chú ý",
     "pronunciation": "/əˈtentɪv/",
-    "topic": "Customer Service",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -130,7 +142,11 @@
       "attentively",
       "attentiveness"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "compensate-verb",
@@ -139,7 +155,7 @@
     "type": "verb",
     "meaning": "bồi thường, đền bù",
     "pronunciation": "/ˈkɑːmpenseɪt/",
-    "topic": "Customer Service",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -162,7 +178,11 @@
       "compensation",
       "compensatory"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "concern-noun",
@@ -171,7 +191,7 @@
     "type": "noun",
     "meaning": "mối quan ngại, lo ngại",
     "pronunciation": "/kənˈsɜːrn/",
-    "topic": "Customer Service",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -195,7 +215,11 @@
       "concerned",
       "concerning"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "courteous-adjective",
@@ -204,7 +228,7 @@
     "type": "adjective",
     "meaning": "lịch sự, nhã nhặn",
     "pronunciation": "/ˈkɜːrtiəs/",
-    "topic": "Customer Service",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -229,7 +253,11 @@
       "courteously",
       "discourteous"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "escalate-verb",
@@ -238,7 +266,7 @@
     "type": "verb",
     "meaning": "chuyển lên cấp cao hơn, leo thang",
     "pronunciation": "/ˈeskəleɪt/",
-    "topic": "Customer Service",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -261,7 +289,11 @@
       "escalation",
       "escalated"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "feedback-noun",
@@ -270,7 +302,7 @@
     "type": "noun",
     "meaning": "phản hồi, ý kiến đóng góp",
     "pronunciation": "/ˈfiːdbæk/",
-    "topic": "Customer Service",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -293,7 +325,11 @@
     "wordFamily": [
       "feedback"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "inconvenience-noun",
@@ -302,7 +338,7 @@
     "type": "noun",
     "meaning": "sự bất tiện",
     "pronunciation": "/ˌɪnkənˈviːniəns/",
-    "topic": "Customer Service",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -327,7 +363,11 @@
       "inconveniently",
       "convenience"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "inquiry-noun",
@@ -336,7 +376,7 @@
     "type": "noun",
     "meaning": "câu hỏi, yêu cầu thông tin",
     "pronunciation": "/ɪnˈkwaɪəri/",
-    "topic": "Customer Service",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -359,7 +399,11 @@
       "inquire",
       "inquirer"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "issue-noun",
@@ -368,7 +412,7 @@
     "type": "noun",
     "meaning": "vấn đề, sự cố",
     "pronunciation": "/ˈɪʃuː/",
-    "topic": "Customer Service",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -392,7 +436,11 @@
       "issue",
       "issued"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "loyal-adjective",
@@ -401,7 +449,7 @@
     "type": "adjective",
     "meaning": "trung thành",
     "pronunciation": "/ˈlɔɪəl/",
-    "topic": "Customer Service",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -426,7 +474,11 @@
       "loyally",
       "disloyal"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "policy-noun",
@@ -435,7 +487,7 @@
     "type": "noun",
     "meaning": "chính sách",
     "pronunciation": "/ˈpɑːləsi/",
-    "topic": "Customer Service",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -458,7 +510,11 @@
       "policies",
       "policyholder"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "promptly-adverb",
@@ -467,7 +523,7 @@
     "type": "adverb",
     "meaning": "nhanh chóng, ngay lập tức",
     "pronunciation": "/ˈprɑːmptli/",
-    "topic": "Customer Service",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -491,7 +547,11 @@
       "prompt",
       "promptness"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "replacement-noun",
@@ -500,7 +560,7 @@
     "type": "noun",
     "meaning": "sự thay thế, vật thay thế",
     "pronunciation": "/rɪˈpleɪsmənt/",
-    "topic": "Customer Service",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -524,7 +584,11 @@
       "replaceable",
       "irreplaceable"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "representative-noun",
@@ -533,7 +597,7 @@
     "type": "noun",
     "meaning": "người đại diện, nhân viên đại diện",
     "pronunciation": "/ˌreprɪˈzentətɪv/",
-    "topic": "Customer Service",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -557,7 +621,11 @@
       "representation",
       "representative"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "resolve-verb",
@@ -566,7 +634,7 @@
     "type": "verb",
     "meaning": "giải quyết",
     "pronunciation": "/rɪˈzɑːlv/",
-    "topic": "Customer Service",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -590,7 +658,11 @@
       "resolved",
       "unresolved"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "respond-verb",
@@ -599,7 +671,7 @@
     "type": "verb",
     "meaning": "phản hồi, đáp lại",
     "pronunciation": "/rɪˈspɑːnd/",
-    "topic": "Customer Service",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -623,7 +695,11 @@
       "responsive",
       "respondent"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "satisfaction-noun",
@@ -632,7 +708,7 @@
     "type": "noun",
     "meaning": "sự hài lòng",
     "pronunciation": "/ˌsætɪsˈfækʃən/",
-    "topic": "Customer Service",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -657,7 +733,11 @@
       "satisfied",
       "dissatisfied"
     ],
-    "day": 26
+    "day": 26,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "appreciate-verb",
@@ -666,7 +746,7 @@
     "type": "verb",
     "meaning": "đánh giá cao, trân trọng",
     "pronunciation": "/əˈpriːʃieɪt/",
-    "topic": "Customer Service",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -690,7 +770,81 @@
       "appreciative",
       "appreciatively"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "capable-adjective",
+    "word": "capable",
+    "baseWord": "cap",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: capable",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word capable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu capable trong email cong viec.",
+    "collocations": [
+      "capable review",
+      "capable process",
+      "capable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "capable"
+    ],
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "capacity-noun",
+    "word": "capacity",
+    "baseWord": "capac",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: capacity",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word capacity in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu capacity trong email cong viec.",
+    "collocations": [
+      "capacity review",
+      "capacity process",
+      "capacity update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "capacity"
+    ],
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "dispute-noun",
@@ -699,7 +853,7 @@
     "type": "noun",
     "meaning": "tranh chấp, sự bất đồng",
     "pronunciation": "/dɪˈspjuːt/",
-    "topic": "Customer Service",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -723,7 +877,11 @@
       "disputed",
       "undisputed"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "dissatisfied-adjective",
@@ -732,7 +890,7 @@
     "type": "adjective",
     "meaning": "không hài lòng",
     "pronunciation": "/dɪsˈsætɪsfaɪd/",
-    "topic": "Customer Service",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -757,38 +915,11 @@
       "satisfaction",
       "dissatisfaction"
     ],
-    "day": 27
-  },
-  {
-    "id": "follow up-phrase",
-    "word": "follow up",
-    "baseWord": "follow up",
-    "type": "phrase",
-    "meaning": "theo dõi, liên hệ lại",
-    "pronunciation": "/ˈfɑːloʊ ʌp/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "I will follow up with you next week regarding your claim.",
-    "exampleVi": "Tôi sẽ liên hệ lại với bạn vào tuần tới về yêu cầu bồi thường của bạn.",
-    "collocations": [
-      "follow up on a complaint",
-      "follow up with a customer",
-      "follow up by email"
-    ],
-    "synonyms": [
-      "check back",
-      "get back to"
-    ],
-    "wordFamily": [
-      "follow-up"
-    ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "fulfill-verb",
@@ -797,7 +928,7 @@
     "type": "verb",
     "meaning": "hoàn thành, đáp ứng",
     "pronunciation": "/fʊlˈfɪl/",
-    "topic": "Customer Service",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -821,7 +952,11 @@
       "fulfilled",
       "unfulfilled"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "guarantee-noun",
@@ -830,7 +965,7 @@
     "type": "noun",
     "meaning": "sự bảo đảm",
     "pronunciation": "/ˌɡærənˈtiː/",
-    "topic": "Customer Service",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -854,7 +989,11 @@
       "guaranteed",
       "guarantor"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "handle-verb",
@@ -863,7 +1002,7 @@
     "type": "verb",
     "meaning": "xử lý, giải quyết",
     "pronunciation": "/ˈhændl/",
-    "topic": "Customer Service",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -886,7 +1025,11 @@
       "handler",
       "handling"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "helpdesk-noun",
@@ -917,7 +1060,11 @@
     "wordFamily": [
       "helpdesk"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "improve-verb",
@@ -926,7 +1073,7 @@
     "type": "verb",
     "meaning": "cải thiện, nâng cao",
     "pronunciation": "/ɪmˈpruːv/",
-    "topic": "Customer Service",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -950,38 +1097,11 @@
       "improved",
       "improving"
     ],
-    "day": 27
-  },
-  {
-    "id": "in a timely manner-phrase",
-    "word": "in a timely manner",
-    "baseWord": "in a timely manner",
-    "type": "phrase",
-    "meaning": "một cách kịp thời",
-    "pronunciation": "/ɪn ə ˈtaɪmli ˈmænər/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "All complaints will be addressed in a timely manner.",
-    "exampleVi": "Tất cả khiếu nại sẽ được giải quyết một cách kịp thời.",
-    "collocations": [
-      "respond in a timely manner",
-      "complete in a timely manner",
-      "process in a timely manner"
-    ],
-    "synonyms": [
-      "promptly",
-      "without delay"
-    ],
-    "wordFamily": [
-      "timely"
-    ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "operator-noun",
@@ -990,7 +1110,7 @@
     "type": "noun",
     "meaning": "nhân viên tổng đài, người vận hành",
     "pronunciation": "/ˈɑːpəreɪtər/",
-    "topic": "Customer Service",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1014,7 +1134,11 @@
       "operation",
       "operational"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "patience-noun",
@@ -1023,7 +1147,7 @@
     "type": "noun",
     "meaning": "sự kiên nhẫn",
     "pronunciation": "/ˈpeɪʃəns/",
-    "topic": "Customer Service",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1046,7 +1170,11 @@
       "patiently",
       "impatient"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "polite-adjective",
@@ -1055,7 +1183,7 @@
     "type": "adjective",
     "meaning": "lịch sự, lễ phép",
     "pronunciation": "/pəˈlaɪt/",
-    "topic": "Customer Service",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1079,7 +1207,11 @@
       "politeness",
       "impolite"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "rating-noun",
@@ -1088,7 +1220,7 @@
     "type": "noun",
     "meaning": "đánh giá, xếp hạng",
     "pronunciation": "/ˈreɪtɪŋ/",
-    "topic": "Customer Service",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1112,7 +1244,11 @@
       "rated",
       "ratings"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "reimburse-verb",
@@ -1121,7 +1257,7 @@
     "type": "verb",
     "meaning": "hoàn trả, hoàn tiền",
     "pronunciation": "/ˌriːɪmˈbɜːrs/",
-    "topic": "Customer Service",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1144,7 +1280,11 @@
       "reimbursement",
       "reimbursable"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "reliable-adjective",
@@ -1153,7 +1293,7 @@
     "type": "adjective",
     "meaning": "đáng tin cậy",
     "pronunciation": "/rɪˈlaɪəbl/",
-    "topic": "Customer Service",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1178,7 +1318,11 @@
       "reliably",
       "unreliable"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "responsive-adjective",
@@ -1187,7 +1331,7 @@
     "type": "adjective",
     "meaning": "phản hồi nhanh, đáp ứng tốt",
     "pronunciation": "/rɪˈspɑːnsɪv/",
-    "topic": "Customer Service",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1211,7 +1355,11 @@
       "response",
       "responsiveness"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "survey-noun",
@@ -1220,7 +1368,7 @@
     "type": "noun",
     "meaning": "khảo sát, cuộc điều tra",
     "pronunciation": "/ˈsɜːrveɪ/",
-    "topic": "Customer Service",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1244,7 +1392,11 @@
       "surveyor",
       "surveyed"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "thorough-adjective",
@@ -1253,7 +1405,7 @@
     "type": "adjective",
     "meaning": "kỹ lưỡng, toàn diện",
     "pronunciation": "/ˈθɜːroʊ/",
-    "topic": "Customer Service",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1277,7 +1429,11 @@
       "thoroughly",
       "thoroughness"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "troubleshoot-verb",
@@ -1286,7 +1442,7 @@
     "type": "verb",
     "meaning": "khắc phục sự cố, tìm và sửa lỗi",
     "pronunciation": "/ˈtrʌblʃuːt/",
-    "topic": "Customer Service",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1309,7 +1465,11 @@
       "troubleshooting",
       "troubleshooter"
     ],
-    "day": 27
+    "day": 27,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "callback-noun",
@@ -1318,7 +1478,7 @@
     "type": "noun",
     "meaning": "cuộc gọi lại",
     "pronunciation": "/ˈkɔːlbæk/",
-    "topic": "Customer Service",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1338,7 +1498,46 @@
     "wordFamily": [
       "callback"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "charitable-adjective",
+    "word": "charitable",
+    "baseWord": "charit",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: charitable",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 4",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word charitable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu charitable trong email cong viec.",
+    "collocations": [
+      "charitable review",
+      "charitable process",
+      "charitable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "charitable"
+    ],
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "clientele-noun",
@@ -1347,7 +1546,7 @@
     "type": "noun",
     "meaning": "khách hàng (tập hợp), thân chủ",
     "pronunciation": "/ˌklaɪənˈtel/",
-    "topic": "Customer Service",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1370,7 +1569,11 @@
       "client",
       "clientele"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "complimentary-adjective",
@@ -1379,7 +1582,7 @@
     "type": "adjective",
     "meaning": "miễn phí, tặng kèm",
     "pronunciation": "/ˌkɑːmplɪˈmentəri/",
-    "topic": "Customer Service",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1402,7 +1605,11 @@
       "compliment",
       "complimentary"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "correspondence-noun",
@@ -1411,7 +1618,7 @@
     "type": "noun",
     "meaning": "thư từ, liên lạc",
     "pronunciation": "/ˌkɔːrəˈspɑːndəns/",
-    "topic": "Customer Service",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1435,7 +1642,11 @@
       "correspondent",
       "corresponding"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "efficiently-adverb",
@@ -1444,7 +1655,7 @@
     "type": "adverb",
     "meaning": "một cách hiệu quả",
     "pronunciation": "/ɪˈfɪʃəntli/",
-    "topic": "Customer Service",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1468,7 +1679,11 @@
       "efficiency",
       "inefficient"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "hotline-noun",
@@ -1477,7 +1692,7 @@
     "type": "noun",
     "meaning": "đường dây nóng",
     "pronunciation": "/ˈhɑːtlaɪn/",
-    "topic": "Customer Service",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1499,7 +1714,11 @@
     "wordFamily": [
       "hotline"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "malfunction-noun",
@@ -1508,7 +1727,7 @@
     "type": "noun",
     "meaning": "sự trục trặc, hỏng hóc",
     "pronunciation": "/mælˈfʌŋkʃən/",
-    "topic": "Customer Service",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1532,38 +1751,11 @@
       "malfunction",
       "malfunctioning"
     ],
-    "day": 28
-  },
-  {
-    "id": "on behalf of-phrase",
-    "word": "on behalf of",
-    "baseWord": "on behalf of",
-    "type": "phrase",
-    "meaning": "thay mặt cho, đại diện cho",
-    "pronunciation": "/ɑːn bɪˈhæf əv/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 4",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "On behalf of the company, I would like to apologize for the error.",
-    "exampleVi": "Thay mặt công ty, tôi muốn xin lỗi vì sai sót này.",
-    "collocations": [
-      "on behalf of the company",
-      "act on behalf of",
-      "speak on behalf of"
-    ],
-    "synonyms": [
-      "in the name of",
-      "representing"
-    ],
-    "wordFamily": [
-      "behalf"
-    ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "outage-noun",
@@ -1572,7 +1764,7 @@
     "type": "noun",
     "meaning": "sự gián đoạn dịch vụ, sự cố mất điện",
     "pronunciation": "/ˈaʊtɪdʒ/",
-    "topic": "Customer Service",
+    "topic": "Global Trade",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1595,7 +1787,11 @@
     "wordFamily": [
       "outage"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "pending-adjective",
@@ -1604,7 +1800,7 @@
     "type": "adjective",
     "meaning": "đang chờ xử lý",
     "pronunciation": "/ˈpendɪŋ/",
-    "topic": "Customer Service",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1628,7 +1824,11 @@
       "pend",
       "pending"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "priority-noun",
@@ -1637,7 +1837,7 @@
     "type": "noun",
     "meaning": "ưu tiên, sự ưu tiên",
     "pronunciation": "/praɪˈɔːrəti/",
-    "topic": "Customer Service",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1660,7 +1860,11 @@
       "prioritize",
       "priorities"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "rectify-verb",
@@ -1669,7 +1873,7 @@
     "type": "verb",
     "meaning": "sửa chữa, khắc phục",
     "pronunciation": "/ˈrektɪfaɪ/",
-    "topic": "Customer Service",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1693,7 +1897,11 @@
       "rectification",
       "rectified"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "redeem-verb",
@@ -1702,7 +1910,7 @@
     "type": "verb",
     "meaning": "đổi, quy đổi (phiếu, điểm thưởng)",
     "pronunciation": "/rɪˈdiːm/",
-    "topic": "Customer Service",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1725,7 +1933,11 @@
       "redemption",
       "redeemable"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "regret-verb",
@@ -1734,7 +1946,7 @@
     "type": "verb",
     "meaning": "lấy làm tiếc",
     "pronunciation": "/rɪˈɡret/",
-    "topic": "Customer Service",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1759,7 +1971,11 @@
       "regretfully",
       "regrettably"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "retain-verb",
@@ -1768,7 +1984,7 @@
     "type": "verb",
     "meaning": "giữ lại, duy trì",
     "pronunciation": "/rɪˈteɪn/",
-    "topic": "Customer Service",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1792,7 +2008,11 @@
       "retainer",
       "retained"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "status-noun",
@@ -1801,7 +2021,7 @@
     "type": "noun",
     "meaning": "tình trạng, trạng thái",
     "pronunciation": "/ˈsteɪtəs/",
-    "topic": "Customer Service",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1823,7 +2043,11 @@
     "wordFamily": [
       "status"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "subscriber-noun",
@@ -1832,7 +2056,7 @@
     "type": "noun",
     "meaning": "người đăng ký, thuê bao",
     "pronunciation": "/səbˈskraɪbər/",
-    "topic": "Customer Service",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1856,7 +2080,11 @@
       "subscription",
       "subscribed"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "testimonial-noun",
@@ -1865,7 +2093,7 @@
     "type": "noun",
     "meaning": "lời chứng thực, lời nhận xét",
     "pronunciation": "/ˌtestɪˈmoʊniəl/",
-    "topic": "Customer Service",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1889,7 +2117,11 @@
       "testimony",
       "testimonial"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "toll-free-adjective",
@@ -1898,7 +2130,7 @@
     "type": "adjective",
     "meaning": "miễn phí cuộc gọi",
     "pronunciation": "/ˌtoʊl ˈfriː/",
-    "topic": "Customer Service",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1920,7 +2152,11 @@
       "toll",
       "toll-free"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "voucher-noun",
@@ -1929,7 +2165,7 @@
     "type": "noun",
     "meaning": "phiếu quà tặng, phiếu giảm giá",
     "pronunciation": "/ˈvaʊtʃər/",
-    "topic": "Customer Service",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1951,7 +2187,11 @@
     "wordFamily": [
       "vouchers"
     ],
-    "day": 28
+    "day": 28,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "acknowledge-verb",
@@ -1960,7 +2200,7 @@
     "type": "verb",
     "meaning": "xác nhận, thừa nhận",
     "pronunciation": "/əkˈnɑːlɪdʒ/",
-    "topic": "Customer Service",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1983,7 +2223,11 @@
       "acknowledgment",
       "acknowledged"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "address-verb",
@@ -1992,7 +2236,7 @@
     "type": "verb",
     "meaning": "giải quyết, đề cập đến",
     "pronunciation": "/əˈdres/",
-    "topic": "Customer Service",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2015,7 +2259,46 @@
       "address",
       "addressed"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "circulate-verb",
+    "word": "circulate",
+    "baseWord": "circul",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: circulate",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "The manager used the word circulate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu circulate trong email cong viec.",
+    "collocations": [
+      "circulate review",
+      "circulate process",
+      "circulate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "circulate"
+    ],
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "commend-verb",
@@ -2024,7 +2307,7 @@
     "type": "verb",
     "meaning": "khen ngợi, tuyên dương",
     "pronunciation": "/kəˈmend/",
-    "topic": "Customer Service",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2048,7 +2331,11 @@
       "commendation",
       "commendable"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "consistently-adverb",
@@ -2057,7 +2344,7 @@
     "type": "adverb",
     "meaning": "một cách nhất quán, liên tục",
     "pronunciation": "/kənˈsɪstəntli/",
-    "topic": "Customer Service",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2081,7 +2368,11 @@
       "consistency",
       "inconsistent"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "dedication-noun",
@@ -2090,7 +2381,7 @@
     "type": "noun",
     "meaning": "sự cống hiến, sự tận tâm",
     "pronunciation": "/ˌdedɪˈkeɪʃən/",
-    "topic": "Customer Service",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2113,7 +2404,11 @@
       "dedicate",
       "dedicated"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "eligible-adjective",
@@ -2122,7 +2417,7 @@
     "type": "adjective",
     "meaning": "đủ điều kiện, hội đủ tiêu chuẩn",
     "pronunciation": "/ˈelɪdʒəbl/",
-    "topic": "Customer Service",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2145,7 +2440,11 @@
       "eligibility",
       "ineligible"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "exceed-verb",
@@ -2154,7 +2453,7 @@
     "type": "verb",
     "meaning": "vượt quá, vượt trội",
     "pronunciation": "/ɪkˈsiːd/",
-    "topic": "Customer Service",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2177,7 +2476,11 @@
       "exceeding",
       "exceedingly"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "exceptional-adjective",
@@ -2210,7 +2513,11 @@
       "exception",
       "exceptionally"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "expectation-noun",
@@ -2219,7 +2526,7 @@
     "type": "noun",
     "meaning": "kỳ vọng, sự mong đợi",
     "pronunciation": "/ˌekspekˈteɪʃən/",
-    "topic": "Customer Service",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2243,39 +2550,11 @@
       "expected",
       "unexpected"
     ],
-    "day": 29
-  },
-  {
-    "id": "in person-phrase",
-    "word": "in person",
-    "baseWord": "in person",
-    "type": "phrase",
-    "meaning": "trực tiếp, đích thân",
-    "pronunciation": "/ɪn ˈpɜːrsən/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "You may also visit our office to speak with a representative in person.",
-    "exampleVi": "Bạn cũng có thể đến văn phòng để nói chuyện trực tiếp với nhân viên đại diện.",
-    "collocations": [
-      "visit in person",
-      "speak in person",
-      "apply in person"
-    ],
-    "synonyms": [
-      "face to face",
-      "personally"
-    ],
-    "wordFamily": [
-      "person",
-      "personal"
-    ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "outstanding-adjective",
@@ -2284,7 +2563,7 @@
     "type": "adjective",
     "meaning": "xuất sắc, nổi bật",
     "pronunciation": "/aʊtˈstændɪŋ/",
-    "topic": "Customer Service",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2308,7 +2587,11 @@
       "outstand",
       "outstandingly"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "professionalism-noun",
@@ -2317,7 +2600,7 @@
     "type": "noun",
     "meaning": "sự chuyên nghiệp, tính chuyên nghiệp",
     "pronunciation": "/prəˈfeʃənəlɪzəm/",
-    "topic": "Customer Service",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2340,7 +2623,11 @@
       "professionally",
       "profession"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "quality-noun",
@@ -2349,7 +2636,7 @@
     "type": "noun",
     "meaning": "chất lượng",
     "pronunciation": "/ˈkwɑːləti/",
-    "topic": "Customer Service",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2373,7 +2660,11 @@
       "qualified",
       "qualitative"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "reassure-verb",
@@ -2382,7 +2673,7 @@
     "type": "verb",
     "meaning": "trấn an, cam đoan",
     "pronunciation": "/ˌriːəˈʃʊr/",
-    "topic": "Customer Service",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2406,7 +2697,11 @@
       "reassuring",
       "reassured"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "recommendation-noun",
@@ -2415,7 +2710,7 @@
     "type": "noun",
     "meaning": "đề xuất, lời khuyến nghị",
     "pronunciation": "/ˌrekəmenˈdeɪʃən/",
-    "topic": "Customer Service",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2438,7 +2733,11 @@
       "recommend",
       "recommended"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "reputation-noun",
@@ -2447,7 +2746,7 @@
     "type": "noun",
     "meaning": "danh tiếng, uy tín",
     "pronunciation": "/ˌrepjəˈteɪʃən/",
-    "topic": "Customer Service",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2471,7 +2770,11 @@
       "reputable",
       "reputed"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "resolution-noun",
@@ -2480,7 +2783,7 @@
     "type": "noun",
     "meaning": "sự giải quyết, giải pháp",
     "pronunciation": "/ˌrezəˈluːʃən/",
-    "topic": "Customer Service",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2504,7 +2807,11 @@
       "resolved",
       "unresolved"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "standard-noun",
@@ -2513,7 +2820,7 @@
     "type": "noun",
     "meaning": "tiêu chuẩn",
     "pronunciation": "/ˈstændərd/",
-    "topic": "Customer Service",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2537,7 +2844,11 @@
       "standardized",
       "standards"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "timely-adjective",
@@ -2546,7 +2857,7 @@
     "type": "adjective",
     "meaning": "kịp thời, đúng lúc",
     "pronunciation": "/ˈtaɪmli/",
-    "topic": "Customer Service",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2569,7 +2880,11 @@
       "timeliness",
       "untimely"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "value-verb",
@@ -2578,7 +2893,7 @@
     "type": "verb",
     "meaning": "đánh giá cao, trân trọng",
     "pronunciation": "/ˈvæljuː/",
-    "topic": "Customer Service",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2602,7 +2917,11 @@
       "valuable",
       "invaluable"
     ],
-    "day": 29
+    "day": 29,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "apologetic-adjective",
@@ -2611,7 +2930,7 @@
     "type": "adjective",
     "meaning": "tỏ ra hối lỗi, xin lỗi",
     "pronunciation": "/əˌpɑːləˈdʒetɪk/",
-    "topic": "Customer Service",
+    "topic": "Real Estate & Facilities",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2635,39 +2954,11 @@
       "apology",
       "apologetically"
     ],
-    "day": 30
-  },
-  {
-    "id": "at your earliest convenience-phrase",
-    "word": "at your earliest convenience",
-    "baseWord": "at your earliest convenience",
-    "type": "phrase",
-    "meaning": "vào lúc sớm nhất thuận tiện cho bạn",
-    "pronunciation": "/æt jɔːr ˈɜːrliɪst kənˈviːniəns/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please return our call at your earliest convenience.",
-    "exampleVi": "Vui lòng gọi lại cho chúng tôi vào lúc sớm nhất thuận tiện cho bạn.",
-    "collocations": [
-      "reply at your earliest convenience",
-      "contact us at your earliest convenience",
-      "respond at your earliest convenience"
-    ],
-    "synonyms": [
-      "as soon as possible",
-      "when convenient"
-    ],
-    "wordFamily": [
-      "convenience",
-      "convenient"
-    ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "cater-verb",
@@ -2676,7 +2967,7 @@
     "type": "verb",
     "meaning": "phục vụ, đáp ứng nhu cầu",
     "pronunciation": "/ˈkeɪtər/",
-    "topic": "Customer Service",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2699,7 +2990,81 @@
       "catering",
       "caterer"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "circulation-noun",
+    "word": "circulation",
+    "baseWord": "circula",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: circulation",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "The manager used the word circulation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu circulation trong email cong viec.",
+    "collocations": [
+      "circulation review",
+      "circulation process",
+      "circulation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "circulation"
+    ],
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "classify-verb",
+    "word": "classify",
+    "baseWord": "classi",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: classify",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word classify in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu classify trong email cong viec.",
+    "collocations": [
+      "classify review",
+      "classify process",
+      "classify update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "classify"
+    ],
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "comply-verb",
@@ -2708,7 +3073,7 @@
     "type": "verb",
     "meaning": "tuân thủ, tuân theo",
     "pronunciation": "/kəmˈplaɪ/",
-    "topic": "Customer Service",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2733,7 +3098,11 @@
       "compliant",
       "non-compliant"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "courteously-adverb",
@@ -2742,7 +3111,7 @@
     "type": "adverb",
     "meaning": "một cách lịch sự, nhã nhặn",
     "pronunciation": "/ˈkɜːrtiəsli/",
-    "topic": "Customer Service",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2765,7 +3134,11 @@
       "courtesy",
       "discourteous"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "coverage-noun",
@@ -2774,7 +3147,7 @@
     "type": "noun",
     "meaning": "phạm vi bảo hành, phạm vi bao phủ",
     "pronunciation": "/ˈkʌvərɪdʒ/",
-    "topic": "Customer Service",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2798,7 +3171,11 @@
       "covered",
       "uncover"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "empathy-noun",
@@ -2807,7 +3184,7 @@
     "type": "noun",
     "meaning": "sự đồng cảm, sự thấu hiểu",
     "pronunciation": "/ˈempəθi/",
-    "topic": "Customer Service",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2831,39 +3208,11 @@
       "empathetic",
       "empathetically"
     ],
-    "day": 30
-  },
-  {
-    "id": "in advance-phrase",
-    "word": "in advance",
-    "baseWord": "in advance",
-    "type": "phrase",
-    "meaning": "trước, sớm",
-    "pronunciation": "/ɪn ədˈvæns/",
-    "topic": "Customer Service",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please notify us at least 48 hours in advance if you need to cancel.",
-    "exampleVi": "Vui lòng thông báo cho chúng tôi ít nhất 48 giờ trước nếu bạn cần hủy.",
-    "collocations": [
-      "book in advance",
-      "pay in advance",
-      "notify in advance"
-    ],
-    "synonyms": [
-      "beforehand",
-      "ahead of time"
-    ],
-    "wordFamily": [
-      "advance",
-      "advanced"
-    ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "inquire-verb",
@@ -2872,7 +3221,7 @@
     "type": "verb",
     "meaning": "hỏi thông tin, tìm hiểu",
     "pronunciation": "/ɪnˈkwaɪər/",
-    "topic": "Customer Service",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2895,7 +3244,11 @@
       "inquiry",
       "inquirer"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "interaction-noun",
@@ -2904,7 +3257,7 @@
     "type": "noun",
     "meaning": "sự tương tác, sự giao tiếp",
     "pronunciation": "/ˌɪntərˈækʃən/",
-    "topic": "Customer Service",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2928,7 +3281,11 @@
       "interactive",
       "interactively"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "lengthy-adjective",
@@ -2937,7 +3294,7 @@
     "type": "adjective",
     "meaning": "kéo dài, dài dòng",
     "pronunciation": "/ˈleŋθi/",
-    "topic": "Customer Service",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2962,7 +3319,11 @@
       "lengthen",
       "lengthily"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "log-noun",
@@ -2971,7 +3332,7 @@
     "type": "noun",
     "meaning": "nhật ký, bản ghi",
     "pronunciation": "/lɔːɡ/",
-    "topic": "Customer Service",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2995,7 +3356,11 @@
       "logged",
       "logging"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "manner-noun",
@@ -3004,7 +3369,7 @@
     "type": "noun",
     "meaning": "cách thức, thái độ",
     "pronunciation": "/ˈmænər/",
-    "topic": "Customer Service",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3028,7 +3393,11 @@
       "manners",
       "mannerly"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "opt-verb",
@@ -3037,7 +3406,7 @@
     "type": "verb",
     "meaning": "chọn, lựa chọn",
     "pronunciation": "/ɑːpt/",
-    "topic": "Customer Service",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3062,7 +3431,11 @@
       "optional",
       "opt-in"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "overall-adjective",
@@ -3071,7 +3444,7 @@
     "type": "adjective",
     "meaning": "tổng thể, toàn bộ",
     "pronunciation": "/ˌoʊvərˈɔːl/",
-    "topic": "Customer Service",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3094,7 +3467,11 @@
     "wordFamily": [
       "overall"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "oversight-noun",
@@ -3103,7 +3480,7 @@
     "type": "noun",
     "meaning": "sự sơ suất, sự giám sát",
     "pronunciation": "/ˈoʊvərsaɪt/",
-    "topic": "Customer Service",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3127,7 +3504,11 @@
       "oversee",
       "overseer"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "process-verb",
@@ -3136,7 +3517,7 @@
     "type": "verb",
     "meaning": "xử lý, tiến hành",
     "pronunciation": "/ˈprɑːses/",
-    "topic": "Customer Service",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3160,7 +3541,11 @@
       "processing",
       "processed"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "refundable-adjective",
@@ -3169,7 +3554,7 @@
     "type": "adjective",
     "meaning": "có thể hoàn lại",
     "pronunciation": "/rɪˈfʌndəbl/",
-    "topic": "Customer Service",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3193,7 +3578,11 @@
       "refunded",
       "non-refundable"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "regardless-adverb",
@@ -3202,7 +3591,7 @@
     "type": "adverb",
     "meaning": "bất kể, dù sao đi nữa",
     "pronunciation": "/rɪˈɡɑːrdləs/",
-    "topic": "Customer Service",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3225,7 +3614,11 @@
       "regard",
       "regardless"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "restore-verb",
@@ -3234,7 +3627,7 @@
     "type": "verb",
     "meaning": "khôi phục, phục hồi",
     "pronunciation": "/rɪˈstɔːr/",
-    "topic": "Customer Service",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -3258,6 +3651,10 @@
       "restored",
       "restorative"
     ],
-    "day": 30
+    "day": 30,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

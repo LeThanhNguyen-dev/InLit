@@ -1,45 +1,12 @@
 [
   {
-    "id": "billing-statement-phrase",
-    "word": "billing statement",
-    "baseWord": "bill",
-    "type": "phrase",
-    "meaning": "sao kê thanh toán, hóa đơn tổng hợp phí",
-    "pronunciation": "/ˈbɪlɪŋ ˈsteɪtmənt/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Your monthly billing statement is now available to view online.",
-    "exampleVi": "Bản sao kê thanh toán hàng tháng của bạn hiện đã có thể xem trực tuyến.",
-    "collocations": [
-      "monthly billing statement",
-      "billing statement date",
-      "receive a billing statement"
-    ],
-    "synonyms": [
-      "invoice",
-      "bill"
-    ],
-    "wordFamily": [
-      "bill",
-      "billing",
-      "state",
-      "statement"
-    ],
-    "day": 31
-  },
-  {
     "id": "cashback-noun",
     "word": "cashback",
     "baseWord": "cashback",
     "type": "noun",
     "meaning": "hoàn tiền mặt (khi thanh toán bằng thẻ hoặc mua hàng tích điểm)",
     "pronunciation": "/ˈkæʃbæk/",
-    "topic": "Sales & Retail",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -61,7 +28,148 @@
       "cash",
       "back"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "classification-noun",
+    "word": "classification",
+    "baseWord": "classifica",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: classification",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word classification in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu classification trong email cong viec.",
+    "collocations": [
+      "classification review",
+      "classification process",
+      "classification update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "classification"
+    ],
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "coherent-adjective",
+    "word": "coherent",
+    "baseWord": "coher",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: coherent",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word coherent in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu coherent trong email cong viec.",
+    "collocations": [
+      "coherent review",
+      "coherent process",
+      "coherent update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "coherent"
+    ],
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "collaboration-noun",
+    "word": "collaboration",
+    "baseWord": "collabora",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: collaboration",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word collaboration in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu collaboration trong email cong viec.",
+    "collocations": [
+      "collaboration review",
+      "collaboration process",
+      "collaboration update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "collaboration"
+    ],
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "commercial-adjective",
+    "word": "commercial",
+    "baseWord": "commerci",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: commercial",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word commercial in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu commercial trong email cong viec.",
+    "collocations": [
+      "commercial review",
+      "commercial process",
+      "commercial update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "commercial"
+    ],
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "coupon-noun",
@@ -70,7 +178,7 @@
     "type": "noun",
     "meaning": "phiếu giảm giá, mã giảm giá",
     "pronunciation": "/ˈkuːpɑːn/",
-    "topic": "Sales & Retail",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -89,7 +197,11 @@
       "token"
     ],
     "wordFamily": [],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "merchandise-noun",
@@ -98,7 +210,7 @@
     "type": "noun",
     "meaning": "hàng hóa thương mại",
     "pronunciation": "/ˈmɜːrtʃəndaɪs/",
-    "topic": "Sales & Retail",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -122,7 +234,11 @@
       "merchant",
       "merchandiser"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "merchant-noun",
@@ -131,7 +247,7 @@
     "type": "noun",
     "meaning": "thương gia, nhà buôn, chủ cửa hàng",
     "pronunciation": "/ˈmɜːrtʃənt/",
-    "topic": "Sales & Retail",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -154,7 +270,11 @@
       "merchandise",
       "merchandising"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "outlet-noun",
@@ -163,7 +283,7 @@
     "type": "noun",
     "meaning": "cửa hàng bán lẻ trực tiếp từ nhà máy, ổ cắm điện",
     "pronunciation": "/ˈaʊtlet/",
-    "topic": "Sales & Retail",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -184,41 +304,11 @@
       "branch"
     ],
     "wordFamily": [],
-    "day": 31
-  },
-  {
-    "id": "price-reduction-phrase",
-    "word": "price reduction",
-    "baseWord": "price",
-    "type": "phrase",
-    "meaning": "sự giảm giá sản phẩm",
-    "pronunciation": "/praɪs rɪˈdʌkʃn/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The store announced a price reduction on all seasonal items.",
-    "exampleVi": "Cửa hàng đã thông báo giảm giá đối với tất cả các mặt hàng theo mùa.",
-    "collocations": [
-      "substantial price reduction",
-      "announce a price reduction",
-      "temporary price reduction"
-    ],
-    "synonyms": [
-      "discount",
-      "price cut",
-      "markdown"
-    ],
-    "wordFamily": [
-      "price",
-      "reduce",
-      "reduction"
-    ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "procure-verb",
@@ -251,71 +341,11 @@
       "procurement",
       "procurable"
     ],
-    "day": 31
-  },
-  {
-    "id": "promo-code-phrase",
-    "word": "promo code",
-    "baseWord": "code",
-    "type": "phrase",
-    "meaning": "mã khuyến mãi, mã giảm giá",
-    "pronunciation": "/ˈproʊmoʊ koʊd/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Enter the promo code at checkout to get ten percent off your order.",
-    "exampleVi": "Nhập mã khuyến mãi khi thanh toán để được giảm mười phần trăm cho đơn hàng của bạn.",
-    "collocations": [
-      "enter a promo code",
-      "valid promo code",
-      "online promo code"
-    ],
-    "synonyms": [
-      "coupon code",
-      "discount code"
-    ],
-    "wordFamily": [
-      "promotion",
-      "promotional",
-      "code"
-    ],
-    "day": 31
-  },
-  {
-    "id": "proof-of-purchase-phrase",
-    "word": "proof of purchase",
-    "baseWord": "proof",
-    "type": "phrase",
-    "meaning": "bằng chứng mua hàng (như hóa đơn, biên lai)",
-    "pronunciation": "/pruːf əv ˈpɜːrtʃəs/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Please retain your receipt as proof of purchase for warranty claims.",
-    "exampleVi": "Vui lòng giữ lại biên lai làm bằng chứng mua hàng để yêu cầu bảo hành.",
-    "collocations": [
-      "valid proof of purchase",
-      "require proof of purchase",
-      "present proof of purchase"
-    ],
-    "synonyms": [
-      "receipt",
-      "sales invoice"
-    ],
-    "wordFamily": [
-      "proof",
-      "prove",
-      "purchase"
-    ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "purchaser-noun",
@@ -324,7 +354,7 @@
     "type": "noun",
     "meaning": "người mua, người mua hàng",
     "pronunciation": "/ˈpɜːrtʃəsər/",
-    "topic": "Sales & Retail",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -346,7 +376,11 @@
     "wordFamily": [
       "purchase"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "rebate-noun",
@@ -355,7 +389,7 @@
     "type": "noun",
     "meaning": "khoản tiền chiết khấu được hoàn trả lại sau khi mua",
     "pronunciation": "/ˈriːbeɪt/",
-    "topic": "Sales & Retail",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -375,7 +409,11 @@
       "discount"
     ],
     "wordFamily": [],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "retail-noun",
@@ -384,7 +422,7 @@
     "type": "noun",
     "meaning": "việc bán lẻ, kinh doanh bán lẻ",
     "pronunciation": "/ˈriːteɪl/",
-    "topic": "Sales & Retail",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -404,7 +442,11 @@
       "retailer",
       "retailing"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "retailer-noun",
@@ -413,7 +455,7 @@
     "type": "noun",
     "meaning": "nhà bán lẻ, cửa hàng bán lẻ",
     "pronunciation": "/ˈriːteɪlər/",
-    "topic": "Sales & Retail",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -436,7 +478,11 @@
       "retail",
       "retailing"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "stock-noun",
@@ -445,7 +491,7 @@
     "type": "noun",
     "meaning": "nguồn hàng, cổ phiếu, hàng trong kho",
     "pronunciation": "/stɑːk/",
-    "topic": "Sales & Retail",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -469,7 +515,11 @@
       "stocktaker",
       "stockist"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "stocktaking-noun",
@@ -478,7 +528,7 @@
     "type": "noun",
     "meaning": "việc kiểm kê kho hàng, kiểm kê tài sản",
     "pronunciation": "/ˈstɑːkteɪkɪŋ/",
-    "topic": "Sales & Retail",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -500,7 +550,11 @@
       "stock",
       "take"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "storefront-noun",
@@ -509,7 +563,7 @@
     "type": "noun",
     "meaning": "mặt tiền cửa hàng (nhìn ra đường phố)",
     "pronunciation": "/ˈstɔːrfrʌnt/",
-    "topic": "Sales & Retail",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -530,7 +584,11 @@
       "store",
       "front"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "transaction-noun",
@@ -539,7 +597,7 @@
     "type": "noun",
     "meaning": "giao dịch thương mại, việc mua bán",
     "pronunciation": "/trænˈzækʃn/",
-    "topic": "Sales & Retail",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -563,7 +621,11 @@
       "transact",
       "transactional"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "wholesale-noun",
@@ -572,7 +634,7 @@
     "type": "noun",
     "meaning": "việc bán sỉ, bán buôn với số lượng lớn",
     "pronunciation": "/ˈhoʊlseɪl/",
-    "topic": "Sales & Retail",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -591,7 +653,11 @@
       "wholesaler",
       "wholesaling"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "wholesaler-noun",
@@ -600,7 +666,7 @@
     "type": "noun",
     "meaning": "nhà bán sỉ, nhà bán buôn số lượng lớn",
     "pronunciation": "/ˈhoʊlseɪlər/",
-    "topic": "Sales & Retail",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -621,7 +687,11 @@
       "wholesale",
       "wholesaling"
     ],
-    "day": 31
+    "day": 31,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "aisle-noun",
@@ -630,7 +700,7 @@
     "type": "noun",
     "meaning": "lối đi giữa các dãy kệ hàng hoặc hàng ghế",
     "pronunciation": "/aɪl/",
-    "topic": "Sales & Retail",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -649,7 +719,11 @@
       "corridor"
     ],
     "wordFamily": [],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "bargain-noun",
@@ -658,7 +732,7 @@
     "type": "noun",
     "meaning": "món hời, hàng giá rẻ, thỏa thuận mua bán",
     "pronunciation": "/ˈbɑːrɡən/",
-    "topic": "Sales & Retail",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -681,7 +755,11 @@
     "wordFamily": [
       "bargaining"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "buyer-noun",
@@ -690,7 +768,7 @@
     "type": "noun",
     "meaning": "người mua, nhân viên thu mua của doanh nghiệp",
     "pronunciation": "/ˈbaɪər/",
-    "topic": "Sales & Retail",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -712,7 +790,11 @@
     "wordFamily": [
       "buy"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "cart-noun",
@@ -721,7 +803,7 @@
     "type": "noun",
     "meaning": "xe đẩy mua sắm, xe bò chở hàng",
     "pronunciation": "/kɑːrt/",
-    "topic": "Sales & Retail",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -741,7 +823,11 @@
       "carriage"
     ],
     "wordFamily": [],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "cashier-noun",
@@ -750,7 +836,7 @@
     "type": "noun",
     "meaning": "nhân viên thu ngân",
     "pronunciation": "/kæˈʃɪr/",
-    "topic": "Sales & Retail",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -771,7 +857,11 @@
     "wordFamily": [
       "cash"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "checkout-noun",
@@ -780,7 +870,7 @@
     "type": "noun",
     "meaning": "quầy thanh toán, quá trình làm thủ tục thanh toán",
     "pronunciation": "/ˈtʃekaʊt/",
-    "topic": "Sales & Retail",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -801,7 +891,11 @@
       "check",
       "out"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "clearance-noun",
@@ -810,7 +904,7 @@
     "type": "noun",
     "meaning": "sự bán giải phóng hàng tồn kho, sự thông quan, khoảng trống an toàn",
     "pronunciation": "/ˈklɪrəns/",
-    "topic": "Sales & Retail",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -833,7 +927,11 @@
       "clear",
       "clearly"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "clerk-noun",
@@ -842,7 +940,7 @@
     "type": "noun",
     "meaning": "thư ký, nhân viên bán hàng cửa hàng, nhân viên hành chính",
     "pronunciation": "/klɜːrk/",
-    "topic": "Sales & Retail",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -864,7 +962,46 @@
     "wordFamily": [
       "clerical"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "commission-noun",
+    "word": "commission",
+    "baseWord": "commission",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: commission",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word commission in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu commission trong email cong viec.",
+    "collocations": [
+      "commission review",
+      "commission process",
+      "commission update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "commission"
+    ],
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "consumer-noun",
@@ -873,7 +1010,7 @@
     "type": "noun",
     "meaning": "người tiêu dùng",
     "pronunciation": "/kənˈsuːmər/",
-    "topic": "Sales & Retail",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -898,7 +1035,11 @@
       "consumption",
       "consumable"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "counter-noun",
@@ -907,7 +1048,7 @@
     "type": "noun",
     "meaning": "quầy hàng, quầy tính tiền, bàn bếp",
     "pronunciation": "/ˈkaʊntər/",
-    "topic": "Sales & Retail",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -929,7 +1070,11 @@
     "wordFamily": [
       "counter"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "distributor-noun",
@@ -938,7 +1083,7 @@
     "type": "noun",
     "meaning": "nhà phân phối",
     "pronunciation": "/dɪˈstrɪbjətər/",
-    "topic": "Sales & Retail",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -961,7 +1106,11 @@
       "distribution",
       "distributive"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "markdown-noun",
@@ -970,7 +1119,7 @@
     "type": "noun",
     "meaning": "sự hạ giá bán sản phẩm (nhằm thanh lý)",
     "pronunciation": "/ˈmɑːrkdaʊn/",
-    "topic": "Sales & Retail",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -993,7 +1142,11 @@
       "mark",
       "down"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "markup-noun",
@@ -1002,7 +1155,7 @@
     "type": "noun",
     "meaning": "số tiền tăng thêm vào giá vốn để định giá bán",
     "pronunciation": "/ˈmɑːrkʌp/",
-    "topic": "Sales & Retail",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1024,7 +1177,11 @@
       "mark",
       "up"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "merchandiser-noun",
@@ -1033,7 +1190,7 @@
     "type": "noun",
     "meaning": "người quản lý trưng bày hàng hóa, nhà buôn",
     "pronunciation": "/ˈmɜːrtʃəndaɪzər/",
-    "topic": "Sales & Retail",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1055,7 +1212,11 @@
       "merchandise",
       "merchant"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "patron-noun",
@@ -1064,7 +1225,7 @@
     "type": "noun",
     "meaning": "khách hàng quen, người bảo trợ",
     "pronunciation": "/ˈpeɪtrən/",
-    "topic": "Sales & Retail",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1088,40 +1249,11 @@
       "patronage",
       "patronize"
     ],
-    "day": 32
-  },
-  {
-    "id": "sales-representative-phrase",
-    "word": "sales representative",
-    "baseWord": "represent",
-    "type": "phrase",
-    "meaning": "đại diện bán hàng, nhân viên kinh doanh",
-    "pronunciation": "/seɪlz ˌreprɪˈzentətɪv/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our sales representative will contact you shortly to demonstrate the product.",
-    "exampleVi": "Đại diện bán hàng của chúng tôi sẽ liên hệ với bạn trong thời gian ngắn để chạy thử sản phẩm.",
-    "collocations": [
-      "contact a sales representative",
-      "hire a sales representative",
-      "senior sales representative"
-    ],
-    "synonyms": [
-      "salesperson",
-      "sales agent"
-    ],
-    "wordFamily": [
-      "sale",
-      "represent",
-      "representation"
-    ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "scanner-noun",
@@ -1130,7 +1262,7 @@
     "type": "noun",
     "meaning": "máy quét (mã vạch, quét ảnh)",
     "pronunciation": "/ˈskænər/",
-    "topic": "Sales & Retail",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1150,7 +1282,11 @@
     "wordFamily": [
       "scan"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "shopper-noun",
@@ -1159,7 +1295,7 @@
     "type": "noun",
     "meaning": "người đi mua sắm",
     "pronunciation": "/ˈʃɑːpər/",
-    "topic": "Sales & Retail",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1182,7 +1318,11 @@
       "shop",
       "shopping"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "trolley-noun",
@@ -1191,7 +1331,7 @@
     "type": "noun",
     "meaning": "xe đẩy hàng mua sắm (trong siêu thị, sân bay)",
     "pronunciation": "/ˈtrɑːli/",
-    "topic": "Sales & Retail",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1210,7 +1350,11 @@
       "carriage"
     ],
     "wordFamily": [],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "vendor-noun",
@@ -1219,7 +1363,7 @@
     "type": "noun",
     "meaning": "người bán hàng, nhà cung cấp dịch vụ/sản phẩm",
     "pronunciation": "/ˈvendər/",
-    "topic": "Sales & Retail",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1243,7 +1387,11 @@
       "vend",
       "vending machine"
     ],
-    "day": 32
+    "day": 32,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "assurance-noun",
@@ -1252,7 +1400,7 @@
     "type": "noun",
     "meaning": "sự cam đoan, sự bảo đảm chắc chắn",
     "pronunciation": "/əˈʃʊrəns/",
-    "topic": "Sales & Retail",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1277,36 +1425,11 @@
       "assured",
       "assuredly"
     ],
-    "day": 33
-  },
-  {
-    "id": "bar-code-noun",
-    "word": "bar code",
-    "baseWord": "code",
-    "type": "noun",
-    "meaning": "mã vạch (in trên hàng hóa)",
-    "pronunciation": "/ˈbɑːr koʊd/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "The cashier used a scanner to read the bar code on the milk carton.",
-    "exampleVi": "Nhân viên thu ngân đã sử dụng máy quét để đọc mã vạch trên hộp sữa.",
-    "collocations": [
-      "scan a bar code",
-      "bar code reader",
-      "print a bar code"
-    ],
-    "synonyms": [
-      "barcode"
-    ],
-    "wordFamily": [
-      "code"
-    ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "brand-noun",
@@ -1315,7 +1438,7 @@
     "type": "noun",
     "meaning": "nhãn hiệu, thương hiệu sản phẩm",
     "pronunciation": "/brænd/",
-    "topic": "Sales & Retail",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1338,7 +1461,11 @@
     "wordFamily": [
       "branding"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "bulk-noun",
@@ -1347,7 +1474,7 @@
     "type": "noun",
     "meaning": "số lượng lớn, thể tích lớn",
     "pronunciation": "/bʌlk/",
-    "topic": "Sales & Retail",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1369,7 +1496,182 @@
     "wordFamily": [
       "bulky"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "commodity-noun",
+    "word": "commodity",
+    "baseWord": "commod",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: commodity",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word commodity in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu commodity trong email cong viec.",
+    "collocations": [
+      "commodity review",
+      "commodity process",
+      "commodity update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "commodity"
+    ],
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "comparative-adjective",
+    "word": "comparative",
+    "baseWord": "comparat",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: comparative",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word comparative in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu comparative trong email cong viec.",
+    "collocations": [
+      "comparative review",
+      "comparative process",
+      "comparative update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "comparative"
+    ],
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "compensation-noun",
+    "word": "compensation",
+    "baseWord": "compensa",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: compensation",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word compensation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu compensation trong email cong viec.",
+    "collocations": [
+      "compensation review",
+      "compensation process",
+      "compensation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "compensation"
+    ],
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "compile-noun",
+    "word": "compile",
+    "baseWord": "compile",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: compile",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word compile in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu compile trong email cong viec.",
+    "collocations": [
+      "compile review",
+      "compile process",
+      "compile update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "compile"
+    ],
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "completion-noun",
+    "word": "completion",
+    "baseWord": "comple",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: completion",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word completion in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu completion trong email cong viec.",
+    "collocations": [
+      "completion review",
+      "completion process",
+      "completion update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "completion"
+    ],
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "damaged-adjective",
@@ -1378,7 +1680,7 @@
     "type": "adjective",
     "meaning": "bị hư hỏng, bị sứt mẻ",
     "pronunciation": "/ˈdæmɪdʒd/",
-    "topic": "Sales & Retail",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1402,37 +1704,11 @@
       "damage",
       "damaging"
     ],
-    "day": 33
-  },
-  {
-    "id": "final-sale-phrase",
-    "word": "final sale",
-    "baseWord": "sale",
-    "type": "phrase",
-    "meaning": "giao dịch mua đứt (không chấp nhận đổi trả hàng)",
-    "pronunciation": "/ˈfaɪnl seɪl/",
-    "topic": "Sales & Retail",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "All items bought during the clearance event are final sale.",
-    "exampleVi": "Tất cả các mặt hàng mua trong sự kiện thanh lý đều là mua đứt bán đoạn (không đổi trả).",
-    "collocations": [
-      "marked final sale",
-      "final sale policy",
-      "item is final sale"
-    ],
-    "synonyms": [
-      "non-returnable sale"
-    ],
-    "wordFamily": [
-      "final",
-      "sale"
-    ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "flaw-noun",
@@ -1464,7 +1740,11 @@
       "flawless",
       "flawed"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "label-noun",
@@ -1473,7 +1753,7 @@
     "type": "noun",
     "meaning": "nhãn hiệu, nhãn mác thông tin",
     "pronunciation": "/ˈleɪbl/",
-    "topic": "Sales & Retail",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1495,7 +1775,11 @@
     "wordFamily": [
       "label"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "logo-noun",
@@ -1504,7 +1788,7 @@
     "type": "noun",
     "meaning": "biểu trưng, lô-gô đại diện",
     "pronunciation": "/ˈloʊɡoʊ/",
-    "topic": "Sales & Retail",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1525,7 +1809,11 @@
       "trademark"
     ],
     "wordFamily": [],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "packaging-noun",
@@ -1534,7 +1822,7 @@
     "type": "noun",
     "meaning": "bao bì, quy trình đóng gói hàng hóa",
     "pronunciation": "/ˈpækɪdʒɪŋ/",
-    "topic": "Sales & Retail",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1558,36 +1846,11 @@
       "package",
       "packer"
     ],
-    "day": 33
-  },
-  {
-    "id": "price-tag-noun",
-    "word": "price tag",
-    "baseWord": "tag",
-    "type": "noun",
-    "meaning": "nhãn ghi giá hàng hóa",
-    "pronunciation": "/praɪs tæɡ/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please check the price tag attached to the sleeve.",
-    "exampleVi": "Vui lòng kiểm tra nhãn ghi giá được gắn vào tay áo.",
-    "collocations": [
-      "attach a price tag",
-      "look at the price tag",
-      "missing price tag"
-    ],
-    "synonyms": [
-      "price label"
-    ],
-    "wordFamily": [
-      "tag"
-    ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "quantity-noun",
@@ -1596,7 +1859,7 @@
     "type": "noun",
     "meaning": "số lượng, lượng hàng",
     "pronunciation": "/ˈkwɑːntəti/",
-    "topic": "Sales & Retail",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1620,7 +1883,11 @@
       "quantitative",
       "quantify"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "refunded-adjective",
@@ -1629,7 +1896,7 @@
     "type": "adjective",
     "meaning": "đã được hoàn tiền",
     "pronunciation": "/ˌriːˈfʌndɪd/",
-    "topic": "Sales & Retail",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1650,7 +1917,11 @@
       "refund",
       "refundable"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "return-verb",
@@ -1659,7 +1930,7 @@
     "type": "verb",
     "meaning": "trả lại hàng hóa đã mua",
     "pronunciation": "/rɪˈtɜːrn/",
-    "topic": "Sales & Retail",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1681,69 +1952,11 @@
       "returnable",
       "returned"
     ],
-    "day": 33
-  },
-  {
-    "id": "service-contract-phrase",
-    "word": "service contract",
-    "baseWord": "contract",
-    "type": "phrase",
-    "meaning": "hợp đồng bảo trì, dịch vụ bảo hành mở rộng",
-    "pronunciation": "/ˈsɜːrvɪs ˈkɑːntrækt/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We signed a service contract for the maintenance of our copiers.",
-    "exampleVi": "Chúng tôi đã ký hợp đồng dịch vụ bảo trì cho các máy photocopy của mình.",
-    "collocations": [
-      "annual service contract",
-      "extend a service contract",
-      "service contract terms"
-    ],
-    "synonyms": [
-      "warranty agreement",
-      "maintenance contract"
-    ],
-    "wordFamily": [
-      "service",
-      "contract"
-    ],
-    "day": 33
-  },
-  {
-    "id": "store-credit-phrase",
-    "word": "store credit",
-    "baseWord": "credit",
-    "type": "phrase",
-    "meaning": "phiếu tích điểm/khoản tiền hoàn trả sử dụng mua hàng tại cửa hàng",
-    "pronunciation": "/stɔːr ˈkredɪt/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The shop does not give refunds, but they offer store credit.",
-    "exampleVi": "Cửa hàng không hoàn tiền mặt, nhưng họ cung cấp điểm mua hàng tích lũy.",
-    "collocations": [
-      "receive store credit",
-      "offer store credit",
-      "use store credit"
-    ],
-    "synonyms": [
-      "store voucher"
-    ],
-    "wordFamily": [
-      "store",
-      "credit"
-    ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "swap-verb",
@@ -1752,7 +1965,7 @@
     "type": "verb",
     "meaning": "đổi, trao đổi sản phẩm",
     "pronunciation": "/swɑːp/",
-    "topic": "Sales & Retail",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1773,7 +1986,11 @@
     "wordFamily": [
       "swap"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "trademark-noun",
@@ -1782,7 +1999,7 @@
     "type": "noun",
     "meaning": "thương hiệu độc quyền đã đăng ký bảo hộ pháp lý",
     "pronunciation": "/ˈtreɪdmɑːrk/",
-    "topic": "Sales & Retail",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1804,7 +2021,11 @@
       "trade",
       "mark"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "volume-noun",
@@ -1813,7 +2034,7 @@
     "type": "noun",
     "meaning": "sản lượng, âm lượng, dung tích, tập sách",
     "pronunciation": "/ˈvɑːljuːm/",
-    "topic": "Sales & Retail",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1834,7 +2055,11 @@
     "wordFamily": [
       "voluminous"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "wrapping-noun",
@@ -1843,7 +2068,7 @@
     "type": "noun",
     "meaning": "vật bọc ngoài, giấy gói quà",
     "pronunciation": "/ˈræpɪŋ/",
-    "topic": "Sales & Retail",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -1865,7 +2090,11 @@
       "wrap",
       "wrapped"
     ],
-    "day": 33
+    "day": 33,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "advertise-verb",
@@ -1874,7 +2103,7 @@
     "type": "verb",
     "meaning": "quảng cáo, quảng bá sản phẩm",
     "pronunciation": "/ˈædvərtaɪz/",
-    "topic": "Sales & Retail",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1897,7 +2126,11 @@
       "advertising",
       "advertiser"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "brochure-noun",
@@ -1906,7 +2139,7 @@
     "type": "noun",
     "meaning": "cuốn sách nhỏ quảng cáo thông tin chi tiết về sản phẩm/dịch vụ",
     "pronunciation": "/broʊˈʃʊr/",
-    "topic": "Sales & Retail",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1927,7 +2160,11 @@
       "leaflet"
     ],
     "wordFamily": [],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "catalog-noun",
@@ -1936,7 +2173,7 @@
     "type": "noun",
     "meaning": "danh mục sản phẩm, sách giới thiệu sản phẩm",
     "pronunciation": "/ˈkætəlɔːɡ/",
-    "topic": "Sales & Retail",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1959,7 +2196,113 @@
     "wordFamily": [
       "cataloger"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "compliance-noun",
+    "word": "compliance",
+    "baseWord": "compliance",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: compliance",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word compliance in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu compliance trong email cong viec.",
+    "collocations": [
+      "compliance review",
+      "compliance process",
+      "compliance update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "compliance"
+    ],
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "comply-adverb",
+    "word": "comply",
+    "baseWord": "comp",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: comply",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word comply in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu comply trong email cong viec.",
+    "collocations": [
+      "comply review",
+      "comply process",
+      "comply update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "comply"
+    ],
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "comprehensive-adjective",
+    "word": "comprehensive",
+    "baseWord": "comprehens",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: comprehensive",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4"
+    ],
+    "example": "The manager used the word comprehensive in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu comprehensive trong email cong viec.",
+    "collocations": [
+      "comprehensive review",
+      "comprehensive process",
+      "comprehensive update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "comprehensive"
+    ],
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "demand-noun",
@@ -1968,7 +2311,7 @@
     "type": "noun",
     "meaning": "nhu cầu tiêu thụ, sự đòi hỏi",
     "pronunciation": "/dɪˈmænd/",
-    "topic": "Sales & Retail",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1991,7 +2334,11 @@
       "demand",
       "demanding"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "demographics-noun",
@@ -2000,7 +2347,7 @@
     "type": "noun",
     "meaning": "số liệu nhân khẩu học (độ tuổi, giới tính, thu nhập của khách hàng)",
     "pronunciation": "/ˌdeməˈɡræfɪks/",
-    "topic": "Sales & Retail",
+    "topic": "Negotiations & Deals",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2021,7 +2368,11 @@
       "demographic",
       "demographer"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "display-noun",
@@ -2030,7 +2381,7 @@
     "type": "noun",
     "meaning": "sự trưng bày, màn hình hiển thị",
     "pronunciation": "/dɪˈspleɪ/",
-    "topic": "Sales & Retail",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2052,7 +2403,11 @@
     "wordFamily": [
       "display"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "fad-noun",
@@ -2061,7 +2416,7 @@
     "type": "noun",
     "meaning": "mốt nhất thời, xu hướng nổi lên rồi tàn nhanh",
     "pronunciation": "/fæd/",
-    "topic": "Sales & Retail",
+    "topic": "Business Events",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2083,7 +2438,11 @@
     "wordFamily": [
       "faddish"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "flyer-noun",
@@ -2092,7 +2451,7 @@
     "type": "noun",
     "meaning": "tờ rơi quảng cáo",
     "pronunciation": "/ˈflaɪər/",
-    "topic": "Sales & Retail",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2115,7 +2474,11 @@
     "wordFamily": [
       "fly"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "leaflet-noun",
@@ -2124,7 +2487,7 @@
     "type": "noun",
     "meaning": "tờ gấp quảng cáo, tờ rơi gấp nhỏ",
     "pronunciation": "/ˈliːflət/",
-    "topic": "Sales & Retail",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -2147,7 +2510,11 @@
     "wordFamily": [
       "leaf"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "niche-noun",
@@ -2156,7 +2523,7 @@
     "type": "noun",
     "meaning": "thị trường ngách, vị trí thích hợp",
     "pronunciation": "/niːʃ/",
-    "topic": "Sales & Retail",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2175,7 +2542,11 @@
       "corner"
     ],
     "wordFamily": [],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "promotional-adjective",
@@ -2184,7 +2555,7 @@
     "type": "adjective",
     "meaning": "mang tính quảng cáo, thuộc khuyến mãi",
     "pronunciation": "/prəˈmoʊʃənl/",
-    "topic": "Sales & Retail",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2208,39 +2579,11 @@
       "promotion",
       "promoter"
     ],
-    "day": 34
-  },
-  {
-    "id": "publicity-campaign-phrase",
-    "word": "publicity campaign",
-    "baseWord": "public",
-    "type": "phrase",
-    "meaning": "chiến dịch tuyên truyền, chiến dịch quảng bá rộng rãi",
-    "pronunciation": "/pʌbˈlɪsəti kæmˈpeɪn/",
-    "topic": "Sales & Retail",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The agency launched a massive publicity campaign to promote the brand.",
-    "exampleVi": "Công ty đại diện đã phát động một chiến dịch quảng bá rầm rộ để thúc đẩy thương hiệu.",
-    "collocations": [
-      "launch a publicity campaign",
-      "massive publicity campaign",
-      "publicity campaign budget"
-    ],
-    "synonyms": [
-      "promotional campaign",
-      "advertising campaign"
-    ],
-    "wordFamily": [
-      "public",
-      "publicity",
-      "campaign"
-    ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "scarcity-noun",
@@ -2249,7 +2592,7 @@
     "type": "noun",
     "meaning": "sự khan hiếm hàng hóa/tài nguyên",
     "pronunciation": "/ˈskersəti/",
-    "topic": "Sales & Retail",
+    "topic": "Performance Review",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2272,7 +2615,11 @@
       "scarce",
       "scarcely"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "shortage-noun",
@@ -2281,7 +2628,7 @@
     "type": "noun",
     "meaning": "sự thiếu hụt",
     "pronunciation": "/ˈʃɔːrtɪdʒ/",
-    "topic": "Sales & Retail",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2306,7 +2653,11 @@
       "shortly",
       "shorten"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "showcase-verb",
@@ -2315,7 +2666,7 @@
     "type": "verb",
     "meaning": "trưng bày, giới thiệu những điểm tốt nhất của sản phẩm",
     "pronunciation": "/ˈʃoʊkeɪs/",
-    "topic": "Sales & Retail",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2337,7 +2688,11 @@
     "wordFamily": [
       "case"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "supply-noun",
@@ -2346,7 +2701,7 @@
     "type": "noun",
     "meaning": "nguồn cung cấp, hàng tiếp tế",
     "pronunciation": "/səˈplaɪ/",
-    "topic": "Sales & Retail",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2370,7 +2725,11 @@
       "supplier",
       "supply"
     ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "surplus-noun",
@@ -2379,7 +2738,7 @@
     "type": "noun",
     "meaning": "lượng thặng dư, phần dư thừa",
     "pronunciation": "/ˈsɜːrplʌs/",
-    "topic": "Sales & Retail",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2399,38 +2758,11 @@
       "remainder"
     ],
     "wordFamily": [],
-    "day": 34
-  },
-  {
-    "id": "target-market-phrase",
-    "word": "target market",
-    "baseWord": "market",
-    "type": "phrase",
-    "meaning": "thị trường mục tiêu",
-    "pronunciation": "/ˈtɑːrɡɪt ˈmɑːrkɪt/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Young professionals are the main target market for this new smartphone.",
-    "exampleVi": "Các chuyên gia trẻ tuổi là thị trường mục tiêu chính cho chiếc điện thoại thông minh mới này.",
-    "collocations": [
-      "define the target market",
-      "reach the target market",
-      "target market segment"
-    ],
-    "synonyms": [
-      "target audience",
-      "niche market"
-    ],
-    "wordFamily": [
-      "target",
-      "market"
-    ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "trend-noun",
@@ -2439,7 +2771,7 @@
     "type": "noun",
     "meaning": "xu hướng chung, xu thế phát triển",
     "pronunciation": "/trend/",
-    "topic": "Sales & Retail",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2462,36 +2794,11 @@
     "wordFamily": [
       "trendy"
     ],
-    "day": 34
-  },
-  {
-    "id": "window-shopping-phrase",
-    "word": "window shopping",
-    "baseWord": "shop",
-    "type": "phrase",
-    "meaning": "việc ngắm đồ trưng bày qua tủ kính (không có ý định mua)",
-    "pronunciation": "/ˈwɪndoʊ ˈʃɑːpɪŋ/",
-    "topic": "Sales & Retail",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4"
-    ],
-    "example": "We spent Sunday afternoon window shopping in the department store.",
-    "exampleVi": "Chúng tôi đã dành chiều Chủ Nhật đi ngắm đồ qua tủ kính trong cửa hàng bách hóa.",
-    "collocations": [
-      "go window shopping",
-      "enjoy window shopping",
-      "afternoon window shopping"
-    ],
-    "synonyms": [],
-    "wordFamily": [
-      "window",
-      "shop",
-      "shopping"
-    ],
-    "day": 34
+    "day": 34,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "brick-and-mortar-adjective",
@@ -2500,7 +2807,7 @@
     "type": "adjective",
     "meaning": "truyền thống, có cửa hàng/văn phòng vật lý (không chỉ trực tuyến)",
     "pronunciation": "/ˌbrɪk ən ˈmɔːrtər/",
-    "topic": "Sales & Retail",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2519,7 +2826,11 @@
       "physical"
     ],
     "wordFamily": [],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "competition-noun",
@@ -2528,7 +2839,7 @@
     "type": "noun",
     "meaning": "sự cạnh tranh, cuộc thi",
     "pronunciation": "/ˌkɑːmpəˈtɪʃn/",
-    "topic": "Sales & Retail",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2552,7 +2863,11 @@
       "competitor",
       "competitive"
     ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "competitive-adjective",
@@ -2561,7 +2876,7 @@
     "type": "adjective",
     "meaning": "mang tính cạnh tranh, giá cả phải chăng (có sức cạnh tranh)",
     "pronunciation": "/kəmˈpetətɪv/",
-    "topic": "Sales & Retail",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2586,7 +2901,11 @@
       "competition",
       "competitively"
     ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "competitor-noun",
@@ -2595,7 +2914,7 @@
     "type": "noun",
     "meaning": "đối thủ cạnh tranh",
     "pronunciation": "/kəmˈpetɪtər/",
-    "topic": "Sales & Retail",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2619,37 +2938,353 @@
       "competition",
       "competitive"
     ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "cost-price-phrase",
-    "word": "cost price",
-    "baseWord": "price",
-    "type": "phrase",
-    "meaning": "giá vốn, giá thành sản xuất",
-    "pronunciation": "/kɔːst praɪs/",
+    "id": "conclude-noun",
+    "word": "conclude",
+    "baseWord": "conclude",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: conclude",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word conclude in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu conclude trong email cong viec.",
+    "collocations": [
+      "conclude review",
+      "conclude process",
+      "conclude update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "conclude"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "conduct-noun",
+    "word": "conduct",
+    "baseWord": "conduct",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: conduct",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word conduct in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu conduct trong email cong viec.",
+    "collocations": [
+      "conduct review",
+      "conduct process",
+      "conduct update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "conduct"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "confirmation-noun",
+    "word": "confirmation",
+    "baseWord": "confirma",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: confirmation",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word confirmation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu confirmation trong email cong viec.",
+    "collocations": [
+      "confirmation review",
+      "confirmation process",
+      "confirmation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "confirmation"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "conform-noun",
+    "word": "conform",
+    "baseWord": "conform",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: conform",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word conform in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu conform trong email cong viec.",
+    "collocations": [
+      "conform review",
+      "conform process",
+      "conform update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "conform"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "conformity-noun",
+    "word": "conformity",
+    "baseWord": "conform",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: conformity",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word conformity in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu conformity trong email cong viec.",
+    "collocations": [
+      "conformity review",
+      "conformity process",
+      "conformity update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "conformity"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "consecutive-adjective",
+    "word": "consecutive",
+    "baseWord": "consecut",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: consecutive",
+    "pronunciation": "",
     "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word consecutive in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu consecutive trong email cong viec.",
+    "collocations": [
+      "consecutive review",
+      "consecutive process",
+      "consecutive update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "consecutive"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "consent-adjective",
+    "word": "consent",
+    "baseWord": "cons",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: consent",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "The manager used the word consent in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu consent trong email cong viec.",
+    "collocations": [
+      "consent review",
+      "consent process",
+      "consent update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "consent"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "conserve-noun",
+    "word": "conserve",
+    "baseWord": "conserve",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: conserve",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "We sell our old stock at cost price just to clear space.",
-    "exampleVi": "Chúng tôi bán số hàng cũ của mình bằng giá vốn chỉ để dọn dẹp chỗ trống.",
+    "example": "The manager used the word conserve in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu conserve trong email cong viec.",
     "collocations": [
-      "at cost price",
-      "calculate cost price",
-      "below cost price"
+      "conserve review",
+      "conserve process",
+      "conserve update"
     ],
     "synonyms": [
-      "cost of production"
+      "TOEIC core word",
+      "business vocabulary"
     ],
     "wordFamily": [
-      "cost",
-      "price"
+      "conserve"
     ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "considerable-adjective",
+    "word": "considerable",
+    "baseWord": "consider",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: considerable",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word considerable in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu considerable trong email cong viec.",
+    "collocations": [
+      "considerable review",
+      "considerable process",
+      "considerable update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "considerable"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "considerably-adverb",
+    "word": "considerably",
+    "baseWord": "considerab",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: considerably",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word considerably in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu considerably trong email cong viec.",
+    "collocations": [
+      "considerably review",
+      "considerably process",
+      "considerably update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "considerably"
+    ],
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "e-commerce-noun",
@@ -2658,7 +3293,7 @@
     "type": "noun",
     "meaning": "thương mại điện tử",
     "pronunciation": "/ˈiː kɑːmɜːrs/",
-    "topic": "Sales & Retail",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2681,38 +3316,11 @@
       "commerce",
       "commercial"
     ],
-    "day": 35
-  },
-  {
-    "id": "gift-card-phrase",
-    "word": "gift card",
-    "baseWord": "card",
-    "type": "phrase",
-    "meaning": "thẻ quà tặng mua hàng",
-    "pronunciation": "/ɡɪft kɑːrd/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "I received a fifty-dollar gift card to my favorite bookstore.",
-    "exampleVi": "Tôi đã nhận được một thẻ quà tặng trị giá năm mươi đô la cho hiệu sách yêu thích của mình.",
-    "collocations": [
-      "receive a gift card",
-      "purchase a gift card",
-      "gift card balance"
-    ],
-    "synonyms": [
-      "gift voucher",
-      "token"
-    ],
-    "wordFamily": [
-      "gift",
-      "card"
-    ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "loss-noun",
@@ -2721,7 +3329,7 @@
     "type": "noun",
     "meaning": "sự thua lỗ, sự tổn thất",
     "pronunciation": "/lɔːs/",
-    "topic": "Sales & Retail",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2745,38 +3353,11 @@
       "loser",
       "lost"
     ],
-    "day": 35
-  },
-  {
-    "id": "loyalty-program-phrase",
-    "word": "loyalty program",
-    "baseWord": "loyal",
-    "type": "phrase",
-    "meaning": "chương trình khách hàng thân thiết",
-    "pronunciation": "/ˈlɔɪəlti ˈproʊɡræm/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Join our loyalty program today to receive exclusive member discounts.",
-    "exampleVi": "Hãy tham gia chương trình khách hàng thân thiết của chúng tôi ngay hôm nay để nhận được mức giảm giá độc quyền dành cho thành viên.",
-    "collocations": [
-      "customer loyalty program",
-      "join a loyalty program",
-      "loyalty program member"
-    ],
-    "synonyms": [
-      "rewards program"
-    ],
-    "wordFamily": [
-      "loyal",
-      "loyalty",
-      "program"
-    ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "margin-noun",
@@ -2785,7 +3366,7 @@
     "type": "noun",
     "meaning": "biên lợi nhuận, lề trang giấy",
     "pronunciation": "/ˈmɑːrdʒɪn/",
-    "topic": "Sales & Retail",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2808,7 +3389,11 @@
       "marginal",
       "marginally"
     ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "monopoly-noun",
@@ -2817,7 +3402,7 @@
     "type": "noun",
     "meaning": "sự độc quyền thị trường",
     "pronunciation": "/məˈnɑːpəli/",
-    "topic": "Sales & Retail",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2838,38 +3423,11 @@
       "monopolistic",
       "monopolize"
     ],
-    "day": 35
-  },
-  {
-    "id": "online-shopping-phrase",
-    "word": "online shopping",
-    "baseWord": "shop",
-    "type": "phrase",
-    "meaning": "mua sắm trực tuyến, mua sắm qua mạng",
-    "pronunciation": "/ˈɑːnlaɪn ˈʃɑːpɪŋ/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Online shopping is convenient because you can shop from home.",
-    "exampleVi": "Mua sắm trực tuyến rất tiện lợi vì bạn có thể mua sắm ngay tại nhà.",
-    "collocations": [
-      "do online shopping",
-      "online shopping site",
-      "growth of online shopping"
-    ],
-    "synonyms": [
-      "internet shopping",
-      "e-shopping"
-    ],
-    "wordFamily": [
-      "shop",
-      "online"
-    ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "profit-noun",
@@ -2878,7 +3436,7 @@
     "type": "noun",
     "meaning": "lợi nhuận, tiền lãi",
     "pronunciation": "/ˈprɑːfɪt/",
-    "topic": "Sales & Retail",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2903,69 +3461,11 @@
       "profitably",
       "profitability"
     ],
-    "day": 35
-  },
-  {
-    "id": "purchase-order-phrase",
-    "word": "purchase order",
-    "baseWord": "order",
-    "type": "phrase",
-    "meaning": "đơn đặt hàng chính thức (từ người mua gửi người bán)",
-    "pronunciation": "/ˈpɜːrtʃəs ˈɔːrdər/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please submit a purchase order to the finance office for approval.",
-    "exampleVi": "Vui lòng nộp đơn đặt hàng cho văn phòng tài chính để phê duyệt.",
-    "collocations": [
-      "submit a purchase order",
-      "approve a purchase order",
-      "purchase order number"
-    ],
-    "synonyms": [
-      "order form"
-    ],
-    "wordFamily": [
-      "purchase",
-      "order"
-    ],
-    "day": 35
-  },
-  {
-    "id": "retail-price-phrase",
-    "word": "retail price",
-    "baseWord": "price",
-    "type": "phrase",
-    "meaning": "giá bán lẻ (giá niêm yết cho người tiêu dùng cuối)",
-    "pronunciation": "/ˈriːteɪl praɪs/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The suggested retail price for this coat is two hundred dollars.",
-    "exampleVi": "Giá bán lẻ đề xuất cho chiếc áo khoác này là hai trăm đô la.",
-    "collocations": [
-      "suggested retail price",
-      "recommended retail price",
-      "below retail price"
-    ],
-    "synonyms": [
-      "consumer price"
-    ],
-    "wordFamily": [
-      "retail",
-      "price"
-    ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "revenue-noun",
@@ -2974,7 +3474,7 @@
     "type": "noun",
     "meaning": "doanh thu, tổng thu nhập trước thuế",
     "pronunciation": "/ˈrevənuː/",
-    "topic": "Sales & Retail",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2995,126 +3495,10 @@
       "returns"
     ],
     "wordFamily": [],
-    "day": 35
-  },
-  {
-    "id": "reward-points-phrase",
-    "word": "reward points",
-    "baseWord": "point",
-    "type": "phrase",
-    "meaning": "điểm thưởng tích lũy khi mua hàng",
-    "pronunciation": "/rɪˈwɔːrd pɔɪnts/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "You can redeem your reward points for merchandise or gift cards.",
-    "exampleVi": "Bạn có thể quy đổi điểm thưởng tích lũy của mình để lấy hàng hóa hoặc thẻ quà tặng.",
-    "collocations": [
-      "earn reward points",
-      "redeem reward points",
-      "accumulate reward points"
-    ],
-    "synonyms": [
-      "loyalty points"
-    ],
-    "wordFamily": [
-      "reward",
-      "point"
-    ],
-    "day": 35
-  },
-  {
-    "id": "sales-volume-phrase",
-    "word": "sales volume",
-    "baseWord": "sale",
-    "type": "phrase",
-    "meaning": "doanh số bán hàng, số lượng đơn vị sản phẩm bán ra",
-    "pronunciation": "/seɪlz ˈvɑːljuːm/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The company's sales volume decreased during the economic recession.",
-    "exampleVi": "Doanh số bán hàng của công ty đã giảm trong thời kỳ suy thoái kinh tế.",
-    "collocations": [
-      "increase sales volume",
-      "monthly sales volume",
-      "sales volume targets"
-    ],
-    "synonyms": [
-      "sales numbers"
-    ],
-    "wordFamily": [
-      "sale",
-      "volume"
-    ],
-    "day": 35
-  },
-  {
-    "id": "selling-price-phrase",
-    "word": "selling price",
-    "baseWord": "price",
-    "type": "phrase",
-    "meaning": "giá bán, mức giá bán ra cho người mua",
-    "pronunciation": "/ˈselɪŋ praɪs/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The selling price of the product includes taxes and shipping.",
-    "exampleVi": "Giá bán của sản phẩm đã bao gồm thuế và phí vận chuyển.",
-    "collocations": [
-      "recommended selling price",
-      "average selling price",
-      "set a selling price"
-    ],
-    "synonyms": [
-      "market price"
-    ],
-    "wordFamily": [
-      "sell",
-      "price"
-    ],
-    "day": 35
-  },
-  {
-    "id": "wholesale-price-phrase",
-    "word": "wholesale price",
-    "baseWord": "price",
-    "type": "phrase",
-    "meaning": "giá bán sỉ (giá cho các đại lý mua số lượng lớn)",
-    "pronunciation": "/ˈhoʊlseɪl praɪs/",
-    "topic": "Sales & Retail",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We can offer a lower wholesale price if you double your order.",
-    "exampleVi": "Chúng tôi có thể đề xuất mức giá bán sỉ thấp hơn nếu bạn tăng gấp đôi đơn đặt hàng của mình.",
-    "collocations": [
-      "discounted wholesale price",
-      "wholesale price index",
-      "compare wholesale prices"
-    ],
-    "synonyms": [
-      "dealer price"
-    ],
-    "wordFamily": [
-      "wholesale",
-      "price"
-    ],
-    "day": 35
+    "day": 35,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

@@ -1,160 +1,185 @@
 [
   {
-    "id": "balance-of-trade-phrase",
-    "word": "balance of trade",
-    "baseWord": "balance",
+    "id": "fill-out-the-deadline-phrasal",
+    "word": "fill out the deadline",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "balance of trade; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the deadline",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Office & Administration",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the balance of trade for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị balance of trade cho lô hàng xuất khẩu.",
-    "collocations": [
-      "balance of trade",
-      "balance of trade review",
-      "balance of trade process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "balance"
-    ],
-    "day": 141
-  },
-  {
-    "id": "border-duty-charge-phrase",
-    "word": "border duty charge",
-    "baseWord": "border",
-    "type": "phrase",
-    "meaning": "border duty charge; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the border duty charge for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị border duty charge cho lô hàng xuất khẩu.",
+    "example": "The team needs to fill out the deadline before the end of the day.",
+    "exampleVi": "Nhom can fill out the deadline truoc cuoi ngay.",
     "collocations": [
-      "border duty charge",
-      "border duty charge review",
-      "border duty charge process"
+      "fill out the deadline",
+      "fill out the deadline today",
+      "fill out the deadline carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "border"
+      "fill",
+      "out"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "certificate-of-origin-phrase",
-    "word": "certificate of origin",
-    "baseWord": "certificate",
+    "id": "fill-out-the-details-phrasal",
+    "word": "fill out the details",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "certificate of origin; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the details",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the certificate of origin for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị certificate of origin cho lô hàng xuất khẩu.",
-    "collocations": [
-      "certificate of origin",
-      "certificate of origin review",
-      "certificate of origin process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "certificate"
-    ],
-    "day": 141
-  },
-  {
-    "id": "commercial-invoice-phrase",
-    "word": "commercial invoice",
-    "baseWord": "commercial",
-    "type": "phrase",
-    "meaning": "commercial invoice; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the commercial invoice for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị commercial invoice cho lô hàng xuất khẩu.",
-    "collocations": [
-      "commercial invoice",
-      "commercial invoice review",
-      "commercial invoice process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "commercial"
-    ],
-    "day": 141
-  },
-  {
-    "id": "country-of-origin-phrase",
-    "word": "country of origin",
-    "baseWord": "country",
-    "type": "phrase",
-    "meaning": "country of origin; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the country of origin for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị country of origin cho lô hàng xuất khẩu.",
+    "example": "The team needs to fill out the details before the end of the day.",
+    "exampleVi": "Nhom can fill out the details truoc cuoi ngay.",
     "collocations": [
-      "country of origin",
-      "country of origin review",
-      "country of origin process"
+      "fill out the details",
+      "fill out the details today",
+      "fill out the details carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "country"
+      "fill",
+      "out"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "customs-declaration-phrase",
-    "word": "customs declaration",
-    "baseWord": "custom",
+    "id": "fill-out-the-figures-phrasal",
+    "word": "fill out the figures",
+    "baseWord": "fill",
     "type": "phrase",
-    "meaning": "customs declaration; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the figures",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Business Communication",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the figures before the end of the day.",
+    "exampleVi": "Nhom can fill out the figures truoc cuoi ngay.",
+    "collocations": [
+      "fill out the figures",
+      "fill out the figures today",
+      "fill out the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "fill-out-the-file-phrasal",
+    "word": "fill out the file",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the file",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the file before the end of the day.",
+    "exampleVi": "Nhom can fill out the file truoc cuoi ngay.",
+    "collocations": [
+      "fill out the file",
+      "fill out the file today",
+      "fill out the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "fill-out-the-policy-phrasal",
+    "word": "fill out the policy",
+    "baseWord": "fill",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: fill out the policy",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to fill out the policy before the end of the day.",
+    "exampleVi": "Nhom can fill out the policy truoc cuoi ngay.",
+    "collocations": [
+      "fill out the policy",
+      "fill out the policy today",
+      "fill out the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "fill",
+      "out"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "take-over-phrasal",
+    "word": "take over",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -162,979 +187,795 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the customs declaration for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị customs declaration cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over before the end of the day.",
+    "exampleVi": "Nhom can take over truoc cuoi ngay.",
     "collocations": [
-      "customs declaration",
-      "customs declaration review",
-      "customs declaration process"
+      "take over",
+      "take over today",
+      "take over carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "custom"
+      "take",
+      "over"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "embargo-order-phrase",
-    "word": "embargo order",
-    "baseWord": "embargo",
+    "id": "take-over-the-application-phrasal",
+    "word": "take over the application",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "embargo order; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the application",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the embargo order for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị embargo order cho lô hàng xuất khẩu.",
-    "collocations": [
-      "embargo order",
-      "embargo order review",
-      "embargo order process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "embargo"
-    ],
-    "day": 141
-  },
-  {
-    "id": "export-license-verb",
-    "word": "export license",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export license; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the export license for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export license cho lô hàng xuất khẩu.",
-    "collocations": [
-      "export license",
-      "export license review",
-      "export license process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 141
-  },
-  {
-    "id": "free-trade-phrase",
-    "word": "free trade",
-    "baseWord": "free",
-    "type": "phrase",
-    "meaning": "free trade; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the free trade for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị free trade cho lô hàng xuất khẩu.",
-    "collocations": [
-      "free trade",
-      "free trade review",
-      "free trade process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "free"
-    ],
-    "day": 141
-  },
-  {
-    "id": "import-license-verb",
-    "word": "import license",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import license; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the import license for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import license cho lô hàng xuất khẩu.",
-    "collocations": [
-      "import license",
-      "import license review",
-      "import license process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "import"
-    ],
-    "day": 141
-  },
-  {
-    "id": "non-tariff-barrier-phrase",
-    "word": "non-tariff barrier",
-    "baseWord": "non-tariff",
-    "type": "phrase",
-    "meaning": "non-tariff barrier; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the non-tariff barrier for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị non-tariff barrier cho lô hàng xuất khẩu.",
-    "collocations": [
-      "non-tariff barrier",
-      "non-tariff barrier review",
-      "non-tariff barrier process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "non-tariff"
-    ],
-    "day": 141
-  },
-  {
-    "id": "quota-restriction-phrase",
-    "word": "quota restriction",
-    "baseWord": "quota",
-    "type": "phrase",
-    "meaning": "quota restriction; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
-    "level": "hard",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the quota restriction for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị quota restriction cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the application before the end of the day.",
+    "exampleVi": "Nhom can take over the application truoc cuoi ngay.",
     "collocations": [
-      "quota restriction",
-      "quota restriction review",
-      "quota restriction process"
+      "take over the application",
+      "take over the application today",
+      "take over the application carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "quota"
+      "take",
+      "over"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "rules-of-origin-phrase",
-    "word": "rules of origin",
-    "baseWord": "rule",
+    "id": "take-over-the-client-phrasal",
+    "word": "take over the client",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "rules of origin; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the client",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the rules of origin for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị rules of origin cho lô hàng xuất khẩu.",
-    "collocations": [
-      "rules of origin",
-      "rules of origin review",
-      "rules of origin process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "rule"
-    ],
-    "day": 141
-  },
-  {
-    "id": "tariff-barrier-phrase",
-    "word": "tariff barrier",
-    "baseWord": "tariff",
-    "type": "phrase",
-    "meaning": "tariff barrier; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the tariff barrier for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị tariff barrier cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the client before the end of the day.",
+    "exampleVi": "Nhom can take over the client truoc cuoi ngay.",
     "collocations": [
-      "tariff barrier",
-      "tariff barrier review",
-      "tariff barrier process"
+      "take over the client",
+      "take over the client today",
+      "take over the client carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "tariff"
+      "take",
+      "over"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
-    "id": "tariff-rate-phrase",
-    "word": "tariff rate",
-    "baseWord": "tariff",
+    "id": "take-over-the-complaint-phrasal",
+    "word": "take over the complaint",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "tariff rate; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the complaint",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Customer Service",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the tariff rate for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị tariff rate cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the complaint before the end of the day.",
+    "exampleVi": "Nhom can take over the complaint truoc cuoi ngay.",
     "collocations": [
-      "tariff rate",
-      "tariff rate review",
-      "tariff rate process"
+      "take over the complaint",
+      "take over the complaint today",
+      "take over the complaint carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "tariff"
+      "take",
+      "over"
     ],
-    "day": 141
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
-    "id": "trade-agreement-phrase",
-    "word": "trade agreement",
-    "baseWord": "trade",
+    "id": "take-over-the-contract-phrasal",
+    "word": "take over the contract",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "trade agreement; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the contract",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade agreement for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade agreement cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade agreement",
-      "trade agreement review",
-      "trade agreement process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 141
-  },
-  {
-    "id": "trade-bloc-phrase",
-    "word": "trade bloc",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade bloc; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade bloc for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade bloc cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade bloc",
-      "trade bloc review",
-      "trade bloc process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 141
-  },
-  {
-    "id": "trade-deficit-phrase",
-    "word": "trade deficit",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade deficit; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade deficit for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade deficit cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade deficit",
-      "trade deficit review",
-      "trade deficit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 141
-  },
-  {
-    "id": "trade-sanction-phrase",
-    "word": "trade sanction",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade sanction; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade sanction for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade sanction cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade sanction",
-      "trade sanction review",
-      "trade sanction process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 141
-  },
-  {
-    "id": "trade-surplus-phrase",
-    "word": "trade surplus",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade surplus; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade surplus for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade surplus cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade surplus",
-      "trade surplus review",
-      "trade surplus process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 141
-  },
-  {
-    "id": "border-clearance-agent-phrase",
-    "word": "border clearance agent",
-    "baseWord": "border",
-    "type": "phrase",
-    "meaning": "border clearance agent; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the border clearance agent for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị border clearance agent cho lô hàng xuất khẩu.",
-    "collocations": [
-      "border clearance agent",
-      "border clearance agent review",
-      "border clearance agent process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "border"
-    ],
-    "day": 142
-  },
-  {
-    "id": "cargo-forwarding-agent-phrase",
-    "word": "cargo forwarding agent",
-    "baseWord": "cargo",
-    "type": "phrase",
-    "meaning": "cargo forwarding agent; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the cargo forwarding agent for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị cargo forwarding agent cho lô hàng xuất khẩu.",
-    "collocations": [
-      "cargo forwarding agent",
-      "cargo forwarding agent review",
-      "cargo forwarding agent process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cargo"
-    ],
-    "day": 142
-  },
-  {
-    "id": "cargo-insurance-phrase",
-    "word": "cargo insurance",
-    "baseWord": "cargo",
-    "type": "phrase",
-    "meaning": "cargo insurance; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the cargo insurance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị cargo insurance cho lô hàng xuất khẩu.",
-    "collocations": [
-      "cargo insurance",
-      "cargo insurance review",
-      "cargo insurance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cargo"
-    ],
-    "day": 142
-  },
-  {
-    "id": "cargo-vessel-phrase",
-    "word": "cargo vessel",
-    "baseWord": "cargo",
-    "type": "phrase",
-    "meaning": "cargo vessel; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Sales & Retail",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the cargo vessel for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị cargo vessel cho lô hàng xuất khẩu.",
-    "collocations": [
-      "cargo vessel",
-      "cargo vessel review",
-      "cargo vessel process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cargo"
-    ],
-    "day": 142
-  },
-  {
-    "id": "container-shipment-phrase",
-    "word": "container shipment",
-    "baseWord": "container",
-    "type": "phrase",
-    "meaning": "container shipment; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the container shipment for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị container shipment cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the contract before the end of the day.",
+    "exampleVi": "Nhom can take over the contract truoc cuoi ngay.",
     "collocations": [
-      "container shipment",
-      "container shipment review",
-      "container shipment process"
+      "take over the contract",
+      "take over the contract today",
+      "take over the contract carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "container"
+      "take",
+      "over"
     ],
-    "day": 142
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "customs-controlled-warehouse-phrase",
-    "word": "customs-controlled warehouse",
-    "baseWord": "customs-controlled",
+    "id": "take-over-the-form-phrasal",
+    "word": "take over the form",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "customs-controlled warehouse; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the form",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the customs-controlled warehouse for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị customs-controlled warehouse cho lô hàng xuất khẩu.",
-    "collocations": [
-      "customs-controlled warehouse",
-      "customs-controlled warehouse review",
-      "customs-controlled warehouse process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "customs-controlled"
-    ],
-    "day": 142
-  },
-  {
-    "id": "delivery-duty-phrase",
-    "word": "delivery duty",
-    "baseWord": "delivery",
-    "type": "phrase",
-    "meaning": "delivery duty; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the delivery duty for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị delivery duty cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the form before the end of the day.",
+    "exampleVi": "Nhom can take over the form truoc cuoi ngay.",
     "collocations": [
-      "delivery duty",
-      "delivery duty review",
-      "delivery duty process"
+      "take over the form",
+      "take over the form today",
+      "take over the form carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "delivery"
+      "take",
+      "over"
     ],
-    "day": 142
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "export-clearance-verb",
-    "word": "export clearance",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export clearance; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the export clearance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export clearance cho lô hàng xuất khẩu.",
-    "collocations": [
-      "export clearance",
-      "export clearance review",
-      "export clearance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 142
-  },
-  {
-    "id": "export-documentation-verb",
-    "word": "export documentation",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export documentation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the export documentation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export documentation cho lô hàng xuất khẩu.",
-    "collocations": [
-      "export documentation",
-      "export documentation review",
-      "export documentation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 142
-  },
-  {
-    "id": "freight-charge-phrase",
-    "word": "freight charge",
-    "baseWord": "freight",
+    "id": "take-over-the-invoice-phrasal",
+    "word": "take over the invoice",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "freight charge; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the invoice",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the freight charge for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị freight charge cho lô hàng xuất khẩu.",
-    "collocations": [
-      "freight charge",
-      "freight charge review",
-      "freight charge process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "freight"
-    ],
-    "day": 142
-  },
-  {
-    "id": "import-clearance-verb",
-    "word": "import clearance",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import clearance; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the import clearance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import clearance cho lô hàng xuất khẩu.",
-    "collocations": [
-      "import clearance",
-      "import clearance review",
-      "import clearance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "import"
-    ],
-    "day": 142
-  },
-  {
-    "id": "import-documentation-verb",
-    "word": "import documentation",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import documentation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the import documentation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import documentation cho lô hàng xuất khẩu.",
-    "collocations": [
-      "import documentation",
-      "import documentation review",
-      "import documentation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "import"
-    ],
-    "day": 142
-  },
-  {
-    "id": "incoterms-rule-phrase",
-    "word": "incoterms rule",
-    "baseWord": "incoterm",
-    "type": "phrase",
-    "meaning": "incoterms rule; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the incoterms rule for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị incoterms rule cho lô hàng xuất khẩu.",
-    "collocations": [
-      "incoterms rule",
-      "incoterms rule review",
-      "incoterms rule process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "incoterm"
-    ],
-    "day": 142
-  },
-  {
-    "id": "packing-list-phrase",
-    "word": "packing list",
-    "baseWord": "packing",
-    "type": "phrase",
-    "meaning": "packing list; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the packing list for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị packing list cho lô hàng xuất khẩu.",
-    "collocations": [
-      "packing list",
-      "packing list review",
-      "packing list process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "packing"
-    ],
-    "day": 142
-  },
-  {
-    "id": "port-authority-phrase",
-    "word": "port authority",
-    "baseWord": "port",
-    "type": "phrase",
-    "meaning": "port authority; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the port authority for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị port authority cho lô hàng xuất khẩu.",
-    "collocations": [
-      "port authority",
-      "port authority review",
-      "port authority process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "port"
-    ],
-    "day": 142
-  },
-  {
-    "id": "port-congestion-phrase",
-    "word": "port congestion",
-    "baseWord": "port",
-    "type": "phrase",
-    "meaning": "port congestion; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the port congestion for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị port congestion cho lô hàng xuất khẩu.",
-    "collocations": [
-      "port congestion",
-      "port congestion review",
-      "port congestion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "port"
-    ],
-    "day": 142
-  },
-  {
-    "id": "shipping-manifest-phrase",
-    "word": "shipping manifest",
-    "baseWord": "shipping",
-    "type": "phrase",
-    "meaning": "shipping manifest; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Finance & Banking",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the shipping manifest for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị shipping manifest cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the invoice before the end of the day.",
+    "exampleVi": "Nhom can take over the invoice truoc cuoi ngay.",
     "collocations": [
-      "shipping manifest",
-      "shipping manifest review",
-      "shipping manifest process"
+      "take over the invoice",
+      "take over the invoice today",
+      "take over the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "shipping"
+      "take",
+      "over"
     ],
-    "day": 142
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
-    "id": "shipping-route-phrase",
-    "word": "shipping route",
-    "baseWord": "shipping",
+    "id": "take-over-the-issue-phrasal",
+    "word": "take over the issue",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "shipping route; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the issue",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to take over the issue before the end of the day.",
+    "exampleVi": "Nhom can take over the issue truoc cuoi ngay.",
+    "collocations": [
+      "take over the issue",
+      "take over the issue today",
+      "take over the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "take-over-the-meeting-phrasal",
+    "word": "take over the meeting",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the meeting",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to take over the meeting before the end of the day.",
+    "exampleVi": "Nhom can take over the meeting truoc cuoi ngay.",
+    "collocations": [
+      "take over the meeting",
+      "take over the meeting today",
+      "take over the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "take-over-the-order-phrasal",
+    "word": "take over the order",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the order",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the shipping route for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị shipping route cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the order before the end of the day.",
+    "exampleVi": "Nhom can take over the order truoc cuoi ngay.",
     "collocations": [
-      "shipping route",
-      "shipping route review",
-      "shipping route process"
+      "take over the order",
+      "take over the order today",
+      "take over the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "shipping"
+      "take",
+      "over"
     ],
-    "day": 142
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "shipping-title-document-phrase",
-    "word": "shipping title document",
-    "baseWord": "shipping",
+    "id": "take-over-the-proposal-phrasal",
+    "word": "take over the proposal",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "shipping title document; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the proposal",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to take over the proposal before the end of the day.",
+    "exampleVi": "Nhom can take over the proposal truoc cuoi ngay.",
+    "collocations": [
+      "take over the proposal",
+      "take over the proposal today",
+      "take over the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "take-over-the-report-phrasal",
+    "word": "take over the report",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the report",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to take over the report before the end of the day.",
+    "exampleVi": "Nhom can take over the report truoc cuoi ngay.",
+    "collocations": [
+      "take over the report",
+      "take over the report today",
+      "take over the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "take-over-the-request-phrasal",
+    "word": "take over the request",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the request",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to take over the request before the end of the day.",
+    "exampleVi": "Nhom can take over the request truoc cuoi ngay.",
+    "collocations": [
+      "take over the request",
+      "take over the request today",
+      "take over the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "take-over-the-schedule-phrasal",
+    "word": "take over the schedule",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the schedule",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to take over the schedule before the end of the day.",
+    "exampleVi": "Nhom can take over the schedule truoc cuoi ngay.",
+    "collocations": [
+      "take over the schedule",
+      "take over the schedule today",
+      "take over the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "take-over-the-shipment-phrasal",
+    "word": "take over the shipment",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the shipment",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to take over the shipment before the end of the day.",
+    "exampleVi": "Nhom can take over the shipment truoc cuoi ngay.",
+    "collocations": [
+      "take over the shipment",
+      "take over the shipment today",
+      "take over the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 141,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "set-up-phrasal",
+    "word": "set up",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up before the end of the day.",
+    "exampleVi": "Nhom can set up truoc cuoi ngay.",
+    "collocations": [
+      "set up",
+      "set up today",
+      "set up carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "set-up-the-application-phrasal",
+    "word": "set up the application",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the application",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up the application before the end of the day.",
+    "exampleVi": "Nhom can set up the application truoc cuoi ngay.",
+    "collocations": [
+      "set up the application",
+      "set up the application today",
+      "set up the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "set-up-the-client-phrasal",
+    "word": "set up the client",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the client",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the client before the end of the day.",
+    "exampleVi": "Nhom can set up the client truoc cuoi ngay.",
+    "collocations": [
+      "set up the client",
+      "set up the client today",
+      "set up the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "set-up-the-complaint-phrasal",
+    "word": "set up the complaint",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the complaint",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the complaint before the end of the day.",
+    "exampleVi": "Nhom can set up the complaint truoc cuoi ngay.",
+    "collocations": [
+      "set up the complaint",
+      "set up the complaint today",
+      "set up the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "set-up-the-contract-phrasal",
+    "word": "set up the contract",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the contract",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up the contract before the end of the day.",
+    "exampleVi": "Nhom can set up the contract truoc cuoi ngay.",
+    "collocations": [
+      "set up the contract",
+      "set up the contract today",
+      "set up the contract carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "set-up-the-invoice-phrasal",
+    "word": "set up the invoice",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the invoice",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the invoice before the end of the day.",
+    "exampleVi": "Nhom can set up the invoice truoc cuoi ngay.",
+    "collocations": [
+      "set up the invoice",
+      "set up the invoice today",
+      "set up the invoice carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "set-up-the-issue-phrasal",
+    "word": "set up the issue",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the issue",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the issue before the end of the day.",
+    "exampleVi": "Nhom can set up the issue truoc cuoi ngay.",
+    "collocations": [
+      "set up the issue",
+      "set up the issue today",
+      "set up the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "set-up-the-meeting-phrasal",
+    "word": "set up the meeting",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the meeting",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the meeting before the end of the day.",
+    "exampleVi": "Nhom can set up the meeting truoc cuoi ngay.",
+    "collocations": [
+      "set up the meeting",
+      "set up the meeting today",
+      "set up the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "set-up-the-order-phrasal",
+    "word": "set up the order",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the order",
     "pronunciation": "",
     "topic": "Global Trade",
     "frequency": "high",
@@ -1144,866 +985,490 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the shipping title document for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị shipping title document cho lô hàng xuất khẩu.",
+    "example": "The team needs to set up the order before the end of the day.",
+    "exampleVi": "Nhom can set up the order truoc cuoi ngay.",
     "collocations": [
-      "shipping title document",
-      "shipping title document review",
-      "shipping title document process"
+      "set up the order",
+      "set up the order today",
+      "set up the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "shipping"
+      "set",
+      "up"
     ],
-    "day": 142
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "transshipment-point-phrase",
-    "word": "transshipment point",
-    "baseWord": "transshipment",
+    "id": "set-up-the-proposal-phrasal",
+    "word": "set up the proposal",
+    "baseWord": "set",
     "type": "phrase",
-    "meaning": "transshipment point; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the proposal",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the transshipment point for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị transshipment point cho lô hàng xuất khẩu.",
-    "collocations": [
-      "transshipment point",
-      "transshipment point review",
-      "transshipment point process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "transshipment"
-    ],
-    "day": 142
-  },
-  {
-    "id": "advance-payment-phrase",
-    "word": "advance payment",
-    "baseWord": "advance",
-    "type": "phrase",
-    "meaning": "advance payment; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Business Events",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the advance payment for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị advance payment cho lô hàng xuất khẩu.",
-    "collocations": [
-      "advance payment",
-      "advance payment review",
-      "advance payment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "advance"
-    ],
-    "day": 143
-  },
-  {
-    "id": "bank-guarantee-phrase",
-    "word": "bank guarantee",
-    "baseWord": "bank",
-    "type": "phrase",
-    "meaning": "bank guarantee; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the bank guarantee for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị bank guarantee cho lô hàng xuất khẩu.",
-    "collocations": [
-      "bank guarantee",
-      "bank guarantee review",
-      "bank guarantee process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "bank"
-    ],
-    "day": 143
-  },
-  {
-    "id": "cross-border-payment-phrase",
-    "word": "cross-border payment",
-    "baseWord": "cross-border",
-    "type": "phrase",
-    "meaning": "cross-border payment; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the cross-border payment for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị cross-border payment cho lô hàng xuất khẩu.",
-    "collocations": [
-      "cross-border payment",
-      "cross-border payment review",
-      "cross-border payment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cross-border"
-    ],
-    "day": 143
-  },
-  {
-    "id": "currency-conversion-phrase",
-    "word": "currency conversion",
-    "baseWord": "currency",
-    "type": "phrase",
-    "meaning": "currency conversion; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the currency conversion for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị currency conversion cho lô hàng xuất khẩu.",
-    "collocations": [
-      "currency conversion",
-      "currency conversion review",
-      "currency conversion process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "currency"
-    ],
-    "day": 143
-  },
-  {
-    "id": "currency-fluctuation-phrase",
-    "word": "currency fluctuation",
-    "baseWord": "currency",
-    "type": "phrase",
-    "meaning": "currency fluctuation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the currency fluctuation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị currency fluctuation cho lô hàng xuất khẩu.",
-    "collocations": [
-      "currency fluctuation",
-      "currency fluctuation review",
-      "currency fluctuation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "currency"
-    ],
-    "day": 143
-  },
-  {
-    "id": "documentary-collection-phrase",
-    "word": "documentary collection",
-    "baseWord": "documentary",
-    "type": "phrase",
-    "meaning": "documentary collection; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the documentary collection for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị documentary collection cho lô hàng xuất khẩu.",
-    "collocations": [
-      "documentary collection",
-      "documentary collection review",
-      "documentary collection process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "documentary"
-    ],
-    "day": 143
-  },
-  {
-    "id": "documentary-credit-phrase",
-    "word": "documentary credit",
-    "baseWord": "documentary",
-    "type": "phrase",
-    "meaning": "documentary credit; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the documentary credit for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị documentary credit cho lô hàng xuất khẩu.",
-    "collocations": [
-      "documentary credit",
-      "documentary credit review",
-      "documentary credit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "documentary"
-    ],
-    "day": 143
-  },
-  {
-    "id": "export-financing-verb",
-    "word": "export financing",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export financing; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the export financing for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export financing cho lô hàng xuất khẩu.",
+    "example": "The team needs to set up the proposal before the end of the day.",
+    "exampleVi": "Nhom can set up the proposal truoc cuoi ngay.",
     "collocations": [
-      "export financing",
-      "export financing review",
-      "export financing process"
+      "set up the proposal",
+      "set up the proposal today",
+      "set up the proposal carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "export"
+      "set",
+      "up"
     ],
-    "day": 143
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "foreign-buyer-phrase",
-    "word": "foreign buyer",
-    "baseWord": "foreign",
+    "id": "set-up-the-report-phrasal",
+    "word": "set up the report",
+    "baseWord": "set",
     "type": "phrase",
-    "meaning": "foreign buyer; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the report",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the foreign buyer for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị foreign buyer cho lô hàng xuất khẩu.",
-    "collocations": [
-      "foreign buyer",
-      "foreign buyer review",
-      "foreign buyer process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "foreign"
-    ],
-    "day": 143
-  },
-  {
-    "id": "foreign-currency-rate-phrase",
-    "word": "foreign currency rate",
-    "baseWord": "foreign",
-    "type": "phrase",
-    "meaning": "foreign currency rate; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the foreign currency rate for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị foreign currency rate cho lô hàng xuất khẩu.",
+    "example": "The team needs to set up the report before the end of the day.",
+    "exampleVi": "Nhom can set up the report truoc cuoi ngay.",
     "collocations": [
-      "foreign currency rate",
-      "foreign currency rate review",
-      "foreign currency rate process"
+      "set up the report",
+      "set up the report today",
+      "set up the report carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "foreign"
+      "set",
+      "up"
     ],
-    "day": 143
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
-    "id": "foreign-exchange-phrase",
-    "word": "foreign exchange",
-    "baseWord": "foreign",
+    "id": "set-up-the-request-phrasal",
+    "word": "set up the request",
+    "baseWord": "set",
     "type": "phrase",
-    "meaning": "foreign exchange; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the request",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Email & Correspondence",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up the request before the end of the day.",
+    "exampleVi": "Nhom can set up the request truoc cuoi ngay.",
+    "collocations": [
+      "set up the request",
+      "set up the request today",
+      "set up the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "set-up-the-schedule-phrasal",
+    "word": "set up the schedule",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the schedule",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up the schedule before the end of the day.",
+    "exampleVi": "Nhom can set up the schedule truoc cuoi ngay.",
+    "collocations": [
+      "set up the schedule",
+      "set up the schedule today",
+      "set up the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "set-up-the-shipment-phrasal",
+    "word": "set up the shipment",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the shipment",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the shipment before the end of the day.",
+    "exampleVi": "Nhom can set up the shipment truoc cuoi ngay.",
+    "collocations": [
+      "set up the shipment",
+      "set up the shipment today",
+      "set up the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "take-over-the-deadline-phrasal",
+    "word": "take over the deadline",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the deadline",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to take over the deadline before the end of the day.",
+    "exampleVi": "Nhom can take over the deadline truoc cuoi ngay.",
+    "collocations": [
+      "take over the deadline",
+      "take over the deadline today",
+      "take over the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "take",
+      "over"
+    ],
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "take-over-the-details-phrasal",
+    "word": "take over the details",
+    "baseWord": "take",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the details",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the foreign exchange for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị foreign exchange cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the details before the end of the day.",
+    "exampleVi": "Nhom can take over the details truoc cuoi ngay.",
     "collocations": [
-      "foreign exchange",
-      "foreign exchange review",
-      "foreign exchange process"
+      "take over the details",
+      "take over the details today",
+      "take over the details carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "foreign"
+      "take",
+      "over"
     ],
-    "day": 143
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
-    "id": "import-financing-verb",
-    "word": "import financing",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import financing; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the import financing for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import financing cho lô hàng xuất khẩu.",
-    "collocations": [
-      "import financing",
-      "import financing review",
-      "import financing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "import"
-    ],
-    "day": 143
-  },
-  {
-    "id": "international-payment-phrase",
-    "word": "international payment",
-    "baseWord": "international",
+    "id": "take-over-the-figures-phrasal",
+    "word": "take over the figures",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "international payment; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the figures",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the international payment for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị international payment cho lô hàng xuất khẩu.",
-    "collocations": [
-      "international payment",
-      "international payment review",
-      "international payment process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "international"
-    ],
-    "day": 143
-  },
-  {
-    "id": "letter-of-credit-phrase",
-    "word": "letter of credit",
-    "baseWord": "letter",
-    "type": "phrase",
-    "meaning": "letter of credit; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Public Relations",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the letter of credit for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị letter of credit cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the figures before the end of the day.",
+    "exampleVi": "Nhom can take over the figures truoc cuoi ngay.",
     "collocations": [
-      "letter of credit",
-      "letter of credit review",
-      "letter of credit process"
+      "take over the figures",
+      "take over the figures today",
+      "take over the figures carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "letter"
+      "take",
+      "over"
     ],
-    "day": 143
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
-    "id": "open-account-phrase",
-    "word": "open account",
-    "baseWord": "open",
+    "id": "take-over-the-file-phrasal",
+    "word": "take over the file",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "open account; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the file",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the open account for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị open account cho lô hàng xuất khẩu.",
-    "collocations": [
-      "open account",
-      "open account review",
-      "open account process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "open"
-    ],
-    "day": 143
-  },
-  {
-    "id": "overseas-supplier-phrase",
-    "word": "overseas supplier",
-    "baseWord": "oversea",
-    "type": "phrase",
-    "meaning": "overseas supplier; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the overseas supplier for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị overseas supplier cho lô hàng xuất khẩu.",
-    "collocations": [
-      "overseas supplier",
-      "overseas supplier review",
-      "overseas supplier process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "oversea"
-    ],
-    "day": 143
-  },
-  {
-    "id": "payment-terms-phrase",
-    "word": "payment terms",
-    "baseWord": "payment",
-    "type": "phrase",
-    "meaning": "payment terms; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the payment terms for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị payment terms cho lô hàng xuất khẩu.",
-    "collocations": [
-      "payment terms",
-      "payment terms review",
-      "payment terms process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "payment"
-    ],
-    "day": 143
-  },
-  {
-    "id": "remittance-fee-phrase",
-    "word": "remittance fee",
-    "baseWord": "remittance",
-    "type": "phrase",
-    "meaning": "remittance fee; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the remittance fee for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị remittance fee cho lô hàng xuất khẩu.",
-    "collocations": [
-      "remittance fee",
-      "remittance fee review",
-      "remittance fee process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "remittance"
-    ],
-    "day": 143
-  },
-  {
-    "id": "settlement-currency-verb",
-    "word": "settlement currency",
-    "baseWord": "settlement",
-    "type": "verb",
-    "meaning": "settlement currency; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Supply Chain",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the settlement currency for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị settlement currency cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the file before the end of the day.",
+    "exampleVi": "Nhom can take over the file truoc cuoi ngay.",
     "collocations": [
-      "settlement currency",
-      "settlement currency review",
-      "settlement currency process"
+      "take over the file",
+      "take over the file today",
+      "take over the file carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "settlement"
+      "take",
+      "over"
     ],
-    "day": 143
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
-    "id": "trade-finance-phrase",
-    "word": "trade finance",
-    "baseWord": "trade",
+    "id": "take-over-the-plan-phrasal",
+    "word": "take over the plan",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "trade finance; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the plan",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade finance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade finance cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade finance",
-      "trade finance review",
-      "trade finance process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 143
-  },
-  {
-    "id": "anti-dumping-duty-phrase",
-    "word": "anti-dumping duty",
-    "baseWord": "anti-dumping",
-    "type": "phrase",
-    "meaning": "anti-dumping duty; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the anti-dumping duty for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị anti-dumping duty cho lô hàng xuất khẩu.",
-    "collocations": [
-      "anti-dumping duty",
-      "anti-dumping duty review",
-      "anti-dumping duty process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "anti-dumping"
-    ],
-    "day": 144
-  },
-  {
-    "id": "classification-code-phrase",
-    "word": "classification code",
-    "baseWord": "classification",
-    "type": "phrase",
-    "meaning": "classification code; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the classification code for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị classification code cho lô hàng xuất khẩu.",
-    "collocations": [
-      "classification code",
-      "classification code review",
-      "classification code process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "classification"
-    ],
-    "day": 144
-  },
-  {
-    "id": "customs-valuation-phrase",
-    "word": "customs valuation",
-    "baseWord": "custom",
-    "type": "phrase",
-    "meaning": "customs valuation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
-      "Part 3",
-      "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the customs valuation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị customs valuation cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the plan before the end of the day.",
+    "exampleVi": "Nhom can take over the plan truoc cuoi ngay.",
     "collocations": [
-      "customs valuation",
-      "customs valuation review",
-      "customs valuation process"
+      "take over the plan",
+      "take over the plan today",
+      "take over the plan carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "custom"
+      "take",
+      "over"
     ],
-    "day": 144
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
-    "id": "dual-use-goods-phrase",
-    "word": "dual-use goods",
-    "baseWord": "dual-use",
+    "id": "take-over-the-policy-phrasal",
+    "word": "take over the policy",
+    "baseWord": "take",
     "type": "phrase",
-    "meaning": "dual-use goods; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: take over the policy",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the dual-use goods for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị dual-use goods cho lô hàng xuất khẩu.",
+    "example": "The team needs to take over the policy before the end of the day.",
+    "exampleVi": "Nhom can take over the policy truoc cuoi ngay.",
     "collocations": [
-      "dual-use goods",
-      "dual-use goods review",
-      "dual-use goods process"
+      "take over the policy",
+      "take over the policy today",
+      "take over the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "dual-use"
+      "take",
+      "over"
     ],
-    "day": 144
+    "day": 142,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "export-control-verb",
-    "word": "export control",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export control; thuật ngữ về thương mại quốc tế",
+    "id": "call-off-phrasal",
+    "word": "call off",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the export control for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export control cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off before the end of the day.",
+    "exampleVi": "Nhom can call off truoc cuoi ngay.",
     "collocations": [
-      "export control",
-      "export control review",
-      "export control process"
+      "call off",
+      "call off today",
+      "call off carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "export"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "export-subsidy-verb",
-    "word": "export subsidy",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export subsidy; thuật ngữ về thương mại quốc tế",
+    "id": "call-off-the-application-phrasal",
+    "word": "call off the application",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the application",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "medium",
+    "topic": "Meetings & Scheduling",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the export subsidy for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export subsidy cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the application before the end of the day.",
+    "exampleVi": "Nhom can call off the application truoc cuoi ngay.",
     "collocations": [
-      "export subsidy",
-      "export subsidy review",
-      "export subsidy process"
+      "call off the application",
+      "call off the application today",
+      "call off the application carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "export"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
-    "id": "global-sourcing-phrase",
-    "word": "global sourcing",
-    "baseWord": "global",
+    "id": "call-off-the-client-phrasal",
+    "word": "call off the client",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "global sourcing; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the client",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the global sourcing for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị global sourcing cho lô hàng xuất khẩu.",
-    "collocations": [
-      "global sourcing",
-      "global sourcing review",
-      "global sourcing process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "global"
-    ],
-    "day": 144
-  },
-  {
-    "id": "global-supply-network-phrase",
-    "word": "global supply network",
-    "baseWord": "global",
-    "type": "phrase",
-    "meaning": "global supply network; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2011,967 +1476,2002 @@
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the global supply network for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị global supply network cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the client before the end of the day.",
+    "exampleVi": "Nhom can call off the client truoc cuoi ngay.",
     "collocations": [
-      "global supply network",
-      "global supply network review",
-      "global supply network process"
+      "call off the client",
+      "call off the client today",
+      "call off the client carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "global"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
-    "id": "harmonized-code-phrase",
-    "word": "harmonized code",
-    "baseWord": "harmonized",
+    "id": "call-off-the-contract-phrasal",
+    "word": "call off the contract",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "harmonized code; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the contract",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the harmonized code for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị harmonized code cho lô hàng xuất khẩu.",
-    "collocations": [
-      "harmonized code",
-      "harmonized code review",
-      "harmonized code process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "harmonized"
-    ],
-    "day": 144
-  },
-  {
-    "id": "import-tariff-verb",
-    "word": "import tariff",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import tariff; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Human Resources",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the import tariff for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import tariff cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the contract before the end of the day.",
+    "exampleVi": "Nhom can call off the contract truoc cuoi ngay.",
     "collocations": [
-      "import tariff",
-      "import tariff review",
-      "import tariff process"
+      "call off the contract",
+      "call off the contract today",
+      "call off the contract carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "import"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "market-access-phrase",
-    "word": "market access",
-    "baseWord": "market",
+    "id": "call-off-the-invoice-phrasal",
+    "word": "call off the invoice",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "market access; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the invoice",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "medium",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the market access for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị market access cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the invoice before the end of the day.",
+    "exampleVi": "Nhom can call off the invoice truoc cuoi ngay.",
     "collocations": [
-      "market access",
-      "market access review",
-      "market access process"
+      "call off the invoice",
+      "call off the invoice today",
+      "call off the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "market"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
-    "id": "nearshore-supplier-phrase",
-    "word": "nearshore supplier",
-    "baseWord": "nearshore",
+    "id": "call-off-the-issue-phrasal",
+    "word": "call off the issue",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "nearshore supplier; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the issue",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the nearshore supplier for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị nearshore supplier cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the issue before the end of the day.",
+    "exampleVi": "Nhom can call off the issue truoc cuoi ngay.",
     "collocations": [
-      "nearshore supplier",
-      "nearshore supplier review",
-      "nearshore supplier process"
+      "call off the issue",
+      "call off the issue today",
+      "call off the issue carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "nearshore"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
-    "id": "offshore-production-phrase",
-    "word": "offshore production",
-    "baseWord": "offshore",
+    "id": "call-off-the-meeting-phrasal",
+    "word": "call off the meeting",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "offshore production; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the meeting",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the meeting before the end of the day.",
+    "exampleVi": "Nhom can call off the meeting truoc cuoi ngay.",
+    "collocations": [
+      "call off the meeting",
+      "call off the meeting today",
+      "call off the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "call-off-the-order-phrasal",
+    "word": "call off the order",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the order",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the order before the end of the day.",
+    "exampleVi": "Nhom can call off the order truoc cuoi ngay.",
+    "collocations": [
+      "call off the order",
+      "call off the order today",
+      "call off the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "call-off-the-proposal-phrasal",
+    "word": "call off the proposal",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the proposal",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the proposal before the end of the day.",
+    "exampleVi": "Nhom can call off the proposal truoc cuoi ngay.",
+    "collocations": [
+      "call off the proposal",
+      "call off the proposal today",
+      "call off the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "call-off-the-report-phrasal",
+    "word": "call off the report",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the report",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the offshore production for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị offshore production cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the report before the end of the day.",
+    "exampleVi": "Nhom can call off the report truoc cuoi ngay.",
     "collocations": [
-      "offshore production",
-      "offshore production review",
-      "offshore production process"
+      "call off the report",
+      "call off the report today",
+      "call off the report carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "offshore"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
-    "id": "outsourcing-contract-phrase",
-    "word": "outsourcing contract",
-    "baseWord": "outsourcing",
+    "id": "call-off-the-request-phrasal",
+    "word": "call off the request",
+    "baseWord": "call",
     "type": "phrase",
-    "meaning": "outsourcing contract; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the request",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the request before the end of the day.",
+    "exampleVi": "Nhom can call off the request truoc cuoi ngay.",
+    "collocations": [
+      "call off the request",
+      "call off the request today",
+      "call off the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "call-off-the-schedule-phrasal",
+    "word": "call off the schedule",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the schedule",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the schedule before the end of the day.",
+    "exampleVi": "Nhom can call off the schedule truoc cuoi ngay.",
+    "collocations": [
+      "call off the schedule",
+      "call off the schedule today",
+      "call off the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "call-off-the-shipment-phrasal",
+    "word": "call off the shipment",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the shipment",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the shipment before the end of the day.",
+    "exampleVi": "Nhom can call off the shipment truoc cuoi ngay.",
+    "collocations": [
+      "call off the shipment",
+      "call off the shipment today",
+      "call off the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "set-up-the-deadline-phrasal",
+    "word": "set up the deadline",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the deadline",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the deadline before the end of the day.",
+    "exampleVi": "Nhom can set up the deadline truoc cuoi ngay.",
+    "collocations": [
+      "set up the deadline",
+      "set up the deadline today",
+      "set up the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "set-up-the-details-phrasal",
+    "word": "set up the details",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the details",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the details before the end of the day.",
+    "exampleVi": "Nhom can set up the details truoc cuoi ngay.",
+    "collocations": [
+      "set up the details",
+      "set up the details today",
+      "set up the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "set-up-the-figures-phrasal",
+    "word": "set up the figures",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the figures",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the figures before the end of the day.",
+    "exampleVi": "Nhom can set up the figures truoc cuoi ngay.",
+    "collocations": [
+      "set up the figures",
+      "set up the figures today",
+      "set up the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "set-up-the-file-phrasal",
+    "word": "set up the file",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the file",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to set up the file before the end of the day.",
+    "exampleVi": "Nhom can set up the file truoc cuoi ngay.",
+    "collocations": [
+      "set up the file",
+      "set up the file today",
+      "set up the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
+  },
+  {
+    "id": "set-up-the-form-phrasal",
+    "word": "set up the form",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the form",
+    "pronunciation": "",
+    "topic": "Purchasing & Procurement",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the form before the end of the day.",
+    "exampleVi": "Nhom can set up the form truoc cuoi ngay.",
+    "collocations": [
+      "set up the form",
+      "set up the form today",
+      "set up the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "set-up-the-plan-phrasal",
+    "word": "set up the plan",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the plan",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the plan before the end of the day.",
+    "exampleVi": "Nhom can set up the plan truoc cuoi ngay.",
+    "collocations": [
+      "set up the plan",
+      "set up the plan today",
+      "set up the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "set-up-the-policy-phrasal",
+    "word": "set up the policy",
+    "baseWord": "set",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: set up the policy",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to set up the policy before the end of the day.",
+    "exampleVi": "Nhom can set up the policy truoc cuoi ngay.",
+    "collocations": [
+      "set up the policy",
+      "set up the policy today",
+      "set up the policy carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "set",
+      "up"
+    ],
+    "day": 143,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
+  },
+  {
+    "id": "call-off-the-complaint-phrasal",
+    "word": "call off the complaint",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the complaint",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the complaint before the end of the day.",
+    "exampleVi": "Nhom can call off the complaint truoc cuoi ngay.",
+    "collocations": [
+      "call off the complaint",
+      "call off the complaint today",
+      "call off the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "call-off-the-deadline-phrasal",
+    "word": "call off the deadline",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the deadline",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the deadline before the end of the day.",
+    "exampleVi": "Nhom can call off the deadline truoc cuoi ngay.",
+    "collocations": [
+      "call off the deadline",
+      "call off the deadline today",
+      "call off the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "call-off-the-details-phrasal",
+    "word": "call off the details",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the details",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the details before the end of the day.",
+    "exampleVi": "Nhom can call off the details truoc cuoi ngay.",
+    "collocations": [
+      "call off the details",
+      "call off the details today",
+      "call off the details carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "call-off-the-figures-phrasal",
+    "word": "call off the figures",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the figures",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to call off the figures before the end of the day.",
+    "exampleVi": "Nhom can call off the figures truoc cuoi ngay.",
+    "collocations": [
+      "call off the figures",
+      "call off the figures today",
+      "call off the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "call-off-the-file-phrasal",
+    "word": "call off the file",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the file",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the file before the end of the day.",
+    "exampleVi": "Nhom can call off the file truoc cuoi ngay.",
+    "collocations": [
+      "call off the file",
+      "call off the file today",
+      "call off the file carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "call-off-the-form-phrasal",
+    "word": "call off the form",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the form",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the form before the end of the day.",
+    "exampleVi": "Nhom can call off the form truoc cuoi ngay.",
+    "collocations": [
+      "call off the form",
+      "call off the form today",
+      "call off the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "call-off-the-plan-phrasal",
+    "word": "call off the plan",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the plan",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to call off the plan before the end of the day.",
+    "exampleVi": "Nhom can call off the plan truoc cuoi ngay.",
+    "collocations": [
+      "call off the plan",
+      "call off the plan today",
+      "call off the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "call",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "call-off-the-policy-phrasal",
+    "word": "call off the policy",
+    "baseWord": "call",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: call off the policy",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the outsourcing contract for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị outsourcing contract cho lô hàng xuất khẩu.",
+    "example": "The team needs to call off the policy before the end of the day.",
+    "exampleVi": "Nhom can call off the policy truoc cuoi ngay.",
     "collocations": [
-      "outsourcing contract",
-      "outsourcing contract review",
-      "outsourcing contract process"
+      "call off the policy",
+      "call off the policy today",
+      "call off the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "outsourcing"
+      "call",
+      "off"
     ],
-    "day": 144
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "restricted-item-phrase",
-    "word": "restricted item",
-    "baseWord": "restricted",
+    "id": "put-off-phrasal",
+    "word": "put off",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "restricted item; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off",
     "pronunciation": "",
     "topic": "Global Trade",
     "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the restricted item for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị restricted item cho lô hàng xuất khẩu.",
-    "collocations": [
-      "restricted item",
-      "restricted item review",
-      "restricted item process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "restricted"
-    ],
-    "day": 144
-  },
-  {
-    "id": "sanctions-list-phrase",
-    "word": "sanctions list",
-    "baseWord": "sanction",
-    "type": "phrase",
-    "meaning": "sanctions list; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the sanctions list for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị sanctions list cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off before the end of the day.",
+    "exampleVi": "Nhom can put off truoc cuoi ngay.",
     "collocations": [
-      "sanctions list",
-      "sanctions list review",
-      "sanctions list process"
+      "put off",
+      "put off today",
+      "put off carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "sanction"
+      "put",
+      "off"
     ],
-    "day": 144
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
-    "id": "supplier-audit-phrase",
-    "word": "supplier audit",
-    "baseWord": "supplier",
+    "id": "put-off-the-application-phrasal",
+    "word": "put off the application",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "supplier audit; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the application",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Business Events",
     "frequency": "high",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to put off the application before the end of the day.",
+    "exampleVi": "Nhom can put off the application truoc cuoi ngay.",
+    "collocations": [
+      "put off the application",
+      "put off the application today",
+      "put off the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "put-off-the-client-phrasal",
+    "word": "put off the client",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the client",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the client before the end of the day.",
+    "exampleVi": "Nhom can put off the client truoc cuoi ngay.",
+    "collocations": [
+      "put off the client",
+      "put off the client today",
+      "put off the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "put-off-the-invoice-phrasal",
+    "word": "put off the invoice",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the invoice",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the supplier audit for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị supplier audit cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the invoice before the end of the day.",
+    "exampleVi": "Nhom can put off the invoice truoc cuoi ngay.",
     "collocations": [
-      "supplier audit",
-      "supplier audit review",
-      "supplier audit process"
+      "put off the invoice",
+      "put off the invoice today",
+      "put off the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "supplier"
+      "put",
+      "off"
     ],
-    "day": 144
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "trade-compliance-phrase",
-    "word": "trade compliance",
-    "baseWord": "trade",
+    "id": "put-off-the-issue-phrasal",
+    "word": "put off the issue",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "trade compliance; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the issue",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the trade compliance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade compliance cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the issue before the end of the day.",
+    "exampleVi": "Nhom can put off the issue truoc cuoi ngay.",
     "collocations": [
-      "trade compliance",
-      "trade compliance review",
-      "trade compliance process"
+      "put off the issue",
+      "put off the issue today",
+      "put off the issue carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "trade"
+      "put",
+      "off"
     ],
-    "day": 144
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
-    "id": "trade-remedy-phrase",
-    "word": "trade remedy",
-    "baseWord": "trade",
+    "id": "put-off-the-meeting-phrasal",
+    "word": "put off the meeting",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "trade remedy; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the meeting",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the meeting before the end of the day.",
+    "exampleVi": "Nhom can put off the meeting truoc cuoi ngay.",
+    "collocations": [
+      "put off the meeting",
+      "put off the meeting today",
+      "put off the meeting carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "put-off-the-order-phrasal",
+    "word": "put off the order",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the order",
+    "pronunciation": "",
+    "topic": "Performance Review",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the trade remedy for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade remedy cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the order before the end of the day.",
+    "exampleVi": "Nhom can put off the order truoc cuoi ngay.",
     "collocations": [
-      "trade remedy",
-      "trade remedy review",
-      "trade remedy process"
+      "put off the order",
+      "put off the order today",
+      "put off the order carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "trade"
+      "put",
+      "off"
     ],
-    "day": 144
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
-    "id": "vendor-compliance-phrase",
-    "word": "vendor compliance",
-    "baseWord": "vendor",
+    "id": "put-off-the-proposal-phrasal",
+    "word": "put off the proposal",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "vendor compliance; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the proposal",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to put off the proposal before the end of the day.",
+    "exampleVi": "Nhom can put off the proposal truoc cuoi ngay.",
+    "collocations": [
+      "put off the proposal",
+      "put off the proposal today",
+      "put off the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "put-off-the-report-phrasal",
+    "word": "put off the report",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the report",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the report before the end of the day.",
+    "exampleVi": "Nhom can put off the report truoc cuoi ngay.",
+    "collocations": [
+      "put off the report",
+      "put off the report today",
+      "put off the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "put-off-the-request-phrasal",
+    "word": "put off the request",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the request",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the request before the end of the day.",
+    "exampleVi": "Nhom can put off the request truoc cuoi ngay.",
+    "collocations": [
+      "put off the request",
+      "put off the request today",
+      "put off the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "put-off-the-schedule-phrasal",
+    "word": "put off the schedule",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the schedule",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the schedule before the end of the day.",
+    "exampleVi": "Nhom can put off the schedule truoc cuoi ngay.",
+    "collocations": [
+      "put off the schedule",
+      "put off the schedule today",
+      "put off the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
+  },
+  {
+    "id": "put-off-the-shipment-phrasal",
+    "word": "put off the shipment",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the shipment",
+    "pronunciation": "",
+    "topic": "Advanced TOEIC Expressions",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the shipment before the end of the day.",
+    "exampleVi": "Nhom can put off the shipment truoc cuoi ngay.",
+    "collocations": [
+      "put off the shipment",
+      "put off the shipment today",
+      "put off the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 144,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
+  },
+  {
+    "id": "bring-up-phrasal",
+    "word": "bring up",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up",
+    "pronunciation": "",
+    "topic": "Office & Administration",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up before the end of the day.",
+    "exampleVi": "Nhom can bring up truoc cuoi ngay.",
+    "collocations": [
+      "bring up",
+      "bring up today",
+      "bring up carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
+  },
+  {
+    "id": "bring-up-the-application-phrasal",
+    "word": "bring up the application",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the application",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the application before the end of the day.",
+    "exampleVi": "Nhom can bring up the application truoc cuoi ngay.",
+    "collocations": [
+      "bring up the application",
+      "bring up the application today",
+      "bring up the application carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "bring-up-the-client-phrasal",
+    "word": "bring up the client",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the client",
+    "pronunciation": "",
+    "topic": "Business Communication",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the client before the end of the day.",
+    "exampleVi": "Nhom can bring up the client truoc cuoi ngay.",
+    "collocations": [
+      "bring up the client",
+      "bring up the client today",
+      "bring up the client carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "bring-up-the-invoice-phrasal",
+    "word": "bring up the invoice",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the invoice",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 7"
     ],
-    "example": "The logistics team prepared the vendor compliance for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị vendor compliance cho lô hàng xuất khẩu.",
+    "example": "The team needs to bring up the invoice before the end of the day.",
+    "exampleVi": "Nhom can bring up the invoice truoc cuoi ngay.",
     "collocations": [
-      "vendor compliance",
-      "vendor compliance review",
-      "vendor compliance process"
+      "bring up the invoice",
+      "bring up the invoice today",
+      "bring up the invoice carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "vendor"
+      "bring",
+      "up"
     ],
-    "day": 144
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
-    "id": "border-inspection-phrase",
-    "word": "border inspection",
-    "baseWord": "border",
+    "id": "bring-up-the-issue-phrasal",
+    "word": "bring up the issue",
+    "baseWord": "bring",
     "type": "phrase",
-    "meaning": "border inspection; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the issue",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the issue before the end of the day.",
+    "exampleVi": "Nhom can bring up the issue truoc cuoi ngay.",
+    "collocations": [
+      "bring up the issue",
+      "bring up the issue today",
+      "bring up the issue carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "bring-up-the-order-phrasal",
+    "word": "bring up the order",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the order",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the order before the end of the day.",
+    "exampleVi": "Nhom can bring up the order truoc cuoi ngay.",
+    "collocations": [
+      "bring up the order",
+      "bring up the order today",
+      "bring up the order carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "bring-up-the-proposal-phrasal",
+    "word": "bring up the proposal",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the proposal",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the proposal before the end of the day.",
+    "exampleVi": "Nhom can bring up the proposal truoc cuoi ngay.",
+    "collocations": [
+      "bring up the proposal",
+      "bring up the proposal today",
+      "bring up the proposal carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "bring-up-the-report-phrasal",
+    "word": "bring up the report",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the report",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the report before the end of the day.",
+    "exampleVi": "Nhom can bring up the report truoc cuoi ngay.",
+    "collocations": [
+      "bring up the report",
+      "bring up the report today",
+      "bring up the report carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "bring-up-the-request-phrasal",
+    "word": "bring up the request",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the request",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the request before the end of the day.",
+    "exampleVi": "Nhom can bring up the request truoc cuoi ngay.",
+    "collocations": [
+      "bring up the request",
+      "bring up the request today",
+      "bring up the request carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "bring-up-the-schedule-phrasal",
+    "word": "bring up the schedule",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the schedule",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the schedule before the end of the day.",
+    "exampleVi": "Nhom can bring up the schedule truoc cuoi ngay.",
+    "collocations": [
+      "bring up the schedule",
+      "bring up the schedule today",
+      "bring up the schedule carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "bring-up-the-shipment-phrasal",
+    "word": "bring up the shipment",
+    "baseWord": "bring",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: bring up the shipment",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to bring up the shipment before the end of the day.",
+    "exampleVi": "Nhom can bring up the shipment truoc cuoi ngay.",
+    "collocations": [
+      "bring up the shipment",
+      "bring up the shipment today",
+      "bring up the shipment carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "bring",
+      "up"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "put-off-the-complaint-phrasal",
+    "word": "put off the complaint",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the complaint",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The team needs to put off the complaint before the end of the day.",
+    "exampleVi": "Nhom can put off the complaint truoc cuoi ngay.",
+    "collocations": [
+      "put off the complaint",
+      "put off the complaint today",
+      "put off the complaint carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "put-off-the-contract-phrasal",
+    "word": "put off the contract",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the contract",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
     "level": "medium",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the border inspection for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị border inspection cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the contract before the end of the day.",
+    "exampleVi": "Nhom can put off the contract truoc cuoi ngay.",
     "collocations": [
-      "border inspection",
-      "border inspection review",
-      "border inspection process"
+      "put off the contract",
+      "put off the contract today",
+      "put off the contract carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "border"
+      "put",
+      "off"
     ],
-    "day": 145
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
-    "id": "cross-border-contract-phrase",
-    "word": "cross-border contract",
-    "baseWord": "cross-border",
+    "id": "put-off-the-deadline-phrasal",
+    "word": "put off the deadline",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "cross-border contract; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the deadline",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the cross-border contract for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị cross-border contract cho lô hàng xuất khẩu.",
-    "collocations": [
-      "cross-border contract",
-      "cross-border contract review",
-      "cross-border contract process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "cross-border"
-    ],
-    "day": 145
-  },
-  {
-    "id": "exclusive-distributor-phrase",
-    "word": "exclusive distributor",
-    "baseWord": "exclusive",
-    "type": "phrase",
-    "meaning": "exclusive distributor; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the exclusive distributor for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị exclusive distributor cho lô hàng xuất khẩu.",
-    "collocations": [
-      "exclusive distributor",
-      "exclusive distributor review",
-      "exclusive distributor process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "exclusive"
-    ],
-    "day": 145
-  },
-  {
-    "id": "export-market-verb",
-    "word": "export market",
-    "baseWord": "export",
-    "type": "verb",
-    "meaning": "export market; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the export market for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export market cho lô hàng xuất khẩu.",
-    "collocations": [
-      "export market",
-      "export market review",
-      "export market process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 145
-  },
-  {
-    "id": "export-quality-check-phrase",
-    "word": "export quality check",
-    "baseWord": "export",
-    "type": "phrase",
-    "meaning": "export quality check; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the export quality check for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị export quality check cho lô hàng xuất khẩu.",
-    "collocations": [
-      "export quality check",
-      "export quality check review",
-      "export quality check process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "export"
-    ],
-    "day": 145
-  },
-  {
-    "id": "foreign-subsidiary-phrase",
-    "word": "foreign subsidiary",
-    "baseWord": "foreign",
-    "type": "phrase",
-    "meaning": "foreign subsidiary; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the foreign subsidiary for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị foreign subsidiary cho lô hàng xuất khẩu.",
-    "collocations": [
-      "foreign subsidiary",
-      "foreign subsidiary review",
-      "foreign subsidiary process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "foreign"
-    ],
-    "day": 145
-  },
-  {
-    "id": "global-logistics-phrase",
-    "word": "global logistics",
-    "baseWord": "global",
-    "type": "phrase",
-    "meaning": "global logistics; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the deadline before the end of the day.",
+    "exampleVi": "Nhom can put off the deadline truoc cuoi ngay.",
+    "collocations": [
+      "put off the deadline",
+      "put off the deadline today",
+      "put off the deadline carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "put-off-the-details-phrasal",
+    "word": "put off the details",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the details",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the global logistics for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị global logistics cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the details before the end of the day.",
+    "exampleVi": "Nhom can put off the details truoc cuoi ngay.",
     "collocations": [
-      "global logistics",
-      "global logistics review",
-      "global logistics process"
+      "put off the details",
+      "put off the details today",
+      "put off the details carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "global"
+      "put",
+      "off"
     ],
-    "day": 145
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
-    "id": "global-procurement-phrase",
-    "word": "global procurement",
-    "baseWord": "global",
+    "id": "put-off-the-figures-phrasal",
+    "word": "put off the figures",
+    "baseWord": "put",
     "type": "phrase",
-    "meaning": "global procurement; thuật ngữ về thương mại quốc tế",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the figures",
     "pronunciation": "",
-    "topic": "Global Trade",
+    "topic": "Shipping & Logistics",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the figures before the end of the day.",
+    "exampleVi": "Nhom can put off the figures truoc cuoi ngay.",
+    "collocations": [
+      "put off the figures",
+      "put off the figures today",
+      "put off the figures carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
+  },
+  {
+    "id": "put-off-the-file-phrasal",
+    "word": "put off the file",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the file",
+    "pronunciation": "",
+    "topic": "Manufacturing & Production",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the global procurement for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị global procurement cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the file before the end of the day.",
+    "exampleVi": "Nhom can put off the file truoc cuoi ngay.",
     "collocations": [
-      "global procurement",
-      "global procurement review",
-      "global procurement process"
+      "put off the file",
+      "put off the file today",
+      "put off the file carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "global"
+      "put",
+      "off"
     ],
-    "day": 145
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
-    "id": "import-demand-verb",
-    "word": "import demand",
-    "baseWord": "import",
-    "type": "verb",
-    "meaning": "import demand; thuật ngữ về thương mại quốc tế",
+    "id": "put-off-the-form-phrasal",
+    "word": "put off the form",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the form",
     "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "medium",
+    "topic": "Purchasing & Procurement",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the form before the end of the day.",
+    "exampleVi": "Nhom can put off the form truoc cuoi ngay.",
+    "collocations": [
+      "put off the form",
+      "put off the form today",
+      "put off the form carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
+  },
+  {
+    "id": "put-off-the-plan-phrasal",
+    "word": "put off the plan",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the plan",
+    "pronunciation": "",
+    "topic": "Technology & IT",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "The team needs to put off the plan before the end of the day.",
+    "exampleVi": "Nhom can put off the plan truoc cuoi ngay.",
+    "collocations": [
+      "put off the plan",
+      "put off the plan today",
+      "put off the plan carefully"
+    ],
+    "synonyms": [
+      "phrasal verb",
+      "workplace phrase"
+    ],
+    "wordFamily": [
+      "put",
+      "off"
+    ],
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
+  },
+  {
+    "id": "put-off-the-policy-phrasal",
+    "word": "put off the policy",
+    "baseWord": "put",
+    "type": "phrase",
+    "meaning": "phrasal verb / cum tu TOEIC 700: put off the policy",
+    "pronunciation": "",
+    "topic": "Office Equipment",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "The logistics team prepared the import demand for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị import demand cho lô hàng xuất khẩu.",
+    "example": "The team needs to put off the policy before the end of the day.",
+    "exampleVi": "Nhom can put off the policy truoc cuoi ngay.",
     "collocations": [
-      "import demand",
-      "import demand review",
-      "import demand process"
+      "put off the policy",
+      "put off the policy today",
+      "put off the policy carefully"
     ],
     "synonyms": [
-      "related term",
-      "business expression"
+      "phrasal verb",
+      "workplace phrase"
     ],
     "wordFamily": [
-      "import"
+      "put",
+      "off"
     ],
-    "day": 145
-  },
-  {
-    "id": "international-distributor-phrase",
-    "word": "international distributor",
-    "baseWord": "international",
-    "type": "phrase",
-    "meaning": "international distributor; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the international distributor for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị international distributor cho lô hàng xuất khẩu.",
-    "collocations": [
-      "international distributor",
-      "international distributor review",
-      "international distributor process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "international"
-    ],
-    "day": 145
-  },
-  {
-    "id": "international-tender-phrase",
-    "word": "international tender",
-    "baseWord": "international",
-    "type": "phrase",
-    "meaning": "international tender; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the international tender for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị international tender cho lô hàng xuất khẩu.",
-    "collocations": [
-      "international tender",
-      "international tender review",
-      "international tender process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "international"
-    ],
-    "day": 145
-  },
-  {
-    "id": "inventory-in-transit-phrase",
-    "word": "inventory in transit",
-    "baseWord": "inventory",
-    "type": "phrase",
-    "meaning": "inventory in transit; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the inventory in transit for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị inventory in transit cho lô hàng xuất khẩu.",
-    "collocations": [
-      "inventory in transit",
-      "inventory in transit review",
-      "inventory in transit process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "inventory"
-    ],
-    "day": 145
-  },
-  {
-    "id": "local-agent-phrase",
-    "word": "local agent",
-    "baseWord": "local",
-    "type": "phrase",
-    "meaning": "local agent; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the local agent for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị local agent cho lô hàng xuất khẩu.",
-    "collocations": [
-      "local agent",
-      "local agent review",
-      "local agent process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "local"
-    ],
-    "day": 145
-  },
-  {
-    "id": "overseas-branch-phrase",
-    "word": "overseas branch",
-    "baseWord": "oversea",
-    "type": "phrase",
-    "meaning": "overseas branch; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the overseas branch for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị overseas branch cho lô hàng xuất khẩu.",
-    "collocations": [
-      "overseas branch",
-      "overseas branch review",
-      "overseas branch process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "oversea"
-    ],
-    "day": 145
-  },
-  {
-    "id": "phytosanitary-certificate-phrase",
-    "word": "phytosanitary certificate",
-    "baseWord": "phytosanitary",
-    "type": "phrase",
-    "meaning": "phytosanitary certificate; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the phytosanitary certificate for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị phytosanitary certificate cho lô hàng xuất khẩu.",
-    "collocations": [
-      "phytosanitary certificate",
-      "phytosanitary certificate review",
-      "phytosanitary certificate process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "phytosanitary"
-    ],
-    "day": 145
-  },
-  {
-    "id": "shipment-preparation-time-phrase",
-    "word": "shipment preparation time",
-    "baseWord": "shipment",
-    "type": "phrase",
-    "meaning": "shipment preparation time; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the shipment preparation time for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị shipment preparation time cho lô hàng xuất khẩu.",
-    "collocations": [
-      "shipment preparation time",
-      "shipment preparation time review",
-      "shipment preparation time process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "shipment"
-    ],
-    "day": 145
-  },
-  {
-    "id": "shipping-delay-phrase",
-    "word": "shipping delay",
-    "baseWord": "shipping",
-    "type": "phrase",
-    "meaning": "shipping delay; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the shipping delay for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị shipping delay cho lô hàng xuất khẩu.",
-    "collocations": [
-      "shipping delay",
-      "shipping delay review",
-      "shipping delay process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "shipping"
-    ],
-    "day": 145
-  },
-  {
-    "id": "trade-documentation-phrase",
-    "word": "trade documentation",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade documentation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade documentation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade documentation cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade documentation",
-      "trade documentation review",
-      "trade documentation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 145
-  },
-  {
-    "id": "trade-mission-phrase",
-    "word": "trade mission",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade mission; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade mission for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade mission cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade mission",
-      "trade mission review",
-      "trade mission process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 145
-  },
-  {
-    "id": "trade-negotiation-phrase",
-    "word": "trade negotiation",
-    "baseWord": "trade",
-    "type": "phrase",
-    "meaning": "trade negotiation; thuật ngữ về thương mại quốc tế",
-    "pronunciation": "",
-    "topic": "Global Trade",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The logistics team prepared the trade negotiation for the overseas shipment.",
-    "exampleVi": "Nhóm logistics đã chuẩn bị trade negotiation cho lô hàng xuất khẩu.",
-    "collocations": [
-      "trade negotiation",
-      "trade negotiation review",
-      "trade negotiation process"
-    ],
-    "synonyms": [
-      "related term",
-      "business expression"
-    ],
-    "wordFamily": [
-      "trade"
-    ],
-    "day": 145
+    "day": 145,
+    "learningType": "phrasal",
+    "learningGroup": "Phrasal verbs & phrases",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

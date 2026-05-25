@@ -6,7 +6,7 @@
     "type": "noun",
     "meaning": "quyền truy cập, lối vào",
     "pronunciation": "/ˈækses/",
-    "topic": "Technology & IT",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -31,7 +31,11 @@
       "accessibility",
       "access"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "backup-noun",
@@ -40,7 +44,7 @@
     "type": "noun",
     "meaning": "bản sao lưu dữ liệu, sự dự phòng",
     "pronunciation": "/ˈbækʌp/",
-    "topic": "Technology & IT",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -63,7 +67,11 @@
     "wordFamily": [
       "back"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "compatibility-noun",
@@ -72,7 +80,7 @@
     "type": "noun",
     "meaning": "tính tương thích, sự phù hợp",
     "pronunciation": "/kəmˌpætəˈbɪləti/",
-    "topic": "Technology & IT",
+    "topic": "Business Communication",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -95,7 +103,11 @@
       "compatible",
       "compatibly"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "configure-verb",
@@ -104,7 +116,7 @@
     "type": "verb",
     "meaning": "cấu hình, thiết lập hệ thống",
     "pronunciation": "/kənˈfɪɡjər/",
-    "topic": "Technology & IT",
+    "topic": "Human Resources",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -127,7 +139,11 @@
       "configuration",
       "configurable"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "connection-noun",
@@ -136,7 +152,7 @@
     "type": "noun",
     "meaning": "sự kết nối, mối quan hệ",
     "pronunciation": "/kəˈnekʃn/",
-    "topic": "Technology & IT",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -160,7 +176,11 @@
       "connector",
       "disconnected"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "cyberthreat-noun",
@@ -169,7 +189,7 @@
     "type": "noun",
     "meaning": "mối đe dọa trên không gian mạng",
     "pronunciation": "/ˈsaɪbərθret/",
-    "topic": "Technology & IT",
+    "topic": "Travel & Transportation",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -190,7 +210,11 @@
     "wordFamily": [
       "cybersecurity"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "database-noun",
@@ -199,7 +223,7 @@
     "type": "noun",
     "meaning": "cơ sở dữ liệu",
     "pronunciation": "/ˈdeɪtəbeɪs/",
-    "topic": "Technology & IT",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -221,7 +245,11 @@
     "wordFamily": [
       "database"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "decryption-noun",
@@ -230,7 +258,7 @@
     "type": "noun",
     "meaning": "sự giải mã dữ liệu",
     "pronunciation": "/diːˈkrɪpʃn/",
-    "topic": "Technology & IT",
+    "topic": "Restaurants & Dining",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -254,7 +282,11 @@
       "encrypted",
       "encryption"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "device-noun",
@@ -263,7 +295,7 @@
     "type": "noun",
     "meaning": "thiết bị, dụng cụ",
     "pronunciation": "/dɪˈvaɪs/",
-    "topic": "Technology & IT",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -286,7 +318,11 @@
     "wordFamily": [
       "devise"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "encrypt-verb",
@@ -295,7 +331,7 @@
     "type": "verb",
     "meaning": "mã hóa dữ liệu",
     "pronunciation": "/ɪnˈkrɪpt/",
-    "topic": "Technology & IT",
+    "topic": "Sales & Retail",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -319,7 +355,11 @@
       "encrypted",
       "decrypt"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "firewall-noun",
@@ -328,7 +368,7 @@
     "type": "noun",
     "meaning": "tường lửa (ngăn chặn truy cập trái phép)",
     "pronunciation": "/ˈfaɪərwɔːl/",
-    "topic": "Technology & IT",
+    "topic": "Marketing & Advertising",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -349,7 +389,11 @@
     "wordFamily": [
       "firewall"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "hardware-noun",
@@ -358,7 +402,7 @@
     "type": "noun",
     "meaning": "phần cứng máy tính, thiết bị cơ khí",
     "pronunciation": "/ˈhɑːrdwer/",
-    "topic": "Technology & IT",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -381,7 +425,11 @@
     "wordFamily": [
       "hardware"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "installation-noun",
@@ -390,7 +438,7 @@
     "type": "noun",
     "meaning": "sự lắp đặt, cài đặt (phần mềm/thiết bị)",
     "pronunciation": "/ˌɪnstəˈleɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -414,7 +462,11 @@
       "install",
       "installer"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "network-noun",
@@ -423,7 +475,7 @@
     "type": "noun",
     "meaning": "mạng lưới, hệ thống mạng máy tính",
     "pronunciation": "/ˈnetwɜːrk/",
-    "topic": "Technology & IT",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -447,7 +499,11 @@
       "network",
       "networking"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "recovery-noun",
@@ -456,7 +512,7 @@
     "type": "noun",
     "meaning": "sự phục hồi, lấy lại dữ liệu",
     "pronunciation": "/rɪˈkʌvəri/",
-    "topic": "Technology & IT",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -479,7 +535,11 @@
       "recover",
       "recoverable"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "security-noun",
@@ -488,7 +548,7 @@
     "type": "noun",
     "meaning": "sự an ninh, bảo mật",
     "pronunciation": "/sɪˈkjʊrəti/",
-    "topic": "Technology & IT",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -513,7 +573,11 @@
       "securely",
       "secured"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "server-noun",
@@ -522,7 +586,7 @@
     "type": "noun",
     "meaning": "máy chủ, người phục vụ",
     "pronunciation": "/ˈsɜːrvər/",
-    "topic": "Technology & IT",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -546,7 +610,11 @@
       "service",
       "servant"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "software-noun",
@@ -555,7 +623,7 @@
     "type": "noun",
     "meaning": "phần mềm máy tính, chương trình máy tính",
     "pronunciation": "/ˈsɔːftwer/",
-    "topic": "Technology & IT",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -578,7 +646,11 @@
     "wordFamily": [
       "software"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "store-verb",
@@ -610,7 +682,11 @@
       "storage",
       "storehouse"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "upgrade-verb",
@@ -619,7 +695,7 @@
     "type": "verb",
     "meaning": "nâng cấp (hệ thống, phần mềm hoặc dịch vụ)",
     "pronunciation": "/ˌʌpˈɡreɪd/",
-    "topic": "Technology & IT",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -642,7 +718,11 @@
       "upgrade",
       "upgraded"
     ],
-    "day": 41
+    "day": 41,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "administrator-noun",
@@ -651,7 +731,7 @@
     "type": "noun",
     "meaning": "quản trị viên, người quản lý",
     "pronunciation": "/ədˈmɪnɪstreɪtər/",
-    "topic": "Technology & IT",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -675,7 +755,11 @@
       "administration",
       "administrative"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "application-noun",
@@ -684,7 +768,7 @@
     "type": "noun",
     "meaning": "ứng dụng phần mềm, đơn xin việc, sự áp dụng",
     "pronunciation": "/ˌæplɪˈkeɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -709,7 +793,11 @@
       "applicant",
       "applicable"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "browser-noun",
@@ -718,7 +806,7 @@
     "type": "noun",
     "meaning": "trình duyệt web, người xem hàng",
     "pronunciation": "/ˈbraʊzər/",
-    "topic": "Technology & IT",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -738,7 +826,11 @@
     "wordFamily": [
       "browse"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "bug-noun",
@@ -747,7 +839,7 @@
     "type": "noun",
     "meaning": "lỗi phần mềm, côn trùng",
     "pronunciation": "/bʌɡ/",
-    "topic": "Technology & IT",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -770,7 +862,11 @@
     "wordFamily": [
       "buggy"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "configuration-noun",
@@ -779,7 +875,7 @@
     "type": "noun",
     "meaning": "cấu hình, sự thiết lập các thông số",
     "pronunciation": "/kənˌfɪɡjəˈreɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -802,7 +898,11 @@
       "configure",
       "configurable"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "debug-verb",
@@ -811,7 +911,7 @@
     "type": "verb",
     "meaning": "gỡ lỗi phần mềm, tìm và sửa lỗi",
     "pronunciation": "/ˌdiːˈbʌɡ/",
-    "topic": "Technology & IT",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -834,7 +934,115 @@
       "bug",
       "debugger"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "differentiate-verb",
+    "word": "differentiate",
+    "baseWord": "differenti",
+    "type": "verb",
+    "meaning": "tu vung cot loi TOEIC 700: differentiate",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word differentiate in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu differentiate trong email cong viec.",
+    "collocations": [
+      "differentiate review",
+      "differentiate process",
+      "differentiate update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "differentiate"
+    ],
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "differentiation-noun",
+    "word": "differentiation",
+    "baseWord": "differentia",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: differentiation",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word differentiation in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu differentiation trong email cong viec.",
+    "collocations": [
+      "differentiation review",
+      "differentiation process",
+      "differentiation update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "differentiation"
+    ],
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "dimensional-adjective",
+    "word": "dimensional",
+    "baseWord": "dimension",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: dimensional",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word dimensional in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu dimensional trong email cong viec.",
+    "collocations": [
+      "dimensional review",
+      "dimensional process",
+      "dimensional update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "dimensional"
+    ],
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "disruption-noun",
@@ -843,7 +1051,7 @@
     "type": "noun",
     "meaning": "sự gián đoạn, sự phá vỡ hoạt động",
     "pronunciation": "/dɪsˈrʌpʃn/",
-    "topic": "Technology & IT",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -867,7 +1075,11 @@
       "disrupt",
       "disruptive"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "download-verb",
@@ -876,7 +1088,7 @@
     "type": "verb",
     "meaning": "tải xuống dữ liệu, tải về máy",
     "pronunciation": "/ˌdaʊnˈloʊd/",
-    "topic": "Technology & IT",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -899,7 +1111,11 @@
       "download",
       "upload"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "interface-noun",
@@ -908,7 +1124,7 @@
     "type": "noun",
     "meaning": "giao diện người dùng, điểm kết nối",
     "pronunciation": "/ˈɪntərfeɪs/",
-    "topic": "Technology & IT",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -930,38 +1146,11 @@
     "wordFamily": [
       "interface"
     ],
-    "day": 42
-  },
-  {
-    "id": "IT assistance-phrase",
-    "word": "IT assistance",
-    "baseWord": "assist",
-    "type": "phrase",
-    "meaning": "sự hỗ trợ về công nghệ thông tin",
-    "pronunciation": "/ˌaɪ ˈtiː əˈsɪstəns/",
-    "topic": "Technology & IT",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please submit a ticket if you need immediate IT assistance.",
-    "exampleVi": "Vui lòng gửi phiếu yêu cầu nếu bạn cần hỗ trợ CNTT ngay lập tức.",
-    "collocations": [
-      "request IT assistance",
-      "provide IT assistance",
-      "immediate IT assistance"
-    ],
-    "synonyms": [
-      "technical assistance",
-      "IT support"
-    ],
-    "wordFamily": [
-      "assist",
-      "assistant"
-    ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "migrate-verb",
@@ -970,7 +1159,7 @@
     "type": "verb",
     "meaning": "di chuyển dữ liệu (chuyển đổi hệ thống), di cư",
     "pronunciation": "/ˈmaɪɡreɪt/",
-    "topic": "Technology & IT",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -993,7 +1182,11 @@
       "migration",
       "migrant"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "program-noun",
@@ -1002,7 +1195,7 @@
     "type": "noun",
     "meaning": "chương trình máy tính, kế hoạch hoạt động",
     "pronunciation": "/ˈproʊɡræm/",
-    "topic": "Technology & IT",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1027,7 +1220,11 @@
       "programming",
       "programmatic"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "programmer-noun",
@@ -1036,7 +1233,7 @@
     "type": "noun",
     "meaning": "lập trình viên",
     "pronunciation": "/ˈproʊɡræmər/",
-    "topic": "Technology & IT",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1059,7 +1256,11 @@
       "program",
       "programming"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "reboot-verb",
@@ -1068,7 +1269,7 @@
     "type": "verb",
     "meaning": "khởi động lại máy tính hoặc thiết bị",
     "pronunciation": "/ˌriːˈbuːt/",
-    "topic": "Technology & IT",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1089,37 +1290,11 @@
     "wordFamily": [
       "boot"
     ],
-    "day": 42
-  },
-  {
-    "id": "search engine-phrase",
-    "word": "search engine",
-    "baseWord": "search",
-    "type": "phrase",
-    "meaning": "công cụ tìm kiếm trực tuyến",
-    "pronunciation": "/ˈsɜːrtʃ endʒɪn/",
-    "topic": "Technology & IT",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Most traffic to our blog comes from major search engines.",
-    "exampleVi": "Hầu hết lưu lượng truy cập vào blog của chúng tôi đến từ các công cụ tìm kiếm lớn.",
-    "collocations": [
-      "popular search engine",
-      "search engine optimization",
-      "use a search engine"
-    ],
-    "synonyms": [
-      "web searcher"
-    ],
-    "wordFamily": [
-      "search"
-    ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "support-noun",
@@ -1128,7 +1303,7 @@
     "type": "noun",
     "meaning": "sự hỗ trợ, sự giúp đỡ",
     "pronunciation": "/səˈpɔːrt/",
-    "topic": "Technology & IT",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1153,7 +1328,11 @@
       "supporter",
       "supportive"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "system-noun",
@@ -1162,7 +1341,7 @@
     "type": "noun",
     "meaning": "hệ thống, phương thức",
     "pronunciation": "/ˈsɪstəm/",
-    "topic": "Technology & IT",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1187,39 +1366,11 @@
       "systematically",
       "systemize"
     ],
-    "day": 42
-  },
-  {
-    "id": "technical support-phrase",
-    "word": "technical support",
-    "baseWord": "support",
-    "type": "phrase",
-    "meaning": "hỗ trợ kỹ thuật (phần cứng/phần mềm)",
-    "pronunciation": "/ˈteknɪkl səˈpɔːrt/",
-    "topic": "Technology & IT",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The technical support team resolved our internet issues within an hour.",
-    "exampleVi": "Nhóm hỗ trợ kỹ thuật đã giải quyết các vấn đề internet của chúng tôi trong vòng một giờ.",
-    "collocations": [
-      "contact technical support",
-      "technical support engineer",
-      "technical support hotline"
-    ],
-    "synonyms": [
-      "tech support",
-      "IT support"
-    ],
-    "wordFamily": [
-      "technical",
-      "support"
-    ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "upload-verb",
@@ -1228,7 +1379,7 @@
     "type": "verb",
     "meaning": "tải lên dữ liệu, tải tập tin lên mạng",
     "pronunciation": "/ˌʌpˈloʊd/",
-    "topic": "Technology & IT",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1251,7 +1402,11 @@
       "upload",
       "download"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "user-friendly-adjective",
@@ -1260,7 +1415,7 @@
     "type": "adjective",
     "meaning": "thân thiện với người dùng, dễ sử dụng",
     "pronunciation": "/ˌjuːzər ˈfrendli/",
-    "topic": "Technology & IT",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1284,7 +1439,11 @@
       "user",
       "friendliness"
     ],
-    "day": 42
+    "day": 42,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "algorithm-noun",
@@ -1293,7 +1452,7 @@
     "type": "noun",
     "meaning": "thuật toán",
     "pronunciation": "/ˈælɡərɪðəm/",
-    "topic": "Technology & IT",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1315,7 +1474,11 @@
     "wordFamily": [
       "algorithmic"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "analytics-noun",
@@ -1324,7 +1487,7 @@
     "type": "noun",
     "meaning": "phân tích học, phân tích dữ liệu",
     "pronunciation": "/ˌænəˈlɪtɪks/",
-    "topic": "Technology & IT",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1347,7 +1510,11 @@
       "analysis",
       "analytical"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "automatic-adjective",
@@ -1356,7 +1523,7 @@
     "type": "adjective",
     "meaning": "tự động",
     "pronunciation": "/ˌɔːtəˈmætɪk/",
-    "topic": "Technology & IT",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1380,7 +1547,11 @@
       "automation",
       "automatically"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "automation-noun",
@@ -1389,7 +1560,7 @@
     "type": "noun",
     "meaning": "sự tự động hóa",
     "pronunciation": "/ˌɔːtəˈmeɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1413,7 +1584,11 @@
       "automatic",
       "automatically"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "bandwidth-noun",
@@ -1422,7 +1597,7 @@
     "type": "noun",
     "meaning": "băng thông (tốc độ truyền dữ liệu)",
     "pronunciation": "/ˈbændwɪdθ/",
-    "topic": "Technology & IT",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1442,7 +1617,11 @@
     "wordFamily": [
       "bandwidth"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "broadband-noun",
@@ -1451,7 +1630,7 @@
     "type": "noun",
     "meaning": "băng thông rộng, internet tốc độ cao",
     "pronunciation": "/ˈbrɔːdbænd/",
-    "topic": "Technology & IT",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1472,7 +1651,11 @@
     "wordFamily": [
       "broadband"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "cloud-noun",
@@ -1481,7 +1664,7 @@
     "type": "noun",
     "meaning": "đám mây (lưu trữ trực tuyến), mây",
     "pronunciation": "/klaʊd/",
-    "topic": "Technology & IT",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1503,7 +1686,11 @@
       "cloudy",
       "cloudless"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "cybersecurity-noun",
@@ -1512,7 +1699,7 @@
     "type": "noun",
     "meaning": "an ninh mạng, bảo mật không gian mạng",
     "pronunciation": "/ˈsaɪbərsɪkjʊrəti/",
-    "topic": "Technology & IT",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1535,7 +1722,11 @@
       "security",
       "cyberthreat"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "data-noun",
@@ -1544,7 +1735,7 @@
     "type": "noun",
     "meaning": "dữ liệu, thông tin",
     "pronunciation": "/ˈdeɪtə/",
-    "topic": "Technology & IT",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1567,7 +1758,11 @@
     "wordFamily": [
       "database"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "digital-adjective",
@@ -1576,7 +1771,7 @@
     "type": "adjective",
     "meaning": "kỹ thuật số",
     "pronunciation": "/ˈdɪdʒɪtl/",
-    "topic": "Technology & IT",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1599,7 +1794,11 @@
       "digitize",
       "digitally"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "memory-noun",
@@ -1608,7 +1807,7 @@
     "type": "noun",
     "meaning": "bộ nhớ máy tính, trí nhớ",
     "pronunciation": "/ˈmeməri/",
-    "topic": "Technology & IT",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1633,7 +1832,11 @@
       "memorable",
       "memorial"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "optimize-verb",
@@ -1642,7 +1845,7 @@
     "type": "verb",
     "meaning": "tối ưu hóa (hệ thống, hiệu suất)",
     "pronunciation": "/ˈɑːptɪmaɪz/",
-    "topic": "Technology & IT",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1666,7 +1869,11 @@
       "optimization",
       "optimistic"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "parameter-noun",
@@ -1675,7 +1882,7 @@
     "type": "noun",
     "meaning": "thông số, giới hạn biến số",
     "pronunciation": "/pəˈræmɪtər/",
-    "topic": "Technology & IT",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1697,7 +1904,11 @@
     "wordFamily": [
       "parametric"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "processing-noun",
@@ -1706,7 +1917,7 @@
     "type": "noun",
     "meaning": "sự xử lý (dữ liệu hoặc nguyên liệu)",
     "pronunciation": "/ˈproʊsesɪŋ/",
-    "topic": "Technology & IT",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1730,7 +1941,11 @@
       "process",
       "processor"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "storage-noun",
@@ -1739,7 +1954,7 @@
     "type": "noun",
     "meaning": "kho lưu trữ, việc cất giữ, bộ nhớ lưu trữ",
     "pronunciation": "/ˈstɔːrɪdʒ/",
-    "topic": "Technology & IT",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1762,7 +1977,11 @@
     "wordFamily": [
       "store"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "sync-verb",
@@ -1771,7 +1990,7 @@
     "type": "verb",
     "meaning": "đồng bộ hóa dữ liệu",
     "pronunciation": "/sɪŋk/",
-    "topic": "Technology & IT",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1794,7 +2013,11 @@
       "synchronization",
       "synchronous"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "tech-savvy-adjective",
@@ -1803,7 +2026,7 @@
     "type": "adjective",
     "meaning": "am hiểu công nghệ, thành thạo công nghệ",
     "pronunciation": "/ˈtek sævi/",
-    "topic": "Technology & IT",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1824,7 +2047,11 @@
     "wordFamily": [
       "savvy"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "transmission-noun",
@@ -1833,7 +2060,7 @@
     "type": "noun",
     "meaning": "sự truyền phát, truyền tải tín hiệu",
     "pronunciation": "/trænzˈmɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1856,7 +2083,11 @@
       "transmit",
       "transmitter"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "virtual-adjective",
@@ -1887,7 +2118,11 @@
     "wordFamily": [
       "virtually"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "wireless-adjective",
@@ -1896,7 +2131,7 @@
     "type": "adjective",
     "meaning": "không dây, dùng sóng vô tuyến",
     "pronunciation": "/ˈwaɪərləs/",
-    "topic": "Technology & IT",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1917,7 +2152,11 @@
     "wordFamily": [
       "wire"
     ],
-    "day": 43
+    "day": 43,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "code-noun",
@@ -1926,7 +2165,7 @@
     "type": "noun",
     "meaning": "mã lệnh (lập trình), mật mã, quy tắc ứng xử",
     "pronunciation": "/koʊd/",
-    "topic": "Technology & IT",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1951,7 +2190,11 @@
       "coder",
       "coding"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "customization-noun",
@@ -1960,7 +2203,7 @@
     "type": "noun",
     "meaning": "sự tùy biến, việc tùy chỉnh theo yêu cầu",
     "pronunciation": "/ˌkʌstəməˈzeɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1983,7 +2226,11 @@
       "customize",
       "customized"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "customize-verb",
@@ -1992,7 +2239,7 @@
     "type": "verb",
     "meaning": "tùy biến, điều chỉnh theo ý khách hàng",
     "pronunciation": "/ˈkʌstəmaɪz/",
-    "topic": "Technology & IT",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2016,7 +2263,11 @@
       "customization",
       "customized"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "deploy-verb",
@@ -2025,7 +2276,7 @@
     "type": "verb",
     "meaning": "triển khai (hệ thống, phần mềm hoặc lực lượng)",
     "pronunciation": "/dɪˈplɔɪ/",
-    "topic": "Technology & IT",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2048,7 +2299,11 @@
     "wordFamily": [
       "deployment"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "developer-noun",
@@ -2057,7 +2312,7 @@
     "type": "noun",
     "meaning": "nhà phát triển (phần mềm/bất động sản)",
     "pronunciation": "/dɪˈveləpər/",
-    "topic": "Technology & IT",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2082,7 +2337,11 @@
       "development",
       "developing"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "development-noun",
@@ -2091,7 +2350,7 @@
     "type": "noun",
     "meaning": "sự phát triển, dự án phát triển",
     "pronunciation": "/dɪˈveləpmənt/",
-    "topic": "Technology & IT",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2115,7 +2374,11 @@
       "develop",
       "developer"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "implementation-noun",
@@ -2124,7 +2387,7 @@
     "type": "noun",
     "meaning": "sự thực thi, sự triển khai áp dụng",
     "pronunciation": "/ˌɪmplɪmenˈteɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2148,7 +2411,11 @@
       "implement",
       "implementer"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "infrastructure-noun",
@@ -2157,7 +2424,7 @@
     "type": "noun",
     "meaning": "cơ sở hạ tầng",
     "pronunciation": "/ˈɪnfrəstrʌktʃər/",
-    "topic": "Technology & IT",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2180,7 +2447,11 @@
     "wordFamily": [
       "structural"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "innovate-verb",
@@ -2189,7 +2460,7 @@
     "type": "verb",
     "meaning": "đổi mới, sáng tạo",
     "pronunciation": "/ˈɪnəveɪt/",
-    "topic": "Technology & IT",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2213,7 +2484,11 @@
       "innovative",
       "innovator"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "innovation-noun",
@@ -2222,7 +2497,7 @@
     "type": "noun",
     "meaning": "sự đổi mới, sáng kiến mới",
     "pronunciation": "/ˌɪnəˈveɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2246,7 +2521,11 @@
       "innovative",
       "innovator"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "innovative-adjective",
@@ -2255,7 +2534,7 @@
     "type": "adjective",
     "meaning": "mang tính sáng tạo, có tính đổi mới",
     "pronunciation": "/ˈɪnəveɪtɪv/",
-    "topic": "Technology & IT",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2280,7 +2559,11 @@
       "innovation",
       "innovator"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "integrate-verb",
@@ -2289,7 +2572,7 @@
     "type": "verb",
     "meaning": "tích hợp, hợp nhất, hòa nhập",
     "pronunciation": "/ˈɪntɪɡreɪt/",
-    "topic": "Technology & IT",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2313,7 +2596,11 @@
       "integrated",
       "integrative"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "integration-noun",
@@ -2322,7 +2609,7 @@
     "type": "noun",
     "meaning": "sự tích hợp, sự hội nhập",
     "pronunciation": "/ˌɪntɪˈɡreɪʃn/",
-    "topic": "Technology & IT",
+    "topic": "Data & Analysis",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2345,7 +2632,11 @@
       "integrate",
       "integrated"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "mainframe-noun",
@@ -2354,7 +2645,7 @@
     "type": "noun",
     "meaning": "máy tính lớn (xử lý dữ liệu lớn cho tổ chức)",
     "pronunciation": "/ˈmeɪnfreɪm/",
-    "topic": "Technology & IT",
+    "topic": "Product Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2375,7 +2666,11 @@
     "wordFamily": [
       "frame"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "modern-adjective",
@@ -2384,7 +2679,7 @@
     "type": "adjective",
     "meaning": "hiện đại, tối tân",
     "pronunciation": "/ˈmɑːdərn/",
-    "topic": "Technology & IT",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2408,7 +2703,11 @@
       "modernize",
       "modernization"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "modernize-verb",
@@ -2417,7 +2716,7 @@
     "type": "verb",
     "meaning": "hiện đại hóa",
     "pronunciation": "/ˈmɑːdərnaɪz/",
-    "topic": "Technology & IT",
+    "topic": "Corporate Policy",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2440,7 +2739,11 @@
       "modern",
       "modernization"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "peripheral-noun",
@@ -2449,7 +2752,7 @@
     "type": "noun",
     "meaning": "thiết bị ngoại vi (bàn phím, chuột, máy in...)",
     "pronunciation": "/pəˈrɪfərəl/",
-    "topic": "Technology & IT",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2470,7 +2773,11 @@
     "wordFamily": [
       "periphery"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "printer-noun",
@@ -2479,7 +2786,7 @@
     "type": "noun",
     "meaning": "máy in, thợ in",
     "pronunciation": "/ˈprɪntər/",
-    "topic": "Technology & IT",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2501,7 +2808,11 @@
       "printable",
       "printing"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "scan-verb",
@@ -2510,7 +2821,7 @@
     "type": "verb",
     "meaning": "quét tài liệu, quét mã vạch, nhìn lướt qua",
     "pronunciation": "/skæn/",
-    "topic": "Technology & IT",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2533,7 +2844,11 @@
       "scanner",
       "scanning"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "update-verb",
@@ -2542,7 +2857,7 @@
     "type": "verb",
     "meaning": "cập nhật thông tin hoặc phần mềm",
     "pronunciation": "/ˌʌpˈdeɪt/",
-    "topic": "Technology & IT",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2565,7 +2880,11 @@
       "update",
       "updated"
     ],
-    "day": 44
+    "day": 44,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "antivirus-noun",
@@ -2574,7 +2893,7 @@
     "type": "noun",
     "meaning": "chương trình diệt vi-rút",
     "pronunciation": "/ˌæntiˈvaɪrəs/",
-    "topic": "Technology & IT",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2596,7 +2915,11 @@
     "wordFamily": [
       "virus"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "attachment-noun",
@@ -2605,7 +2928,7 @@
     "type": "noun",
     "meaning": "tệp đính kèm email, sự gắn bó",
     "pronunciation": "/əˈtætʃmənt/",
-    "topic": "Technology & IT",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2629,7 +2952,11 @@
       "attach",
       "attached"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "browse-verb",
@@ -2638,7 +2965,7 @@
     "type": "verb",
     "meaning": "duyệt web, đọc lướt qua, xem hàng",
     "pronunciation": "/braʊz/",
-    "topic": "Technology & IT",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2661,7 +2988,11 @@
       "browser",
       "browsing"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "copier-noun",
@@ -2670,7 +3001,7 @@
     "type": "noun",
     "meaning": "máy photocopy, người sao chép",
     "pronunciation": "/ˈkɑːpiər/",
-    "topic": "Technology & IT",
+    "topic": "Human Resources",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2691,7 +3022,11 @@
     "wordFamily": [
       "copy"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "copy-verb",
@@ -2700,7 +3035,7 @@
     "type": "verb",
     "meaning": "sao chép văn bản/tập tin, bắt chước",
     "pronunciation": "/ˈkɑːpi/",
-    "topic": "Technology & IT",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2723,7 +3058,149 @@
       "copier",
       "copycat"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "directly-adverb",
+    "word": "directly",
+    "baseWord": "direct",
+    "type": "adverb",
+    "meaning": "tu vung cot loi TOEIC 700: directly",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word directly in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu directly trong email cong viec.",
+    "collocations": [
+      "directly review",
+      "directly process",
+      "directly update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "directly"
+    ],
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "directory-adjective",
+    "word": "directory",
+    "baseWord": "direct",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: directory",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "The manager used the word directory in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu directory trong email cong viec.",
+    "collocations": [
+      "directory review",
+      "directory process",
+      "directory update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "directory"
+    ],
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "disburse-noun",
+    "word": "disburse",
+    "baseWord": "disburse",
+    "type": "noun",
+    "meaning": "tu vung cot loi TOEIC 700: disburse",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word disburse in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu disburse trong email cong viec.",
+    "collocations": [
+      "disburse review",
+      "disburse process",
+      "disburse update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "disburse"
+    ],
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "disbursement-adjective",
+    "word": "disbursement",
+    "baseWord": "disburse",
+    "type": "adjective",
+    "meaning": "tu vung cot loi TOEIC 700: disbursement",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "The manager used the word disbursement in a business email.",
+    "exampleVi": "Nguoi quan ly da dung tu disbursement trong email cong viec.",
+    "collocations": [
+      "disbursement review",
+      "disbursement process",
+      "disbursement update"
+    ],
+    "synonyms": [
+      "TOEIC core word",
+      "business vocabulary"
+    ],
+    "wordFamily": [
+      "disbursement"
+    ],
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "email-noun",
@@ -2732,7 +3209,7 @@
     "type": "noun",
     "meaning": "thư điện tử, hòm thư",
     "pronunciation": "/ˈiːmeɪl/",
-    "topic": "Technology & IT",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2753,7 +3230,11 @@
     "wordFamily": [
       "email"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "filter-verb",
@@ -2762,7 +3243,7 @@
     "type": "verb",
     "meaning": "lọc (dữ liệu/email/chất lỏng)",
     "pronunciation": "/ˈfɪltər/",
-    "topic": "Technology & IT",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2785,7 +3266,11 @@
       "filter",
       "filtration"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "hack-verb",
@@ -2794,7 +3279,7 @@
     "type": "verb",
     "meaning": "xâm nhập trái phép máy tính, chém",
     "pronunciation": "/hæk/",
-    "topic": "Technology & IT",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2817,7 +3302,11 @@
       "hacker",
       "hacking"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "hacker-noun",
@@ -2826,7 +3315,7 @@
     "type": "noun",
     "meaning": "tin tặc, kẻ xâm nhập máy tính trái phép",
     "pronunciation": "/ˈhækər/",
-    "topic": "Technology & IT",
+    "topic": "Accounting & Auditing",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2848,100 +3337,11 @@
       "hack",
       "hacking"
     ],
-    "day": 45
-  },
-  {
-    "id": "log in-phrase",
-    "word": "log in",
-    "baseWord": "log",
-    "type": "phrase",
-    "meaning": "đăng nhập vào hệ thống/tài khoản",
-    "pronunciation": "/lɔːɡ ɪn/",
-    "topic": "Technology & IT",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please log in to your account to view the billing details.",
-    "exampleVi": "Vui lòng đăng nhập vào tài khoản của bạn để xem chi tiết thanh toán.",
-    "collocations": [
-      "log in successfully",
-      "require to log in",
-      "log in credentials"
-    ],
-    "synonyms": [
-      "sign in",
-      "log on"
-    ],
-    "wordFamily": [
-      "log"
-    ],
-    "day": 45
-  },
-  {
-    "id": "log out-phrase",
-    "word": "log out",
-    "baseWord": "log",
-    "type": "phrase",
-    "meaning": "đăng xuất khỏi hệ thống/tài khoản",
-    "pronunciation": "/lɔːɡ aʊt/",
-    "topic": "Technology & IT",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Always log out of your account when using public computers.",
-    "exampleVi": "Luôn đăng xuất khỏi tài khoản của bạn khi sử dụng máy tính công cộng.",
-    "collocations": [
-      "log out safely",
-      "remember to log out",
-      "log out button"
-    ],
-    "synonyms": [
-      "sign out",
-      "log off"
-    ],
-    "wordFamily": [
-      "log"
-    ],
-    "day": 45
-  },
-  {
-    "id": "network administrator-phrase",
-    "word": "network administrator",
-    "baseWord": "administer",
-    "type": "phrase",
-    "meaning": "quản trị viên mạng máy tính",
-    "pronunciation": "/ˈnetwɜːrk ədˈmɪnɪstreɪtər/",
-    "topic": "Technology & IT",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The network administrator solved the Wi-Fi connection issue quickly.",
-    "exampleVi": "Quản trị viên mạng đã giải quyết vấn đề kết nối Wi-Fi một cách nhanh chóng.",
-    "collocations": [
-      "certified network administrator",
-      "contact the network administrator",
-      "duties of a network administrator"
-    ],
-    "synonyms": [
-      "network admin",
-      "IT administrator"
-    ],
-    "wordFamily": [
-      "network",
-      "administer",
-      "administrator"
-    ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "password-noun",
@@ -2950,7 +3350,7 @@
     "type": "noun",
     "meaning": "mật khẩu, khẩu lệnh",
     "pronunciation": "/ˈpæswɜːrd/",
-    "topic": "Technology & IT",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2971,7 +3371,11 @@
     "wordFamily": [
       "pass"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "print-verb",
@@ -2980,7 +3384,7 @@
     "type": "verb",
     "meaning": "in ấn tài liệu",
     "pronunciation": "/prɪnt/",
-    "topic": "Technology & IT",
+    "topic": "Insurance & Risk",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3003,7 +3407,11 @@
       "printable",
       "printing"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "receive-verb",
@@ -3012,7 +3420,7 @@
     "type": "verb",
     "meaning": "nhận (email, bưu kiện, chào đón)",
     "pronunciation": "/rɪˈsiːv/",
-    "topic": "Technology & IT",
+    "topic": "Shipping & Logistics",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3036,7 +3444,11 @@
       "receptive",
       "reception"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "send-verb",
@@ -3045,7 +3457,7 @@
     "type": "verb",
     "meaning": "gửi (email, tin nhắn, bưu kiện)",
     "pronunciation": "/send/",
-    "topic": "Technology & IT",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3068,41 +3480,11 @@
       "sender",
       "sending"
     ],
-    "day": 45
-  },
-  {
-    "id": "software developer-phrase",
-    "word": "software developer",
-    "baseWord": "develop",
-    "type": "phrase",
-    "meaning": "nhà phát triển phần mềm",
-    "pronunciation": "/ˈsɔːftwer dɪˈveləpər/",
-    "topic": "Technology & IT",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our company is looking to hire a senior software developer.",
-    "exampleVi": "Công ty chúng tôi đang tìm kiếm để thuê một nhà phát triển phần mềm cao cấp.",
-    "collocations": [
-      "senior software developer",
-      "software developer job",
-      "freelance software developer"
-    ],
-    "synonyms": [
-      "software engineer",
-      "coder",
-      "programmer"
-    ],
-    "wordFamily": [
-      "software",
-      "develop",
-      "developer"
-    ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "spam-noun",
@@ -3111,7 +3493,7 @@
     "type": "noun",
     "meaning": "thư rác, tin nhắn rác",
     "pronunciation": "/spæm/",
-    "topic": "Technology & IT",
+    "topic": "Purchasing & Procurement",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3133,7 +3515,11 @@
     "wordFamily": [
       "spammer"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "spyware-noun",
@@ -3163,7 +3549,11 @@
     "wordFamily": [
       "spy"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "virus-noun",
@@ -3172,7 +3562,7 @@
     "type": "noun",
     "meaning": "vi-rút máy tính, vi-rút gây bệnh",
     "pronunciation": "/ˈvaɪrəs/",
-    "topic": "Technology & IT",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3195,6 +3585,10 @@
     "wordFamily": [
       "viral"
     ],
-    "day": 45
+    "day": 45,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   }
 ]

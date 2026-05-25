@@ -5,6 +5,7 @@ import {
   CalendarDays,
   FileText,
   GraduationCap,
+  Headphones,
   Home,
   Layers,
   Library,
@@ -12,9 +13,8 @@ import {
   NotebookPen,
   PanelsTopLeft,
   Sparkles,
-  TriangleAlert,
   Target,
-  Headphones,
+  TriangleAlert,
 } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { getProgressSnapshot } from "../utils/progress";
@@ -23,14 +23,14 @@ const links = [
   { to: "/", label: "Tổng quan", icon: Home },
   { to: "/roadmap", label: "Lộ trình", icon: Map },
   { to: "/study-plan", label: "Kế hoạch ngày", icon: CalendarDays },
-  { to: "/vocabulary", label: "Từ vựng", icon: BookOpen },
-  { to: "/collocations", label: "Cụm từ", icon: Library },
-  { to: "/grammar", label: "Ngữ pháp", icon: FileText },
+  { to: "/vocabulary", label: "Vocabulary TOEIC", icon: BookOpen },
+  { to: "/collocations", label: "Collocations", icon: Library },
+  { to: "/grammar", label: "Grammar TOEIC", icon: FileText },
   { to: "/flashcards", label: "Flashcard", icon: Layers },
-  { to: "/parts", label: "Các Part", icon: PanelsTopLeft },
-  { to: "/quiz", label: "Quiz", icon: Brain },
-  { to: "/reading", label: "Đọc hiểu", icon: GraduationCap },
-  { to: "/shadowing", label: "Shadowing", icon: Headphones },
+  { to: "/parts", label: "Listening TOEIC", icon: PanelsTopLeft },
+  { to: "/quiz", label: "Kiểm tra", icon: Brain },
+  { to: "/reading", label: "Reading TOEIC", icon: GraduationCap },
+  { to: "/shadowing", label: "Nghe chép chính tả", icon: Headphones },
   { to: "/ai-coach", label: "AI Coach", icon: Sparkles },
   { to: "/progress", label: "Tiến độ", icon: BarChart3 },
   { to: "/error-log", label: "Error Log", icon: TriangleAlert },
@@ -48,7 +48,7 @@ export default function Sidebar() {
         </div>
         <div>
           <p className="text-xl font-bold text-vault-ink">EnglishVault</p>
-          <p className="text-xs text-vault-muted">Học • Luyện • Nhớ lâu</p>
+          <p className="text-xs text-vault-muted">Học TOEIC 700 có hệ thống</p>
         </div>
       </div>
 

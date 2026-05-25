@@ -6,7 +6,7 @@
     "type": "adjective",
     "meaning": "thuộc về hành chính",
     "pronunciation": "/ədˈmɪnɪstreɪtɪv/",
-    "topic": "Office Administration",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -31,7 +31,11 @@
       "administrator",
       "administration"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "archive-verb",
@@ -40,7 +44,7 @@
     "type": "verb",
     "meaning": "lưu trữ (tài liệu, hồ sơ lâu năm)",
     "pronunciation": "/ˈɑːrkaɪv/",
-    "topic": "Office Administration",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -64,7 +68,11 @@
       "archival",
       "archivist"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "archivist-noun",
@@ -73,7 +81,7 @@
     "type": "noun",
     "meaning": "người lưu trữ tài liệu, cán bộ lưu trữ",
     "pronunciation": "/ˈɑːrkɪvɪst/",
-    "topic": "Office Administration",
+    "topic": "Training & Development",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -96,38 +104,11 @@
       "archives",
       "archival"
     ],
-    "day": 96
-  },
-  {
-    "id": "available-agenda-phrase",
-    "word": "available agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: available agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the available agenda before the next business day.",
-    "exampleVi": "Vui long xem lai available agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "available agenda",
-      "available agenda process",
-      "available agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "clerical-adjective",
@@ -136,7 +117,7 @@
     "type": "adjective",
     "meaning": "thuộc công việc văn phòng, thư ký",
     "pronunciation": "/ˈklerɪkl/",
-    "topic": "Office Administration",
+    "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -160,71 +141,11 @@
       "clerically",
       "clerks"
     ],
-    "day": 96
-  },
-  {
-    "id": "filing cabinet-phrase",
-    "word": "filing cabinet",
-    "baseWord": "filing cabinet",
-    "type": "phrase",
-    "meaning": "tủ đựng hồ sơ, tủ tài liệu",
-    "pronunciation": "/ˈfaɪlɪŋ ˈkæbɪnət/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Old invoices are stored in the metal filing cabinet in the back room.",
-    "exampleVi": "Các hóa đơn cũ được lưu trữ trong tủ hồ sơ bằng kim loại ở phòng phía sau.",
-    "collocations": [
-      "metal filing cabinet",
-      "lock the filing cabinet",
-      "drawer of a filing cabinet"
-    ],
-    "synonyms": [
-      "file cabinet",
-      "document cabinet"
-    ],
-    "wordFamily": [
-      "file",
-      "cabinet",
-      "cabinets"
-    ],
-    "day": 96
-  },
-  {
-    "id": "incoming mail-phrase",
-    "word": "incoming mail",
-    "baseWord": "incoming mail",
-    "type": "phrase",
-    "meaning": "thư gửi đến, bưu phẩm nhận được",
-    "pronunciation": "/ˈɪnkʌmɪŋ meɪl/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The receptionist sorts the incoming mail by department every morning.",
-    "exampleVi": "Nhân viên lễ tân phân loại thư gửi đến theo từng bộ phận vào mỗi buổi sáng.",
-    "collocations": [
-      "sort incoming mail",
-      "incoming mail log",
-      "incoming mail basket"
-    ],
-    "synonyms": [
-      "received mail",
-      "incoming correspondence"
-    ],
-    "wordFamily": [
-      "incoming",
-      "mail",
-      "mails"
-    ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "mailroom-noun",
@@ -233,7 +154,7 @@
     "type": "noun",
     "meaning": "phòng thư tín, phòng nhận và xử lý thư",
     "pronunciation": "/ˈmeɪlruːm/",
-    "topic": "Office Administration",
+    "topic": "Quality & Standards",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -256,72 +177,11 @@
       "room",
       "rooms"
     ],
-    "day": 96
-  },
-  {
-    "id": "office supplies-phrase",
-    "word": "office supplies",
-    "baseWord": "office supplies",
-    "type": "phrase",
-    "meaning": "đồ dùng văn phòng",
-    "pronunciation": "/ˈɑːfɪs səˈplaɪz/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The administrative assistant is responsible for inventorying office supplies.",
-    "exampleVi": "Trợ lý hành chính chịu trách nhiệm kiểm kê đồ dùng văn phòng.",
-    "collocations": [
-      "order office supplies",
-      "store office supplies",
-      "supply cabinet for office supplies"
-    ],
-    "synonyms": [
-      "stationery",
-      "clerical tools"
-    ],
-    "wordFamily": [
-      "office",
-      "supply",
-      "supplies"
-    ],
-    "day": 96
-  },
-  {
-    "id": "outgoing mail-phrase",
-    "word": "outgoing mail",
-    "baseWord": "outgoing mail",
-    "type": "phrase",
-    "meaning": "thư gửi đi, bưu phẩm gửi đi",
-    "pronunciation": "/ˈaʊtɡoʊɪŋ meɪl/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Please place your letters in the tray marked for outgoing mail.",
-    "exampleVi": "Vui lòng đặt các bức thư của bạn vào khay được đánh dấu cho thư gửi đi.",
-    "collocations": [
-      "outgoing mail tray",
-      "process outgoing mail",
-      "collect outgoing mail"
-    ],
-    "synonyms": [
-      "sent mail",
-      "dispatched letters"
-    ],
-    "wordFamily": [
-      "outgoing",
-      "mail",
-      "mails"
-    ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "paperwork-noun",
@@ -330,7 +190,7 @@
     "type": "noun",
     "meaning": "công việc giấy tờ",
     "pronunciation": "/ˈpeɪpərwɜːrk/",
-    "topic": "Office Administration",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -355,7 +215,11 @@
       "papers",
       "paperless"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "photocopier-noun",
@@ -364,7 +228,7 @@
     "type": "noun",
     "meaning": "máy photocopy",
     "pronunciation": "/ˈfoʊtoʊkɑːpiər/",
-    "topic": "Office Administration",
+    "topic": "Environment & Sustainability",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -387,7 +251,11 @@
       "photocopying",
       "photocopiers"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "photocopy-verb",
@@ -396,7 +264,7 @@
     "type": "verb",
     "meaning": "sao chụp giấy tờ, phô tô",
     "pronunciation": "/ˈfoʊtoʊkɑːpi/",
-    "topic": "Office Administration",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -420,39 +288,294 @@
       "photocopying",
       "photocopies"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "reception desk-phrase",
-    "word": "reception desk",
-    "baseWord": "reception desk",
+    "id": "quarterly-accommodation-collocation",
+    "word": "quarterly accommodation",
+    "baseWord": "accommodation",
     "type": "phrase",
-    "meaning": "quầy lễ tân, quầy tiếp tân",
-    "pronunciation": "/rɪˈsepʃən desk/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly accommodation",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly accommodation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly accommodation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly accommodation",
+      "quarterly accommodation review",
+      "quarterly accommodation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "accommodation"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "quarterly-campaign-collocation",
+    "word": "quarterly campaign",
+    "baseWord": "campaign",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly campaign",
+    "pronunciation": "",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Please report to the reception desk upon your arrival at the clinic.",
-    "exampleVi": "Vui lòng trình diện tại quầy lễ tân ngay khi bạn đến phòng khám.",
+    "example": "Please include the quarterly campaign in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly campaign vao ho so truoc thu Sau.",
     "collocations": [
-      "front reception desk",
-      "hotel reception desk",
-      "approach the reception desk"
+      "quarterly campaign",
+      "quarterly campaign review",
+      "quarterly campaign deadline"
     ],
     "synonyms": [
-      "front desk",
-      "information desk"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "reception",
-      "desk",
-      "desks"
+      "quarterly",
+      "campaign"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "quarterly-conference-collocation",
+    "word": "quarterly conference",
+    "baseWord": "conference",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly conference",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly conference in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly conference vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly conference",
+      "quarterly conference review",
+      "quarterly conference deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "conference"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "quarterly-itinerary-collocation",
+    "word": "quarterly itinerary",
+    "baseWord": "itinerary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly itinerary",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly itinerary in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly itinerary vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly itinerary",
+      "quarterly itinerary review",
+      "quarterly itinerary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "itinerary"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "quarterly-presentation-collocation",
+    "word": "quarterly presentation",
+    "baseWord": "presentation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly presentation",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly presentation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly presentation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly presentation",
+      "quarterly presentation review",
+      "quarterly presentation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "presentation"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "quarterly-representative-collocation",
+    "word": "quarterly representative",
+    "baseWord": "representative",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly representative",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly representative in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly representative vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly representative",
+      "quarterly representative review",
+      "quarterly representative deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "representative"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "quarterly-reservation-collocation",
+    "word": "quarterly reservation",
+    "baseWord": "reservation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly reservation",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly reservation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly reservation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly reservation",
+      "quarterly reservation review",
+      "quarterly reservation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "reservation"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "quarterly-venue-collocation",
+    "word": "quarterly venue",
+    "baseWord": "venue",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly venue",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly venue in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly venue vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly venue",
+      "quarterly venue review",
+      "quarterly venue deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "venue"
+    ],
+    "day": 96,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "receptionist-noun",
@@ -461,7 +584,7 @@
     "type": "noun",
     "meaning": "nhân viên lễ tân",
     "pronunciation": "/rɪˈsepʃənɪst/",
-    "topic": "Office Administration",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -484,7 +607,11 @@
       "receptive",
       "receptionists"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "shredder-noun",
@@ -493,7 +620,7 @@
     "type": "noun",
     "meaning": "máy hủy tài liệu, máy hủy giấy",
     "pronunciation": "/ˈʃredər/",
-    "topic": "Office Administration",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -515,38 +642,11 @@
       "shredded",
       "shredding"
     ],
-    "day": 96
-  },
-  {
-    "id": "standard-agenda-phrase",
-    "word": "standard agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: standard agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the standard agenda before the next business day.",
-    "exampleVi": "Vui long xem lai standard agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "standard agenda",
-      "standard agenda process",
-      "standard agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "stapler-noun",
@@ -555,7 +655,7 @@
     "type": "noun",
     "meaning": "cái dập ghim, cái bấm kim",
     "pronunciation": "/ˈsteɪplər/",
-    "topic": "Office Administration",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -577,7 +677,11 @@
       "staples",
       "stapling"
     ],
-    "day": 96
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "stationery-noun",
@@ -586,7 +690,7 @@
     "type": "noun",
     "meaning": "văn phòng phẩm (giấy, bút, phong bì)",
     "pronunciation": "/ˈsteɪʃəneri/",
-    "topic": "Office Administration",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -609,106 +713,11 @@
       "stationeries",
       "stationary"
     ],
-    "day": 96
-  },
-  {
-    "id": "visitor log-phrase",
-    "word": "visitor log",
-    "baseWord": "visitor log",
-    "type": "phrase",
-    "meaning": "nhật ký khách ra vào",
-    "pronunciation": "/ˈvɪzɪtər lɔːɡ/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "All guests must sign the visitor log for security reasons.",
-    "exampleVi": "Tất cả khách phải ký vào nhật ký khách ra vào vì lý do bảo mật.",
-    "collocations": [
-      "sign the visitor log",
-      "maintain a visitor log",
-      "daily visitor log"
-    ],
-    "synonyms": [
-      "guest book",
-      "visitor register"
-    ],
-    "wordFamily": [
-      "visitor",
-      "log",
-      "logs"
-    ],
-    "day": 96
-  },
-  {
-    "id": "administrative assistant-phrase",
-    "word": "administrative assistant",
-    "baseWord": "administrative assistant",
-    "type": "phrase",
-    "meaning": "trợ lý hành chính",
-    "pronunciation": "/ədˈmɪnɪstreɪtɪv əˈsɪstənt/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The administrative assistant handles calendar scheduling and meeting coordination.",
-    "exampleVi": "Trợ lý hành chính xử lý việc lên lịch làm việc và điều phối các cuộc họp.",
-    "collocations": [
-      "hire an administrative assistant",
-      "senior administrative assistant",
-      "role of administrative assistant"
-    ],
-    "synonyms": [
-      "office assistant",
-      "secretary",
-      "clerk"
-    ],
-    "wordFamily": [
-      "admin",
-      "assistant",
-      "assistants"
-    ],
-    "day": 97
-  },
-  {
-    "id": "bulletin board-phrase",
-    "word": "bulletin board",
-    "baseWord": "bulletin board",
-    "type": "phrase",
-    "meaning": "bảng thông báo",
-    "pronunciation": "/ˈbʊlətɪn bɔːrd/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please check the bulletin board in the breakroom for schedule updates.",
-    "exampleVi": "Vui lòng kiểm tra bảng thông báo trong phòng nghỉ để cập nhật lịch trình.",
-    "collocations": [
-      "post on the bulletin board",
-      "office bulletin board",
-      "digital bulletin board"
-    ],
-    "synonyms": [
-      "noticeboard",
-      "display board"
-    ],
-    "wordFamily": [
-      "bulletin",
-      "board",
-      "boards"
-    ],
-    "day": 97
+    "day": 96,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "catalog-verb",
@@ -717,7 +726,7 @@
     "type": "verb",
     "meaning": "lập mục lục, phân loại danh mục",
     "pronunciation": "/ˈkætəlɔːɡ/",
-    "topic": "Office Administration",
+    "topic": "Office & Administration",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -741,7 +750,11 @@
       "cataloging",
       "cataloged"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "cataloger-noun",
@@ -750,7 +763,7 @@
     "type": "noun",
     "meaning": "người lập mục lục, người phân loại danh mục",
     "pronunciation": "/ˈkætəlɔːɡər/",
-    "topic": "Office Administration",
+    "topic": "Meetings & Scheduling",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -771,40 +784,11 @@
       "cataloging",
       "catalogers"
     ],
-    "day": 97
-  },
-  {
-    "id": "courier service-phrase",
-    "word": "courier service",
-    "baseWord": "courier service",
-    "type": "phrase",
-    "meaning": "dịch vụ chuyển phát nhanh",
-    "pronunciation": "/ˈkʊriər ˈsɜːrvɪs/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We hired a local courier service to deliver the urgent prototypes.",
-    "exampleVi": "Chúng tôi đã thuê một dịch vụ chuyển phát nhanh địa phương để giao các nguyên mẫu khẩn cấp.",
-    "collocations": [
-      "overnight courier service",
-      "use a courier service",
-      "reliable courier service"
-    ],
-    "synonyms": [
-      "express delivery service",
-      "messenger service"
-    ],
-    "wordFamily": [
-      "courier",
-      "service",
-      "services"
-    ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "cubicle-noun",
@@ -813,7 +797,7 @@
     "type": "noun",
     "meaning": "ngăn làm việc, góc làm việc nhỏ",
     "pronunciation": "/ˈkjuːbɪkl/",
-    "topic": "Office Administration",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -837,7 +821,11 @@
       "cube",
       "cubic"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "docket-noun",
@@ -846,7 +834,7 @@
     "type": "noun",
     "meaning": "phiếu ghi hàng, bản tóm tắt hồ sơ công việc",
     "pronunciation": "/ˈdɑːkɪt/",
-    "topic": "Office Administration",
+    "topic": "Human Resources",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -869,38 +857,11 @@
       "docketed",
       "docketing"
     ],
-    "day": 97
-  },
-  {
-    "id": "executive assistant-phrase",
-    "word": "executive assistant",
-    "baseWord": "executive assistant",
-    "type": "phrase",
-    "meaning": "trợ lý điều hành (cho ban giám đốc)",
-    "pronunciation": "/ɪɡˈzekjətɪv əˈsɪstənt/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The CEO's executive assistant arranged the international travel itinerary.",
-    "exampleVi": "Trợ lý điều hành của CEO đã sắp xếp lịch trình chuyến công tác quốc tế.",
-    "collocations": [
-      "executive assistant position",
-      "work as an executive assistant"
-    ],
-    "synonyms": [
-      "personal assistant",
-      "executive secretary"
-    ],
-    "wordFamily": [
-      "executive",
-      "assistant",
-      "assistants"
-    ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "logbook-noun",
@@ -909,7 +870,7 @@
     "type": "noun",
     "meaning": "sổ nhật ký ghi chép, sổ theo dõi",
     "pronunciation": "/ˈlɔːɡbʊk/",
-    "topic": "Office Administration",
+    "topic": "Recruitment & Jobs",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -933,39 +894,11 @@
       "log",
       "logging"
     ],
-    "day": 97
-  },
-  {
-    "id": "office layout-phrase",
-    "word": "office layout",
-    "baseWord": "office layout",
-    "type": "phrase",
-    "meaning": "cách bố trí văn phòng, mặt bằng văn phòng",
-    "pronunciation": "/ˈɑːfɪs ˈleɪaʊt/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The open office layout was designed to encourage teamwork.",
-    "exampleVi": "Cách bố trí văn phòng mở được thiết kế để khuyến khích tinh thần làm việc nhóm.",
-    "collocations": [
-      "open office layout",
-      "change the office layout",
-      "propose an office layout"
-    ],
-    "synonyms": [
-      "workspace configuration",
-      "floor plan"
-    ],
-    "wordFamily": [
-      "office",
-      "layout",
-      "layouts"
-    ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "paginate-verb",
@@ -974,7 +907,7 @@
     "type": "verb",
     "meaning": "đánh số trang",
     "pronunciation": "/ˈpædʒɪneɪt/",
-    "topic": "Office Administration",
+    "topic": "Travel & Transportation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -994,7 +927,11 @@
       "paginated",
       "paginating"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "pagination-noun",
@@ -1003,7 +940,7 @@
     "type": "noun",
     "meaning": "sự đánh số trang, hệ thống số trang",
     "pronunciation": "/ˌpædʒɪˈneɪʃən/",
-    "topic": "Office Administration",
+    "topic": "Hotels & Accommodation",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1024,105 +961,330 @@
       "paginated",
       "paginating"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
-    "id": "postage stamp-phrase",
-    "word": "postage stamp",
-    "baseWord": "postage stamp",
+    "id": "quarterly-advertisement-collocation",
+    "word": "quarterly advertisement",
+    "baseWord": "advertisement",
     "type": "phrase",
-    "meaning": "tem thư, tem bưu chính",
-    "pronunciation": "/ˈpoʊstɪdʒ stæmp/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly advertisement",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly advertisement in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly advertisement vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly advertisement",
+      "quarterly advertisement review",
+      "quarterly advertisement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "advertisement"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "quarterly-brochure-collocation",
+    "word": "quarterly brochure",
+    "baseWord": "brochure",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly brochure",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly brochure in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly brochure vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly brochure",
+      "quarterly brochure review",
+      "quarterly brochure deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "brochure"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "quarterly-catalog-collocation",
+    "word": "quarterly catalog",
+    "baseWord": "catalog",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly catalog",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly catalog in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly catalog vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly catalog",
+      "quarterly catalog review",
+      "quarterly catalog deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "catalog"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "quarterly-delivery-collocation",
+    "word": "quarterly delivery",
+    "baseWord": "delivery",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly delivery",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Make sure to stick a postage stamp on the envelope before mailing it.",
-    "exampleVi": "Hãy chắc chắn dán một chiếc tem thư lên phong bì trước khi gửi nó đi.",
+    "example": "Please include the quarterly delivery in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly delivery vao ho so truoc thu Sau.",
     "collocations": [
-      "buy postage stamps",
-      "postage stamp collection",
-      "affix a postage stamp"
+      "quarterly delivery",
+      "quarterly delivery review",
+      "quarterly delivery deadline"
     ],
     "synonyms": [
-      "stamp",
-      "postal label"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "postage",
-      "stamp",
-      "stamps"
+      "quarterly",
+      "delivery"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
-    "id": "record-keeping-phrase",
-    "word": "record-keeping",
-    "baseWord": "record-keeping",
+    "id": "quarterly-discount-collocation",
+    "word": "quarterly discount",
+    "baseWord": "discount",
     "type": "phrase",
-    "meaning": "việc ghi chép sổ sách, lưu trữ hồ sơ",
-    "pronunciation": "/ˈrekərd ˌkiːpɪŋ/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Accurate record-keeping is critical for financial audits.",
-    "exampleVi": "Việc ghi chép sổ sách chính xác là rất quan trọng đối với các cuộc kiểm toán tài chính.",
-    "collocations": [
-      "financial record-keeping",
-      "good record-keeping",
-      "standards for record-keeping"
-    ],
-    "synonyms": [
-      "bookkeeping",
-      "filing",
-      "archiving"
-    ],
-    "wordFamily": [
-      "record",
-      "keep",
-      "keeping"
-    ],
-    "day": 97
-  },
-  {
-    "id": "requisition form-phrase",
-    "word": "requisition form",
-    "baseWord": "requisition form",
-    "type": "phrase",
-    "meaning": "mẫu đơn yêu cầu vật tư, phiếu trưng dụng",
-    "pronunciation": "/ˌrekwɪˈzɪʃən fɔːrm/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly discount",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
     "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly discount in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly discount vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly discount",
+      "quarterly discount review",
+      "quarterly discount deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "discount"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "quarterly-inventory-collocation",
+    "word": "quarterly inventory",
+    "baseWord": "inventory",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly inventory",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 5",
       "Part 7"
     ],
-    "example": "You need to submit a requisition form to get a replacement keyboard.",
-    "exampleVi": "Bạn cần gửi một mẫu đơn yêu cầu vật tư để nhận bàn phím thay thế.",
+    "example": "Please include the quarterly inventory in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly inventory vao ho so truoc thu Sau.",
     "collocations": [
-      "submit a requisition form",
-      "fill out a requisition form",
-      "approve a requisition form"
+      "quarterly inventory",
+      "quarterly inventory review",
+      "quarterly inventory deadline"
     ],
     "synonyms": [
-      "request form",
-      "order form"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "requisition",
-      "form",
-      "forms"
+      "quarterly",
+      "inventory"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "quarterly-supplier-collocation",
+    "word": "quarterly supplier",
+    "baseWord": "supplier",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly supplier",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly supplier in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly supplier vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly supplier",
+      "quarterly supplier review",
+      "quarterly supplier deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "supplier"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "quarterly-vendor-collocation",
+    "word": "quarterly vendor",
+    "baseWord": "vendor",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly vendor",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly vendor in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly vendor vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly vendor",
+      "quarterly vendor review",
+      "quarterly vendor deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "vendor"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "quarterly-warehouse-collocation",
+    "word": "quarterly warehouse",
+    "baseWord": "warehouse",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly warehouse",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly warehouse in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly warehouse vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly warehouse",
+      "quarterly warehouse review",
+      "quarterly warehouse deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "warehouse"
+    ],
+    "day": 97,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "stamp-verb",
@@ -1131,7 +1293,7 @@
     "type": "verb",
     "meaning": "đóng dấu, dán tem",
     "pronunciation": "/stæmp/",
-    "topic": "Office Administration",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1155,38 +1317,11 @@
       "stamping",
       "stamps"
     ],
-    "day": 97
-  },
-  {
-    "id": "supply cabinet-phrase",
-    "word": "supply cabinet",
-    "baseWord": "supply cabinet",
-    "type": "phrase",
-    "meaning": "tủ chứa đồ dùng văn phòng, tủ vật tư",
-    "pronunciation": "/səˈplaɪ ˈkæbɪnət/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The key to the supply cabinet is kept at the receptionist desk.",
-    "exampleVi": "Chìa khóa của tủ vật tư được giữ tại quầy lễ tân.",
-    "collocations": [
-      "lock the supply cabinet",
-      "office supply cabinet",
-      "refill the supply cabinet"
-    ],
-    "synonyms": [
-      "stationery cupboard"
-    ],
-    "wordFamily": [
-      "supply",
-      "cabinet",
-      "cabinets"
-    ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "transcribe-verb",
@@ -1195,7 +1330,7 @@
     "type": "verb",
     "meaning": "sao chép lại, ghi âm dịch thành văn bản",
     "pronunciation": "/trænˈskraɪb/",
-    "topic": "Office Administration",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1219,7 +1354,11 @@
       "transcriber",
       "transcribed"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "transcriber-noun",
@@ -1228,7 +1367,7 @@
     "type": "noun",
     "meaning": "người ghi chép, máy ghi âm dịch chữ",
     "pronunciation": "/trænˈskraɪbər/",
-    "topic": "Office Administration",
+    "topic": "Technology & IT",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1250,7 +1389,11 @@
       "transcription",
       "transcribers"
     ],
-    "day": 97
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "transcription-noun",
@@ -1259,7 +1402,7 @@
     "type": "noun",
     "meaning": "sự sao chép, bản chép lại",
     "pronunciation": "/trænˈskrɪpʃən/",
-    "topic": "Office Administration",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1283,38 +1426,11 @@
       "transcriber",
       "transcriptions"
     ],
-    "day": 97
-  },
-  {
-    "id": "administrative board-phrase",
-    "word": "administrative board",
-    "baseWord": "administrative board",
-    "type": "phrase",
-    "meaning": "ban hành chính, hội đồng quản trị hành chính",
-    "pronunciation": "/ədˈmɪnɪstreɪtɪv bɔːrd/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The administrative board approved the new office budget yesterday.",
-    "exampleVi": "Ban hành chính đã phê duyệt ngân sách văn phòng mới vào ngày hôm qua.",
-    "collocations": [
-      "meeting of the administrative board",
-      "member of the administrative board"
-    ],
-    "synonyms": [
-      "governing board",
-      "management committee"
-    ],
-    "wordFamily": [
-      "admin",
-      "board",
-      "boards"
-    ],
-    "day": 98
+    "day": 97,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "calendar-noun",
@@ -1323,7 +1439,7 @@
     "type": "noun",
     "meaning": "lịch, lịch trình công việc",
     "pronunciation": "/ˈkælɪndər/",
-    "topic": "Office Administration",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1348,134 +1464,11 @@
       "calendaring",
       "calendared"
     ],
-    "day": 98
-  },
-  {
-    "id": "clerical staff-phrase",
-    "word": "clerical staff",
-    "baseWord": "clerical staff",
-    "type": "phrase",
-    "meaning": "nhân viên văn phòng, bộ phận thư ký hành chính",
-    "pronunciation": "/ˈklerɪkl stæf/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Our clerical staff coordinates the sorting and dispatching of all contracts.",
-    "exampleVi": "Nhân viên văn phòng của chúng tôi điều phối việc phân loại và gửi đi tất cả các hợp đồng.",
-    "collocations": [
-      "hire clerical staff",
-      "clerical staff duties",
-      "supervise clerical staff"
-    ],
-    "synonyms": [
-      "office staff",
-      "secretarial team"
-    ],
-    "wordFamily": [
-      "clerical",
-      "staff",
-      "staffs"
-    ],
-    "day": 98
-  },
-  {
-    "id": "customized-agenda-phrase",
-    "word": "customized agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: customized agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the customized agenda before the next business day.",
-    "exampleVi": "Vui long xem lai customized agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "customized agenda",
-      "customized agenda process",
-      "customized agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 98
-  },
-  {
-    "id": "delivery log-phrase",
-    "word": "delivery log",
-    "baseWord": "delivery log",
-    "type": "phrase",
-    "meaning": "nhật ký giao hàng, sổ theo dõi bưu phẩm",
-    "pronunciation": "/dɪˈlɪvəri lɔːɡ/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Check the delivery log to confirm if the new computers have arrived.",
-    "exampleVi": "Kiểm tra nhật ký giao hàng để xác nhận xem máy tính mới đã đến chưa.",
-    "collocations": [
-      "update the delivery log",
-      "sign the delivery log",
-      "daily delivery log"
-    ],
-    "synonyms": [
-      "shipment log",
-      "receipt register"
-    ],
-    "wordFamily": [
-      "delivery",
-      "log",
-      "logs"
-    ],
-    "day": 98
-  },
-  {
-    "id": "desk organizer-phrase",
-    "word": "desk organizer",
-    "baseWord": "desk organizer",
-    "type": "phrase",
-    "meaning": "khay để đồ bàn làm việc, hộp đựng văn phòng phẩm",
-    "pronunciation": "/desk ˈɔːrɡənaɪzər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "A plastic desk organizer kept her pens, staplers, and clips neat.",
-    "exampleVi": "Một khay để đồ bằng nhựa giúp bút, dập ghim và kẹp giấy của cô ấy ngăn nắp.",
-    "collocations": [
-      "wooden desk organizer",
-      "buy a desk organizer",
-      "messy without a desk organizer"
-    ],
-    "synonyms": [
-      "desk tidy",
-      "stationery organizer"
-    ],
-    "wordFamily": [
-      "desk",
-      "organize",
-      "organizer"
-    ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "digitization-noun",
@@ -1484,7 +1477,7 @@
     "type": "noun",
     "meaning": "sự số hóa, quá trình số hóa tài liệu",
     "pronunciation": "/ˌdɪdʒɪtəˈzeɪʃən/",
-    "topic": "Office Administration",
+    "topic": "Health & Safety",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1507,7 +1500,11 @@
       "digitized",
       "digitizing"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "digitize-verb",
@@ -1516,7 +1513,7 @@
     "type": "verb",
     "meaning": "số hóa tài liệu",
     "pronunciation": "/ˈdɪdʒɪtaɪz/",
-    "topic": "Office Administration",
+    "topic": "Training & Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1540,7 +1537,11 @@
       "digitizing",
       "digitization"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "index-verb",
@@ -1549,7 +1550,7 @@
     "type": "verb",
     "meaning": "lập chỉ mục, xếp vào mục lục",
     "pronunciation": "/ˈɪndeks/",
-    "topic": "Office Administration",
+    "topic": "Project Management",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1573,38 +1574,11 @@
       "indexing",
       "indexed"
     ],
-    "day": 98
-  },
-  {
-    "id": "label maker-phrase",
-    "word": "label maker",
-    "baseWord": "label maker",
-    "type": "phrase",
-    "meaning": "máy in nhãn, thiết bị dán nhãn",
-    "pronunciation": "/ˈleɪbl ˈmeɪkər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "He used a label maker to organize the project folders alphabetically.",
-    "exampleVi": "Anh ấy đã sử dụng máy in nhãn để sắp xếp các thư mục dự án theo thứ tự bảng chữ cái.",
-    "collocations": [
-      "handheld label maker",
-      "print with a label maker",
-      "office label maker"
-    ],
-    "synonyms": [
-      "label printer"
-    ],
-    "wordFamily": [
-      "label",
-      "maker",
-      "makers"
-    ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "laminator-noun",
@@ -1613,7 +1587,7 @@
     "type": "noun",
     "meaning": "máy ép nhựa, máy ép plastic bảo vệ giấy",
     "pronunciation": "/ˈlæmɪneɪtər/",
-    "topic": "Office Administration",
+    "topic": "Quality & Standards",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1633,40 +1607,11 @@
       "laminated",
       "laminators"
     ],
-    "day": 98
-  },
-  {
-    "id": "office equipment-phrase",
-    "word": "office equipment",
-    "baseWord": "office equipment",
-    "type": "phrase",
-    "meaning": "thiết bị văn phòng (máy in, máy phô tô, v.v.)",
-    "pronunciation": "/ˈɑːfɪs ɪˈkwɪpmənt/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We budget annually for the maintenance of office equipment.",
-    "exampleVi": "Chúng tôi lập ngân sách hàng năm cho việc bảo trì thiết bị văn phòng.",
-    "collocations": [
-      "modern office equipment",
-      "maintain office equipment",
-      "supplier of office equipment"
-    ],
-    "synonyms": [
-      "office machinery",
-      "hardware"
-    ],
-    "wordFamily": [
-      "office",
-      "equip",
-      "equipment"
-    ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "paperless-adjective",
@@ -1675,7 +1620,7 @@
     "type": "adjective",
     "meaning": "không dùng giấy, số hóa thông tin",
     "pronunciation": "/ˈpeɪpərləs/",
-    "topic": "Office Administration",
+    "topic": "Research & Reports",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1699,38 +1644,363 @@
       "papers",
       "paperlessly"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "paperwork load-phrase",
-    "word": "paperwork load",
-    "baseWord": "paperwork load",
+    "id": "quarterly-claim-collocation",
+    "word": "quarterly claim",
+    "baseWord": "claim",
     "type": "phrase",
-    "meaning": "khối lượng công việc giấy tờ",
-    "pronunciation": "/ˈpeɪpərwɜːrk loʊd/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
+    "meaning": "collocation TOEIC 700: quarterly claim",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Automating client onboarding reduced the paperwork load on receptionist staff.",
-    "exampleVi": "Tự động hóa việc tiếp nhận khách hàng đã giảm bớt khối lượng giấy tờ cho nhân viên lễ tân.",
+    "example": "Please include the quarterly claim in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly claim vao ho so truoc thu Sau.",
     "collocations": [
-      "heavy paperwork load",
-      "reduce paperwork load",
-      "manage paperwork load"
+      "quarterly claim",
+      "quarterly claim review",
+      "quarterly claim deadline"
     ],
     "synonyms": [
-      "administrative burden"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "paperwork",
-      "load",
-      "loads"
+      "quarterly",
+      "claim"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "quarterly-coverage-collocation",
+    "word": "quarterly coverage",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly coverage",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly coverage in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly coverage vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly coverage",
+      "quarterly coverage review",
+      "quarterly coverage deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "coverage"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "quarterly-customs-collocation",
+    "word": "quarterly customs",
+    "baseWord": "customs",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly customs",
+    "pronunciation": "",
+    "topic": "Global Trade",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly customs in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly customs vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly customs",
+      "quarterly customs review",
+      "quarterly customs deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "customs"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "quarterly-license-collocation",
+    "word": "quarterly license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly license",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly license in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly license vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly license",
+      "quarterly license review",
+      "quarterly license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "license"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
+  },
+  {
+    "id": "quarterly-maintenance-collocation",
+    "word": "quarterly maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly maintenance",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly maintenance vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly maintenance",
+      "quarterly maintenance review",
+      "quarterly maintenance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "maintenance"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "quarterly-permit-collocation",
+    "word": "quarterly permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly permit",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly permit in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly permit vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly permit",
+      "quarterly permit review",
+      "quarterly permit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "permit"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "quarterly-premium-collocation",
+    "word": "quarterly premium",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly premium",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly premium in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly premium vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly premium",
+      "quarterly premium review",
+      "quarterly premium deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "premium"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "quarterly-renovation-collocation",
+    "word": "quarterly renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly renovation",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly renovation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly renovation",
+      "quarterly renovation review",
+      "quarterly renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "renovation"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "quarterly-risk-collocation",
+    "word": "quarterly risk",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly risk",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly risk in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly risk vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly risk",
+      "quarterly risk review",
+      "quarterly risk deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "risk"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
+  },
+  {
+    "id": "quarterly-tariff-collocation",
+    "word": "quarterly tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly tariff",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly tariff in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly tariff",
+      "quarterly tariff review",
+      "quarterly tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "tariff"
+    ],
+    "day": 98,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "registry-noun",
@@ -1739,7 +2009,7 @@
     "type": "noun",
     "meaning": "phòng lưu trữ hồ sơ, sổ đăng ký chính thức",
     "pronunciation": "/ˈredʒɪstri/",
-    "topic": "Office Administration",
+    "topic": "Public Relations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1763,7 +2033,11 @@
       "registrar",
       "registration"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "requisition-noun",
@@ -1772,7 +2046,7 @@
     "type": "noun",
     "meaning": "sự yêu cầu chính thức, phiếu trưng dụng vật tư",
     "pronunciation": "/ˌrekwɪˈzɪʃən/",
-    "topic": "Office Administration",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1796,7 +2070,11 @@
       "requisition (v.)",
       "requisitioning"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "scheduler-noun",
@@ -1805,7 +2083,7 @@
     "type": "noun",
     "meaning": "người lập lịch trình, công cụ lên lịch",
     "pronunciation": "/ˈskedʒuːlər/",
-    "topic": "Office Administration",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1828,7 +2106,11 @@
       "scheduled",
       "schedulers"
     ],
-    "day": 98
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "shred-verb",
@@ -1837,7 +2119,7 @@
     "type": "verb",
     "meaning": "hủy tài liệu bằng cách cắt nhỏ, xé nhỏ",
     "pronunciation": "/ʃred/",
-    "topic": "Office Administration",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1861,100 +2143,11 @@
       "shredding",
       "shredded"
     ],
-    "day": 98
-  },
-  {
-    "id": "stapler remover-phrase",
-    "word": "stapler remover",
-    "baseWord": "stapler remover",
-    "type": "phrase",
-    "meaning": "dụng cụ tháo ghim, cái gỡ ghim",
-    "pronunciation": "/ˈsteɪplər rɪˈmuːvər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "She borrowed a stapler remover to detach the receipts from the invoice.",
-    "exampleVi": "Cô ấy đã mượn một dụng cụ tháo ghim để gỡ biên lai ra khỏi hóa đơn.",
-    "collocations": [
-      "handheld stapler remover",
-      "use a stapler remover"
-    ],
-    "synonyms": [
-      "staple remover"
-    ],
-    "wordFamily": [
-      "staple",
-      "remover",
-      "removers"
-    ],
-    "day": 98
-  },
-  {
-    "id": "storage room-phrase",
-    "word": "storage room",
-    "baseWord": "storage room",
-    "type": "phrase",
-    "meaning": "phòng kho, phòng lưu trữ",
-    "pronunciation": "/ˈstɔːrɪdʒ ruːm/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "We keep extra desk organizer items in the third-floor storage room.",
-    "exampleVi": "Chúng tôi giữ thêm các khay tổ chức bàn làm việc ở phòng lưu trữ tầng ba.",
-    "collocations": [
-      "lock the storage room",
-      "office storage room",
-      "locate the storage room"
-    ],
-    "synonyms": [
-      "storeroom",
-      "depot"
-    ],
-    "wordFamily": [
-      "storage",
-      "room",
-      "rooms"
-    ],
-    "day": 98
-  },
-  {
-    "id": "advance-agenda-phrase",
-    "word": "advance agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: advance agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the advance agenda before the next business day.",
-    "exampleVi": "Vui long xem lai advance agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "advance agenda",
-      "advance agenda process",
-      "advance agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 99
+    "day": 98,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "binder-noun",
@@ -1963,7 +2156,7 @@
     "type": "noun",
     "meaning": "bìa còng, sổ bìa cứng kẹp tài liệu",
     "pronunciation": "/ˈbaɪndər/",
-    "topic": "Office Administration",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1987,133 +2180,11 @@
       "binders",
       "binding"
     ],
-    "day": 99
-  },
-  {
-    "id": "bulk-agenda-phrase",
-    "word": "bulk agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: bulk agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the bulk agenda before the next business day.",
-    "exampleVi": "Vui long xem lai bulk agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "bulk agenda",
-      "bulk agenda process",
-      "bulk agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 99
-  },
-  {
-    "id": "complimentary-agenda-phrase",
-    "word": "complimentary agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve office administration: complimentary agenda",
-    "pronunciation": "",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the complimentary agenda before the next business day.",
-    "exampleVi": "Vui long xem lai complimentary agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "complimentary agenda",
-      "complimentary agenda process",
-      "complimentary agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 99
-  },
-  {
-    "id": "courier fee-phrase",
-    "word": "courier fee",
-    "baseWord": "courier fee",
-    "type": "phrase",
-    "meaning": "phí chuyển phát nhanh",
-    "pronunciation": "/ˈkʊriər fiː/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The client agreed to pay the courier fee for the immediate document delivery.",
-    "exampleVi": "Khách hàng đã đồng ý trả phí chuyển phát nhanh để giao tài liệu ngay lập tức.",
-    "collocations": [
-      "additional courier fee",
-      "standard courier fee",
-      "charge a courier fee"
-    ],
-    "synonyms": [
-      "messenger charge",
-      "shipping fee"
-    ],
-    "wordFamily": [
-      "courier",
-      "fee",
-      "fees"
-    ],
-    "day": 99
-  },
-  {
-    "id": "delivery receipt-phrase",
-    "word": "delivery receipt",
-    "baseWord": "delivery receipt",
-    "type": "phrase",
-    "meaning": "biên lai giao hàng",
-    "pronunciation": "/dɪˈlɪvəri rɪˈsiːt/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Please obtain the recipient's signature on the delivery receipt.",
-    "exampleVi": "Vui lòng lấy chữ ký của người nhận trên biên lai giao hàng.",
-    "collocations": [
-      "sign the delivery receipt",
-      "request a delivery receipt",
-      "keep the delivery receipt"
-    ],
-    "synonyms": [
-      "proof of delivery",
-      "shipping receipt"
-    ],
-    "wordFamily": [
-      "delivery",
-      "receipt",
-      "receipts"
-    ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "duplicate-noun",
@@ -2122,7 +2193,7 @@
     "type": "noun",
     "meaning": "bản sao, bản nhân đôi",
     "pronunciation": "/ˈduːplɪkət/",
-    "topic": "Office Administration",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2146,7 +2217,11 @@
       "duplicated",
       "duplicates"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
   },
   {
     "id": "letterhead-noun",
@@ -2155,7 +2230,7 @@
     "type": "noun",
     "meaning": "tiêu đề thư, giấy có in sẵn tiêu đề công ty",
     "pronunciation": "/ˈletərhed/",
-    "topic": "Office Administration",
+    "topic": "Business Communication",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2178,40 +2253,11 @@
       "letter",
       "head"
     ],
-    "day": 99
-  },
-  {
-    "id": "mail carrier-phrase",
-    "word": "mail carrier",
-    "baseWord": "mail carrier",
-    "type": "phrase",
-    "meaning": "nhân viên đưa thư, người đưa thư",
-    "pronunciation": "/meɪl ˈkæriər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "The mail carrier delivered the package directly to the reception desk.",
-    "exampleVi": "Người đưa thư đã giao bưu kiện trực tiếp đến quầy lễ tân.",
-    "collocations": [
-      "local mail carrier",
-      "wait for the mail carrier"
-    ],
-    "synonyms": [
-      "postman",
-      "mailman",
-      "postal worker"
-    ],
-    "wordFamily": [
-      "mail",
-      "carrier",
-      "carriers"
-    ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
   },
   {
     "id": "mailbag-noun",
@@ -2220,7 +2266,7 @@
     "type": "noun",
     "meaning": "túi đựng thư, bao tải đựng bưu phẩm",
     "pronunciation": "/ˈmeɪlbæɡ/",
-    "topic": "Office Administration",
+    "topic": "Human Resources",
     "frequency": "low",
     "level": "easy",
     "partTags": [
@@ -2241,7 +2287,11 @@
       "bag",
       "bags"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
   },
   {
     "id": "notepad-noun",
@@ -2250,7 +2300,7 @@
     "type": "noun",
     "meaning": "sổ ghi chép, tập giấy viết tay",
     "pronunciation": "/ˈnoʊtpæd/",
-    "topic": "Office Administration",
+    "topic": "Recruitment & Jobs",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2274,7 +2324,11 @@
       "notepads",
       "note"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
   },
   {
     "id": "paperclip-noun",
@@ -2283,7 +2337,7 @@
     "type": "noun",
     "meaning": "kẹp giấy",
     "pronunciation": "/ˈpeɪpərklɪp/",
-    "topic": "Office Administration",
+    "topic": "Travel & Transportation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2306,7 +2360,11 @@
       "paper",
       "clip"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "parcel-noun",
@@ -2315,7 +2373,7 @@
     "type": "noun",
     "meaning": "bưu kiện, gói hàng gửi bưu điện",
     "pronunciation": "/ˈpɑːrsl/",
-    "topic": "Office Administration",
+    "topic": "Hotels & Accommodation",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2340,7 +2398,11 @@
       "parceled",
       "parceling"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "postal-adjective",
@@ -2349,7 +2411,7 @@
     "type": "adjective",
     "meaning": "thuộc bưu điện, bưu chính",
     "pronunciation": "/ˈpoʊstl/",
-    "topic": "Office Administration",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2372,7 +2434,11 @@
       "postman",
       "postally"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "postmark-noun",
@@ -2381,7 +2447,7 @@
     "type": "noun",
     "meaning": "dấu bưu điện đóng trên thư",
     "pronunciation": "/ˈpoʊstmɑːrk/",
-    "topic": "Office Administration",
+    "topic": "Customer Service",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2402,7 +2468,260 @@
       "postmarked",
       "postmarking"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "quarterly-database-collocation",
+    "word": "quarterly database",
+    "baseWord": "database",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly database",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly database in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly database vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly database",
+      "quarterly database review",
+      "quarterly database deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "database"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "quarterly-equipment-collocation",
+    "word": "quarterly equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly equipment",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly equipment in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly equipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly equipment",
+      "quarterly equipment review",
+      "quarterly equipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "equipment"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "quarterly-facility-collocation",
+    "word": "quarterly facility",
+    "baseWord": "facility",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly facility",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly facility in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly facility",
+      "quarterly facility review",
+      "quarterly facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "facility"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
+  },
+  {
+    "id": "quarterly-lease-collocation",
+    "word": "quarterly lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly lease",
+    "pronunciation": "",
+    "topic": "Accounting & Auditing",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly lease in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly lease",
+      "quarterly lease review",
+      "quarterly lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "lease"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
+  },
+  {
+    "id": "quarterly-property-collocation",
+    "word": "quarterly property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly property",
+    "pronunciation": "",
+    "topic": "Contracts & Legal",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly property in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly property vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly property",
+      "quarterly property review",
+      "quarterly property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "property"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
+  },
+  {
+    "id": "quarterly-software-collocation",
+    "word": "quarterly software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly software",
+    "pronunciation": "",
+    "topic": "Insurance & Risk",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly software in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly software vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly software",
+      "quarterly software review",
+      "quarterly software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "software"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
+  },
+  {
+    "id": "quarterly-tenant-collocation",
+    "word": "quarterly tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly tenant",
+    "pronunciation": "",
+    "topic": "Shipping & Logistics",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the quarterly tenant in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly tenant",
+      "quarterly tenant review",
+      "quarterly tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "tenant"
+    ],
+    "day": 99,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "reproduce-verb",
@@ -2411,7 +2730,7 @@
     "type": "verb",
     "meaning": "sao chép lại, nhân bản tài liệu",
     "pronunciation": "/ˌriːprəˈduːs/",
-    "topic": "Office Administration",
+    "topic": "Manufacturing & Production",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2435,7 +2754,11 @@
       "reproduced",
       "reproducing"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "reproduction-noun",
@@ -2444,7 +2767,7 @@
     "type": "noun",
     "meaning": "sự sao chép, bản sao tài liệu",
     "pronunciation": "/ˌriːprəˈdʌkʃən/",
-    "topic": "Office Administration",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2468,7 +2791,11 @@
       "reproductive",
       "reproductions"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "sorter-noun",
@@ -2477,7 +2804,7 @@
     "type": "noun",
     "meaning": "thiết bị phân loại, người phân loại",
     "pronunciation": "/ˈsɔːrtər/",
-    "topic": "Office Administration",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2498,7 +2825,11 @@
       "sorting",
       "sorters"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "sorting-noun",
@@ -2507,7 +2838,7 @@
     "type": "noun",
     "meaning": "sự phân loại, việc sắp xếp",
     "pronunciation": "/ˈsɔːrtɪŋ/",
-    "topic": "Office Administration",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2531,637 +2862,676 @@
       "sorted",
       "sorter"
     ],
-    "day": 99
+    "day": 99,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "tracking number-phrase",
-    "word": "tracking number",
-    "baseWord": "tracking number",
+    "id": "quarterly-analysis-collocation",
+    "word": "quarterly analysis",
+    "baseWord": "analysis",
     "type": "phrase",
-    "meaning": "mã số theo dõi bưu phẩm, số vận đơn",
-    "pronunciation": "/ˈtrækɪŋ ˈnʌmbər/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly analysis",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "You can check the status of your parcel online using the tracking number.",
-    "exampleVi": "Bạn có thể kiểm tra tình trạng bưu kiện của mình trực tuyến bằng mã số theo dõi.",
+    "example": "Please include the quarterly analysis in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly analysis vao ho so truoc thu Sau.",
     "collocations": [
-      "email the tracking number",
-      "request a tracking number",
-      "invalid tracking number"
+      "quarterly analysis",
+      "quarterly analysis review",
+      "quarterly analysis deadline"
     ],
     "synonyms": [
-      "consignment number",
-      "waybill number"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "track",
-      "tracking",
-      "number"
+      "quarterly",
+      "analysis"
     ],
-    "day": 99
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
-    "id": "administrative fee-phrase",
-    "word": "administrative fee",
-    "baseWord": "administrative fee",
+    "id": "quarterly-approval-collocation",
+    "word": "quarterly approval",
+    "baseWord": "approval",
     "type": "phrase",
-    "meaning": "phí hành chính, phí quản lý",
-    "pronunciation": "/ədˈmɪnɪstreɪtɪv fiː/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly approval",
+    "pronunciation": "",
+    "topic": "Health & Safety",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "There is a minor administrative fee for processing visa applications.",
-    "exampleVi": "Có một khoản phí hành chính nhỏ cho việc xử lý đơn đăng ký thị thực.",
+    "example": "Please include the quarterly approval in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly approval vao ho so truoc thu Sau.",
     "collocations": [
-      "charge an administrative fee",
-      "waive administrative fees",
-      "standard administrative fee"
+      "quarterly approval",
+      "quarterly approval review",
+      "quarterly approval deadline"
     ],
     "synonyms": [
-      "processing fee",
-      "handling fee"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "admin",
-      "fee",
-      "fees"
+      "quarterly",
+      "approval"
     ],
-    "day": 100
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
-    "id": "archive room-phrase",
-    "word": "archive room",
-    "baseWord": "archive room",
+    "id": "quarterly-authorization-collocation",
+    "word": "quarterly authorization",
+    "baseWord": "authorization",
     "type": "phrase",
-    "meaning": "phòng lưu trữ tài liệu",
-    "pronunciation": "/ˈɑːrkaɪv ruːm/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly authorization",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly authorization in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly authorization vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly authorization",
+      "quarterly authorization review",
+      "quarterly authorization deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "authorization"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "quarterly-certificate-collocation",
+    "word": "quarterly certificate",
+    "baseWord": "certificate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly certificate",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly certificate in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly certificate",
+      "quarterly certificate review",
+      "quarterly certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "certificate"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "quarterly-confirmation-collocation",
+    "word": "quarterly confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly confirmation",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly confirmation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly confirmation",
+      "quarterly confirmation review",
+      "quarterly confirmation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "confirmation"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "quarterly-finding-collocation",
+    "word": "quarterly finding",
+    "baseWord": "finding",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly finding",
+    "pronunciation": "",
+    "topic": "Research & Reports",
     "frequency": "medium",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "Historical corporate ledgers are stored securely in the basement archive room.",
-    "exampleVi": "Các sổ cái lịch sử của công ty được lưu trữ an toàn trong phòng lưu trữ ở tầng hầm.",
+    "example": "Please include the quarterly finding in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly finding vao ho so truoc thu Sau.",
     "collocations": [
-      "basement archive room",
-      "enter the archive room",
-      "key to the archive room"
+      "quarterly finding",
+      "quarterly finding review",
+      "quarterly finding deadline"
     ],
     "synonyms": [
-      "records room",
-      "archival repository"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "archive",
-      "room",
-      "rooms"
+      "quarterly",
+      "finding"
     ],
-    "day": 100
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
-    "id": "bulk mailing-phrase",
-    "word": "bulk mailing",
-    "baseWord": "bulk mailing",
+    "id": "quarterly-liability-collocation",
+    "word": "quarterly liability",
+    "baseWord": "liability",
     "type": "phrase",
-    "meaning": "gửi thư số lượng lớn, gửi thư hàng loạt",
-    "pronunciation": "/bʌlk ˈmeɪlɪŋ/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly liability",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly liability in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly liability vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly liability",
+      "quarterly liability review",
+      "quarterly liability deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "liability"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "quarterly-negotiation-collocation",
+    "word": "quarterly negotiation",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly negotiation",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly negotiation vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly negotiation",
+      "quarterly negotiation review",
+      "quarterly negotiation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "negotiation"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
+  },
+  {
+    "id": "quarterly-notice-collocation",
+    "word": "quarterly notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly notice",
+    "pronunciation": "",
+    "topic": "Global Trade",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly notice in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly notice vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly notice",
+      "quarterly notice review",
+      "quarterly notice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "notice"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "quarterly-recommendation-collocation",
+    "word": "quarterly recommendation",
+    "baseWord": "recommendation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly recommendation",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The marketing department is preparing a bulk mailing of the new catalogs.",
-    "exampleVi": "Bộ phận tiếp thị đang chuẩn bị gửi hàng loạt danh mục sản phẩm mới.",
+    "example": "Please include the quarterly recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly recommendation vao ho so truoc thu Sau.",
     "collocations": [
-      "process bulk mailing",
-      "bulk mailing service",
-      "discount on bulk mailing"
+      "quarterly recommendation",
+      "quarterly recommendation review",
+      "quarterly recommendation deadline"
     ],
     "synonyms": [
-      "mass mailing",
-      "bulk post"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "bulk",
-      "mail",
-      "mailing"
+      "quarterly",
+      "recommendation"
     ],
-    "day": 100
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "clerical error-phrase",
-    "word": "clerical error",
-    "baseWord": "clerical error",
+    "id": "quarterly-request-collocation",
+    "word": "quarterly request",
+    "baseWord": "request",
     "type": "phrase",
-    "meaning": "lỗi hành chính, lỗi đánh máy, lỗi ghi chép văn phòng",
-    "pronunciation": "/ˈklerɪkl ˈerər/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly request",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly request in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly request vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly request",
+      "quarterly request review",
+      "quarterly request deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "request"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "quarterly-research-collocation",
+    "word": "quarterly research",
+    "baseWord": "research",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly research",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly research in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly research vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly research",
+      "quarterly research review",
+      "quarterly research deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "research"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
+  },
+  {
+    "id": "quarterly-response-collocation",
+    "word": "quarterly response",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly response",
+    "pronunciation": "",
+    "topic": "Data & Analysis",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly response in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly response vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly response",
+      "quarterly response review",
+      "quarterly response deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "response"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
+  },
+  {
+    "id": "quarterly-review-collocation",
+    "word": "quarterly review",
+    "baseWord": "review",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly review",
+    "pronunciation": "",
+    "topic": "Product Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly review in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly review vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly review",
+      "quarterly review review",
+      "quarterly review deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "review"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
+  },
+  {
+    "id": "quarterly-security-collocation",
+    "word": "quarterly security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly security",
+    "pronunciation": "",
+    "topic": "Performance Review",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "Due to a minor clerical error, the invoice amount was listed incorrectly.",
-    "exampleVi": "Do một lỗi hành chính nhỏ, số tiền trên hóa đơn đã được liệt kê không chính xác.",
+    "example": "Please include the quarterly security in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly security vao ho so truoc thu Sau.",
     "collocations": [
-      "minor clerical error",
-      "result of a clerical error",
-      "correct a clerical error"
+      "quarterly security",
+      "quarterly security review",
+      "quarterly security deadline"
     ],
     "synonyms": [
-      "typographical error",
-      "administrative mistake"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "clerical",
-      "error",
-      "errors"
+      "quarterly",
+      "security"
     ],
-    "day": 100
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
-    "id": "document holder-phrase",
-    "word": "document holder",
-    "baseWord": "document holder",
+    "id": "quarterly-settlement-collocation",
+    "word": "quarterly settlement",
+    "baseWord": "settlement",
     "type": "phrase",
-    "meaning": "khay kẹp tài liệu, hộp đựng tài liệu",
-    "pronunciation": "/ˈdɑːkjʊmənt ˈhoʊldər/",
-    "topic": "Office Administration",
+    "meaning": "collocation TOEIC 700: quarterly settlement",
+    "pronunciation": "",
+    "topic": "Corporate Policy",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the quarterly settlement in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly settlement vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly settlement",
+      "quarterly settlement review",
+      "quarterly settlement deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "settlement"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
+  },
+  {
+    "id": "quarterly-summary-collocation",
+    "word": "quarterly summary",
+    "baseWord": "summary",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly summary",
+    "pronunciation": "",
+    "topic": "Public Relations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly summary in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly summary",
+      "quarterly summary review",
+      "quarterly summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "summary"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
+  },
+  {
+    "id": "quarterly-survey-collocation",
+    "word": "quarterly survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly survey",
+    "pronunciation": "",
+    "topic": "Supply Chain",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the quarterly survey in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly survey vao ho so truoc thu Sau.",
+    "collocations": [
+      "quarterly survey",
+      "quarterly survey review",
+      "quarterly survey deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "quarterly",
+      "survey"
+    ],
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
+  },
+  {
+    "id": "quarterly-update-collocation",
+    "word": "quarterly update",
+    "baseWord": "update",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: quarterly update",
+    "pronunciation": "",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
-      "Part 3",
       "Part 7"
     ],
-    "example": "A plastic document holder was placed next to the monitor for easy typing.",
-    "exampleVi": "Một khay kẹp tài liệu nhựa đã được đặt cạnh màn hình để dễ nhập liệu.",
+    "example": "Please include the quarterly update in the file before Friday.",
+    "exampleVi": "Vui long dua quarterly update vao ho so truoc thu Sau.",
     "collocations": [
-      "desk document holder",
-      "acrylic document holder"
+      "quarterly update",
+      "quarterly update review",
+      "quarterly update deadline"
     ],
     "synonyms": [
-      "paper stand",
-      "copyholder"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "document",
-      "hold",
-      "holder"
+      "quarterly",
+      "update"
     ],
-    "day": 100
-  },
-  {
-    "id": "document scanner-phrase",
-    "word": "document scanner",
-    "baseWord": "document scanner",
-    "type": "phrase",
-    "meaning": "máy quét tài liệu",
-    "pronunciation": "/ˈdɑːkjʊmənt ˈskænər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "You can feed up to 50 pages into the automatic document scanner.",
-    "exampleVi": "Bạn có thể nạp tối đa 50 trang vào máy quét tài liệu tự động.",
-    "collocations": [
-      "high-speed document scanner",
-      "desktop document scanner"
-    ],
-    "synonyms": [
-      "flatbed scanner",
-      "copier scanner"
-    ],
-    "wordFamily": [
-      "document",
-      "scan",
-      "scanner"
-    ],
-    "day": 100
-  },
-  {
-    "id": "dry-erase marker-phrase",
-    "word": "dry-erase marker",
-    "baseWord": "dry-erase marker",
-    "type": "phrase",
-    "meaning": "bút viết bảng trắng",
-    "pronunciation": "/draɪ ɪˈreɪs ˈmɑːrkər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Make sure to recap the dry-erase marker so it does not dry out.",
-    "exampleVi": "Hãy chắc chắn đậy nắp bút viết bảng trắng lại để nó không bị khô mực.",
-    "collocations": [
-      "black dry-erase marker",
-      "box of dry-erase markers",
-      "write with a dry-erase marker"
-    ],
-    "synonyms": [
-      "whiteboard marker"
-    ],
-    "wordFamily": [
-      "dry",
-      "erase",
-      "marker"
-    ],
-    "day": 100
-  },
-  {
-    "id": "express mail-phrase",
-    "word": "express mail",
-    "baseWord": "express mail",
-    "type": "phrase",
-    "meaning": "thư chuyển phát nhanh, thư hỏa tốc",
-    "pronunciation": "/ɪkˈspres meɪl/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We sent the urgent legal document via express mail to ensure next-day delivery.",
-    "exampleVi": "Chúng tôi đã gửi tài liệu pháp lý khẩn cấp qua thư chuyển phát nhanh để đảm bảo nhận vào ngày hôm sau.",
-    "collocations": [
-      "send via express mail",
-      "express mail rates",
-      "international express mail"
-    ],
-    "synonyms": [
-      "overnight mail",
-      "special delivery"
-    ],
-    "wordFamily": [
-      "express",
-      "mail",
-      "mails"
-    ],
-    "day": 100
-  },
-  {
-    "id": "filing system-phrase",
-    "word": "filing system",
-    "baseWord": "filing system",
-    "type": "phrase",
-    "meaning": "hệ thống lưu trữ hồ sơ",
-    "pronunciation": "/ˈfaɪlɪŋ ˈsɪstəm/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "We need to reorganize our digital filing system to make retrieval faster.",
-    "exampleVi": "Chúng ta cần tổ chức lại hệ thống lưu trữ kỹ thuật số để việc truy xuất nhanh hơn.",
-    "collocations": [
-      "digital filing system",
-      "efficient filing system",
-      "reorganize the filing system"
-    ],
-    "synonyms": [
-      "records system",
-      "archiving method"
-    ],
-    "wordFamily": [
-      "file",
-      "filing",
-      "system"
-    ],
-    "day": 100
-  },
-  {
-    "id": "laminating machine-phrase",
-    "word": "laminating machine",
-    "baseWord": "laminating machine",
-    "type": "phrase",
-    "meaning": "máy ép nhựa, máy ép plastic bảo vệ tài liệu",
-    "pronunciation": "/ˈlæmɪneɪtɪŋ məˈʃiːn/",
-    "topic": "Office Administration",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "We bought a new laminating machine to protect the ID badges.",
-    "exampleVi": "Chúng tôi đã mua một chiếc máy ép plastic mới để bảo vệ các thẻ tên.",
-    "collocations": [
-      "electric laminating machine",
-      "operate a laminating machine"
-    ],
-    "synonyms": [
-      "laminator"
-    ],
-    "wordFamily": [
-      "laminate",
-      "laminating",
-      "machine"
-    ],
-    "day": 100
-  },
-  {
-    "id": "mail delivery-phrase",
-    "word": "mail delivery",
-    "baseWord": "mail delivery",
-    "type": "phrase",
-    "meaning": "sự giao thư, sự phát chuyển thư tín",
-    "pronunciation": "/meɪl dɪˈlɪvəri/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Daily mail delivery is scheduled for 10:00 AM every morning.",
-    "exampleVi": "Việc giao thư hàng ngày được lên lịch vào lúc 10:00 sáng mỗi ngày.",
-    "collocations": [
-      "daily mail delivery",
-      "mail delivery service",
-      "delay in mail delivery"
-    ],
-    "synonyms": [
-      "post delivery",
-      "postal dispatch"
-    ],
-    "wordFamily": [
-      "mail",
-      "deliver",
-      "delivery"
-    ],
-    "day": 100
-  },
-  {
-    "id": "office directory-phrase",
-    "word": "office directory",
-    "baseWord": "office directory",
-    "type": "phrase",
-    "meaning": "danh mục văn phòng, danh bạ điện thoại nội bộ",
-    "pronunciation": "/ˈɑːfɪs daɪˈrektəri/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The security desk displays a large digital office directory for visitors.",
-    "exampleVi": "Bàn bảo vệ hiển thị một danh mục văn phòng kỹ thuật số lớn cho khách thăm.",
-    "collocations": [
-      "digital office directory",
-      "consult the office directory",
-      "update the office directory"
-    ],
-    "synonyms": [
-      "office board",
-      "building directory"
-    ],
-    "wordFamily": [
-      "office",
-      "direct",
-      "directory"
-    ],
-    "day": 100
-  },
-  {
-    "id": "office manager-phrase",
-    "word": "office manager",
-    "baseWord": "office manager",
-    "type": "phrase",
-    "meaning": "người quản lý văn phòng",
-    "pronunciation": "/ˈɑːfɪs ˈmænɪdʒər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The office manager ordered new desk organizers and stationery items.",
-    "exampleVi": "Người quản lý văn phòng đã đặt mua khay tổ chức bàn làm việc mới và văn phòng phẩm.",
-    "collocations": [
-      "role of office manager",
-      "hire an office manager",
-      "senior office manager"
-    ],
-    "synonyms": [
-      "administrative supervisor",
-      "office head"
-    ],
-    "wordFamily": [
-      "office",
-      "manage",
-      "manager"
-    ],
-    "day": 100
-  },
-  {
-    "id": "paper shredder-phrase",
-    "word": "paper shredder",
-    "baseWord": "paper shredder",
-    "type": "phrase",
-    "meaning": "máy hủy giấy",
-    "pronunciation": "/ˈpeɪpər ˈʃredər/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Our office has a paper shredder next to the filing cabinet.",
-    "exampleVi": "Văn phòng chúng tôi có một máy hủy giấy cạnh tủ hồ sơ.",
-    "collocations": [
-      "industrial paper shredder",
-      "automatic paper shredder"
-    ],
-    "synonyms": [
-      "document shredder"
-    ],
-    "wordFamily": [
-      "paper",
-      "shred",
-      "shredder"
-    ],
-    "day": 100
-  },
-  {
-    "id": "reception area-phrase",
-    "word": "reception area",
-    "baseWord": "reception area",
-    "type": "phrase",
-    "meaning": "khu vực lễ tân, sảnh đón khách",
-    "pronunciation": "/rɪˈsepʃən ˈeriə/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Guests are requested to wait in the reception area until called.",
-    "exampleVi": "Khách được yêu cầu đợi ở khu vực lễ tân cho đến khi được gọi.",
-    "collocations": [
-      "modern reception area",
-      "clean reception area",
-      "wait in the reception area"
-    ],
-    "synonyms": [
-      "lobby",
-      "waiting room",
-      "front office"
-    ],
-    "wordFamily": [
-      "reception",
-      "receptionist",
-      "area"
-    ],
-    "day": 100
-  },
-  {
-    "id": "registered mail-phrase",
-    "word": "registered mail",
-    "baseWord": "registered mail",
-    "type": "phrase",
-    "meaning": "thư bảo đảm, thư đăng ký",
-    "pronunciation": "/ˈredʒɪstərd meɪl/",
-    "topic": "Office Administration",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Important certificates should be sent by registered mail to prevent loss.",
-    "exampleVi": "Các chứng chỉ quan trọng nên được gửi bằng thư bảo đảm để tránh thất lạc.",
-    "collocations": [
-      "send by registered mail",
-      "registered mail service"
-    ],
-    "synonyms": [
-      "certified mail",
-      "insured mail"
-    ],
-    "wordFamily": [
-      "register",
-      "registered",
-      "mail"
-    ],
-    "day": 100
-  },
-  {
-    "id": "return address-phrase",
-    "word": "return address",
-    "baseWord": "return address",
-    "type": "phrase",
-    "meaning": "địa chỉ người gửi (để hoàn trả thư nếu thất bại)",
-    "pronunciation": "/rɪˈtɜːrn əˈdres/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The post office returned the package because the return address was missing.",
-    "exampleVi": "Bưu điện đã trả lại bưu kiện vì thiếu địa chỉ người gửi.",
-    "collocations": [
-      "write the return address",
-      "sender's return address",
-      "print a return address"
-    ],
-    "synonyms": [
-      "sender address"
-    ],
-    "wordFamily": [
-      "return",
-      "address",
-      "addresses"
-    ],
-    "day": 100
-  },
-  {
-    "id": "stapling machine-phrase",
-    "word": "stapling machine",
-    "baseWord": "stapling machine",
-    "type": "phrase",
-    "meaning": "máy dập ghim, máy bấm kim điện",
-    "pronunciation": "/ˈsteɪplɪŋ məˈʃiːn/",
-    "topic": "Office Administration",
-    "frequency": "low",
-    "level": "medium",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The print shop uses a heavy-duty stapling machine for booklets.",
-    "exampleVi": "Cửa hàng in ấn sử dụng máy dập ghim hạng nặng cho các cuốn sách nhỏ.",
-    "collocations": [
-      "electric stapling machine",
-      "heavy-duty stapling machine"
-    ],
-    "synonyms": [
-      "stapler"
-    ],
-    "wordFamily": [
-      "staple",
-      "stapling",
-      "machine"
-    ],
-    "day": 100
-  },
-  {
-    "id": "supply request-phrase",
-    "word": "supply request",
-    "baseWord": "supply request",
-    "type": "phrase",
-    "meaning": "yêu cầu cung ứng vật tư, yêu cầu văn phòng phẩm",
-    "pronunciation": "/səˈplaɪ rɪˈkwest/",
-    "topic": "Office Administration",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please submit a supply request if you need more printer paper.",
-    "exampleVi": "Vui lòng gửi yêu cầu cung ứng vật tư nếu bạn cần thêm giấy in.",
-    "collocations": [
-      "submit a supply request",
-      "process a supply request",
-      "monthly supply request"
-    ],
-    "synonyms": [
-      "requisition request",
-      "materials order"
-    ],
-    "wordFamily": [
-      "supply",
-      "request",
-      "requests"
-    ],
-    "day": 100
+    "day": 100,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "whiteboard-noun",
@@ -3170,7 +3540,7 @@
     "type": "noun",
     "meaning": "bảng trắng, bảng viết bút lông",
     "pronunciation": "/ˈwaɪtbɔːrd/",
-    "topic": "Office Administration",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -3193,6 +3563,10 @@
       "white",
       "board"
     ],
-    "day": 100
+    "day": 100,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]

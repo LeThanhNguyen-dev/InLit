@@ -23,9 +23,13 @@ export default function Shadowing() {
   return (
     <div className="mx-auto max-w-4xl space-y-6">
       <header>
-        <h1 className="text-3xl font-black">Shadowing Mode</h1>
-        <p className="text-vault-muted">Workflow nghe-nhắc lại local-only: nhìn tiêu đề, tự đọc/nghe, sau đó mở transcript và đánh dấu câu khó.</p>
+        <h1 className="text-3xl font-black">Nghe chép chính tả</h1>
+        <p className="text-vault-muted">Rèn phản xạ nghe sâu và ghi nhớ từ vựng qua việc nghe từng câu, lật transcript và tự sửa lỗi.</p>
       </header>
+      <div className="grid gap-4 md:grid-cols-2">
+        <div className="subtle-card p-4"><p className="text-sm font-bold text-vault-muted">Chế độ luyện</p><p className="font-black text-vault-ink">Nghe chép từng câu</p></div>
+        <div className="subtle-card p-4"><p className="text-sm font-bold text-vault-muted">Phản xạ</p><p className="font-black text-vault-ink">Nghe lật từ và tự sửa lỗi</p></div>
+      </div>
       <div className="card p-6">
         <div className="flex items-center justify-between gap-4">
           <div>
@@ -39,8 +43,8 @@ export default function Shadowing() {
             <p className="text-3xl font-black leading-snug text-vault-ink">{current.text}</p>
           ) : (
             <div>
-              <p className="text-xl font-black text-vault-ink">Tự nói lại câu theo trí nhớ</p>
-              <p className="mt-2 text-vault-muted">Sau 2-3 giây hãy bấm hiện transcript.</p>
+              <p className="text-xl font-black text-vault-ink">Nghe, chép lại, rồi mở transcript để đối chiếu</p>
+              <p className="mt-2 text-vault-muted">Tập trung vào từ khóa, ending sounds và cụm từ TOEIC.</p>
             </div>
           )}
         </div>

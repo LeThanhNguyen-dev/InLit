@@ -6,7 +6,7 @@
     "type": "adjective",
     "meaning": "linh hoạt, nhanh nhẹn (phương pháp Agile)",
     "pronunciation": "/ˈædʒaɪl/",
-    "topic": "Project Management",
+    "topic": "Real Estate & Facilities",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -30,7 +30,254 @@
       "agility",
       "agilely"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "annual-claim-collocation",
+    "word": "annual claim",
+    "baseWord": "claim",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual claim",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual claim in the file before Friday.",
+    "exampleVi": "Vui long dua annual claim vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual claim",
+      "annual claim review",
+      "annual claim deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "claim"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "annual-coverage-collocation",
+    "word": "annual coverage",
+    "baseWord": "coverage",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual coverage",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual coverage in the file before Friday.",
+    "exampleVi": "Vui long dua annual coverage vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual coverage",
+      "annual coverage review",
+      "annual coverage deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "coverage"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "annual-customs-collocation",
+    "word": "annual customs",
+    "baseWord": "customs",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual customs",
+    "pronunciation": "",
+    "topic": "Project Management",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual customs in the file before Friday.",
+    "exampleVi": "Vui long dua annual customs vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual customs",
+      "annual customs review",
+      "annual customs deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "customs"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "annual-delivery-collocation",
+    "word": "annual delivery",
+    "baseWord": "delivery",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual delivery",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual delivery in the file before Friday.",
+    "exampleVi": "Vui long dua annual delivery vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual delivery",
+      "annual delivery review",
+      "annual delivery deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "delivery"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "annual-license-collocation",
+    "word": "annual license",
+    "baseWord": "license",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual license",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual license in the file before Friday.",
+    "exampleVi": "Vui long dua annual license vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual license",
+      "annual license review",
+      "annual license deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "license"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "annual-permit-collocation",
+    "word": "annual permit",
+    "baseWord": "permit",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual permit",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual permit in the file before Friday.",
+    "exampleVi": "Vui long dua annual permit vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual permit",
+      "annual permit review",
+      "annual permit deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "permit"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "annual-tariff-collocation",
+    "word": "annual tariff",
+    "baseWord": "tariff",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual tariff",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual tariff in the file before Friday.",
+    "exampleVi": "Vui long dua annual tariff vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual tariff",
+      "annual tariff review",
+      "annual tariff deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "tariff"
+    ],
+    "day": 86,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "backlog-noun",
@@ -39,7 +286,7 @@
     "type": "noun",
     "meaning": "danh sách công việc tồn đọng, việc chờ xử lý",
     "pronunciation": "/ˈbækˌlɔːg/",
-    "topic": "Project Management",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -63,7 +310,11 @@
       "backlogs",
       "backlog (v.)"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "constraint-noun",
@@ -72,7 +323,7 @@
     "type": "noun",
     "meaning": "sự ràng buộc, hạn chế",
     "pronunciation": "/kənˈstreɪnt/",
-    "topic": "Project Management",
+    "topic": "Business Events",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -96,7 +347,11 @@
       "constrained",
       "constraints"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "contingency-noun",
@@ -105,7 +360,7 @@
     "type": "noun",
     "meaning": "sự cố bất ngờ, trường hợp dự phòng",
     "pronunciation": "/kənˈtɪndʒənsi/",
-    "topic": "Project Management",
+    "topic": "Presentations",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -129,36 +384,11 @@
       "contingently",
       "contingencies"
     ],
-    "day": 86
-  },
-  {
-    "id": "critical path-phrase",
-    "word": "critical path",
-    "baseWord": "critical path",
-    "type": "phrase",
-    "meaning": "đường găng, chuỗi tác vụ quyết định thời gian dự án",
-    "pronunciation": "/ˈkrɪtɪkl pæθ/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Any delay on the critical path will push back the project end date.",
-    "exampleVi": "Bất kỳ sự chậm trễ nào trên đường găng sẽ lùi ngày kết thúc dự án.",
-    "collocations": [
-      "critical path analysis",
-      "critical path method"
-    ],
-    "synonyms": [
-      "critical chain"
-    ],
-    "wordFamily": [
-      "critical",
-      "path",
-      "paths"
-    ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "deliverable-noun",
@@ -167,7 +397,7 @@
     "type": "noun",
     "meaning": "sản phẩm bàn giao, kết quả bàn giao",
     "pronunciation": "/dɪˈlɪvərəbl/",
-    "topic": "Project Management",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -191,7 +421,11 @@
       "deliver",
       "delivery"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "dependency-noun",
@@ -200,7 +434,7 @@
     "type": "noun",
     "meaning": "sự phụ thuộc, tác vụ phụ thuộc",
     "pronunciation": "/dɪˈpendənsi/",
-    "topic": "Project Management",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -222,7 +456,11 @@
       "dependent",
       "dependence"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "feasibility-noun",
@@ -231,7 +469,7 @@
     "type": "noun",
     "meaning": "tính khả thi",
     "pronunciation": "/ˌfiːzəˈbɪləti/",
-    "topic": "Project Management",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -254,38 +492,11 @@
       "feasibility",
       "infeasible"
     ],
-    "day": 86
-  },
-  {
-    "id": "gantt chart-phrase",
-    "word": "gantt chart",
-    "baseWord": "gantt chart",
-    "type": "phrase",
-    "meaning": "biểu đồ Gantt, biểu đồ tiến độ dự án",
-    "pronunciation": "/ˈgænt tʃɑːrt/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "Use the Gantt chart to track task progress and milestones.",
-    "exampleVi": "Sử dụng biểu đồ Gantt để theo dõi tiến độ công việc và các mốc quan trọng.",
-    "collocations": [
-      "create a Gantt chart",
-      "Gantt chart software"
-    ],
-    "synonyms": [
-      "project schedule",
-      "bar chart"
-    ],
-    "wordFamily": [
-      "Gantt",
-      "chart",
-      "charts"
-    ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "kickoff-noun",
@@ -294,7 +505,7 @@
     "type": "noun",
     "meaning": "sự khởi động, buổi họp khởi động dự án",
     "pronunciation": "/ˈkɪkɔːf/",
-    "topic": "Project Management",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -317,99 +528,11 @@
       "kickoffs",
       "kick off"
     ],
-    "day": 86
-  },
-  {
-    "id": "project charter-phrase",
-    "word": "project charter",
-    "baseWord": "project charter",
-    "type": "phrase",
-    "meaning": "điều lệ dự án, quyết định thành lập dự án",
-    "pronunciation": "/ˈprɑːdʒekt ˈtʃɑːrtər/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The project charter formally defines the authority of the manager.",
-    "exampleVi": "Điều lệ dự án xác định chính thức quyền hạn của người quản lý.",
-    "collocations": [
-      "sign the project charter",
-      "approve the project charter"
-    ],
-    "synonyms": [
-      "project definition document"
-    ],
-    "wordFamily": [
-      "project",
-      "charter",
-      "charters"
-    ],
-    "day": 86
-  },
-  {
-    "id": "resource allocation-phrase",
-    "word": "resource allocation",
-    "baseWord": "resource allocation",
-    "type": "phrase",
-    "meaning": "sự phân bổ nguồn lực, tài nguyên",
-    "pronunciation": "/rɪˈsɔːrs ˌæləˈkeɪʃən/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Efficient resource allocation helped us finish the project under budget.",
-    "exampleVi": "Sự phân bổ nguồn lực hiệu quả đã giúp chúng tôi hoàn thành dự án dưới ngân sách.",
-    "collocations": [
-      "efficient resource allocation",
-      "resource allocation plan"
-    ],
-    "synonyms": [
-      "resource distribution",
-      "assignment"
-    ],
-    "wordFamily": [
-      "resource",
-      "allocate",
-      "allocation"
-    ],
-    "day": 86
-  },
-  {
-    "id": "risk mitigation-phrase",
-    "word": "risk mitigation",
-    "baseWord": "risk mitigation",
-    "type": "phrase",
-    "meaning": "sự giảm thiểu rủi ro",
-    "pronunciation": "/rɪsk ˌmɪtɪˈgəʃən/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "hard",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Our risk mitigation strategy includes backing up all data daily.",
-    "exampleVi": "Chiến lược giảm thiểu rủi ro của chúng tôi bao gồm sao lưu tất cả dữ liệu hàng ngày.",
-    "collocations": [
-      "risk mitigation strategy",
-      "effective risk mitigation",
-      "risk mitigation plan"
-    ],
-    "synonyms": [
-      "risk reduction",
-      "risk management"
-    ],
-    "wordFamily": [
-      "risk",
-      "mitigate",
-      "mitigation"
-    ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "scope-noun",
@@ -418,7 +541,7 @@
     "type": "noun",
     "meaning": "phạm vi, quy mô công việc",
     "pronunciation": "/skoʊp/",
-    "topic": "Project Management",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -442,7 +565,11 @@
       "scoping",
       "scope out"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "scrum-noun",
@@ -451,7 +578,7 @@
     "type": "noun",
     "meaning": "phương pháp quản lý dự án Scrum, họp nhanh hàng ngày",
     "pronunciation": "/skrʌm/",
-    "topic": "Project Management",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -473,7 +600,11 @@
       "scrumming",
       "scrum master"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "sprint-noun",
@@ -482,7 +613,7 @@
     "type": "noun",
     "meaning": "giai đoạn nước rút, chu kỳ làm việc ngắn",
     "pronunciation": "/sprɪnt/",
-    "topic": "Project Management",
+    "topic": "Supply Chain",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -505,40 +636,11 @@
       "sprinting",
       "sprinter"
     ],
-    "day": 86
-  },
-  {
-    "id": "status report-phrase",
-    "word": "status report",
-    "baseWord": "status report",
-    "type": "phrase",
-    "meaning": "báo cáo tình trạng, báo cáo tiến độ",
-    "pronunciation": "/ˈsteɪtəs rɪˈpɔːrt/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please submit your weekly status report by 5:00 PM on Friday.",
-    "exampleVi": "Vui lòng nộp báo cáo tình trạng hàng tuần của bạn trước 5:00 chiều thứ Sáu.",
-    "collocations": [
-      "weekly status report",
-      "monthly status report",
-      "submit a status report"
-    ],
-    "synonyms": [
-      "progress report",
-      "update"
-    ],
-    "wordFamily": [
-      "status",
-      "report",
-      "reports"
-    ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "timeline-noun",
@@ -547,7 +649,7 @@
     "type": "noun",
     "meaning": "tiến trình thời gian, mốc thời gian",
     "pronunciation": "/ˈtaɪmlaɪn/",
-    "topic": "Project Management",
+    "topic": "Workplace Issues",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -570,7 +672,11 @@
       "timelines",
       "timeline (v.)"
     ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "waterfall-noun",
@@ -579,7 +685,7 @@
     "type": "noun",
     "meaning": "quy trình thác nước, quy trình tuần tự",
     "pronunciation": "/ˈwɔːtərfɔːl/",
-    "topic": "Project Management",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -599,37 +705,11 @@
       "waterfalls",
       "waterfall process"
     ],
-    "day": 86
-  },
-  {
-    "id": "work breakdown structure-phrase",
-    "word": "work breakdown structure",
-    "baseWord": "work breakdown structure",
-    "type": "phrase",
-    "meaning": "cơ cấu phân chia công việc (WBS)",
-    "pronunciation": "/wɜːrk ˈbreɪkdaʊn ˈstrʌktʃər/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "We created a work breakdown structure to organize tasks hierarchically.",
-    "exampleVi": "Chúng tôi đã tạo ra một cơ cấu phân chia công việc để tổ chức các tác vụ theo phân cấp.",
-    "collocations": [
-      "detailed work breakdown structure",
-      "create a work breakdown structure"
-    ],
-    "synonyms": [
-      "task hierarchy",
-      "WBS"
-    ],
-    "wordFamily": [
-      "work",
-      "breakdown",
-      "structure"
-    ],
-    "day": 86
+    "day": 86,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
     "id": "align-verb",
@@ -638,7 +718,7 @@
     "type": "verb",
     "meaning": "căn chỉnh, đồng bộ, nhất quán",
     "pronunciation": "/əˈlaɪn/",
-    "topic": "Project Management",
+    "topic": "Office & Administration",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -662,7 +742,11 @@
       "aligning",
       "aligned"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
     "id": "alignment-noun",
@@ -671,7 +755,7 @@
     "type": "noun",
     "meaning": "sự căn chỉnh, sự đồng bộ nhất quán",
     "pronunciation": "/əˈlaɪnmənt/",
-    "topic": "Project Management",
+    "topic": "Meetings & Scheduling",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -695,7 +779,154 @@
       "aligning",
       "aligned"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "annual-maintenance-collocation",
+    "word": "annual maintenance",
+    "baseWord": "maintenance",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual maintenance",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual maintenance in the file before Friday.",
+    "exampleVi": "Vui long dua annual maintenance vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual maintenance",
+      "annual maintenance review",
+      "annual maintenance deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "maintenance"
+    ],
+    "day": 87,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-premium-collocation",
+    "word": "annual premium",
+    "baseWord": "premium",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual premium",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual premium in the file before Friday.",
+    "exampleVi": "Vui long dua annual premium vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual premium",
+      "annual premium review",
+      "annual premium deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "premium"
+    ],
+    "day": 87,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "annual-renovation-collocation",
+    "word": "annual renovation",
+    "baseWord": "renovation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual renovation",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "medium",
+    "level": "medium",
+    "partTags": [
+      "Part 5",
+      "Part 6",
+      "Part 7"
+    ],
+    "example": "Please include the annual renovation in the file before Friday.",
+    "exampleVi": "Vui long dua annual renovation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual renovation",
+      "annual renovation review",
+      "annual renovation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "renovation"
+    ],
+    "day": 87,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "annual-risk-collocation",
+    "word": "annual risk",
+    "baseWord": "risk",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual risk",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual risk in the file before Friday.",
+    "exampleVi": "Vui long dua annual risk vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual risk",
+      "annual risk review",
+      "annual risk deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "risk"
+    ],
+    "day": 87,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
   },
   {
     "id": "blocker-noun",
@@ -704,7 +935,7 @@
     "type": "noun",
     "meaning": "vật cản, chướng ngại (làm dừng công việc)",
     "pronunciation": "/ˈblɑːkər/",
-    "topic": "Project Management",
+    "topic": "Hotels & Accommodation",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -727,7 +958,11 @@
       "blocked",
       "blocking"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
   },
   {
     "id": "closure-noun",
@@ -736,7 +971,7 @@
     "type": "noun",
     "meaning": "sự khép lại, đóng cửa, kết thúc dự án",
     "pronunciation": "/ˈkloʊʒər/",
-    "topic": "Project Management",
+    "topic": "Restaurants & Dining",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -761,7 +996,11 @@
       "closed",
       "closing"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
   },
   {
     "id": "execute-verb",
@@ -770,7 +1009,7 @@
     "type": "verb",
     "meaning": "thực hiện, thi hành, ký kết",
     "pronunciation": "/ˈeksɪkjuːt/",
-    "topic": "Project Management",
+    "topic": "Customer Service",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -794,7 +1033,11 @@
       "executable",
       "executive"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
   },
   {
     "id": "execution-noun",
@@ -803,7 +1046,7 @@
     "type": "noun",
     "meaning": "sự thực hiện, sự thi hành",
     "pronunciation": "/ˌeksɪˈkjuːʃən/",
-    "topic": "Project Management",
+    "topic": "Sales & Retail",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -827,7 +1070,11 @@
       "executable",
       "executive"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
   },
   {
     "id": "expediter-noun",
@@ -836,7 +1083,7 @@
     "type": "noun",
     "meaning": "nhân viên thúc tiến, người theo dõi tiến độ",
     "pronunciation": "/ˈekspədaɪtər/",
-    "topic": "Project Management",
+    "topic": "Marketing & Advertising",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -857,7 +1104,11 @@
       "expeditions",
       "expeditious"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
   },
   {
     "id": "handover-noun",
@@ -866,7 +1117,7 @@
     "type": "noun",
     "meaning": "sự bàn giao công việc, dự án",
     "pronunciation": "/ˈhændoʊvər/",
-    "topic": "Project Management",
+    "topic": "Finance & Banking",
     "frequency": "medium",
     "level": "easy",
     "partTags": [
@@ -889,7 +1140,11 @@
       "hands",
       "hand over"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "impediment-noun",
@@ -898,7 +1153,7 @@
     "type": "noun",
     "meaning": "sự trở ngại, chướng ngại vật",
     "pronunciation": "/ɪmˈpedɪmənt/",
-    "topic": "Project Management",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -922,7 +1177,11 @@
       "impediments",
       "impeding"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "initiate-verb",
@@ -931,7 +1190,7 @@
     "type": "verb",
     "meaning": "khởi xướng, bắt đầu",
     "pronunciation": "/ɪˈnɪʃieɪt/",
-    "topic": "Project Management",
+    "topic": "Contracts & Legal",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -956,7 +1215,11 @@
       "initiator",
       "initiated"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "initiation-noun",
@@ -965,7 +1228,7 @@
     "type": "noun",
     "meaning": "sự khởi đầu, sự khởi xướng",
     "pronunciation": "/ɪˌnɪʃiˈeɪʃən/",
-    "topic": "Project Management",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -989,7 +1252,11 @@
       "initiative",
       "initiator"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "methodological-adjective",
@@ -998,7 +1265,7 @@
     "type": "adjective",
     "meaning": "thuộc về phương pháp luận",
     "pronunciation": "/ˌmeθədəˈlɑːdʒɪkl/",
-    "topic": "Project Management",
+    "topic": "Shipping & Logistics",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1019,7 +1286,11 @@
       "methodologically",
       "methodologies"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "methodology-noun",
@@ -1028,7 +1299,7 @@
     "type": "noun",
     "meaning": "hệ phương pháp, phương pháp luận",
     "pronunciation": "/ˌmeθəˈdɑːlədʒi/",
-    "topic": "Project Management",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -1052,38 +1323,11 @@
       "methodologies",
       "methodologist"
     ],
-    "day": 87
-  },
-  {
-    "id": "permanent-agenda-phrase",
-    "word": "permanent agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve project management: permanent agenda",
-    "pronunciation": "",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "Please review the permanent agenda before the next business day.",
-    "exampleVi": "Vui long xem lai permanent agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "permanent agenda",
-      "permanent agenda process",
-      "permanent agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "procured-adjective",
@@ -1092,7 +1336,7 @@
     "type": "adjective",
     "meaning": "được mua sắm, được thu mua",
     "pronunciation": "/prəˈkjʊrd/",
-    "topic": "Project Management",
+    "topic": "Purchasing & Procurement",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1114,69 +1358,11 @@
       "procurement",
       "procures"
     ],
-    "day": 87
-  },
-  {
-    "id": "project manager-phrase",
-    "word": "project manager",
-    "baseWord": "project manager",
-    "type": "phrase",
-    "meaning": "người quản lý dự án",
-    "pronunciation": "/ˈprɑːdʒekt ˈmænɪdʒər/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The project manager will assign roles to the team members.",
-    "exampleVi": "Người quản lý dự án sẽ phân công vai trò cho các thành viên trong nhóm.",
-    "collocations": [
-      "senior project manager",
-      "certified project manager"
-    ],
-    "synonyms": [
-      "project lead",
-      "director"
-    ],
-    "wordFamily": [
-      "project",
-      "manage",
-      "manager"
-    ],
-    "day": 87
-  },
-  {
-    "id": "scheduled-agenda-phrase",
-    "word": "scheduled agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve project management: scheduled agenda",
-    "pronunciation": "",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "Please review the scheduled agenda before the next business day.",
-    "exampleVi": "Vui long xem lai scheduled agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "scheduled agenda",
-      "scheduled agenda process",
-      "scheduled agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "supervise-verb",
@@ -1185,7 +1371,7 @@
     "type": "verb",
     "meaning": "giám sát, quản lý công việc",
     "pronunciation": "/ˈsuːpərvaɪz/",
-    "topic": "Project Management",
+    "topic": "Technology & IT",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1209,7 +1395,11 @@
       "supervisor",
       "supervisory"
     ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "supervision-noun",
@@ -1218,7 +1408,7 @@
     "type": "noun",
     "meaning": "sự giám sát, quản lý",
     "pronunciation": "/ˌsuːpərˈvɪʒən/",
-    "topic": "Project Management",
+    "topic": "Office Equipment",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1243,38 +1433,11 @@
       "supervisor",
       "supervisory"
     ],
-    "day": 87
-  },
-  {
-    "id": "temporary-agenda-phrase",
-    "word": "temporary agenda",
-    "baseWord": "agenda",
-    "type": "phrase",
-    "meaning": "cum tu TOEIC ve project management: temporary agenda",
-    "pronunciation": "",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 5",
-      "Part 6",
-      "Part 7"
-    ],
-    "example": "Please review the temporary agenda before the next business day.",
-    "exampleVi": "Vui long xem lai temporary agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "temporary agenda",
-      "temporary agenda process",
-      "temporary agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 87
+    "day": 87,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
     "id": "allocator-noun",
@@ -1283,7 +1446,7 @@
     "type": "noun",
     "meaning": "người phân bổ, cơ chế phân phối tài nguyên",
     "pronunciation": "/ˈæləkeɪtər/",
-    "topic": "Project Management",
+    "topic": "Real Estate & Facilities",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1304,7 +1467,11 @@
       "allocation",
       "allocatable"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
   },
   {
     "id": "assignee-noun",
@@ -1313,7 +1480,7 @@
     "type": "noun",
     "meaning": "người được giao nhiệm vụ, người được ủy nhiệm",
     "pronunciation": "/əˌsaɪˈniː/",
-    "topic": "Project Management",
+    "topic": "Health & Safety",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1335,7 +1502,11 @@
       "assignment",
       "assignor"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
   },
   {
     "id": "assignor-noun",
@@ -1344,7 +1515,7 @@
     "type": "noun",
     "meaning": "người giao nhiệm vụ, người ủy nhiệm",
     "pronunciation": "/əˌsaɪˈnɔːr/",
-    "topic": "Project Management",
+    "topic": "Training & Development",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1365,7 +1536,11 @@
       "assignment",
       "assignee"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
   },
   {
     "id": "buffer-noun",
@@ -1398,7 +1573,11 @@
       "buffered",
       "buffering"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
   },
   {
     "id": "dashboard-noun",
@@ -1407,7 +1586,7 @@
     "type": "noun",
     "meaning": "bảng điều khiển thông tin hiển thị tiến độ",
     "pronunciation": "/ˈdæʃbɔːrd/",
-    "topic": "Project Management",
+    "topic": "Quality & Standards",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1429,7 +1608,11 @@
       "dashboards",
       "dashboard widget"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
   },
   {
     "id": "deviate-verb",
@@ -1438,7 +1621,7 @@
     "type": "verb",
     "meaning": "chệch hướng, làm sai lệch kế hoạch",
     "pronunciation": "/ˈdiːvieɪt/",
-    "topic": "Project Management",
+    "topic": "Research & Reports",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1461,7 +1644,11 @@
       "deviated",
       "deviating"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
   },
   {
     "id": "deviation-noun",
@@ -1470,7 +1657,7 @@
     "type": "noun",
     "meaning": "sự chệch hướng, sai lệch",
     "pronunciation": "/ˌdiːviˈeɪʃən/",
-    "topic": "Project Management",
+    "topic": "Environment & Sustainability",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1494,7 +1681,11 @@
       "deviating",
       "deviated"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
   },
   {
     "id": "forecast-verb",
@@ -1503,7 +1694,7 @@
     "type": "verb",
     "meaning": "dự báo, dự đoán (chi phí, tiến độ)",
     "pronunciation": "/ˈfɔːrkæst/",
-    "topic": "Project Management",
+    "topic": "Negotiations & Deals",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1528,7 +1719,11 @@
       "forecaster",
       "forecasting"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
     "id": "monitor-verb",
@@ -1537,7 +1732,7 @@
     "type": "verb",
     "meaning": "giám sát, theo dõi",
     "pronunciation": "/ˈmɑːnɪtər/",
-    "topic": "Project Management",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1562,7 +1757,11 @@
       "monitored",
       "monitoring"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
   },
   {
     "id": "overrun-noun",
@@ -1571,7 +1770,7 @@
     "type": "noun",
     "meaning": "sự vượt quá giới hạn (chi phí, thời gian)",
     "pronunciation": "/ˈoʊvərʌn/",
-    "topic": "Project Management",
+    "topic": "Business Events",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1594,7 +1793,11 @@
       "overrunning",
       "overruns"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
     "id": "projection-noun",
@@ -1603,7 +1806,7 @@
     "type": "noun",
     "meaning": "bản dự phóng, sự dự báo",
     "pronunciation": "/prəˈdʒekʃən/",
-    "topic": "Project Management",
+    "topic": "Presentations",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -1627,7 +1830,11 @@
       "projected",
       "projecting"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
   },
   {
     "id": "reforecast-verb",
@@ -1636,7 +1843,7 @@
     "type": "verb",
     "meaning": "dự báo lại, lập lại dự toán",
     "pronunciation": "/ˌriːˈfɔːrkæst/",
-    "topic": "Project Management",
+    "topic": "Email & Correspondence",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1658,7 +1865,11 @@
       "reforecasted",
       "reforecasting"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
     "id": "slack-noun",
@@ -1667,7 +1878,7 @@
     "type": "noun",
     "meaning": "thời gian dự phòng, thời gian chậm trễ cho phép",
     "pronunciation": "/slæk/",
-    "topic": "Project Management",
+    "topic": "Data & Analysis",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -1690,7 +1901,11 @@
       "slacked",
       "slackness"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "taskload-noun",
@@ -1699,7 +1914,7 @@
     "type": "noun",
     "meaning": "khối lượng công việc tác vụ, số lượng nhiệm vụ",
     "pronunciation": "/ˈtæskloʊd/",
-    "topic": "Project Management",
+    "topic": "Product Development",
     "frequency": "low",
     "level": "medium",
     "partTags": [
@@ -1721,7 +1936,11 @@
       "tasks",
       "tasking"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "timesheet-noun",
@@ -1730,7 +1949,7 @@
     "type": "noun",
     "meaning": "bảng ghi giờ làm việc, bảng chấm công",
     "pronunciation": "/ˈtaɪmʃiːt/",
-    "topic": "Project Management",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1753,7 +1972,11 @@
       "timesheets",
       "timesheet record"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "track-verb",
@@ -1762,7 +1985,7 @@
     "type": "verb",
     "meaning": "theo dõi tiến độ, bám sát",
     "pronunciation": "/træk/",
-    "topic": "Project Management",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1787,7 +2010,11 @@
       "tracked",
       "tracking"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "tracker-noun",
@@ -1796,7 +2023,7 @@
     "type": "noun",
     "meaning": "công cụ theo dõi, thiết bị theo dõi",
     "pronunciation": "/ˈtrækər/",
-    "topic": "Project Management",
+    "topic": "Public Relations",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -1819,7 +2046,11 @@
       "tracked",
       "tracking"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "underrun-noun",
@@ -1828,7 +2059,7 @@
     "type": "noun",
     "meaning": "sự dưới mức giới hạn, chi tiêu dưới ngân sách",
     "pronunciation": "/ˈʌndər-rʌn/",
-    "topic": "Project Management",
+    "topic": "Supply Chain",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -1848,7 +2079,11 @@
       "underruns",
       "underrun (v.)"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "variance-noun",
@@ -1857,7 +2092,7 @@
     "type": "noun",
     "meaning": "độ lệch, sự biến động, sự khác biệt",
     "pronunciation": "/ˈværiəns/",
-    "topic": "Project Management",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1881,7 +2116,11 @@
       "variation",
       "variant"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "variant-noun",
@@ -1890,7 +2129,7 @@
     "type": "noun",
     "meaning": "biến thể, phương án khác",
     "pronunciation": "/ˈværiənt/",
-    "topic": "Project Management",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -1913,67 +2152,428 @@
       "variance",
       "variable"
     ],
-    "day": 88
+    "day": 88,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   },
   {
-    "id": "change management-phrase",
-    "word": "change management",
-    "baseWord": "change management",
+    "id": "annual-approval-collocation",
+    "word": "annual approval",
+    "baseWord": "approval",
     "type": "phrase",
-    "meaning": "quy trình quản lý sự thay đổi",
-    "pronunciation": "/tʃeɪndʒ ˈmænɪdʒmənt/",
-    "topic": "Project Management",
+    "meaning": "collocation TOEIC 700: annual approval",
+    "pronunciation": "",
+    "topic": "Office & Administration",
     "frequency": "medium",
-    "level": "hard",
+    "level": "easy",
     "partTags": [
+      "Part 3",
       "Part 7"
     ],
-    "example": "Good change management minimizes disruptions to the team.",
-    "exampleVi": "Quản lý sự thay đổi tốt sẽ giảm thiểu sự gián đoạn cho nhóm.",
+    "example": "Please include the annual approval in the file before Friday.",
+    "exampleVi": "Vui long dua annual approval vao ho so truoc thu Sau.",
     "collocations": [
-      "change management process",
-      "change management system"
+      "annual approval",
+      "annual approval review",
+      "annual approval deadline"
     ],
     "synonyms": [
-      "configuration management"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "change",
-      "manage",
-      "management"
+      "annual",
+      "approval"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Office & Administration"
   },
   {
-    "id": "change request-phrase",
-    "word": "change request",
-    "baseWord": "change request",
+    "id": "annual-authorization-collocation",
+    "word": "annual authorization",
+    "baseWord": "authorization",
     "type": "phrase",
-    "meaning": "yêu cầu thay đổi (trong dự án)",
-    "pronunciation": "/tʃeɪndʒ rɪˈkwest/",
-    "topic": "Project Management",
+    "meaning": "collocation TOEIC 700: annual authorization",
+    "pronunciation": "",
+    "topic": "Meetings & Scheduling",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "The client submitted a formal change request to add a login page.",
-    "exampleVi": "Khách hàng đã nộp một yêu cầu thay đổi chính thức để thêm một trang đăng nhập.",
+    "example": "Please include the annual authorization in the file before Friday.",
+    "exampleVi": "Vui long dua annual authorization vao ho so truoc thu Sau.",
     "collocations": [
-      "submit a change request",
-      "approve a change request",
-      "formal change request"
+      "annual authorization",
+      "annual authorization review",
+      "annual authorization deadline"
     ],
     "synonyms": [
-      "change order"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "change",
-      "request",
-      "requests"
+      "annual",
+      "authorization"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Meetings & Scheduling"
+  },
+  {
+    "id": "annual-certificate-collocation",
+    "word": "annual certificate",
+    "baseWord": "certificate",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual certificate",
+    "pronunciation": "",
+    "topic": "Business Communication",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual certificate in the file before Friday.",
+    "exampleVi": "Vui long dua annual certificate vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual certificate",
+      "annual certificate review",
+      "annual certificate deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "certificate"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Communication"
+  },
+  {
+    "id": "annual-database-collocation",
+    "word": "annual database",
+    "baseWord": "database",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual database",
+    "pronunciation": "",
+    "topic": "Human Resources",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual database in the file before Friday.",
+    "exampleVi": "Vui long dua annual database vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual database",
+      "annual database review",
+      "annual database deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "database"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Human Resources"
+  },
+  {
+    "id": "annual-equipment-collocation",
+    "word": "annual equipment",
+    "baseWord": "equipment",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual equipment",
+    "pronunciation": "",
+    "topic": "Recruitment & Jobs",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual equipment in the file before Friday.",
+    "exampleVi": "Vui long dua annual equipment vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual equipment",
+      "annual equipment review",
+      "annual equipment deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "equipment"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Recruitment & Jobs"
+  },
+  {
+    "id": "annual-facility-collocation",
+    "word": "annual facility",
+    "baseWord": "facility",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual facility",
+    "pronunciation": "",
+    "topic": "Travel & Transportation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual facility in the file before Friday.",
+    "exampleVi": "Vui long dua annual facility vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual facility",
+      "annual facility review",
+      "annual facility deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "facility"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Travel & Transportation"
+  },
+  {
+    "id": "annual-lease-collocation",
+    "word": "annual lease",
+    "baseWord": "lease",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual lease",
+    "pronunciation": "",
+    "topic": "Hotels & Accommodation",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual lease in the file before Friday.",
+    "exampleVi": "Vui long dua annual lease vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual lease",
+      "annual lease review",
+      "annual lease deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "lease"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Hotels & Accommodation"
+  },
+  {
+    "id": "annual-notice-collocation",
+    "word": "annual notice",
+    "baseWord": "notice",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual notice",
+    "pronunciation": "",
+    "topic": "Restaurants & Dining",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual notice in the file before Friday.",
+    "exampleVi": "Vui long dua annual notice vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual notice",
+      "annual notice review",
+      "annual notice deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "notice"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Restaurants & Dining"
+  },
+  {
+    "id": "annual-property-collocation",
+    "word": "annual property",
+    "baseWord": "property",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual property",
+    "pronunciation": "",
+    "topic": "Customer Service",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual property in the file before Friday.",
+    "exampleVi": "Vui long dua annual property vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual property",
+      "annual property review",
+      "annual property deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "property"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Customer Service"
+  },
+  {
+    "id": "annual-security-collocation",
+    "word": "annual security",
+    "baseWord": "security",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual security",
+    "pronunciation": "",
+    "topic": "Sales & Retail",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual security in the file before Friday.",
+    "exampleVi": "Vui long dua annual security vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual security",
+      "annual security review",
+      "annual security deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "security"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Sales & Retail"
+  },
+  {
+    "id": "annual-software-collocation",
+    "word": "annual software",
+    "baseWord": "software",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual software",
+    "pronunciation": "",
+    "topic": "Marketing & Advertising",
+    "frequency": "high",
+    "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 4",
+      "Part 7"
+    ],
+    "example": "Please include the annual software in the file before Friday.",
+    "exampleVi": "Vui long dua annual software vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual software",
+      "annual software review",
+      "annual software deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "software"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Marketing & Advertising"
+  },
+  {
+    "id": "annual-tenant-collocation",
+    "word": "annual tenant",
+    "baseWord": "tenant",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual tenant",
+    "pronunciation": "",
+    "topic": "Finance & Banking",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual tenant in the file before Friday.",
+    "exampleVi": "Vui long dua annual tenant vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual tenant",
+      "annual tenant review",
+      "annual tenant deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "tenant"
+    ],
+    "day": 89,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Finance & Banking"
   },
   {
     "id": "constrain-verb",
@@ -1982,7 +2582,7 @@
     "type": "verb",
     "meaning": "hạn chế, bắt buộc, kìm hãm",
     "pronunciation": "/kənˈstreɪn/",
-    "topic": "Project Management",
+    "topic": "Accounting & Auditing",
     "frequency": "medium",
     "level": "medium",
     "partTags": [
@@ -2006,7 +2606,11 @@
       "constrained",
       "constraining"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Accounting & Auditing"
   },
   {
     "id": "constrained-adjective",
@@ -2015,7 +2619,7 @@
     "type": "adjective",
     "meaning": "bị hạn chế, bị ràng buộc",
     "pronunciation": "/kənˈstreɪnd/",
-    "topic": "Project Management",
+    "topic": "Contracts & Legal",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2039,7 +2643,11 @@
       "constraint",
       "constraining"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Contracts & Legal"
   },
   {
     "id": "contingent-adjective",
@@ -2048,7 +2656,7 @@
     "type": "adjective",
     "meaning": "phụ thuộc vào, tùy thuộc vào tình huống",
     "pronunciation": "/kənˈtɪndʒənt/",
-    "topic": "Project Management",
+    "topic": "Insurance & Risk",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2071,7 +2679,11 @@
       "contingently",
       "contingents"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Insurance & Risk"
   },
   {
     "id": "contingently-adverb",
@@ -2080,7 +2692,7 @@
     "type": "adverb",
     "meaning": "một cách tùy thuộc, ngẫu nhiên",
     "pronunciation": "/kənˈtɪndʒəntli/",
-    "topic": "Project Management",
+    "topic": "Shipping & Logistics",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2100,95 +2712,11 @@
       "contingency",
       "contingents"
     ],
-    "day": 89
-  },
-  {
-    "id": "deliverable items-phrase",
-    "word": "deliverable items",
-    "baseWord": "deliverable items",
-    "type": "phrase",
-    "meaning": "các hạng mục bàn giao",
-    "pronunciation": "/dɪˈlɪvərəbl ˈaɪtəmz/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The contract outlines all the deliverable items and their deadlines.",
-    "exampleVi": "Hợp đồng phác thảo tất cả các hạng mục bàn giao và thời hạn của chúng.",
-    "collocations": [
-      "list of deliverable items",
-      "finalize deliverable items"
-    ],
-    "synonyms": [
-      "deliverables"
-    ],
-    "wordFamily": [
-      "deliver",
-      "deliverable",
-      "items"
-    ],
-    "day": 89
-  },
-  {
-    "id": "earned value-phrase",
-    "word": "earned value",
-    "baseWord": "earned value",
-    "type": "phrase",
-    "meaning": "giá trị kiếm được, giá trị thu được (phương pháp EVM)",
-    "pronunciation": "/ɜːrnd ˈvæljuː/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "We use earned value management to measure schedule and cost performance.",
-    "exampleVi": "Chúng tôi sử dụng quản lý giá trị kiếm được để đo lường hiệu suất lịch trình và chi phí.",
-    "collocations": [
-      "earned value management",
-      "earned value analysis"
-    ],
-    "synonyms": [
-      "EVM"
-    ],
-    "wordFamily": [
-      "earn",
-      "earned",
-      "value"
-    ],
-    "day": 89
-  },
-  {
-    "id": "feasibility study-phrase",
-    "word": "feasibility study",
-    "baseWord": "feasibility study",
-    "type": "phrase",
-    "meaning": "nghiên cứu khả thi, khảo sát khả thi",
-    "pronunciation": "/ˌfiːzəˈbɪləti ˈstʌdi/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The consultancy conducted a feasibility study for the new railway route.",
-    "exampleVi": "Công ty tư vấn đã thực hiện nghiên cứu khả thi cho tuyến đường sắt mới.",
-    "collocations": [
-      "conduct a feasibility study",
-      "detailed feasibility study"
-    ],
-    "synonyms": [
-      "viability study"
-    ],
-    "wordFamily": [
-      "feasible",
-      "feasibility",
-      "study"
-    ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Shipping & Logistics"
   },
   {
     "id": "feasible-adjective",
@@ -2197,7 +2725,7 @@
     "type": "adjective",
     "meaning": "khả thi, có thể thực hiện được",
     "pronunciation": "/ˈfiːzəbl/",
-    "topic": "Project Management",
+    "topic": "Manufacturing & Production",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -2221,7 +2749,11 @@
       "infeasible",
       "feasibly"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Manufacturing & Production"
   },
   {
     "id": "infeasible-adjective",
@@ -2230,7 +2762,7 @@
     "type": "adjective",
     "meaning": "không khả thi, không thể thực hiện được",
     "pronunciation": "/ɪnˈfiːzəbl/",
-    "topic": "Project Management",
+    "topic": "Purchasing & Procurement",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2253,97 +2785,11 @@
       "feasibility",
       "infeasibly"
     ],
-    "day": 89
-  },
-  {
-    "id": "kickoff meeting-phrase",
-    "word": "kickoff meeting",
-    "baseWord": "kickoff meeting",
-    "type": "phrase",
-    "meaning": "cuộc họp khởi động dự án",
-    "pronunciation": "/ˈkɪkɔːf ˈmiːtɪŋ/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 4",
-      "Part 7"
-    ],
-    "example": "All stakeholders are invited to attend the project kickoff meeting.",
-    "exampleVi": "Tất cả các bên liên quan được mời tham dự cuộc họp khởi động dự án.",
-    "collocations": [
-      "hold a kickoff meeting",
-      "attend a kickoff meeting"
-    ],
-    "synonyms": [
-      "launch meeting"
-    ],
-    "wordFamily": [
-      "kick",
-      "off",
-      "meeting"
-    ],
-    "day": 89
-  },
-  {
-    "id": "milestone payment-phrase",
-    "word": "milestone payment",
-    "baseWord": "milestone payment",
-    "type": "phrase",
-    "meaning": "thanh toán theo giai đoạn, thanh toán khi đạt mốc",
-    "pronunciation": "/ˈmaɪlstoʊn ˈpeɪmənt/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "The contract details a milestone payment schedule based on delivery.",
-    "exampleVi": "Hợp đồng nêu chi tiết lịch trình thanh toán theo giai đoạn dựa trên việc bàn giao.",
-    "collocations": [
-      "receive milestone payments",
-      "milestone payment schedule"
-    ],
-    "synonyms": [
-      "progress payment"
-    ],
-    "wordFamily": [
-      "milestone",
-      "pay",
-      "payment"
-    ],
-    "day": 89
-  },
-  {
-    "id": "project lifecycle-phrase",
-    "word": "project lifecycle",
-    "baseWord": "project lifecycle",
-    "type": "phrase",
-    "meaning": "vòng đời dự án",
-    "pronunciation": "/ˈprɑːdʒekt ˈlaɪfsaɪkl/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "We are currently in the execution phase of the project lifecycle.",
-    "exampleVi": "Chúng tôi hiện đang ở giai đoạn thực hiện của vòng đời dự án.",
-    "collocations": [
-      "stages of project lifecycle",
-      "manage project lifecycle"
-    ],
-    "synonyms": [
-      "project cycle"
-    ],
-    "wordFamily": [
-      "project",
-      "life",
-      "lifecycle"
-    ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Purchasing & Procurement"
   },
   {
     "id": "reallocate-verb",
@@ -2352,7 +2798,7 @@
     "type": "verb",
     "meaning": "phân bổ lại (tài nguyên, ngân sách)",
     "pronunciation": "/ˌriːˈæləkeɪt/",
-    "topic": "Project Management",
+    "topic": "Technology & IT",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2375,7 +2821,11 @@
       "reallocation",
       "allocated"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Technology & IT"
   },
   {
     "id": "reallocation-noun",
@@ -2384,7 +2834,7 @@
     "type": "noun",
     "meaning": "sự phân bổ lại",
     "pronunciation": "/ˌriːˌæləˈkeɪʃən/",
-    "topic": "Project Management",
+    "topic": "Office Equipment",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2406,222 +2856,462 @@
       "reallocate",
       "allocated"
     ],
-    "day": 89
+    "day": 89,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Office Equipment"
   },
   {
-    "id": "risk assessment-phrase",
-    "word": "risk assessment",
-    "baseWord": "risk assessment",
+    "id": "annual-analysis-collocation",
+    "word": "annual analysis",
+    "baseWord": "analysis",
     "type": "phrase",
-    "meaning": "sự đánh giá rủi ro",
-    "pronunciation": "/rɪsk əˈsesmənt/",
+    "meaning": "collocation TOEIC 700: annual analysis",
+    "pronunciation": "",
+    "topic": "Real Estate & Facilities",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual analysis in the file before Friday.",
+    "exampleVi": "Vui long dua annual analysis vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual analysis",
+      "annual analysis review",
+      "annual analysis deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "analysis"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Real Estate & Facilities"
+  },
+  {
+    "id": "annual-confirmation-collocation",
+    "word": "annual confirmation",
+    "baseWord": "confirmation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual confirmation",
+    "pronunciation": "",
+    "topic": "Health & Safety",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
+      "Part 3",
+      "Part 5",
+      "Part 7"
+    ],
+    "example": "Please include the annual confirmation in the file before Friday.",
+    "exampleVi": "Vui long dua annual confirmation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual confirmation",
+      "annual confirmation review",
+      "annual confirmation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "confirmation"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Health & Safety"
+  },
+  {
+    "id": "annual-finding-collocation",
+    "word": "annual finding",
+    "baseWord": "finding",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual finding",
+    "pronunciation": "",
+    "topic": "Training & Development",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual finding in the file before Friday.",
+    "exampleVi": "Vui long dua annual finding vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual finding",
+      "annual finding review",
+      "annual finding deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "finding"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Training & Development"
+  },
+  {
+    "id": "annual-negotiation-collocation",
+    "word": "annual negotiation",
+    "baseWord": "negotiation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual negotiation",
+    "pronunciation": "",
     "topic": "Project Management",
     "frequency": "high",
     "level": "medium",
+    "partTags": [
+      "Part 3",
+      "Part 7"
+    ],
+    "example": "Please include the annual negotiation in the file before Friday.",
+    "exampleVi": "Vui long dua annual negotiation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual negotiation",
+      "annual negotiation review",
+      "annual negotiation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "negotiation"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Project Management"
+  },
+  {
+    "id": "annual-recommendation-collocation",
+    "word": "annual recommendation",
+    "baseWord": "recommendation",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual recommendation",
+    "pronunciation": "",
+    "topic": "Quality & Standards",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual recommendation in the file before Friday.",
+    "exampleVi": "Vui long dua annual recommendation vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual recommendation",
+      "annual recommendation review",
+      "annual recommendation deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "recommendation"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Quality & Standards"
+  },
+  {
+    "id": "annual-request-collocation",
+    "word": "annual request",
+    "baseWord": "request",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual request",
+    "pronunciation": "",
+    "topic": "Research & Reports",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 1",
+      "Part 3",
+      "Part 5"
+    ],
+    "example": "Please include the annual request in the file before Friday.",
+    "exampleVi": "Vui long dua annual request vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual request",
+      "annual request review",
+      "annual request deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "request"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Research & Reports"
+  },
+  {
+    "id": "annual-research-collocation",
+    "word": "annual research",
+    "baseWord": "research",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual research",
+    "pronunciation": "",
+    "topic": "Environment & Sustainability",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual research in the file before Friday.",
+    "exampleVi": "Vui long dua annual research vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual research",
+      "annual research review",
+      "annual research deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "research"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Environment & Sustainability"
+  },
+  {
+    "id": "annual-response-collocation",
+    "word": "annual response",
+    "baseWord": "response",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual response",
+    "pronunciation": "",
+    "topic": "Negotiations & Deals",
+    "frequency": "high",
+    "level": "easy",
     "partTags": [
       "Part 5",
       "Part 7"
     ],
-    "example": "The safety officer conducted a thorough risk assessment of the plant.",
-    "exampleVi": "Nhân viên an toàn đã tiến hành đánh giá rủi ro kỹ lưỡng đối với nhà máy.",
+    "example": "Please include the annual response in the file before Friday.",
+    "exampleVi": "Vui long dua annual response vao ho so truoc thu Sau.",
     "collocations": [
-      "conduct a risk assessment",
-      "annual risk assessment"
+      "annual response",
+      "annual response review",
+      "annual response deadline"
     ],
     "synonyms": [
-      "risk analysis",
-      "risk evaluation"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "risk",
-      "assess",
-      "assessment"
+      "annual",
+      "response"
     ],
-    "day": 89
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Negotiations & Deals"
   },
   {
-    "id": "scope creep-phrase",
-    "word": "scope creep",
-    "baseWord": "scope creep",
+    "id": "annual-review-collocation",
+    "word": "annual review",
+    "baseWord": "review",
     "type": "phrase",
-    "meaning": "sự phình to phạm vi dự án, thay đổi phạm vi mất kiểm soát",
-    "pronunciation": "/skoʊp kriːp/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "To avoid scope creep, all changes must go through a formal approval process.",
-    "exampleVi": "Để tránh việc phạm vi dự án phình to mất kiểm soát, tất cả các thay đổi phải thông qua quy trình phê duyệt chính thức.",
-    "collocations": [
-      "prevent scope creep",
-      "experience scope creep"
-    ],
-    "synonyms": [
-      "requirement creep"
-    ],
-    "wordFamily": [
-      "scope",
-      "creep",
-      "creeping"
-    ],
-    "day": 89
-  },
-  {
-    "id": "scrum master-phrase",
-    "word": "scrum master",
-    "baseWord": "scrum master",
-    "type": "phrase",
-    "meaning": "người điều phối Scrum, trưởng nhóm Scrum",
-    "pronunciation": "/skrʌm ˈmæstər/",
-    "topic": "Project Management",
+    "meaning": "collocation TOEIC 700: annual review",
+    "pronunciation": "",
+    "topic": "Global Trade",
     "frequency": "high",
     "level": "medium",
     "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual review in the file before Friday.",
+    "exampleVi": "Vui long dua annual review vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual review",
+      "annual review review",
+      "annual review deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "review"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Global Trade"
+  },
+  {
+    "id": "annual-settlement-collocation",
+    "word": "annual settlement",
+    "baseWord": "settlement",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual settlement",
+    "pronunciation": "",
+    "topic": "Business Events",
+    "frequency": "medium",
+    "level": "easy",
+    "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "The Scrum Master is responsible for removing blockers for the developers.",
-    "exampleVi": "Trưởng nhóm Scrum có trách nhiệm loại bỏ các chướng ngại cho lập trình viên.",
+    "example": "Please include the annual settlement in the file before Friday.",
+    "exampleVi": "Vui long dua annual settlement vao ho so truoc thu Sau.",
     "collocations": [
-      "certified Scrum Master",
-      "hire a Scrum Master"
+      "annual settlement",
+      "annual settlement review",
+      "annual settlement deadline"
     ],
     "synonyms": [
-      "agile coach"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "scrum",
-      "master",
-      "masters"
+      "annual",
+      "settlement"
     ],
-    "day": 89
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Business Events"
   },
   {
-    "id": "sprint planning-phrase",
-    "word": "sprint planning",
-    "baseWord": "sprint planning",
+    "id": "annual-summary-collocation",
+    "word": "annual summary",
+    "baseWord": "summary",
     "type": "phrase",
-    "meaning": "buổi lập kế hoạch sprint, lập kế hoạch chu kỳ",
-    "pronunciation": "/sprɪnt ˈplænɪŋ/",
-    "topic": "Project Management",
+    "meaning": "collocation TOEIC 700: annual summary",
+    "pronunciation": "",
+    "topic": "Presentations",
+    "frequency": "high",
+    "level": "easy",
+    "partTags": [
+      "Part 7"
+    ],
+    "example": "Please include the annual summary in the file before Friday.",
+    "exampleVi": "Vui long dua annual summary vao ho so truoc thu Sau.",
+    "collocations": [
+      "annual summary",
+      "annual summary review",
+      "annual summary deadline"
+    ],
+    "synonyms": [
+      "business collocation",
+      "TOEIC expression"
+    ],
+    "wordFamily": [
+      "annual",
+      "summary"
+    ],
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Presentations"
+  },
+  {
+    "id": "annual-survey-collocation",
+    "word": "annual survey",
+    "baseWord": "survey",
+    "type": "phrase",
+    "meaning": "collocation TOEIC 700: annual survey",
+    "pronunciation": "",
+    "topic": "Email & Correspondence",
     "frequency": "high",
     "level": "easy",
     "partTags": [
       "Part 3",
       "Part 7"
     ],
-    "example": "During sprint planning, the team commits to a list of backlog items.",
-    "exampleVi": "Trong buổi lập kế hoạch sprint, nhóm cam kết thực hiện một danh sách các hạng mục tồn đọng.",
+    "example": "Please include the annual survey in the file before Friday.",
+    "exampleVi": "Vui long dua annual survey vao ho so truoc thu Sau.",
     "collocations": [
-      "sprint planning meeting",
-      "facilitate sprint planning"
+      "annual survey",
+      "annual survey review",
+      "annual survey deadline"
     ],
     "synonyms": [
-      "iteration planning"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "sprint",
-      "plan",
-      "planning"
+      "annual",
+      "survey"
     ],
-    "day": 89
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Email & Correspondence"
   },
   {
-    "id": "additional-agenda-phrase",
-    "word": "additional agenda",
-    "baseWord": "agenda",
+    "id": "annual-update-collocation",
+    "word": "annual update",
+    "baseWord": "update",
     "type": "phrase",
-    "meaning": "cum tu TOEIC ve project management: additional agenda",
+    "meaning": "collocation TOEIC 700: annual update",
     "pronunciation": "",
-    "topic": "Project Management",
+    "topic": "Data & Analysis",
     "frequency": "high",
-    "level": "medium",
+    "level": "easy",
     "partTags": [
-      "Part 1",
-      "Part 3",
-      "Part 5"
-    ],
-    "example": "Please review the additional agenda before the next business day.",
-    "exampleVi": "Vui long xem lai additional agenda truoc ngay lam viec tiep theo.",
-    "collocations": [
-      "additional agenda",
-      "additional agenda process",
-      "additional agenda deadline"
-    ],
-    "synonyms": [
-      "business term",
-      "workplace expression"
-    ],
-    "wordFamily": [
-      "agenda"
-    ],
-    "day": 90
-  },
-  {
-    "id": "contingency fund-phrase",
-    "word": "contingency fund",
-    "baseWord": "contingency fund",
-    "type": "phrase",
-    "meaning": "quỹ dự phòng, ngân sách dự phòng",
-    "pronunciation": "/kənˈtɪndʒənsi fʌnd/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 5",
       "Part 7"
     ],
-    "example": "We allocate 10 percent of the total budget to the contingency fund.",
-    "exampleVi": "Chúng tôi phân bổ 10 phần trăm tổng ngân sách cho quỹ dự phòng.",
+    "example": "Please include the annual update in the file before Friday.",
+    "exampleVi": "Vui long dua annual update vao ho so truoc thu Sau.",
     "collocations": [
-      "contingency fund allocation",
-      "draw from the contingency fund"
+      "annual update",
+      "annual update review",
+      "annual update deadline"
     ],
     "synonyms": [
-      "reserve fund",
-      "emergency fund"
+      "business collocation",
+      "TOEIC expression"
     ],
     "wordFamily": [
-      "contingency",
-      "fund",
-      "funding"
+      "annual",
+      "update"
     ],
-    "day": 90
-  },
-  {
-    "id": "contingency plan-phrase",
-    "word": "contingency plan",
-    "baseWord": "contingency plan",
-    "type": "phrase",
-    "meaning": "kế hoạch dự phòng, kế hoạch ứng phó sự cố",
-    "pronunciation": "/kənˈtɪndʒənsi plæn/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 5",
-      "Part 7"
-    ],
-    "example": "The manager developed a contingency plan in case the supplier failed to deliver.",
-    "exampleVi": "Người quản lý đã xây dựng một kế hoạch dự phòng trong trường hợp nhà cung cấp không giao hàng.",
-    "collocations": [
-      "develop a contingency plan",
-      "implement a contingency plan"
-    ],
-    "synonyms": [
-      "backup plan",
-      "emergency plan"
-    ],
-    "wordFamily": [
-      "contingency",
-      "plan",
-      "planning"
-    ],
-    "day": 90
+    "day": 90,
+    "learningType": "collocation",
+    "learningGroup": "Collocations",
+    "targetScore": 700,
+    "topicGroup": "Data & Analysis"
   },
   {
     "id": "contractor-noun",
@@ -2630,7 +3320,7 @@
     "type": "noun",
     "meaning": "nhà thầu",
     "pronunciation": "/ˈkɑːntræktər/",
-    "topic": "Project Management",
+    "topic": "Product Development",
     "frequency": "high",
     "level": "easy",
     "partTags": [
@@ -2655,126 +3345,11 @@
       "contractual",
       "contracted"
     ],
-    "day": 90
-  },
-  {
-    "id": "critical path method-phrase",
-    "word": "critical path method",
-    "baseWord": "critical path method",
-    "type": "phrase",
-    "meaning": "phương pháp đường găng (CPM)",
-    "pronunciation": "/ˈkrɪtɪkl pæθ ˈmeθəd/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Applying the critical path method helped us optimize the project duration.",
-    "exampleVi": "Áp dụng phương pháp đường găng đã giúp chúng tôi tối ưu hóa thời gian dự án.",
-    "collocations": [
-      "use the critical path method",
-      "critical path method scheduling"
-    ],
-    "synonyms": [
-      "CPM scheduling"
-    ],
-    "wordFamily": [
-      "critical",
-      "path",
-      "method"
-    ],
-    "day": 90
-  },
-  {
-    "id": "deliverable quality-phrase",
-    "word": "deliverable quality",
-    "baseWord": "deliverable quality",
-    "type": "phrase",
-    "meaning": "chất lượng sản phẩm bàn giao",
-    "pronunciation": "/dɪˈlɪvərəbl ˈkwɑːləti/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "medium",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "We conduct user testing to guarantee the deliverable quality of the app.",
-    "exampleVi": "Chúng tôi tiến hành thử nghiệm người dùng để đảm bảo chất lượng sản phẩm bàn giao của ứng dụng.",
-    "collocations": [
-      "ensure deliverable quality",
-      "standards for deliverable quality"
-    ],
-    "synonyms": [
-      "output quality"
-    ],
-    "wordFamily": [
-      "deliverable",
-      "quality",
-      "qualities"
-    ],
-    "day": 90
-  },
-  {
-    "id": "impediment log-phrase",
-    "word": "impediment log",
-    "baseWord": "impediment log",
-    "type": "phrase",
-    "meaning": "nhật ký ghi nhận trở ngại",
-    "pronunciation": "/ɪmˈpedɪmənt lɔːg/",
-    "topic": "Project Management",
-    "frequency": "low",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The Scrum Master updates the impediment log daily to track resolved issues.",
-    "exampleVi": "Trưởng nhóm Scrum cập nhật nhật ký trở ngại hàng ngày để theo dõi các vấn đề đã được giải quyết.",
-    "collocations": [
-      "update the impediment log",
-      "maintain an impediment log"
-    ],
-    "synonyms": [
-      "issue log",
-      "blocker log"
-    ],
-    "wordFamily": [
-      "impede",
-      "impediment",
-      "log"
-    ],
-    "day": 90
-  },
-  {
-    "id": "lessons learned-phrase",
-    "word": "lessons learned",
-    "baseWord": "lessons learned",
-    "type": "phrase",
-    "meaning": "bài học kinh nghiệm, bài học rút ra",
-    "pronunciation": "/ˈlesənz lɜːrnd/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "We documented the lessons learned during the construction phase.",
-    "exampleVi": "Chúng tôi đã ghi chép lại các bài học kinh nghiệm rút ra trong giai đoạn xây dựng.",
-    "collocations": [
-      "document lessons learned",
-      "lessons learned session"
-    ],
-    "synonyms": [
-      "key takeaways",
-      "insights"
-    ],
-    "wordFamily": [
-      "lesson",
-      "lessons",
-      "learned"
-    ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Product Development"
   },
   {
     "id": "mitigate-verb",
@@ -2783,7 +3358,7 @@
     "type": "verb",
     "meaning": "giảm thiểu, giảm nhẹ tác hại",
     "pronunciation": "/ˈmɪtɪgəte/",
-    "topic": "Project Management",
+    "topic": "Performance Review",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2807,7 +3382,11 @@
       "mitigated",
       "mitigator"
     ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Performance Review"
   },
   {
     "id": "mitigation-noun",
@@ -2816,7 +3395,7 @@
     "type": "noun",
     "meaning": "sự giảm thiểu, giảm nhẹ",
     "pronunciation": "/ˌmɪtɪˈgəʃən/",
-    "topic": "Project Management",
+    "topic": "Corporate Policy",
     "frequency": "high",
     "level": "hard",
     "partTags": [
@@ -2840,7 +3419,11 @@
       "mitigator",
       "mitigated"
     ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Corporate Policy"
   },
   {
     "id": "mitigator-noun",
@@ -2849,7 +3432,7 @@
     "type": "noun",
     "meaning": "yếu tố giảm nhẹ, người giảm thiểu",
     "pronunciation": "/ˈmɪtɪgeɪtər/",
-    "topic": "Project Management",
+    "topic": "Public Relations",
     "frequency": "low",
     "level": "hard",
     "partTags": [
@@ -2870,7 +3453,11 @@
       "mitigation",
       "mitigators"
     ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Public Relations"
   },
   {
     "id": "post-mortem-noun",
@@ -2879,7 +3466,7 @@
     "type": "noun",
     "meaning": "buổi họp rút kinh nghiệm, phân tích sau dự án",
     "pronunciation": "/ˌpoʊstˈmɔːrtəm/",
-    "topic": "Project Management",
+    "topic": "Supply Chain",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -2900,96 +3487,11 @@
       "post-mortems",
       "postmortem"
     ],
-    "day": 90
-  },
-  {
-    "id": "project pipeline-phrase",
-    "word": "project pipeline",
-    "baseWord": "project pipeline",
-    "type": "phrase",
-    "meaning": "danh sách dự án đang chuẩn bị thực hiện",
-    "pronunciation": "/ˈprɑːdʒekt ˈpaɪplaɪn/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "medium",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "We have five new software upgrades in our project pipeline.",
-    "exampleVi": "Chúng tôi có năm nâng cấp phần mềm mới trong danh sách dự án đang chuẩn bị thực hiện.",
-    "collocations": [
-      "in the project pipeline",
-      "robust project pipeline"
-    ],
-    "synonyms": [
-      "project queue"
-    ],
-    "wordFamily": [
-      "project",
-      "pipe",
-      "pipeline"
-    ],
-    "day": 90
-  },
-  {
-    "id": "quality gate-phrase",
-    "word": "quality gate",
-    "baseWord": "quality gate",
-    "type": "phrase",
-    "meaning": "cổng chất lượng, điểm kiểm soát chất lượng",
-    "pronunciation": "/ˈkwɑːləti ɡeɪt/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The project must pass the final quality gate before deployment.",
-    "exampleVi": "Dự án phải vượt qua cổng chất lượng cuối cùng trước khi triển khai.",
-    "collocations": [
-      "pass a quality gate",
-      "establish quality gates"
-    ],
-    "synonyms": [
-      "milestone gate",
-      "checkpoint"
-    ],
-    "wordFamily": [
-      "quality",
-      "gate",
-      "gates"
-    ],
-    "day": 90
-  },
-  {
-    "id": "resource leveling-phrase",
-    "word": "resource leveling",
-    "baseWord": "resource leveling",
-    "type": "phrase",
-    "meaning": "sự san bằng nguồn lực, cân bằng nhân sự",
-    "pronunciation": "/rɪˈsɔːrs ˈlevəlɪŋ/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "Resource leveling resolved conflicts where a developer was double-booked.",
-    "exampleVi": "Việc san bằng nguồn lực đã giải quyết các xung đột khi một lập trình viên bị xếp lịch trùng.",
-    "collocations": [
-      "perform resource leveling",
-      "resource leveling technique"
-    ],
-    "synonyms": [
-      "resource smoothing"
-    ],
-    "wordFamily": [
-      "resource",
-      "level",
-      "leveling"
-    ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Supply Chain"
   },
   {
     "id": "retroactive-adjective",
@@ -2998,7 +3500,7 @@
     "type": "adjective",
     "meaning": "có hiệu lực trở về trước, hồi tố",
     "pronunciation": "/ˌretrəʊˈæktɪv/",
-    "topic": "Project Management",
+    "topic": "Workplace Issues",
     "frequency": "medium",
     "level": "hard",
     "partTags": [
@@ -3021,7 +3523,11 @@
       "retroact",
       "retroaction"
     ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Workplace Issues"
   },
   {
     "id": "retrospective-noun",
@@ -3030,7 +3536,7 @@
     "type": "noun",
     "meaning": "buổi họp nhìn lại, rút kinh nghiệm chu kỳ dự án",
     "pronunciation": "/ˌretrəˈspektɪv/",
-    "topic": "Project Management",
+    "topic": "Advanced TOEIC Expressions",
     "frequency": "high",
     "level": "medium",
     "partTags": [
@@ -3052,95 +3558,10 @@
       "retrospectively",
       "retrospect"
     ],
-    "day": 90
-  },
-  {
-    "id": "risk register-phrase",
-    "word": "risk register",
-    "baseWord": "risk register",
-    "type": "phrase",
-    "meaning": "danh mục rủi ro, nhật ký theo dõi rủi ro",
-    "pronunciation": "/rɪsk ˈredʒɪstər/",
-    "topic": "Project Management",
-    "frequency": "medium",
-    "level": "hard",
-    "partTags": [
-      "Part 7"
-    ],
-    "example": "The project manager updated the risk register with new security threats.",
-    "exampleVi": "Người quản lý dự án đã cập nhật danh mục rủi ro với các mối đe dọa bảo mật mới.",
-    "collocations": [
-      "update the risk register",
-      "maintain a risk register"
-    ],
-    "synonyms": [
-      "risk log"
-    ],
-    "wordFamily": [
-      "risk",
-      "register",
-      "registration"
-    ],
-    "day": 90
-  },
-  {
-    "id": "scrum team-phrase",
-    "word": "scrum team",
-    "baseWord": "scrum team",
-    "type": "phrase",
-    "meaning": "nhóm Scrum, đội ngũ làm việc linh hoạt",
-    "pronunciation": "/skrʌm tiːm/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "A typical scrum team consists of a product owner, scrum master, and developers.",
-    "exampleVi": "Một nhóm Scrum điển hình bao gồm một chủ sở hữu sản phẩm, trưởng nhóm Scrum và các lập trình viên.",
-    "collocations": [
-      "cross-functional scrum team",
-      "scrum team members"
-    ],
-    "synonyms": [
-      "agile team"
-    ],
-    "wordFamily": [
-      "scrum",
-      "team",
-      "teams"
-    ],
-    "day": 90
-  },
-  {
-    "id": "sprint review-phrase",
-    "word": "sprint review",
-    "baseWord": "sprint review",
-    "type": "phrase",
-    "meaning": "buổi đánh giá sprint, xem xét kết quả chu kỳ",
-    "pronunciation": "/sprɪnt rɪˈvjuː/",
-    "topic": "Project Management",
-    "frequency": "high",
-    "level": "easy",
-    "partTags": [
-      "Part 3",
-      "Part 7"
-    ],
-    "example": "We demonstrate working software to stakeholders during the sprint review.",
-    "exampleVi": "Chúng tôi trình diễn phần mềm đang hoạt động cho các bên liên quan trong buổi đánh giá sprint.",
-    "collocations": [
-      "weekly sprint review",
-      "facilitate a sprint review"
-    ],
-    "synonyms": [
-      "iteration review"
-    ],
-    "wordFamily": [
-      "sprint",
-      "review",
-      "reviewer"
-    ],
-    "day": 90
+    "day": 90,
+    "learningType": "core",
+    "learningGroup": "Core words",
+    "targetScore": 700,
+    "topicGroup": "Advanced TOEIC Expressions"
   }
 ]
