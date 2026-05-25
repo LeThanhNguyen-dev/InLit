@@ -11,7 +11,10 @@ import {
   Map,
   NotebookPen,
   PanelsTopLeft,
+  Sparkles,
+  TriangleAlert,
   Target,
+  Headphones,
 } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { getProgressSnapshot } from "../utils/progress";
@@ -27,7 +30,10 @@ const links = [
   { to: "/parts", label: "Các Part", icon: PanelsTopLeft },
   { to: "/quiz", label: "Quiz", icon: Brain },
   { to: "/reading", label: "Đọc hiểu", icon: GraduationCap },
+  { to: "/shadowing", label: "Shadowing", icon: Headphones },
+  { to: "/ai-coach", label: "AI Coach", icon: Sparkles },
   { to: "/progress", label: "Tiến độ", icon: BarChart3 },
+  { to: "/error-log", label: "Error Log", icon: TriangleAlert },
   { to: "/notebook", label: "Sổ tay lỗi sai", icon: NotebookPen },
 ];
 

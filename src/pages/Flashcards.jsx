@@ -9,6 +9,7 @@ export default function Flashcards() {
   const [version, setVersion] = useState(0);
   const [mode, setMode] = useState("day");
   const [day, setDay] = useState(currentStudyDay());
+  const [reason, setReason] = useState("meaning");
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const learned = getArray(STORAGE_KEYS.learnedWords);
@@ -23,7 +24,7 @@ export default function Flashcards() {
     setVersion((value) => value + 1);
   };
   const review = (id, quality) => {
-    reviewWord(id, quality);
+    reviewWord(id, quality, reason);
     if (quality !== "again" && !learned.includes(id)) toggleId(STORAGE_KEYS.learnedWords, id);
     setVersion((value) => value + 1);
     move(1);
@@ -49,6 +50,13 @@ export default function Flashcards() {
         ].map(([value, label]) => (
           <button key={value} onClick={() => { setMode(value); setIndex(0); }} className={`focus-ring rounded-xl px-4 py-2 font-bold ${mode === value ? "bg-vault-purple text-white" : "bg-white text-vault-ink"}`}>{label}</button>
         ))}
+        <select value={reason} onChange={(event) => setReason(event.target.value)} className="focus-ring rounded-xl border border-slate-200 px-4 py-3 font-bold">
+          <option value="meaning">Quên nghĩa</option>
+          <option value="listening">Nghe không ra</option>
+          <option value="synonym">Nhầm synonym/paraphrase</option>
+          <option value="collocation">Nhầm collocation</option>
+          <option value="grammar">Nhầm ngữ pháp</option>
+        </select>
       </div>
       <div className="grid gap-3 sm:grid-cols-4">
         <div className="subtle-card p-4"><p className="text-sm text-vault-muted">Bộ hiện tại</p><p className="font-black">Ngày {day}</p></div>

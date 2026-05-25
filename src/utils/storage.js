@@ -11,6 +11,8 @@ export const STORAGE_KEYS = {
   profile: "englishvault_profile",
   partProgress: "englishvault_part_progress",
   wordReviews: "englishvault_word_reviews",
+  errorLogs: "englishvault_error_logs",
+  shadowingSentences: "englishvault_shadowing_sentences",
 };
 
 export const DEFAULT_PROFILE = {
@@ -97,10 +99,40 @@ export const addPartSession = (partId, minutes = 10) => {
   return next;
 };
 
-export const reviewWord = (wordId, quality) => {
+const reviewReasonPenalty = {
+  meaning: 12,
+  listening: 18,
+  synonym: 14,
+  collocation: 16,
+  grammar: 10,
+};
+
+export const reviewWord = (wordId, quality, reason = "meaning") => {
   const reviews = getObject(STORAGE_KEYS.wordReviews, {});
-  const current = reviews[wordId] ?? { correct: 0, again: 0, easy: 0, interval: 0, lastReviewed: null, nextReview: null };
-  const intervals = { again: 1, hard: 2, good: Math.max(3, current.interval + 3), easy: Math.max(7, current.interval + 7) };
+  const current = reviews[wordId] ?? {
+    easeFactor: 2.5,
+    correct: 0,
+    wrongCount: 0,
+    again: 0,
+    easy: 0,
+    interval: 0,
+    mastery: 35,
+    reasons: {},
+    lastReviewed: null,
+    nextReview: null,
+  };
+  const isWrong = quality === "again" || quality === "hard";
+  const easeDelta = { again: -0.28, hard: -0.16, good: 0.04, easy: 0.12 }[quality] ?? 0;
+  const easeFactor = Math.max(1.3, Math.min(2.8, current.easeFactor + easeDelta));
+  const masteryDelta = { again: -reviewReasonPenalty[reason], hard: -8, good: 10, easy: 16 }[quality] ?? 6;
+  const mastery = Math.max(0, Math.min(100, (current.mastery ?? 35) + masteryDelta));
+  const baseInterval = current.interval || 1;
+  const intervals = {
+    again: 1,
+    hard: Math.max(1, Math.round(baseInterval * 1.2)),
+    good: Math.max(2, Math.round(baseInterval * easeFactor)),
+    easy: Math.max(5, Math.round(baseInterval * easeFactor * 1.7)),
+  };
   const interval = intervals[quality] ?? 3;
   const nextDate = new Date();
   nextDate.setDate(nextDate.getDate() + interval);
@@ -108,9 +140,16 @@ export const reviewWord = (wordId, quality) => {
     ...reviews,
     [wordId]: {
       ...current,
-      correct: quality === "again" ? current.correct : current.correct + 1,
+      easeFactor,
+      correct: isWrong ? current.correct : current.correct + 1,
+      wrongCount: isWrong ? (current.wrongCount ?? 0) + 1 : current.wrongCount ?? 0,
       again: quality === "again" ? current.again + 1 : current.again,
       easy: quality === "easy" ? current.easy + 1 : current.easy,
+      mastery,
+      reasons: {
+        ...(current.reasons ?? {}),
+        [reason]: ((current.reasons ?? {})[reason] ?? 0) + (isWrong ? 1 : 0),
+      },
       interval,
       lastReviewed: new Date().toISOString(),
       nextReview: nextDate.toISOString().slice(0, 10),
@@ -118,6 +157,59 @@ export const reviewWord = (wordId, quality) => {
   };
   write(STORAGE_KEYS.wordReviews, next);
   return next;
+};
+
+export const addErrorLog = (entry) => {
+  const logs = getArray(STORAGE_KEYS.errorLogs);
+  const next = [
+    {
+      id: Date.now(),
+      date: new Date().toISOString(),
+      status: "open",
+      part: "Part 5",
+      category: "vocab",
+      mistakeType: "vocab",
+      question: "",
+      correctAnswer: "",
+      chosenAnswer: "",
+      explanation: "",
+      keywords: [],
+      relatedWords: [],
+      reviewAfterDays: 3,
+      ...entry,
+    },
+    ...logs,
+  ];
+  write(STORAGE_KEYS.errorLogs, next);
+  return next;
+};
+
+export const updateErrorLog = (id, patch) => {
+  const logs = getArray(STORAGE_KEYS.errorLogs);
+  const next = logs.map((log) => (log.id === id ? { ...log, ...patch } : log));
+  write(STORAGE_KEYS.errorLogs, next);
+  return next;
+};
+
+export const parsePrepMistake = (rawText) => {
+  const lines = rawText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
+  const text = rawText.toLowerCase();
+  const partMatch = rawText.match(/part\s*[1-7]/i);
+  const category = text.includes("grammar") ? "grammar" : text.includes("paraphrase") ? "paraphrase" : text.includes("transcript") ? "listening" : "vocab";
+  const mistakeType = text.includes("number") || text.includes("date")
+    ? "miss_number_date"
+    : text.includes("distractor")
+      ? "distractor"
+      : text.includes("keyword")
+        ? "miss_keyword"
+        : category;
+  return {
+    part: partMatch ? partMatch[0].replace(/\s+/, " ") : "Part 5",
+    category,
+    mistakeType,
+    question: lines[0] ?? "",
+    explanation: lines.slice(1).join("\n"),
+  };
 };
 
 export const exportVaultData = () => {

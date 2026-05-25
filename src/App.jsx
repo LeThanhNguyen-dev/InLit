@@ -12,6 +12,9 @@ import Reading from "./pages/Reading.jsx";
 import Roadmap from "./pages/Roadmap.jsx";
 import Progress from "./pages/Progress.jsx";
 import Notebook from "./pages/Notebook.jsx";
+import ErrorLog from "./pages/ErrorLog.jsx";
+import Shadowing from "./pages/Shadowing.jsx";
+import AICoach from "./pages/AICoach.jsx";
 
 export default function App() {
   return (
@@ -29,8 +32,11 @@ export default function App() {
           <Route path="/parts" element={<Parts />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/reading" element={<Reading />} />
+          <Route path="/shadowing" element={<Shadowing />} />
+          <Route path="/ai-coach" element={<AICoach />} />
           <Route path="/progress" element={<Progress />} />
           <Route path="/notebook" element={<Notebook />} />
+          <Route path="/error-log" element={<ErrorLog />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
