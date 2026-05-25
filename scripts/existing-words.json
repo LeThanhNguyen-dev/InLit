@@ -1,0 +1,4862 @@
+[
+  {
+    "word": "accommodate",
+    "type": "verb",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "accommodate",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "accommodation",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "accountable",
+    "type": "adjective",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "accredit",
+    "type": "verb",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "accredit",
+    "type": "verb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "accreditation",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "accredited",
+    "type": "adjective",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "accrue",
+    "type": "verb",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "accrued",
+    "type": "adjective",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "acknowledge",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "acquisition",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "acquisition",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "address",
+    "type": "verb",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "address",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "adhere",
+    "type": "verb",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "adherence",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "adjacent",
+    "type": "adjective",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "adjourn",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "adjourn",
+    "type": "verb",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "adjournment",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "adjudicate",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "affidavit",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "agenda",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "agenda item",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "allegation",
+    "type": "noun",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "allegation",
+    "type": "noun",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "allergy",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "alliance",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "allocate",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "allude",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "amend",
+    "type": "verb",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "amend",
+    "type": "verb",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "amendment",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "amendment",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "amicable",
+    "type": "adjective",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "amortize",
+    "type": "verb",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "announce",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "anomaly",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "antitrust",
+    "type": "adjective",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "apologetic",
+    "type": "adjective",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "apologize",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "applicant",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "appointment",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "appraisal",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "appraisal",
+    "type": "noun",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "appraise",
+    "type": "verb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "appreciate",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "appreciation",
+    "type": "noun",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "apprentice",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "apprenticeship",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "appropriation",
+    "type": "noun",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "approve",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "aptitude",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "arbitration",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "arbitration",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "arbitration",
+    "type": "noun",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "around the clock",
+    "type": "phrase",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "arrange",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "arrears",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "articulate",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "articulate",
+    "type": "adjective",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "assemble",
+    "type": "verb",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "assembly",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "assembly line",
+    "type": "phrase",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "assertive",
+    "type": "adjective",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "asset",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "assign",
+    "type": "verb",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "assignment",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "assistance",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "assurance",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "at stake",
+    "type": "phrase",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "at your earliest convenience",
+    "type": "phrase",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "attend",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "attentive",
+    "type": "adjective",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "attire",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "audit",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "audit",
+    "type": "verb",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "auditor",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "authenticate",
+    "type": "verb",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "authorize",
+    "type": "verb",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "automate",
+    "type": "verb",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "automated",
+    "type": "adjective",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "available",
+    "type": "adjective",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "batch",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "benchmark",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "benchmark",
+    "type": "noun",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "benchmark",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "benchmark",
+    "type": "noun",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "benefit",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "binding",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "binding",
+    "type": "adjective",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "blueprint",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "boarding",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "bottleneck",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "brainstorm",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "breach",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "breach",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "breakout",
+    "type": "adjective",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "brief",
+    "type": "adjective",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "briefing",
+    "type": "noun",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "bring up",
+    "type": "phrase",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "broker",
+    "type": "verb",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "broker",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "bylaws",
+    "type": "noun",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "calibrate",
+    "type": "verb",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "calibrate",
+    "type": "verb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "calibration",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "call to order",
+    "type": "phrase",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "callback",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "cancellation",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "candid",
+    "type": "adjective",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "candidate",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "capacity",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "capitalize",
+    "type": "verb",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "carry over",
+    "type": "phrase",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "cater",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "catering",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "certification",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "certification",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "certify",
+    "type": "verb",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "certify",
+    "type": "verb",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "certify",
+    "type": "verb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "chairperson",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "charge",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "check-in",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "checkup",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "clarify",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "clause",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "clause",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "clientele",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "clinic",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "coaching",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "coherent",
+    "type": "adjective",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "collaborate",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "collateral",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "colleague",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "combustible",
+    "type": "adjective",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "come to terms",
+    "type": "phrase",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "commend",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "commute",
+    "type": "verb",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "compensate",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "compensate",
+    "type": "verb",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "competency",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "complaint",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "compliance",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "compliance",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "compliance",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "compliance",
+    "type": "noun",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "compliant",
+    "type": "adjective",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "complimentary",
+    "type": "adjective",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "complimentary",
+    "type": "adjective",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "comply",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "comply",
+    "type": "verb",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "comply",
+    "type": "verb",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "component",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "compromise",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "concede",
+    "type": "verb",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "concern",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "concession",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "concession",
+    "type": "noun",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "concise",
+    "type": "adjective",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "conclude",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "concur",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "conference",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "confidential",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "confidential",
+    "type": "adjective",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "confidentiality",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "confirm",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "conflict",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "conform",
+    "type": "verb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "conglomerate",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "consensus",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "consensus",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "consensus",
+    "type": "noun",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "consent",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "consent",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "consistently",
+    "type": "adverb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "consistently",
+    "type": "adverb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "consortium",
+    "type": "noun",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "construe",
+    "type": "verb",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "consultation",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "contaminate",
+    "type": "verb",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "contamination",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "contamination",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "contingency",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "contingent",
+    "type": "adjective",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "contract",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "contractual",
+    "type": "adjective",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "convene",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "convene",
+    "type": "verb",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "convene",
+    "type": "verb",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "convey",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "conveyor",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "coordinate",
+    "type": "verb",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "corrective",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "correspond",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "correspondence",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "correspondence",
+    "type": "noun",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "corroborate",
+    "type": "verb",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "corrosion",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "counterfeit",
+    "type": "adjective",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "counteroffer",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "counterpart",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "courteous",
+    "type": "adjective",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "courteously",
+    "type": "adverb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "coverage",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "crane",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "crate",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "credential",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "creditor",
+    "type": "noun",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "criterion",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "cultivate",
+    "type": "verb",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "curriculum",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "customer",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "customs",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "cutting-edge",
+    "type": "adjective",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "deadline",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "deadline extension",
+    "type": "phrase",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "dealbreaker",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "decommission",
+    "type": "verb",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "dedication",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "deductible",
+    "type": "adjective",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "deed",
+    "type": "noun",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "defect",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "defect",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "defective",
+    "type": "adjective",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "defective",
+    "type": "adjective",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "defective",
+    "type": "adjective",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "defendant",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "defer",
+    "type": "verb",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "deferred",
+    "type": "adjective",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "deficiency",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "delay",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "delegate",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "delegate",
+    "type": "verb",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "deliberate",
+    "type": "verb",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "delinquent",
+    "type": "adjective",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "deliver",
+    "type": "verb",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "denounce",
+    "type": "verb",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "department",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "departure",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "depreciate",
+    "type": "verb",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "depreciation",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "destination",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "detector",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "deviation",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "diagnose",
+    "type": "verb",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "diagnostic",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "diagnostic",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "diplomatic",
+    "type": "adjective",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "disbursement",
+    "type": "noun",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "discard",
+    "type": "verb",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "disclose",
+    "type": "verb",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "disclose",
+    "type": "verb",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "disclosure",
+    "type": "noun",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "discount",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "discrepancy",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "discretion",
+    "type": "noun",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "dismantle",
+    "type": "verb",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "dispatch",
+    "type": "verb",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "dispute",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "dispute",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "dissatisfied",
+    "type": "adjective",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "disseminate",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "dissolution",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "divest",
+    "type": "verb",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "dividend",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "document",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "dose",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "downtime",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "draw up",
+    "type": "phrase",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "due diligence",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "due diligence",
+    "type": "phrase",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "durability",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "durability",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "durable",
+    "type": "adjective",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "durable",
+    "type": "adjective",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "duration",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "efficiently",
+    "type": "adverb",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "elaborate",
+    "type": "verb",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "eligible",
+    "type": "adjective",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "eloquent",
+    "type": "adjective",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "elucidate",
+    "type": "verb",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "emergency",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "emission",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "empathize",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "empathy",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "empower",
+    "type": "verb",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "enact",
+    "type": "verb",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "encumber",
+    "type": "verb",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "endorse",
+    "type": "verb",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "endorse",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "endorsement",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "endowment",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "enforce",
+    "type": "verb",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "enrich",
+    "type": "verb",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "enrollment",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "entitle",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "entitle",
+    "type": "verb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "entitlement",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "equip",
+    "type": "verb",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "equipment",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "equity",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "equity",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "escalate",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "estimate",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "evaluate",
+    "type": "verb",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "evaluate",
+    "type": "verb",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "exceed",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "exceptional",
+    "type": "adjective",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "exchange",
+    "type": "verb",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "exclusive",
+    "type": "adjective",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "exclusivity",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "exempt",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "exempt",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "exemption",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "exhibit",
+    "type": "verb",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "expectation",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "expenditure",
+    "type": "noun",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "expertise",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "extension",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "fabricate",
+    "type": "verb",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "facilitate",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "facilitate",
+    "type": "verb",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "fare",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "faulty",
+    "type": "adjective",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "favorable",
+    "type": "adjective",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "feedback",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "feedback",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "fiduciary",
+    "type": "adjective",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "filings",
+    "type": "noun",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "finalize",
+    "type": "verb",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "fiscal",
+    "type": "adjective",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "flammable",
+    "type": "adjective",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "flaw",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "flawless",
+    "type": "adjective",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "fluctuate",
+    "type": "verb",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "follow up",
+    "type": "phrase",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "follow-up",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "foreman",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "forfeit",
+    "type": "verb",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "forfeit",
+    "type": "verb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "forfeit",
+    "type": "verb",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "forklift",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "forthcoming",
+    "type": "adjective",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "forthcoming",
+    "type": "adjective",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "fulfill",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "gauge",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "glitch",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "governance",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "guarantee",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "handle",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "handout",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "hands-on",
+    "type": "adjective",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "hazardous",
+    "type": "adjective",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "hedge",
+    "type": "verb",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "helpdesk",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "hire",
+    "type": "verb",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "hotline",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "impasse",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "implement",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "improve",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "in a timely manner",
+    "type": "phrase",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "in accordance with",
+    "type": "phrase",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "in accordance with",
+    "type": "phrase",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "in advance",
+    "type": "phrase",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "in advance",
+    "type": "phrase",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "in bulk",
+    "type": "phrase",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "in compliance with",
+    "type": "phrase",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "in compliance with",
+    "type": "phrase",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "in good faith",
+    "type": "phrase",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "in good standing",
+    "type": "phrase",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "in person",
+    "type": "phrase",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "incentive",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "inconvenience",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "incorporate",
+    "type": "verb",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "indemnify",
+    "type": "verb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "indemnify",
+    "type": "verb",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "indemnity",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "infringe",
+    "type": "verb",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "infringe",
+    "type": "verb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "infringement",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "initiative",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "inquire",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "inquiry",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "insinuate",
+    "type": "verb",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "insolvency",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "inspect",
+    "type": "verb",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "inspect",
+    "type": "verb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "inspection",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "inspector",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "inspector",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "instruct",
+    "type": "verb",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "insulate",
+    "type": "verb",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "insurance",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "interaction",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "interactive",
+    "type": "adjective",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "interview",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "inventory",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "inventory",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "invoice",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "iron out",
+    "type": "phrase",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "issue",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "itinerary",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "itinerary",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "joint venture",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "jurisdiction",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "keynote",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "knowledgeable",
+    "type": "adjective",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "label",
+    "type": "verb",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "laminate",
+    "type": "verb",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "leak",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "ledger",
+    "type": "noun",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "legitimate",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "lengthy",
+    "type": "adjective",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "leverage",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "leverage",
+    "type": "verb",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "leverage",
+    "type": "noun",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "leverage",
+    "type": "verb",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "liability",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "liability",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "liaison",
+    "type": "noun",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "liquidate",
+    "type": "verb",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "liquidity",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "litigation",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "log",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "logistics",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "loyal",
+    "type": "adjective",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "lubricate",
+    "type": "verb",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "lucrative",
+    "type": "adjective",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "luggage",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "machinery",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "malfunction",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "malfunction",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "malfunction",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "mandate",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "mandatory",
+    "type": "adjective",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "mandatory",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "manner",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "manually",
+    "type": "adverb",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "manufacture",
+    "type": "verb",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "maturity",
+    "type": "noun",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "mediate",
+    "type": "verb",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "mediate",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "mediator",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "medication",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "memo",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "memorandum",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "mentor",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "mentorship",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "merger",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "merger",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "meticulous",
+    "type": "adjective",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "meticulously",
+    "type": "adverb",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "milestone",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "milestone",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "minute",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "minutes",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "misconstrue",
+    "type": "verb",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "mitigate",
+    "type": "verb",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "moderator",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "module",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "mold",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "motion",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "mutually",
+    "type": "adverb",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "nametag",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "negligence",
+    "type": "noun",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "negligence",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "negligent",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "negotiable",
+    "type": "adjective",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "negotiate",
+    "type": "verb",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "negotiate",
+    "type": "verb",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "negotiate",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "negotiation",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "negotiator",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "networking",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "non-negotiable",
+    "type": "adjective",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "nondisclosure",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "notarize",
+    "type": "verb",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "notify",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "objective",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "obligate",
+    "type": "verb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "obligation",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "on behalf of",
+    "type": "phrase",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "on the agenda",
+    "type": "phrase",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "on the table",
+    "type": "phrase",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "on-site",
+    "type": "adjective",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "onboarding",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "operational",
+    "type": "adjective",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "operator",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "opt",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "ordinance",
+    "type": "noun",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "orientation",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "orientation",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "outage",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "outline",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "outperform",
+    "type": "verb",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "output",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "outsource",
+    "type": "verb",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "outstanding",
+    "type": "adjective",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "overall",
+    "type": "adjective",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "overhaul",
+    "type": "verb",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "overhaul",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "overhead",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "overhead",
+    "type": "noun",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "oversight",
+    "type": "noun",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "oversight",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "oversight",
+    "type": "noun",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "overview",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "pallet",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "panel",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "paraphrase",
+    "type": "verb",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "participant",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "partnership",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "passport",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "patent",
+    "type": "noun",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "patience",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "patient",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "payable",
+    "type": "adjective",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "payment",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "pedagogy",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "peer",
+    "type": "noun",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "pencil in",
+    "type": "phrase",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "pending",
+    "type": "adjective",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "permissible",
+    "type": "adjective",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "permit",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "persuade",
+    "type": "verb",
+    "day": 136,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "pharmacy",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "plaintiff",
+    "type": "noun",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "platform",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "pledge",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "pledge",
+    "type": "verb",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "podium",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "policy",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "polite",
+    "type": "adjective",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "portfolio",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "position",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "postpone",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "postponement",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "practitioner",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "precaution",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "precautionary",
+    "type": "adjective",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "precedent",
+    "type": "noun",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "precision",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "preliminary",
+    "type": "adjective",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "preliminary",
+    "type": "adjective",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "prerequisite",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "prescription",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "presentation",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "preventive",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "principal",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "prioritize",
+    "type": "verb",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "priority",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "probation",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "procedure",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "proceed",
+    "type": "verb",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "process",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "procurement",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "productive",
+    "type": "adjective",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "productivity",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "professionalism",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "proficiency",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "proficient",
+    "type": "adjective",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "prohibit",
+    "type": "verb",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "projector",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "promotion",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "promptly",
+    "type": "adverb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "proposal",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "propose",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "proposition",
+    "type": "noun",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "proprietary",
+    "type": "adjective",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "proprietary",
+    "type": "adjective",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "proprietary",
+    "type": "adjective",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "proprietor",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "prosecute",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "prospect",
+    "type": "noun",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "prospective",
+    "type": "adjective",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "prospectus",
+    "type": "noun",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "protocol",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "prototype",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "provision",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "provision",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "provisional",
+    "type": "adjective",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "proxy",
+    "type": "noun",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "punctual",
+    "type": "adjective",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "purchase",
+    "type": "verb",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "qualification",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "quality",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "quorum",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "quorum",
+    "type": "noun",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "ratification",
+    "type": "noun",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "ratify",
+    "type": "verb",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "ratify",
+    "type": "verb",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "ratify",
+    "type": "verb",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "rating",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "raw material",
+    "type": "phrase",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "reassure",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "rebut",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "recap",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "receipt",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "receivable",
+    "type": "adjective",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "reciprocal",
+    "type": "adjective",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "recommendation",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "reconcile",
+    "type": "verb",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "reconciliation",
+    "type": "noun",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "reconvene",
+    "type": "verb",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "recoup",
+    "type": "verb",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "recover",
+    "type": "verb",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "recruit",
+    "type": "verb",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "rectify",
+    "type": "verb",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "rectify",
+    "type": "verb",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "recyclable",
+    "type": "adjective",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "redeem",
+    "type": "verb",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "reference",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "referral",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "refrain",
+    "type": "verb",
+    "day": 139,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "refresher",
+    "type": "noun",
+    "day": 83,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "refund",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "refundable",
+    "type": "adjective",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "refurbish",
+    "type": "verb",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "regardless",
+    "type": "adverb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "registration",
+    "type": "noun",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "regret",
+    "type": "verb",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "regulate",
+    "type": "verb",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "regulation",
+    "type": "noun",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "regulatory",
+    "type": "adjective",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "reimburse",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "reimburse",
+    "type": "verb",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "reiterate",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "reliable",
+    "type": "adjective",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "remedial",
+    "type": "adjective",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "remedy",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "reminder",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "remittance",
+    "type": "noun",
+    "day": 132,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "render",
+    "type": "verb",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "replacement",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "representative",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "reprimand",
+    "type": "verb",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "reputation",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "request",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "reschedule",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "rescind",
+    "type": "verb",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "reservation",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "resign",
+    "type": "verb",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "resolution",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "resolution",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "resolve",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "respond",
+    "type": "verb",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "responsive",
+    "type": "adjective",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "restock",
+    "type": "verb",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "restore",
+    "type": "verb",
+    "day": 30,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "restructure",
+    "type": "verb",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "résumé",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "retain",
+    "type": "verb",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "retire",
+    "type": "verb",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "retract",
+    "type": "verb",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "retrain",
+    "type": "verb",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "revise",
+    "type": "verb",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "revoke",
+    "type": "verb",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "revoke",
+    "type": "verb",
+    "day": 110,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "rigorous",
+    "type": "adjective",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "rigorously",
+    "type": "adverb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "round-trip",
+    "type": "adjective",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "route",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "rsvp",
+    "type": "verb",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "run over",
+    "type": "phrase",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "safeguard",
+    "type": "verb",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "safeguard",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "salary",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "sampling",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "sanction",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "sanction",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "satisfaction",
+    "type": "noun",
+    "day": 26,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "scaffold",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "schedule",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "screening",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "scrutinize",
+    "type": "verb",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "scrutinize",
+    "type": "verb",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "scrutiny",
+    "type": "noun",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "self-paced",
+    "type": "adjective",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "seminar",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "seminar",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "set up",
+    "type": "phrase",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "shareholder",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "shipment",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "shipment",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "shutdown",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "simulation",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "skillset",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "slot",
+    "type": "noun",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "solicit",
+    "type": "verb",
+    "day": 134,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "solvency",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "solvent",
+    "type": "adjective",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "specialist",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "specialize",
+    "type": "verb",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "specification",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "specification",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "specimen",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "stake",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "stakeholder",
+    "type": "noun",
+    "day": 9,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "stakeholder",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "stalemate",
+    "type": "noun",
+    "day": 107,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "standard",
+    "type": "noun",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "standardize",
+    "type": "verb",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "status",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "statute",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "statute",
+    "type": "noun",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "statutory",
+    "type": "adjective",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "stipulate",
+    "type": "verb",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "stipulate",
+    "type": "verb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "stipulate",
+    "type": "verb",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "stipulation",
+    "type": "noun",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "stockpile",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "streamline",
+    "type": "verb",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "stringent",
+    "type": "adjective",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "subcontractor",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "submit",
+    "type": "verb",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "subscriber",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "subsidiary",
+    "type": "noun",
+    "day": 126,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "subsidy",
+    "type": "noun",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "substandard",
+    "type": "adjective",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "substantiate",
+    "type": "verb",
+    "day": 137,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "succinct",
+    "type": "adjective",
+    "day": 138,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "sue",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "supervisor",
+    "type": "noun",
+    "day": 1,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "supplier",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "surgery",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "surplus",
+    "type": "noun",
+    "day": 53,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "surveillance",
+    "type": "noun",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "survey",
+    "type": "noun",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "syllabus",
+    "type": "noun",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "symposium",
+    "type": "noun",
+    "day": 84,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "symptom",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "synergy",
+    "type": "noun",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "systematically",
+    "type": "adverb",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "take place",
+    "type": "phrase",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "takeover",
+    "type": "noun",
+    "day": 127,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "technician",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "teleconference",
+    "type": "noun",
+    "day": 7,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "tentative",
+    "type": "adjective",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "tentative",
+    "type": "adjective",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "tentatively",
+    "type": "adverb",
+    "day": 106,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "tenure",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "tenure",
+    "type": "noun",
+    "day": 129,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "terminal",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "terminate",
+    "type": "verb",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "termination",
+    "type": "noun",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "testimonial",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "testimony",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "therapy",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "thorough",
+    "type": "adjective",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "throughput",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "timely",
+    "type": "adjective",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "tolerance",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "tolerance",
+    "type": "noun",
+    "day": 101,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "toll-free",
+    "type": "adjective",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "touch base",
+    "type": "phrase",
+    "day": 10,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "trademark",
+    "type": "noun",
+    "day": 79,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "transfer",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "transit",
+    "type": "noun",
+    "day": 4,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "treatment",
+    "type": "noun",
+    "day": 5,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "tribunal",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "troubleshoot",
+    "type": "verb",
+    "day": 27,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "tutorial",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "unanimous",
+    "type": "adjective",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "underperform",
+    "type": "verb",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "understudy",
+    "type": "noun",
+    "day": 85,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "undervalued",
+    "type": "adjective",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "underway",
+    "type": "adverb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "underwrite",
+    "type": "verb",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "unequivocal",
+    "type": "adjective",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "uniformity",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "up to code",
+    "type": "phrase",
+    "day": 104,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "up to standard",
+    "type": "phrase",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "up to standard",
+    "type": "phrase",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "uphold",
+    "type": "verb",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "uphold",
+    "type": "verb",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "upskill",
+    "type": "verb",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "vacancy",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "validate",
+    "type": "verb",
+    "day": 102,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "value",
+    "type": "verb",
+    "day": 29,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "ventilation",
+    "type": "noun",
+    "day": 54,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "venture",
+    "type": "noun",
+    "day": 128,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "venue",
+    "type": "noun",
+    "day": 6,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "verbatim",
+    "type": "adverb",
+    "day": 140,
+    "file": "vocab_day_136_140.json"
+  },
+  {
+    "word": "verdict",
+    "type": "noun",
+    "day": 78,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "viable",
+    "type": "adjective",
+    "day": 109,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "violate",
+    "type": "verb",
+    "day": 76,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "void",
+    "type": "adjective",
+    "day": 80,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "void",
+    "type": "adjective",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "volatility",
+    "type": "noun",
+    "day": 135,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "voucher",
+    "type": "noun",
+    "day": 28,
+    "file": "vocab_day_026_030.json"
+  },
+  {
+    "word": "waive",
+    "type": "verb",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "waiver",
+    "type": "noun",
+    "day": 77,
+    "file": "vocab_day_076_080.json"
+  },
+  {
+    "word": "waiver",
+    "type": "noun",
+    "day": 108,
+    "file": "vocab_day_106_110.json"
+  },
+  {
+    "word": "warehouse",
+    "type": "noun",
+    "day": 51,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "warranty",
+    "type": "noun",
+    "day": 2,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "warranty",
+    "type": "noun",
+    "day": 103,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "webinar",
+    "type": "noun",
+    "day": 82,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "whistleblower",
+    "type": "noun",
+    "day": 130,
+    "file": "vocab_day_126_130.json"
+  },
+  {
+    "word": "withstand",
+    "type": "verb",
+    "day": 105,
+    "file": "vocab_day_101_105.json"
+  },
+  {
+    "word": "workforce",
+    "type": "noun",
+    "day": 3,
+    "file": "vocab_day_001_005.json"
+  },
+  {
+    "word": "workload",
+    "type": "noun",
+    "day": 55,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "workshop",
+    "type": "noun",
+    "day": 81,
+    "file": "vocab_day_081_085.json"
+  },
+  {
+    "word": "workstation",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "wrap up",
+    "type": "phrase",
+    "day": 8,
+    "file": "vocab_day_006_010.json"
+  },
+  {
+    "word": "write-off",
+    "type": "noun",
+    "day": 133,
+    "file": "vocab_day_131_135.json"
+  },
+  {
+    "word": "yield",
+    "type": "noun",
+    "day": 52,
+    "file": "vocab_day_051_055.json"
+  },
+  {
+    "word": "yield",
+    "type": "noun",
+    "day": 131,
+    "file": "vocab_day_131_135.json"
+  }
+]
