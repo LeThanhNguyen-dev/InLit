@@ -1,0 +1,81 @@
+{
+  "targetScore": 700,
+  "examMonth": "Tháng 10/2026",
+  "startDate": "2026-05-25",
+  "totalDays": 150,
+  "dailyVocabularyTarget": 20,
+  "totalVocabularyTarget": 3000,
+  "weeklyRoutine": [
+    "5 ngày scan 20 từ/cụm TOEIC, học kỹ 12 core words",
+    "5 ngày làm set Part trên Prep sau khi học trong EnglishVault",
+    "1 ngày review sâu: từ khó, lỗi sai, transcript, câu sai Part 5",
+    "1 ngày mini mock hoặc full mock tùy giai đoạn"
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "name": "Xây nền từ số 0",
+      "days": "1-21",
+      "month": "Cuối tháng 5 - tháng 6",
+      "scoreBand": "0-250",
+      "focus": "Tạo thói quen học hằng ngày, nắm mẫu câu cơ bản và từ vựng công việc/du lịch/kinh doanh.",
+      "listening": "Bắt đầu với mô tả tranh Part 1 chậm và các dạng câu hỏi Part 2.",
+      "reading": "Đọc thông báo ngắn, email ngắn và câu đơn.",
+      "grammar": "Hiện tại đơn, hiện tại tiếp diễn, quá khứ đơn, tương lai với will, so sánh.",
+      "vocabulary": "420 từ",
+      "output": "Mỗi ngày tự viết 3-5 câu đơn bằng từ đã học."
+    },
+    {
+      "id": 2,
+      "name": "Nền TOEIC cốt lõi",
+      "days": "22-50",
+      "month": "Tháng 6 - tháng 7",
+      "scoreBand": "250-400",
+      "focus": "Củng cố chủ đề công sở, phản xạ Part 2 và tốc độ ngữ pháp Part 5.",
+      "listening": "Luyện Part 2 hằng ngày và bắt đầu hội thoại ngắn Part 3.",
+      "reading": "Part 5 ngữ pháp/từ vựng và các đoạn Part 6 ngắn.",
+      "grammar": "Modal verbs, mạo từ, giới từ, word form, hòa hợp chủ-vị.",
+      "vocabulary": "580 từ",
+      "output": "Tóm tắt một đoạn đọc ngắn bằng tiếng Anh."
+    },
+    {
+      "id": 3,
+      "name": "Tăng tốc trung cấp",
+      "days": "51-85",
+      "month": "Tháng 7 - tháng 8",
+      "scoreBand": "400-550",
+      "focus": "Tăng tốc và độ chính xác ở Part 3, 4, 5, 6, 7.",
+      "listening": "Dự đoán chủ đề Part 3/4, nhận diện mục đích người nói và bắt chi tiết.",
+      "reading": "Part 6 liên kết câu và Part 7 scan thông tin.",
+      "grammar": "Câu điều kiện, bị động, mệnh đề quan hệ, liên từ.",
+      "vocabulary": "700 từ",
+      "output": "Duy trì sổ tay lỗi sai: câu sai, lý do sai, câu sửa đúng."
+    },
+    {
+      "id": 4,
+      "name": "Đẩy lên mốc 600",
+      "days": "86-120",
+      "month": "Tháng 8 - tháng 9",
+      "scoreBand": "550-650",
+      "focus": "Luyện có bấm giờ, sửa part yếu và học collocation TOEIC tần suất cao.",
+      "listening": "Làm set Part 3/4 có giới hạn thời gian, sau đó review transcript.",
+      "reading": "Làm set Part 5/6/7 có bấm giờ và phân tích bẫy.",
+      "grammar": "Word form nâng cao, rút gọn mệnh đề, bẫy so sánh, nhất quán thì.",
+      "vocabulary": "700 từ",
+      "output": "Mỗi 3 ngày làm một mini test có bấm giờ."
+    },
+    {
+      "id": 5,
+      "name": "Nước rút 700+",
+      "days": "121-150",
+      "month": "Cuối tháng 9 - tháng 10",
+      "scoreBand": "650-700+",
+      "focus": "Tăng sức bền làm đề, dọn review queue và chốt chiến thuật phòng thi.",
+      "listening": "Làm full Listening, shadow đoạn khó, review keyword bị bỏ lỡ.",
+      "reading": "Làm full Reading, phân bổ thời gian và chiến thuật double/triple passage.",
+      "grammar": "Chỉ sửa lỗi lặp lại từ sổ tay và quiz.",
+      "vocabulary": "600 từ",
+      "output": "Mỗi tuần làm mock test và tổng ôn từ khó."
+    }
+  ]
+}

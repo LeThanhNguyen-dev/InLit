@@ -1,0 +1,22 @@
+[
+  {"id":1,"phrase":"make a decision","meaning":"dua ra quyet dinh","example":"We need to make a decision today.","topic":"Work & Office","day":1},
+  {"id":2,"phrase":"meet a deadline","meaning":"dap ung han chot","example":"The team worked late to meet a deadline.","topic":"Work & Office","day":1},
+  {"id":3,"phrase":"submit a report","meaning":"nop bao cao","example":"Please submit a report before Friday.","topic":"Work & Office","day":1},
+  {"id":4,"phrase":"attend a meeting","meaning":"tham du cuoc hop","example":"I have to attend a meeting at 10.","topic":"Work & Office","day":1},
+  {"id":5,"phrase":"send an email","meaning":"gui email","example":"Could you send an email to the client?","topic":"Communication","day":1},
+  {"id":6,"phrase":"make a reservation","meaning":"dat cho","example":"We made a reservation at the hotel.","topic":"Travel","day":2},
+  {"id":7,"phrase":"confirm a booking","meaning":"xac nhan dat cho","example":"Please confirm a booking by noon.","topic":"Travel","day":2},
+  {"id":8,"phrase":"request a refund","meaning":"yeu cau hoan tien","example":"The customer requested a refund.","topic":"Shopping","day":2},
+  {"id":9,"phrase":"issue an invoice","meaning":"xuat hoa don","example":"The supplier issued an invoice.","topic":"Business","day":2},
+  {"id":10,"phrase":"sign a contract","meaning":"ky hop dong","example":"They will sign a contract next week.","topic":"Business","day":3},
+  {"id":11,"phrase":"negotiate terms","meaning":"dam phan dieu khoan","example":"Both sides negotiated terms carefully.","topic":"Business","day":3},
+  {"id":12,"phrase":"interview a candidate","meaning":"phong van ung vien","example":"We will interview a candidate tomorrow.","topic":"Human Resources","day":3},
+  {"id":13,"phrase":"book accommodation","meaning":"dat cho o","example":"She booked accommodation near the station.","topic":"Travel","day":4},
+  {"id":14,"phrase":"departure time","meaning":"gio khoi hanh","example":"Check the departure time on your ticket.","topic":"Travel","day":4},
+  {"id":15,"phrase":"make an appointment","meaning":"dat lich hen","example":"I need to make an appointment with a doctor.","topic":"Health","day":5},
+  {"id":16,"phrase":"show symptoms","meaning":"co trieu chung","example":"He started to show symptoms yesterday.","topic":"Health","day":5},
+  {"id":17,"phrase":"set a budget","meaning":"dat ngan sach","example":"Set a budget before starting the project.","topic":"Finance","day":6},
+  {"id":18,"phrase":"increase revenue","meaning":"tang doanh thu","example":"The campaign helped increase revenue.","topic":"Finance","day":6},
+  {"id":19,"phrase":"set priorities","meaning":"dat muc uu tien","example":"Set priorities before you start work.","topic":"Productivity","day":7},
+  {"id":20,"phrase":"achieve a goal","meaning":"dat muc tieu","example":"Small habits help you achieve a goal.","topic":"Productivity","day":7}
+]

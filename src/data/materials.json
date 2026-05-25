@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "phaseId": 1,
+    "name": "Bộ từ vựng hằng ngày trong EnglishVault",
+    "type": "Học chính",
+    "useFor": "Học 20 từ mỗi ngày, đánh dấu từ khó và ôn bằng flashcard.",
+    "link": "/flashcards",
+    "cadence": "Hằng ngày"
+  },
+  {
+    "id": 2,
+    "phaseId": 1,
+    "name": "British Council LearnEnglish Grammar",
+    "type": "Ngữ pháp",
+    "useFor": "Dùng để tra cứu thêm khi bài ngữ pháp trong EnglishVault chưa đủ rõ.",
+    "link": "https://learnenglish.britishcouncil.org/grammar",
+    "cadence": "3 bài/tuần"
+  },
+  {
+    "id": 3,
+    "phaseId": 1,
+    "name": "Cambridge English Learning English",
+    "type": "Tiếng Anh nền",
+    "useFor": "Bổ sung đọc hiểu, ngữ pháp và từ vựng ngoài format TOEIC.",
+    "link": "https://www.cambridgeenglish.org/learning-english",
+    "cadence": "2 buổi ngắn/tuần"
+  },
+  {
+    "id": 4,
+    "phaseId": 2,
+    "name": "Ngữ pháp + Quiz trong EnglishVault",
+    "type": "Học chính",
+    "useFor": "Biến kiến thức ngữ pháp thành phản xạ Part 5 trước khi làm câu trên Prep.",
+    "link": "/grammar",
+    "cadence": "Hằng ngày"
+  },
+  {
+    "id": 5,
+    "phaseId": 2,
+    "name": "Prep Part 1-2 Sets",
+    "type": "Làm đề trên Prep",
+    "useFor": "Chỉ làm câu sau khi học; ghi pattern sai vào Sổ tay lỗi sai.",
+    "link": "/notebook",
+    "cadence": "4 set/tuần"
+  },
+  {
+    "id": 6,
+    "phaseId": 3,
+    "name": "Đọc hiểu + Sổ tay lỗi sai trong EnglishVault",
+    "type": "Học chính",
+    "useFor": "Đọc đoạn ngắn, lưu từ chưa biết và viết lại câu đã sửa.",
+    "link": "/reading",
+    "cadence": "Hằng ngày"
+  },
+  {
+    "id": 7,
+    "phaseId": 3,
+    "name": "Prep Part 3-4 Sets",
+    "type": "Làm đề trên Prep",
+    "useFor": "Luyện dự đoán khi nghe và review transcript sau khi kiểm tra đáp án.",
+    "link": "/parts",
+    "cadence": "4 set/tuần"
+  },
+  {
+    "id": 8,
+    "phaseId": 4,
+    "name": "Prep Part 5-7 Timed Sets",
+    "type": "Làm đề trên Prep",
+    "useFor": "Luyện tốc độ; mỗi câu sai phải biến thành một ghi chú sửa lỗi.",
+    "link": "/notebook",
+    "cadence": "5 set bấm giờ/tuần"
+  },
+  {
+    "id": 9,
+    "phaseId": 4,
+    "name": "ETS TOEIC Preparation Materials",
+    "type": "Tài liệu tham khảo chính thức",
+    "useFor": "Dùng sample/handbook chính thức để hiểu format đề và kỳ vọng điểm.",
+    "link": "https://www.ets.org/toeic/test-takers/prepare.html",
+    "cadence": "Xem lại mỗi tuần"
+  },
+  {
+    "id": 10,
+    "phaseId": 5,
+    "name": "Prep Full Mock Tests",
+    "type": "Làm đề trên Prep",
+    "useFor": "Làm full test để luyện sức bền; phân tích lỗi trong EnglishVault sau mỗi đề.",
+    "link": "/progress",
+    "cadence": "1-2 đề/tuần"
+  },
+  {
+    "id": 11,
+    "phaseId": 5,
+    "name": "Review Queue trong EnglishVault",
+    "type": "Học chính",
+    "useFor": "Dọn các từ đến hạn ôn và từ khó trước kỳ thi tháng 10.",
+    "link": "/flashcards",
+    "cadence": "Hằng ngày"
+  }
+]

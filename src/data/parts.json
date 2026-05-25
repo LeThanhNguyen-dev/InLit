@@ -1,0 +1,65 @@
+[
+  {
+    "id": "part1",
+    "number": "Part 1",
+    "title": "Photographs",
+    "skill": "Listening",
+    "focus": "Describe people, objects, and actions in photos.",
+    "targetSessions": 20,
+    "recommended": "Practice object/action vocabulary and present continuous sentences."
+  },
+  {
+    "id": "part2",
+    "number": "Part 2",
+    "title": "Question Response",
+    "skill": "Listening",
+    "focus": "Choose the best response to short questions.",
+    "targetSessions": 25,
+    "recommended": "Train WH-questions, yes/no questions, and distractor patterns."
+  },
+  {
+    "id": "part3",
+    "number": "Part 3",
+    "title": "Conversations",
+    "skill": "Listening",
+    "focus": "Understand workplace conversations and speaker intent.",
+    "targetSessions": 30,
+    "recommended": "Review office, travel, and business collocations."
+  },
+  {
+    "id": "part4",
+    "number": "Part 4",
+    "title": "Short Talks",
+    "skill": "Listening",
+    "focus": "Follow announcements, reports, and recorded messages.",
+    "targetSessions": 30,
+    "recommended": "Practice main idea, purpose, and detail questions."
+  },
+  {
+    "id": "part5",
+    "number": "Part 5",
+    "title": "Incomplete Sentences",
+    "skill": "Grammar",
+    "focus": "Grammar, word forms, prepositions, and vocabulary in single sentences.",
+    "targetSessions": 35,
+    "recommended": "Study grammar cards and complete short quizzes."
+  },
+  {
+    "id": "part6",
+    "number": "Part 6",
+    "title": "Text Completion",
+    "skill": "Reading",
+    "focus": "Complete short texts with grammar, vocabulary, and sentence logic.",
+    "targetSessions": 25,
+    "recommended": "Read short passages and track sentence connectors."
+  },
+  {
+    "id": "part7",
+    "number": "Part 7",
+    "title": "Reading Comprehension",
+    "skill": "Reading",
+    "focus": "Understand emails, notices, articles, and multi-text questions.",
+    "targetSessions": 35,
+    "recommended": "Build reading speed and save unknown vocabulary."
+  }
+]

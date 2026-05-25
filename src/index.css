@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #16183f;
+  background: #f7f7ff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(109, 93, 252, 0.12), transparent 34rem),
+    linear-gradient(135deg, #fbfbff 0%, #f4f7ff 45%, #fbfdff 100%);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.card {
+  @apply rounded-2xl border border-white/80 bg-white/90 shadow-soft;
+}
+
+.subtle-card {
+  @apply rounded-xl border border-slate-100 bg-white/75;
+}
+
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-vault-purple/40 focus:ring-offset-2;
+}

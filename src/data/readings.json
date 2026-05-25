@@ -1,0 +1,5 @@
+[
+  {"id":1,"title":"A Productive Morning at Work","level":"A2","day":1,"content":"Mina arrives at the office at 8:30. She checks her schedule, reads new emails, and prepares a short report. Before lunch, she attends a meeting with her team. They make a decision about a client request and set a deadline for Friday.","vocabulary":["schedule","report","meeting","deadline","request"]},
+  {"id":2,"title":"Changing a Travel Plan","level":"B1","day":4,"content":"Leo has a flight reservation for Monday, but his meeting was delayed. He calls the airline to confirm a new departure time. After that, he updates his itinerary and books accommodation near the conference center.","vocabulary":["reservation","departure","itinerary","accommodation","delayed"]},
+  {"id":3,"title":"Keeping a Monthly Budget","level":"B1","day":6,"content":"A small company reviews its monthly budget every Friday. The finance team compares expenses with revenue and prepares a report for the manager. Their goal is to reduce unnecessary costs and increase profit next quarter.","vocabulary":["budget","expenses","revenue","report","profit"]}
+]
