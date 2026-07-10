@@ -15,6 +15,7 @@ import {
   Sparkles,
   Target,
   TriangleAlert,
+  Keyboard,
 } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { getProgressSnapshot } from "../utils/progress";
@@ -31,6 +32,7 @@ const links = [
   { to: "/quiz", label: "Kiểm tra", icon: Brain },
   { to: "/reading", label: "Reading TOEIC", icon: GraduationCap },
   { to: "/shadowing", label: "Nghe chép chính tả", icon: Headphones },
+  { to: "/typing-test", label: "Typing Test", icon: Keyboard },
   { to: "/ai-coach", label: "AI Coach", icon: Sparkles },
   { to: "/progress", label: "Tiến độ", icon: BarChart3 },
   { to: "/error-log", label: "Error Log", icon: TriangleAlert },

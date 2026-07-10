@@ -15,6 +15,7 @@ import Notebook from "./pages/Notebook.jsx";
 import ErrorLog from "./pages/ErrorLog.jsx";
 import Shadowing from "./pages/Shadowing.jsx";
 import AICoach from "./pages/AICoach.jsx";
+import TypingTest from "./pages/TypingTest.jsx";
 
 export default function App() {
   return (
@@ -33,6 +34,7 @@ export default function App() {
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/reading" element={<Reading />} />
           <Route path="/shadowing" element={<Shadowing />} />
+          <Route path="/typing-test" element={<TypingTest />} />
           <Route path="/ai-coach" element={<AICoach />} />
           <Route path="/progress" element={<Progress />} />
           <Route path="/notebook" element={<Notebook />} />
