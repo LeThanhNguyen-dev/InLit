@@ -17,6 +17,7 @@ import Shadowing from "./pages/Shadowing.jsx";
 import AICoach from "./pages/AICoach.jsx";
 import TypingTest from "./pages/TypingTest.jsx";
 import PomodoroTimer from "./pages/PomodoroTimer.jsx";
+import CheatSheet from "./pages/CheatSheet.jsx";
 
 export default function App() {
   return (
@@ -37,6 +38,7 @@ export default function App() {
           <Route path="/shadowing" element={<Shadowing />} />
           <Route path="/typing-test" element={<TypingTest />} />
           <Route path="/pomodoro" element={<PomodoroTimer />} />
+          <Route path="/cheat-sheet" element={<CheatSheet />} />
           <Route path="/ai-coach" element={<AICoach />} />
           <Route path="/progress" element={<Progress />} />
           <Route path="/notebook" element={<Notebook />} />

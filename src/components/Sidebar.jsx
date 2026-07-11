@@ -17,6 +17,7 @@ import {
   TriangleAlert,
   Keyboard,
   Clock,
+  Copy,
 } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { getProgressSnapshot } from "../utils/progress";
@@ -35,6 +36,7 @@ const links = [
   { to: "/shadowing", label: "Nghe chép chính tả", icon: Headphones },
   { to: "/typing-test", label: "Typing Test", icon: Keyboard },
   { to: "/pomodoro", label: "Pomodoro", icon: Clock },
+  { to: "/cheat-sheet", label: "Cheat Sheet", icon: Copy },
   { to: "/ai-coach", label: "AI Coach", icon: Sparkles },
   { to: "/progress", label: "Tiến độ", icon: BarChart3 },
   { to: "/error-log", label: "Error Log", icon: TriangleAlert },
