@@ -13,6 +13,7 @@ export const STORAGE_KEYS = {
   wordReviews: "englishvault_word_reviews",
   errorLogs: "englishvault_error_logs",
   shadowingSentences: "englishvault_shadowing_sentences",
+  bookmarks: "englishvault_bookmarks",
 };
 
 export const DEFAULT_PROFILE = {

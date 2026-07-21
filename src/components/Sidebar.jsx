@@ -18,6 +18,7 @@ import {
   Keyboard,
   Clock,
   Copy,
+  Bookmark,
 } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { getProgressSnapshot } from "../utils/progress";
@@ -41,6 +42,7 @@ const links = [
   { to: "/progress", label: "Tiến độ", icon: BarChart3 },
   { to: "/error-log", label: "Error Log", icon: TriangleAlert },
   { to: "/notebook", label: "Sổ tay lỗi sai", icon: NotebookPen },
+  { to: "/bookmarks", label: "Bookmarks", icon: Bookmark },
 ];
 
 export default function Sidebar() {

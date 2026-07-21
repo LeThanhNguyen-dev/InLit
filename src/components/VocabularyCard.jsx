@@ -1,6 +1,6 @@
-import { BadgeCheck, BookOpen, Star } from "lucide-react";
+import { BadgeCheck, Bookmark, BookOpen, Star } from "lucide-react";
 
-export default function VocabularyCard({ word, learned, difficult, onLearned, onDifficult }) {
+export default function VocabularyCard({ word, learned, difficult, bookmarked, onLearned, onDifficult, onBookmark }) {
   return (
     <article className="card p-5">
       <div className="flex items-start justify-between gap-3">
@@ -28,6 +28,9 @@ export default function VocabularyCard({ word, learned, difficult, onLearned, on
         </button>
         <button onClick={() => onDifficult(word.id)} className={`focus-ring flex flex-1 items-center justify-center gap-2 rounded-xl px-3 py-2 text-sm font-bold ${difficult ? "bg-amber-100 text-amber-700" : "bg-slate-100 text-vault-ink"}`}>
           <Star size={17} /> Từ khó
+        </button>
+        <button onClick={() => onBookmark?.(word.id)} className={`focus-ring flex items-center justify-center gap-2 rounded-xl px-3 py-2 text-sm font-bold ${bookmarked ? "bg-vault-purple text-white" : "bg-slate-100 text-vault-ink"}`}>
+          <Bookmark size={17} />
         </button>
       </div>
     </article>

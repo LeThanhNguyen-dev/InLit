@@ -18,6 +18,7 @@ import AICoach from "./pages/AICoach.jsx";
 import TypingTest from "./pages/TypingTest.jsx";
 import PomodoroTimer from "./pages/PomodoroTimer.jsx";
 import CheatSheet from "./pages/CheatSheet.jsx";
+import Bookmarks from "./pages/Bookmarks.jsx";
 
 export default function App() {
   return (
@@ -39,6 +40,7 @@ export default function App() {
           <Route path="/typing-test" element={<TypingTest />} />
           <Route path="/pomodoro" element={<PomodoroTimer />} />
           <Route path="/cheat-sheet" element={<CheatSheet />} />
+          <Route path="/bookmarks" element={<Bookmarks />} />
           <Route path="/ai-coach" element={<AICoach />} />
           <Route path="/progress" element={<Progress />} />
           <Route path="/notebook" element={<Notebook />} />

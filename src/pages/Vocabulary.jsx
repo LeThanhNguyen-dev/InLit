@@ -12,6 +12,7 @@ export default function Vocabulary() {
   const [group, setGroup] = useState("All");
   const learned = getArray(STORAGE_KEYS.learnedWords);
   const difficult = getArray(STORAGE_KEYS.difficultWords);
+  const bookmarks = getArray(STORAGE_KEYS.bookmarks);
   const topics = ["All", ...new Set(vocabulary.map((word) => word.topic))];
   const levels = ["All", ...new Set(vocabulary.map((word) => word.level))];
   const days = ["All", ...new Set(vocabulary.map((word) => word.day))];
@@ -87,7 +88,7 @@ export default function Vocabulary() {
       </div>
       <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
         {filtered.map((word) => (
-          <VocabularyCard key={word.id} word={word} learned={learned.includes(word.id)} difficult={difficult.includes(word.id)} onLearned={(id) => toggle(STORAGE_KEYS.learnedWords, id)} onDifficult={(id) => toggle(STORAGE_KEYS.difficultWords, id)} />
+          <VocabularyCard key={word.id} word={word} learned={learned.includes(word.id)} difficult={difficult.includes(word.id)} bookmarked={bookmarks.includes(word.id)} onLearned={(id) => toggle(STORAGE_KEYS.learnedWords, id)} onDifficult={(id) => toggle(STORAGE_KEYS.difficultWords, id)} onBookmark={(id) => toggle(STORAGE_KEYS.bookmarks, id)} />
         ))}
       </div>
     </div>
