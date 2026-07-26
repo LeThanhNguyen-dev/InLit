@@ -222,3 +222,22 @@ export const exportVaultData = () => {
     data,
   };
 };
+
+export const importVaultData = (json) => {
+  if (!json || json.app !== "EnglishVault") {
+    return { ok: false, error: "File không phải EnglishVault backup." };
+  }
+  const validKeys = Object.values(STORAGE_KEYS);
+  let count = 0;
+  for (const [key, value] of Object.entries(json.data ?? {})) {
+    if (!validKeys.includes(key)) continue;
+    if (value === null || value === undefined) {
+      localStorage.removeItem(key);
+    } else {
+      localStorage.setItem(key, JSON.stringify(value));
+    }
+    count++;
+  }
+  window.dispatchEvent(new Event("englishvault-storage"));
+  return { ok: true, count };
+};

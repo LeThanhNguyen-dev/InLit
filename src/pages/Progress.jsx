@@ -1,15 +1,17 @@
-import { BarChart3, BookOpen, Brain, CalendarCheck, Clock, FileText, Star, Target, TriangleAlert } from "lucide-react";
+import { BarChart3, BookOpen, Brain, CalendarCheck, Clock, FileText, Star, Target, TriangleAlert, Upload } from "lucide-react";
 import PartCard from "../components/PartCard.jsx";
 import ProfilePanel from "../components/ProfilePanel.jsx";
 import ProgressRing from "../components/ProgressRing.jsx";
 import StatCard from "../components/StatCard.jsx";
 import WeeklyBarChart from "../components/WeeklyBarChart.jsx";
 import { getProgressSnapshot } from "../utils/progress";
-import { addPartSession, exportVaultData } from "../utils/storage";
-import { useState } from "react";
+import { addPartSession, exportVaultData, importVaultData } from "../utils/storage";
+import { useRef, useState } from "react";
 
 export default function Progress() {
   const [version, setVersion] = useState(0);
+  const [importMsg, setImportMsg] = useState(null);
+  const fileRef = useRef(null);
   const snapshot = getProgressSnapshot();
   const practice = (partId) => {
     addPartSession(partId, 10);
@@ -25,12 +27,39 @@ export default function Progress() {
     link.click();
     URL.revokeObjectURL(url);
   };
+  const handleImport = (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const json = JSON.parse(reader.result);
+        const result = importVaultData(json);
+        if (result.ok) {
+          setImportMsg(`Khôi phục thành công ${result.count} mục. Đang tải lại...`);
+          setTimeout(() => setVersion((v) => v + 1), 600);
+        } else {
+          setImportMsg(result.error);
+        }
+      } catch {
+        setImportMsg("File không hợp lệ.");
+      }
+      setTimeout(() => setImportMsg(null), 4000);
+    };
+    reader.readAsText(file);
+    e.target.value = "";
+  };
 
   return (
     <div className="space-y-6">
       <header className="flex flex-wrap items-end justify-between gap-4">
         <div><h1 className="text-3xl font-black">Tiến độ</h1><p className="text-vault-muted">Momentum, điểm dự đoán, lỗi sai và Part yếu nhất của bạn.</p></div>
-        <button onClick={exportData} className="focus-ring rounded-xl bg-vault-purple px-5 py-3 font-bold text-white">Xuất backup</button>
+        <div className="flex items-center gap-3">
+          {importMsg && <span className="text-sm font-semibold text-vault-purple">{importMsg}</span>}
+          <input ref={fileRef} type="file" accept=".json" className="hidden" onChange={handleImport} />
+          <button onClick={() => fileRef.current?.click()} className="focus-ring flex items-center gap-2 rounded-xl border border-vault-purple/30 bg-white px-5 py-3 font-bold text-vault-purple hover:bg-vault-purple/5"><Upload size={18} />Nhập backup</button>
+          <button onClick={exportData} className="focus-ring rounded-xl bg-vault-purple px-5 py-3 font-bold text-white">Xuất backup</button>
+        </div>
       </header>
 
       <div className="grid gap-5 lg:grid-cols-[320px_1fr]">
