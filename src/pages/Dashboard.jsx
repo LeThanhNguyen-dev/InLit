@@ -2,6 +2,7 @@ import { BarChart3, BookOpen, Brain, Calendar, FileText, Headphones, Keyboard, L
 import { Link } from "react-router-dom";
 import ProgressRing from "../components/ProgressRing.jsx";
 import StatCard from "../components/StatCard.jsx";
+import StudyCalendar from "../components/StudyCalendar.jsx";
 import TaskList from "../components/TaskList.jsx";
 import WeeklyBarChart from "../components/WeeklyBarChart.jsx";
 import vocabulary from "../data/vocabulary.json";
@@ -295,6 +296,7 @@ export default function Dashboard() {
             <WeeklyBarChart height={192} />
           </div>
         </div>
+        <StudyCalendar />
         <div className="grid grid-cols-2 gap-3">
           <StatCard icon={Trophy} value={snapshot.quizScores.length} label="Bài quiz" />
           <StatCard icon={Target} value={snapshot.difficultWords.length} label="Từ khó" bg="bg-amber-50" color="text-amber-600" />
